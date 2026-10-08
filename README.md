@@ -1,8 +1,10 @@
-# News for 2026-10-08 19:22
+# News for 2026-10-08 21:26
 
 Previous day: [2026-10-07](./data/2026-10-07.md)
 
 ## ua.korrespondent.net
+20:15 [У ЗСУ готують зміни: 169-й навчальний центр отримав нового начальника](https://ua.korrespondent.net/ukraine/4918494-u-zsu-hotuuit-zminy-169-y-navchalnyi-tsentr-otrymav-novoho-nachalnyka)<br>
+19:26 [Google запустила безкоштовний сервіс для перевірки контенту на ШІ](https://ua.korrespondent.net/tech/technews/4918479-Google-zapustyla-bezkoshtovnyi-servis-dlia-perevirky-kontentu-na-shi)<br>
 19:00 [Київське метро відновило рух: КМДА попередила про зміни](https://ua.korrespondent.net/city/kiev/4918469-kyivske-metro-vidnovylo-rukh-kmda-poperedyla-pro-zminy)<br>
 18:09 [Синоптики озвучили прогноз на жовтень](https://ua.korrespondent.net/ukraine/4918454-synoptyky-ozvuchyly-prohnoz-na-zhovten)<br>
 17:59 [Свята 8 жовтня 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4918429-sviata-8-zhovtnia-2026-roku-istoriia-tradytsii)<br>
@@ -39,6 +41,7 @@ Previous day: [2026-10-07](./data/2026-10-07.md)
 00:40 [Мадуро та його дружині висунуть нові звинувачення - CNN](https://ua.korrespondent.net/world/4918205-maduro-ta-yoho-druzhyni-vysunut-novi-zvynuvachennia-CNN)<br>
 
 ## as.com
+20:43 [El milagro de Joan Peñarroya](https://as.com/baloncesto/euroliga/el-milagro-de-joan-penarroya-f202610-n/)<br>
 16:20 [“Cinco de mis jugadores se precipitaron al vacío en un ascensor”](https://as.com/baloncesto/mas_baloncesto/cinco-de-mis-jugadores-se-precipitaron-al-vacio-en-un-ascensor-f202610-n/)<br>
 12:11 [La NBA y la FIBA no retiran la mano](https://as.com/baloncesto/nba/la-nba-y-la-fiba-no-retiran-la-mano-f202610-n/)<br>
 11:40 [El quién es quién del baloncesto europeo](https://as.com/baloncesto/euroliga/el-quien-es-quien-del-baloncesto-europeo-f202610-n/)<br>
@@ -51,6 +54,10 @@ Previous day: [2026-10-07](./data/2026-10-07.md)
 06:51 [El resurgir de Begoña de Santiago](https://as.com/baloncesto/mas_baloncesto/el-resurgir-de-begona-de-santiago-f202610-n/)<br>
 
 ## www.elperiodico.com
+20:12 [Una entidad ecologista advierte del riesgo de tapón en la desembocadura del Besòs tras las lluvias](https://www.elperiodico.com/es/fotos/sociedad/entidad-ecologista-advierte-riesgo-tapon-135153104)<br>
+20:00 [El radar de Meteocat suma 6,5 millones de consultas en una semana marcada por las lluvias torrenciales en Catalunya](https://www.elperiodico.com/es/sociedad/20261008/radar-meteocat-visitas-semana-lluvias-temporal-135143784)<br>
+19:40 [Así son los nuevos drones Geran rusos: motores a reacción para vulnerar las defensas ucranianas](https://www.elperiodico.com/es/internacional/20261008/son-nuevos-drones-geran-rusos-135152188)<br>
+19:27 [La embocadura del puente ferroviario de Sant Adrià de Besòs continúa completamente obstruida por los restos arrastrados durante la crecida del río Besòs](https://www.elperiodico.com/es/videos/sociedad/embocadura-puente-ferroviario-sant-adria/135151877.shtml)<br>
 19:11 [Muere a los 60 años el Gitano de Balaguer](https://www.elperiodico.com/es/ocio-y-cultura/20261008/muere-60-anos-gitano-balaguer-135151168)<br>
 19:02 [Sitges 2026: Burnin’ Percebes convierten a Drácula en un señor de Barcelona con ganas de morirse](https://www.elperiodico.com/es/ocio-y-cultura/20261008/sitges-2026-burnin-percebes-la-muerte-de-dracula-135150231)<br>
 18:51 [El cementerio de Roques Blanques se convierte en el primero de España que permite enterrar las cenizas de las mascotas con sus dueños](https://www.elperiodico.com/es/sociedad/20261008/cementerio-roques-blanques-permitira-enterrar-mascotas-entierro-duenos-135150446)<br>
