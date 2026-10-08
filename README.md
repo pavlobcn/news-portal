@@ -1,8 +1,16 @@
-# News for 2026-10-08 15:35
+# News for 2026-10-08 16:43
 
 Previous day: [2026-10-07](./data/2026-10-07.md)
 
 ## ua.korrespondent.net
+16:18 [ЗСУ уразили ретранслятор Mesh-мережі](https://ua.korrespondent.net/ukraine/4918423-zsu-urazyly-retransliator-Mesh-merezhi)<br>
+16:09 [Уряд визначив тариф на світло для населення](https://ua.korrespondent.net/business/economics/4918421-uriad-vyznachyv-taryf-na-svitlo-dlia-naselennia)<br>
+15:59 [На Миколаївщині від удару дрона постраждали двоє дітей](https://ua.korrespondent.net/ukraine/4918415-na-mykolaivschyni-vid-udaru-drona-postrazhdaly-dvoie-ditei)<br>
+15:55 [FOREX 2026 UKRAINE: Джордан Белфорт онлайн, червона ікра та фуршет у трьох](https://ua.korrespondent.net/business/4918403-FOREX-2026-UKRAINE-dzhordan-belfort-onlain-chervona-ikra-ta-furshet-u-trokh)<br>
+15:41 [Генштаб заявив про масштабні втрати РФ у зоні Азову](https://ua.korrespondent.net/ukraine/4918405-henshtab-zaiavyv-pro-masshtabni-vtraty-rf-u-zoni-azovu)<br>
+15:23 [Наводив ракети на ППО Одещини: агента ФСб ув'язнили на 15 років](https://ua.korrespondent.net/ukraine/4918400-navodyv-rakety-na-ppo-odeschyny-ahenta-fsb-uviaznyly-na-15-rokiv)<br>
+15:18 [Не просто агресор: Нідерланди назвали Росію ворогом](https://ua.korrespondent.net/world/4918397-ne-prosto-ahresor-niderlandy-nazvaly-rosiui-vorohom)<br>
+14:00 [У Києві зросла кількість загиблих після атаки РФ](https://ua.korrespondent.net/city/kiev/4918365-u-kyievi-zrosla-kilkist-zahyblykh-pislia-ataky-rf)<br>
 11:48 [Влучання в магазин у Києві: є загиблі і поранені](https://ua.korrespondent.net/city/kiev/4918317-vluchannia-v-mahazyn-u-kyievi-ye-zahybli-i-poraneni)<br>
 11:44 [На Київщині погіршилася якість повітря: де ситуація найгірша](https://ua.korrespondent.net/ukraine/4918315-na-kyivschyni-pohirshylasia-yakist-povitria-de-sytuatsiia-naihirsha)<br>
 11:25 [Дезертир повернувся із СЗЧ, щоб шпигувати для росіян](https://ua.korrespondent.net/ukraine/4918302-dezertyr-povernuvsia-iz-szch-schob-shpyhuvaty-dlia-rosiian)<br>
@@ -27,6 +35,7 @@ Previous day: [2026-10-07](./data/2026-10-07.md)
 00:40 [Мадуро та його дружині висунуть нові звинувачення - CNN](https://ua.korrespondent.net/world/4918205-maduro-ta-yoho-druzhyni-vysunut-novi-zvynuvachennia-CNN)<br>
 
 ## as.com
+16:20 [“Cinco de mis jugadores se precipitaron al vacío en un ascensor”](https://as.com/baloncesto/mas_baloncesto/cinco-de-mis-jugadores-se-precipitaron-al-vacio-en-un-ascensor-f202610-n/)<br>
 12:11 [La NBA y la FIBA no retiran la mano](https://as.com/baloncesto/nba/la-nba-y-la-fiba-no-retiran-la-mano-f202610-n/)<br>
 11:40 [El quién es quién del baloncesto europeo](https://as.com/baloncesto/euroliga/el-quien-es-quien-del-baloncesto-europeo-f202610-n/)<br>
 10:54 [Los 2′ de Aday Mara que han revolucionado Estados Unidos: es una exhibición de otro mundo](https://as.com/baloncesto/videos/los-2-de-aday-mara-que-han-revolucionado-estados-unidos-es-una-exhibicion-de-otro-mundo-f202610-v/)<br>
@@ -38,6 +47,19 @@ Previous day: [2026-10-07](./data/2026-10-07.md)
 06:51 [El resurgir de Begoña de Santiago](https://as.com/baloncesto/mas_baloncesto/el-resurgir-de-begona-de-santiago-f202610-n/)<br>
 
 ## www.elperiodico.com
+16:33 [Estos son los cinco libros de Anne Carson, Premio Nobel de Literatura 2026, que tienes que leer](https://www.elperiodico.com/es/videos/ocio-y-cultura/son-cinco-libros-anne-carson-nobel/135144824.shtml)<br>
+16:31 [Bernat (40 años), de ganar más de 4.000 euros al mes a vivir en la montaña: "Yo puedo estar dos o tres meses sin ver ni un euro"](https://www.elperiodico.com/es/economia/20261008/vive-aislado-cabana-bosque-narcotrafico-supermercado-gasolinera-bernat-dv-et-133808630)<br>
+16:30 [Interceptan a un conductor con 16 kilos de cocaína escondidos en el coche cerca de la frontera](https://www.elperiodico.com/es/sociedad/20261008/interceptan-conductor-16-kilos-cocaina-135144712)<br>
+16:10 [Un vídeo ecologista advierte del riesgo de tapón en la desembocadura del Besòs tras las lluvias: "Limpien ya"](https://www.elperiodico.com/es/barcelona/20261008/video-ecologista-advierte-riesgo-tapon-135142364)<br>
+16:08 [La irrupción de una masa de aire polar provocará una caída de hasta 8 grados en los termómetros](https://www.elperiodico.com/es/videos/sociedad/irrupcion-masa-aire-polar-provocara/135143751.shtml)<br>
+16:07 [La española Securitize ‘tokenizará’ las acciones de 12 gigantes de Wall Street, entre ellos Apple y Nvidia](https://www.elperiodico.com/es/economia/20261008/securitize-tokenizara-acciones-12-gigantes-wall-street-apple-nvidia-135143758)<br>
+16:02 [Mataró rehabilitará una guardería municipal tras su cierre por deficiencias estructurales](https://www.elperiodico.com/es/barcelona/20261008/mataro-rehabilitara-guarderia-municipal-cierre-135136233)<br>
+15:59 [La irrupción de una masa de aire polar provocará una caída de hasta 8 grados en los termómetros](https://www.elperiodico.com/es/fotos/sociedad/irrupcion-masa-aire-polar-provocara-135143409)<br>
+15:49 [La Fundació "la caixa" desembarca en el Gulbenkian con el artista João Maria Gusmão como comisario de una curiosa muestra](https://www.elperiodico.com/es/ocio-y-cultura/20261008/fundacio-caixa-desembarca-gulbenkian-artista-135120489)<br>
+15:45 [Crítica de 'Naza': la terrible facilidad de un genocidio](https://www.elperiodico.com/es/ocio-y-cultura/20261008/critica-documental-naza-genocidio-135136086)<br>
+15:44 [Cinco años de humedades en una 'escola bressol’ junto al Park Güell: cubos, trapos y una brigada que acude a fregar](https://www.elperiodico.com/es/barcelona/20261008/cinco-anos-humedades-escola-bressol-gat-negre-horta-park-guell-barcelona-carmel-135103374)<br>
+15:42 [La irrupción de una masa de aire polar provocará una caída de hasta 8 grados en los termómetros en las próximas horas](https://www.elperiodico.com/es/sociedad/20261008/masa-aire-polar-bajada-temperaturas-135141833)<br>
+15:41 [La Fundació Miró vindica a la diseñadora Charlotte Perriand mucho mas allá de su trabajo con Le Corbusier y como modelo de vida](https://www.elperiodico.com/es/ocio-y-cultura/20261008/exposicion-charlotte-perriand-en-la-fundacio-miro-de-barcelona-135133169)<br>
 15:18 [Leandre Ribera, Premio Nacional de Circo 2026](https://www.elperiodico.com/es/ocio-y-cultura/20261008/leandre-ribera-premio-nacional-circo-135142120)<br>
 15:01 [El Supremo confirma que los jubilados anticipados por un despido colectivo involuntario pueden cobrar el complemento por hijos](https://www.elperiodico.com/es/economia/20261008/supremo-jubilados-anticipados-despido-colectivo-involuntario-derecho-cobrar-complemento-hijos-dv-135139258)<br>
 15:00 [Gerard Piqué (39 años), sobre sus propiedades: "Tengo la gran suerte de tener una casa en la Cerdanya. Lo que me hace más feliz es ir, encender el fuego, comer fuet y no hacer nada. No necesito nada más en la vida"](https://www.elperiodico.com/es/gente/20261008/gerard-pique-39-anos-propiedades-entrevista-dv-et-135137573)<br>
