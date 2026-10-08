@@ -1,6 +1,7 @@
-# News for 2026-10-08 02:19
+# News for 2026-10-08 03:06
 
 Previous day: [2026-10-07](./data/2026-10-07.md)
 
 ## ua.korrespondent.net
+02:45 [Чуму в РФ могли спричинити експерименти з біозброєю - Atlantic Council](https://ua.korrespondent.net/world/4918215-chumu-v-rf-mohly-sprychynyty-eksperymenty-z-biozbroieui-Atlantic-Council)<br>
 00:58 [Чума в Росії: США перевіряють авіарейси з Сибіру](https://ua.korrespondent.net/world/4918207-chuma-v-rosii-ssha-pereviriauit-aviareisy-z-sybiru)<br>
