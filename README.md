@@ -1,8 +1,13 @@
-# News for 2026-10-08 04:55
+# News for 2026-10-08 08:14
 
 Previous day: [2026-10-07](./data/2026-10-07.md)
 
 ## ua.korrespondent.net
+07:44 [РФ вдарила по 26 населених пунктах Сумщини: є загиблі](https://ua.korrespondent.net/ukraine/4918243-rf-vdaryla-po-26-naselenykh-punktakh-sumschyny-ye-zahybli)<br>
+07:26 [У Прилуках зросла кількість жертв після удару РФ](https://ua.korrespondent.net/ukraine/4918240-u-prylukakh-zrosla-kilkist-zhertv-pislia-udaru-rf)<br>
+06:57 [Генштаб назвав втрати Росії за добу](https://ua.korrespondent.net/ukraine/4918237-henshtab-nazvav-vtraty-rosii-za-dobu)<br>
+06:38 [970 ударів за добу: РФ масовано атакувала Запорізьку область](https://ua.korrespondent.net/city/zaporozhye/4918232-970-udariv-za-dobu-rf-masovano-atakuvala-zaporizku-oblast)<br>
+06:19 [SpaceX шукає $40 млрд на чипи Nvidia: що задумав Маск](https://ua.korrespondent.net/business/companies/4918230-SpaceX-shukaie-40-mlrd-na-chypy-Nvidia-scho-zadumav-mask)<br>
 04:44 [ЗМІ повідомили про рекордну кількість атак на танкери в Ормузі](https://ua.korrespondent.net/business/economics/4918224-zmi-povidomyly-pro-rekordnu-kilkist-atak-na-tankery-v-ormuzi)<br>
 03:39 [США замовили додаткову партію ударних FPV-дронів в Україні](https://ua.korrespondent.net/world/worldabus/4918219-ssha-zamovyly-dodatkovu-partiui-udarnykh-FPV-droniv-v-ukraini)<br>
 02:58 [У Росії уражено важливий для ВПК завод - соцмережі](https://ua.korrespondent.net/world/russia/4918217-u-rosii-urazheno-vazhlyvyi-dlia-vpk-zavod-sotsmerezhi)<br>
@@ -10,7 +15,23 @@ Previous day: [2026-10-07](./data/2026-10-07.md)
 00:58 [Чума в Росії: США перевіряють авіарейси з Сибіру](https://ua.korrespondent.net/world/4918207-chuma-v-rosii-ssha-pereviriauit-aviareisy-z-sybiru)<br>
 00:40 [Мадуро та його дружині висунуть нові звинувачення - CNN](https://ua.korrespondent.net/world/4918205-maduro-ta-yoho-druzhyni-vysunut-novi-zvynuvachennia-CNN)<br>
 
+## as.com
+06:56 [“El baloncesto ha sido mi compañero de vida”](https://as.com/baloncesto/mas_baloncesto/el-baloncesto-ha-sido-mi-companero-de-vida-f202610-n/)<br>
+06:53 [Real Madrid - Partizán: horario, TV, cómo y dónde ver la Euroliga 2026-27](https://as.com/baloncesto/euroliga/real-madrid-partizan-horario-tv-como-y-donde-ver-la-euroliga-2026-27-f202610-n/)<br>
+06:53 [Baloncesto Sin Fronteras hace historia estrenando una nueva cancha: El Espinillo](https://as.com/baloncesto/mas_baloncesto/baloncesto-sin-fronteras-hace-historia-estrenando-una-nueva-cancha-el-espinillo-f202610-n/)<br>
+06:51 [Elijah Bryant amenaza el récord del Valencia](https://as.com/baloncesto/euroliga/elijah-bryant-amenaza-el-record-del-valencia-f202610-n/)<br>
+06:51 [El resurgir de Begoña de Santiago](https://as.com/baloncesto/mas_baloncesto/el-resurgir-de-begona-de-santiago-f202610-n/)<br>
+
 ## www.elperiodico.com
+07:20 [La dura vida de una familia aislada a más de 1.500 metros de altura: mucho frío, lluvia, un terreno muy complicado y trabajo constante con el ganado](https://www.elperiodico.com/es/economia/20261008/familia-aislada-montana-1500-metros-rural-ganaderia-clima-extremo-dv-et-135090352)<br>
+07:00 [Aparece en el Mediterráneo español un extraño sistema similar a un ciclón tropical: "No no son minihuracanes ni medicanes. Entramos en territorio desconocido"](https://www.elperiodico.com/es/medio-ambiente/20261008/aparece-mediterraneo-espanol-extrano-sistema-135121377)<br>
+06:01 [Un estudio asocia el duelo prolongado con un peor rendimiento cognitivo en personas mayores](https://www.elperiodico.com/es/ser-feliz/20261008/estudio-asocia-duelo-prolongado-peor-134917282)<br>
+06:01 [El uso intensivo de las paradas de fábricas como ‘salvavidas’ del sistema eléctrico amenaza con disparar su coste en el recibo de luz](https://www.elperiodico.com/es/economia/20261008/precio-luz-paradas-fabricas-industria-red-electrica-recibo-luz-135112033)<br>
+06:00 [Diez años de Bizum: de pagos instantáneos al arma de Bruselas para ganar soberanía estratégica](https://www.elperiodico.com/es/economia/20261008/diez-anos-bizum-pagos-instantaneos-135120501)<br>
+06:00 [Bizum Pay ya está en el 75% de los terminales, pero el pequeño comercio aún no sabe si le compensa activarlo](https://www.elperiodico.com/es/economia/20261008/bizum-pay-tres-cada-cuatro-tpv-pequeno-comercio-no-sabe-si-compensa-135120500)<br>
+06:00 [Maria José Valiente, psicóloga: "Perdonar hace más bien al que perdona que al que es perdonado"](https://www.elperiodico.com/es/ser-feliz/20261008/maria-jose-valiente-psicologa-perdonar-135017303)<br>
+05:30 [Guerra Ucrania - Rusia, última hora en directo](https://www.elperiodico.com/es/internacional/20261008/guerra-ucrania-rusia-ultima-hora-126605559)<br>
+05:28 [Guerra de Irán, en directo | Última hora](https://www.elperiodico.com/es/internacional/20261008/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713)<br>
 04:50 [Carolina Solé: "En mi casa no había televisión, la soledad me condujo a la lectura"](https://www.elperiodico.com/es/ocio-y-cultura/libros/20261008/carolina-sole-casa-habia-television-134789091)<br>
 04:50 ['Leche de silencio', de Socorro Venegas: hablar madre](https://www.elperiodico.com/es/ocio-y-cultura/libros/20261008/socorro-venegas-critica-libro-leche-silencio-134758626)<br>
 04:50 [María del Mar Tomás, microbióloga, sobre la peste pulmonar en Rusia: "Es una enfermedad grave, pero hay que estar tranquilos"](https://www.elperiodico.com/es/salud/20261008/maria-mar-tomas-microbiologa-peste-pulmonar-rusia-tranquilos-135120236)<br>
