@@ -1,5 +1,68 @@
 [
   {
+    "title": "Carolina Solé: \"En mi casa no había televisión, la soledad me condujo a la lectura\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20261008/carolina-sole-casa-habia-television-134789091",
+    "pubDate": "2026-10-08 04:50:07",
+    "category": "",
+    "description": "<h2>Dio un giro completo a su vida: de empresaria urbana a payesa. Vendió todo y ha rehabilitado una masía que ha convertido en un centro de cultivo de frutos rojos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "'Leche de silencio', de Socorro Venegas: hablar madre",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20261008/socorro-venegas-critica-libro-leche-silencio-134758626",
+    "pubDate": "2026-10-08 04:50:07",
+    "category": "",
+    "description": "<h2>En este libro, mezcla de memorias, dietario, ensayo y biografía, la autora se pregunta, con disgusto y asombro, por qué de niña no llegó a aprender el náhuatl </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "María del Mar Tomás, microbióloga, sobre la peste pulmonar en Rusia: \"Es una enfermedad grave, pero hay que estar tranquilos\"",
+    "link": "https://www.elperiodico.com/es/salud/20261008/maria-mar-tomas-microbiologa-peste-pulmonar-rusia-tranquilos-135120236",
+    "pubDate": "2026-10-08 04:50:07",
+    "category": "",
+    "description": "<h2>La doctora María del Mar Tomás recalca que la peste pulmonar es una enfermedad grave pero tratable con antibióticos si se administra el tratamiento necesario en las primeras 48 horas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "ЗМІ повідомили про рекордну кількість атак на танкери в Ормузі",
+    "link": "https://ua.korrespondent.net/business/economics/4918224-zmi-povidomyly-pro-rekordnu-kilkist-atak-na-tankery-v-ormuzi",
+    "pubDate": "2026-10-08 04:44:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590147.jpg\">Експорт нафти з Перської затоки все ж перевищив довоєнні рівні протягом половини вересня, попри атаки, пише Reuters.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Трамп \"роздає\" американцям гроші перед виборами - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4918221-tramp-rozdaie-amerykantsiam-hroshi-pered-vyboramy-zmi",
+    "pubDate": "2026-10-08 03:57:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590112.jpg\">Президент США вже пропонував виплачувати по 5000 доларів усім повнолітнім громадянам, за умови \"вдержання\" Конгресу республіканцями.",
+    "topic": "вибори",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "США замовили додаткову партію ударних FPV-дронів в Україні",
+    "link": "https://ua.korrespondent.net/world/worldabus/4918219-ssha-zamovyly-dodatkovu-partiui-udarnykh-FPV-droniv-v-ukraini",
+    "pubDate": "2026-10-08 03:39:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590099.jpeg\">Виробничі потужності F-Drones дають змогу виконувати додаткові замовлення без шкоди для постачання дронів на фронт.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Росії уражено важливий для ВПК завод - соцмережі",
+    "link": "https://ua.korrespondent.net/world/russia/4918217-u-rosii-urazheno-vazhlyvyi-dlia-vpk-zavod-sotsmerezhi",
+    "pubDate": "2026-10-08 02:58:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590072.jpg\">Обладнання підприємства Саста використовується в оборонній, авіакосмічній, транспортній та важкій промисловості РФ.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Чуму в РФ могли спричинити експерименти з біозброєю - Atlantic Council",
     "link": "https://ua.korrespondent.net/world/4918215-chumu-v-rf-mohly-sprychynyty-eksperymenty-z-biozbroieui-Atlantic-Council",
     "pubDate": "2026-10-08 02:45:00",
@@ -52,6 +115,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4589989.jpg\">Нові звинувачення стосуються незаконних утримань понад десятка громадян США у венесуельських в'язницях, зазначають джерела.",
     "topic": "політика",
     "topic_match_probability": 90
+  },
+  {
+    "title": "Мадуро та його дружині висунуть нові звинувачення - CNN",
+    "link": "https://ua.korrespondent.net/world/4918205-maduro-ta-yoho-druzhyni-vysunut-novi-zvynuvachennia-CNN",
+    "pubDate": "2026-10-08 00:40:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4589989.jpg\">Нові звинувачення стосуються незаконних утримань понад десятка громадян США у венесуельських в'язницях, зазначають джерела.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Prime Day 2026 en Amazon: estos han sido los productos más vendidos y los que se han quedado sin stock",
