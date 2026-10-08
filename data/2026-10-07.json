@@ -1,5 +1,14 @@
 [
   {
+    "title": "Удар по будинку в Києві: в ДСНС повідомили деталі",
+    "link": "https://ua.korrespondent.net/city/kiev/4918203-udar-po-budynku-v-kyievi-v-dsns-povidomyly-detali",
+    "pubDate": "2026-10-07 23:59:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4589959.jpg\">Дрон поцілив у житлову дванадцятиповерхівку на рівні 10-го поверху, але вогонь поширився на верхні поверхи.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
     "title": "La portada de EL PERIÓDICO del 8 de octubre de 2026",
     "link": "https://www.elperiodico.com/es/sociedad/20261007/portada-periodico-8-octubre-2026-135118837",
     "pubDate": "2026-10-07 23:58:58",
@@ -99,6 +108,15 @@
     "topic_match_probability": 95
   },
   {
+    "title": "Атака РФ на Київ: спалахнула багатоповерхівка",
+    "link": "https://ua.korrespondent.net/city/kiev/4918197-ataka-rf-na-kyiv-spalakhnula-bahatopoverkhivka",
+    "pubDate": "2026-10-07 22:31:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4589912.jpg\">Загоряння сталося в 12-поверховому будинку в Деснянському районі; вогонь зафіксували на рівні 10 поверху.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
     "title": "En imágenes | El homenaje a Maricarmen, convertida en símbolo de la lucha por la vivienda tras su desahucio",
     "link": "https://www.elperiodico.com/es/fotos/sociedad/ambiente-homenaje-maricarmen-convertida-simbolo-135117627",
     "pubDate": "2026-10-07 22:23:13",
@@ -171,6 +189,24 @@
     "topic_match_probability": 100
   },
   {
+    "title": "Вчені зафіксували швидше зростання захворюваності на рак серед молоді",
+    "link": "https://ua.korrespondent.net/tech/4918192-vcheni-zafiksuvaly-shvydshe-zrostannia-zakhvoruivanosti-na-rak-sered-molodi",
+    "pubDate": "2026-10-07 21:46:00",
+    "category": "Наука та медицина",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4589877.jpg\">Дослідження даних Англії, США та Нідерландів виявило суттєве збільшення кількості випадків семи видів раку серед людей віком до 50 років.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Роналду визнав велич Мессі: португалець увінчав лаврами аргентинця",
+    "link": "https://ua.korrespondent.net/sport/football/4918190-ronaldu-vyznav-velych-messi-portuhalets-uvinchav-lavramy-arhentyntsia",
+    "pubDate": "2026-10-07 21:41:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4589861.jpg\">Кріштіану Роналду в коментарях до прощального звернення Мессі до своїх уболівальників залишив свій захоплений коментар.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Un millar de personas marchan en Madrid de Sol al Congreso por la muerte de Maricarmen",
     "link": "https://www.elperiodico.com/es/economia/20261007/sindicatos-ratifican-madrid-huelga-general-135116536",
     "pubDate": "2026-10-07 21:39:18",
@@ -187,6 +223,24 @@
     "description": "<h2>La mujer de 87 años ha fallecido en el Hospital Gregorio Marañón dos semanas después de su desalojo, un suceso que ha provocado una profunda conmoción en todo el país</h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Renault готує електричне відродження мінівена Espace",
+    "link": "https://ua.korrespondent.net/lifestyle/motors/4918188-Renault-hotuie-elektrychne-vidrodzhennia-minivena-Espace",
+    "pubDate": "2026-10-07 21:37:00",
+    "category": "Автомобілі",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4589873.jpg\">Концепт E-Space стане сучасною електричною інтерпретацією легендарного мінівена 1980-х років і може перетворитися на серійну модель уже через два роки.",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Війна на Близькому Сході. Онлайн",
+    "link": "https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain",
+    "pubDate": "2026-10-07 21:35:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473659.jpg\">США та Ізраїль проводять масштабну операцію проти Ірану. Тегеран у відповідь атакує військові об'єкти США майже у всіх країнах Перської затоки.",
+    "topic": "політика",
+    "topic_match_probability": 95
   },
   {
     "title": "Венс озвучив головну вимогу США до Ірану",
@@ -259,6 +313,24 @@
     "description": "<h2 class=\"item\">El propietario del turismo constaba como desaparecido desde agosto</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sucesos/20261007/mossos-investigan-muerte-hombre-encontrado-coche-tunel-inundado-franqueses-135097696\">El temporal deja ya tres muertos: aparece el cadáver de un hombre en su coche en un túnel inundado en Les Franqueses del Vallès</a></h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Вторгнення Росії в Україну. Онлайн",
+    "link": "https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain",
+    "pubDate": "2026-10-07 21:06:00",
+    "category": "Новини політики",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/2748609.jpg\">Володимир Путін почав повномасштабну війну проти України 24 лютого 2022 року. Не зумівши \"взяти Київ за три дні\", він сконцентрувався на захопленні Донбасу та південних областей України.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Porsche зосередиться на люксових авто",
+    "link": "https://ua.korrespondent.net/business/auto/4918184-Porsche-zoseredytsia-na-luiksovykh-avto",
+    "pubDate": "2026-10-07 21:04:00",
+    "category": "Авто новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4589849.jpg\">Німецький автовиробник прагне знизити точку беззбитковості до менш ніж 200 тис. автомобілів на рік.",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
   },
   {
     "title": "El horóscopo de mañana, jueves 8 de octubre: amor, trabajo, dinero y salud para todos los signos del zodíaco",
