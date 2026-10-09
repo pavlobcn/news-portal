@@ -1,5 +1,419 @@
 [
   {
+    "title": "Julia Baird asegura que sabe más sobre John Lennon en Almería que sobre su vida en Liverpool",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261009/julia-baird-asegura-john-lennon-135187388",
+    "pubDate": "2026-10-09 18:25:59",
+    "category": "",
+    "description": "<h2>La alcaldesa de Almería recibe a la hermana de John Lennon en un acto institucional que incluye la plantación de un peral en los jardines donde paseó el artista hace seis décadas</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "China y la UE alcanzan acuerdos sobre vehículos híbridos y tierras raras que alejan la perspectiva de una guerra comercial",
+    "link": "https://www.elperiodico.com/es/internacional/20261009/china-ue-alcanzan-acuerdos-vehiculos-hibridos-tierras-raras-alejan-guerra-comercial-135187560",
+    "pubDate": "2026-10-09 18:25:45",
+    "category": "",
+    "description": "<h2>El comisario de Comercio, Maros Sefcovic, avisa de que aunque se trata de un \"paso crucial\", aún se está \"muy lejos del final\"</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Конгресмени США хочуть переконати Маска розширити для України Starlink",
+    "link": "https://ua.korrespondent.net/world/4918791-konhresmeny-ssha-khochut-perekonaty-maska-rozshyryty-dlia-ukrainy-Starlink",
+    "pubDate": "2026-10-09 18:24:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591404.jpg\">Питання використання системи для українських далекобійних дронів на території РФ залишається предметом переговорів.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Detenido en Montenegro el fundador de un potente canal de Telegram proKremlin vinculado a la inteligencia de Rusia",
+    "link": "https://www.elperiodico.com/es/internacional/20261009/detenido-montenegro-fundador-potente-canal-135187406",
+    "pubDate": "2026-10-09 18:22:25",
+    "category": "",
+    "description": "<h2>El canal Rybar posee cerca de 1,3 millones de seguidores, ofrece informaciones del estado del frente y es citado frecuentemente por medios y 'think tanks' occidentales</h2><h2>Sus principales responsables habían sido sancionados en EEUU por participar en campañas de injerencia rusa antes de elecciones en el país norteamericano</h2>",
+    "topic": "блогери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Junts y el partido de Marta Pascal se presentarán en coalición a las elecciones generales",
+    "link": "https://www.elperiodico.com/es/politica/20261009/junts-partido-marta-pascal-acuerdan-presentarse-elecciones-generales-135186488",
+    "pubDate": "2026-10-09 18:15:04",
+    "category": "",
+    "description": "<h2 class=\"item\">El Partit Nacionalista Català tendrá un representante en la ejecutiva de posconvergente y dos miembros en el Consell Nacional</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261009/puigdemont-regreso-parlament-cataluna-135105984\" target=\"_blank\">Puigdemont deberá regresar al Parlament cuando se le aplique la amnistía total o podría ser sancionado</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "США запровадили санкції проти МКС",
+    "link": "https://ua.korrespondent.net/world/4918785-ssha-zaprovadyly-sanktsii-proty-mks",
+    "pubDate": "2026-10-09 18:13:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591388.jpg\">Рішення оголосили через кілька годин після того, як колишня суддя МКС Наванетхем \"Наві\" Піллей отримала Нобелівську премію миру.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "La nueva Nobel de la Paz bromea con entregar su galardón a Trump",
+    "link": "https://www.elperiodico.com/es/internacional/20261009/nueva-nobel-paz-bromea-entregar-premio-trump-135186602",
+    "pubDate": "2026-10-09 18:05:15",
+    "category": "",
+    "description": "<h2>\"Muchas gracias, si aplaudís un poco más, puede que comparta este premio con Trump\", dijo la jurista de la Corte Penal Internacional al llegar a una rueda de prensa en Núremberg </h2>",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "El juez cita como investigado al directivo de Quirón implicado en un presunto soborno de González Amador",
+    "link": "https://www.elperiodico.com/es/politica/20261009/juez-cita-investigado-directivo-quiron-soborno-gonzalez-amador-135186537",
+    "pubDate": "2026-10-09 18:03:46",
+    "category": "",
+    "description": "<h2>La pareja de Ayuso pagó medio millón de euros a la esposa de Fernando Camino por una empresa sin apenas activos que luego usó presuntamente para evadir impuestos</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Заволодіння 800 млн грн кредиту НБУ: який вирок отримав фігурант",
+    "link": "https://ua.korrespondent.net/ukraine/4918789-zavolodinnia-800-mln-hrn-kredytu-nbu-yakyi-vyrok-otrymav-fihurant",
+    "pubDate": "2026-10-09 18:03:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591395.jpg\">Директору компанії призначили 8 років ув’язнення, конфіскацію майна та штраф, а також зобов’язали відшкодувати НБУ понад 503 млн грн.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Sánchez sella la legislatura menos productiva y se convierte en el presidente qué más reales decretos ha aprobado",
+    "link": "https://www.elperiodico.com/es/politica/20261009/elecciones-generales-sanchez-legislatura-menos-leyes-decretos-135175308",
+    "pubDate": "2026-10-09 18:00:58",
+    "category": "",
+    "description": "<h2>El Gobierno ha logrado aprobar 79 normas en los últimos tres años, incluidas dos reformas de la Constitución</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Un \"error humano\" impide que el modo de adelantamiento esté disponible en la SQ1 en Singapur",
+    "link": "https://www.elperiodico.com/es/deportes/20261009/error-humano-impide-adelantamiento-disponible-135185598",
+    "pubDate": "2026-10-09 17:54:56",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Tres heridos en la visita de Luis de la Fuente a un mural de la selección en València",
+    "link": "https://www.elperiodico.com/es/deportes/20261009/tres-heridos-visita-luis-fuente-135185589",
+    "pubDate": "2026-10-09 17:49:17",
+    "category": "",
+    "description": "<h2>La caída de una farola durante el acto hirió a un hombre y dos mujeres</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Keri Russell explica por qué no quiere casarse con Matthew Rhys tras 13 años de relación",
+    "link": "https://www.elperiodico.com/es/gente/20261009/keri-russell-explica-quiere-casarse-135185477",
+    "pubDate": "2026-10-09 17:44:02",
+    "category": "",
+    "description": "<h2>\"Es más sexy porque nadie tiene garantizado que la otra persona vaya a quedarse para siempre\", ha confesado la protagonista de 'La diplomática'</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Зеленський: Естонія може отримати українську зброю",
+    "link": "https://ua.korrespondent.net/ukraine/4918783-zelenskyi-estoniia-mozhe-otrymaty-ukrainsku-zbroui",
+    "pubDate": "2026-10-09 17:39:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591387.jpg\">Україна та Естонія готують новий пакет експорту української зброї. Отримані кошти планують спрямувати на посилення оборони, зокрема закупівлю систем ППО.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Укренерго продовжило відключення на суботу",
+    "link": "https://ua.korrespondent.net/ukraine/4918781-ukrenerho-prodovzhylo-vidkluichennia-na-subotu",
+    "pubDate": "2026-10-09 17:37:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591386.jpg\">Ситуація в енергосистемі може змінюватися, тож, графіки можуть коригуватися протягом доби.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El expríncipe Andrés recibe 356.000 euros de indemnización por dejar la mansión de Windsor",
+    "link": "https://www.elperiodico.com/es/gente/20261009/exprincipe-andres-recibe-356-000-135185074",
+    "pubDate": "2026-10-09 17:34:21",
+    "category": "",
+    "description": "<h2>La compensación económica responde a las cláusulas del contrato de arrendamiento de la propiedad, que ahora pasará a manos del Patrimonio de la Corona para generar ingresos públicos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Séniors al rescate de los cines: los martes de dos euros para mayores de 65 años triunfan",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261009/cine-senior-entradas-a-dos-euros-los-martes-135164350",
+    "pubDate": "2026-10-09 17:24:51",
+    "category": "",
+    "description": "<h2 class=\"item\">La medida del Ministerio de Cultura no solo estimula a los veteranos a salir de casa, sino que tiene un impacto notable en la asistencia a los cines</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Más de 470 monumentos, museos y actividades gratis este fin de semana en Catalunya: la lista y el mapa de las Jornades Europees de Patrimoni",
+    "link": "https://www.elperiodico.com/es/catalunya/20261009/puertas-abiertas-cultural-catalunya-joranadas-europeas-patrimonio-museos-actividades-dv-135173213",
+    "pubDate": "2026-10-09 17:24:02",
+    "category": "",
+    "description": "<h2>Desde hoy y hasta el domingo podrás disfrutar de visitas guiadas, talleres, conciertos y otras propuestas gratuitas por todo el territorio</h2><h2><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20261006/museu-egipci-luce-nuevo-sorprendente-135030697\" >El Museu Egipci luce un nuevo y sorprendente conjunto funerario de hace 2.500 años</a></h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20261008/que-hacer-barcelona-mejores-planes-semana-agenda-102304377\" >Qué hacer esta semana en Barcelona: los mejores planes</a></h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Австрія розслідує \"шпигунство\" українців: Ткач розкрив деталі допиту",
+    "link": "https://ua.korrespondent.net/world/4918779-avstriia-rozsliduie-shpyhunstvo-ukraintsiv-tkach-rozkryv-detali-dopytu",
+    "pubDate": "2026-10-09 17:22:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591378.jpg\">Журналіст Михайло Ткач розповів, які звинувачення почув під час допиту, а австрійські ЗМІ повідомили про арешт ще двох громадян України.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Trump impone nuevas sanciones a la Corte Penal Internacional tras el anuncio del Nobel de la Paz a la exjueza Navi Pillay",
+    "link": "https://www.elperiodico.com/es/internacional/20261009/eeuu-impone-sanciones-corte-penal-internacional-premio-nobel-paz-jurista-navi-pillay-135184808",
+    "pubDate": "2026-10-09 17:20:50",
+    "category": "",
+    "description": "<h2>El tribunal rechaza la medida y la califica de \"ataque al Estado de derecho\" con el objetivo de \"perturbar\" su funcionamiento e \"intimidar\" a sus trabajadores</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Україні відшкодували з-за кордону €700 тис. у корупційній справі",
+    "link": "https://ua.korrespondent.net/ukraine/4918777-ukraini-vidshkoduvaly-z-za-kordonu-700-tys-u-koruptsiinii-spravi",
+    "pubDate": "2026-10-09 17:18:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591371.jpg\">Мовиться про справу щодо заволодіння коштами ДП Поліграфкомбінат при виробництві паспортів громадян України та інших документів.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Port de Tarragona estrecha lazos con puertos franceses e italianos para avanzar en el desarrollo de la eólica marina",
+    "link": "https://www.elperiodico.com/es/tarragona/20261009/port-tarragona-puertos-francia-italia-eolica-marina-flotante-135184353",
+    "pubDate": "2026-10-09 17:17:02",
+    "category": "",
+    "description": "<h2 class=\"item\">En el marco de un congreso internacional, se ha celebrado un encuentro con puertos del Mediterráneo occidental para compartir experiencias, alinear perspectivas y buscar vías de colaboración</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tarragona/20260506/port-tarragona-24-millones-energia-eolica-flotante-mediterraneo-129926055\">El Port de Tarragona recibe 24 millones para convertir el Moll de Balears en un hub de la energía eólica flotante</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tarragona/20251010/port-tarragona-exhibe-mejor-ubicacion-122483751\">El Port de Tarragona se proyecta como \"la mejor ubicación\" para la energía eólica flotante en el Mediterráneo</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Перший крок у професію: Done долучилася до Fintech Job Fair в Україні",
+    "link": "https://ua.korrespondent.net/business/4918436-pershyi-krok-u-profesiui-Done-doluchylasia-do-Fintech-Job-Fair-v-ukraini",
+    "pubDate": "2026-10-09 17:14:00",
+    "category": "Новини бізнесу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590608.jpg\">\r\n17 березня 2026 року Done долучилася до Fintech Job Fair у київському IQ Business Center.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Emilio (28 años) vive en un contenedor de 14 metros cuadrados y gasta solo 20 euros al mes: \"He tenido que aprender de todo\"",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20261009/emilio-28-anos-vive-contenedor-135184438",
+    "pubDate": "2026-10-09 17:11:13",
+    "category": "",
+    "description": "<h2>Rechazó la idea de asumir una hipoteca durante décadas y se construyó él mismo un hogar en plena montaña con una inversión inicial de unos 1.600 euros</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La reina Letizia apuesta por una atención especializada en salud mental accesible y universal",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/reina-letizia-apuesta-atencion-especializada/135184045.shtml",
+    "pubDate": "2026-10-09 17:01:56",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "В Україні запроваджують нові правила паркування для водіїв із дітьми",
+    "link": "https://ua.korrespondent.net/ukraine/4918772-v-ukraini-zaprovadzhuuit-novi-pravyla-parkuvannia-dlia-vodiiv-iz-ditmy",
+    "pubDate": "2026-10-09 17:01:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591370.jpg\">Водії, які перевозять дітей віком до трьох років, зможуть користуватися спеціально позначеними паркомісцями. Для цього автомобіль потрібно буде маркувати, а вік дитини - підтверджувати документом.",
+    "topic": "автомобілі",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Флеш показав \"оновлення\" на російських шахедах",
+    "link": "https://ua.korrespondent.net/ukraine/4918771-flesh-pokazav-onovlennia-na-rosiiskykh-shakhedakh",
+    "pubDate": "2026-10-09 16:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591366.jpg\">Російські безпілотники, якими атакують Київ, оснащують новими захищеними антенами супутникової навігації на 32 елементи замість попередніх 16.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Ayuntamiento de Tarragona incluirá coches y edificios abandonados en el recuento anual de personas sin hogar",
+    "link": "https://www.elperiodico.com/es/tarragona/20261009/tarragona-incluira-coches-edificios-abandonados-recuento-personas-sin-hogar-135183668",
+    "pubDate": "2026-10-09 16:55:49",
+    "category": "",
+    "description": "<h2>El recuento se amplía a vehículos y aparcamientos y busca alcanzar los 100 voluntarios en su séptima edición</h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Si no sois capaces de uniros, marchaos",
+    "link": "https://www.elperiodico.com/es/opinion/20261009/capaces-uniros-marchaos-izquierda-articulo-ernest-folch-135183569",
+    "pubDate": "2026-10-09 16:52:39",
+    "category": "",
+    "description": "<h2>Está a punto de entrar por la puerta un monstruo que va a cargarse todo el sistema social, económico y hasta moral que se construyó después de la dictadura</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261009/colau-podemos-iu-frente-amplio-135149302\">La vía Colau, el encaje de Podemos y la representación de IU en riesgo: Frente Amplio apura sus negociaciones</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Скандал навколо Нобелівської премії миру: деталі",
+    "link": "https://ua.korrespondent.net/world/4918762-skandal-navkolo-nobelivskoi-premii-myru-detali",
+    "pubDate": "2026-10-09 16:50:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591357.jpg\">Колишня суддя Міжнародного кримінального суду Наві Піллей отримала Нобелівську премію миру за 2026 рік.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Verstappen da otro recital y se lleva la pole sprint en Singapur; Alonso saldrá 15º y Sainz, último",
+    "link": "https://www.elperiodico.com/es/deportes/20261009/verstappen-da-recital-lleva-pole-135183346",
+    "pubDate": "2026-10-09 16:47:28",
+    "category": "",
+    "description": "<h2>Max Verstappen, en estado de gracia tras su victoria en Sepang el pasado domingo, ha dado una exhibición para anotarse la pole sprint en Singapur, por delante de Russell y Leclerc. Alonso lo ha intentado todo en su última vuelta de la SQ2, pero Aston Martin no ha estado a la altura de lo esperado y el asturiano arrancará mañana 15º en parrilla. Sainz lo hará en última posición</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Інфляція в Україні сягнула психологічної межі",
+    "link": "https://ua.korrespondent.net/business/economics/4918768-infliatsiia-v-ukraini-siahnula-psykholohichnoi-mezhi",
+    "pubDate": "2026-10-09 16:47:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591358.jpg\">На споживчому ринку ціни на продукти харчування зросли на 1,9%. Найбільше подорожчали яйця.",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Los accionistas minoritarios de Grifols reclaman a la farmacéutica recomprar ya Haema y BPC a Sacranton",
+    "link": "https://www.elperiodico.com/es/economia/20261009/accionistas-minoritarios-grifols-reclaman-farmaceutica-venta-haema-bpc-scranton-135182414",
+    "pubDate": "2026-10-09 16:45:26",
+    "category": "",
+    "description": "<h2>La asociación que representa a los inversores no profesionales de la compañía ve en esta operación la única forma de \"acallar definitivamente cualquier duda\" y conseguir que el precio de la acción suba</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260728/grifols-eleva-28-beneficios-primer-132895543\" target=\"_blank\">Grifols eleva un 28% sus beneficios en el primer semestre, pese a reducir ligeramente sus ingresos</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Москву атакують дрони, в аеропортах - план Килим",
+    "link": "https://ua.korrespondent.net/world/russia/4918766-moskvu-atakuuit-drony-v-aeroportakh-plan-kylym",
+    "pubDate": "2026-10-09 16:44:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591356.jpg\">Паралізовано роботу усіх чотирьох московських аеропортів. Очевидці повідомляють про роботу ППО.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "13-річна дівчинка народила дитину після зґвалтування: винесено вирок",
+    "link": "https://ua.korrespondent.net/ukraine/4918765-13-richna-divchynka-narodyla-dytynu-pislia-zgvaltuvannia-vyneseno-vyrok",
+    "pubDate": "2026-10-09 16:43:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591355.jpg\">На Кіровоградщині суд призначив максимальне покарання чоловікові, який зґвалтував 13-річну дівчинку, а згодом став батьком її дитини. Його вину підтвердили, зокрема, результатами генетичної експертизи.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El incendio en una nave industrial de Santa Coloma de Queralt evoluciona favorablemente y se levanta el confinamiento de la población",
+    "link": "https://www.elperiodico.com/es/sociedad/20261009/bombers-trabajan-incendio-nave-industrial-santa-coloma-de-queralt-tarragona-135183050",
+    "pubDate": "2026-10-09 16:39:07",
+    "category": "",
+    "description": "<h2 class=\"item\">Los Bombers de la Generalitat trabajan en la extinción con 11 dotaciones</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Christiane Jatahy revisita ‘La señorita Julia’ de Strindberg 15 años después con Júlia Genís y Moha Amazian",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261009/christiane-jatahy-revisita-senorita-julia-135183058",
+    "pubDate": "2026-10-09 16:32:19",
+    "category": "",
+    "description": "<h2>Jatahy estrenó su primera versión de ‘Júlia’ en Brasil en 2011,<strong> a partir de una reinterpretación libre de ‘La señorita Julia’</strong>, escrita por Strindberg a finales del siglo XIX. Dos años después, el montaje llegó a Europa de la mano de Temporada Alta, que ahora ha impulsado, junto con el Teatre Lliure, esta nueva lectura de la obra</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Pet Shop Boys convierte en monumento orquestal la vida del genio matemático Alan Turing",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261009/pet-shop-boys-alan-turing-disco-135182153",
+    "pubDate": "2026-10-09 16:21:53",
+    "category": "",
+    "description": "<h2 class=\"item\">El dúo británico se distancia de la pista de baile con 'A Man From The Future', homenaje musicado al malogrado padre de la computación moderna </h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Міненерго назвало енергодефіцитні регіони",
+    "link": "https://ua.korrespondent.net/ukraine/4918757-minenerho-nazvalo-enerhodefitsytni-rehiony",
+    "pubDate": "2026-10-09 16:14:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591342.jpg\">Наразі енергосистема тимчасово втратила частину можливостей передавати електроенергію споживачам.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Banco de España estima que en 2028 se entregarán más 140.000 viviendas, la cifra más alta en 17 años",
+    "link": "https://www.elperiodico.com/es/economia/20261009/banco-espana-estima-2028-entregaran-140000-viviendas-cifra-alta-17-anos-135182584",
+    "pubDate": "2026-10-09 16:13:45",
+    "category": "",
+    "description": "<h2 style=\"text-align: justify;\">El organismo aún así mantiene su previsión de que hará falta un millón de inmuebles para ese año y evalúa efectos de los decretos del Gobierno</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las primeras viviendas protegidas de Badalona en 20 años tendrán precios de hasta 240.000 euros para venta",
+    "link": "https://www.elperiodico.com/es/barcelona/20261009/primeras-viviendas-protegidas-badalona-20-anos-precios-240000-euros-venta-135181588",
+    "pubDate": "2026-10-09 16:13:13",
+    "category": "",
+    "description": "<h2>El Ayuntamiento ha licitado además una segunda promoción de 19 pisos de alquiler social</h2><h2>CONTEXTO | <a href=\"https://www.elperiodico.com/es/barcelona/20261001/badalona-anuncia-construccion-772-viviendas-solo-130-en-can-colomer-134872929\" target=\"_blank\">Badalona aprueba la construcción de 772 viviendas de las que solo 130 se levantarán en la zona rural de Can Colomer</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "На НПЗ поблизу Афін стався вибух, є постраждалі",
+    "link": "https://ua.korrespondent.net/world/4918756-na-npz-poblyzu-afin-stavsia-vybukh-ye-postrazhdali",
+    "pubDate": "2026-10-09 16:11:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591339.jpg\">Вибух стався під час масштабних ремонтних робіт на підприємстві, розташованому за 60 км від Афін.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "У Росії різко зросли затримки авіарейсів через атаки БПЛА",
+    "link": "https://ua.korrespondent.net/world/russia/4918750-u-rosii-rizko-zrosly-zatrymky-aviareisiv-cherez-ataky-bpla",
+    "pubDate": "2026-10-09 15:59:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591338.jpg\">Лише кожен другий регулярний пасажирський рейс у Росії вилітає за розкладом. За дев’ять місяців 2026 року кількість затримок на кілька годин суттєво зросла порівняно з минулим роком.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Periódico te invita a participar en un nuevo #afterwork con Marta Vidal",
+    "link": "https://www.elperiodico.com/es/afterwork/20261009/periodico-invita-participar-nuevo-afterwork-135182059",
+    "pubDate": "2026-10-09 15:57:09",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Казахстан відпустив затриману на запит Росії українку",
+    "link": "https://ua.korrespondent.net/world/4918747-kazakhstan-vidpustyv-zatrymanu-na-zapyt-rosii-ukrainku",
+    "pubDate": "2026-10-09 15:57:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591337.jpg\">Любов Рожанська, затримана в Астані на запит РФ у зв'язку з підозрою у викраденні дитини, у результаті змогла залишити Казахстан і виїхати в одну з країн ЄС.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Carles Puigdemont y la sombra de Churchill",
+    "link": "https://www.elperiodico.com/es/opinion/20261009/carles-puigdemont-sombra-churchill-pedro-sanchez-articulo-josep-cuni-135181664",
+    "pubDate": "2026-10-09 15:44:56",
+    "category": "",
+    "description": "<h2>El expresident ha celebrado la derrota de la estrategia política y judicial española como si el Alto Tribunal no respondiera a la síntesis de esos dos poderes</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261007/puigdemont-traslada-oficina-distrito-sarria-sant-gervasi-barcelona-135113661\">Puigdemont traslada su oficina de expresident al distrito de Sarrià Sant-Gervasi de Barcelona</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Casi 300.000 personas viven en zonas expuestas a inundaciones en el Himalaya",
     "link": "https://www.elperiodico.com/es/tendencias21/20261009/300-000-personas-viven-zonas-135181621",
     "pubDate": "2026-10-09 15:35:58",

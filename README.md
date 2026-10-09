@@ -1,8 +1,15 @@
-# News for 2026-10-09 15:40
+# News for 2026-10-09 18:27
 
 Previous day: [2026-10-08](./data/2026-10-08.md)
 
 ## ua.korrespondent.net
+17:37 [Укренерго продовжило відключення на суботу](https://ua.korrespondent.net/ukraine/4918781-ukrenerho-prodovzhylo-vidkluichennia-na-subotu)<br>
+17:14 [Перший крок у професію: Done долучилася до Fintech Job Fair в Україні](https://ua.korrespondent.net/business/4918436-pershyi-krok-u-profesiui-Done-doluchylasia-do-Fintech-Job-Fair-v-ukraini)<br>
+16:59 [Флеш показав "оновлення" на російських шахедах](https://ua.korrespondent.net/ukraine/4918771-flesh-pokazav-onovlennia-na-rosiiskykh-shakhedakh)<br>
+16:50 [Скандал навколо Нобелівської премії миру: деталі](https://ua.korrespondent.net/world/4918762-skandal-navkolo-nobelivskoi-premii-myru-detali)<br>
+16:44 [Москву атакують дрони, в аеропортах - план Килим](https://ua.korrespondent.net/world/russia/4918766-moskvu-atakuuit-drony-v-aeroportakh-plan-kylym)<br>
+16:14 [Міненерго назвало енергодефіцитні регіони](https://ua.korrespondent.net/ukraine/4918757-minenerho-nazvalo-enerhodefitsytni-rehiony)<br>
+15:59 [У Росії різко зросли затримки авіарейсів через атаки БПЛА](https://ua.korrespondent.net/world/russia/4918750-u-rosii-rizko-zrosly-zatrymky-aviareisiv-cherez-ataky-bpla)<br>
 15:32 [Шоптенко відповіла хейтерам, які критикують її третій шлюб](https://ua.korrespondent.net/lifestyle/4918725-shoptenko-vidpovila-kheiteram-yaki-krytykuuit-yii-tretii-shluib)<br>
 15:07 [Відомий актор пригадав, як закохався в 15-річну фанатку](https://ua.korrespondent.net/lifestyle/4918716-vidomyi-aktor-pryhadav-yak-zakokhavsia-v-15-richnu-fanatku)<br>
 14:59 [Дні нашого життя: Боклан у новій українській драмі](https://ua.korrespondent.net/showbiz/cinema/4918709-dni-nashoho-zhyttia-boklan-u-novii-ukrainskii-drami)<br>
@@ -41,6 +48,17 @@ Previous day: [2026-10-08](./data/2026-10-08.md)
 06:49 [El “apreciado” Omoruyi regresa a Vitoria con el Besiktas](https://as.com/baloncesto/euroliga/el-apreciado-omoruyi-regresa-a-vitoria-con-el-besiktas-f202610-n/)<br>
 
 ## www.elperiodico.com
+17:54 [Un "error humano" impide que el modo de adelantamiento esté disponible en la SQ1 en Singapur](https://www.elperiodico.com/es/deportes/20261009/error-humano-impide-adelantamiento-disponible-135185598)<br>
+17:34 [El expríncipe Andrés recibe 356.000 euros de indemnización por dejar la mansión de Windsor](https://www.elperiodico.com/es/gente/20261009/exprincipe-andres-recibe-356-000-135185074)<br>
+17:24 [Séniors al rescate de los cines: los martes de dos euros para mayores de 65 años triunfan](https://www.elperiodico.com/es/ocio-y-cultura/20261009/cine-senior-entradas-a-dos-euros-los-martes-135164350)<br>
+17:17 [El Port de Tarragona estrecha lazos con puertos franceses e italianos para avanzar en el desarrollo de la eólica marina](https://www.elperiodico.com/es/tarragona/20261009/port-tarragona-puertos-francia-italia-eolica-marina-flotante-135184353)<br>
+17:11 [Emilio (28 años) vive en un contenedor de 14 metros cuadrados y gasta solo 20 euros al mes: "He tenido que aprender de todo"](https://www.elperiodico.com/es/vida-y-estilo/20261009/emilio-28-anos-vive-contenedor-135184438)<br>
+17:01 [La reina Letizia apuesta por una atención especializada en salud mental accesible y universal](https://www.elperiodico.com/es/videos/sociedad/reina-letizia-apuesta-atencion-especializada/135184045.shtml)<br>
+16:47 [Verstappen da otro recital y se lleva la pole sprint en Singapur; Alonso saldrá 15º y Sainz, último](https://www.elperiodico.com/es/deportes/20261009/verstappen-da-recital-lleva-pole-135183346)<br>
+16:45 [Los accionistas minoritarios de Grifols reclaman a la farmacéutica recomprar ya Haema y BPC a Sacranton](https://www.elperiodico.com/es/economia/20261009/accionistas-minoritarios-grifols-reclaman-farmaceutica-venta-haema-bpc-scranton-135182414)<br>
+16:32 [Christiane Jatahy revisita ‘La señorita Julia’ de Strindberg 15 años después con Júlia Genís y Moha Amazian](https://www.elperiodico.com/es/ocio-y-cultura/20261009/christiane-jatahy-revisita-senorita-julia-135183058)<br>
+16:13 [El Banco de España estima que en 2028 se entregarán más 140.000 viviendas, la cifra más alta en 17 años](https://www.elperiodico.com/es/economia/20261009/banco-espana-estima-2028-entregaran-140000-viviendas-cifra-alta-17-anos-135182584)<br>
+15:57 [El Periódico te invita a participar en un nuevo #afterwork con Marta Vidal](https://www.elperiodico.com/es/afterwork/20261009/periodico-invita-participar-nuevo-afterwork-135182059)<br>
 15:35 [Casi 300.000 personas viven en zonas expuestas a inundaciones en el Himalaya](https://www.elperiodico.com/es/tendencias21/20261009/300-000-personas-viven-zonas-135181621)<br>
 15:31 [Salvar la humanidad](https://www.elperiodico.com/es/deportes/20261009/salvar-humanidad-135181381)<br>
 15:29 [Estos son los títulos de las 10 novelas finalistas de la 75º edición del Premio Planeta 2026](https://www.elperiodico.com/es/ocio-y-cultura/20261009/son-titulos-10-novelas-finalistas-135181150)<br>
