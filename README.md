@@ -1,8 +1,9 @@
-# News for 2026-10-09 19:08
+# News for 2026-10-09 21:01
 
 Previous day: [2026-10-08](./data/2026-10-08.md)
 
 ## ua.korrespondent.net
+19:55 [Apple покаже нові пристрої 13 жовтня](https://ua.korrespondent.net/lifestyle/gadgets/4918809-Apple-pokazhe-novi-prystroi-13-zhovtnia)<br>
 17:37 [Укренерго продовжило відключення на суботу](https://ua.korrespondent.net/ukraine/4918781-ukrenerho-prodovzhylo-vidkluichennia-na-subotu)<br>
 17:14 [Перший крок у професію: Done долучилася до Fintech Job Fair в Україні](https://ua.korrespondent.net/business/4918436-pershyi-krok-u-profesiui-Done-doluchylasia-do-Fintech-Job-Fair-v-ukraini)<br>
 17:11 [Вчені натрапили на дивне явище поблизу ЧАЕС](https://ua.korrespondent.net/tech/science/4918694-vcheni-natrapyly-na-dyvne-yavysche-poblyzu-chaes)<br>
@@ -44,12 +45,25 @@ Previous day: [2026-10-08](./data/2026-10-08.md)
 01:22 [У США анонсували публічний розстріл військового](https://ua.korrespondent.net/world/4918537-u-ssha-anonsuvaly-publichnyi-rozstril-viiskovoho)<br>
 
 ## as.com
+20:58 [Baskonia - Besiktas, en directo: Euroliga, hoy en vivo](https://as.com/baloncesto/euroliga/baskonia-besiktas-en-directo-euroliga-hoy-en-vivo-f202610-n/)<br>
+20:57 [Barcelona - Zalgiris, en directo: Euroliga en vivo hoy](https://as.com/baloncesto/euroliga/barcelona-zalgiris-en-directo-euroliga-en-vivo-hoy-f202610-d/)<br>
+20:56 [El Barça adelanta al Real Madrid](https://as.com/baloncesto/mas_baloncesto/el-barca-adelanta-al-real-madrid-f202610-n/)<br>
+20:09 [En directo, Obradoiro vs Joventut de la jornada 3 de la Liga U 2026-27](https://as.com/baloncesto/videos/en-directo-cb-canarias-vs-basquet-girona-de-la-jornada-3-de-la-liga-u-2026-27-f202610-v/)<br>
 06:54 [De la Alamedilla a la cima de Europa](https://as.com/baloncesto/mas_baloncesto/de-la-alamedilla-a-la-cima-de-europa-f202610-n/)<br>
 06:52 [Barcelona - Zalgiris: horario, TV, cómo y dónde ver la Euroliga 2026-27](https://as.com/baloncesto/euroliga/barcelona-zalgiris-horario-tv-como-y-donde-ver-la-euroliga-2026-27-f202610-n/)<br>
 06:51 [El Barça vuelve al cobijo del Palau](https://as.com/baloncesto/euroliga/el-barca-vuelve-al-cobijo-del-palau-f202610-n/)<br>
 06:49 [El “apreciado” Omoruyi regresa a Vitoria con el Besiktas](https://as.com/baloncesto/euroliga/el-apreciado-omoruyi-regresa-a-vitoria-con-el-besiktas-f202610-n/)<br>
 
 ## www.elperiodico.com
+20:55 [A PIE DE CALLE | Concentración por Olga y Maricarmen: ¡El negocio de la vivienda mata!](https://www.elperiodico.com/es/videos/sociedad/pie-calle-concentracion-olga-maricarmen/135192136.shtml)<br>
+20:36 [Muere el padre del piloto Kristian Daniel en las inundaciones de Les Franqueses del Vallès](https://www.elperiodico.com/es/deportes/20261009/muere-padre-piloto-kristian-daniel-inundaciones-cataluna-135191518)<br>
+20:21 [Registrado un terremoto de magnitud 7,6 en Panamá con alerta de tsunami en Colombia, Ecuador, Guatemala y Nicaragua](https://www.elperiodico.com/es/internacional/20261009/registrado-terremoto-magnitud-7-6-135191379)<br>
+20:03 [Un espectacular tornado sorprende al oeste de Sicilia](https://www.elperiodico.com/es/videos/internacional/espectacular-tornado-sorprende-oeste-sicilia/135190895.shtml)<br>
+20:00 [La Bolsa española borra 85.000 millones de valor desde su récord de agosto por el temor a una crisis de deuda internacional](https://www.elperiodico.com/es/economia/20261009/bolsa-espanola-borra-85-000-135190850)<br>
+19:57 [Penélope Cruz habla sobre las protestas por la vivienda en España](https://www.elperiodico.com/es/videos/ocio-y-cultura/penelope-cruz-habla-protestas-vivienda/135190737.shtml)<br>
+19:54 [Emiratos confirma que el copiloto de Flydubai pretendía un ataque suicida contra un aeropuerto israelí](https://www.elperiodico.com/es/internacional/20261009/emiratos-confirma-copiloto-flydubai-pretendia-atentado-135190673)<br>
+19:12 [La reina Letizia da voz a una angustia cotidiana: "Todos, yo también, conocemos a alguien que no comprende por qué tiene un ataque de pánico"](https://www.elperiodico.com/es/politica/20261009/reina-letizia-da-voz-angustia-ataque-panico-135189480)<br>
+19:10 [Sitges celebra los 50 años de '¿Quién puede matar a un niño?', cima del terror español: "Es una película perfecta"](https://www.elperiodico.com/es/ocio-y-cultura/20261009/sitges-celebra-50-aniversario-quien-puede-matar-a-un-nino-135188432)<br>
 19:01 [Penélope Cruz, sobre la crisis de la vivienda: "No te puedes quedar callado"](https://www.elperiodico.com/es/vivienda/20261009/penelope-cruz-vivienda-crisis-la-bola-negra-dv-et-135183158)<br>
 18:52 [Imágenes de un impresionante tornado marino frente a la costa de Apulia (Italia)](https://www.elperiodico.com/es/videos/internacional/imagenes-impresionante-tornado-marino-frente/135188654.shtml)<br>
 18:39 [Tiempo en Catalunya mañana sábado: las temperaturas repuntan y desaparecen las lluvias](https://www.elperiodico.com/es/tiempo/20261009/tiempo-cataluna-hoy-sabado-10-de-octubre-temperaturas-dv-loc-135185445)<br>
