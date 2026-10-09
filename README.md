@@ -1,11 +1,13 @@
-# News for 2026-10-09 18:27
+# News for 2026-10-09 19:08
 
 Previous day: [2026-10-08](./data/2026-10-08.md)
 
 ## ua.korrespondent.net
 17:37 [Укренерго продовжило відключення на суботу](https://ua.korrespondent.net/ukraine/4918781-ukrenerho-prodovzhylo-vidkluichennia-na-subotu)<br>
 17:14 [Перший крок у професію: Done долучилася до Fintech Job Fair в Україні](https://ua.korrespondent.net/business/4918436-pershyi-krok-u-profesiui-Done-doluchylasia-do-Fintech-Job-Fair-v-ukraini)<br>
+17:11 [Вчені натрапили на дивне явище поблизу ЧАЕС](https://ua.korrespondent.net/tech/science/4918694-vcheni-natrapyly-na-dyvne-yavysche-poblyzu-chaes)<br>
 16:59 [Флеш показав "оновлення" на російських шахедах](https://ua.korrespondent.net/ukraine/4918771-flesh-pokazav-onovlennia-na-rosiiskykh-shakhedakh)<br>
+16:59 [Хто представлятиме Україну на Міс Земля 2026](https://ua.korrespondent.net/lifestyle/4918737-khto-predstavliatyme-ukrainu-na-mis-zemlia-2026)<br>
 16:50 [Скандал навколо Нобелівської премії миру: деталі](https://ua.korrespondent.net/world/4918762-skandal-navkolo-nobelivskoi-premii-myru-detali)<br>
 16:44 [Москву атакують дрони, в аеропортах - план Килим](https://ua.korrespondent.net/world/russia/4918766-moskvu-atakuuit-drony-v-aeroportakh-plan-kylym)<br>
 16:14 [Міненерго назвало енергодефіцитні регіони](https://ua.korrespondent.net/ukraine/4918757-minenerho-nazvalo-enerhodefitsytni-rehiony)<br>
@@ -48,6 +50,9 @@ Previous day: [2026-10-08](./data/2026-10-08.md)
 06:49 [El “apreciado” Omoruyi regresa a Vitoria con el Besiktas](https://as.com/baloncesto/euroliga/el-apreciado-omoruyi-regresa-a-vitoria-con-el-besiktas-f202610-n/)<br>
 
 ## www.elperiodico.com
+19:01 [Penélope Cruz, sobre la crisis de la vivienda: "No te puedes quedar callado"](https://www.elperiodico.com/es/vivienda/20261009/penelope-cruz-vivienda-crisis-la-bola-negra-dv-et-135183158)<br>
+18:52 [Imágenes de un impresionante tornado marino frente a la costa de Apulia (Italia)](https://www.elperiodico.com/es/videos/internacional/imagenes-impresionante-tornado-marino-frente/135188654.shtml)<br>
+18:39 [Tiempo en Catalunya mañana sábado: las temperaturas repuntan y desaparecen las lluvias](https://www.elperiodico.com/es/tiempo/20261009/tiempo-cataluna-hoy-sabado-10-de-octubre-temperaturas-dv-loc-135185445)<br>
 17:54 [Un "error humano" impide que el modo de adelantamiento esté disponible en la SQ1 en Singapur](https://www.elperiodico.com/es/deportes/20261009/error-humano-impide-adelantamiento-disponible-135185598)<br>
 17:34 [El expríncipe Andrés recibe 356.000 euros de indemnización por dejar la mansión de Windsor](https://www.elperiodico.com/es/gente/20261009/exprincipe-andres-recibe-356-000-135185074)<br>
 17:24 [Séniors al rescate de los cines: los martes de dos euros para mayores de 65 años triunfan](https://www.elperiodico.com/es/ocio-y-cultura/20261009/cine-senior-entradas-a-dos-euros-los-martes-135164350)<br>
