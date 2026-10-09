@@ -1,8 +1,14 @@
-# News for 2026-10-09 12:28
+# News for 2026-10-09 15:40
 
 Previous day: [2026-10-08](./data/2026-10-08.md)
 
 ## ua.korrespondent.net
+15:32 [Шоптенко відповіла хейтерам, які критикують її третій шлюб](https://ua.korrespondent.net/lifestyle/4918725-shoptenko-vidpovila-kheiteram-yaki-krytykuuit-yii-tretii-shluib)<br>
+15:07 [Відомий актор пригадав, як закохався в 15-річну фанатку](https://ua.korrespondent.net/lifestyle/4918716-vidomyi-aktor-pryhadav-yak-zakokhavsia-v-15-richnu-fanatku)<br>
+14:59 [Дні нашого життя: Боклан у новій українській драмі](https://ua.korrespondent.net/showbiz/cinema/4918709-dni-nashoho-zhyttia-boklan-u-novii-ukrainskii-drami)<br>
+14:49 [SpaceX  виходить на ринок мобільного зв'язку США](https://ua.korrespondent.net/business/companies/4918722-SpaceX-vykhodyt-na-rynok-mobilnoho-zviazku-ssha)<br>
+14:23 [Принц Гаррі впав у депресію після переїзду з Великобританії](https://ua.korrespondent.net/lifestyle/4918695-prynts-harri-vpav-u-depresiui-pislia-pereizdu-z-velykobrytanii)<br>
+14:13 [У Карпатах температура перевищила рекорд 1985 року](https://ua.korrespondent.net/ukraine/4918707-u-karpatakh-temperatura-perevyschyla-rekord-1985-roku)<br>
 12:22 [У Києві відкрили британський бізнес-центр для оборонних компаній](https://ua.korrespondent.net/business/4918658-u-kyievi-vidkryly-brytanskyi-biznes-tsentr-dlia-oboronnykh-kompanii)<br>
 12:20 [Під виглядом порятунку: РФ вивезла 25 людей з Харківщини](https://ua.korrespondent.net/ukraine/4918655-pid-vyhliadom-poriatunku-rf-vyvezla-25-luidei-z-kharkivschyny)<br>
 12:08 [У КНУ розповіли, в чому цінність участі в європейських грантових проєктах](https://ua.korrespondent.net/ukraine/4918653-u-knu-rozpovily-v-chomu-tsinnist-uchasti-v-yevropeiskykh-hrantovykh-proiektakh)<br>
@@ -35,6 +41,17 @@ Previous day: [2026-10-08](./data/2026-10-08.md)
 06:49 [El “apreciado” Omoruyi regresa a Vitoria con el Besiktas](https://as.com/baloncesto/euroliga/el-apreciado-omoruyi-regresa-a-vitoria-con-el-besiktas-f202610-n/)<br>
 
 ## www.elperiodico.com
+15:35 [Casi 300.000 personas viven en zonas expuestas a inundaciones en el Himalaya](https://www.elperiodico.com/es/tendencias21/20261009/300-000-personas-viven-zonas-135181621)<br>
+15:31 [Salvar la humanidad](https://www.elperiodico.com/es/deportes/20261009/salvar-humanidad-135181381)<br>
+15:29 [Estos son los títulos de las 10 novelas finalistas de la 75º edición del Premio Planeta 2026](https://www.elperiodico.com/es/ocio-y-cultura/20261009/son-titulos-10-novelas-finalistas-135181150)<br>
+15:24 [Juanito, pastor de 71 años que vive a 4.000 metros de altura: "Aquí, mejor, tranquilidad, ni siquiera llegan las enfermedades"](https://www.elperiodico.com/es/economia/20261009/juanito-71-anos-pastor-4000-metros-altura-enfermedades-felices-dv-et-134428910)<br>
+15:15 [Àlex, cerrajero, revela mitos y realidades de puertas y cerraduras: "Si me han ocupado la vivienda, ¿puedo llamar al cerrajero y cambiar la cerradura?"](https://www.elperiodico.com/es/economia/20261009/cerrajero-puertas-cerraduras-radiografias-ocupacion-alex-dv-et-134924469)<br>
+14:54 [Project B: la nueva competición auspiciada por Russell Westbrook que puede revolucionar el baloncesto femenino](https://www.elperiodico.com/es/deportes/20261009/project-b-nueva-competicion-auspiciada-135170418)<br>
+14:36 [El parque fluvial del Besòs reabre a medias este viernes y con los restos de la riada aún por retirar bajo el puente de Rodalies](https://www.elperiodico.com/es/barcelona/20261009/besos-puente-rodalies-parque-fluvial-reabre-135178922)<br>
+13:56 [Las obras del frente fluvial del río Llobregat a su paso por Sant Joan Despí costarán 850.000 euros](https://www.elperiodico.com/es/barcelona/20261009/obras-frente-fluvial-rio-llobregat-sant-joan-despi-costaran-850000-euros-135173300)<br>
+13:16 [Josep Maria Mestres, nuevo director del TNC, impulsa una compañía para jóvenes intérpretes con 12 actores menores de 35 años](https://www.elperiodico.com/es/ocio-y-cultura/20261009/josep-maria-mestres-nuevo-director-135173570)<br>
+13:10 [ABB Robotics construirá un macrocentro de robótica en Sabadell y trasladará allí su sede](https://www.elperiodico.com/es/economia/20261009/abb-robotics-construira-macrocentro-robotica-sabadell-nueva-sede-135169158)<br>
+13:07 [Más de la mitad de las empresas no implementan medidas concretas para abordar la salud mental de sus empleados](https://www.elperiodico.com/es/sanidad/20261009/mitad-empresas-implementan-medidas-concretas-abordar-salud-mental-empleados-135171909)<br>
 12:27 [Un terremoto de magnitud 3,6 hace temblar la comarca de Pamplona](https://www.elperiodico.com/es/sucesos/20261009/terremoto-magnitud-3-6-temblar-135171979)<br>
 12:23 [Anne Carson, la Nobel que repartió dulces a sus fans de Getafe y lanzó una pulla a los españoles: tres días de lluvia, Goya y poesía](https://www.elperiodico.com/es/ocio-y-cultura/20261009/anne-carson-nobel-repartio-dulces-getafe-lanzo-pulla-espanoles-prado-goya-135171767)<br>
 12:17 [Manuel Vilas, escritor: "La España de los 80 era polvorienta y cutre, no daba ni para drogarse "](https://www.elperiodico.com/es/ocio-y-cultura/20261009/manuel-vilas-escritor-espana-80-135170918)<br>
@@ -51,9 +68,11 @@ Previous day: [2026-10-08](./data/2026-10-08.md)
 10:26 [CaixaBank amplía hasta 2033 su alianza con Google Cloud para impulsar el uso de la inteligencia artificial](https://www.elperiodico.com/es/economia/20261009/caixabank-alianza-google-cloud-2033-impulsar-inteligencia-artificial-135166442)<br>
 10:25 [Una pareja de Miami dona 122.401 euros a un pueblo de Asturias para reparar un parque y un camino: "Es un ejemplo de que las raíces no se pierden"](https://www.elperiodico.com/es/sociedad/20261009/pareja-miami-dona-euros-pueblo-asturias-raices-135166214)<br>
 10:11 [La notable mejoría de Pike, la superviviente de dos inyecciones letales en EEUU:  ya camina, come y habla](https://www.elperiodico.com/es/internacional/20261009/mujer-sobrevivio-inyecciones-letales-pike-mejora-come-habla-camina-135165900)<br>
+09:59 [Llucia Ramis, en el videopódcast del suplemento ABRIL: "El problema de la vivienda no sólo afecta a las clases bajas y a los jóvenes"](https://www.elperiodico.com/es/ocio-y-cultura/libros/20261009/llucia-ramis-videopodcast-suplemento-abril-135052588)<br>
 09:36 [De la innovación a los resultados: el desafío empresarial de la IA](https://www.elperiodico.com/es/videos/sostenibilidad-ahorro/innovacion-resultados-desafio-empresarial-ia/135164476.shtml)<br>
 08:26 [El insólito nombre catalán del hijo del cantante de Búhos: funciona para niños y niñas y tan solo hay 22 en Catalunya](https://www.elperiodico.com/es/gente/20261009/nombres-catalanes-catalan-hijo-cantante-buhos-ixent-ivet-dv-loc-135014892)<br>
 08:19 [Así es como se ve la vida sin civilización: Yaroslav (81 años) y Lyuba (83 años) siguen ocupándose de su granja en Ucrania](https://www.elperiodico.com/es/economia/20261009/ancianos-cuidado-granja-finca-animales-cocina-tradicional-ucrania-yaroslav-lyuba-dv-et-135056093)<br>
+06:30 ["No és així com s'ha d'atendre una persona amb deteriorament cognitiu sever"](https://www.elperiodico.com/es/entre-todos/participacion/sanitat-publica-dependencia-pla-cura-alzheimer-carta-lector-xavier-gual-135070281)<br>
 06:01 [Ryanair estrena una ruta inédita a Polonia desde el aeropuerto de Barcelona-El Prat en la programación de invierno](https://www.elperiodico.com/es/economia/20261009/programacion-invierno-ryanair-aeropuerto-barcelona-el-prat-nueva-ruta-polonia-poznan-135149289)<br>
 06:01 [La perfumería de lujo que viste traje de comercio de barrio](https://www.elperiodico.com/es/economia/20261009/perfumerias-facial-perfumeria-lujo-viste-traje-comercio-barrio-134895300)<br>
 06:01 [Siete de cada diez escuelas de Barcelona están expuestas a una contaminación que rebasa el umbral europeo del 2030](https://www.elperiodico.com/es/barcelona/20261009/siete-diez-escuelas-barcelona-expuestas-contaminacion-rebasa-umbral-europeo-2030-135055223)<br>
