@@ -189,6 +189,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Вторгнення Росії в Україну. Онлайн",
+    "link": "https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain",
+    "pubDate": "2026-10-08 21:39:00",
+    "category": "Новини політики",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/2748609.jpg\">Володимир Путін почав повномасштабну війну проти України 24 лютого 2022 року. Не зумівши \"взяти Київ за три дні\", він сконцентрувався на захопленні Донбасу та південних областей України.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Світоліна вперше за п’ять років піднімається в рейтингу WTA на шосте місце",
     "link": "https://ua.korrespondent.net/sport/tenis/4918513-svitolina-vpershe-za-piat-rokiv-pidnimaietsia-v-reitynhu-WTA-na-shoste-mistse",
     "pubDate": "2026-10-08 21:34:00",
@@ -196,6 +205,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590736.jpg\">Світоліна знову опинилася в шістці найкращих тенісисток WTA за результатами виступів на China Open.",
     "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Війна на Близькому Сході. Онлайн",
+    "link": "https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain",
+    "pubDate": "2026-10-08 21:33:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473659.jpg\">США та Ізраїль проводять масштабну операцію проти Ірану. Тегеран у відповідь атакує військові об'єкти США майже у всіх країнах Перської затоки.",
+    "topic": "політика",
+    "topic_match_probability": 90
   },
   {
     "title": "Joan Font (Bon Preu) pide más inversión en Catalunya para que los \"pilares de la sociedad no acaben como Rodalies\"",
