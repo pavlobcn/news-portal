@@ -1,4 +1,4 @@
-# News for 2026-10-09 05:09
+# News for 2026-10-09 08:31
 
 Previous day: [2026-10-08](./data/2026-10-08.md)
 
@@ -9,7 +9,23 @@ Previous day: [2026-10-08](./data/2026-10-08.md)
 01:22 [У США перший за 81 рік розстріл військового зроблять публічним](https://ua.korrespondent.net/world/4918537-u-ssha-pershyi-za-81-rik-rozstril-viiskovoho-zrobliat-publichnym)<br>
 01:22 [У США анонсували публічний розстріл військового](https://ua.korrespondent.net/world/4918537-u-ssha-anonsuvaly-publichnyi-rozstril-viiskovoho)<br>
 
+## as.com
+06:54 [De la Alamedilla a la cima de Europa](https://as.com/baloncesto/mas_baloncesto/de-la-alamedilla-a-la-cima-de-europa-f202610-n/)<br>
+06:52 [Barcelona - Zalgiris: horario, TV, cómo y dónde ver la Euroliga 2026-27](https://as.com/baloncesto/euroliga/barcelona-zalgiris-horario-tv-como-y-donde-ver-la-euroliga-2026-27-f202610-n/)<br>
+06:51 [El Barça vuelve al cobijo del Palau](https://as.com/baloncesto/euroliga/el-barca-vuelve-al-cobijo-del-palau-f202610-n/)<br>
+06:49 [El “apreciado” Omoruyi regresa a Vitoria con el Besiktas](https://as.com/baloncesto/euroliga/el-apreciado-omoruyi-regresa-a-vitoria-con-el-besiktas-f202610-n/)<br>
+
 ## www.elperiodico.com
+08:26 [El insólito nombre catalán del hijo del cantante de Búhos: funciona para niños y niñas y tan solo hay 22 en Catalunya](https://www.elperiodico.com/es/gente/20261009/nombres-catalanes-catalan-hijo-cantante-buhos-ixent-ivet-dv-loc-135014892)<br>
+08:19 [Así es como se ve la vida sin civilización: Yaroslav (81 años) y Lyuba (83 años) siguen ocupándose de su granja en Ucrania](https://www.elperiodico.com/es/economia/20261009/ancianos-cuidado-granja-finca-animales-cocina-tradicional-ucrania-yaroslav-lyuba-dv-et-135056093)<br>
+06:01 [Ryanair estrena una ruta inédita a Polonia desde el aeropuerto de Barcelona-El Prat en la programación de invierno](https://www.elperiodico.com/es/economia/20261009/programacion-invierno-ryanair-aeropuerto-barcelona-el-prat-nueva-ruta-polonia-poznan-135149289)<br>
+06:01 [La perfumería de lujo que viste traje de comercio de barrio](https://www.elperiodico.com/es/economia/20261009/perfumerias-facial-perfumeria-lujo-viste-traje-comercio-barrio-134895300)<br>
+06:01 [Siete de cada diez escuelas de Barcelona están expuestas a una contaminación que rebasa el umbral europeo del 2030](https://www.elperiodico.com/es/barcelona/20261009/siete-diez-escuelas-barcelona-expuestas-contaminacion-rebasa-umbral-europeo-2030-135055223)<br>
+06:00 [Mayte Serrat, psicóloga: "La incertidumbre meteorológica provocará más problemas de salud mental"](https://www.elperiodico.com/es/ser-feliz/20261009/mayte-serrat-psicologa-incertidumbre-meteorologica-alertas-lluvias-135130433)<br>
+06:00 [Las casas de colonias, un sector que mueve 50 millones de euros en Catalunya, al límite por el boicot del profesorado](https://www.elperiodico.com/es/sociedad/20261009/casas-colonias-limite-boicot-profesores-perdida-negocio-puestos-trabajo-134871147)<br>
+06:00 [Colonias sin profesores: empresas de ocio educativo ofrecen a las familias la organización de estas actividades](https://www.elperiodico.com/es/sociedad/20261009/colonias-escolares-empresas-ocio-educativo-oferta-familias-organizacion-salidas-boicot-profesores-cataluna-134877695)<br>
+06:00 [Las familias catalanas se plantan ante el boicot del profesorado a las salidas y colonias: "Las afas no podemos asumir estas actividades"](https://www.elperiodico.com/es/sociedad/20261009/boicot-colonias-profesores-subleva-familias-escuelas-cataluna-derechos-ninos-134836525)<br>
+06:00 [¿Quién ganará hoy el Premio Nobel de la Paz 2026? Así están las quinielas](https://www.elperiodico.com/es/internacional/20261009/premio-nobel-paz-2026-135139076)<br>
 04:50 [La vacuna de la gripe no convence a los mayores: 4 de cada 10 personas de más de 65 años no se vacuna](https://www.elperiodico.com/es/salud/20261009/vacuna-gripe-convence-mayores-4-135160092)<br>
 04:50 [Rafael Azcona nos puso un espejo delante](https://www.elperiodico.com/es/ocio-y-cultura/libros/20261009/rafael-azcona-puso-espejo-delante-134827730)<br>
 04:50 [Geòrgia Olivé, encuadernadora: "Doy más espacio a la creatividad y a la experimentación"](https://www.elperiodico.com/es/ocio-y-cultura/libros/20261009/georgia-olive-encuadernadora-libros-134671030)<br>

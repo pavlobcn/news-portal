@@ -1,5 +1,374 @@
 [
   {
+    "title": "El insólito nombre catalán del hijo del cantante de Búhos: funciona para niños y niñas y tan solo hay 22 en Catalunya",
+    "link": "https://www.elperiodico.com/es/gente/20261009/nombres-catalanes-catalan-hijo-cantante-buhos-ixent-ivet-dv-loc-135014892",
+    "pubDate": "2026-10-09 08:26:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Los datos de 2025 sitúan a Júlia y Biel como los nombres femenino y masculino más elegidos en la comunidad autónoma</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/vida-y-estilo/20250208/nombre-cataluna-fructuos-fructuoso-dv-113949566\" >El nombre catalán que va a desaparecer en Catalunya: solo hay 8 en toda la comunidad</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Elecciones generales en España 2026, en directo: última hora y todas las reacciones a la convocatoria de Sánchez para el 29 de noviembre",
+    "link": "https://www.elperiodico.com/es/politica/20261009/elecciones-generales-espana-2026-pedro-sanchez-ultima-hora-directo-135003267",
+    "pubDate": "2026-10-09 08:22:00",
+    "category": "",
+    "description": "",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El tráfico y el transporte público, en directo",
+    "link": "https://www.elperiodico.com/es/trafico-y-transportes/20261009/trafico-transporte-publico-directo-cortes-134053870",
+    "pubDate": "2026-10-09 08:20:00",
+    "category": "",
+    "description": "",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Así es como se ve la vida sin civilización: Yaroslav (81 años) y Lyuba (83 años) siguen ocupándose de su granja en Ucrania",
+    "link": "https://www.elperiodico.com/es/economia/20261009/ancianos-cuidado-granja-finca-animales-cocina-tradicional-ucrania-yaroslav-lyuba-dv-et-135056093",
+    "pubDate": "2026-10-09 08:19:30",
+    "category": "",
+    "description": "<h2>El hombre se encarga del cuidado de los animales y su mujer, de cocinar de forma tradicional</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260915/adaptacion-antigua-casa-rural-ucrania-lavadora-agua-huerto-ivan-dv-et-133739556\" >La adaptación de Ivan en una antigua casa rural en los Montes Cárpatos: \"Siempre hay mucho trabajo en la tierra, pero es agradable ver cómo todo cobra vida poco a poco\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261005/vida-autosuficiente-campo-bienes-materiales-cultivos-felicidad-libertad-italia-franco-dv-et-134401948\" >Franco, agricultor que dejó la ciudad para volver al campo: “Yo como de mi huerto, mi supermercado es el jardín”</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Comunidad Valenciana: casi la mitad de los ciudadanos suspenden la gestión del gobierno y oposición",
+    "link": "https://www.elperiodico.com/es/politica/20261009/comunidad-valenciana-mitad-ciudadanos-suspenden-135163096",
+    "pubDate": "2026-10-09 08:14:37",
+    "category": "",
+    "description": "<h2>Solo uno de cada diez encuestados asegura haber notado el cambio al frente de la Generalitat un año después de la llegada de Llorca tras la dimisión de Mazón</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Encuesta de Prensa Ibérica para la Comunidad Valenciana: El PP se recupera tras la salida de Mazón y mantendría una mayoría sólida con Vox",
+    "link": "https://www.elperiodico.com/es/politica/20261009/comunidad-valenciana-pp-recupera-salida-135163095",
+    "pubDate": "2026-10-09 08:13:23",
+    "category": "",
+    "description": "<h2 class=\"item\">La formación encabezada ahora por Pérez Llorca lograría 41 escaños (uno más que en 2023) y sumaría 54 con la ultraderecha  </h2><h2 class=\"item\">El PSPV de Morant es el partido que más crece, pero no le valdría para recuperar la Generalitat por el retroceso de Compromís</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Tráfico en Barcelona, en directo: última hora de Rodalies, carreteras y operación salida del 12 de octubre",
+    "link": "https://www.elperiodico.com/es/barcelona/20261009/trafico-rodalies-directo-trenes-carreteras-lluvias-133938712",
+    "pubDate": "2026-10-09 08:11:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/barcelona/20260930/barcelona-redisenara-cuatro-grandes-accesos-aliviar-atascos-134836777\" target=\"_blank\">Barcelona rediseñará sus accesos por la Diagonal, la Gran Via y la Ronda Litoral para reducir atascos</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Consumo multa con 750.000 euros al youtuber TheGrefg por la rifa de un coche de lujo sin autorización",
+    "link": "https://www.elperiodico.com/es/economia/20261009/consumo-multa-750-000-euros-135162924",
+    "pubDate": "2026-10-09 08:00:08",
+    "category": "",
+    "description": "<h2>La Dirección General de Consumo desestima el recurso de EBR Management SLU tras confirmar que la rifa de un coche de lujo carecía de la autorización administrativa legalmente exigida</h2>",
+    "topic": "блогери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Carlos Santos: \"No se entienden las luces de un artista como Raphael sin las sombras\"",
+    "link": "https://www.elperiodico.com/es/tele/20261009/carlos-santos-raphael-serie-netflix-aquel-135016709",
+    "pubDate": "2026-10-09 08:00:07",
+    "category": "",
+    "description": "<h2 class=\"item\">El actor da vida al mito de la canción en la serie de Netflix 'Aquel', que se estrena este viernes</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/20260930/series-estrenos-octubre-2026-netflix-disney-hb-prime-video-movistar-filmin-3cat-apple-skyshowtime-134581324\">Las 12 series que no te puedes perder este octubre</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Reacciones a la muerte de Maricarmen, en directo | Última hora de la acampada por la vivienda, protestas y huelga general",
+    "link": "https://www.elperiodico.com/es/politica/20261009/acampada-sol-desahucio-maricarmen-protestas-decreto-vivienda-ultima-hora-directo-barcelona-plaza-cataluna-134724337",
+    "pubDate": "2026-10-09 08:00:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20261005/elecciones-generales-espana-2026-pedro-sanchez-ultima-hora-directo-135003267\" target=\"_blank\">Aquí, las elecciones del 29 de noviembre, al minuto.</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Lucho RK, cantante: \"Con este disco sé que vamos a llenar los sitios a los que vayamos\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261009/lucho-rk-cantante-disco-llenar-135162793",
+    "pubDate": "2026-10-09 07:40:35",
+    "category": "",
+    "description": "<h2>Es una de las figuras emergentes más prometedoras del panorama urbano en España. El grancanario Lucho RK lanza su primer disco, 'Sordo de un pie', con el que catapulta su carrera a todos los niveles</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Mini lleva al Countryman más allá del asfalto con la nueva edición Untamed",
+    "link": "https://www.elperiodico.com/es/motor/20261009/mini-countryman-untamed-edition-off-road-4x4-todoterreno-camping-135125649",
+    "pubDate": "2026-10-09 07:02:27",
+    "category": "",
+    "description": "<h2>Esta edición añade una suspensión más elevada, modificaciones en el chasis, protecciones específicas y accesorios para acampar</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Así es el polígono de Badalona con los restaurantes chinos más virales",
+    "link": "https://www.elperiodico.com/es/que-hacer/planes/20261009/poligono-badalona-restaurantes-chinos-virales-135153462",
+    "pubDate": "2026-10-09 07:01:08",
+    "category": "",
+    "description": "<h2>Hace años era conocido como “el gran bazar chino”. Ahora es un punto de peregrinaje tiktokero. Anota: estos son los bares donde se divisan más gurús digitales</h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/donde-comer/20261008/come-1-euro-barcelona-tacos-patatas-ostras-chollos-135110720\" target=\"_blank\">Come por 1 euro en Barcelona: tacos, patatas y hasta ostras por una moneda</a></h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20261008/fira-bolet-festival-setas-pueblo-catalan-barcelona-135106884\" target=\"_blank\">Fira del Bolet: así es el festival con el que este pueblo catalán inaugura hoy la temporada de setas</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "TVyMAS Viernes 9",
+    "link": "https://www.elperiodico.com/es/videos/tele/tvymas-viernes-9/135146146.shtml",
+    "pubDate": "2026-10-09 07:01:04",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "No somos conscientes",
+    "link": "https://www.elperiodico.com/es/tele/20261009/conscientes-135146441",
+    "pubDate": "2026-10-09 07:01:03",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "De la Alamedilla a la cima de Europa",
+    "link": "https://as.com/baloncesto/mas_baloncesto/de-la-alamedilla-a-la-cima-de-europa-f202610-n/",
+    "pubDate": "2026-10-09 06:54:41",
+    "category": "Baloncesto",
+    "description": "El Meins Avenida es el club más laureado del baloncesto español. Nació en el seno de la Universidad de Salamanca y en 2011 alzó la Euroliga.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Barcelona - Zalgiris: horario, TV, cómo y dónde ver la Euroliga 2026-27",
+    "link": "https://as.com/baloncesto/euroliga/barcelona-zalgiris-horario-tv-como-y-donde-ver-la-euroliga-2026-27-f202610-n/",
+    "pubDate": "2026-10-09 06:52:16",
+    "category": "Baloncesto",
+    "description": "Conoce el horario y cómo ver el partido de la jornada 4 de la Euroliga 2026-27 entre Barça y Zalgiris Kaunas. Este viernes, 9 de octubre, a las 20:30 horas.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Barça vuelve al cobijo del Palau",
+    "link": "https://as.com/baloncesto/euroliga/el-barca-vuelve-al-cobijo-del-palau-f202610-n/",
+    "pubDate": "2026-10-09 06:51:32",
+    "category": "Baloncesto",
+    "description": "Los azulgranas juegan contra el Zalgiris conscientes de la importancia de ganar como locales. Carsen Edwards, presente a pesar de su escándalo en la conducción. Minaya, lesionado.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El “apreciado” Omoruyi regresa a Vitoria con el Besiktas",
+    "link": "https://as.com/baloncesto/euroliga/el-apreciado-omoruyi-regresa-a-vitoria-con-el-besiktas-f202610-n/",
+    "pubDate": "2026-10-09 06:49:44",
+    "category": "Baloncesto",
+    "description": "“Se portó muy bien conmigo el año pasado”, dice Galbiati del pívot del equipo turco. “Me gusta que nos hayan programado cinco partidos seguidos en casa”, añade.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Cómo va a aprovechar el socialismo una oportunidad inoportuna?",
+    "link": "https://www.elperiodico.com/es/opinion/20261009/aprovechar-socialismo-oportunidad-inoportuna-135161300",
+    "pubDate": "2026-10-09 06:30:58",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Pagan 500 euros en Terrassa a quien se acabe este bol gigante de ramen",
+    "link": "https://www.elperiodico.com/es/que-hacer/planes/20261009/pagan-500-euros-terrassa-acabe-135158150",
+    "pubDate": "2026-10-09 06:10:16",
+    "category": "",
+    "description": "<h2>Solo con ver el bol te entran ganas de tomarte cinco Almax. Es el reto viral del Ichiban Ramen: zampar en 30 minutos un mastodonte de 4 kilos, 600 g (sin contar el peso del bol). Equivale a 7 raciones. Lo han intentado 30 personas, lo han conseguido dos</h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/donde-comer/20261008/come-1-euro-barcelona-tacos-patatas-ostras-chollos-135110720\" target=\"_blank\">Come por 1 euro en Barcelona: tacos, patatas y hasta ostras por una moneda</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Es el reto viral del Ichiban Ramen de Terrassa",
+    "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/reto-viral-ichiban-ramen-terrassa/135157252.shtml",
+    "pubDate": "2026-10-09 06:01:53",
+    "category": "",
+    "description": "",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ryanair estrena una ruta inédita a Polonia desde el aeropuerto de Barcelona-El Prat en la programación de invierno",
+    "link": "https://www.elperiodico.com/es/economia/20261009/programacion-invierno-ryanair-aeropuerto-barcelona-el-prat-nueva-ruta-polonia-poznan-135149289",
+    "pubDate": "2026-10-09 06:01:25",
+    "category": "",
+    "description": "<h2>La aerolínea de bajo coste asegura que mantiene la apuesta por la infraestructura catalana pese a que lamentan la falta de 'slots' competitivos a la espera de la ampliación</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260518/ryanair-descarta-problemas-escasez-combustible-verano-130356230\" target=\"_blank\">Ryanair descarta problemas de combustible este verano en Europa: \"Estamos cero preocupados ahora mismo\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Rusia se ceba en los civiles mientras cosecha graves reveses en el frente bélico",
+    "link": "https://www.elperiodico.com/es/internacional/20261009/rusia-ceba-civiles-cosecha-graves-reveses-frente-135160454",
+    "pubDate": "2026-10-09 06:01:14",
+    "category": "",
+    "description": "<h2>La denominada 'Operación Vivaldi', un discreto y novedoso contraataque ucraniano que lleva meses desarrollándose, logra frenar los avances rusos en la región de Donetsk y hace añicos el objetivo de Putin de conquistar el Donbás durante el próximo invierno</h2><h2>Los bombardeos rusos contra objetivos civiles buscan desmovilizar a la sociedad y deslegitimar al liderazgo ucraniano ante la ciudadanía, aunque a decir de encuestas y expertos, están provocando el efecto contrario       </h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "La perfumería de lujo que viste traje de comercio de barrio",
+    "link": "https://www.elperiodico.com/es/economia/20261009/perfumerias-facial-perfumeria-lujo-viste-traje-comercio-barrio-134895300",
+    "pubDate": "2026-10-09 06:01:09",
+    "category": "",
+    "description": "<h2>El grupo familiar Bomari, dueño de las droguerías Hermanos Martín, apuesta su crecimiento a Perfumerías Facial, una cadena que acaba de hacerse con tres tiendas San Remo y que centra sus planes en Barcelona</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20250526/industria-belleza-mueve-12-000-millones-catalunya-pib-117756116\" target=\"_blank\">La industria de la belleza mueve 12.000 millones de euros en Catalunya, el 4% del PIB</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Feijóo mantiene unido al PP en su cuestionamiento sobre el voto por correo y su propuesta de vivienda",
+    "link": "https://www.elperiodico.com/es/politica/20261009/maricarmen-dudas-voto-correo-quiebran-135149635",
+    "pubDate": "2026-10-09 06:01:04",
+    "category": "",
+    "description": "<h2>El Partido Popular inicia su precampaña con la mirada puesta en las elecciones del 29 de noviembre, confiando en su estrategia sobre vivienda y en la fiscalización de los escándalos del PSOE</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La vía Colau, el encaje de Podemos y la representación de IU en riesgo: Frente Amplio apura sus negociaciones",
+    "link": "https://www.elperiodico.com/es/politica/20261009/colau-podemos-iu-frente-amplio-135149302",
+    "pubDate": "2026-10-09 06:01:03",
+    "category": "",
+    "description": "<h2 class=\"item\">El monopolio de lista por Madrid de los de Mónica García deja sin opciones a Irene Montero y arrincona a IU en Andalucía, donde podrían competir hasta tres listas a la izquierda del PSOE</h2><h2 class=\"item\">La comunicación a la Junta Electoral de la constitución de coaliciones electorales tiene como fecha límite el próximo viernes, 16 de octubre</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Arde Bogotá: “Hoy el miedo es que todo sea efímero, también nuestro disco”",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261009/arde-bogota-hoy-miedo-sea-135149780",
+    "pubDate": "2026-10-09 06:01:03",
+    "category": "",
+    "description": "<h2 style=\"text-align: justify;\">El grupo de Cartagena publica su tercer álbum, ‘Manufacturas del club de la gente sola’, donde reafirma su rock de grandes volúmenes y procesa un tenue influjo del flamenco y la música popular española, mientras prepara una gira en grandes escenarios para 2027</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Siete de cada diez escuelas de Barcelona están expuestas a una contaminación que rebasa el umbral europeo del 2030",
+    "link": "https://www.elperiodico.com/es/barcelona/20261009/siete-diez-escuelas-barcelona-expuestas-contaminacion-rebasa-umbral-europeo-2030-135055223",
+    "pubDate": "2026-10-09 06:01:00",
+    "category": "",
+    "description": "<h2>Pese a que los niveles han mejorado un 40% desde el 2018, sólo el 26% de los centros cumplen el marco legal de la UE</h2><h2>MULTIMEDIA |<a href=\"https://www.elperiodico.com/es/barcelona/contaminacion-aire-barcelona-union-europea-sh/index.html\" target=\"_blank\"> El área de BCN respira un aire que rebasa el umbral de polución de la UE para 2030</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los afectados por incautaciones del franquismo exigen a Sánchez que apruebe por decreto el retorno de sus bienes",
+    "link": "https://www.elperiodico.com/es/politica/20261009/afectados-incautaciones-franquismo-exigen-sanchez-apruebe-decreto-retorno-bienes-antes-elecciones-135144316",
+    "pubDate": "2026-10-09 06:00:56",
+    "category": "",
+    "description": "<h2 class=\"item\">Las familias denuncian cuatro años de retrasos y temen que un Gobierno de PP y Vox frustre definitivamente las reparaciones </h2><h2 class=\"item\"><a href=\"https://elperiodico.com/es/politica/20251015/nieta-companys-gobierno-bienes-incautados-franquismo-guerra-civil-122568694\" target=\"_blank\">La nieta de Companys urge al Gobierno a restituir los bienes incautados por el franquismo: \"Estamos encallados y la gente se está muriendo\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20241212/urtasun-restituye-primera-incautacion-franquismo-112553492\" target=\"_blank\">Urtasun restituye una primera incautación del franquismo, un retrato de Giner de los Ríos: \"La memoria no es pasado\"</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Arde Bogotá: \"Hoy el miedo es que todo sea efímero, también nuestro disco\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261009/arde-bogota-miedo-efimero-disco-entrevista-135144966",
+    "pubDate": "2026-10-09 06:00:56",
+    "category": "",
+    "description": "<h2 class=\"item\">El grupo de Cartagena publica su tercer álbum, ‘Manufacturas del club de la gente sola’, donde reafirma su rock de grandes volúmenes y procesa un tenue influjo del flamenco y la música popular española, mientras prepara una gira en grandes escenarios para 2027</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Mayte Serrat, psicóloga: \"La incertidumbre meteorológica provocará más problemas de salud mental\"",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20261009/mayte-serrat-psicologa-incertidumbre-meteorologica-alertas-lluvias-135130433",
+    "pubDate": "2026-10-09 06:00:52",
+    "category": "",
+    "description": "<h2 class=\"item\">\"La incertidumbre sostenida puede tener un coste cognitivo y emocional\", alerta</h2><h2 class=\"item\">\"Las administraciones han de proporcionar información clara, coherente, comprensible y útil. No podemos convertir un problema colectivo en un \"aprenda usted a gestionar su ansiedad\"\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las casas de colonias, un sector que mueve 50 millones de euros en Catalunya, al límite por el boicot del profesorado",
+    "link": "https://www.elperiodico.com/es/sociedad/20261009/casas-colonias-limite-boicot-profesores-perdida-negocio-puestos-trabajo-134871147",
+    "pubDate": "2026-10-09 06:00:51",
+    "category": "",
+    "description": "<h2 class=\"item\">Las patronales del ocio educativo temen una sangría de cierres si el bloqueo se prolonga dado que estas actividades representan el 70% de su facturación</h2><h2 class=\"item\">El 70% del sector son pequeños emprendedores y pequeñas y medianas empresas</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261008/colonias-escolares-empresas-ocio-educativo-oferta-familias-organizacion-salidas-boicot-profesores-cataluna-134877695\" target=\"_blank\">Colonias sin profesores: empresas de ocio educativo ofrecen a las familias la organización de estas actividades</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261008/boicot-colonias-profesores-subleva-familias-escuelas-cataluna-derechos-ninos-134836525\" target=\"_blank\">Las familias catalanas se plantan ante el boicot a las colonias: \"Las afas no podemos asumir estas actividades\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Colonias sin profesores: empresas de ocio educativo ofrecen a las familias la organización de estas actividades",
+    "link": "https://www.elperiodico.com/es/sociedad/20261009/colonias-escolares-empresas-ocio-educativo-oferta-familias-organizacion-salidas-boicot-profesores-cataluna-134877695",
+    "pubDate": "2026-10-09 06:00:50",
+    "category": "",
+    "description": "<h2 class=\"item\">Las casas de colonias se ponen directamente a disposición de las afas para organizar salidas de 24 horas durante el fin de semana, con el objetivo de evitar que el boicot de los profesores deje a los niños sin colonias y a las empresas sin negocio</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261008/casas-colonias-limite-boicot-profesores-perdida-negocio-puestos-trabajo-134871147\" target=\"_blank\">Las casas de colonias catalanas, al límite por el boicot del profesorado: el negocio cae un 80%</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261008/boicot-colonias-profesores-subleva-familias-escuelas-cataluna-derechos-ninos-134836525\" target=\"_blank\">Las familias catalanas se plantan ante el boicot del profesorado a las salidas y colonias: \"Las afas no podemos asumir estas actividades\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las familias catalanas se plantan ante el boicot del profesorado a las salidas y colonias: \"Las afas no podemos asumir estas actividades\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261009/boicot-colonias-profesores-subleva-familias-escuelas-cataluna-derechos-ninos-134836525",
+    "pubDate": "2026-10-09 06:00:49",
+    "category": "",
+    "description": "<h2 class=\"item\">Madres y padres denuncian la pérdida de derechos y oportunidades de sus hijos y critican que no haya una negociación abierta entre Educació y docentes para desbloquear el conflicto</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261008/casas-colonias-limite-boicot-profesores-perdida-negocio-puestos-trabajo-134871147\" target=\"_blank\">Las casas de colonias catalanas, al límite por el boicot del profesorado: el negocio cae un 80%</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260417/boicot-colonias-escolares-conflicto-laboral-profesores-cataluna-problema-responsabilidad-no-reconocida-129161457\">El boicot a las colonias escolares destapa un malestar de años entre los profesores: \"Son una responsabilidad de 24 horas no reconocida\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "LA DGT desvela que el 45% de los españoles elige la cerveza sin alcohol si va a conducir",
+    "link": "https://www.elperiodico.com/es/motor/20261009/45-espanoles-toma-cerveza-sin-alcohol-si-va-conducir-135124726",
+    "pubDate": "2026-10-09 06:00:44",
+    "category": "",
+    "description": "<h2>Un informe elaborado por Cerveceros de España y la DGT revela que el 47,3% de los consumidores recurre a esta bebida siempre que tengan que ponerse al volante</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Puigdemont deberá regresar al Parlament cuando se le aplique la amnistía total o podría ser sancionado",
+    "link": "https://www.elperiodico.com/es/politica/20261009/puigdemont-regreso-parlament-cataluna-135105984",
+    "pubDate": "2026-10-09 06:00:42",
+    "category": "",
+    "description": "<h2 class=\"item\">El reglamento de la Cámara catalana no le permite seguir delegando su voto cuando el Supremo archive su caso y prevé sanciones si falta a tres plenos consecutivos</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261009/puigdemont-lluis-puig-parlament-comisiones-telematica-reglamento-amnistia-123951349\">La participación telemática en el Parlament: Puigdemont no la utiliza, pero Lluís Puig sí</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/catalunya/parlament/20250422/parlament-blinda-participacion-telematica-diputados-pendientes-amnistia-116603788\" target=\"_blank\">El Parlament blinda la participación telemática de los diputados pendientes de la amnistía</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/catalunya/parlament/20250722/cup-pide-sancionar-diputados-pp-vox-impedir-participacion-telematica-lluis-puig-parlament-119950993\" target=\"_blank\">La CUP pide sancionar a diputados de PP y Vox por impedir la participación telemática de Lluís Puig en el Parlament</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El valor de invertir bien: Barça y Madrid miden aciertos y decepciones después de gastar entre los dos 450 millones de euros",
+    "link": "https://www.elperiodico.com/es/deportes/20261009/invertir-barca-madrid-miden-aciertos-134785270",
+    "pubDate": "2026-10-09 06:00:42",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La participación telemática en el Parlament: Puigdemont no la utiliza, pero Lluís Puig sí",
+    "link": "https://www.elperiodico.com/es/politica/20261009/puigdemont-lluis-puig-parlament-comisiones-telematica-reglamento-amnistia-123951349",
+    "pubDate": "2026-10-09 06:00:39",
+    "category": "",
+    "description": "<h2 class=\"item\">PSC, Junts, ERC, Comuns y la CUP reformaron el reglamento para permitir el voto delegado y la Mesa blindó después la participación en comisión a través de videollamada </h2><h2 class=\"item\">Puigdemont deberá regresar al Parlament cuando se le aplique la amnistía total o podría ser sancionado</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/catalunya/parlament/20250422/parlament-blinda-participacion-telematica-diputados-pendientes-amnistia-116603788\" target=\"_blank\">El Parlament blinda la participación telemática de los diputados pendientes de la amnistía</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/catalunya/parlament/20250722/cup-pide-sancionar-diputados-pp-vox-impedir-participacion-telematica-lluis-puig-parlament-119950993\" target=\"_blank\">La CUP pide sancionar a diputados de PP y Vox por impedir la participación telemática de Lluís Puig en el Parlament</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Encuestas de las elecciones en Estados Unidos 2026: así están los sondeos sobre Trump y las 'midterm'",
+    "link": "https://www.elperiodico.com/es/internacional/20261009/encuestas-elecciones-estados-unidos-2026-sondeos-eeuu-129673684",
+    "pubDate": "2026-10-09 06:00:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20261007/encuestas-elecciones-generales-espana-sondeos-12274406\" target=\"_blank\">Encuestas de las elecciones generales en España: así están los sondeos</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261004/encuestas-elecciones-cataluna-sondeos-catalunya-124137879\" target=\"_blank\">Encuestas de las elecciones en Catalunya: así están los sondeos</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "¿Quién ganará hoy el Premio Nobel de la Paz 2026? Así están las quinielas",
+    "link": "https://www.elperiodico.com/es/internacional/20261009/premio-nobel-paz-2026-135139076",
+    "pubDate": "2026-10-09 06:00:00",
+    "category": "",
+    "description": "<h2>La sudanesa Salas de Respuesta a Emergencias y varias organizaciones humanitarias lideran las apuestas, con Médicos sin Fronteras, la UNRWA o la Corte Penal Internacional como otros posibles galardonados</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "У РФ рекордно зріст експорт нафтопродуктів - ЗМІ",
     "link": "https://ua.korrespondent.net/world/russia/4918551-u-rf-rekordno-zrist-eksport-naftoproduktiv-zmi",
     "pubDate": "2026-10-09 04:56:00",
