@@ -1,4 +1,4 @@
-# News for 2026-10-09 23:10
+# News for 2026-10-10 01:08
 
 Previous day: [2026-10-08](./data/2026-10-08.md)
 
@@ -49,6 +49,8 @@ Previous day: [2026-10-08](./data/2026-10-08.md)
 01:22 [У США анонсували публічний розстріл військового](https://ua.korrespondent.net/world/4918537-u-ssha-anonsuvaly-publichnyi-rozstril-viiskovoho)<br>
 
 ## as.com
+23:21 [Sekulic: “En el último cuarto nos hemos deshecho como equipo, hemos dejado de creer”](https://as.com/baloncesto/euroliga/sekulic-en-el-ultimo-cuarto-nos-hemos-deshecho-como-equipo-hemos-dejado-de-creer-f202610-n/)<br>
+23:14 [Resumen del Barcelona - Zalgiris de Euroliga](https://as.com/videos/euroliga/resumen-del-barcelona-zalgiris-de-euroliga-f202610-v/)<br>
 22:42 [El Baskonia vuelve a caer en el Buesa Arena](https://as.com/baloncesto/el-baskonia-vuelve-a-caer-en-el-buesa-arena-f202610-n/)<br>
 22:38 [Valanciunas ajusticia al Barça](https://as.com/baloncesto/euroliga/valanciunas-ajusticia-al-barca-f202610-n/)<br>
 20:58 [Baskonia - Besiktas, en directo: Euroliga, hoy en vivo](https://as.com/baloncesto/euroliga/baskonia-besiktas-en-directo-euroliga-hoy-en-vivo-f202610-n/)<br>
@@ -61,6 +63,7 @@ Previous day: [2026-10-08](./data/2026-10-08.md)
 06:49 [El “apreciado” Omoruyi regresa a Vitoria con el Besiktas](https://as.com/baloncesto/euroliga/el-apreciado-omoruyi-regresa-a-vitoria-con-el-besiktas-f202610-n/)<br>
 
 ## www.elperiodico.com
+23:45 [Un pésimo último cuarto condena al Barça en el Palau ante el Zalgiris (81-88)](https://www.elperiodico.com/es/deportes/20261009/pesimo-ultimo-cuarto-condena-barca-135194636)<br>
 22:56 [Un hombre armado toma como rehenes a los niños de una escuela en Brasil](https://www.elperiodico.com/es/internacional/20261009/hombre-armado-toma-rehenes-ninos-135194024)<br>
 22:09 [Hallan un cadáver "sin signos de violencia" en una zona abrupta de la A-7 en Almería](https://www.elperiodico.com/es/sucesos/20261009/hallan-cadaver-signos-violencia-zona-135193383)<br>
 21:56 [Registrado un terremoto de magnitud 7,6 en el centro-sur de Panamá con alerta de tsunami](https://www.elperiodico.com/es/videos/internacional/registrado-terremoto-magnitud-7-6/135193210.shtml)<br>
