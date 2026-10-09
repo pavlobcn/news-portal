@@ -1,8 +1,16 @@
-# News for 2026-10-09 11:20
+# News for 2026-10-09 12:28
 
 Previous day: [2026-10-08](./data/2026-10-08.md)
 
 ## ua.korrespondent.net
+12:22 [У Києві відкрили британський бізнес-центр для оборонних компаній](https://ua.korrespondent.net/business/4918658-u-kyievi-vidkryly-brytanskyi-biznes-tsentr-dlia-oboronnykh-kompanii)<br>
+12:20 [Під виглядом порятунку: РФ вивезла 25 людей з Харківщини](https://ua.korrespondent.net/ukraine/4918655-pid-vyhliadom-poriatunku-rf-vyvezla-25-luidei-z-kharkivschyny)<br>
+12:08 [У КНУ розповіли, в чому цінність участі в європейських грантових проєктах](https://ua.korrespondent.net/ukraine/4918653-u-knu-rozpovily-v-chomu-tsinnist-uchasti-v-yevropeiskykh-hrantovykh-proiektakh)<br>
+12:03 [Стали відомі наслідки російських атак на Київщину](https://ua.korrespondent.net/ukraine/4918651-staly-vidomi-naslidky-rosiiskykh-atak-na-kyivschynu)<br>
+11:57 [В Україні встановили майже 300 очних протезів постраждалим від війни](https://ua.korrespondent.net/ukraine/4918648-v-ukraini-vstanovyly-maizhe-300-ochnykh-proteziv-postrazhdalym-vid-viiny)<br>
+11:46 [Долар дорожчає наприкінці тижня, євро падає](https://ua.korrespondent.net/business/financial/4918644-dolar-dorozhchaie-naprykintsi-tyzhnia-yevro-padaie)<br>
+11:25 [Названо ім’я лавреатки Нобелівської премії миру](https://ua.korrespondent.net/world/4918636-nazvano-imia-lavreatky-nobelivskoi-premii-myru)<br>
+11:20 [У Росії пошкоджено ще один датацентр Яндекса](https://ua.korrespondent.net/world/russia/4918637-u-rosii-poshkodzheno-sche-odyn-datatsentr-yandeksa)<br>
 10:45 [Журналіста Ткача відпустили у Відні - МЗС](https://ua.korrespondent.net/ukraine/4918627-zhurnalista-tkacha-vidpustyly-u-vidni-mzs)<br>
 10:37 [Дочка Кличка та Панеттьєрі вперше з’явилася в суді](https://ua.korrespondent.net/lifestyle/4918607-dochka-klychka-ta-panettieri-vpershe-ziavylasia-v-sudi)<br>
 10:17 [Холодна зима та війна в Ірані: ЄС загрожує дефіцит газу](https://ua.korrespondent.net/business/economics/4918615-kholodna-zyma-ta-viina-v-irani-yes-zahrozhuie-defitsyt-hazu)<br>
@@ -27,6 +35,16 @@ Previous day: [2026-10-08](./data/2026-10-08.md)
 06:49 [El “apreciado” Omoruyi regresa a Vitoria con el Besiktas](https://as.com/baloncesto/euroliga/el-apreciado-omoruyi-regresa-a-vitoria-con-el-besiktas-f202610-n/)<br>
 
 ## www.elperiodico.com
+12:27 [Un terremoto de magnitud 3,6 hace temblar la comarca de Pamplona](https://www.elperiodico.com/es/sucesos/20261009/terremoto-magnitud-3-6-temblar-135171979)<br>
+12:23 [Anne Carson, la Nobel que repartió dulces a sus fans de Getafe y lanzó una pulla a los españoles: tres días de lluvia, Goya y poesía](https://www.elperiodico.com/es/ocio-y-cultura/20261009/anne-carson-nobel-repartio-dulces-getafe-lanzo-pulla-espanoles-prado-goya-135171767)<br>
+12:17 [Manuel Vilas, escritor: "La España de los 80 era polvorienta y cutre, no daba ni para drogarse "](https://www.elperiodico.com/es/ocio-y-cultura/20261009/manuel-vilas-escritor-espana-80-135170918)<br>
+12:10 [La espectacular escapada a un paso de Lleida que combina historia, naturaleza y un conocido dulce](https://www.elperiodico.com/es/catalunya/20261009/pueblo-ideal-escapada-lleida-sant-llorenc-de-montgai-cerca-dv-loc-107283963)<br>
+12:10 [Rubén Zaballos, propietario de 150 viviendas con 39 años: "He tenido inquiokupas, okupas, centros de venta de droga...Y al final es que es imposible"](https://www.elperiodico.com/es/vivienda/20261009/gran-tenedor-propietario-150-viviendas-ruben-zaballos-alquiler-familias-okupas-centro-drogas-dv-et-134920989)<br>
+11:57 [La princesa Marta Luisa de Noruega y el chamán Durek Verrett demandan por 80 millones a antiguos amigos por "traición"](https://www.elperiodico.com/es/gente/20261009/princesa-marta-luisa-noruega-chaman-135170138)<br>
+11:52 [Navanethem 'Navi' Pillay premio Nobel de la Paz 2026](https://www.elperiodico.com/es/videos/sociedad/navanethem-navi-pillay-premio-nobel-paz/135170045.shtml)<br>
+11:44 [Ignasi Belda: "No sé si estoy en Google o en el Banco de España"](https://www.elperiodico.com/es/economia/20261009/ignasi-belda-google-o-banco-135164012)<br>
+11:43 [Ben Affleck se sincera sobre su relación con Jennifer Garner y sus 3 hijos: "Estoy divorciado, tengo la custodia compartida y no quiero perderme estos años"](https://www.elperiodico.com/es/gente/20261009/ben-affleck-sincera-relacion-jennifer-135169122)<br>
+11:30 [La mascarilla coreana de 20 € que todas quieren: hidrata, limpia los poros y deja la piel tersa](https://www.elperiodico.com/es/shopping/20261009/mascarilla-coreana-piel-hidrata-limpia-tersa-135135460)<br>
 11:17 [La jurista sudafricana Navi Pillay, Premio Nobel de la Paz 2026](https://www.elperiodico.com/es/sociedad/20261009/jurista-sudafricana-navi-pillay-premio-135168426)<br>
 11:15 [Tomás (64 años), uno de los tres últimos habitantes de un pueblo fantasma de Lleida: "Yo no pago nada por vivir aquí, llegué con el proyecto de reconstruir este lugar"](https://www.elperiodico.com/es/economia/20261009/ultimo-habitante-pueblo-fantasma-vivienda-gratis-solanell-lleida-tomas-dv-et-134914526)<br>
 11:13 [El juicio por el bulo del 'caso Bar España' ya tiene fecha en Castellón: seis acusados y más de 30 testigos](https://www.elperiodico.com/es/sociedad/20261009/juicio-bulo-caso-bar-espana-pederastia-135165597)<br>

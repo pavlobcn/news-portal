@@ -1,5 +1,311 @@
 [
   {
+    "title": "Un terremoto de magnitud 3,6 hace temblar la comarca de Pamplona",
+    "link": "https://www.elperiodico.com/es/sucesos/20261009/terremoto-magnitud-3-6-temblar-135171979",
+    "pubDate": "2026-10-09 12:27:48",
+    "category": "",
+    "description": "<h2><strong>El seísmo se ha registrado a tres kilómetros de profundidad a las 10:49 horas de este viernes</strong></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Seis detenidos y casi 700.000 euros incautados en un nuevo golpe policial de la UDYCO en Vigo y Ponteareas",
+    "link": "https://www.elperiodico.com/es/sociedad/20261009/cinco-detenidos-nuevo-golpe-policial-135171497",
+    "pubDate": "2026-10-09 12:27:41",
+    "category": "",
+    "description": "<h2>La operación se saldó además con el decomiso de 19 kilos de hachís y un kg de cocaína, armas y coches de alta gama</h2><h2>El registro domiciliario de la ciudad olívica se realizó en la zona de Baixada a Laxe</h2>",
+    "topic": "марихуана",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Anne Carson, la Nobel que repartió dulces a sus fans de Getafe y lanzó una pulla a los españoles: tres días de lluvia, Goya y poesía",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261009/anne-carson-nobel-repartio-dulces-getafe-lanzo-pulla-espanoles-prado-goya-135171767",
+    "pubDate": "2026-10-09 12:23:32",
+    "category": "",
+    "description": "<h2>La autora canadiense dejó huella en su visita a Madrid en octubre de 2023, con una multitudinaria lectura, una conferencia en el Prado y un inesperado gesto de cercanía con sus seguidores</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Barcelona da luz verde inicial al recargo de hasta un 150% en el IBI de los pisos turísticos a raíz de la entrada en vigor del 'decreto Maricarmen'",
+    "link": "https://www.elperiodico.com/es/barcelona/20261009/collboni-redobla-presion-pisos-turisticos-subir-150-por-ciento-recargo-ibi-135167033",
+    "pubDate": "2026-10-09 12:22:59",
+    "category": "",
+    "description": "<h2>La medida será finalmente aprobada en el Pleno municipal del mes de octubre y afectará a las más de 10.000 licencias de vivienda de uso turístico</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20261002/decreto-maricarmen-vivienda-barcelona-pisos-turisticos-collboni-134937757\">Collboni afirma que la caída del ‘decreto Maricarmen’ impide que Barcelona recaude 7 millones de euros de los pisos turísticos</a></h2>",
+    "topic": "туристичні квартири",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Carrie aterriza en Sitges con su nueva adaptación televisiva",
+    "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/carrie-aterriza-sitges-nueva-adaptacion-television-video/135171687.shtml",
+    "pubDate": "2026-10-09 12:22:47",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Eva Amaral y Juan Aguirre lloran la muerte de MariCarmen con dos desgarradoras canciones: \"Dolor y rabia. Descanse en paz\"",
+    "link": "https://www.elperiodico.com/es/gente/20261009/eva-amaral-y-juan-aguirre-lloran-la-muerte-de-maricarmen-con-dos-desgarradoras-canciones-dolor-y-rabia-descanse-en-paz-135171554",
+    "pubDate": "2026-10-09 12:22:02",
+    "category": "",
+    "description": "<h2>Los dos componentes de la banda muestran su solidaridad y tristeza tras el fallecimiento de la mujer</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Києві відкрили британський бізнес-центр для оборонних компаній",
+    "link": "https://ua.korrespondent.net/business/4918658-u-kyievi-vidkryly-brytanskyi-biznes-tsentr-dlia-oboronnykh-kompanii",
+    "pubDate": "2026-10-09 12:22:00",
+    "category": "Новини бізнесу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591175.jpg\">Британські оборонні компанії отримали постійну базу в Києві. Новий бізнес-центр допомагатиме запускати спільні розробки, розширювати виробництво та залучати інвестиції в межах сторічного партнерства двох країн.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Під виглядом порятунку: РФ вивезла 25 людей з Харківщини",
+    "link": "https://ua.korrespondent.net/ukraine/4918655-pid-vyhliadom-poriatunku-rf-vyvezla-25-luidei-z-kharkivschyny",
+    "pubDate": "2026-10-09 12:20:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591173.jpg\">Російські військові вивезли з окупованої частини Харківщини 25 цивільних, серед яких діти. Де вони перебувають зараз і що загрожує їхнім родинам, наразі невідомо.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "The Grefg: Consumo \"a quien han multado es a esa empresa que no es mía ni soy yo\"",
+    "link": "https://www.elperiodico.com/es/economia/20261009/the-grefg-consumo-han-multado-135171621",
+    "pubDate": "2026-10-09 12:19:59",
+    "category": "",
+    "description": "<h2>El Ministerio de Consumo mantiene la multa de 750.000 euros para EBR Management SLU por celebrar un sorteo sin licencia y rechaza reducir el importe solicitado por la empresa organizadora</h2>",
+    "topic": "блогери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Lana del Rey, The Killers y Zara Larsson actuán en el Gran Premio de Fórmula 1 de Singapur",
+    "link": "https://www.elperiodico.com/es/deportes/20261009/lana-rey-the-killers-zara-135170961",
+    "pubDate": "2026-10-09 12:18:14",
+    "category": "",
+    "description": "<h2>Los artistas internacionales forman parte de la programación del GP de este fin de semana en Marina Bay</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Manuel Vilas, escritor: \"La España de los 80 era polvorienta y cutre, no daba ni para drogarse \"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261009/manuel-vilas-escritor-espana-80-135170918",
+    "pubDate": "2026-10-09 12:17:47",
+    "category": "",
+    "description": "<h2>El escritor presenta la reedición de uno de sus primeros libros, \"Zeta\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Mourinho se aferra a Vinícius y Mbappé por el temor al Bernabéu",
+    "link": "https://www.elperiodico.com/es/deportes/20261009/mourinho-aferra-vinicius-mbappe-temor-135170188",
+    "pubDate": "2026-10-09 12:10:50",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La espectacular escapada a un paso de Lleida que combina historia, naturaleza y un conocido dulce",
+    "link": "https://www.elperiodico.com/es/catalunya/20261009/pueblo-ideal-escapada-lleida-sant-llorenc-de-montgai-cerca-dv-loc-107283963",
+    "pubDate": "2026-10-09 12:10:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Está rodeado de montañas y vegetación, lo que lo convierte en un escenario placentero para actividades al aire libre</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/vida-y-estilo/20240823/congost-mont-rebei-excursion-estelar-en-familia-ninos-lleida-dv-loc-107292393\" >La excursión estelar a un paso de Lleida para disfrutar con tus hijos de la naturaleza</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20240707/cine-lleida-alcarras-municipio-dv-loc-105102578\" >El rincón de Lleida que ya está en la historia del cine</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Rubén Zaballos, propietario de 150 viviendas con 39 años: \"He tenido inquiokupas, okupas, centros de venta de droga...Y al final es que es imposible\"",
+    "link": "https://www.elperiodico.com/es/vivienda/20261009/gran-tenedor-propietario-150-viviendas-ruben-zaballos-alquiler-familias-okupas-centro-drogas-dv-et-134920989",
+    "pubDate": "2026-10-09 12:10:00",
+    "category": "",
+    "description": "<h2>El gran tenedor confiesa sentir \"un poco de frustración, porque me encantaría seguir alquilando mis pisos a las familias\"</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20261002/decenas-personas-congregan-frente-congreso-134918749\">La protesta por la vivienda se planta ante el Congreso, donde se vota el decreto Maricarmen: \"No nos vamos, nos quedamos\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/gente/20261001/enric-auquer-actor-vivienda-barcelona-alquiler-dv-et-134845364\">Enric Auquer (38 años), actor, sobre la vivienda en Barcelona: \"Vivo de alquiler en un piso muy caro y muy pequeño. El alquiler genera un ciclo de desigualdad bestial\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У КНУ розповіли, в чому цінність участі в європейських грантових проєктах",
+    "link": "https://ua.korrespondent.net/ukraine/4918653-u-knu-rozpovily-v-chomu-tsinnist-uchasti-v-yevropeiskykh-hrantovykh-proiektakh",
+    "pubDate": "2026-10-09 12:08:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591166.jpg\">Одним із головних результатів участі в європейських проєктах є безпосередня співпраця між університетами, зазначила Ганна Толстанова.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La ronda Litoral inicia dos meses de cortes nocturnos para pavimentar la zona del Moll de la Fusta",
+    "link": "https://www.elperiodico.com/es/videos/barcelona/ronda-litoral-inicia-dos-meses-cortes-noche-moll-fusta-video/135170619.shtml",
+    "pubDate": "2026-10-09 12:05:38",
+    "category": "",
+    "description": "",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Стали відомі наслідки російських атак на Київщину",
+    "link": "https://ua.korrespondent.net/ukraine/4918651-staly-vidomi-naslidky-rosiiskykh-atak-na-kyivschynu",
+    "pubDate": "2026-10-09 12:03:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591156.jpg\">Унаслідок російських атак за добу постраждали дев’ятеро людей, пошкоджено 41 об’єкт у п’яти районах області. У Бучанському районі після ранкового удару по складських приміщеннях троє поранених, рятувальники шукають жінку.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El nuevo Volkswagen ID.Tiguan llega con 600 kilómetros de autonomía y hasta 299 CV",
+    "link": "https://www.elperiodico.com/es/motor/20261009/nuevo-volkswagen-id-tiguan-135112730",
+    "pubDate": "2026-10-09 12:00:18",
+    "category": "",
+    "description": "<h2>El nuevo SUV eléctrico sustituye a los ID.4 e ID.5 y mantiene los dos tamaños de batería grandes del primero.</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Guía de la nueva temporada de La2Cat: todos los programas, horarios y presentadores",
+    "link": "https://www.elperiodico.com/es/tele/20261009/guia-la2cat-programas-presentadores-programacion-135146931",
+    "pubDate": "2026-10-09 11:59:58",
+    "category": "",
+    "description": "<h2 class=\"item\">Jordi Basté, Gemma Nierga, Toni Clapés, Albert Pla, Xavier Bundó y Judit Martín son algunas de las caras de la nueva programación de la cadena en catalán de TVE</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/20261008/albert-pla-toni-clapes-la-2cat-programacion-135124402\">Albert Pla, Toni Clapés y Judit Martín, las nuevas caras de La 2Cat en catalán</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La princesa Marta Luisa de Noruega y el chamán Durek Verrett demandan por 80 millones a antiguos amigos por \"traición\"",
+    "link": "https://www.elperiodico.com/es/gente/20261009/princesa-marta-luisa-noruega-chaman-135170138",
+    "pubDate": "2026-10-09 11:57:35",
+    "category": "",
+    "description": "<h2>La pareja acusa a 14 personas, entre ellas familiares y antiguos socios empresariales, de difamación y de vulnerar acuerdos de confidencialidad en una supuesta «traición a la confianza»</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "В Україні встановили майже 300 очних протезів постраждалим від війни",
+    "link": "https://ua.korrespondent.net/ukraine/4918648-v-ukraini-vstanovyly-maizhe-300-ochnykh-proteziv-postrazhdalym-vid-viiny",
+    "pubDate": "2026-10-09 11:57:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591153.jpg\">За перше півріччя 2026 року українцям, які постраждали від війни, встановили близько 300 очних протезів. Безоплатну допомогу можна отримати у визначених медзакладах по всій країні.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Navanethem 'Navi' Pillay premio Nobel de la Paz 2026",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/navanethem-navi-pillay-premio-nobel-paz/135170045.shtml",
+    "pubDate": "2026-10-09 11:52:40",
+    "category": "",
+    "description": "La galardonada presidió la comisión de investigación independiente de la ONU que acusó a Israel de cometer un genocidio en Gaza",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los Reyes harán noche en Ceuta en un gesto de normalidad tras la crisis en la frontera",
+    "link": "https://www.elperiodico.com/es/politica/20261009/reyes-dormir-ceuta-martes-135169990",
+    "pubDate": "2026-10-09 11:51:51",
+    "category": "",
+    "description": "<h2 class=\"item\">Juan Carlos I volvió a dormir a la Península en el viaje de 2007 y Alfonso XIII pernoctó en un barco acorazado en 1927</h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "El Govern defiende el controvertido plan de renovables: \"Escucharemos a los ayuntamientos\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261009/govern-defiende-controvertido-plan-plater-renovables-135165244",
+    "pubDate": "2026-10-09 11:47:49",
+    "category": "",
+    "description": "<h2 class=\"item\">La consellera Sílvia Paneque asegura la instalación de parques eólicos y solares será respetuosa con las peticiones de los municipios</h2><h2 class=\"item\">ESTRATEGIA | <a href=\"https://www.elperiodico.com/es/sociedad/20261008/baterias-salvar-rentabilidad-energia-fotovoltaica-cataluna-135149428\" target=\"_blank\">Catalunya apuesta por las baterías para salvar la rentabilidad de los parques solares</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Долар дорожчає наприкінці тижня, євро падає",
+    "link": "https://ua.korrespondent.net/business/financial/4918644-dolar-dorozhchaie-naprykintsi-tyzhnia-yevro-padaie",
+    "pubDate": "2026-10-09 11:46:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591131.jpg\">Середній курс продажу долара сягнув 45,04 гривень, а курс продажу євро знизився до 50,85 гривні.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Hacia un sector agroalimentario más innovador, sostenible y competitivo",
+    "link": "https://www.elperiodico.com/es/videos/sostenibilidad-ahorro/sector-agroalimentario-innovador-sostenible-competitivo/135169606.shtml",
+    "pubDate": "2026-10-09 11:44:22",
+    "category": "",
+    "description": "",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Ignasi Belda: \"No sé si estoy en Google o en el Banco de España\"",
+    "link": "https://www.elperiodico.com/es/economia/20261009/ignasi-belda-google-o-banco-135164012",
+    "pubDate": "2026-10-09 11:44:19",
+    "category": "",
+    "description": "<h2>El director del departamento DELTA del supervisor bancario expone el impacto de la inteligencia artificial en el organismo</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260330/banco-espana-gana-234-millones-2025-vuelve-cifras-positivas-128594417\">El Banco de España gana 234,2 millones en 2025 y vuelve a cifras positivas tras tres años</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ben Affleck se sincera sobre su relación con Jennifer Garner y sus 3 hijos: \"Estoy divorciado, tengo la custodia compartida y no quiero perderme estos años\"",
+    "link": "https://www.elperiodico.com/es/gente/20261009/ben-affleck-sincera-relacion-jennifer-135169122",
+    "pubDate": "2026-10-09 11:43:26",
+    "category": "",
+    "description": "<h2>El actor prioriza su carrera profesional en Los Ángeles para no alejarse de sus tres hijos durante los rodajes</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Shakira y Gerard Piqué, la guerra se recrudece",
+    "link": "https://www.elperiodico.com/es/gente/20261009/shakira-gerard-pique-guerra-recrudece-135168779",
+    "pubDate": "2026-10-09 11:32:09",
+    "category": "",
+    "description": "<h2>El proceso judicial iniciado hace 8 meses para regular las visitas de los hijos de Shakira y Gerard Piqué incluye informes periciales y una exploración directa a los menores</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "La mascarilla coreana de 20 € que todas quieren: hidrata, limpia los poros y deja la piel tersa",
+    "link": "https://www.elperiodico.com/es/shopping/20261009/mascarilla-coreana-piel-hidrata-limpia-tersa-135135460",
+    "pubDate": "2026-10-09 11:30:00",
+    "category": "",
+    "description": "<h2>Apta para todo tipo de pieles, esta mascarilla coreana se ha convertido en el producto de confianza de muchas personas para devolver la luminosidad y la hidratación al rostro</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Fiscalía rechaza la imputación de la responsable de la Instrucción de la 'ley de nietos' por tratarse de 'cosa juzgada'",
+    "link": "https://www.elperiodico.com/es/politica/20261009/fiscalia-rechaza-imputacion-responsable-instruccion-ley-de-nietos-135168777",
+    "pubDate": "2026-10-09 11:25:16",
+    "category": "",
+    "description": "<h2>Responde a una querella de Hazte Oír que el carácter delictivo de la norma atribuido a Sofía Puente ya fue descartado tras una primera denuncia  en 2022</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Названо ім’я лавреатки Нобелівської премії миру",
+    "link": "https://ua.korrespondent.net/world/4918636-nazvano-imia-lavreatky-nobelivskoi-premii-myru",
+    "pubDate": "2026-10-09 11:25:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591120.jpg\">Лавреаткою престижної Нобелівської премії миру у 2026 році стала колишня очільниця управління ООН з прав людини Наванетхем \"Наві\" Піллай.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un excargo del Govern se sienta en el banquillo acusado de avalar irregularidades en la cementera de Montcada i Reixac",
+    "link": "https://www.elperiodico.com/es/sociedad/20261009/juicio-exalto-cargo-govern-lafarge-cementera-montcada-i-reixac-135146782",
+    "pubDate": "2026-10-09 11:21:04",
+    "category": "",
+    "description": "<h2 class=\"item\">El fiscal pide dos años de cárcel para Emili Dragone por un delito contra los recursos naturales, mientras que la acusación particular solicita seis </h2><h2 class=\"item\">El juicio empezará el próximo 14 de octubre</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20230531/fiscal-denuncia-generalitat-cementera-montcada-lafarge-holcim-88100600?_sid=1695307573&_ga=2.189798248.299075767.1695307573-348995212.1695059880\">El fiscal denuncia a la Generalitat por dar trato de favor a la cementera de Montcada</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "У Росії пошкоджено ще один датацентр Яндекса",
+    "link": "https://ua.korrespondent.net/world/russia/4918637-u-rosii-poshkodzheno-sche-odyn-datatsentr-yandeksa",
+    "pubDate": "2026-10-09 11:20:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591121.jpg\">Нічна атака на Калузьку область пошкодила датацентр Яндекса. За повідомленням компанії, у роботі окремих сервісів можливі перебої.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Del bosque a la mesa: 12 ferias de otoño que llenan Catalunya de sabor",
     "link": "https://www.elperiodico.com/es/catalunya/20261009/ferias-cataluna-otono-setas-bolets-castanas-productos-tipicos-dv-134875025",
     "pubDate": "2026-10-09 11:17:14",
