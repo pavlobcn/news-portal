@@ -1,5 +1,23 @@
 [
   {
+    "title": "У Путіна розповіли про \"романтичні\" деталі розмови з Трампом",
+    "link": "https://ua.korrespondent.net/world/4918865-u-putina-rozpovily-pro-romantychni-detali-rozmovy-z-trampom",
+    "pubDate": "2026-10-10 03:53:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591633.jpg\">Глава Білого дому тепло привітав кривавого диктатора з днем народження, а наприкінці розмови \"ніхто не хотів першим класти слухавку\".",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Британія запрошує Німеччину спільно розробляти винищувач нового покоління",
+    "link": "https://ua.korrespondent.net/world/4918863-brytaniia-zaproshuie-nimechchynu-spilno-rozrobliaty-vynyschuvach-novoho-pokolinnia",
+    "pubDate": "2026-10-10 03:24:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591620.jpg\">Окрім Лондона у проєкті вже беруть участь Рим та Токіо. У липні в якрсиі спотерегача приєдналася Канада.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
     "title": "У РФ палає нафтоналивний термінал - соцмережі",
     "link": "https://ua.korrespondent.net/world/russia/4918861-u-rf-palaie-naftonalyvnyi-terminal-sotsmerezhi",
     "pubDate": "2026-10-10 02:46:00",
@@ -16,6 +34,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591598.jpg\">Адміністрація заводу заявила, що рішення про тимчасову зупинку роботи ухвалили \"з метою безпеки\".",
     "topic": "політика",
     "topic_match_probability": 75
+  },
+  {
+    "title": "Віткофф оцінив переговори з Україною і Європою",
+    "link": "https://ua.korrespondent.net/ukraine/4918857-vitkoff-otsinyv-perehovory-z-ukrainoui-i-yevropoui",
+    "pubDate": "2026-10-10 01:54:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591591.jpg\">На зустрічі йшлося як про короткострокові заходи щодо підготовки до зими, так і про довгострокові домовленості щодо безпеки України та Європи, а також післявоєнної відбудови й економічного процвітання України.",
+    "topic": "політика",
+    "topic_match_probability": 90
   },
   {
     "title": "Трамп представив нову прессекретарку Білого дому",
@@ -70,5 +97,14 @@
     "description": "<h2>La banda donostiarra enloquece a los 9.000 fans que llenan el pabellón Príncipe Felipe en la primera noche del grupo en Zaragoza</h2>",
     "topic": "виконавці поп музики",
     "topic_match_probability": 95
+  },
+  {
+    "title": "\"Cпалимо їхні НПЗ\": ЗМІ дізналися про плани Києва після рішення Трампа",
+    "link": "https://ua.korrespondent.net/ukraine/4918847-Cpalymo-yikhni-npz-zmi-diznalysia-pro-plany-kyieva-pislia-rishennia-trampa",
+    "pubDate": "2026-10-10 00:21:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591551.jpg\">Журналіст FT розповів, як у Києві відреагували на зняття американських санкцій з російських нафтопродуктів.",
+    "topic": "політика",
+    "topic_match_probability": 85
   }
 ]
