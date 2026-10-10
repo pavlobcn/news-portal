@@ -1,4 +1,4 @@
-# News for 2026-10-10 15:46
+# News for 2026-10-10 16:44
 
 Previous day: [2026-10-09](./data/2026-10-09.md)
 
@@ -17,6 +17,11 @@ Previous day: [2026-10-09](./data/2026-10-09.md)
 06:20 [Pinone: “El baloncesto se convirtió en una obsesión para mí”](https://as.com/baloncesto/mas_baloncesto/pinone-el-baloncesto-se-convirtio-en-una-obsesion-para-mi-f202610-n/)<br>
 
 ## www.elperiodico.com
+16:38 [Un tejido que se desinfecta solo para combatir bacterias, hongos y virus en hospitales](https://www.elperiodico.com/es/sociedad/20261010/tejido-desinfecta-combatir-bacterias-hongos-135206811)<br>
+16:19 [Sitges 2026: Kevin Bacon y Kyra Sedgwick defienden rodar en familia como "experiencia de unión"](https://www.elperiodico.com/es/ocio-y-cultura/20261010/kevin-bacon-kyra-sedgwick-entrevista-festival-de-sitges-135203538)<br>
+16:15 [Oreste (73 años) dejó su trabajo para vivir solo en una cabaña a 2.000 metros: "Después de largos periodos en Estados Unidos, sentí de nuevo esa necesidad de libertad"](https://www.elperiodico.com/es/economia/20261010/dimite-trabajo-ibm-vivir-cabana-aislada-animales-himalaya-italia-oreste-dv-et-134609561)<br>
+16:00 [Ejecutivos convertidos en DJ y 200 VIPS en la Diagonal](https://www.elperiodico.com/es/barcelona/20261010/ejecutivos-convertidos-dj-200-vips-diagonal-135179237)<br>
+16:00 [Teresa Bobes, psicóloga clínica: "No podemos pedir a alguien que esté tranquilo si no sabe dónde vivirá el mes siguiente"](https://www.elperiodico.com/es/sanidad/20261010/teresa-bobes-psicologa-clinica-salud-mental-vivienda-135168203)<br>
 15:38 [Tiempo en Catalunya mañana domingo: Temperaturas en aumento y vuelve la nubosidad a Barcelona](https://www.elperiodico.com/es/tiempo/20261010/tiempo-cataluna-hoy-domingo-temperaturas-lluvias-dv-loc-135206396)<br>
 15:16 [Peluquerías, pastelerías y tiendas de ropa: el comercio que renace entre las ruinas de la dana](https://www.elperiodico.com/es/sociedad/20261010/peluquerias-pastelerias-tiendas-ropa-comercio-135205477)<br>
 15:10 [El psicólogo Rafa Guerrero, sobre la relación entre los hermanos: "Es muy importante el número que yo ocupe dentro de mi familia"](https://www.elperiodico.com/es/ser-feliz/20261010/relacion-hermanos-infancia-psicologo-rafa-guerrero-dv-et-134758970)<br>
