@@ -1,7 +1,529 @@
 [
   {
+    "title": "Трамп відреагував на вручення Нобелівської премії миру",
+    "link": "https://ua.korrespondent.net/world/4918886-tramp-vidreahuvav-na-vruchennia-nobelivskoi-premii-myru",
+    "pubDate": "2026-10-10 08:33:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591753.jpg\">Американський лідер висловив думку, що міг би претендувати одразу на вісім премій миру – по одній за кожний конфлікт, який, на думку Дональда Трампа, він зупинив.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Felipe Sacristán, mecánico: \"Si el aceite lo cambiamos cada 30.000 kilómetros, cada dos cambios de aceite de motor, uno de transmisión; diga lo que diga la marca\"",
+    "link": "https://www.elperiodico.com/es/economia/20261010/felipe-sacristan-mecanico-aceite-motor-transmision-dv-et-135126064",
+    "pubDate": "2026-10-10 08:30:39",
+    "category": "",
+    "description": "<h2>\"Preferimos hacer muchos cambios de aceite que reparaciones de 6.000 euros\", insiste el mecánico</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261008/enrique-alvarez-mecanico-cinco-anos-coche-reparaciones-dv-et-135091821\">Enrique Álvarez, mecánico: \"Hemos pasado de una reparación que costaba 28 euros a que ahora sean 400. Es lo que conllevan los nuevos diseños\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261009/felipe-sacristan-mecanico-averia-muy-cara-coche-dv-135096081\">Felipe Sacristán, mecánico: \"Esta avería muy cara se evita siendo tranquilos por la mañana\"</a></h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "В Італії сталося найбільше пограбування виноробні",
+    "link": "https://ua.korrespondent.net/world/4918884-v-italii-stalosia-naibilshe-pohrabuvannia-vynorobni",
+    "pubDate": "2026-10-10 08:10:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591746.jpg\">Серед викраденого – близько 10 тисяч пляшок Solaia. Це одне з найвідоміших та найдорожчих тосканських вин.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El regreso del gran ogro verde",
+    "link": "https://as.com/baloncesto/euroliga/el-regreso-del-gran-ogro-verde-f202610-n/",
+    "pubDate": "2026-10-10 08:05:44",
+    "category": "Euroliga",
+    "description": "En el regreso de Obradovic, el Panathinaikos ha arrancado muy bien la Euroliga: 4-0 y +83 de ‘average’ hasta el momento.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Trump arremete contra la nueva Nobel de la Paz y afirma que el \"desacreditado\" premio debería ser suyo",
+    "link": "https://www.elperiodico.com/es/internacional/20261010/trump-arremete-nueva-nobel-paz-135197470",
+    "pubDate": "2026-10-10 08:05:01",
+    "category": "",
+    "description": "<h2>El mandatario ha vuelto a reprochar al Comité Noruego que no le hayan concedido el galardón a él </h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Ona Carbonell, sobre la sexualización de la mujer en el deporte: \"He vivido lo que es una portada por cómo queda el bañador, en vez de por si has quedado segunda o tercera\"",
+    "link": "https://www.elperiodico.com/es/deportes/20261010/ona-carbonell-sexualizacion-mujer-deporte-134634671",
+    "pubDate": "2026-10-10 08:01:37",
+    "category": "",
+    "description": "<h2>La exnadadora atiende a EL PERIÓDICO en la piscina del CAR de Sant Cugat, lugar que ha sido prácticamente su casa durante años.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Esta es la calle con mejores restaurantes de Sant Antoni",
+    "link": "https://www.elperiodico.com/es/que-hacer/donde-comer/20261010/calle-mejores-restaurantes-sant-antoni-barcelona-manso-135187960",
+    "pubDate": "2026-10-10 08:00:32",
+    "category": "",
+    "description": "<h2>Se ha convertido en una de las travesías gastronómicas más variadas y seductoras de Barcelona. Aquí sirven los mejores vermuts, tortillas de autor, tapas populares y croquetas </h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20261009/pagan-500-euros-terrassa-acabe-bol-gigante-ramen-reto-viral-135158150\" target=\"_blank\">Pagan 500 euros en Terrassa a quien se acabe este bol gigante de ramen</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "29N: empresarios preocupados",
+    "link": "https://www.elperiodico.com/es/opinion/20261010/29n-empresarios-preocupados-elecciones-aznar-articulo-joan-tapia-135191862",
+    "pubDate": "2026-10-10 08:00:29",
+    "category": "",
+    "description": "<h2>Eloi Planes, el nuevo presidente del Instituto de la Empresa Familiar, dice que hay que lograr que el consenso sea más 'sexy' que la polarización, y que tras las elecciones habrá que trabajar juntos</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261006/congreso-anual-empresa-familiar-pide-serenidad-campana-electoral-consensos-135066938\">La empresa familiar pide \"serenidad\" en la campaña electoral y \"consensos\" una vez se conozca el resultado</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261005/aznar-fija-marco-campana-29n-135038668\">Aznar fija el marco para el 29N y advierte de que si Sánchez vuelve a formar Gobierno \"la monarquía constitucional se acaba\"</a></h2>",
+    "topic": "вибори",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Guerra de conspiraciones antes de las elecciones más polarizadas",
+    "link": "https://www.elperiodico.com/es/gente/20261010/guerra-conspiraciones-elecciones-polarizadas-redes-sociales-135190387",
+    "pubDate": "2026-10-10 08:00:27",
+    "category": "",
+    "description": "<h2 class=\"item\">La convocatoria de Pedro Sánchez, el croata de Dani Olmo y las tormentas, protagonistas en las redes sociales</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El deporte femenino alza la voz contra la sexualización",
+    "link": "https://www.elperiodico.com/es/videos/deportes/deporte-femenino-alza-voz-sexualizacion/135182115.shtml",
+    "pubDate": "2026-10-10 08:00:25",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Nicolas Winding Refn: \"Soy un guerrero de Dios que se enfrenta al monstruo del algoritmo\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261010/nicolas-winding-refn-guerrero-dios-135180248",
+    "pubDate": "2026-10-10 08:00:23",
+    "category": "",
+    "description": "<h2>Nicolas Winding Refn utiliza su reciente regreso a la vida para explorar la oscuridad y la fantasía en su nuevo filme, 'Su propio infierno' </h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "El Gobierno deberá decidir antes de las elecciones si renueva su polémico contrato militar con Palantir",
+    "link": "https://www.elperiodico.com/es/internacional/20261010/malestar-socios-gobierno-contrato-palantir-espana-ejercito-inteligencia-artificial-sumar-millones-trump-guerra-gaza-israel-peter-thiel-135197507",
+    "pubDate": "2026-10-10 08:00:23",
+    "category": "",
+    "description": "<h2>La compañía de análisis de datos vinculada a Trump e implicada en la guerra de Israel en Gaza vende su <em>software </em>de análisis de datos al Estado Mayor de la Defensa, un acuerdo sin detalles que los socios del Ejecutivo ven como una \"amenaza\"</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Más opciones de uniforme y cambios en la realización: algunas de las medidas para evitar la sexualización de las deportistas",
+    "link": "https://www.elperiodico.com/es/deportes/20261010/opciones-uniforme-cambios-realizacion-medidas-134679447",
+    "pubDate": "2026-10-10 08:00:21",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El deporte femenino alza la voz contra la sexualización: \"No se trata de nuestros cuerpos, sino de nuestra lucha, nuestros valores y nuestro rendimiento\"",
+    "link": "https://www.elperiodico.com/es/deportes/20261010/deporte-femenino-alza-voz-sexualizacion-134679409",
+    "pubDate": "2026-10-10 08:00:21",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Ona Carbonell \"He vivido lo que es una portada por cómo queda el bañador, en vez de por si has quedado segunda o tercera\"",
+    "link": "https://www.elperiodico.com/es/videos/deportes/ona-carbonell-he-vivido-portada/134834167.shtml",
+    "pubDate": "2026-10-10 08:00:21",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "María Dolores Braquehais, psiquiatra: \"A los profesionales nos resulta más fácil ayudar que entrar en contacto con nuestra vulnerabilidad\"",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20261010/maria-dolores-braquehais-psiquiatra-profesionales-135126528",
+    "pubDate": "2026-10-10 08:00:20",
+    "category": "",
+    "description": "<h2 class=\"item\">Esta profesional alerta de que los profesionales de salud mental tienen dificultades para dejarse ayudar</h2><h2 class=\"item\">\"Parece que el ideal de buen profesional es incompatible con estar enfermo, y todavía más con tener un trastorno mental\", alerta</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Listas de espera, atención a menores y lucha contra el estigma: los retos de la salud mental en Catalunya",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20261010/listas-espera-atencion-menores-lucha-estigma-retos-salud-mental-cataluna-135130892",
+    "pubDate": "2026-10-10 08:00:20",
+    "category": "",
+    "description": "<h2 class=\"item\">Profesionales, entidades y administración apuestan por mejorar los recursos comunitarios y garantizar derechos</h2><h2 class=\"item\">El acceso a la vivienda, el trabajo, la cultura y el ocio, claves para la recuperación de las personas con trastornos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Vanesa Almeida, campeona del mundo de vela con autismo: \"Ir al súper puede ser una pesadilla; pero no estoy enferma, solo percibo los ruidos de otra forma”",
+    "link": "https://www.elperiodico.com/es/sociedad/20261010/vanesa-almeida-campeona-mundo-vela-autismo-ruidos-sensibilidad-neurodivergencia-135148422",
+    "pubDate": "2026-10-10 08:00:20",
+    "category": "",
+    "description": "<h2 class=\"item\">La deportista de élite explica en un libro cómo es la vida de las personas neurodivergentes con el objetivo de \"visibilizarlas\" y acabar con el estigma que les persigue. \"Cada día nacen 12 bebés autistas en España\", advierte</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ser-feliz/20260512/eloisa-roman-psiquiatra-autismo-manera-129882704\" target=\"_blank\">Eloísa Román, psiquiatra: \"El autismo es una manera de percibir y procesar, no implica una patología mental\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20260718/marc-cucurella-hijo-mateo-autismo-final-mundial-sufrir-dv-et-132510811\" target=\"_blank\">Marc Cucurella, sobre su hijo con autismo: \"Es difícil. No sabes como ayudarlo\"</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Crónica desde París: la antigua muralla gala que podría revelar el origen de Lutecia",
+    "link": "https://www.elperiodico.com/es/internacional/20261010/cronica-paris-antigua-muralla-gala-origen-lutecia-135197481",
+    "pubDate": "2026-10-10 08:00:20",
+    "category": "",
+    "description": "<h2>El muro de 20 metros, hallado bajo el Hôtel-Dieu en la Île de la Cité, podría formar parte de la fortificación de la ciudad original de los Parisii descrita por Julio César, según los arqueólogos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Tormentas después del verano más cálido: ¿dónde va toda esta agua?",
+    "link": "https://www.elperiodico.com/es/sociedad/20261010/tormentas-despues-verano-calido-lluvias-135144606",
+    "pubDate": "2026-10-10 08:00:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Las intensas lluvias caen sobre suelos secos, y en algunos casos quemados, dificultando la regeneración de los bosques y que los acuíferos se llenen</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261005/tormentas-impredecibles-tropicales-mediterraneo-cambio-climatico-lluvias-cataluna-135028717\" target=\"_blank\">El cambio climático inaugura la era de las \"tormentas impredecibles\" y de las lluvias \"tropicales\" en el Mediterráneo: \"Estamos ante escenarios inéditos\"</a></h2>",
+    "topic": "estado de los embalses",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Генштаб розповів про бої на ключових напрямках",
+    "link": "https://ua.korrespondent.net/ukraine/4918882-henshtab-rozpoviv-pro-boi-na-kluichovykh-napriamkakh",
+    "pubDate": "2026-10-10 07:49:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591739.jpg\">Набільше боїв зафіксовано на Покровському напрямку, де наші оборонці зупинили ворожі штурми у районах 14 населених пунктів.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Атака на Запоріжжя: росіяни вбили двох дітей",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4918880-ataka-na-zaporizhzhia-rosiiany-vbyly-dvokh-ditei",
+    "pubDate": "2026-10-10 07:22:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591731.jpg\">Пошуково-рятувальні роботи на місцях ударів тривають. Під завалами ще можуть перебувати люди.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "El jurado declara culpable de asesinato, agresión sexual y robo al asesino de Carla Fernández en Girona",
+    "link": "https://www.elperiodico.com/es/sociedad/20261010/jurado-declara-culpable-asesinato-agresion-asesino-girona-135197037",
+    "pubDate": "2026-10-10 07:11:04",
+    "category": "",
+    "description": "<h2>El jurado, que ha destacado la \"obsesión\" que tenía por Carla, le ha considerado culpable por unanimidad </h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ayudas que quedan en tierra",
+    "link": "https://www.elperiodico.com/es/opinion/20261010/ayudas-quedan-tierra-135183233",
+    "pubDate": "2026-10-10 07:01:22",
+    "category": "",
+    "description": "<h2>La ciudadanía sufre las consecuencias de una gestión pública cortocircuitada por recursos judiciales y cambios constantes que dificultan la planificación de la economía doméstica y el acceso a derechos</h2>",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Santiago Lorenzo: \"Acertar con el problema de la vivienda en una novela es como predecir un amanecer: siempre va a estar ahí\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261010/santiago-lorenzo-entrevista-contenta-problema-vivienda-135170557",
+    "pubDate": "2026-10-10 07:01:22",
+    "category": "",
+    "description": "<h2 class=\"item\">El autor de 'Los asquerosos' y 'Tostonazo', regresa con 'Contenta', tronchante odisea de una autónoma contratada para promocionar el pueblo más feo España </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Guerra de Irán, en directo | Última hora",
+    "link": "https://www.elperiodico.com/es/internacional/20261010/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713",
+    "pubDate": "2026-10-10 06:55:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20260410/guerra-ucrania-rusia-ultima-hora-zelenski-trump-putin-directo-126605559\" >DIRECTO | Guerra Ucrania - Rusia, en directo: última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Guerra Ucrania - Rusia, última hora en directo",
+    "link": "https://www.elperiodico.com/es/internacional/20261010/guerra-ucrania-rusia-ultima-hora-126605559",
+    "pubDate": "2026-10-10 06:51:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Directo GUERRA DE IRÁN | Última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Reacciones a la muerte de Maricarmen, en directo | Última hora de la acampada por la vivienda, protestas y huelga general",
+    "link": "https://www.elperiodico.com/es/politica/20261010/acampada-sol-desahucio-maricarmen-protestas-decreto-vivienda-ultima-hora-directo-barcelona-plaza-cataluna-134724337",
+    "pubDate": "2026-10-10 06:47:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20261005/elecciones-generales-espana-2026-pedro-sanchez-ultima-hora-directo-135003267\" target=\"_blank\">Aquí, las elecciones del 29 de noviembre, al minuto.</a></h2>",
+    "topic": "вибори",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Tráfico en Barcelona, en directo: última hora de Rodalies, carreteras y operación salida del 12 de octubre",
+    "link": "https://www.elperiodico.com/es/barcelona/20261010/trafico-rodalies-directo-trenes-carreteras-lluvias-133938712",
+    "pubDate": "2026-10-10 06:45:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/barcelona/20260930/barcelona-redisenara-cuatro-grandes-accesos-aliviar-atascos-134836777\" target=\"_blank\">Barcelona rediseñará sus accesos por la Diagonal, la Gran Via y la Ronda Litoral para reducir atascos</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Генштаб назвав втрати Росії станом на 10 жовтня",
+    "link": "https://ua.korrespondent.net/ukraine/4918876-henshtab-nazvav-vtraty-rosii-stanom-na-10-zhovtnia",
+    "pubDate": "2026-10-10 06:44:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591705.jpg\">Українські військові знищили понад 2200 одиниць російської техніки, серед якої 50 гармат, дві РСЗВ і шість засобів ППО.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Іран заявив про бажання приєднатися до СНД",
+    "link": "https://ua.korrespondent.net/world/4918874-iran-zaiavyv-pro-bazhannia-pryiednatysia-do-snd",
+    "pubDate": "2026-10-10 06:27:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591698.jpg\">Іран вважає себе невід'ємною частиною взаємопов'язаного географічного простору регіону, сказав Масуд Пезешкіан.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Pinone: “El baloncesto se convirtió en una obsesión para mí”",
+    "link": "https://as.com/baloncesto/mas_baloncesto/pinone-el-baloncesto-se-convirtio-en-una-obsesion-para-mi-f202610-n/",
+    "pubDate": "2026-10-10 06:20:12",
+    "category": "Baloncesto",
+    "description": "John Gabriel Pinone Jr. (Hartford, Connecticut, 1961) ingresará en el Hall of Fame del baloncesto español como uno de los mejores extranjeros de su historia.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La ‘conspiranoica’ Argentina recula 80 días después del Mundial: “No hubo nada raro”",
+    "link": "https://www.elperiodico.com/es/deportes/20261010/conspiranoica-argentina-recula-80-dias-135194170",
+    "pubDate": "2026-10-10 06:04:05",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Médicos catalanes convierten el Rally de Marruecos en una misión sanitaria",
+    "link": "https://www.elperiodico.com/es/sanidad/20261010/medicos-catalanes-convierten-rally-marruecos-135155745",
+    "pubDate": "2026-10-10 06:03:19",
+    "category": "",
+    "description": "<h2 class=\"item\">Hay vidas paralelas. Vidas que nunca se cruzan. Mientras los gobiernos mantienen un pulso, la gente corriente se pone de acuerdo, sobre todo si se necesitan. Marruecos ha sido escenario estos últimos días de una nueva prueba de que la solidaridad entre los pueblos existe, sí.</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Dudamel, un entusiasta del Orfeó Català: \"'Mis queridos', así nos llama\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261010/dudamel-entusiasta-orfeo-catala-queridos-135191355",
+    "pubDate": "2026-10-10 06:00:58",
+    "category": "",
+    "description": "<h2>La relación ha ido a más desde que el maestro les dirigió por primera vez con la Orquesta Simón Bolívar en el Palau de la Música Catalana en el 2015</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Orfeó Català, por dentro: cómo es cantar por amor al arte en la élite musical",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261010/orfeo-catala-cantar-amor-arte-135120374",
+    "pubDate": "2026-10-10 06:00:57",
+    "category": "",
+    "description": "<h2>La formación 'amateur' inicia esta semana una gira internacional con la Filarmónica de Nueva York de la mano de Gustavo Dudamel, con quien interpretará ‘Sobre la transmigración de las almas’, una conmovedora obra de John Adams en el 25 aniversario de los atentados del World Trade Center    </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Grandes caseros frenan la oferta de alquileres y dejan casas vacías hasta el 29-N",
+    "link": "https://www.elperiodico.com/es/economia/20261010/grandes-caseros-ofertas-alquileres-135190976",
+    "pubDate": "2026-10-10 06:00:52",
+    "category": "",
+    "description": "<h2>Fondos como Avalon Properties, DeA Capital y Harrison Street o Patrizia, grupos familiares como Núñez i Navarro y aseguradoras como AXA han paralizado los nuevos contratos a la espera de profundizar en los cambios legales. Entre todos suman más de 10.000 viviendas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Mapa | Estas son las carreteras afectadas por las tractoradas previstas el próximo miércoles en Catalunya",
+    "link": "https://www.elperiodico.com/es/economia/20261010/mapa-carreteras-afectadas-tractoradas-16octubre-barcelona-135188851",
+    "pubDate": "2026-10-10 06:00:49",
+    "category": "",
+    "description": "<h2>Los sindicatos agrarios, que prevén que las concentraciones en la capital catalana empiecen sobre las 12.00 horas, reclaman medidas para paliar el impacto de la subida del gasóleo</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261009/centenar-tractores-inician-lleida-tanda-movilizaciones-protestas-agricultores-carburantes-135178738\" target=\"_blank\">Un centenar de tractores inician en Lleida una nueva tanda de protestas agrarias por la subida de los carburantes</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "La 'vía Rufián' se cuela en la batalla por el liderazgo del Frente Amplio con su futuro en ERC en el aire",
+    "link": "https://www.elperiodico.com/es/politica/20261010/frente-amplio-silencio-negociones-candidato-podemos-135189696",
+    "pubDate": "2026-10-10 06:00:48",
+    "category": "",
+    "description": "<h2>Colau y Barbero sitúan al diputado catalán como la mejor opción para unificar a la izquierda </h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El PSOE denuncia un fuerte incremento de los ataques a sus sedes: 251 en tres años",
+    "link": "https://www.elperiodico.com/es/politica/20261010/psoe-denuncia-fuerte-incremento-ataques-135187919",
+    "pubDate": "2026-10-10 06:00:45",
+    "category": "",
+    "description": "<h2 class=\"item\">La dirección federal valora reforzar la seguridad con cámaras de vigilancia y otras medidas en sus principales locales</h2><h2 class=\"item\">Rebeca Torró denuncia que \"el día que pase algo será tarde, y lamentablemente estamos muy cerca\"</h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "El Barça recibe al Getafe sin Raphinha pero con Lamine Yamal",
+    "link": "https://www.elperiodico.com/es/deportes/20261010/barca-recibe-getafe-raphinha-lamine-135185048",
+    "pubDate": "2026-10-10 06:00:44",
+    "category": "",
+    "description": "<h2>Flick prefiere reservar al capitán, que volvió lesionado con Brasil, para asegurar su recuperación, pero ve innecesario reservar a Lamine Yamal: por su juventud y porque disfruta con el futbol y la competición</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Supremo y Tribunal de Cuentas: dos formas de aplicar la amnistía",
+    "link": "https://www.elperiodico.com/es/politica/20261010/supremo-tribunal-cuentas-formas-aplicar-distintas-aplicar-amnistia-135185588",
+    "pubDate": "2026-10-10 06:00:40",
+    "category": "",
+    "description": "<h2>El Alto Tribunal se dispone a levantar la inhabilitación a todos los condenados y despejar su carrera política, tras estudiar la sentencia del Constitucional que declara que la malversación debe ser amnistiada</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El Bernabéu juzga esta noche los caprichos de Mbappé, lo quiera o no Mourinho",
+    "link": "https://www.elperiodico.com/es/deportes/20261010/bernabeu-juzga-noche-caprichos-mbappe-real-madrid-135184342",
+    "pubDate": "2026-10-10 06:00:35",
+    "category": "",
+    "description": "<h2>El delantero francés se somete al veredicto del madridismo tras la polémica por la camiseta de apoyo a Ceuta, su indisimulada campaña por el Balón de Oro y las escapadas con su pareja a París y Suiza mientras estaba lesionado</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Los retos económicos del Gobierno que salga de las urnas el 29-N",
+    "link": "https://www.elperiodico.com/es/economia/20261010/retos-economicos-proximo-gobierno-salga-29-noviembre-135195863",
+    "pubDate": "2026-10-10 06:00:35",
+    "category": "",
+    "description": "<h2 class=\"item\">El próximo Ejecutivo heredará una economía que crece por encima europea, pero con importantes desequilibrios estructurales todavía por resolver</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "¿Hamás como amenaza o como activo político? Netanyahu alarga la vida del grupo armado un año después de la tregua",
+    "link": "https://www.elperiodico.com/es/internacional/20261010/israel-alarga-vida-hamas-gaza-instrumento-politico-amenaza-desarme-135195845",
+    "pubDate": "2026-10-10 06:00:31",
+    "category": "",
+    "description": "<h2>El rechazo del Gobierno israelí al plan para pacificar Gaza ha dejado en el aire el desarme de los islamistas, nuevamente utilizados por Tel Aviv como instrumento para avanzar sus intereses políticos</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Entrevista a Joan Manuel del Pozo",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/entrevista-joan-manuel-pozo-vide/135128953.shtml",
+    "pubDate": "2026-10-10 06:00:27",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La escuela catalana apuesta por remontar con más conocimientos básicos, evaluación del sistema, estabilidad e inclusión real",
+    "link": "https://www.elperiodico.com/es/sociedad/20261010/debate-futuro-escuela-catalana-conocimientos-basicos-evaluacion-sistema-inclusion-135085666",
+    "pubDate": "2026-10-10 06:00:25",
+    "category": "",
+    "description": "<h2 class=\"item\">EL PERIÓDICO recoge las demandas de la comunidad educativa en el marco del debate educativo que liderará el Consell d'Educació de Catalunya para dar respuesta a la crisis del modelo </h2><h2 class=\"item\">Profesores y familias también priorizan el confort climático y la inclusión de las actividades de ocio en el ámbito escolar </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261009/joan-manuel-pozo-consell-educacio-catalunya-director-debate-educacion-cataluna-sindicatos-interlocutores-medidas-practicas-135063136\" target=\"_blank\">Joan Manuel del Pozo, presidente del Consell d'Educació de Catatalunya: \"El debate sobre el sistema educativo buscará medidas prácticas que cambien el malestar\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260906/cambios-sociales-desbordan-sistema-educativo-cataluna-cambio-paradigma-133864609\">Los cambios sociales desbordan el sistema educativo: \"La escuela funciona con el imaginario de una sociedad que ya no existe\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Joan Manuel del Pozo, presidente del Consell d'Educació de Catatalunya: \"El debate sobre el sistema educativo buscará medidas prácticas que cambien el malestar\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261010/joan-manuel-pozo-consell-educacio-catalunya-director-debate-educacion-cataluna-sindicatos-interlocutores-medidas-practicas-135063136",
+    "pubDate": "2026-10-10 06:00:25",
+    "category": "",
+    "description": "<h2 class=\"item\">Tras recibir el encargo del Govern de dirigir el debate sobre la revisión del sistema educativo catalán, afronta el reto con una idea central: convertir el malestar en propuestas capaces de generar un pacto político estable</h2><h2 class=\"item\">\"Sin tocar el marco legal vigente, el objetivo es construir consensos que no se queden en declaraciones de principios, sino que se traduzcan en medidas sostenidas en el tiempo\", resume</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260906/cambios-sociales-desbordan-sistema-educativo-cataluna-cambio-paradigma-133864609\" target=\"_blank\">Los cambios sociales desbordan el sistema educativo: \"La escuela funciona con el imaginario de una sociedad que ya no existe\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261009/debate-futuro-escuela-catalana-conocimientos-basicos-evaluacion-sistema-inclusion-135085666\" target=\"_blank\">La escuela catalana apuesta por más conocimientos básicos, estabilidad, inclusión real y evaluación del sistema</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Marta P. Estarellas, de aborrecer la física a liderar una empresa insignia del sector",
+    "link": "https://www.elperiodico.com/es/economia/20261010/marta-p-estarellas-aborrecer-fisica-liderar-empresa-insignia-sector-computacion-cuantica-135195839",
+    "pubDate": "2026-10-10 06:00:22",
+    "category": "",
+    "description": "<h2>La consejera delegada de Qilimanjaro Quantum Tech descubrió la computación cuántica mientras estudiaba y decidió volcarse en ella como única forma de responder a sus necesidades como investigadora</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "vLex se dispone a liderar la IA jurídica cuando el 89% de los abogados ya usan alguna herramienta: \"la mayoría ChatGPT\"",
+    "link": "https://www.elperiodico.com/es/economia/20261010/vlex-dispone-liderar-ia-juridica-134890705",
+    "pubDate": "2026-10-10 06:00:12",
+    "category": "",
+    "description": "<h2 class=\"item\">La empresa barcelonesa, que lleva más de 25 años ofreciendo a los abogados acceso a su base de datos legal, inicia una nueva etapa tras su integración en Clio por 1.000 millones de dólares</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20250630/canadiense-clio-plataforma-legal-catalana-119221181\">La barcelonesa vLex se convierte en el nuevo unicornio español</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Підсумки 09.10: Скандал зі США і удари по РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4918764-pidsumky-0910-skandal-zi-ssha-i-udary-po-rf",
+    "pubDate": "2026-10-10 05:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591685.jpg\">Трамп зняв санкції з рсійського дизеля і домовився пр постачання, Зеленський гостро відреагував; У РФ уражені ще один дата-центр і два НПЗ; Кореспондент.net виділяє головні події вчорашнього дня.",
+    "topic": "підсумки",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Elisenda y Xavi una vida entre la música y el Orfeó Català",
+    "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/elisenda-xavi-vida-musica-orfeo/135189399.shtml",
+    "pubDate": "2026-10-10 05:45:59",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Más allá de la RSC: cómo generar impacto positivo real en el territorio",
+    "link": "https://www.elperiodico.com/es/sociedad/20261010/rsc-generar-impacto-positivo-real-bc-135195592",
+    "pubDate": "2026-10-10 05:30:43",
+    "category": "",
+    "description": "<h2>El despliegue de infraestructuras clave para la transición ecológica ya no admite modelos impuestos desde la distancia</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Del libro a la pantalla: 13 historias españolas que podrían convertirse en la próxima serie de Netflix",
+    "link": "https://www.elperiodico.com/es/tele/yotele/20261010/libro-pantalla-13-historias-espanolas-podrian-convertirse-proxima-serie-netflix-135133544",
+    "pubDate": "2026-10-10 05:30:43",
+    "category": "",
+    "description": "<h2>De la niebla de la ría de Arousa a Tabarca, pasando por Lekeitio, Santander, San Sebastián o el Pirineo catalán: trece novelas recientes que reúnen historias y escenarios con potencial para dar el salto al audiovisual.</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "РФ атакувала Запоріжжя: під завалами люди",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4918871-rf-atakuvala-zaporizhzhia-pid-zavalamy-luidy",
+    "pubDate": "2026-10-10 05:26:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591671.jpg\">Один з ударів прийшовся на житлову п'ятиповерхівку, де був частково зруйнований під'їзд. Дві людини загинуло.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "У Трампа пояснили, чому він уклав угоду з Путіним",
+    "link": "https://ua.korrespondent.net/world/4918869-u-trampa-poiasnyly-chomu-vin-uklav-uhodu-z-putinym",
+    "pubDate": "2026-10-10 04:56:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591653.jpg\">Зеленський проігнорував півдюжини прохань США припинити атаки на російські НПЗ. Українським перемовникам пригрозили, що США припинять ділитися розвідданими.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El paciente con preocupación excesiva por su salud en Urgencias: ¿ansiedad o algo más?",
+    "link": "https://www.elperiodico.com/es/salud/20261010/paciente-preocupacion-excesiva-urgencias-salud-mental-135195497",
+    "pubDate": "2026-10-10 04:50:34",
+    "category": "",
+    "description": "<h2>La Sociedad Española de Medicina de Urgencias y Emergencias subraya la importancia de realizar una valoración clínica rigurosa que permita distinguir entre la ansiedad y una patología grave</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "У Путіна розповіли про \"романтичні\" деталі розмови з Трампом",
     "link": "https://ua.korrespondent.net/world/4918865-u-putina-rozpovily-pro-romantychni-detali-rozmovy-z-trampom",
+    "pubDate": "2026-10-10 03:53:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591633.jpg\">Глава Білого дому тепло привітав кривавого диктатора з днем народження, а наприкінці розмови \"ніхто не хотів першим класти слухавку\".",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "У Путіна розповіли \"романтичні\" деталі розмови з Трампом",
+    "link": "https://ua.korrespondent.net/world/4918865-u-putina-rozpovily-romantychni-detali-rozmovy-z-trampom",
     "pubDate": "2026-10-10 03:53:00",
     "category": "Новини світу",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591633.jpg\">Глава Білого дому тепло привітав кривавого диктатора з днем народження, а наприкінці розмови \"ніхто не хотів першим класти слухавку\".",
