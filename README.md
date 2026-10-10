@@ -1,8 +1,9 @@
-# News for 2026-10-10 19:51
+# News for 2026-10-10 20:54
 
 Previous day: [2026-10-09](./data/2026-10-09.md)
 
 ## ua.korrespondent.net
+20:37 [Укренерго попередило про відключення на 11 жовтня](https://ua.korrespondent.net/ukraine/4918980-ukrenerho-poperedylo-pro-vidkluichennia-na-11-zhovtnia)<br>
 18:57 [Удар по п'ятиповерхівці в Запоріжжі: 20 загиблих](https://ua.korrespondent.net/city/zaporozhye/4918965-udar-po-piatypoverkhivtsi-v-zaporizhzhi-20-zahyblykh)<br>
 16:29 [Стали відомі наслідки атаки на медзаклад у Харкові](https://ua.korrespondent.net/city/kharkov/4918940-staly-vidomi-naslidky-ataky-na-medzaklad-u-kharkovi)<br>
 16:03 [Удар по ресторану в Києві: число поранених зросло](https://ua.korrespondent.net/city/kiev/4918935-udar-po-restoranu-v-kyievi-chyslo-poranenykh-zroslo)<br>
@@ -15,12 +16,16 @@ Previous day: [2026-10-09](./data/2026-10-09.md)
 10:49 [У ПС назвали кількість знищених цілей у вересні](https://ua.korrespondent.net/ukraine/4918901-u-ps-nazvaly-kilkist-znyschenykh-tsilei-u-veresni)<br>
 
 ## as.com
+20:02 [Casademont Zaragoza desespera al Leyma a base de triples](https://as.com/baloncesto/acb/casademont-zaragoza-desespera-al-leyma-a-base-de-triples-f202610-n/)<br>
 18:16 [Ilunion, campeón de la Supercopa de España de BSR por cuarta vez consecutiva](https://as.com/baloncesto/mas_baloncesto/ilunion-campeon-de-la-supercopa-de-espana-de-bsr-por-cuarta-vez-consecutiva-f202610-n/)<br>
 11:37 [“En el Madrid debes jugar las finales y ganarlas. Nosotros no lo hicimos”](https://as.com/baloncesto/euroliga/en-el-madrid-debes-jugar-las-finales-y-ganarlas-nosotros-no-lo-hicimos-f202610-n/)<br>
 08:05 [El regreso del gran ogro verde](https://as.com/baloncesto/euroliga/el-regreso-del-gran-ogro-verde-f202610-n/)<br>
 06:20 [Pinone: “El baloncesto se convirtió en una obsesión para mí”](https://as.com/baloncesto/mas_baloncesto/pinone-el-baloncesto-se-convirtio-en-una-obsesion-para-mi-f202610-n/)<br>
 
 ## www.elperiodico.com
+20:49 [Un hombre mata a tiros en EEUU a ocho personas, entre ellas dos niños, y se suicida](https://www.elperiodico.com/es/internacional/20261010/hombre-mata-tiros-eeuu-ocho-135213910)<br>
+20:11 [Detectados al menos once équidos con fiebre del Nilo Occidental en Almacelles (Segrià) y Pau (Alt Empordà)](https://www.elperiodico.com/es/sociedad/20261010/detectados-once-equidos-fiebre-nilo-occidental-emporda-135212954)<br>
+19:57 [La acampada de la Puerta del Sol cumple dos semanas en protesta por la vivienda](https://www.elperiodico.com/es/videos/sociedad/acampada-puerta-sol-cumple-semanas/135212826.shtml)<br>
 19:30 [Mireia Oliván, experta en LinkedIn, desvela una útil herramienta para buscar empleo: "Reúne todas las ofertas del sector público de Catalunya, no solo de la Generalitat"](https://www.elperiodico.com/es/economia/20261010/empleo-publico-cataluna-cido-linkedin-mireia-olivan-dv-et-134833420)<br>
 19:20 [Salarios de hasta 3.300 euros al mes: Finlandia busca maestros españoles para cubrir su falta de profesores](https://www.elperiodico.com/es/educacion/20261010/finlandia-maestros-espanoles-salarios-profesores-vivienda-dv-et-135108841)<br>
 18:52 [Christa Pike, la mujer que sobrevivió a dos inyecciones letales en EEUU, recibe el alta hospitalaria](https://www.elperiodico.com/es/internacional/20261010/christa-pike-mujer-sobrevivio-inyecciones-135211199)<br>
