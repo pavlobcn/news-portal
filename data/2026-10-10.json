@@ -1,5 +1,104 @@
 [
   {
+    "title": "El altar colocado a Sandra Peña en su bloque aparece vandalizado con pintura blanca",
+    "link": "https://www.elperiodico.com/es/sociedad/20261010/altar-colocado-sandra-pena-bloque-135205481",
+    "pubDate": "2026-10-10 15:45:02",
+    "category": "",
+    "description": "<h2>No es la primera vez que ocurre algo así, ya en mayo se le tapó la cara con spray</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Глава держави попередив про нові ракетні удари РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4918930-hlava-derzhavy-poperedyv-pro-novi-raketni-udary-rf",
+    "pubDate": "2026-10-10 15:39:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591998.png\">Зеленський заявив про збереження загрози нових ракетних атак РФ і наголосив на необхідності додаткових систем ППО. Президенти України та Франції обговорили наслідки послаблення санкцій проти російських нафтопродуктів.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Tiempo en Catalunya mañana domingo: Temperaturas en aumento y vuelve la nubosidad a Barcelona",
+    "link": "https://www.elperiodico.com/es/tiempo/20261010/tiempo-cataluna-hoy-domingo-temperaturas-lluvias-dv-loc-135206396",
+    "pubDate": "2026-10-10 15:38:12",
+    "category": "",
+    "description": "<h2 class=\"item\">El Observatori Fabra de Barcelona, suma 734 litros desde el 1 de enero, un 80% más que la media de este siglo</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tiempo/20261010/estaciones-meteocat-lluvias-cataluna-barcelona-granollers-dv-135197943\" >Una cuarta parte de las estaciones del Meteocat ya han superado la media anual de precipitaciones este año</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tiempo/20261007/lluvias-300-litros-valles-oriental-maresme-terres-de-lebre-entre-viernes-y-martes-135102258\" >Las lluvias dejan más de 300 litros por metro cuadrado en el Vallès Oriental, el Maresme y las Terres de l’Ebre entre el viernes y el martes</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Comunidad de Madrid pide al delegado del Gobierno que levante el campamento de Sol y alude a la seguridad de los empleados de Presidencia",
+    "link": "https://www.elperiodico.com/es/politica/20261010/comunidad-pide-carta-acampada-sol-terroristas-135206804",
+    "pubDate": "2026-10-10 15:35:23",
+    "category": "",
+    "description": "<h2>Aseguran que hay \"personas vinculadas a organizaciones con presuntos vínculos con otras calificadas como terroristas por distintos países\"</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Así es la mayor fábrica de especias de Europa",
+    "link": "https://www.elperiodico.com/es/sociedad/20261010/mayor-fabrica-especias-europa-135205480",
+    "pubDate": "2026-10-10 15:30:29",
+    "category": "",
+    "description": "<h2>La compañía alicantina quiere pasar de 119 a 200 millones de facturación gracias al aumento de capacidad que le confieren sus nuevas instalaciones de 27.000 metros cuadrados, que incorporan la última tecnología de visión artificial</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "De Lamine Yamal a la princesa Leonor: los famosos que podrán votar por primera vez en unas elecciones generales",
+    "link": "https://www.elperiodico.com/es/gente/20261010/famosos-votar-primera-vez-elecciones-generales-29-noviembre-dv-135049891",
+    "pubDate": "2026-10-10 15:30:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Personalidades del deporte, las redes sociales y la Casa Real podrán estrenarse ante las urnas </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261006/elecciones-generales-espana-2026-pedro-sanchez-ultima-hora-directo-135003267\" >Elecciones generales en España 2026, en directo: última hora y todas las reacciones a la convocatoria de Sánchez para el 29 de noviembre</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Marcos Vázquez, experto en fitness: \"Si no levantas peso a los 50 años, alguien tendrá que levantarte a ti a los 80\"",
+    "link": "https://www.elperiodico.com/es/salud/20261010/marcos-vazquez-experto-fitness-pesas-salud-vejez-dv-et-134879064",
+    "pubDate": "2026-10-10 15:16:49",
+    "category": "",
+    "description": "<h2 class=\"item\">El especialista detrás del perfil de Instagram Fitness Revolucionario destaca el entrenamiento de fuerza como una herramienta para preservar la autonomía, la movilidad y la independencia durante la vejez</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/salud/20260122/ejercicio-adultos-padres-vejez-50-anos-60-anos-david-cespedes-dv-125522882\">Los cinco ejercicios clave a partir de los 50 para ganar fuerza y evitar caídas</a></h2>",
+    "topic": "блогери",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Peluquerías, pastelerías y tiendas de ropa: el comercio que renace entre las ruinas de la dana",
+    "link": "https://www.elperiodico.com/es/sociedad/20261010/peluquerias-pastelerias-tiendas-ropa-comercio-135205477",
+    "pubDate": "2026-10-10 15:16:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Emprendedores jóvenes y población inmigrante recuperan los bajos dañados y los que dejaron los comerciantes jubilados</h2><h2 class=\"item\">La Unió Gremial alerta de que cada vez más locales arrasados se convierten en viviendas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Зеленський анонсував отримання амуніції для F-16",
+    "link": "https://ua.korrespondent.net/ukraine/4918927-zelenskyi-anonsuvav-otrymannia-amunitsii-dlia-F-16",
+    "pubDate": "2026-10-10 15:15:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591982.jpg\">Фінляндія передасть Україні амуніцію для F-16, яка допомагає знищувати реактивні \"шахеди\". Поставка очікується найближчими днями.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "El psicólogo Rafa Guerrero, sobre la relación entre los hermanos: \"Es muy importante el número que yo ocupe dentro de mi familia\"",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20261010/relacion-hermanos-infancia-psicologo-rafa-guerrero-dv-et-134758970",
+    "pubDate": "2026-10-10 15:10:00",
+    "category": "",
+    "description": "<h2>Los hijos suelen tener una infancia distinta a pesar de que vivan bajo el mismo techo: \"Dos niños que crecen en la misma familia pueden llegar a ser muy, pero muy diferentes\"</h2><h2><a href=\"https://www.elperiodico.com/es/ser-feliz/20260928/tdah-nacidos-diciembre-psicologo-rafa-guerrero-dv-et-134320637\" >Rafa Guerrero, psicólogo, sobre el TDHA en los niños nacidos en diciembre: \"La única diferencia entre esos niños es que unos llevan 11 meses más de vida\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260615/hermanos-mayores-mas-inteligentes-psicologos-personalidad-orden-nacimiento-dv-130663129\" >El orden de nacimiento sí puede influir en la inteligencia: el dato que favorece a los hermanos mayores</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los Bukaneros provocan la suspensión del Rayo-Athletic por lanzamiento de objetos",
+    "link": "https://www.elperiodico.com/es/deportes/20261010/bukaneros-provocan-suspension-rayo-athletic-135206465",
+    "pubDate": "2026-10-10 15:09:17",
+    "category": "",
+    "description": "<h2>Una protesta convocada en el minuto 13 por los aficionados rayistas ha derivado en una lluvia de pelotas de goma que ha forzado la suspensión definitiva del encuentro</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Feijóo promete una \"reconstrucción nacional\" total para abrir un \"tiempo nuevo\" tras el 29N",
     "link": "https://www.elperiodico.com/es/videos/politica/feijoo-promete-reconstruccion-nacional-total/135206329.shtml",
     "pubDate": "2026-10-10 15:03:32",
@@ -43,6 +142,15 @@
     "description": "<h2 class=\"item\">El multipropietario ha acudido a ‘Código 10’ para hablar sobre el alquiler, la selección de inquilinos y las consecuencias que, a su juicio, pueden tener las nuevas medidas sobre vivienda</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261010/german-44-anos-propietario-11-pisos-inversion-inmobiliaria-consejo-redes-sociales-dv-et-135205862\">Germán (44 años), propietario de 11 pisos: \"El mejor pueblo para invertir en vivienda es Puertollano; solo 346 euros el metro cuadrado\"</a></h2>",
     "topic": "телебачення",
     "topic_match_probability": 60
+  },
+  {
+    "title": "У Запоріжжі зросла кількість жертв атаки РФ: що відомо про наслідки",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4918924-u-zaporizhzhi-zrosla-kilkist-zhertv-ataky-rf-scho-vidomo-pro-naslidky",
+    "pubDate": "2026-10-10 14:49:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591965.jpg\">У Запоріжжі зросла кількість жертв російської атаки керованими авіабомбами - до 17 людей. На місці удару триває пошуково-рятувальна операція.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Germán (44 años), propietario de 11 pisos: \"El mejor pueblo para invertir en vivienda es Puertollano; solo 346 euros el metro cuadrado\"",
@@ -144,6 +252,15 @@
     "topic_match_probability": 90
   },
   {
+    "title": "Київ зазнав ракетного удару, є поранені",
+    "link": "https://ua.korrespondent.net/city/kiev/4918920-kyiv-zaznav-raketnoho-udaru-ye-poraneni",
+    "pubDate": "2026-10-10 14:01:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591927.jpg\">В Оболонському районі влучання в будівлю ресторану. За іншою адресою на Оболоні уламки ракети впали в дворі житлового будинку.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Comida ilimitada por 19 euros: así es el histórico buffet libre de cocina casera catalana",
     "link": "https://www.elperiodico.com/es/gastronomia/20261010/buffet-libre-altafulla-tarragona-cataluna-precio-dv-loc-135173939",
     "pubDate": "2026-10-10 14:00:14",
@@ -216,6 +333,15 @@
     "topic_match_probability": 85
   },
   {
+    "title": "Відключення в Києві: стали відомі подробиці",
+    "link": "https://ua.korrespondent.net/city/kiev/4918915-vidkluichennia-v-kyievi-staly-vidomi-podrobytsi",
+    "pubDate": "2026-10-10 13:23:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591914.jpg\">Наразі відновлено рух поїздів на всіх трьох лініях метро, однак через перебої з електропостачанням інтервали між поїздами залишаються збільшеними.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "El cambio climático podría aumentar la amenaza del mercurio para la salud",
     "link": "https://www.elperiodico.com/es/sociedad/20261010/cambio-climatico-aumentar-amenaza-mercurio-135202839",
     "pubDate": "2026-10-10 13:16:07",
@@ -248,6 +374,15 @@
     "pubDate": "2026-10-10 12:47:05",
     "category": "",
     "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Києві зупинилися поїзди метро, є перебої з водою",
+    "link": "https://ua.korrespondent.net/city/kiev/4918910-u-kyievi-zupynylysia-poizdy-metro-ye-pereboi-z-vodoui",
+    "pubDate": "2026-10-10 12:28:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591879.jpg\">Через пошкодження енергообʼєкту в Київській області погіршилася ситуація з енергозабезпеченням столиці.",
     "topic": "",
     "topic_match_probability": 0
   },

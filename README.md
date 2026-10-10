@@ -1,9 +1,13 @@
-# News for 2026-10-10 15:06
+# News for 2026-10-10 15:46
 
 Previous day: [2026-10-09](./data/2026-10-09.md)
 
 ## ua.korrespondent.net
+14:49 [У Запоріжжі зросла кількість жертв атаки РФ: що відомо про наслідки](https://ua.korrespondent.net/city/zaporozhye/4918924-u-zaporizhzhi-zrosla-kilkist-zhertv-ataky-rf-scho-vidomo-pro-naslidky)<br>
+14:01 [Київ зазнав ракетного удару, є поранені](https://ua.korrespondent.net/city/kiev/4918920-kyiv-zaznav-raketnoho-udaru-ye-poraneni)<br>
 13:42 [Сили оборони повторно уразили ЛВДС Самара](https://ua.korrespondent.net/ukraine/4918918-syly-oborony-povtorno-urazyly-lvds-samara)<br>
+13:23 [Відключення в Києві: стали відомі подробиці](https://ua.korrespondent.net/city/kiev/4918915-vidkluichennia-v-kyievi-staly-vidomi-podrobytsi)<br>
+12:28 [У Києві зупинилися поїзди метро, є перебої з водою](https://ua.korrespondent.net/city/kiev/4918910-u-kyievi-zupynylysia-poizdy-metro-ye-pereboi-z-vodoui)<br>
 11:53 [Росія "подякувала" за зняття санкцій - Зеленський](https://ua.korrespondent.net/ukraine/4918907-rosiia-podiakuvala-za-zniattia-sanktsii-zelenskyi)<br>
 10:49 [У ПС назвали кількість знищених цілей у вересні](https://ua.korrespondent.net/ukraine/4918901-u-ps-nazvaly-kilkist-znyschenykh-tsilei-u-veresni)<br>
 
@@ -13,6 +17,9 @@ Previous day: [2026-10-09](./data/2026-10-09.md)
 06:20 [Pinone: “El baloncesto se convirtió en una obsesión para mí”](https://as.com/baloncesto/mas_baloncesto/pinone-el-baloncesto-se-convirtio-en-una-obsesion-para-mi-f202610-n/)<br>
 
 ## www.elperiodico.com
+15:38 [Tiempo en Catalunya mañana domingo: Temperaturas en aumento y vuelve la nubosidad a Barcelona](https://www.elperiodico.com/es/tiempo/20261010/tiempo-cataluna-hoy-domingo-temperaturas-lluvias-dv-loc-135206396)<br>
+15:16 [Peluquerías, pastelerías y tiendas de ropa: el comercio que renace entre las ruinas de la dana](https://www.elperiodico.com/es/sociedad/20261010/peluquerias-pastelerias-tiendas-ropa-comercio-135205477)<br>
+15:10 [El psicólogo Rafa Guerrero, sobre la relación entre los hermanos: "Es muy importante el número que yo ocupe dentro de mi familia"](https://www.elperiodico.com/es/ser-feliz/20261010/relacion-hermanos-infancia-psicologo-rafa-guerrero-dv-et-134758970)<br>
 15:00 [Virgine Viard, la discreta ex directora creativa de Chanel, rompe su silencio tras su polémico despido: "Chanel no era un trabajo. Era mi columna vertebral. La estructura de mi existencia"](https://www.elperiodico.com/es/ocio-y-cultura/20261010/virgine-viard-discreta-ex-directora-135186180)<br>
 13:47 [La aplicación creada en Girona que quiere ayudar a gestionar la ansiedad entre visitas al psicólogo](https://www.elperiodico.com/es/salud/20261010/aplicacion-andy-salud-mental-135203949)<br>
 13:30 [José y su novia se fueron al Bierzo (León) en busca de una vida autosuficiente: "Si pudiera volver atrás, dejaría Madrid otra vez con los ojos cerrados"](https://www.elperiodico.com/es/economia/20261010/dejar-madrid-pueblo-bierzo-leon-cambio-de-vida-autosuficiente-rural-huerto-dv-et-135046706)<br>
