@@ -1,12 +1,27 @@
-# News for 2026-10-10 10:40
+# News for 2026-10-10 15:06
 
 Previous day: [2026-10-09](./data/2026-10-09.md)
 
+## ua.korrespondent.net
+13:42 [Сили оборони повторно уразили ЛВДС Самара](https://ua.korrespondent.net/ukraine/4918918-syly-oborony-povtorno-urazyly-lvds-samara)<br>
+11:53 [Росія "подякувала" за зняття санкцій - Зеленський](https://ua.korrespondent.net/ukraine/4918907-rosiia-podiakuvala-za-zniattia-sanktsii-zelenskyi)<br>
+10:49 [У ПС назвали кількість знищених цілей у вересні](https://ua.korrespondent.net/ukraine/4918901-u-ps-nazvaly-kilkist-znyschenykh-tsilei-u-veresni)<br>
+
 ## as.com
+11:37 [“En el Madrid debes jugar las finales y ganarlas. Nosotros no lo hicimos”](https://as.com/baloncesto/euroliga/en-el-madrid-debes-jugar-las-finales-y-ganarlas-nosotros-no-lo-hicimos-f202610-n/)<br>
 08:05 [El regreso del gran ogro verde](https://as.com/baloncesto/euroliga/el-regreso-del-gran-ogro-verde-f202610-n/)<br>
 06:20 [Pinone: “El baloncesto se convirtió en una obsesión para mí”](https://as.com/baloncesto/mas_baloncesto/pinone-el-baloncesto-se-convirtio-en-una-obsesion-para-mi-f202610-n/)<br>
 
 ## www.elperiodico.com
+15:00 [Virgine Viard, la discreta ex directora creativa de Chanel, rompe su silencio tras su polémico despido: "Chanel no era un trabajo. Era mi columna vertebral. La estructura de mi existencia"](https://www.elperiodico.com/es/ocio-y-cultura/20261010/virgine-viard-discreta-ex-directora-135186180)<br>
+13:47 [La aplicación creada en Girona que quiere ayudar a gestionar la ansiedad entre visitas al psicólogo](https://www.elperiodico.com/es/salud/20261010/aplicacion-andy-salud-mental-135203949)<br>
+13:30 [José y su novia se fueron al Bierzo (León) en busca de una vida autosuficiente: "Si pudiera volver atrás, dejaría Madrid otra vez con los ojos cerrados"](https://www.elperiodico.com/es/economia/20261010/dejar-madrid-pueblo-bierzo-leon-cambio-de-vida-autosuficiente-rural-huerto-dv-et-135046706)<br>
+13:16 [El cambio climático podría aumentar la amenaza del mercurio para la salud](https://www.elperiodico.com/es/sociedad/20261010/cambio-climatico-aumentar-amenaza-mercurio-135202839)<br>
+12:47 [Una cuarta parte de las estaciones de Meteocat ya han superado la media anual de precipitaciones este año](https://www.elperiodico.com/es/sociedad/20261010/cuarta-parte-estaciones-meteocat-superado-media-anual-precipitaciones-135202570)<br>
+12:47 [Las impactantes imágenes del terremoto de magnitud 7,7 que ha sacudido Panamá](https://www.elperiodico.com/es/videos/internacional/impactantes-imagenes-terremoto-magnitud-7/135203100.shtml)<br>
+11:04 [Las impactantes imágenes del terremoto de magnitud 7,7 que ha sacudido Panamá](https://www.elperiodico.com/es/internacional/20261010/panama-terremoto-imagenes-x-videos-danos-vicitmas-135199559)<br>
+11:00 [La cloaca en esencia](https://www.elperiodico.com/es/opinion/20261010/cloaca-esencia-135193249)<br>
+10:50 [Cosas que funcionan](https://www.elperiodico.com/es/opinion/20261010/cosas-funcionan-agnes-marques-135199714)<br>
 10:30 [Consejo para evitar tener avispas asiáticas en casa: "No recomiendo las trampas"](https://www.elperiodico.com/es/medio-ambiente/20261010/consejo-evitar-avispas-asiaticas-casa-135199690)<br>
 10:22 [Dos denuncias cruzadas por insultos racistas y homófobos acaban con sentencias dispares](https://www.elperiodico.com/es/sociedad/20261010/denuncias-cruzadas-insultos-racistas-homofobos-135199254)<br>
 10:15 [Carlos Cuevas (30 años), sobre la vivienda en Barcelona y Madrid: "Hay muchos pisos vacíos en las ciudades que podrían ponerse al servicio del pueblo"](https://www.elperiodico.com/es/gente/20261010/carlos-cuevas-vivienda-cine-barcelona-madrid-dv-loc-et-135059688)<br>
