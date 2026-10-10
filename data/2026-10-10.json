@@ -1,0 +1,74 @@
+[
+  {
+    "title": "У РФ палає нафтоналивний термінал - соцмережі",
+    "link": "https://ua.korrespondent.net/world/russia/4918861-u-rf-palaie-naftonalyvnyi-terminal-sotsmerezhi",
+    "pubDate": "2026-10-10 02:46:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591605.jpg\">Після заяви президента США про намір купувати російські нафтопродукти у РФ спалахнув нафтоналивний термінал.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "У РФ після атаки дронів призупинив роботу автозавод",
+    "link": "https://ua.korrespondent.net/world/russia/4918859-u-rf-pislia-ataky-droniv-pryzupynyv-robotu-avtozavod",
+    "pubDate": "2026-10-10 02:23:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591598.jpg\">Адміністрація заводу заявила, що рішення про тимчасову зупинку роботи ухвалили \"з метою безпеки\".",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Трамп представив нову прессекретарку Білого дому",
+    "link": "https://ua.korrespondent.net/world/4918855-tramp-predstavyv-novu-pressekretarku-biloho-domu",
+    "pubDate": "2026-10-10 01:22:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591578.jpg\">Американський лідер зазначив, що Кеті Захарія була його відданою та блискучою прихильницею від самого початку.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "España supera a Portugal (2-1) y buscará su noveno título mundial",
+    "link": "https://www.elperiodico.com/es/deportes/20261010/espana-supera-portugal-2-1-135195131",
+    "pubDate": "2026-10-10 01:12:22",
+    "category": "",
+    "description": "<h2 class=\"item\">La selección española femenina doblegó a las lusas, vigentes subcampeonas de Europa, en las semifinales del campeonato que se disputa en Asunción (Paraguay).</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La azulgrana Claudia Pina abandona la concentración de España",
+    "link": "https://www.elperiodico.com/es/deportes/20261010/azulgrana-claudia-pina-abandona-concentracion-135195093",
+    "pubDate": "2026-10-10 01:00:42",
+    "category": "",
+    "description": "<h2 class=\"item\">La delantera del Barça no jugará los amistosos ante EEUU por unas molestias.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Російський дизель не допоможе США – ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4918853-rosiiskyi-dyzel-ne-dopomozhe-ssha-zmi",
+    "pubDate": "2026-10-10 00:48:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4591571.jpg\">Американські аналітики не бачать, як анонсовані Трампом об'єми поставок російського дизеля допоможуть американському ринку. Тим часом в Росії вже рахують гроші.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "El asentamiento chabolista más antiguo de Europa se asoma a su final: quedan 15 chabolas en El Vacie",
+    "link": "https://www.elperiodico.com/es/sociedad/20261010/vacie-recta-final-15-chabolas-asentamiento-135195011",
+    "pubDate": "2026-10-10 00:31:14",
+    "category": "",
+    "description": "<h2>El portavoz del Gobierno municipal, Juan Bueno, ha actualizado la cifra de viviendas que quedan en El Vacie, frente a las 36 chabolas que quedaban por desmantelar a comienzos de año</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Crónica del concierto de La Oreja de Van Gogh en Zaragoza: Un viaje (desafinado) a la nostalgia, ¿y qué?",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261010/cronica-concierto-oreja-gogh-zaragoza-135194969",
+    "pubDate": "2026-10-10 00:29:47",
+    "category": "",
+    "description": "<h2>La banda donostiarra enloquece a los 9.000 fans que llenan el pabellón Príncipe Felipe en la primera noche del grupo en Zaragoza</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 95
+  }
+]
