@@ -1,9 +1,12 @@
-# News for 2026-10-10 22:50
+# News for 2026-10-10 23:35
 
 Previous day: [2026-10-09](./data/2026-10-09.md)
 
 ## ua.korrespondent.net
+23:31 [Дрон РФ поцілив у дев'ятиповерхівку в Дніпрі: є поранені](https://ua.korrespondent.net/city/dnepr/4918999-dron-rf-potsilyv-u-deviatypoverkhivku-v-dnipri-ye-poraneni)<br>
+21:29 [Під ударом Одеса: куди поцілили росіяни](https://ua.korrespondent.net/city/odessa/4918989-pid-udarom-odesa-kudy-potsilyly-rosiiany)<br>
 20:37 [Укренерго попередило про відключення на 11 жовтня](https://ua.korrespondent.net/ukraine/4918980-ukrenerho-poperedylo-pro-vidkluichennia-na-11-zhovtnia)<br>
+20:11 [Киян закликали підготувати аварійні запаси через обстріли РФ](https://ua.korrespondent.net/city/kiev/4918977-kyian-zaklykaly-pidhotuvaty-avariini-zapasy-cherez-obstrily-rf)<br>
 18:57 [Удар по п'ятиповерхівці в Запоріжжі: 20 загиблих](https://ua.korrespondent.net/city/zaporozhye/4918965-udar-po-piatypoverkhivtsi-v-zaporizhzhi-20-zahyblykh)<br>
 16:29 [Стали відомі наслідки атаки на медзаклад у Харкові](https://ua.korrespondent.net/city/kharkov/4918940-staly-vidomi-naslidky-ataky-na-medzaklad-u-kharkovi)<br>
 16:03 [Удар по ресторану в Києві: число поранених зросло](https://ua.korrespondent.net/city/kiev/4918935-udar-po-restoranu-v-kyievi-chyslo-poranenykh-zroslo)<br>
@@ -16,6 +19,7 @@ Previous day: [2026-10-09](./data/2026-10-09.md)
 10:49 [У ПС назвали кількість знищених цілей у вересні](https://ua.korrespondent.net/ukraine/4918901-u-ps-nazvaly-kilkist-znyschenykh-tsilei-u-veresni)<br>
 
 ## as.com
+23:07 [Un Breogán para la historia](https://as.com/baloncesto/acb/un-breogan-historico-f202610-n/)<br>
 21:49 [El Unicaja suma la primera en ACB](https://as.com/baloncesto/el-unicaja-suma-la-primera-en-acb-f202610-n/)<br>
 20:02 [Casademont Zaragoza desespera al Leyma a base de triples](https://as.com/baloncesto/acb/casademont-zaragoza-desespera-al-leyma-a-base-de-triples-f202610-n/)<br>
 18:16 [Ilunion, campeón de la Supercopa de España de BSR por cuarta vez consecutiva](https://as.com/baloncesto/mas_baloncesto/ilunion-campeon-de-la-supercopa-de-espana-de-bsr-por-cuarta-vez-consecutiva-f202610-n/)<br>
@@ -24,6 +28,7 @@ Previous day: [2026-10-09](./data/2026-10-09.md)
 06:20 [Pinone: “El baloncesto se convirtió en una obsesión para mí”](https://as.com/baloncesto/mas_baloncesto/pinone-el-baloncesto-se-convirtio-en-una-obsesion-para-mi-f202610-n/)<br>
 
 ## www.elperiodico.com
+23:32 [El Breogán arrolla al Girona (115-92)](https://www.elperiodico.com/es/deportes/20261010/breogan-arrolla-girona-115-92-135216572)<br>
 22:11 [Muere un hombre atacado por un tigre tras saltar al cercado del animal en un zoo de Reino Unido](https://www.elperiodico.com/es/internacional/20261010/muere-hombre-atacado-tigre-saltar-135215490)<br>
 20:49 [Un hombre mata a tiros en EEUU a ocho personas, entre ellas dos niños, y se suicida](https://www.elperiodico.com/es/internacional/20261010/hombre-mata-tiros-eeuu-ocho-135213910)<br>
 20:11 [Detectados al menos once équidos con fiebre del Nilo Occidental en Almacelles (Segrià) y Pau (Alt Empordà)](https://www.elperiodico.com/es/sociedad/20261010/detectados-once-equidos-fiebre-nilo-occidental-emporda-135212954)<br>
