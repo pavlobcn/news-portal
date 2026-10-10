@@ -1,5 +1,68 @@
 [
   {
+    "title": "Muere un hombre atacado por un tigre tras saltar al cercado del animal en un zoo de Reino Unido",
+    "link": "https://www.elperiodico.com/es/internacional/20261010/muere-hombre-atacado-tigre-saltar-135215490",
+    "pubDate": "2026-10-10 22:11:29",
+    "category": "",
+    "description": "<h2>La policía sugiere que la víctima accedió voluntariamente a la zona de los felinos </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Сибіга відповів Трампу на заклик про зміну лідера",
+    "link": "https://ua.korrespondent.net/ukraine/4918991-sybiha-vidpoviv-trampu-na-zaklyk-pro-zminu-lidera",
+    "pubDate": "2026-10-10 21:56:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4592310.jpg\">Глава МЗС нагадав про право українців самостійно визначати своє політичне майбутнє. Міністр наголосив, що Володимир Зеленський керує країною в умовах війни за незалежність і свободу.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El Unicaja suma la primera en ACB",
+    "link": "https://as.com/baloncesto/el-unicaja-suma-la-primera-en-acb-f202610-n/",
+    "pubDate": "2026-10-10 21:49:00",
+    "category": "ACB",
+    "description": "El equipo de Vidorreta supera al Andorra con buenos minutos de Brazdeikis, Pantzar y Noua, en un partido solvente y con una rotación de apenas nueve jugadores.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Flick y su sosiego por el 3-0 al Getafe: \"No era fácil volver después de tres semanas y volvimos bien\"",
+    "link": "https://www.elperiodico.com/es/deportes/20261010/flick-sosiego-3-0-getafe-135214306",
+    "pubDate": "2026-10-10 21:39:35",
+    "category": "",
+    "description": "<h2>El técnico se muestra indiferente al récord de las 8 victorias iniciales: \"No queremos batir récords, sino ganar títulos\"</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El horóscopo de mañana, domingo 11 de octubre: amor, trabajo, dinero y salud para todos los signos del zodíaco",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20261010/horoscopo-hoy-domingo-11-octubre-dv-134887264",
+    "pubDate": "2026-10-10 21:01:03",
+    "category": "",
+    "description": "<h2 class=\"item\">Conoce la suerte de tu horóscopo a partir de los signos del zodíaco, según la astrología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/temas/horoscopo-11990\" >Consulta el horóscopo diario de tu signo de ayer, hoy y mañana</a></h2>",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Кремлі відреагували на заяви Трампа щодо України",
+    "link": "https://ua.korrespondent.net/world/russia/4918985-u-kremli-vidreahuvaly-na-zaiavy-trampa-schodo-ukrainy",
+    "pubDate": "2026-10-10 21:01:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4592265.jpg\">Спеціпредставник Путіна назвав \"історичним\" і \"знаковим\" звернення президента США Дональда Трампа до українців із закликом обрати нового лідера.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Los elogios al mejor restaurante de Sabadell según Tripadvisor: \"Elaborado con ingredientes de calidad y mucho cuidado\"",
+    "link": "https://www.elperiodico.com/es/gastronomia/20261010/exquisito-elogios-mejor-restaurante-sabadell-dv-loc-131858060",
+    "pubDate": "2026-10-10 21:00:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/vida-y-estilo/20240717/mejores-restaurantes-sabadell-dv-105562865\" >Estos son los 5 mejores restaurantes de Sabadell según Tripadvisor</a></h2><h2><a href=\"https://www.elperiodico.com/es/sabadell/20240928/pasteleria-sabadell-mejores-resenas-google-dv-loc-106273323\" >Un dulce estrella y un siglo de historia: la pastelería de Sabadell con mejores reseñas en Google</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Pedrito por esos mundos, por Juan Cruz Ruiz",
     "link": "https://www.elperiodico.com/es/deportes/20261010/pedrito-mundos-juan-cruz-ruiz-135213877",
     "pubDate": "2026-10-10 20:54:22",
