@@ -1,4 +1,4 @@
-# News for 2026-10-11 08:40
+# News for 2026-10-11 09:13
 
 Previous day: [2026-10-10](./data/2026-10-10.md)
 
@@ -25,6 +25,12 @@ Previous day: [2026-10-10](./data/2026-10-10.md)
 06:55 [Timmy Zeus Allen, la nueva joya](https://as.com/baloncesto/acb/timmy-zeus-allen-la-nueva-joya-f202610-n/)<br>
 
 ## www.elperiodico.com
+09:10 [La Policía se despliega en Ceuta para desalojar el último gran asentamiento ilegal de inmigrantes](https://www.elperiodico.com/es/sociedad/20261011/policia-despliega-ceuta-desalojar-ultimo-135220227)<br>
+09:05 [Maria Àngels, de descubrir las alpacas y las llamas en televisión a tener 17 en su propia granja: "Las tengo como perritos: todas tienen su nombre y su personalidad"](https://www.elperiodico.com/es/economia/20261011/alpacas-llamas-granja-cercs-bergueda-barcelona-cataluna-maria-angels-dv-et-135005398)<br>
+09:00 [Alejandro Villena, psicólogo, sobre el consumo de pornografía en adolescentes: "Es la cocaína del sexo"](https://www.elperiodico.com/es/sociedad/20261011/expertos-advierten-consumo-pornografia-adolescentes-135171458)<br>
+09:00 [12 de octubre: ¿Dónde es festivo mañana lunes en Catalunya?](https://www.elperiodico.com/es/economia/20261011/12-de-octubre-hispanidad-festivo-manana-lunes-cataluna-dv-loc-135177929)<br>
+09:00 [Sandra Bestraten: “Para un edificio, el sol es salud”](https://www.elperiodico.com/es/barcelona/20261011/sandra-bestraten-edificio-sol-salud-135054613)<br>
+08:48 [La OMS aguarda "diagnóstico confirmado" de caso sospechoso de peste en Rusia](https://www.elperiodico.com/es/internacional/20261011/caso-peste-rusia-oms-diagnostico-aguarda-confirmado-135219910)<br>
 08:12 [Doce muertos y 309 heridos en un ataque de los rebeldes hutíes contra el aeropuerto de Riad](https://www.elperiodico.com/es/internacional/20261011/doce-muertos-309-heridos-ataque-135219383)<br>
 08:00 [Sonrisas en el metro](https://www.elperiodico.com/es/opinion/20261011/sonrisas-metro-vivienda-articulo-carles-francino-135192329)<br>
 07:59 [Mas Barcelona - Sandra Bestraten](https://www.elperiodico.com/es/videos/podcast/barcelona-sandra-bestraten/134635626.shtml)<br>
