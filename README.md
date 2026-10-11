@@ -1,8 +1,9 @@
-# News for 2026-10-11 18:47
+# News for 2026-10-11 19:48
 
 Previous day: [2026-10-10](./data/2026-10-10.md)
 
 ## ua.korrespondent.net
+19:35 [Катастрофічні вітри та повені: ураган Саймон насувається на Мексику](https://ua.korrespondent.net/world/4919129-katastrofichni-vitry-ta-poveni-urahan-saimon-nasuvaietsia-na-meksyku)<br>
 18:37 [Житло стало розкішшю: у Португалії спалахнули протести](https://ua.korrespondent.net/world/4919116-zhytlo-stalo-rozkishshui-u-portuhalii-spalakhnuly-protesty)<br>
 17:56 [РФ двічі атакувала Самар на Дніпропетровщині: горять склади](https://ua.korrespondent.net/ukraine/4919114-rf-dvichi-atakuvala-samar-na-dnipropetrovschyni-horiat-sklady)<br>
 17:18 [Свята 12 жовтня 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4919093-sviata-12-zhovtnia-2026-roku-istoriia-tradytsii)<br>
@@ -29,6 +30,7 @@ Previous day: [2026-10-10](./data/2026-10-10.md)
 00:44 [Атака РФ на Рівненщину: в лікарні помер поранений підліток](https://ua.korrespondent.net/ukraine/4919003-ataka-rf-na-rivnenschynu-v-likarni-pomer-poranenyi-pidlitok)<br>
 
 ## as.com
+18:53 [El Baskonia suma un nuevo triunfo en su feudo](https://as.com/baloncesto/el-baskonia-suma-un-nuevo-triunfo-en-su-feudo-f202610-n/)<br>
 18:23 [Barcelona - Valencia, en directo: Liga Endesa 2026-27 en vivo hoy](https://as.com/baloncesto/barcelona-valencia-en-directo-liga-endesa-2026-27-en-vivo-hoy-f202610-d/)<br>
 16:09 [Lección magistral de Marcelinho](https://as.com/baloncesto/acb/leccion-magistral-de-marcelinho-f202610-n/)<br>
 15:39 [Pedro Martínez: “La lesión de Deck es más grave de lo previsto”](https://as.com/baloncesto/acb/pedro-martinez-la-fuerza-va-a-estar-en-el-grupo-no-en-uno-o-dos-jugadores-f202610-n/)<br>
@@ -45,6 +47,9 @@ Previous day: [2026-10-10](./data/2026-10-10.md)
 06:55 [Timmy Zeus Allen, la nueva joya](https://as.com/baloncesto/acb/timmy-zeus-allen-la-nueva-joya-f202610-n/)<br>
 
 ## www.elperiodico.com
+19:32 [Peter Jackson, héroe total del último festival de Sitges](https://www.elperiodico.com/es/ocio-y-cultura/20261011/peter-jackson-festival-de-sitges-cronica-visita-135230567)<br>
+19:25 [El cardiólogo José Abellán explica cómo puedes saber que te está dando un infarto: "El síntoma principal es una sensación como una losa en el pecho"](https://www.elperiodico.com/es/salud/20261011/infarto-sintomas-corazon-cardiologo-jose-abellan-dv-et-135015336)<br>
+19:19 [Una nueva inundación repentina de un río en Nepal arrasa un pueblo y deja 5 desaparecidos](https://www.elperiodico.com/es/videos/internacional/nueva-inundacion-repentina-rio-nepal/135231898.shtml)<br>
 17:59 [Sobre (vivir) a la crianza - Hijos y pornografía](https://www.elperiodico.com/es/videos/podcast/vivir-crianza-hijos-pornografia/135014633.shtml)<br>
 17:31 [Así es la vida de Mykhailo (73 años), un hombre que vive aislado en los montes Cárpatos de Ucrania y elabora su propia comida y herramientas](https://www.elperiodico.com/es/economia/20261011/vida-aislado-montes-carpatos-ucrania-elaboracion-autosuficiente-comida-herramientas-mykhailo-dv-et-135011113)<br>
 17:18 [Luisa, sevillana de 101 años, da su clave de la longevidad: "Todo lo que he comido es fresco"](https://www.elperiodico.com/es/sociedad/20261011/luisa-sevillana-101-anos-clave-longevidad-dv-et-135229303)<br>
