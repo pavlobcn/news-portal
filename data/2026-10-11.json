@@ -1,5 +1,464 @@
 [
   {
+    "title": "Генштаб озвучив ситуацію на фронті",
+    "link": "https://ua.korrespondent.net/ukraine/4919035-henshtab-ozvuchyv-sytuatsiui-na-fronti",
+    "pubDate": "2026-10-11 07:18:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4592771.jpg\">Найбільш активними залишються Покровський та Гуляйпільський напрямок, де оборонці за минулу добу відбили 46 ворожих штурмів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Tráfico en Barcelona, en directo: última hora de Rodalies, carreteras y operación salida del 12 de octubre",
+    "link": "https://www.elperiodico.com/es/barcelona/20261011/trafico-rodalies-directo-trenes-carreteras-lluvias-133938712",
+    "pubDate": "2026-10-11 07:12:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/barcelona/20260930/barcelona-redisenara-cuatro-grandes-accesos-aliviar-atascos-134836777\" target=\"_blank\">Barcelona rediseñará sus accesos por la Diagonal, la Gran Via y la Ronda Litoral para reducir atascos</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Reacciones a la muerte de Maricarmen, en directo | Última hora de la acampada por la vivienda, protestas y huelga general",
+    "link": "https://www.elperiodico.com/es/politica/20261011/acampada-sol-desahucio-maricarmen-protestas-decreto-vivienda-ultima-hora-directo-barcelona-plaza-cataluna-134724337",
+    "pubDate": "2026-10-11 07:11:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20261005/elecciones-generales-espana-2026-pedro-sanchez-ultima-hora-directo-135003267\" target=\"_blank\">Aquí, las elecciones del 29 de noviembre, al minuto.</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Amnistía a Carles Puigdemont, en directo: última hora de la decisión del Tribunal Constitucional, regreso a España y reacciones",
+    "link": "https://www.elperiodico.com/es/politica/20261011/carles-puigdemont-amnistia-ultima-hora-directo-135044373",
+    "pubDate": "2026-10-11 07:07:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20261006/tc-despeja-vuelta-puigdemont-corregir-supremo-malversacion-135031761\" >El TC despejará hoy la vuelta de Puigdemont al corregir al Supremo y ordenar aplicar la amnistía a la malversación</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Luz tenue, volumen bajo y carritos en la sala: así son las sesiones de cine para familias con bebés",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261011/luz-tenue-volumen-carritos-sala-135144660",
+    "pubDate": "2026-10-11 07:01:04",
+    "category": "",
+    "description": "<h2 class=\"item\">El cine Maldà y los Verdi de Barcelona han diseñado un entorno cómodo para los padres y las madres que incluye cambiadores y libertad de movimiento durante las películas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Tatiana Tibuleac, escritora: \"La presión por ser la mejor versión de nosotros mismos está acabando con nuestra humanidad\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261011/tatiana-tibuleac-escritora-presion-mejor-135151266",
+    "pubDate": "2026-10-11 07:01:01",
+    "category": "",
+    "description": "<h2>La escritora moldava, autora de 'El verano en que mi madre tuvo los ojos verdes', publica 'Cuando seas feliz, golpea tú primero'</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Американку, що пережила страту, повернули до в'язниці",
+    "link": "https://ua.korrespondent.net/strange/4919033-amerykanku-scho-perezhyla-stratu-povernuly-do-viaznytsi",
+    "pubDate": "2026-10-11 06:59:00",
+    "category": "Чудасії",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4592756.jpg\">Після двох невдалих ін’єкцій пентобарбіталу жінка прийшла до тями в лікарні. Її подальша доля залишається невідомою.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Séniors al rescate de los cines: los martes de dos euros para mayores de 65 años triunfan",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261011/cine-senior-entradas-a-dos-euros-los-martes-135164350",
+    "pubDate": "2026-10-11 06:59:00",
+    "category": "",
+    "description": "<h2 class=\"item\">La medida del Ministerio de Cultura no solo estimula a los veteranos a salir de casa, sino que tiene un impacto notable en la asistencia a los cines</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cristóbal Rodríguez: “Lo más importante es el jugador; lo menos importante es su equipo”",
+    "link": "https://as.com/baloncesto/cristobal-rodriguez-lo-mas-importante-es-el-jugador-lo-menos-importante-es-su-equipo-f202610-n/",
+    "pubDate": "2026-10-11 06:58:37",
+    "category": "Hall of Fame",
+    "description": "El exjugador del Real Madrid y antiguo médico de las Selección, repasa su trayectoria y los momentos que le han llevado a ingresar en el Hall of Fame.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Máximo, el hermano pequeño de los Márquez Alentá",
+    "link": "https://www.elperiodico.com/es/deportes/20261011/maximo-hermano-pequeno-marquez-alenta-135213696",
+    "pubDate": "2026-10-11 06:58:02",
+    "category": "",
+    "description": "<h2 class=\"item\">Marc y Àlex Márquez Alentá, actuales campeón y subcampeón del mundo de MotoGP, es decir, del mundo, creen, bueno, están convencidos que sin su ayuda, que ha sido importantísima, Máximo Quiles hubiese llegado igualmente a campeón. Por eso le apodaron 'el elegido', no por ellos sino por el mundo de las dos ruedas.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Nikola Mirotic, última llamada",
+    "link": "https://as.com/baloncesto/acb/nikola-mirotic-ultima-llamada-f202610-n/",
+    "pubDate": "2026-10-11 06:57:58",
+    "category": "Baloncesto",
+    "description": "Camino de los 36 años, la estrella vive la que puede ser su última gran aventura con el Valencia. Hoy visita en el Palau (19:00) a un Barça que sigue recogiendo las migajas de su marcha en 2023.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Barcelona - Valencia: horario, TV y dónde ver la ACB 2026-27",
+    "link": "https://as.com/baloncesto/acb/barcelona-valencia-horario-tv-y-donde-ver-la-acb-2026-27-f202610-n/",
+    "pubDate": "2026-10-11 06:56:48",
+    "category": "Baloncesto",
+    "description": "Conoce el horario y cómo ver el partido de la jornada 3 de la Liga Endesa 2026-27 entre Barça y Valencia. Este domingo, 11 de octubre, a las 19:00 horas.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Real Madrid - Manresa: horario, TV y dónde ver la ACB 2026-27",
+    "link": "https://as.com/baloncesto/acb/real-madrid-manresa-horario-tv-y-donde-ver-la-acb-2026-27-f202610-n/",
+    "pubDate": "2026-10-11 06:56:14",
+    "category": "Baloncesto",
+    "description": "Conoce el horario y cómo ver el partido de la jornada 3 de la Liga Endesa 2026-27 entre Real Madrid y Manresa. Este domingo, 11 de octubre, a las 12:00 horas.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "TJ Shorts: “El juego del Valencia maximiza mi talento”",
+    "link": "https://as.com/baloncesto/acb/tj-shorts-el-juego-del-valencia-maximiza-mi-talento-f202610-n/",
+    "pubDate": "2026-10-11 06:55:37",
+    "category": "Valencia Basket Club",
+    "description": "El base del Valencia está siendo la sensación en este inicio de temporada. Hoy se mide al Barcelona (19:00, Dazn), en el Palau.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Timmy Zeus Allen, la nueva joya",
+    "link": "https://as.com/baloncesto/acb/timmy-zeus-allen-la-nueva-joya-f202610-n/",
+    "pubDate": "2026-10-11 06:55:07",
+    "category": "Baloncesto",
+    "description": "El ala-pívot encadena 60 puntos en dos partidos con el Kid&Us Manresa, una gesta solo al alcance de la leyenda George Gervin. Hoy visita al Madrid (12:00).",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El murciano Máximo Quiles, de 18 años, conquista el título de Moto3 a lo grande",
+    "link": "https://www.elperiodico.com/es/deportes/20261011/murciano-maximo-quiles-18-anos-135218224",
+    "pubDate": "2026-10-11 06:55:03",
+    "category": "",
+    "description": "<h2 class=\"item\">El joven piloto murciano Máximo Quiles, de 18 años, pupilo del tetracampeón Jorge Martínez 'Aspar' y protegido de los hermanos Marc y Àlex Márquez, se acaba de proclamar nuevo campeón del mundo de Moto3, en Mandalika, al ganar de forma arrollador el Gran Premio de Indonesia.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Китай посилює контроль за конструкцією нових авто",
+    "link": "https://ua.korrespondent.net/business/auto/4919031-kytai-posyluiie-kontrol-za-konstruktsiieui-novykh-avto",
+    "pubDate": "2026-10-11 06:48:00",
+    "category": "Авто новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4592741.jpg\">Виробників зобов’яжуть надавати результати випробувань інноваційних рішень.",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Guerra Ucrania - Rusia, última hora en directo",
+    "link": "https://www.elperiodico.com/es/internacional/20261011/guerra-ucrania-rusia-ultima-hora-126605559",
+    "pubDate": "2026-10-11 06:46:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Directo GUERRA DE IRÁN | Última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Guerra de Irán, en directo | Última hora",
+    "link": "https://www.elperiodico.com/es/internacional/20261011/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713",
+    "pubDate": "2026-10-11 06:37:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20260410/guerra-ucrania-rusia-ultima-hora-zelenski-trump-putin-directo-126605559\" >DIRECTO | Guerra Ucrania - Rusia, en directo: última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Росіяни влучили у двір багатоповерхівки у Дніпрі",
+    "link": "https://ua.korrespondent.net/city/dnepr/4919029-rosiiany-vluchyly-u-dvir-bahatopoverkhivky-u-dnipri",
+    "pubDate": "2026-10-11 06:27:00",
+    "category": "Дніпро",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4592712.jpg\">Пошкоджені вікна та балкони, понівечені автівки. Водночас минулося без без загиблих та поранених.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Генштаб оновив дані про втрати росіян",
+    "link": "https://ua.korrespondent.net/ukraine/4919026-henshtab-onovyv-dani-pro-vtraty-rosiian",
+    "pubDate": "2026-10-11 06:11:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4592711.jpg\">Загальні втрати Росії з початку повномасштабного вторгнення орієнтовно становлять 1 552 840 осіб.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Війна на Близькому Сході. Онлайн",
+    "link": "https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain",
+    "pubDate": "2026-10-11 06:05:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473659.jpg\">США та Ізраїль проводять масштабну операцію проти Ірану. Тегеран у відповідь атакує військові об'єкти США майже у всіх країнах Перської затоки.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "¿Qué ocurre cuando PP y PSOE juegan a aniquilar al adversario?",
+    "link": "https://www.elperiodico.com/es/opinion/20261011/ocurre-pp-psoe-juegan-aniquilar-135217221",
+    "pubDate": "2026-10-11 06:02:02",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Entrevista de El Periódico a Félix Bolaños, ministro de Presidencia, Justicia y Relaciones con las Cortes",
+    "link": "https://www.elperiodico.com/es/videos/politica/entrevista-periodico-felix-bolanos-ministro/135217967.shtml",
+    "pubDate": "2026-10-11 06:01:35",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Mantengamos la cordura",
+    "link": "https://www.elperiodico.com/es/opinion/20261011/elecciones-29n-pedro-sanchez-feijoo-cordura-huelga-general-135204365",
+    "pubDate": "2026-10-11 06:01:31",
+    "category": "",
+    "description": "<h2>El arranque de la campaña electoral del 29N ha enfurecido las llamas, al hilo del dramático caso de Maricarmen Abascal, fallecida después de ser desahuciada de su piso en el Retiro madrileño</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Félix Bolaños respalda las acampadas: \"Defienden una causa justa\"",
+    "link": "https://www.elperiodico.com/es/politica/20261011/felix-bolanos-respalda-acampadas-defienden-135202220",
+    "pubDate": "2026-10-11 06:01:28",
+    "category": "",
+    "description": "<h2>\"El 29N va de elegir entre nuestros martes sociales o los viernes de recortes del PP\"</h2><h2>\"El jefe del Estado visita Ceuta y Melilla siempre con gobiernos socialistas\"</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Bolaños: \"La amnistía es un éxito y Puigdemont puede volver. Que se reúna con Sánchez no tiene relevancia\"",
+    "link": "https://www.elperiodico.com/es/politica/20261011/bolanos-amnistia-exito-puigdemont-volver-135202500",
+    "pubDate": "2026-10-11 06:01:28",
+    "category": "",
+    "description": "<h2>Después de sus protestas, \"ahora el PP no dice ni pío de la amnistía, ni pío\"</h2><h2>\"Se ha demostrado que la amnistía era absolutamente constitucional y completamente conforme a derecho europeo. Y además ha sido útil\"</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "¿Vuelve la Catalunya de Puigdemont y Colau?",
+    "link": "https://www.elperiodico.com/es/opinion/20261011/vuelve-catalunya-puigdemont-colau-135198786",
+    "pubDate": "2026-10-11 06:01:27",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "\"Bienvenidos a Estados Unidos\", el nuevo videopódcast de EL PERIÓDICO",
+    "link": "https://www.elperiodico.com/es/internacional/20261011/bienvenidos-estados-unidos-nuevo-videopodcast-eeuu-el-periodico-135187227",
+    "pubDate": "2026-10-11 06:01:24",
+    "category": "",
+    "description": "<h2>El coste de vida, la vivienda y la inmigración, entre las principales preocupaciones en EEUU y España, serán algunos de los asuntos que analizará este espacio</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Los municipios catalanes de sol y playa reclaman una financiación especial para que sus residentes no sigan sufragando la presión turística",
+    "link": "https://www.elperiodico.com/es/economia/20261011/municipios-catalanes-sol-playa-reclaman-financiacion-presion-turistica-residentes-135106529",
+    "pubDate": "2026-10-11 06:01:23",
+    "category": "",
+    "description": "<h2>La Federación Española de Municipios y Provincias (FEMP) acuerda incluir la petición en la nueva Estrategia España Turismo 2030, mientras la patronal Exceltur considera que hay fórmulas que no necesariamente pasan por la tasa turística</h2><h2><a href=\"https://www.elperiodico.com/es/economia/consumo/20250619/lista-buscador-municipios-costeros-espana-plazas-hoteles-pisos-turisticos-118769625\" target=\"_blank\">Estos son los 100 municipios costeros con más plazas de hotel y de pisos turísticos en España: lista</a></h2>",
+    "topic": "туристичні квартири",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "El Govern asume que no podrá tener nuevos presupuestos en enero tras el adelanto electoral de Sánchez",
+    "link": "https://www.elperiodico.com/es/politica/20261011/cataluna-presupuestos-generalitat-salvador-illa-2027-adelanto-elecciones-generales-sanchez-135182715",
+    "pubDate": "2026-10-11 06:01:21",
+    "category": "",
+    "description": "<h2>Solo uno de los últimos 17 proyectos de presupuestos se han presentado, aprobado y aplicado en tiempo y forma </h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261005/catalunya-elecciones-generales-sanchez-financion-rodalies-mossos-135005830\">Ni financiación ni más mossos: Catalunya, ¿en stand-by por el adelanto electoral de Sánchez?</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261006/govern-salvar-traspaso-rodalies-adelanto-electoral-pedro-sanchez-legislatura-catalunya-135058344\">El Govern aspira a salvar el traspaso de la R1 de Rodalies pese al adelanto electoral de Sánchez</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Zuckerberg, Musk y Altman: los tecno-oligarcas se convierten en los nuevos villanos del cine",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261011/zuckerberg-musk-altman-tecnoligarcas-ia-cine-pelicula-openai-facebook-estreno-villano-135023310",
+    "pubDate": "2026-10-11 06:01:21",
+    "category": "",
+    "description": "<h2>Dos películas y dos documentales aterrizan en las salas para exponer y cuestionar el creciente poder e influencia política que un puñado de billonarios tecnológicos acumulan y cómo sus ambiciones están condicionando el mundo</h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Pilar Eyre: \"Letizia tuvo que convertirse en loba para entrar en aquella cueva de lobos\"",
+    "link": "https://www.elperiodico.com/es/gente/20261011/pilar-eyre-sucesion-juan-carlos-corinna-letizia-loba-cueva-lobos-entrevista-135165037",
+    "pubDate": "2026-10-11 06:01:15",
+    "category": "",
+    "description": "<h2>En 'Sucesión', la periodista reconstruye dos décadas de conflictos en la familia real: del romance y casi boda de Juan Carlos I con Corinna, a la abdicación del emérito y su difícil relación con la actual reina, a quien hoy \"las críticas parecen haber dejado de importarle\"</h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "La sacudida de los bonos dibuja un nuevo mapa de oportunidades: México ofrece casi el 10% e India el 7%",
+    "link": "https://www.elperiodico.com/es/economia/20261011/sacudida-bonos-dibuja-nuevo-mapa-135217942",
+    "pubDate": "2026-10-11 06:01:12",
+    "category": "",
+    "description": "<h2>La política fiscal de los gobiernos y las expectativas de subidas de tipos por parte de la Reserva Federal y el BCE presionan al alza los costes de financiación </h2>",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Підсумки 10.10: заява Трампа і реакція Кремля",
+    "link": "https://ua.korrespondent.net/ukraine/4919013-pidsumky-1010-zaiava-trampa-i-reaktsiia-kremlia",
+    "pubDate": "2026-10-11 05:57:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4592587.jpg\">Трамп: Україні час обрати нового лідера. Обстріл Києва: Зеленський звернувся до партнерів. У Кремлі відреагували на заяви Трампа щодо України. Кореспондент.net виділяє головні події вчорашнього дня.",
+    "topic": "підсумки (за попередній день, наприклад)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Entrevista a Félix Bolaños: Las acampadas: \"Defienden una causa justa\"",
+    "link": "https://www.elperiodico.com/es/videos/politica/entrevista-felix-bolanos-acampadas-defienden/135205306.shtml",
+    "pubDate": "2026-10-11 05:55:39",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Bienvenidos a EEUU por Irene Benedicto",
+    "link": "https://www.elperiodico.com/es/videos/internacional/bienvenidos-eeuu-irene-benedicto/135191457.shtml",
+    "pubDate": "2026-10-11 05:55:39",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Y siguen cayendo los golpes: Vinicius Jr. verá el clásico del Camp Nou por la tele",
+    "link": "https://www.elperiodico.com/es/deportes/20261011/siguen-cayendo-golpes-vinicius-jr-135217340",
+    "pubDate": "2026-10-11 05:55:16",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У США чоловік убив вісьмох людей і наклав на себе руки",
+    "link": "https://ua.korrespondent.net/world/4919025-u-ssha-cholovik-ubyv-vismokh-luidei-i-naklav-na-sebe-ruky",
+    "pubDate": "2026-10-11 05:48:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4592685.jpg\">Стрілець був родичем семи своїх жертв, зокрема вагітної жінки та дітей, тоді ж як восьма жертва - подруга загиблої.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Ростові атакували найважливіший міст - соцмережі",
+    "link": "https://ua.korrespondent.net/world/russia/4919023-u-rostovi-atakuvaly-naivazhlyvishyi-mist-sotsmerezhi",
+    "pubDate": "2026-10-11 05:34:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4592684.jpg\">Міст має ключове значення для перевезення російських військових вантажів і техніки на південний напрямок фронту.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Hacia un sector agroalimentario más innovador, sostenible y competitivo",
+    "link": "https://www.elperiodico.com/es/sostenibilidad-ahorro/20261011/sector-agroalimentario-innovador-sostenible-competitivo-bc-135167280",
+    "pubDate": "2026-10-11 05:30:26",
+    "category": "",
+    "description": "<h2>BBVA acompaña a empresas y emprendedores del ámbito rural en su proceso de transformación para afrontar retos como la digitalización, la sostenibilidad, la internacionalización y el relevo generacional</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Фінляндія планує \"закрити\" для росіян Європу",
+    "link": "https://ua.korrespondent.net/world/4919021-finliandiia-planuie-zakryty-dlia-rosiian-yevropu",
+    "pubDate": "2026-10-11 05:12:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4592668.jpg\">Росія може використовувати можливість вільного пересування російських туристів для організації диверсій, вважають Гельсінкі.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Catalunya ya ha derribado 30 pequeñas presas para reconectar ríos: \"Se reduce la fuerza de las riadas\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261011/cataluna-derriba-presas-reconectar-rios-135096383",
+    "pubDate": "2026-10-11 05:00:19",
+    "category": "",
+    "description": "<h2 class=\"item\">La Generalitat encuentra dificultades para culminar ciertas actuaciones y aún no ha logrado cobrar el coste de las obras a los titulares de las infraestructuras demolidas</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260921/estudio-rios-cataluna-personas-juridicas-como-mar-menor-134442311\" target=\"_blank\">Juristas catalanes proponen que los ríos de Catalunya sean considerados personas jurídicas, como el Mar Menor</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Govern invertirá 125.000 euros en recuperar las lagunas del Remolar y la Ricarda, afectadas por la ampliación del aeropuerto",
+    "link": "https://www.elperiodico.com/es/sociedad/20261011/govern-invertira-recuperar-lagunas-afectadas-aeropuerto-135185533",
+    "pubDate": "2026-10-11 05:00:19",
+    "category": "",
+    "description": "<h2 class=\"item\">Si el proyecto de tercera pista sale adelante, se deberá proceder a una nueva renaturalización </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20240531/europa-devolver-naturaleza-espacio-robado-agua-rios-sequia-103130914\" >Europa emplaza a devolver \"espacio robado\" a la naturaleza para asegurar la disponibilidad de agua</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Удари РФ по Дніпру: серед поранених є діти",
+    "link": "https://ua.korrespondent.net/city/dnepr/4919019-udary-rf-po-dnipru-sered-poranenykh-ye-dity",
+    "pubDate": "2026-10-11 04:46:00",
+    "category": "Дніпро",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4592639.jpg\">Четверо людей були поранені через нічні удари російських воєнних злочинців, повідомила в Дніпропетровській ОВА.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Атаковано третій дата-центр Яндекса - соцмережі",
+    "link": "https://ua.korrespondent.net/world/russia/4919017-atakovano-tretii-data-tsentr-yandeksa-sotsmerezhi",
+    "pubDate": "2026-10-11 04:22:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4592617.jpg\">Російські користувачі зіткнулися з перебоями в роботі кількох сервісів компанії після серії потужних вибухів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Маск відреагував на заяву Трампа про Зеленського",
+    "link": "https://ua.korrespondent.net/world/worldabus/4919015-mask-vidreahuvav-na-zaiavu-trampa-pro-zelenskoho",
+    "pubDate": "2026-10-11 03:48:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4592602.jpg\">Американський бізнесмен під відео з президентом США заявив, що український лідер \"зайшов надто далеко\".",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Поліція Індії в Нью-Делі затримала 2000 протестувальників",
+    "link": "https://ua.korrespondent.net/world/4919011-politsiia-indii-v-nui-deli-zatrymala-2000-protestuvalnykiv",
+    "pubDate": "2026-10-11 02:46:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4592544.jpg\">Головною вимогою індійських мітингувальників є відставка головного комісара з виборів Г'янеша Кумара.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Атака хуситів на аеропорт Ер-Ріяда: 300 поранених",
+    "link": "https://ua.korrespondent.net/world/4919009-ataka-khusytiv-na-aeroport-er-riiada-300-poranenykh",
+    "pubDate": "2026-10-11 02:09:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4592510.jpg\">Атака стала найкривавішою у будь-якій арабській країні Перської затоки з початку війни з Іраном, пише Associated Press.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "\"Чума в РФ\": ВООЗ не змогла встановити причину смерті росіянки",
+    "link": "https://ua.korrespondent.net/world/4919007-chuma-v-rf-vooz-ne-zmohla-vstanovyty-prychynu-smerti-rosiianky",
+    "pubDate": "2026-10-11 01:45:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4592495.jpg\">Результати аналізів загиблої та контактних осіб виявилися негативними щодо патогенів високої небезпеки, запевняють в РФ.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Конгрес США готується заборонити російську нафту",
+    "link": "https://ua.korrespondent.net/world/4919005-konhres-ssha-hotuietsia-zaboronyty-rosiisku-naftu",
+    "pubDate": "2026-10-11 00:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4592466.jpg\">Конгресмени готують новий двопартійний законопроєкт, який блокуватиме будь-які закупівлі російської нафти.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Атака РФ на Рівненщину: в лікарні помер поранений підліток",
     "link": "https://ua.korrespondent.net/ukraine/4919003-ataka-rf-na-rivnenschynu-v-likarni-pomer-poranenyi-pidlitok",
     "pubDate": "2026-10-11 00:44:00",
