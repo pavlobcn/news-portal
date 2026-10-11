@@ -1,4 +1,4 @@
-# News for 2026-10-11 07:30
+# News for 2026-10-11 08:05
 
 Previous day: [2026-10-10](./data/2026-10-10.md)
 
@@ -24,6 +24,9 @@ Previous day: [2026-10-10](./data/2026-10-10.md)
 06:55 [Timmy Zeus Allen, la nueva joya](https://as.com/baloncesto/acb/timmy-zeus-allen-la-nueva-joya-f202610-n/)<br>
 
 ## www.elperiodico.com
+08:00 [Sonrisas en el metro](https://www.elperiodico.com/es/opinion/20261011/sonrisas-metro-vivienda-articulo-carles-francino-135192329)<br>
+07:59 [Mas Barcelona - Sandra Bestraten](https://www.elperiodico.com/es/videos/podcast/barcelona-sandra-bestraten/134635626.shtml)<br>
+07:59 [De Minnesota a Zamora: la lección de una pastora que cuida la tierra](https://www.elperiodico.com/es/sociedad/20261011/minnesota-zamora-leccion-pastora-cuida-135171459)<br>
 07:01 [Luz tenue, volumen bajo y carritos en la sala: así son las sesiones de cine para familias con bebés](https://www.elperiodico.com/es/ocio-y-cultura/20261011/luz-tenue-volumen-carritos-sala-135144660)<br>
 07:01 [Tatiana Tibuleac, escritora: "La presión por ser la mejor versión de nosotros mismos está acabando con nuestra humanidad"](https://www.elperiodico.com/es/ocio-y-cultura/20261011/tatiana-tibuleac-escritora-presion-mejor-135151266)<br>
 06:59 [Séniors al rescate de los cines: los martes de dos euros para mayores de 65 años triunfan](https://www.elperiodico.com/es/ocio-y-cultura/20261011/cine-senior-entradas-a-dos-euros-los-martes-135164350)<br>

@@ -1,5 +1,41 @@
 [
   {
+    "title": "Sonrisas en el metro",
+    "link": "https://www.elperiodico.com/es/opinion/20261011/sonrisas-metro-vivienda-articulo-carles-francino-135192329",
+    "pubDate": "2026-10-11 08:00:35",
+    "category": "",
+    "description": "<h2>Hay días asquerosos y hay gente despreciable, pero nunca podrán competir con la magia de las sonrisas compartidas en un vagón</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20261008/sol-regresa-empezo-acampados-vivienda-marchan-casa-maricarmen-135154933\">Sol regresa a donde todo empezó: los acampados por la vivienda marchan hasta la que fue la casa de Maricarmen</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Mas Barcelona - Sandra Bestraten",
+    "link": "https://www.elperiodico.com/es/videos/podcast/barcelona-sandra-bestraten/134635626.shtml",
+    "pubDate": "2026-10-11 07:59:26",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "De Minnesota a Zamora: la lección de una pastora que cuida la tierra",
+    "link": "https://www.elperiodico.com/es/sociedad/20261011/minnesota-zamora-leccion-pastora-cuida-135171459",
+    "pubDate": "2026-10-11 07:59:25",
+    "category": "",
+    "description": "<h2>¿Qué puede buscar un grupo de estudiantes estadounidenses en los periféricos territorios pastoriles de Zamora? ¿Qué mueve a la profesora Palmar Álvarez-Blanco a pasar una mañana junto a sus alumnos del estado de Minnesota con la pastora sayaguesa Almudena Rodríguez y conocer ese trabajo muchas veces invisible que cuida la tierra?  Un recorrido con las ovejas puede ayudar a comprender que \"el territorio no es un escenario, sino una forma de vida; y que la tierra no es un recurso infinito, sino aquello de lo que dependemos\".</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Експерти засумнівалися в ефективності дизельної угоди Трампа й Путіна",
+    "link": "https://ua.korrespondent.net/world/4919037-eksperty-zasumnivalysia-v-efektyvnosti-dyzelnoi-uhody-trampa-y-putina",
+    "pubDate": "2026-10-11 07:38:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4592786.jpg\">Погоджених 300 000 тонн пального вистачило б США лише на трохи більше як 14 годин, оцінює економістка Інституту німецької економіки.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
     "title": "Генштаб озвучив ситуацію на фронті",
     "link": "https://ua.korrespondent.net/ukraine/4919035-henshtab-ozvuchyv-sytuatsiui-na-fronti",
     "pubDate": "2026-10-11 07:18:00",
@@ -286,6 +322,42 @@
     "description": "<h2>Dos películas y dos documentales aterrizan en las salas para exponer y cuestionar el creciente poder e influencia política que un puñado de billonarios tecnológicos acumulan y cómo sus ambiciones están condicionando el mundo</h2>",
     "topic": "політика",
     "topic_match_probability": 80
+  },
+  {
+    "title": "Sánchez se lanza a por el voto útil ante la debilidad electoral del espacio a su izquierda",
+    "link": "https://www.elperiodico.com/es/politica/20261011/sanchez-voto-util-debilidad-sumar-135182392",
+    "pubDate": "2026-10-11 06:01:21",
+    "category": "",
+    "description": "<h2>El líder de los socialistas refuerza su perfil izquierdista y trata de capitalizar la calle. En el PSOE ven necesaria también la unidad a su izquierda para que recoja el voto de quienes nunca elegirían su papeleta</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Las 4 bazas de Pedro Sánchez para una campaña relámpago hacia el 29N",
+    "link": "https://www.elperiodico.com/es/politica/20261011/cuatro-bazas-pedro-sanchez-campana-135177838",
+    "pubDate": "2026-10-11 06:01:19",
+    "category": "",
+    "description": "<h2>El presidente del Gobierno y líder de los socialistas busca movilizar al electorado progresista detrás de la bandera de la vivienda y desplazar el foco de otros problemas, como la crisis de Ceuta o la corrupción </h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "De Asturias a Zamora: las provincias donde el PSOE teme más que la división del voto penalice al bloque progresista",
+    "link": "https://www.elperiodico.com/es/politica/20261011/provincias-gobierno-elecciones-division-izquierda-135177778",
+    "pubDate": "2026-10-11 06:01:19",
+    "category": "",
+    "description": "<h2>Los socialistas combinan el respeto a la “autonomía” del resto de organizaciones con mensajes que aluden al voto útil para maximizar resultados</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Cómo China quiere resucitar Ford España",
+    "link": "https://www.elperiodico.com/es/economia/20261011/china-quiere-resucitar-ford-espana-135217944",
+    "pubDate": "2026-10-11 06:01:17",
+    "category": "",
+    "description": "<h2>España se ha convertido en la plataforma más activa para la entrada de los gigantes automovilísticos del país asiático. Entre competir y colaborar, la apuesta es clara</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
   },
   {
     "title": "Pilar Eyre: \"Letizia tuvo que convertirse en loba para entrar en aquella cueva de lobos\"",
