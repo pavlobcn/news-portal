@@ -1,5 +1,185 @@
 [
   {
+    "title": "Росія порушила енергетичне перемир’я - Сибіга",
+    "link": "https://ua.korrespondent.net/ukraine/4919154-rosiia-porushyla-enerhetychne-peremyria-sybiha",
+    "pubDate": "2026-10-11 22:33:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4593531.jpg\">Удар РФ по Харківській ТЕЦ-5 стався після того, яке президент США оголосив енергетичне перемир'я, зазначив голова МЗС.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Ураган Ісайас у США: четверо загиблих та сотні тисяч без світла",
+    "link": "https://ua.korrespondent.net/world/4919147-urahan-isaias-u-ssha-chetvero-zahyblykh-ta-sotni-tysiach-bez-svitla",
+    "pubDate": "2026-10-11 21:58:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4593481.jpg\">Стихія пошкодила будинки й інфраструктуру, залишила сотні тисяч споживачів без електрики та порушила видобуток енергоресурсів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sekulic: “Somos un equipo que está creciendo”",
+    "link": "https://as.com/baloncesto/acb/sekulic-somos-un-equipo-que-esta-creciendo-y-que-cada-vez-juega-mejor-f202610-n/",
+    "pubDate": "2026-10-11 21:52:43",
+    "category": "Baloncesto",
+    "description": "El técnico azulgrana destacó la reacción de los suyos tras el último tropiezo europeo y el apoyo recibido desde la grada.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "\"Десятки й сотні ракет\": Україна посилює боротьбу з балістикою РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4919150-desiatky-y-sotni-raket-ukraina-posyluiie-borotbu-z-balistykoui-rf",
+    "pubDate": "2026-10-11 21:42:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4593482.jpg\">За вересень і початок жовтня Сили оборони України уразили вісім російських установок, які використовувалися для балістичних ударів. Водночас Україна потребує значно більше ракет для протидії цій загрозі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El salón de videojuegos SAGA Barcelona Game Fest cierra su primera edición con 21.000 asistentes",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261011/videojuego-saga-barcelona-game-buena-acogida-135234855",
+    "pubDate": "2026-10-11 21:34:48",
+    "category": "",
+    "description": "<h2>El público ha superado las expectativas de los organizadores del evento realizado en Montjuïc durante tres días </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Park Güell se convierte en escenario de la última actuación de Els Amics de les Arts por su 20.º aniversario",
+    "link": "https://www.elperiodico.com/es/barcelona/20261011/park-guell-convierte-escenario-ultima-actuacion-amics-de-les-arts-20-aniversario-barcelona-135234956",
+    "pubDate": "2026-10-11 21:32:43",
+    "category": "",
+    "description": "<h2 class=\"item\">La banda reúne a 1.800 personas en un concierto gratuito para los vecinos de los barrios próximos al parque, con Andrea Motis y Adrià Salas como invitados y una versión de 'L’Arquitecte' dedicada a Gaudí</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Kiko Rivera anuncia el lanzamiento de su primer disco tras 15 años de carrera musical",
+    "link": "https://www.elperiodico.com/es/gente/20261011/kiko-rivera-anuncia-lanzamiento-primer-disco-135235117",
+    "pubDate": "2026-10-11 21:31:26",
+    "category": "",
+    "description": "<h2>El artista ha confirmado el estreno de 'Volver a sentir', un trabajo personal que marca una etapa de mayor madurez profesional para el músico</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "США можуть зупинити PURL через удари України по РФ",
+    "link": "https://ua.korrespondent.net/world/4919145-ssha-mozhut-zupynyty-PURL-cherez-udary-ukrainy-po-rf",
+    "pubDate": "2026-10-11 21:26:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4593464.jpg\">Адміністрація Дональда Трампа погрожує зупинити механізм постачання американської зброї Україні. Так Вашингтон намагається домогтися припинення ударів по російських НПЗ.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El Barça cambia su destino frente al Valencia",
+    "link": "https://www.elperiodico.com/es/deportes/20261011/barca-cambia-destino-frente-valencia-135230069",
+    "pubDate": "2026-10-11 21:19:57",
+    "category": "",
+    "description": "<h2>Los azulgranas han vencido en los dos pulsos de esta temporada en un final ajustado que aseguró Joel Parra con un triple</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Betis se exhibe en Sevilla antes de recibir al Barça",
+    "link": "https://www.elperiodico.com/es/deportes/20261011/betis-exhibe-sevilla-recibir-barca-135234715",
+    "pubDate": "2026-10-11 21:11:32",
+    "category": "",
+    "description": "<h2 class=\"item\">El equipo andaluz afianza la tercera plaza de la Liga con una 'manita' a Osasuna con goles de Isco (2), Abde, Llorente y Morante.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Сеуті  розігнали останній табір мігрантів перед візитом короля",
+    "link": "https://ua.korrespondent.net/world/4919143-u-seuti-rozihnaly-ostannii-tabir-mihrantiv-pered-vizytom-korolia",
+    "pubDate": "2026-10-11 21:08:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4593447.jpg\">Іспанська поліція ліквідувала останній табір мігрантів у Сеуті, де перебували близько 400 людей. Операція відбулася за два дні до візиту короля Феліпе VI та королеви Летиції.",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "El Barça sobrevive al Barça",
+    "link": "https://as.com/baloncesto/acb/el-barca-sobrevive-al-barca-f202610-n/",
+    "pubDate": "2026-10-11 21:07:59",
+    "category": "Baloncesto",
+    "description": "Los azulgranas volvieron a llegar con una buena ventaja al último cuarto y esta vez la mantuvieron, pero de milagro. Mirotic pudo forzar la prórroga. El Valencia naufraga en el triple y el Palau suspira de alivio.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Rosalía sorprende cantando 'Reliquia' en puntas en Saturday Night Live",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261011/rosalia-reliquia-puntas-saturday-night-live-135233988",
+    "pubDate": "2026-10-11 21:02:42",
+    "category": "",
+    "description": "<h2 class=\"item\">Es la segunda vez esta semana que la artista catalana aparece en un programa estrella de la televisión norteamericana </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20261007/rosalia-premio-nacional-musicas-actuales-135099154\" target=\"_blank\">Rosalía gana el Premio Nacional de Músicas Actuales por 'LUX'</a></h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El horóscopo de mañana, lunes 12 de octubre: amor, trabajo, dinero y salud para todos los signos del zodíaco",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20261011/horoscopo-hoy-lunes-12-octubre-dv-134853947",
+    "pubDate": "2026-10-11 21:00:51",
+    "category": "",
+    "description": "<h2 class=\"item\">Conoce la suerte de tu horóscopo a partir de los signos del zodíaco, según la astrología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/temas/horoscopo-11990\" >Consulta el horóscopo diario de tu signo de ayer, hoy y mañana</a></h2>",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Pitada, pancartas y burlas contra el City en Anfield por vulnerar las normas financieras",
+    "link": "https://www.elperiodico.com/es/deportes/20261011/pitada-pancartas-burlas-city-anfield-135234502",
+    "pubDate": "2026-10-11 20:52:23",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20261011/manchester-city-silencia-hostilidad-anfield-135232335\">El Manchester City silencia la hostilidad de Anfield (0-3)</a></h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Атака дронів РФ на Івано-Франківськ: троє загиблих",
+    "link": "https://ua.korrespondent.net/ukraine/4919140-ataka-droniv-rf-na-ivano-frankivsk-troie-zahyblykh",
+    "pubDate": "2026-10-11 20:49:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4593430.jpg\">Унаслідок російської атаки безпілотників на Івано-Франківськ 11 жовтня загинули троє людей. Один із постраждалих помер у лікарні після госпіталізації.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Bilbao Basket baja a la mina",
+    "link": "https://as.com/baloncesto/el-bilbao-basket-baja-a-la-mina-f202610-n/",
+    "pubDate": "2026-10-11 20:45:57",
+    "category": "Burgos",
+    "description": "La estrategia de Ponsarnau de ‘lan ta lan’ (picar piedra) resuelve un duro partido ante el Burgos.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "ЄС готує Україні ще €3 млрд військової допомоги",
+    "link": "https://ua.korrespondent.net/ukraine/4919138-yes-hotuie-ukraini-sche-3-mlrd-viiskovoi-dopomohy",
+    "pubDate": "2026-10-11 20:31:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4593428.jpeg\">Євросоюз планує виділити Україні близько 3 млрд євро військової підтримки вже наступного тижня. Кошти спрямують, зокрема, на закупівлю дронів і ракет та посилення протиповітряної оборони.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Los expertos en protocolo coinciden: \"Lo que nunca tenemos que hacer es introducir el dedo dentro y nunca levantamos el plato\"",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20261011/expertos-protocolo-coinciden-agitamos-cafe-nunca-circular-marcando-seis-punto-dv-et-135027476",
+    "pubDate": "2026-10-11 20:30:00",
+    "category": "",
+    "description": "<h2 class=\"item\">No son muchos los que se dan cuenta de los errores que cometen a diario en la cafetería o en una comida de trabajo</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/vida-y-estilo/20261010/maria-jose-gomez-experta-protocolo-cortar-pan-mesa-cuchillo-dv-et-135025341\">María José Gómez, experta en protocolo: \"El pan nunca se corta en la mesa con cuchillo\"</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "El Movistar Estudiantes enseña los dientes",
+    "link": "https://as.com/baloncesto/mas_baloncesto/el-movistar-estudiantes-ensena-los-dientes-f202610-n/",
+    "pubDate": "2026-10-11 20:25:58",
+    "category": "Baloncesto",
+    "description": "Los colegiales abrasan al Inveready Gipuzkoa con una actuación soberbia. Sobresaliente actuación de Floyd, Munnings y Vaulet. Westermann, importante.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "El 'sí' de Rufián a ERC agita una batalla entre Ada Colau y Emilio Delgado para liderar el Frente Amplio",
     "link": "https://www.elperiodico.com/es/politica/20261011/frente-amplio-candidato-rufian-presion-emilio-delgado-135230067",
     "pubDate": "2026-10-11 20:22:36",

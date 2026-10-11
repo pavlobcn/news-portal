@@ -1,8 +1,11 @@
-# News for 2026-10-11 20:25
+# News for 2026-10-11 22:40
 
 Previous day: [2026-10-10](./data/2026-10-10.md)
 
 ## ua.korrespondent.net
+21:58 [Ураган Ісайас у США: четверо загиблих та сотні тисяч без світла](https://ua.korrespondent.net/world/4919147-urahan-isaias-u-ssha-chetvero-zahyblykh-ta-sotni-tysiach-bez-svitla)<br>
+21:42 ["Десятки й сотні ракет": Україна посилює боротьбу з балістикою РФ](https://ua.korrespondent.net/ukraine/4919150-desiatky-y-sotni-raket-ukraina-posyluiie-borotbu-z-balistykoui-rf)<br>
+20:49 [Атака дронів РФ на Івано-Франківськ: троє загиблих](https://ua.korrespondent.net/ukraine/4919140-ataka-droniv-rf-na-ivano-frankivsk-troie-zahyblykh)<br>
 19:35 [Катастрофічні вітри та повені: ураган Саймон насувається на Мексику](https://ua.korrespondent.net/world/4919129-katastrofichni-vitry-ta-poveni-urahan-saimon-nasuvaietsia-na-meksyku)<br>
 18:37 [Житло стало розкішшю: у Португалії спалахнули протести](https://ua.korrespondent.net/world/4919116-zhytlo-stalo-rozkishshui-u-portuhalii-spalakhnuly-protesty)<br>
 17:56 [РФ двічі атакувала Самар на Дніпропетровщині: горять склади](https://ua.korrespondent.net/ukraine/4919114-rf-dvichi-atakuvala-samar-na-dnipropetrovschyni-horiat-sklady)<br>
@@ -30,6 +33,10 @@ Previous day: [2026-10-10](./data/2026-10-10.md)
 00:44 [Атака РФ на Рівненщину: в лікарні помер поранений підліток](https://ua.korrespondent.net/ukraine/4919003-ataka-rf-na-rivnenschynu-v-likarni-pomer-poranenyi-pidlitok)<br>
 
 ## as.com
+21:52 [Sekulic: “Somos un equipo que está creciendo”](https://as.com/baloncesto/acb/sekulic-somos-un-equipo-que-esta-creciendo-y-que-cada-vez-juega-mejor-f202610-n/)<br>
+21:07 [El Barça sobrevive al Barça](https://as.com/baloncesto/acb/el-barca-sobrevive-al-barca-f202610-n/)<br>
+20:45 [El Bilbao Basket baja a la mina](https://as.com/baloncesto/el-bilbao-basket-baja-a-la-mina-f202610-n/)<br>
+20:25 [El Movistar Estudiantes enseña los dientes](https://as.com/baloncesto/mas_baloncesto/el-movistar-estudiantes-ensena-los-dientes-f202610-n/)<br>
 18:53 [El Baskonia suma un nuevo triunfo en su feudo](https://as.com/baloncesto/el-baskonia-suma-un-nuevo-triunfo-en-su-feudo-f202610-n/)<br>
 18:23 [Barcelona - Valencia, en directo: Liga Endesa 2026-27 en vivo hoy](https://as.com/baloncesto/barcelona-valencia-en-directo-liga-endesa-2026-27-en-vivo-hoy-f202610-d/)<br>
 16:09 [Lección magistral de Marcelinho](https://as.com/baloncesto/acb/leccion-magistral-de-marcelinho-f202610-n/)<br>
@@ -47,6 +54,8 @@ Previous day: [2026-10-10](./data/2026-10-10.md)
 06:55 [Timmy Zeus Allen, la nueva joya](https://as.com/baloncesto/acb/timmy-zeus-allen-la-nueva-joya-f202610-n/)<br>
 
 ## www.elperiodico.com
+21:34 [El salón de videojuegos SAGA Barcelona Game Fest cierra su primera edición con 21.000 asistentes](https://www.elperiodico.com/es/ocio-y-cultura/20261011/videojuego-saga-barcelona-game-buena-acogida-135234855)<br>
+21:19 [El Barça cambia su destino frente al Valencia](https://www.elperiodico.com/es/deportes/20261011/barca-cambia-destino-frente-valencia-135230069)<br>
 19:32 [Peter Jackson, héroe total del último festival de Sitges](https://www.elperiodico.com/es/ocio-y-cultura/20261011/peter-jackson-festival-de-sitges-cronica-visita-135230567)<br>
 19:25 [El cardiólogo José Abellán explica cómo puedes saber que te está dando un infarto: "El síntoma principal es una sensación como una losa en el pecho"](https://www.elperiodico.com/es/salud/20261011/infarto-sintomas-corazon-cardiologo-jose-abellan-dv-et-135015336)<br>
 19:19 [Una nueva inundación repentina de un río en Nepal arrasa un pueblo y deja 5 desaparecidos](https://www.elperiodico.com/es/videos/internacional/nueva-inundacion-repentina-rio-nepal/135231898.shtml)<br>
