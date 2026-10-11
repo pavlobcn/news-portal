@@ -1,10 +1,15 @@
-# News for 2026-10-11 16:07
+# News for 2026-10-11 18:47
 
 Previous day: [2026-10-10](./data/2026-10-10.md)
 
 ## ua.korrespondent.net
+18:37 [Житло стало розкішшю: у Португалії спалахнули протести](https://ua.korrespondent.net/world/4919116-zhytlo-stalo-rozkishshui-u-portuhalii-spalakhnuly-protesty)<br>
+17:56 [РФ двічі атакувала Самар на Дніпропетровщині: горять склади](https://ua.korrespondent.net/ukraine/4919114-rf-dvichi-atakuvala-samar-na-dnipropetrovschyni-horiat-sklady)<br>
+17:18 [Свята 12 жовтня 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4919093-sviata-12-zhovtnia-2026-roku-istoriia-tradytsii)<br>
+16:15 [Засідка для російського спецназу: ГУР розкрило деталі операції](https://ua.korrespondent.net/ukraine/4919091-zasidka-dlia-rosiiskoho-spetsnazu-hur-rozkrylo-detali-operatsii)<br>
 15:31 [Міноборони збільшило закупівлю дронів](https://ua.korrespondent.net/ukraine/4919084-minoborony-zbilshylo-zakupivlui-droniv)<br>
 14:52 [Папа Римський готується до операції: скільки триватиме відновлення](https://ua.korrespondent.net/world/4919080-papa-rymskyi-hotuietsia-do-operatsii-skilky-tryvatyme-vidnovlennia)<br>
+14:33 [У Харкові КАБи зруйнували будинки: є жертва](https://ua.korrespondent.net/city/kharkov/4919078-u-kharkovi-kaby-zruinuvaly-budynky-ye-zhertva)<br>
 14:14 [Човен із мігрантами перекинувся біля Африки: понад 100 загиблих](https://ua.korrespondent.net/world/4919076-choven-iz-mihrantamy-perekynuvsia-bilia-afryky-ponad-100-zahyblykh)<br>
 12:43 [У Молдові вибухнув дрон під час атаки РФ на Україну](https://ua.korrespondent.net/world/4919070-u-moldovi-vybukhnuv-dron-pid-chas-ataky-rf-na-ukrainu)<br>
 10:26 [ЗСУ вдарили по складах російських військ на ТОТ](https://ua.korrespondent.net/world/4919057-zsu-vdaryly-po-skladakh-rosiiskykh-viisk-na-tot)<br>
@@ -24,6 +29,8 @@ Previous day: [2026-10-10](./data/2026-10-10.md)
 00:44 [Атака РФ на Рівненщину: в лікарні помер поранений підліток](https://ua.korrespondent.net/ukraine/4919003-ataka-rf-na-rivnenschynu-v-likarni-pomer-poranenyi-pidlitok)<br>
 
 ## as.com
+18:23 [Barcelona - Valencia, en directo: Liga Endesa 2026-27 en vivo hoy](https://as.com/baloncesto/barcelona-valencia-en-directo-liga-endesa-2026-27-en-vivo-hoy-f202610-d/)<br>
+16:09 [Lección magistral de Marcelinho](https://as.com/baloncesto/acb/leccion-magistral-de-marcelinho-f202610-n/)<br>
 15:39 [Pedro Martínez: “La lesión de Deck es más grave de lo previsto”](https://as.com/baloncesto/acb/pedro-martinez-la-fuerza-va-a-estar-en-el-grupo-no-en-uno-o-dos-jugadores-f202610-n/)<br>
 15:24 [Joel Soriano lidera el segundo triunfo del Obradoiro](https://as.com/baloncesto/acb/joel-soriano-lidera-el-segundo-triunfo-del-obradoiro-f202610-n/)<br>
 14:51 [La salvajada de Procida con el Madrid: vean esta locura que ya es una de las jugadas de la temporada](https://as.com/baloncesto/videos/la-salvajada-de-procida-con-el-madrid-vean-esta-locura-que-ya-es-una-de-las-jugadas-de-la-temporada-f202610-v/)<br>
@@ -38,6 +45,11 @@ Previous day: [2026-10-10](./data/2026-10-10.md)
 06:55 [Timmy Zeus Allen, la nueva joya](https://as.com/baloncesto/acb/timmy-zeus-allen-la-nueva-joya-f202610-n/)<br>
 
 ## www.elperiodico.com
+17:59 [Sobre (vivir) a la crianza - Hijos y pornografía](https://www.elperiodico.com/es/videos/podcast/vivir-crianza-hijos-pornografia/135014633.shtml)<br>
+17:31 [Así es la vida de Mykhailo (73 años), un hombre que vive aislado en los montes Cárpatos de Ucrania y elabora su propia comida y herramientas](https://www.elperiodico.com/es/economia/20261011/vida-aislado-montes-carpatos-ucrania-elaboracion-autosuficiente-comida-herramientas-mykhailo-dv-et-135011113)<br>
+17:18 [Luisa, sevillana de 101 años, da su clave de la longevidad: "Todo lo que he comido es fresco"](https://www.elperiodico.com/es/sociedad/20261011/luisa-sevillana-101-anos-clave-longevidad-dv-et-135229303)<br>
+17:00 [Silvia Catalán, sexóloga clínica: "No es que los chicos estén buscando porno, sino que la pornografía va a buscarlos a ellos"](https://www.elperiodico.com/es/sociedad/20261011/silvia-catalan-sexologa-clinica-chicos-135011990)<br>
+16:36 [Sara Carbonero, sobre su relación con Iker Casillas: "Empecé a ser conocida en el Mundial de Sudáfrica; cambió absolutamente todo"](https://www.elperiodico.com/es/gente/20261011/sara-carbonero-relacion-iker-casillas-mundial-sudafrica-dv-et-135228712)<br>
 16:03 [Tiempo en Catalunya mañana lunes: jornada de nubes que cubrirán el cielo antes de la llegada de un nuevo frente](https://www.elperiodico.com/es/tiempo/20261011/tiempo-cataluna-hoy-lunes-12-de-octubre-temperaturas-lluvia-dv-loc-135226905)<br>
 16:00 [El AMB usará un simulador digital para mejorar las plantas de reciclaje del área de Barcelona](https://www.elperiodico.com/es/barcelona/20261011/amb-utiliza-simulador-digital-mejoras-incluir-nuevas-concesiones-plantas-residuos-barcelona-134938201)<br>
 16:00 [Xavi Calabuig, experto energético: "El microondas tiene mucha potencia, pero no dispara la factura de la luz"](https://www.elperiodico.com/es/economia/20261011/experto-energia-analiza-gasto-electrodomesticos-factura-luz-dv-et-135106242)<br>

@@ -1,5 +1,284 @@
 [
   {
+    "title": "Житло стало розкішшю: у Португалії спалахнули протести",
+    "link": "https://ua.korrespondent.net/world/4919116-zhytlo-stalo-rozkishshui-u-portuhalii-spalakhnuly-protesty",
+    "pubDate": "2026-10-11 18:37:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4593286.jpg\">Тисячі португальців вийшли на вулиці через дорожнечу та недоступне житло. Протестувальники вимагають від влади обмежити зростання цін і вжити заходів для подолання житлової кризи.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Barcelona - Valencia, en directo: Liga Endesa 2026-27 en vivo hoy",
+    "link": "https://as.com/baloncesto/barcelona-valencia-en-directo-liga-endesa-2026-27-en-vivo-hoy-f202610-d/",
+    "pubDate": "2026-10-11 18:23:25",
+    "category": "Baloncesto",
+    "description": "Sigue la retransmisión en directo de la tercera jornada de la Liga Endesa, entre el Barcelona y el Valencia hoy, a las 19:00, en As.com.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Зеленський назвав умову для проведення виборів",
+    "link": "https://ua.korrespondent.net/ukraine/4919094-zelenskyi-nazvav-umovu-dlia-provedennia-vyboriv",
+    "pubDate": "2026-10-11 18:18:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4593212.jpg\">Володимир Зеленський заявив про готовність провести президентські вибори в Україні, якщо Росія погодиться на 60-денне припинення вогню.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Amos Kipruto se corona en el Maratón de Chicago y Hawi Feysa revalida el título",
+    "link": "https://www.elperiodico.com/es/deportes/20261011/amos-kipruto-chicago-maraton-135230279",
+    "pubDate": "2026-10-11 18:15:55",
+    "category": "",
+    "description": "<h2>El atleta keniano logra su primera victoria en la histórica prueba tras completar el recorrido en dos horas, un minuto y nueve segundos ante 55.000 corredores</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Una mujer resulta herida por un disparo en la cabeza en el barrio de Sant Joan de Figueres",
+    "link": "https://www.elperiodico.com/es/sucesos/20261011/mujer-resulta-herida-disparo-cabeza-figueres-135230241",
+    "pubDate": "2026-10-11 18:09:52",
+    "category": "",
+    "description": "<h2 class=\"item\">Los Mossos d'Esquadra investigan los hechos y el Ayuntamiento asegura que fue accidental</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La pastelería que ha conquistado Santa Coloma: \"La variedad de pasteles es increíble y cada semana hay nuevos\"",
+    "link": "https://www.elperiodico.com/es/barcelona/santa-coloma/20261011/mejor-pasteleria-santa-coloma-google-dv-loc-107209626",
+    "pubDate": "2026-10-11 18:05:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Dulciurile Crengutei es uno de los locales con mejores reseñas en Google</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/cata-mayor/20240610/gran-gala-pasteleria-2024-barcelona-girona-escriba-puigdemont-103585124\" >Escribà y la familia de Puigdemont, distinguidos por sus trayectorias pasteleras</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/cata-mayor/20240920/bar-santa-coloma-pescado-frito-tapas-dv-loc-107578256\" >El bar de Santa Coloma de Gramenet aclamado por su pescado frito</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Sobre (vivir) a la crianza - Hijos y pornografía",
+    "link": "https://www.elperiodico.com/es/videos/podcast/vivir-crianza-hijos-pornografia/135014633.shtml",
+    "pubDate": "2026-10-11 17:59:27",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Francesc-Marc Álvaro encabezará la candidatura de ERC al Senado en las elecciones del 29-N",
+    "link": "https://www.elperiodico.com/es/politica/20261011/francesc-marc-alvaro-encabezara-candidatura-erc-senado-elecciones-29n-135229929",
+    "pubDate": "2026-10-11 17:58:56",
+    "category": "",
+    "description": "<h2 class=\"item\">DIRECTO | <a href=\"https://www.elperiodico.com/es/politica/20261011/elecciones-generales-espana-2026-pedro-sanchez-ultima-hora-directo-135003267\" target=\"_blank\">Última hora y todas las reacciones a la convocatoria de Sánchez para el 29 de noviembre</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261011/rufian-candidato-erc-elecciones-generales-pulso-interno-135085545\" target=\"_blank\">Rufián será el candidato de ERC a las elecciones y busca una alianza con Podemos</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "РФ двічі атакувала Самар на Дніпропетровщині: горять склади",
+    "link": "https://ua.korrespondent.net/ukraine/4919114-rf-dvichi-atakuvala-samar-na-dnipropetrovschyni-horiat-sklady",
+    "pubDate": "2026-10-11 17:56:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4593271.jpg\">Російські безпілотники двічі атакували місто Самар на Дніпропетровщині. Внаслідок ударів загорілися склади із сільськогосподарською технікою.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Trump anuncia un acuerdo entre Kiev y Moscú para no atacar infraestructuras energéticas ante la \"sorpresa\" de Zelenski",
+    "link": "https://www.elperiodico.com/es/internacional/20261011/trump-anuncia-acuerdo-kiev-moscu-135230056",
+    "pubDate": "2026-10-11 17:51:04",
+    "category": "",
+    "description": "<h2>El presidente de Estados Unidos no ha ofrecido más detalles sobre el presunto pacto, que no ha confirmado ninguna de las partes</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Рейтинг Макрона впав до історичного мінімуму",
+    "link": "https://ua.korrespondent.net/world/4919111-reitynh-makrona-vpav-do-istorychnoho-minimumu",
+    "pubDate": "2026-10-11 17:37:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4593269.jpg\">Емманюель Макрон втратив ще частину підтримки французів: його рейтинг опустився до 15%. На тлі економічних проблем країни змінюються й позиції можливих претендентів на президентське крісло.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Así es la vida de Mykhailo (73 años), un hombre que vive aislado en los montes Cárpatos de Ucrania y elabora su propia comida y herramientas",
+    "link": "https://www.elperiodico.com/es/economia/20261011/vida-aislado-montes-carpatos-ucrania-elaboracion-autosuficiente-comida-herramientas-mykhailo-dv-et-135011113",
+    "pubDate": "2026-10-11 17:31:41",
+    "category": "",
+    "description": "<h2>Su rutina incluye cuidar a sus ovejas y cabras, elaborar queso tradicional y cultivar sus propios alimentos</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260915/adaptacion-antigua-casa-rural-ucrania-lavadora-agua-huerto-ivan-dv-et-133739556\" >La adaptación de Ivan en una antigua casa rural en los Montes Cárpatos: \"Siempre hay mucho trabajo en la tierra, pero es agradable ver cómo todo cobra vida poco a poco\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261005/anouchka-hijas-yurtas-naturaleza-huerto-educacion-medio-ambiente-tarragona-dv-et-134688363\" >Anouchka vive con sus tres hijas en yurtas en Tarragona: hacen su propio pan y obtienen el agua de un manantial</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Elche y Celta pagan su falta de ambición",
+    "link": "https://www.elperiodico.com/es/deportes/20261011/elche-celta-pagan-falta-ambicion-135229693",
+    "pubDate": "2026-10-11 17:31:23",
+    "category": "",
+    "description": "<h2>El duelo del Martínez Valero, sin goles, confirma los problemas de los locales y prolonga la imbatibilidad a domicilio del conjunto de Giráldez</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Neumáticos todo tiempo: así funcionan durante todo el año",
+    "link": "https://www.elperiodico.com/es/motor/20261011/neumaticos-tiempo-funcionan-durante-ano-135125030",
+    "pubDate": "2026-10-11 17:30:37",
+    "category": "",
+    "description": "<h2>Están diseñados para ofrecer un buen comportamiento con diferentes temperaturas y condiciones meteorológicas</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El PP plantea el 29N como una elección entre las \"cloacas\" del PSOE o la \"reconstrucción\"",
+    "link": "https://www.elperiodico.com/es/videos/politica/pp-plantea-29n-eleccion-cloacas/135229596.shtml",
+    "pubDate": "2026-10-11 17:24:39",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ферстаппен вперше в кар'єрі виграв Гран-прі Сінгапуру",
+    "link": "https://ua.korrespondent.net/sport/formula/4919104-ferstappen-vpershe-v-karieri-vyhrav-hran-pri-sinhapuru",
+    "pubDate": "2026-10-11 17:23:00",
+    "category": "Новини Формули-1",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4593253.jpg\">Нідерландському автогонщику вперше в кар'єрі вдалося піднятися на найвищу сходинку п'єдесталу на цій нічній трасі.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Luisa, sevillana de 101 años, da su clave de la longevidad: \"Todo lo que he comido es fresco\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261011/luisa-sevillana-101-anos-clave-longevidad-dv-et-135229303",
+    "pubDate": "2026-10-11 17:18:29",
+    "category": "",
+    "description": "<h2 class=\"item\">La centenaria asegura que la alimentación es clave y lamenta el encarecimiento de la comida de calidad en la actualidad</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/salud/20260407/salvador-macip-experto-longevidad-cancer-fumar-edad-dv-128398773\">Salvador Macip, investigador experto en longevidad: \"El principal factor de riesgo para el cáncer, más que fumar, sigue siendo la edad\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Свята 12 жовтня 2026 року: історія, традиції",
+    "link": "https://ua.korrespondent.net/lifestyle/4919093-sviata-12-zhovtnia-2026-roku-istoriia-tradytsii",
+    "pubDate": "2026-10-11 17:18:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4593214.jpg\">З народними повір'ями, 12 жовтня не можна сваритися й конфліктувати - вважається, що сварка принесе багато невдач.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Енергетичне перемир’я з РФ: Київ чекає деталей",
+    "link": "https://ua.korrespondent.net/ukraine/4919109-enerhetychne-peremyria-z-rf-kyiv-chekaie-detalei",
+    "pubDate": "2026-10-11 17:18:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4593252.jpg\">Дональд Трамп заявив про негайний початок енергетичного перемир’я між Україною та Росією. Володимир Зеленський відповів, що Київ досі не отримав конкретної інформації про домовленість і чекає на роз’яснення.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Silvia Catalán, sexóloga clínica: \"No es que los chicos estén buscando porno, sino que la pornografía va a buscarlos a ellos\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261011/silvia-catalan-sexologa-clinica-chicos-135011990",
+    "pubDate": "2026-10-11 17:00:45",
+    "category": "",
+    "description": "<h2>¿Cómo hablamos de pornografía con nuestros hijos? Tres especialistas abordan cuándo abrir la conversación, qué hacer si reciben imágenes explícitas y por qué los filtros no bastan para acompañarlos.</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20261004/jenny-madre-viuda-sientes-soportando-134887208\">Jenny, madre viuda: “Te sientes soportando la bola del mundo con tus dos manos y que no se caiga”</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Туреччині туристичний автобус зіткнувся з евакуатором: 11 жертв",
+    "link": "https://ua.korrespondent.net/world/4919105-u-turechchyni-turystychnyi-avtobus-zitknuvsia-z-evakuatorom-11-zhertv",
+    "pubDate": "2026-10-11 16:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4593251.jpg\">На заході Туреччини зіткнулися туристичний автобус і евакуатор. Внаслідок аварії загинули 11 людей, ще 27 постраждали. Причини трагедії встановлюють правоохоронці.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Oques Grasses, qué rabia da que hayan tenido tanto éxito",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261011/oques-grasses-rabia-da-hayan-135217327",
+    "pubDate": "2026-10-11 16:54:56",
+    "category": "",
+    "description": "<h2>Las conjeturas sobre la reventa, el 'FOMO' y el supuesto montaje chocaron con la realidad de cuatro noches de lleno en el Estadi Olímpic por parte de un grupo de pop en catalán que gusta a muchísima gente, un hito que desborda prejuicios </h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Гороскоп на 12 жовтня 2026 року для всіх знаків зодіаку",
+    "link": "https://ua.korrespondent.net/lifestyle/4919088-horoskop-na-12-zhovtnia-2026-roku-dlia-vsikh-znakiv-zodiaku",
+    "pubDate": "2026-10-11 16:51:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4593180.jpg\">За астрологічними прогнозами, особливу увагу варто приділити стосункам, фінансам і робочим домовленостям.",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Federico Martín Bahamontes, en 1998: \"Mi truco para afrontar los últimos 50 kilómetros era un bidón con dos cafés, media copa de coñac, Kola Astier, que no daba positivo, y Agua del Carmen\"",
+    "link": "https://www.elperiodico.com/es/gente/20261011/bahamontes-1998-truco-afrontar-ultimos-kilometros-bidon-cafe-conac-dv-et-135228964",
+    "pubDate": "2026-10-11 16:47:14",
+    "category": "",
+    "description": "<h2 class=\"item\">'El Águila de Toledo' compartió innumerables anécdotas sobre sus años como profesional que ayudan a entender el contexto del ciclismo de antaño</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260801/miguel-indurain-61-anos-leyenda-ciclismo-bocadillos-barritas-dv-132211094\">Miguel Indurain, cinco veces ganador del Tour: \"No nos tomábamos barritas ni geles, sino bocadillos de jamón y queso\"</a></h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Україна та РФ погодили енергоперемир’я - Трамп",
+    "link": "https://ua.korrespondent.net/ukraine/4919099-ukraina-ta-rf-pohodyly-enerhoperemyria-tramp",
+    "pubDate": "2026-10-11 16:41:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4593230.jpg\">Дональд Трамп заявив, що Україна та Росія нібито домовилися негайно припинити удари по енергетичній інфраструктурі. Водночас умови та тривалість перемир’я залишаються невідомими.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Sara Carbonero, sobre su relación con Iker Casillas: \"Empecé a ser conocida en el Mundial de Sudáfrica; cambió absolutamente todo\"",
+    "link": "https://www.elperiodico.com/es/gente/20261011/sara-carbonero-relacion-iker-casillas-mundial-sudafrica-dv-et-135228712",
+    "pubDate": "2026-10-11 16:36:56",
+    "category": "",
+    "description": "<h2 class=\"item\">La periodista deportiva acudió a 'La Mesa' y habló sobre cómo gestionó la fama a partir de su relación con el exjugador del Real Madrid</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20260904/sara-carbonero-42-anos-exmujer-iker-casillas-pueblo-dv-et-131797537\">Sara Carbonero (42 años), exmujer de Iker Casillas: \"El padre de mis hijos es de una aldea de 100 habitantes. Y a mis hijos les encanta\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Verstappen, intratable en Singapur, con duro golpe para Alonso",
+    "link": "https://www.elperiodico.com/es/deportes/20261011/sigue-directo-carrera-gp-singapur-135225571",
+    "pubDate": "2026-10-11 16:32:21",
+    "category": "",
+    "description": "<h2>Max Verstappen ha arrasado en Singapur. El neerlandés, que nunca había ganado en este escenario, cierra el último fin de semana de la temporada en formato sprint con dos poles y dos victorias. Este domingo ha subido al podio escoltado por Leclerc y Antonelli, que tendrá match ball por el título en Austin. Sainz (14º) y Alonso (16º) han terminado lejos de los puntos</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "ЛНЗ пережив нервову кінцівку та зберіг перевагу над Кудрівкою",
+    "link": "https://ua.korrespondent.net/sport/football/4919095-lnz-perezhyv-nervovu-kintsivku-ta-zberih-perevahu-nad-kudrivkoui",
+    "pubDate": "2026-10-11 16:28:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4593213.jpg\">Черкаська команда вийшла вперед уже на стартових хвилинах, у другому таймі подвоїла рахунок у меншості й втримала підсумковий успіх.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Засідка для російського спецназу: ГУР розкрило деталі операції",
+    "link": "https://ua.korrespondent.net/ukraine/4919091-zasidka-dlia-rosiiskoho-spetsnazu-hur-rozkrylo-detali-operatsii",
+    "pubDate": "2026-10-11 16:15:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4593197.jpg\">Бійці \"Спецпідрозділу Тимура\" ГУР провели контрдиверсійну операцію та знешкодили дві групи російського спецназу. Одного військовослужбовця противника вдалося взяти в полон.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Lección magistral de Marcelinho",
+    "link": "https://as.com/baloncesto/acb/leccion-magistral-de-marcelinho-f202610-n/",
+    "pubDate": "2026-10-11 16:09:11",
+    "category": "Baloncesto",
+    "description": "El base brasileño, con 19 puntos y 5 asistencias, es clave en el triunfo de La Laguna Tenerife en la pista del UCAM Murcia. Como Kyle Guy y Vince Hunter.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Динамо вирішило долю матчу з Карпатами на свою користь",
+    "link": "https://ua.korrespondent.net/sport/football/4919089-dynamo-vyrishylo-dolui-matchu-z-karpatamy-na-svoui-koryst",
+    "pubDate": "2026-10-11 16:05:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4593196.jpg\">Київському Динамо вдалося з мінімальною перевагою взяти верх над львівськими Карпатами.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Tiempo en Catalunya mañana lunes: jornada de nubes que cubrirán el cielo antes de la llegada de un nuevo frente",
     "link": "https://www.elperiodico.com/es/tiempo/20261011/tiempo-cataluna-hoy-lunes-12-de-octubre-temperaturas-lluvia-dv-loc-135226905",
     "pubDate": "2026-10-11 16:03:44",
@@ -178,6 +457,15 @@
     "description": "<h2>Ester Muñoz ha manifestado su disposición a encabezar la candidatura del Partido Popular por León en los próximos comicios mientras ha arremetido contra la gestión moral del actual Gobierno socialista</h2>",
     "topic": "вибори (але не президента України чи США)",
     "topic_match_probability": 100
+  },
+  {
+    "title": "У Харкові КАБи зруйнували будинки: є жертва",
+    "link": "https://ua.korrespondent.net/city/kharkov/4919078-u-kharkovi-kaby-zruinuvaly-budynky-ye-zhertva",
+    "pubDate": "2026-10-11 14:33:00",
+    "category": "Харків",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4593112.jpg\">Російські війська атакували керованими авіабомбами приватний сектор Немишлянського району Харкова. Загинула 35-річна жінка, серед постраждалих - дитина.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Lo que esconden las etiquetas de los productos ecológicos que triunfan en Ecocultura",
