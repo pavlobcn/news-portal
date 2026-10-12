@@ -1,5 +1,437 @@
 [
   {
+    "title": "Росія вдарила по Ізюму: пошкоджено 16 житлових будинків",
+    "link": "https://ua.korrespondent.net/ukraine/4919198-rosiia-vdaryla-po-izuimu-poshkodzheno-16-zhytlovykh-budynkiv",
+    "pubDate": "2026-10-12 07:36:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4593881.png\">Влучання зафіксували в дорожнє покриття поблизу житлової забудови. Постраждала одна людина.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Загадкове небесне тіло назвали на честь українки",
+    "link": "https://ua.korrespondent.net/sport/4919123-zahadkove-nebesne-tilo-nazvaly-na-chest-ukrainky",
+    "pubDate": "2026-10-12 07:31:00",
+    "category": "Новини спорту",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4593319.jpg\">На честь олімпійської чемпіонки назвали загадковий космічний об'єкт, офіційно додавши його нове ім'я до каталогу небесних тіл.",
+    "topic": "спорт",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Кремль відреагував на заяву Трампа про Зеленського",
+    "link": "https://ua.korrespondent.net/world/russia/4919195-kreml-vidreahuvav-na-zaiavu-trampa-pro-zelenskoho",
+    "pubDate": "2026-10-12 07:18:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4593868.jpg\">У Москві прокоментували слова американського президента про необхідність заміни Зеленського.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El concierto del año",
+    "link": "https://www.elperiodico.com/es/tele/20261012/concierto-ano-135230789",
+    "pubDate": "2026-10-12 07:00:41",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El carnet de conducir está a punto de cambiar en toda Europa: estas son las nuevas reglas que llegarán a España en 2028",
+    "link": "https://www.elperiodico.com/es/motor/20261012/carnet-conducir-a-punto-cambiar-europa-135165369",
+    "pubDate": "2026-10-12 07:00:37",
+    "category": "",
+    "description": "<h2>Tras 20 años de éxito el sistema se estanca y Bruselas busca un nuevo modelo válido para toda Europa</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Трагічна втрата для боксу: помер легендарний чемпіон",
+    "link": "https://ua.korrespondent.net/sport/boks/4919120-trahichna-vtrata-dlia-boksu-pomer-lehendarnyi-chempion",
+    "pubDate": "2026-10-12 06:56:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4593302.jpg\">Стало відомо про смерть легендарного боксера, який за свою кар'єру підкорив три вагові категорії та заслужив місце у Залі слави.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Віткофф і Кушнер відклали візит до Москви: ЗМІ назвали причину",
+    "link": "https://ua.korrespondent.net/world/4919191-vitkoff-i-kushner-vidklaly-vizyt-do-moskvy-zmi-nazvaly-prychynu",
+    "pubDate": "2026-10-12 06:54:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4593856.jpeg\">Спеціальні представники президента США мали відвідати Москву протягом найближчих двох тижнів.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "TVyMAS Lunes 12 Octubre",
+    "link": "https://www.elperiodico.com/es/videos/tele/tvymas-lunes-12-octubre/135230429.shtml",
+    "pubDate": "2026-10-12 06:50:00",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ювентус вирвав нічию після пропущеного гола в першому таймі",
+    "link": "https://ua.korrespondent.net/sport/football/4919159-yuventus-vyrvav-nichyui-pislia-propuschenoho-hola-v-pershomu-taimi",
+    "pubDate": "2026-10-12 06:37:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4593844.jpg\">Ювентус проявив характер у матчі проти Кальярі і уникнув поразки, звівши зустріч до підсумкової нічиєї.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Німеччині відреагували на заклик Трампа провести вибори в Україні",
+    "link": "https://ua.korrespondent.net/world/4919188-u-nimechchyni-vidreahuvaly-na-zaklyk-trampa-provesty-vybory-v-ukraini",
+    "pubDate": "2026-10-12 06:30:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4593843.jpg\">Берлін продовжує підтримувати Україну, її уряд і Володимира Зеленського на посаді президента.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Márquez: “Martín es un guerrero, me estoy enfrentando a un auténtico talentazo”",
+    "link": "https://www.elperiodico.com/es/deportes/20261012/marquez-martin-guerrero-enfrentando-autentico-135235490",
+    "pubDate": "2026-10-12 06:21:24",
+    "category": "",
+    "description": "<h2 class=\"item\">Aunque el italiano Marco Bezzecchi (Aprilia), tercero del Mundial, acortó ayer algo las distancias (se encuentra, ahora, a 46 puntos del líder), es evidente que el título de MotoGP se va a dilucidar entre Jorge Martín (Aprilia) y Marc Márquez (Ducati), que siguen separados por solo dos puntos, cuando restan por disputarse 185 puntos.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Дві хвилини на полі: Судаков забив за Бенфіку",
+    "link": "https://ua.korrespondent.net/sport/football/4919152-dvi-khvylyny-na-poli-sudakov-zabyv-za-benfiku",
+    "pubDate": "2026-10-12 06:15:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4593829.jpg\">Точний удар українця допоміг лісабонському клубу здобути важливі три очки в поєдинку чемпіонату Португалії.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Генштаб назвав втрати Росії станом на 12 жовтня",
+    "link": "https://ua.korrespondent.net/ukraine/4919185-henshtab-nazvav-vtraty-rosii-stanom-na-12-zhovtnia",
+    "pubDate": "2026-10-12 06:10:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4593828.jpg\">Минулої доби ЗСУ ліквідували 1470 окупантів. Знищено два танки, шість бронемашин, 51 артсистему, чотири РСЗВ, два засоби ППО, три НРК і 1416 дронів.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Трансферна інтрига розв’язана? Баварія домовилася з бомбардиром",
+    "link": "https://ua.korrespondent.net/sport/football/4919124-transferna-intryha-rozviazana-bavariia-domovylasia-z-bombardyrom",
+    "pubDate": "2026-10-12 06:03:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4593380.jpg\">Англійський нападник Гаррі Кейн незабаром офіційно продовжить свою угоду з мюнхенським клубом.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Pugna por el voto útil de la derecha",
+    "link": "https://www.elperiodico.com/es/opinion/20261012/pugna-voto-util-derecha-135232180",
+    "pubDate": "2026-10-12 06:00:50",
+    "category": "",
+    "description": "",
+    "topic": "вибори",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Cuando discrepar siempre acaba en batalla: por qué hay personas que viven instaladas en el conflicto",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20261012/discrepar-acaba-batalla-hay-personas-134761951",
+    "pubDate": "2026-10-12 06:00:49",
+    "category": "",
+    "description": "<h2 class=\"item\">El problema no es discrepar, sino convertir cada diferencia en una lucha por imponerse, defenderse o conseguir que el otro ceda</h2><h2 class=\"item\">\"Tolerar la frustración es poder defender lo que necesito sin exigir que todo ocurra como yo querría\", afirma Txus Carilla, psicólogo</h2><h2 class=\"item\">Los patrones pueden modificarse, subrayan los expertos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El adelanto no mueve la aguja",
+    "link": "https://www.elperiodico.com/es/opinion/20261012/adelanto-no-mueve-aguja-135229880",
+    "pubDate": "2026-10-12 06:00:42",
+    "category": "",
+    "description": "<h2 class=\"item\">La encuesta del GESOP revela que el efecto Maricarmen apenas altera las tendencias electorales, manteniendo al Partido Popular como primera fuerza ante un PSOE que no logra capitalizar el descontento</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261011/elecciones-generales-espana-2026-pedro-sanchez-ultima-hora-directo-135003267\">Elecciones generales en España 2026, en directo: última hora y todas las reacciones a la convocatoria de Sánchez para el 29 de noviembre</a></h2>",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Pedro Sánchez, el azar y la necesidad",
+    "link": "https://www.elperiodico.com/es/opinion/20261012/pedro-sanchez-azar-necesidad-135229112",
+    "pubDate": "2026-10-12 06:00:39",
+    "category": "",
+    "description": "<h2 class=\"item\">La crisis de la vivienda irrumpe en el tablero político y se convierte en el eje de una batalla electoral marcada por la estrategia, la confrontación y la lucha por el poder</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Encuesta elecciones generales España: La izquierda no remonta tras el adelanto electoral y se mantiene el equilibrio entre bloques",
+    "link": "https://www.elperiodico.com/es/politica/20261012/encuesta-elecciones-generales-espana-2026-29n-135212729",
+    "pubDate": "2026-10-12 06:00:36",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20261011/sondeo-elecciones-generales-valoracion-gobierno-sanchez-135172758\" target=\"_blank\">Encuesta 29N: El 56% de los españoles suspenden la gestión del Gobierno de Sánchez</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261011/sondeo-elecciones-generales-valoracion-lideres-135172721\" target=\"_blank\">Encuesta 29N: Sánchez es el preferido como presidente del Gobierno en medio de un suspenso general</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261011/sondeo-huelga-general-vivienda-elecciones-generales-135183635\" target=\"_blank\">Encuesta 29N: El 52% de los españoles rechazan la huelga general por la vivienda y el 43% la apoya</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261011/sondeo-elecciones-generales-vivienda-135184829\" target=\"_blank\">Encuesta 29N: Los españoles rechazan prorrogar los contratos de alquiler indefinidamente y apoyan congelar los precios</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261011/sondeo-ceuta-elecciones-generales-135191883\" target=\"_blank\">Encuesta 29N: El 70% de los españoles apuestan por devolver a los migrantes que entraron en Ceuta</a></h2>",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Sondeo elecciones generales: El 70% de los españoles apuestan por devolver a los migrantes que entraron en Ceuta",
+    "link": "https://www.elperiodico.com/es/politica/20261012/sondeo-ceuta-elecciones-generales-135191883",
+    "pubDate": "2026-10-12 06:00:36",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20261011/encuesta-elecciones-generales-espana-2026-29n-135212729\" target=\"_blank\">Encuesta 29N: El PP inicia la precampaña en cabeza y con Vox en máximos</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261011/sondeo-elecciones-generales-valoracion-gobierno-sanchez-135172758\" target=\"_blank\">Encuesta 29N: El 56% de los españoles suspenden la gestión del Gobierno de Sánchez</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261011/sondeo-elecciones-generales-valoracion-lideres-135172721\" target=\"_blank\">Encuesta 29N: Sánchez es el preferido como presidente del Gobierno en medio de un suspenso general</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261011/sondeo-huelga-general-vivienda-elecciones-generales-135183635\" target=\"_blank\">Encuesta 29N: El 52% de los españoles rechazan la huelga general por la vivienda y el 43% la apoya</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261011/sondeo-elecciones-generales-vivienda-135184829\" target=\"_blank\">Encuesta 29N: Los españoles rechazan prorrogar los contratos de alquiler indefinidamente y apoyan congelar los precios</a></h2>",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Puñales en la izquierda",
+    "link": "https://www.elperiodico.com/es/opinion/20261012/punales-izquierda-elecciones-29n-rufian-ada-colau-135220955",
+    "pubDate": "2026-10-12 06:00:36",
+    "category": "",
+    "description": "<h2>Llevan años advirtiendo que llega el lobo y parecen más preocupados por protegerse a su paso que dispuestos a plantarle cara</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Sondeo elecciones generales: Los españoles rechazan prorrogar los contratos de alquiler indefinidamente y apoyan congelar los precios",
+    "link": "https://www.elperiodico.com/es/economia/20261012/sondeo-elecciones-generales-vivienda-135184829",
+    "pubDate": "2026-10-12 06:00:35",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20261011/encuesta-elecciones-generales-espana-2026-29n-135212729\" target=\"_blank\">Encuesta 29N: El PP inicia la precampaña en cabeza y con Vox en máximos</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261011/sondeo-elecciones-generales-valoracion-gobierno-sanchez-135172758\" target=\"_blank\">Encuesta 29N: El 56% de los españoles suspenden la gestión del Gobierno de Sánchez</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261011/sondeo-elecciones-generales-valoracion-lideres-135172721\" target=\"_blank\">Encuesta 29N: Sánchez es el preferido como presidente del Gobierno en medio de un suspenso general</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261011/sondeo-huelga-general-vivienda-elecciones-generales-135183635\" target=\"_blank\">Encuesta 29N: El 52% de los españoles rechazan la huelga general por la vivienda y el 43% la apoya</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261011/sondeo-ceuta-elecciones-generales-135191883\" target=\"_blank\">Encuesta 29N: El 70% de los españoles apuestan por devolver a los migrantes que entraron en Ceuta</a></h2>",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los ministros candidatos replantean sus estrategias al adelantarse su salida del Gobierno",
+    "link": "https://www.elperiodico.com/es/politica/20261012/ministros-candidatos-replantean-estrategias-adelantarse-elecciones-135191989",
+    "pubDate": "2026-10-12 06:00:34",
+    "category": "",
+    "description": "<h2 class=\"item\">Ni Óscar López, ni Ángel Víctor Torres, ni Diana Morant irán en las listas al Congreso</h2><h2 class=\"item\">Fuentes de sus candidaturas ven como \"muy positivo\" que las generales se alejen de las autonómicas</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Dos emprendedoras de Sant Cugat desafían a los gigantes de la natación con una marca de bañadores",
+    "link": "https://www.elperiodico.com/es/barcelona/20261012/queriamos-elegir-moda-comodidad-hermanas-banadores-sant-cugat-valldoreix-empresa-marca-ropa-135145114",
+    "pubDate": "2026-10-12 06:00:34",
+    "category": "",
+    "description": "<h2>Anna y Mireia Bosch Llonch, de 21 y 25 años, han invertido sus ahorros en una marca de bañadores deportivos fabricados en Rubí</h2><h2>Con una primera tanda de 120 unidades, las emprendedoras apuestan por el km 0 y aspiran a competir con Turbo y Arena</h2><h2><a href=\"https://www.elperiodico.com/es/gente/20260608/guillermina-baeza-40-anos-firma-subio-banador-pasarela-131055693\">Guillermina Baeza, 40 años de la firma que subió el bañador a la pasarela: \"El baño nos viste en la playa, en la piscina y en la calle\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Jordi Martí (Junts): \"No quiero una Catalunya de 10 millones de habitantes ni una Barcelona de 2,5\"",
+    "link": "https://www.elperiodico.com/es/barcelona/20261012/jordi-marti-junts-no-quiero-catalunya-10-millones-habitantes-135186092",
+    "pubDate": "2026-10-12 06:00:32",
+    "category": "",
+    "description": "<h2>El alcaldable de Junts cuestiona los cordones sanitarios, celebra la amnistía y prepara una lista cremallera con caras nuevas y cerrada por Xavier Trias</h2><h2>Segunda parte de la entrevista | <atarget=\"_blank\">Jordi Martí: \"Si soy alcalde conservaré las 10.000 licencias de pisos turísticos, ni una más\"</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "TMB planea adaptar la red del metro de Barcelona ante los futuros episodios de lluvias torrenciales",
+    "link": "https://www.elperiodico.com/es/barcelona/20261012/metro-barcelona-adaptacion-red-episodios-lluvias-torrenciales-135182367",
+    "pubDate": "2026-10-12 06:00:32",
+    "category": "",
+    "description": "<h2 class=\"item\">La compañía revisará los pozos de ventilación y los puntos críticos de entrada de agua en el suburbano para evitar inundaciones</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261006/lluvias-torrenciales-ausencia-medidas-ciudades-infraestructuras-135011927\" target=\"_blank\">Las lluvias torrenciales ponen al límite unas ciudades no adaptadas al nuevo clima: \"Urge revisar el alcantarillado\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261006/ingenieros-depositos-colectores-lluvias-inundaciones-barcelona-cataluna-135049878\" target=\"_blank\">Los ingenieros piden más depósitos pluviales y colectores para evitar inundaciones</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sondeo elecciones generales: El 52% de los españoles rechazan la huelga general por la vivienda y el 43% la apoya",
+    "link": "https://www.elperiodico.com/es/politica/20261012/sondeo-huelga-general-vivienda-elecciones-generales-135183635",
+    "pubDate": "2026-10-12 06:00:32",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20261011/encuesta-elecciones-generales-espana-2026-29n-135212729\" target=\"_blank\">Encuesta 29N: El PP inicia la precampaña en cabeza y con Vox en máximos</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261011/sondeo-elecciones-generales-valoracion-gobierno-sanchez-135172758\" target=\"_blank\">Encuesta 29N: El 56% de los españoles suspenden la gestión del Gobierno de Sánchez</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261011/sondeo-elecciones-generales-valoracion-lideres-135172721\" target=\"_blank\">Encuesta 29N: Sánchez es el preferido como presidente del Gobierno en medio de un suspenso general</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261011/sondeo-elecciones-generales-vivienda-135184829\" target=\"_blank\">Encuesta 29N: Los españoles rechazan prorrogar los contratos de alquiler indefinidamente y apoyan congelar los precios</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261011/sondeo-ceuta-elecciones-generales-135191883\" target=\"_blank\">Encuesta 29N: El 70% de los españoles apuestan por devolver a los migrantes que entraron en Ceuta</a></h2>",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Rodalies afronta un otoño de lluvias torrenciales sin medidas adicionales para garantizar el servicio y la información a los usuarios",
+    "link": "https://www.elperiodico.com/es/sociedad/20261012/rodalies-otono-lluvias-torrenciales-medidas-adicionales-garantizar-servicio-135170949",
+    "pubDate": "2026-10-12 06:00:32",
+    "category": "",
+    "description": "<h2 class=\"item\">Generalitat y Renfe aún no se han reunido con los sindicatos para redactar un nuevo protocolo frente a inclemencias meteorológicas, como se acordó tras el accidente de Gelida</h2><h2 class=\"item\">En las próximas semanas habrá un encuentro entre el Govern y el Ministerio de Transportes para tratar la situación, según fuentes de la gestión ferroviaria en Catalunya</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261007/nueva-jornada-caos-rodalies-tumba-movilidad-cataluna-135090550\">Nueva jornada de caos en Rodalies marcada por el plante de los maquinistas tras el temporal</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261006/maquinistas-niegan-circular-tramos-rodalies-cerrados-lluvia-135067001\">Los maquinistas se niegan a circular por varios de los tramos de Rodalies afectados por las lluvias</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Así está afectando el cambio climático al deporte: suspensiones por tormenta, pausas de hidratación, etapas recortadas, protocolos antirrayos…",
+    "link": "https://www.elperiodico.com/es/deportes/20261012/cambio-climatico-deporte-suspensiones-protocolos-135168322",
+    "pubDate": "2026-10-12 06:00:32",
+    "category": "",
+    "description": "<h2 class=\"item\">La potestad para suspender competiciones deportivas en España recae sobre las comunidades autónomas, que carecen de protocolos específicos ante la caída de rayos</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261006/ruben-campo-aemet-agencia-estatal-meteorologia-cambio-climatico-riesgo-lluvias-torrenciales-espana-otono-135023168\" target=\"_blank\">Rubén del Campo, Aemet: \"Con el cambio climático, no hay casi ninguna ciudad en España que esté a salvo de sufrir lluvias torrenciales\"</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Jordi Martí (Junts): \"Si soy alcalde de Barcelona conservaré las 10.000 licencias de pisos turísticos, ni una más\"",
+    "link": "https://www.elperiodico.com/es/barcelona/20261012/jordi-marti-junts-conservare-10000-licencias-pisos-turisticos-ni-una-mas-135187305",
+    "pubDate": "2026-10-12 06:00:32",
+    "category": "",
+    "description": "<h2>El líder de la oposición municipal ve \"lamentable, populista e inaudito\" que Jaume Collboni compre edificios o solares para evitar el desalojo de colectivos que protestan</h2><h2>Primera parte de la entrevista | <a>Jordi Martí: \"No quiero una Catalunya de 10 millones de habitantes ni una Barcelona de 2,5\"</a></h2>",
+    "topic": "туристичні квартири",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Empresas y trabajadores reclaman protocolos más claros ante las lluvias torrenciales",
+    "link": "https://www.elperiodico.com/es/economia/20261012/lluvias-torrenciales-empresas-falta-protocolos-claros-lluvias-torrenciales-teletrabajo-cierre-actividad-135147440",
+    "pubDate": "2026-10-12 06:00:31",
+    "category": "",
+    "description": "<h2 class=\"item\">Mientras la ley es clara a la hora de fijar cómo actuar en casos de altas temperaturas, no ocurre lo mismo a la hora de determinar procedimientos ante temporales</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20261008/lluvias-torrenciales-cataluna-perdidas-empresas-pimec-informe-135130004\">Las lluvias torrenciales causan 117 millones de pérdidas en las empresas, según Pimec</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los gobiernos tienen ya identificados los riesgos climáticos pero la ejecución de las medidas avanza al ralentí",
+    "link": "https://www.elperiodico.com/es/sociedad/20261012/fenomenos-extremos-lluvias-torrenciales-cambio-climatico-planes-adaptacion-ciudades-espana-135168096",
+    "pubDate": "2026-10-12 06:00:30",
+    "category": "",
+    "description": "<h2 class=\"item\">Los expertos advierten de que los planes de adaptación no avanzan al ritmo al que se suceden fenómenos meteorológicos extremos como las recientes lluvias torrenciales en Catalunya y urgen a \"agilizar\" el despliegue de actuaciones</h2><h2 class=\"item\">Subrayan que igual de importante es que los ciudadanos estén concienciados y que sepan cómo actuar ante estos episodios</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261006/ruben-campo-aemet-agencia-estatal-meteorologia-cambio-climatico-riesgo-lluvias-torrenciales-espana-otono-135023168\" target=\"_blank\">Rubén del Campo, Aemet: \"Con el cambio climático, no hay casi ninguna ciudad en España que esté a salvo de sufrir lluvias torrenciales\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sondeo elecciones generales: El 56% de los españoles suspenden la gestión del Gobierno de Sánchez",
+    "link": "https://www.elperiodico.com/es/politica/20261012/sondeo-elecciones-generales-valoracion-gobierno-sanchez-135172758",
+    "pubDate": "2026-10-12 06:00:28",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20261011/encuesta-elecciones-generales-espana-2026-29n-135212729\" target=\"_blank\">Encuesta 29N: El PP inicia la precampaña en cabeza y con Vox en máximos</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261011/sondeo-elecciones-generales-valoracion-lideres-135172721\" target=\"_blank\">Encuesta 29N: Sánchez es el preferido como presidente del Gobierno en medio de un suspenso general</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261011/sondeo-huelga-general-vivienda-elecciones-generales-135183635\" target=\"_blank\">Encuesta 29N: El 52% de los españoles rechazan la huelga general por la vivienda y el 43% la apoya</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261011/sondeo-elecciones-generales-vivienda-135184829\" target=\"_blank\">Encuesta 29N: Los españoles rechazan prorrogar los contratos de alquiler indefinidamente y apoyan congelar los precios</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261011/sondeo-ceuta-elecciones-generales-135191883\" target=\"_blank\">Encuesta 29N: El 70% de los españoles apuestan por devolver a los migrantes que entraron en Ceuta</a></h2>",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Sondeo elecciones generales: Sánchez es el preferido como presidente del Gobierno en medio de un suspenso general",
+    "link": "https://www.elperiodico.com/es/politica/20261012/sondeo-elecciones-generales-valoracion-lideres-135172721",
+    "pubDate": "2026-10-12 06:00:28",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20261011/encuesta-elecciones-generales-espana-2026-29n-135212729\" target=\"_blank\">Encuesta 29N: El PP inicia la precampaña en cabeza y con Vox en máximos</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261011/sondeo-elecciones-generales-valoracion-gobierno-sanchez-135172758\" target=\"_blank\">Encuesta 29N: El 56% de los españoles suspenden la gestión del Gobierno de Sánchez</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261011/sondeo-huelga-general-vivienda-elecciones-generales-135183635\" target=\"_blank\">Encuesta 29N: El 52% de los españoles rechazan la huelga general por la vivienda y el 43% la apoya</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261011/sondeo-elecciones-generales-vivienda-135184829\" target=\"_blank\">Encuesta 29N: Los españoles rechazan prorrogar los contratos de alquiler indefinidamente y apoyan congelar los precios</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261011/sondeo-ceuta-elecciones-generales-135191883\" target=\"_blank\">Encuesta 29N: El 70% de los españoles apuestan por devolver a los migrantes que entraron en Ceuta</a></h2>",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El teatro de Madrid donde no puedes esconderte de los actores: 15 espectadores en 15 metros cuadrados durante 15 minutos",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261012/teatro-madrid-puedes-esconderte-actores-15-espectadores-15-metros-cuadrados-15-minutos-135171822",
+    "pubDate": "2026-10-12 06:00:27",
+    "category": "",
+    "description": "<h2>El festival MÍNIMA reúne del 9 de octubre al 1 de noviembre 18 piezas llegadas de España, Argentina, Portugal y Ecuador en una propuesta que convierte la cercanía con el público en parte esencial de la experiencia</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las 5 gasolineras más baratas de España para que rellenes tu depósito hoy",
+    "link": "https://www.elperiodico.com/es/motor/20261012/gasolineras-mas-baratas-hoy-lunes-12-octubre-2026-135165684",
+    "pubDate": "2026-10-12 06:00:26",
+    "category": "",
+    "description": "<h2>Si vas a llenar el depósito de tu vehículo hoy a continuación te contamos cuáles son las estaciones de servicio en las que te saldrá más barato </h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Daniel Redondo, presidente de MGC: “Superar la muerte de mi madre ha sido el mayor desafío de mi vida; no creo que aún lo haya conseguido”",
+    "link": "https://www.elperiodico.com/es/economia/20261012/daniel-redondo-president-mutua-general-catalunya-hablando-maxenchs-135092885",
+    "pubDate": "2026-10-12 06:00:21",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/economia/20261005/ivan-garcia-ceo-nox-gestionar-134922139\" target=\"_blank\">Iván García, CEO de NOX: \"Gestionar la velocidad es hoy uno de los grandes desafíos de cualquier empresa\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Підсумки 11.10: перемир'я Трампа й таємна розмова",
+    "link": "https://ua.korrespondent.net/ukraine/4919175-pidsumky-1110-peremyria-trampa-y-taiemna-rozmova",
+    "pubDate": "2026-10-12 05:57:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4593737.jpg\">У Путіна натякнули на \"таємну\" розмову з Трампом. Україна та РФ погодили енергоперемир’я - Трамп. Кореспондент.net виділяє головні події вчорашнього дня.",
+    "topic": "підсумки",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Jordi Martí, alcaldable de Junts en Barcelona, sobre Aliança Catalana",
+    "link": "https://www.elperiodico.com/es/videos/barcelona/jordi-marti-alcaldable-junts-barcelona-video/135184847.shtml",
+    "pubDate": "2026-10-12 05:55:54",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Jordi Martí explica la posición de Junts ante los pisos turísticos de Barcelona",
+    "link": "https://www.elperiodico.com/es/videos/politica/jordi-marti-explica-posicion-junts-video/135184843.shtml",
+    "pubDate": "2026-10-12 05:55:54",
+    "category": "",
+    "description": "",
+    "topic": "туристичні квартири",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Guerra Ucrania - Rusia, última hora en directo",
+    "link": "https://www.elperiodico.com/es/internacional/20261012/guerra-ucrania-rusia-ultima-hora-126605559",
+    "pubDate": "2026-10-12 05:45:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Directo GUERRA DE IRÁN | Última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Tráfico en Barcelona, en directo: última hora de Rodalies, carreteras y operación retorno del 12 de octubre",
+    "link": "https://www.elperiodico.com/es/barcelona/20261012/trafico-rodalies-directo-trenes-carreteras-lluvias-133938712",
+    "pubDate": "2026-10-12 05:45:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/barcelona/20260930/barcelona-redisenara-cuatro-grandes-accesos-aliviar-atascos-134836777\" target=\"_blank\">Barcelona rediseñará sus accesos por la Diagonal, la Gran Via y la Ronda Litoral para reducir atascos</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "КНДР запустила кілька балістичних ракет",
+    "link": "https://ua.korrespondent.net/world/4919183-kndr-zapustyla-kilka-balistychnykh-raket",
+    "pubDate": "2026-10-12 05:36:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4593802.jpeg\">Запуск відбувся через кілька днів після того, як Південна Корея провела перший випробувальний запуск гіперзвукового планера.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Сассуоло відігрався й відібрав очки у Мілана",
+    "link": "https://ua.korrespondent.net/sport/football/4919141-sassuolo-vidihravsia-y-vidibrav-ochky-u-milana",
+    "pubDate": "2026-10-12 05:25:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4593547.jpg\">Мілан не зміг переграти Сассуоло - суперники обмінялися точними ударами і довели матч до підсумкової нічиєї.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Заява Трампа про перемир'я обвалила ціни на нафту",
+    "link": "https://ua.korrespondent.net/business/economics/4919181-zaiava-trampa-pro-peremyria-obvalyla-tsiny-na-naftu",
+    "pubDate": "2026-10-12 04:58:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4593788.jpg\">Можливе збільшення постачань пального з РФ послабило побоювання щодо дефіциту на ринку, пише Bloomberg.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Росія проведе військові навчання ОДКБ в Білорусі",
+    "link": "https://ua.korrespondent.net/world/russia/4919179-rosiia-provede-viiskovi-navchannia-odkb-v-bilorusi",
+    "pubDate": "2026-10-12 04:45:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4593775.jpg\">Навчання під назвою Непорушне братерство-2026 та Бар’єр-2026 пройдуть там в період з 12 по 16 жовтня.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Манчестер Сіті скористався вилученням і розгромив Ліверпуль",
+    "link": "https://ua.korrespondent.net/sport/football/4919136-manchester-siti-skorystavsia-vyluchenniam-i-rozghromyv-liverpul",
+    "pubDate": "2026-10-12 04:40:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4593515.jpg\">Опинившись у меншості, господарі поля пропустили три сухі голи від Манчестер Сіті, що призвело до поразки з рахунком 0:3.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Хусити вдарили по аеропорту Ер-Ріяда вдруге - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4919177-khusyty-vdaryly-po-aeroportu-er-riiada-vdruhe-zmi",
+    "pubDate": "2026-10-12 03:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4593750.jpg\">Снаряд був випущений на міжнародний термінал аеропорту Ер-Ріяда в неділю, що спричинило пожежу, заявили коаліційні сили.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
     "title": "РФ втручалася в результати голосування Brexit - прем'єр Британії",
     "link": "https://ua.korrespondent.net/world/4919173-rf-vtruchalasia-v-rezultaty-holosuvannia-Brexit-premier-brytanii",
     "pubDate": "2026-10-12 03:19:00",
