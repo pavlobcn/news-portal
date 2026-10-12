@@ -1,9 +1,11 @@
-# News for 2026-10-12 17:40
+# News for 2026-10-12 18:57
 
 Previous day: [2026-10-11](./data/2026-10-11.md)
 
 ## ua.korrespondent.net
 16:52 [Папу Римського госпіталізують: скільки він пробуде в лікарні](https://ua.korrespondent.net/world/4919416-papu-rymskoho-hospitalizuuit-skilky-vin-probude-v-likarni)<br>
+16:49 [У Павлограді кількість поранених зросла до трьох осіб](https://ua.korrespondent.net/ukraine/4919419-u-pavlohradi-kilkist-poranenykh-zrosla-do-trokh-osib)<br>
+16:19 [Росіяни атакували інфраструктурний об'єкт у Вінниці](https://ua.korrespondent.net/ukraine/4919406-rosiiany-atakuvaly-infrastrukturnyi-obiekt-u-vinnytsi)<br>
 15:52 [Саудівська Аравія розширює маршрути експорту нафти](https://ua.korrespondent.net/business/4919393-saudivska-araviia-rozshyruiie-marshruty-eksportu-nafty)<br>
 15:34 [Росіяни із РСЗВ вбили сім'ю на Донеччині](https://ua.korrespondent.net/ukraine/4919384-rosiiany-iz-rszv-vbyly-simui-na-donechchyni)<br>
 15:31 [На Одещині немовля померло від голоду: підозрюють посадовицю](https://ua.korrespondent.net/ukraine/4919382-na-odeschyni-nemovlia-pomerlo-vid-holodu-pidozruiuit-posadovytsui)<br>
@@ -29,11 +31,18 @@ Previous day: [2026-10-11](./data/2026-10-11.md)
 02:46 [Під Ростовом горить нафтоналивний термінал - ЗМІ](https://ua.korrespondent.net/world/russia/4919171-pid-rostovom-horyt-naftonalyvnyi-terminal-zmi)<br>
 
 ## as.com
+17:57 [Deck, obligado a parar por otra lesión](https://as.com/baloncesto/acb/deck-obligado-a-parar-por-otra-lesion-f202610-n/)<br>
+16:23 [Christian Koloko es el pívot elegido para el Baskonia](https://as.com/baloncesto/christian-koloko-es-el-pivot-elegido-para-el-baskonia-f202610-n/)<br>
 14:44 [Los líos se multiplican en el baloncesto francés](https://as.com/baloncesto/mas_baloncesto/los-lios-se-multiplican-en-el-baloncesto-frances-f202610-n/)<br>
 14:42 [Kellogg’s lanza las Becas FEB K Nada Te Frene](https://as.com/baloncesto/mas_baloncesto/kelloggs-lanza-las-becas-feb-k-nada-te-frene-f202610-n/)<br>
 07:45 [Historias de Piculín Ortiz en España](https://as.com/baloncesto/mas_baloncesto/historias-de-piculin-ortiz-en-espana-f202610-n/)<br>
 
 ## www.elperiodico.com
+18:53 [Evacuados por un incendio en un AVE en Ricla, junto a las vías](https://www.elperiodico.com/es/videos/economia/evacuados-incendio-ave-ricla-vias/135256964.shtml)<br>
+18:23 [Tras la pista de la innovación en la pyme](https://www.elperiodico.com/es/opinion/20261012/pista-innovacion-pyme-articulo-daniel-altimiras-135255730)<br>
+18:14 [Javier Bardem debutará en el teatro en noviembre con una obra inspirada en Chéjov](https://www.elperiodico.com/es/ocio-y-cultura/20261012/javier-bardem-debutara-teatro-noviembre-135255735)<br>
+17:58 [Tiempo en Catalunya mañana martes: las temperaturas continúan en ascenso en todo el territorio](https://www.elperiodico.com/es/tiempo/20261012/tiempo-cataluna-hoy-martes-13-de-octubre-lluvia-temperatura-dv-loc-135254467)<br>
+17:46 ["¿Cómo reaccionas ante la maldad de un niño?": el festival de Sitges presenta '11', el debut de Clàudia y Paula Serra](https://www.elperiodico.com/es/ocio-y-cultura/20261012/11-claudia-serra-paula-serra-festival-sitges-maldad-nino-135253557)<br>
 17:30 [Cortada la alta velocidad entre Barcelona y Madrid por el incendio de un tren AVE a su paso por Aragón](https://www.elperiodico.com/es/sociedad/20261012/cortada-alta-velocidad-barcelona-madrid-incendio-ave-aragon-135254192)<br>
 17:27 [Un AVE sufre una avería en Zaragoza y obliga a cortar el tráfico de alta velocidad entre Madrid y Barcelona](https://www.elperiodico.com/es/videos/economia/ave-sufre-averia-zaragoza-obliga/135254711.shtml)<br>
 17:20 [La inminente operación del Papa añade incertidumbre al relevo de Omella y al futuro del obispo de Girona](https://www.elperiodico.com/es/sociedad/20261012/inminente-operacion-papa-relevo-omella-obispo-girona-135253420)<br>
