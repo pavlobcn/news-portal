@@ -1,8 +1,10 @@
-# News for 2026-10-12 09:31
+# News for 2026-10-12 10:09
 
 Previous day: [2026-10-11](./data/2026-10-11.md)
 
 ## ua.korrespondent.net
+10:01 [НБУ зменшив продаж доларів на міжбанку](https://ua.korrespondent.net/business/financial/4919242-nbu-zmenshyv-prodazh-dolariv-na-mizhbanku)<br>
+09:31 [У Польщі виявили загадкову могилу в човні, яка здивувала вчених](https://ua.korrespondent.net/tech/science/4919113-u-polschi-vyiavyly-zahadkovu-mohylu-v-chovni-yaka-zdyvuvala-vchenykh)<br>
 08:14 [Пішла з життя заслужена артистка України](https://ua.korrespondent.net/showbiz/culture/4919121-pishla-z-zhyttia-zasluzhena-artystka-ukrainy)<br>
 02:46 [Під Ростовом горить нафтоналивний термінал - ЗМІ](https://ua.korrespondent.net/world/russia/4919171-pid-rostovom-horyt-naftonalyvnyi-terminal-zmi)<br>
 
@@ -10,6 +12,8 @@ Previous day: [2026-10-11](./data/2026-10-11.md)
 07:45 [Historias de Piculín Ortiz en España](https://as.com/baloncesto/mas_baloncesto/historias-de-piculin-ortiz-en-espana-f202610-n/)<br>
 
 ## www.elperiodico.com
+10:00 [Experto en seguridad, sobre las lluvias e inundaciones: "El nivel del agua puede subir en cuestión de minutos, una salida que parecía segura, puede dejar de serlo"](https://www.elperiodico.com/es/vida-y-estilo/20261012/parking-subterraneo-trampa-mortal-lluvias-temporal-inundaciones-policia-corazon-dv-et-135127517)<br>
+09:40 [¿Se acabará el mundo el mes que viene? La ciencia lo predijo en 1960, pero la población no da para tanto](https://www.elperiodico.com/es/tendencias21/20261012/acabara-mundo-mes-viene-ciencia-135240597)<br>
 09:11 [Precio del petróleo hoy, 12 de octubre por la Guerra en Irán: consulta el precio del barril de Brent](https://www.elperiodico.com/es/economia/20261012/precio-petroleo-hoy-12-octubre-dv-135239625)<br>
 09:00 [Roser Gort, experta en sueño, habla de la perdida de sueño del sofá a la cama: "Cuando llegas a la cama esos estímulos desaparecen, te quedas a solas, contigo mismo, en silencio y sin distracciones"](https://www.elperiodico.com/es/ser-feliz/20261012/perdida-sueno-sofa-cama-pensamientos-estimulos-psicologa-roser-gort-dv-et-135093990)<br>
 08:45 [Pablo Vidarte, emprendedor especializado en biotecnología: "Vamos a dejar de ser la especie humana tal y como la conocemos"](https://www.elperiodico.com/es/sociedad/20261012/pablo-vidarte-emprendedor-biotecnologia-prediccion-futuro-humanidad-dv-et-135145583)<br>
