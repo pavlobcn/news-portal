@@ -1,8 +1,15 @@
-# News for 2026-10-12 19:53
+# News for 2026-10-12 23:55
 
 Previous day: [2026-10-11](./data/2026-10-11.md)
 
 ## ua.korrespondent.net
+23:19 [РФ запустила по Києву шість балістичних ракет](https://ua.korrespondent.net/city/kiev/4919494-rf-zapustyla-po-kyievu-shist-balistychnykh-raket)<br>
+22:27 [У Києві вибухи пролунали до тривоги: що відомо](https://ua.korrespondent.net/ukraine/4919485-u-kyievi-vybukhy-prolunaly-do-tryvohy-scho-vidomo)<br>
+21:56 [Вибухи в Києві: ракета влучила у транспортний об’єкт](https://ua.korrespondent.net/city/kiev/4919481-vybukhy-v-kyievi-raketa-vluchyla-u-transportnyi-obiekt)<br>
+21:29 [Росія атакувала нафтобазу австрійської компанії в Україні](https://ua.korrespondent.net/ukraine/4919479-rosiia-atakuvala-naftobazu-avstriiskoi-kompanii-v-ukraini)<br>
+21:05 [Росія вдарила Бандеролями по Харкову: є поранені](https://ua.korrespondent.net/city/kharkov/4919475-rosiia-vdaryla-banderoliamy-po-kharkovu-ye-poraneni)<br>
+20:46 [У Roshen заявили про російський удар по підприємству у Вінниці](https://ua.korrespondent.net/ukraine/4919471-u-Roshen-zaiavyly-pro-rosiiskyi-udar-po-pidpryiemstvu-u-vinnytsi)<br>
+20:26 [Удар дрона по 25-поверхівці в Києві: двоє загиблих](https://ua.korrespondent.net/city/kiev/4919467-udar-drona-po-25-poverkhivtsi-v-kyievi-dvoie-zahyblykh)<br>
 19:49 [У світі зросла кількість людей у гострій бідності: ООН назвала цифру](https://ua.korrespondent.net/world/4919455-u-sviti-zrosla-kilkist-luidei-u-hostrii-bidnosti-oon-nazvala-tsyfru)<br>
 19:04 [Відключення світла 13 жовтня: де діятимуть графіки](https://ua.korrespondent.net/ukraine/4919447-vidkluichennia-svitla-13-zhovtnia-de-diiatymut-hrafiky)<br>
 16:52 [Папу Римського госпіталізують: скільки він пробуде в лікарні](https://ua.korrespondent.net/world/4919416-papu-rymskoho-hospitalizuuit-skilky-vin-probude-v-likarni)<br>
@@ -40,6 +47,9 @@ Previous day: [2026-10-11](./data/2026-10-11.md)
 07:45 [Historias de Piculín Ortiz en España](https://as.com/baloncesto/mas_baloncesto/historias-de-piculin-ortiz-en-espana-f202610-n/)<br>
 
 ## www.elperiodico.com
+23:08 [Gustavo Dudamel y el Orfeó Català se funden con pasión en L’Auditori con el homenaje a las víctimas del 11-S de John Adams](https://www.elperiodico.com/es/ocio-y-cultura/20261012/gustavo-dudamel-orfeo-catala-funden-135262808)<br>
+22:18 [A PIE DE CALLE | El incendio de un AVE corta la alta velocidad entre BCN-Madrid](https://www.elperiodico.com/es/videos/sucesos/pie-calle-incendio-ave-corta/135262705.shtml)<br>
+20:52 [La suspensión del AVE Madrid - Barcelona provoca colas en el acceso a las vías de Alta Velocidad de Atocha](https://www.elperiodico.com/es/videos/sucesos/suspension-ave-madrid-barcelona-provoca/135260919.shtml)<br>
 19:12 [La IA de Google resuelve nueve problemas matemáticos que llevaban décadas sin solución](https://www.elperiodico.com/es/tendencias21/20261012/ia-google-resuelve-nueve-problemas-135257761)<br>
 18:53 [Evacuados por un incendio en un AVE en Ricla, junto a las vías](https://www.elperiodico.com/es/videos/economia/evacuados-incendio-ave-ricla-vias/135256964.shtml)<br>
 18:23 [Tras la pista de la innovación en la pyme](https://www.elperiodico.com/es/opinion/20261012/pista-innovacion-pyme-articulo-daniel-altimiras-135255730)<br>
