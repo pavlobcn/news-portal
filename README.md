@@ -1,8 +1,31 @@
-# News for 2026-10-13 08:43
+# News for 2026-10-13 12:08
 
 Previous day: [2026-10-12](./data/2026-10-12.md)
 
 ## ua.korrespondent.net
+11:59 [Туристів попередили про небезпеку у Карпатах](https://ua.korrespondent.net/ukraine/4919634-turystiv-poperedyly-pro-nebezpeku-u-karpatakh)<br>
+11:47 [Курс долара пішов вгору в обмінниках](https://ua.korrespondent.net/business/4919627-kurs-dolara-pishov-vhoru-v-obminnykakh)<br>
+11:29 [Сили оборони уразили рембазу Іскандерів](https://ua.korrespondent.net/ukraine/4919617-syly-oborony-urazyly-rembazu-iskanderiv)<br>
+11:16 [У Гватемалі 15-річна дівчина ожила під час власного похорону](https://ua.korrespondent.net/world/4919604-u-hvatemali-15-richna-divchyna-ozhyla-pid-chas-vlasnoho-pokhoronu)<br>
+11:14 [Німеччина масово позбавляє захисту сирійських біженців](https://ua.korrespondent.net/world/4919610-nimechchyna-masovo-pozbavliaie-zakhystu-syriiskykh-bizhentsiv)<br>
+11:06 [У Рівному 14 поранених після дронової атаки](https://ua.korrespondent.net/ukraine/4919605-u-rivnomu-14-poranenykh-pislia-dronovoi-ataky)<br>
+10:45 [Відключення у чотирьох областях - Укренерго](https://ua.korrespondent.net/ukraine/4919596-vidkluichennia-u-chotyrokh-oblastiakh-ukrenerho)<br>
+10:36 [Ізраїль вивчає російські дрони, отримані від України](https://ua.korrespondent.net/world/4919593-izrail-vyvchaie-rosiiski-drony-otrymani-vid-ukrainy)<br>
+10:25 [КНДР заявила про успішне випробування модернізованої балістичної ракети](https://ua.korrespondent.net/world/4919590-kndr-zaiavyla-pro-uspishne-vyprobuvannia-modernizovanoi-balistychnoi-rakety)<br>
+10:18 ["Шахед" влучив у навчальний заклад у Рівному](https://ua.korrespondent.net/ukraine/4919588-shakhed-vluchyv-u-navchalnyi-zaklad-u-rivnomu)<br>
+10:09 [Атака на Київщину: загиблий, троє поранених і зруйновані оселі](https://ua.korrespondent.net/ukraine/4919585-ataka-na-kyivschynu-zahyblyi-troie-poranenykh-i-zruinovani-oseli)<br>
+10:01 [У Повітряних силах пояснили, чому вибухи лунають до повітряної тривоги](https://ua.korrespondent.net/ukraine/4919580-u-povitrianykh-sylakh-poiasnyly-chomu-vybukhy-lunauit-do-povitrianoi-tryvohy)<br>
+09:59 [У ПС оцінили поточну ситуацію з реактивними БпЛА](https://ua.korrespondent.net/ukraine/4919579-u-ps-otsinyly-potochnu-sytuatsiui-z-reaktyvnymy-bpla)<br>
+09:53 [Атака на судна біля Болгарії: постраждали українці](https://ua.korrespondent.net/world/4919576-ataka-na-sudna-bilia-bolharii-postrazhdaly-ukraintsi)<br>
+09:43 [Дрони атакували Ставропілля, де розташовані дві великі електростанції](https://ua.korrespondent.net/world/russia/4919571-drony-atakuvaly-stavropillia-de-roztashovani-dvi-velyki-elektrostantsii)<br>
+09:32 [Переселенка з Донбасу шпигувала на Дніпропетровщині](https://ua.korrespondent.net/ukraine/4919569-pereselenka-z-donbasu-shpyhuvala-na-dnipropetrovschyni)<br>
+09:13 [Нафтовий ринок між двох ризиків: що тисне на ціни](https://ua.korrespondent.net/business/economics/4919561-naftovyi-rynok-mizh-dvokh-ryzykiv-scho-tysne-na-tsiny)<br>
+08:59 [Атаки дронів у Чорному морі: Болгарія звернулася до ЄС і НАТО](https://ua.korrespondent.net/world/4919556-ataky-droniv-u-chornomu-mori-bolhariia-zvernulasia-do-yes-i-nato)<br>
+08:13 [Росіяни не штурмували на п'яти напрямках фронту](https://ua.korrespondent.net/ukraine/4919544-rosiiany-ne-shturmuvaly-na-piaty-napriamkakh-frontu)<br>
+07:33 [Атака на Хмельниччину: постраждали четверо пацієнтів медзакладу](https://ua.korrespondent.net/ukraine/4919536-ataka-na-khmelnychchynu-postrazhdaly-chetvero-patsiientiv-medzakladu)<br>
+07:15 [Удари ракетами та дронами: відомо, що збила ППО](https://ua.korrespondent.net/ukraine/4919534-udary-raketamy-ta-dronamy-vidomo-scho-zbyla-ppo)<br>
+06:30 [Генштаб ЗСУ оновив втрати Росії у війні](https://ua.korrespondent.net/ukraine/4919527-henshtab-zsu-onovyv-vtraty-rosii-u-viini)<br>
+06:16 [Удар по Харкову: під завалами знайшли тіла жертв](https://ua.korrespondent.net/city/kharkov/4919524-udar-po-kharkovu-pid-zavalamy-znaishly-tila-zhertv)<br>
 05:27 [РФ атакувала Дніпро та Львівщину](https://ua.korrespondent.net/ukraine/4919521-rf-atakuvala-dnipro-ta-lvivschynu)<br>
 02:51 [Згоріло все: у РФ догоріло сховище нафтового терміналу](https://ua.korrespondent.net/world/russia/4919511-zghorilo-vse-u-rf-dohorilo-skhovysche-naftovoho-terminalu)<br>
 00:55 [У Франції хакери зламали холодильники](https://ua.korrespondent.net/world/4919502-u-frantsii-khakery-zlamaly-kholodylnyky)<br>
@@ -13,8 +36,21 @@ Previous day: [2026-10-12](./data/2026-10-12.md)
 07:47 [El pívot que se arrepintió de fichar por el Barça](https://as.com/baloncesto/euroliga/el-pivot-que-se-arrepintio-de-fichar-por-el-barca-f202610-n/)<br>
 07:37 [Montero se mide con el colíder Valencia](https://as.com/baloncesto/euroliga/montero-se-mide-con-el-colider-valencia-f202610-n/)<br>
 07:37 [El Baskonia recibe al Dubái con Koloko en la agenda](https://as.com/baloncesto/euroliga/el-baskonia-recibe-al-dubai-con-koloko-en-la-agenda-f202610-n/)<br>
+07:37 [Un Barça “cada vez mejor”](https://as.com/baloncesto/euroliga/un-barca-cada-vez-mejor-f202610-n/)<br>
 
 ## www.elperiodico.com
+12:03 [Una piedra hallada en Noruega podría ser el ancla más antigua del mundo](https://www.elperiodico.com/es/tendencias21/20261013/piedra-hallada-noruega-ancla-antigua-135275426)<br>
+12:00 [Polémica con el Imserso 2026-2027: los jubilados estallan por los recargos de 200 euros y los cobros antes de viajar](https://www.elperiodico.com/es/economia/20261013/viajes-imserso-2026-quejas-jubilados-200-euros-gastos-adicionales-dv-135132247)<br>
+11:57 ['Hogwarts Legacy 2' necesitará algo más que magia para superar el éxito de su predecesor](https://www.elperiodico.com/es/videojuegos/20261013/hogwarts-legacy-2-necesitara-magia-135270570)<br>
+11:54 [Vall d'Hebron trata la hipertensión portal en niños sin necesidad de operar: "Esta técnica es mucho menos invasiva"](https://www.elperiodico.com/es/sanidad/20261013/vall-dhebron-trata-hipertension-portal-infantil-sin-cirugia-tecnica-menos-invasiva-radiologia-intervencionista-135272344)<br>
+11:46 [Los termómetros suben entre 5 y 10 grados por encima de lo normal para la época dejando máximas por encima de los 30 en pleno octubre](https://www.elperiodico.com/es/sociedad/20261013/prevision-meteo-semana-temperaturas-octubre-135271874)<br>
+11:41 [Rebelión estudiantil en Castellbell i el Vilar (Bages) por las salidas y colonias: "Si no hay excursiones, no hay insti"](https://www.elperiodico.com/es/sociedad/20261013/rebelion-estudiantil-castellbell-vilar-salidas-colonias-plantada-clase-alumnado-tercero-cuarto-eso-barcelona-135272622)<br>
+10:35 [De dormir en las calles de Santiago a regresar a su país para trabajar en el mar: el emotivo correo de Piotr a los vecinos que lo ayudaron](https://www.elperiodico.com/es/economia/20261013/dormir-calles-santiago-regresar-polonia-dv-135271532)<br>
+10:32 [Diez municipios constituirán los consejos de participación de Protecció Civil en los polígonos químicos de Tarragona](https://www.elperiodico.com/es/tarragona/20261013/proteccio-civil-diez-municipios-consejos-participacion-poligonos-quimicos-tarragona-135270138)<br>
+10:15 [Roberto (66 años) superó un cáncer y lo dejó todo para vivir en un velero: "Conozco gente aquí que paga 3.000 euros al mes por un apartamento de una habitación: es una locura"](https://www.elperiodico.com/es/economia/20261013/vida-velero-cancer-jubilacion-precio-vivienda-ibiza-roberto-dv-et-135129542)<br>
+10:12 [Rusia ataca con drones una zona residencial de Kiev](https://www.elperiodico.com/es/videos/internacional/rusia-ataca-drones-zona-kiev/135270609.shtml)<br>
+10:09 [Protección Civil cierra el dispositivo para la recuperación de los municipios del Vallès Oriental afectados por las lluvias torrenciales](https://www.elperiodico.com/es/barcelona/20261013/proteccion-civil-cierra-dispositivo-recuperacion-valles-oriental-granollers-lluvias-135269812)<br>
+09:54 [Uso responsable de pantallas en la infancia: Claves prácticas para familias](https://www.elperiodico.com/es/videos/cuidamos-tu-salud/familia-e-infancia/responsable-pantallas-infancia-claves-practicas-familias/135269767.shtml)<br>
 08:40 [Más de 1.200 migrantes llegan a Canarias en los últimos seis días](https://www.elperiodico.com/es/sociedad/20261013/1-200-migrantes-llegan-canarias-135267929)<br>
 08:39 [Antonio Banderas da un paso adelante y se alía con la IA para convertirse en Hernán Cortés](https://www.elperiodico.com/es/ocio-y-cultura/20261013/antonio-banderas-da-paso-adelante-135267882)<br>
 08:32 [Qué ocurre cuando gafas y relojes graban sin consentimiento lo que hacemos y decimos](https://www.elperiodico.com/es/sociedad/20261013/gafas-relojes-graban-consentimiento-135267729)<br>
