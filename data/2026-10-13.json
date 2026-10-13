@@ -1,1 +1,83 @@
-[]
+[
+  {
+    "title": "Греція перехопила турецькі БПЛА",
+    "link": "https://ua.korrespondent.net/world/4919517-hretsiia-perekhopyla-turetski-bpla",
+    "pubDate": "2026-10-13 04:25:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4594837.jpg\">Генштаб Греції заявив, що турецькі дрони вторглися у трьох секторах Егейського моря. Їх виявили, ідентифікували та перехопили.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "ЗМІ назвали три сфери залежності України від США",
+    "link": "https://ua.korrespondent.net/ukraine/4919515-zmi-nazvaly-try-sfery-zalezhnosti-ukrainy-vid-ssha",
+    "pubDate": "2026-10-13 03:53:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4594814.jpg\">Окрім розвідданих, Київ потребує перехоплювачі для балістики. Також іншим созникам буде проблематично замінити американську зброю, яка поступає за програмою PURL.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "У РФ заявили, що зможуть експортувати більше дизеля, ніж анонсував Трамп",
+    "link": "https://ua.korrespondent.net/world/russia/4919513-u-rf-zaiavyly-scho-zmozhut-eksportuvaty-bilshe-dyzelia-nizh-anonsuvav-tramp",
+    "pubDate": "2026-10-13 03:21:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4594802.jpg\">У російському уряді вважають, що зможуть повернутися на докризовий рівень експорту ще цього року.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Згоріло все: у РФ догоріло сховище нафтового терміналу",
+    "link": "https://ua.korrespondent.net/world/russia/4919511-zghorilo-vse-u-rf-dohorilo-skhovysche-naftovoho-terminalu",
+    "pubDate": "2026-10-13 02:51:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4594779.jpg\">Після кількох днів пожежі неушкоджених резервуарів з паливом у терміналі вже не залишилося.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Франція затримала танкер \"тіньового флоту\" РФ",
+    "link": "https://ua.korrespondent.net/world/4919509-frantsiia-zatrymala-tanker-tinovoho-flotu-rf",
+    "pubDate": "2026-10-13 02:23:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4594767.jpg\">Танкер затримали вранці 12 жовтня в Індійському океані. Судно перебуває під санкціями США, Канади, ЄС, України, Швейцарії, Японії та Великої Британії.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Помер Ар Джей Мітт - зірка серіалу Пуститися берега",
+    "link": "https://ua.korrespondent.net/world/4919507-pomer-ar-dzhei-mitt-zirka-serialu-pustytysia-bereha",
+    "pubDate": "2026-10-13 01:54:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4594744.jpg\">За попередніми даними, 34-річний американський актор вчинив самогубство. Правоохоронці проводять розслідування.",
+    "topic": "телебачення",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Прокуратура Відня назвала причину затримання українських журналістів",
+    "link": "https://ua.korrespondent.net/world/4919505-prokuratura-vidnia-nazvala-prychynu-zatrymannia-ukrainskykh-zhurnalistiv",
+    "pubDate": "2026-10-13 01:22:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4594732.jpg\">Ткач та Бондаренко спостерігали за тією ж локацією, де фіксували двох інших фігурантів справи про шпигунство.",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "У Франції хакери зламали холодильники",
+    "link": "https://ua.korrespondent.net/world/4919502-u-frantsii-khakery-zlamaly-kholodylnyky",
+    "pubDate": "2026-10-13 00:55:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4594719.jpg\">Морозильники у супермаркетах вночі розморозили продукти і нагріли їх до 50 градусів Цельсія.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Масований удар по Харкову: стали відомі деталі",
+    "link": "https://ua.korrespondent.net/city/kharkov/4919500-masovanyi-udar-po-kharkovu-staly-vidomi-detali",
+    "pubDate": "2026-10-13 00:21:00",
+    "category": "Харків",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4594696.jpg\">Росіяни запустили по місту 10 \"бандеролей\". Зруйновано під'їзд будинку, пошкодження щонайменше 10 приватних будинків. Горіло відділення банку та автомобілі.",
+    "topic": "",
+    "topic_match_probability": 0
+  }
+]
