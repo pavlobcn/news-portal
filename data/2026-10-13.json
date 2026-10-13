@@ -1,5 +1,428 @@
 [
   {
+    "title": "Más de 1.200 migrantes llegan a Canarias en los últimos seis días",
+    "link": "https://www.elperiodico.com/es/sociedad/20261013/1-200-migrantes-llegan-canarias-135267929",
+    "pubDate": "2026-10-13 08:40:06",
+    "category": "",
+    "description": "<h2>Clavijo denuncia la \"ausencia de reacción\" del Estado ante el repunte y teme un cierre de año como el de 2024, cuando se batieron todos los récords de llegadas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Висланий із Болгарії за шпигунство дипломат РФ отримав посаду в Сербії",
+    "link": "https://ua.korrespondent.net/world/4919549-vyslanyi-iz-bolharii-za-shpyhunstvo-dyplomat-rf-otrymav-posadu-v-serbii",
+    "pubDate": "2026-10-13 08:40:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4595015.jpg\">Російський дипломат Александр Красій, висланий із Болгарії на тлі шпигунського скандалу, отримав посаду помічника військового аташе в Сербії.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Antonio Banderas da un paso adelante y se alía con la IA para convertirse en Hernán Cortés",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261013/antonio-banderas-da-paso-adelante-135267882",
+    "pubDate": "2026-10-13 08:39:49",
+    "category": "",
+    "description": "<h2>El malagueño ya está rodando en París una película sobre el conquistador español en la que la superinteligencia generativa tendrá mucho que decir</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Pablo Simón, politólogo: \"Lo mejor a lo que puede aspirar Pedro Sánchez es a minimizar su derrota\"",
+    "link": "https://www.elperiodico.com/es/politica/20261013/pablo-simon-politologo-mejor-aspirar-135267823",
+    "pubDate": "2026-10-13 08:36:32",
+    "category": "",
+    "description": "<h2>\"Hay alrededor de 1,8 millones de votantes del PSOE y del espacio de Sumar que ahora están entre la indecisión, el voto en blanco, el voto nulo o la abstención\", ahí se juegan las elecciones generales del próximo 29 de noviembre, explica el experto en análisis electoral</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Qué ocurre cuando gafas y relojes graban sin consentimiento lo que hacemos y decimos",
+    "link": "https://www.elperiodico.com/es/sociedad/20261013/gafas-relojes-graban-consentimiento-135267729",
+    "pubDate": "2026-10-13 08:32:14",
+    "category": "",
+    "description": "<h2>La industria busca implementar sus propias soluciones, como las actualizaciones que ha lanzado Meta para deshabilitar la cámara cuando el LED de captura es manipulado o tapado</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Eth Bistro: el viaje del chef que se hizo millonario en la construcción y volvió a la fogones en Vielha tras arruinarse",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20261013/eth-bistro-restaurante-vielha-valle-aran-134672168",
+    "pubDate": "2026-10-13 08:32:01",
+    "category": "",
+    "description": "<h2 class=\"item\">Albert Jubany triunfa con el restaurante donde rehizo su vida tras transitar entre el cielo del lujo y el infierno de la ruina</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20260508/mejores-restaurantes-lleida-provincia-89183403\">Buenos restaurantes que debes visitar en Lleida y provincia</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20241212/restaurantes-estrella-michelin-provincia-lleida-lerida-112264260\">Todos los restaurantes de la provincia de Lleida que tienen estrella Michelin</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Mazón evita 'reventar' la causa de la dana desde dentro pero sigue sin aportar sus wasaps",
+    "link": "https://www.elperiodico.com/es/politica/20261013/mazon-evita-reventar-causa-dana-135267712",
+    "pubDate": "2026-10-13 08:31:08",
+    "category": "",
+    "description": "<h2>La defensa del expresident mantiene en general un perfil bajo mientras sigue sin pronunciarse sobre las conversaciones de aquel día que la jueza considera clave</h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Los mejores restaurantes de Zaragoza por los que vale la pena cruzar el Ebro",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20261013/mejores-restaurantes-zaragoza-134868347",
+    "pubDate": "2026-10-13 08:30:53",
+    "category": "",
+    "description": "<h2 class=\"item\">Te proponemos establecimientos de la capital aragonesa donde comerás de fábula</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20200211/ruta-gastronomica-aragon-7827259\">Ruta gastronómica por Aragón: Huesca, Zaragoza y Teruel</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20241206/lilias-pastia-restaurante-huesca-carmelo-bosque-112189378\">Carmelo Bosque, el eterno aprendiz que dirige el restaurante aragonés con la estrella Michelin más antigua</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "¿Dónde comer pizza sin gluten en Barcelona? En estos tres restaurantes",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20261013/pizza-sin-gluten-barcelona-134869431",
+    "pubDate": "2026-10-13 08:28:28",
+    "category": "",
+    "description": "<h2 class=\"item\">Estos establecimientos permiten a celiacos e intolerantes al gluten disfrutar de una buena pizza</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20240426/barcelona-mejores-pizzas-mundo-101488332\">¿Por qué Barcelona es una de las capitales mundiales de la pizza?</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20230921/restaurante-potstot-vegano-sin-gluten-barcelona-92270844\">Restaurante Pötstot: la mejor croqueta vegana y sin gluten de Barcelona</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Lubina al horno con verduras y romesco, una receta con tres eses: sencilla, saludable y sabrosa",
+    "link": "https://www.elperiodico.com/es/gastronomia/recetas/20261013/receta-lubina-horno-verduras-romesco-celler-1923-134760339",
+    "pubDate": "2026-10-13 08:26:35",
+    "category": "",
+    "description": "<h2 class=\"item\">Este plato es un auténtico 'hit' de Celler 1923, el 'wine bar' y restaurante de <a href=\"https://www.elperiodico.com/es/gastronomia/vinos/20220913/celler-perelada-bodega-sostenible-peralada-75327615\">Celler Perelada</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/recetas/20220128/recetas-faciles-rafuel-lubina-al-horno-13161013\">VÍDEO | Las recetas fáciles de Rafuel: lubina al horno</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/20230402/tres-recetas-pescado-viernes-santo-85437286\">3 recetas de pescado fáciles y perfectas</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Movilizaciones por la vivienda, en directo | Última hora de las acampadas y disturbios en la Puerta del Sol",
+    "link": "https://www.elperiodico.com/es/politica/20261013/acampada-sol-desahucio-maricarmen-protestas-decreto-vivienda-ultima-hora-directo-barcelona-plaza-cataluna-134724337",
+    "pubDate": "2026-10-13 08:25:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20261005/elecciones-generales-espana-2026-pedro-sanchez-ultima-hora-directo-135003267\" target=\"_blank\">Aquí, las elecciones del 29 de noviembre, al minuto.</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Elecciones generales en España 2026, en directo: última hora y todas las reacciones a la convocatoria de Sánchez para el 29 de noviembre",
+    "link": "https://www.elperiodico.com/es/politica/20261013/elecciones-generales-espana-2026-pedro-sanchez-ultima-hora-directo-135003267",
+    "pubDate": "2026-10-13 08:20:00",
+    "category": "",
+    "description": "",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "María León: \"Estar todo el tiempo teniendo que ser correcta es algo que a nosotras se nos impone mucho\"",
+    "link": "https://www.elperiodico.com/es/tele/20261013/furia-serie-hbo-maria-leon-ana-mena-135178638",
+    "pubDate": "2026-10-13 08:01:05",
+    "category": "",
+    "description": "<h2 class=\"item\">La actriz es una de las protagonistas, junto a Ana Mena, de la segunda temporada de la serie de HBO 'Furia'</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/20261008/furia-hbo-serie-segunda-temporada-maribel-verdu-ana-mena-135085302\">De Maribel Verdú a Carmen Maura y Ana Mena: las nuevas mujeres al límite \"y más punkies\" de ‘Furia’</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/20260930/series-estrenos-octubre-2026-netflix-disney-hb-prime-video-movistar-filmin-3cat-apple-skyshowtime-134581324\">Las 12 series que no te puedes perder este octubre</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "BMW presenta el nuevo iX4 con 612 CV y hasta 828 km de autonomía",
+    "link": "https://www.elperiodico.com/es/motor/20261013/bmw-presenta-nuevo-ix4-135174538",
+    "pubDate": "2026-10-13 08:01:04",
+    "category": "",
+    "description": "<h2>El nuevo Sports Activity Coupé de la firma alemana se convierte en una de las grandes promesas eléctricas para 2027</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El FMI mejora su previsión de crecimiento para España al 2,5% en 2026 y sitúa la inflación en el 3,7%",
+    "link": "https://www.elperiodico.com/es/economia/20261013/fmi-mejora-prevision-crecimiento-espana-135267269",
+    "pubDate": "2026-10-13 08:00:12",
+    "category": "",
+    "description": "<h2>Las nuevas proyecciones del Fondo Monetario Internacional confirman que España mantendrá un ritmo de expansión superior al de Alemania, Francia e Italia durante los próximos dos ejercicios económicos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Así es el día a día sin civilización: Yaroslav (81 años) y Lyuba (83) sostienen en solitario su granja en Ucrania",
+    "link": "https://www.elperiodico.com/es/economia/20261013/ancianos-cuidado-granja-finca-animales-cocina-tradicional-ucrania-yaroslav-lyuba-dv-et-135056093",
+    "pubDate": "2026-10-13 08:00:00",
+    "category": "",
+    "description": "<h2>El hombre se encarga del cuidado de los animales y su mujer, de cocinar de forma tradicional</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260915/adaptacion-antigua-casa-rural-ucrania-lavadora-agua-huerto-ivan-dv-et-133739556\" >La adaptación de Ivan en una antigua casa rural en los Montes Cárpatos: \"Siempre hay mucho trabajo en la tierra, pero es agradable ver cómo todo cobra vida poco a poco\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261005/vida-autosuficiente-campo-bienes-materiales-cultivos-felicidad-libertad-italia-franco-dv-et-134401948\" >Franco, agricultor que dejó la ciudad para volver al campo: “Yo como de mi huerto, mi supermercado es el jardín”</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Pesquera: “Con lo de dirigir a la Selección me había tocado el Gordo y no podía decir que no”",
+    "link": "https://as.com/baloncesto/mas_baloncesto/pesquera-con-lo-de-dirigir-a-la-seleccion-me-habia-tocado-el-gordo-y-no-podia-decir-que-no-f202610-n/",
+    "pubDate": "2026-10-13 07:57:00",
+    "category": "Baloncesto",
+    "description": "Un repaso con Mario Pesquera a la trayectoria que le eleva a ser elegido como nuevo miembro del Hall of Fame del baloncesto español.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El pívot que se arrepintió de fichar por el Barça",
+    "link": "https://as.com/baloncesto/euroliga/el-pivot-que-se-arrepintio-de-fichar-por-el-barca-f202610-n/",
+    "pubDate": "2026-10-13 07:47:13",
+    "category": "Baloncesto",
+    "description": "Moses Wright (27 años y 2,06 metros) firmó con los azulgranas en verano para luego pagar su cláusula cercana al millón de euros para jugar en el Armani Milán.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Última hora de Ceuta y la crisis migratoria, en directo: visita de los reyes y todas las reacciones",
+    "link": "https://www.elperiodico.com/es/politica/20261013/ultima-hora-ceuta-crisis-migratoria-directo-viaje-reyes-marruecos-noticias-reacciones-132960312",
+    "pubDate": "2026-10-13 07:42:00",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Un robot, acusado de acosar sexualmente a una chica de 16 años",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/robot-acusado-acosar-sexualmente-chica-16-anos-video/135266760.shtml",
+    "pubDate": "2026-10-13 07:41:16",
+    "category": "",
+    "description": "",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Montero se mide con el colíder Valencia",
+    "link": "https://as.com/baloncesto/euroliga/montero-se-mide-con-el-colider-valencia-f202610-n/",
+    "pubDate": "2026-10-13 07:37:00",
+    "category": "Valencia Basket Club",
+    "description": "El base dominicano es el primer campeón del Valencia Basket 2025/26 que regresa al Roig Arena.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Baskonia recibe al Dubái con Koloko en la agenda",
+    "link": "https://as.com/baloncesto/euroliga/el-baskonia-recibe-al-dubai-con-koloko-en-la-agenda-f202610-n/",
+    "pubDate": "2026-10-13 07:37:00",
+    "category": "Baloncesto",
+    "description": "Regresa al Buesa (20:30, ‘Movistar+ Baloncesto 2′) Diakité, que dejó un gran recuerdo en la ciudad a nivel personal y como jugador.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Puede el olor acercarnos a alguien? Lo que revela un estudio sobre atracción y olfato",
+    "link": "https://www.elperiodico.com/es/ciencia/20261013/olor-amistad-amor-pareja-atraccion-dv-et-112901069",
+    "pubDate": "2026-10-13 07:25:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Cada persona tiene un aroma único, tan distintivo como las huellas dactilares</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ser-feliz/20240313/miedo-abrirme-amor-senales-apertura-evg-99036937\" >\"Me da miedo abrirme al amor\": seis señales que indican que ya estamos preparados</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Joel Joan (55 años), contundente sobre las alertas por lluvia: \"Empezarán a sonar alarmas por cualquier chorrada\"",
+    "link": "https://www.elperiodico.com/es/gente/20261013/joel-joan-alerta-lluvias-moderadas-es-alert-cataluna-dv-et-135125715",
+    "pubDate": "2026-10-13 07:20:41",
+    "category": "",
+    "description": "<h2>Según el director, actor y guionista catalán, \"hemos hecho teatro toda la vida y sin alarmas\"</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20261005/tormentas-impredecibles-tropicales-mediterraneo-cambio-climatico-lluvias-cataluna-135028717\" >El cambio climático inaugura la era de las \"tormentas impredecibles\" y de las lluvias \"tropicales\" en el Mediterráneo: \"Estamos ante escenarios inéditos\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260904/envio-alertas-moviles-es-alert-lluvias-inundaciones-dana-cataluna-133938665\" >Catalunya revisará la gestión del envío de alertas móviles ante un otoño de lluvias torrenciales</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Muere RJ Mitte, el actor con parálisis cerebral que dio vida al hijo de Walter White en 'Breaking Bad', a los 34 años",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261013/muere-rj-mitte-actor-paralisis-135266282",
+    "pubDate": "2026-10-13 07:17:12",
+    "category": "",
+    "description": "<h2>Su personaje en la serie también tenía parálisis cerebral</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Nadie se cree que Aprilia y Ducati no den órdenes de equipo en este apasionante final de Mundial",
+    "link": "https://www.elperiodico.com/es/deportes/20261013/nadie-cree-aprilia-ducati-den-135263327",
+    "pubDate": "2026-10-13 07:03:29",
+    "category": "",
+    "description": "<h2 class=\"item\">Hay demasiado (dinero, prestigio e imagen) en juego como para creerse eso que dicen los jefes de Aprilia y Ducati, las fábricas que se están jugando los títulos de pilotos y constructores, sobre que no darán órdenes de equipo a sus pilotos para que ayuden o, al menos, no perjudiquen, a sus candidatos al título.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "De Mari Carmen a Mari Carmen",
+    "link": "https://www.elperiodico.com/es/tele/20261013/sergi-mas-television-y-mas-mari-carmen-135255996",
+    "pubDate": "2026-10-13 07:00:39",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Qué fue de Ania Iglesias, la modelo y actriz que consiguió su ansiada popularidad al formar parte de 'Gran Hermano 1'",
+    "link": "https://www.elperiodico.com/es/gente/20261013/ania-iglesias-que-fue-modelo-actriz-consiguio-popularidad-gran-hermano-1-135251805",
+    "pubDate": "2026-10-13 07:00:33",
+    "category": "",
+    "description": "<h2>Tras quedar finalista en el famoso 'reality', la vallisoletana participó en varios espacios de televisión, ejerció de actriz y hasta llegó a fundar su propia empresa</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Max Alexander, el Mozart de la moda: a sus 10 años ya sabe lo que es triunfar en París y vestir a estrellas como Sharon Stone",
+    "link": "https://www.elperiodico.com/es/gente/20261013/max-alexander-disenador-moda-10-anos-records-guinness-135131342",
+    "pubDate": "2026-10-13 07:00:28",
+    "category": "",
+    "description": "<h2>Empezó a diseñar con 4 años, y ahora, a sus 10, viste a estrellas como Sharon Stone, triunfa en la semana de la moda de París y atesora hasta cuatro Récords Guinness</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росія та Китай не допомагають Ірану - Трамп",
+    "link": "https://ua.korrespondent.net/world/4919531-rosiia-ta-kytai-ne-dopomahauit-iranu-tramp",
+    "pubDate": "2026-10-13 06:55:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4594937.jpg\">Американський лідер розкритикував представників лівих, які стверджують, що Москва та Пекін підтримують Тегеран.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El PP de Cádiz urge la dimisión del alcalde de Algeciras tras las denuncias de agresión sexual de dos afiliadas",
+    "link": "https://www.elperiodico.com/es/politica/20261013/agresion-sexual-alcalde-algeciras-pp-landaluce-cadiz-135265551",
+    "pubDate": "2026-10-13 06:44:37",
+    "category": "",
+    "description": "",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Alemania investiga una presunta agresión sexual a una adolescente con un robot",
+    "link": "https://www.elperiodico.com/es/internacional/20261013/robot-agresion-sexual-adolescente-alemania-135264467",
+    "pubDate": "2026-10-13 06:04:26",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20261002/comienza-robots-guerra-ejercito-pide-masa-maquinas-baratas-134901644\">Comienza la era de los robots de guerra: el Ejército plantea una incorporación masiva de máquinas para reforzar a las tropas</a></h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Los Reyes visitan una Ceuta con las playas vacías de inmigrantes y las devoluciones todavía pendientes",
+    "link": "https://www.elperiodico.com/es/politica/20261013/reyes-felipe-visitan-ceuta-playas-vacias-devoluciones-pendientes-135261703",
+    "pubDate": "2026-10-13 06:01:27",
+    "category": "",
+    "description": "<h2 class=\"item\">Felipe VI y Letizia acuden a la ciudad autónoma por primera vez y se quedarán a dormir para mostrar su respaldo a los ceutís tras la entrada masiva de julio</h2><h2 class=\"item\">Unos 10.000 migrantes están atendidos por el Estado y unos 3.500 siguen durmiendo a la intemperie en un territorio de 84.000 habitantes</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La décima victoria del Barça espera en Estambul",
+    "link": "https://www.elperiodico.com/es/deportes/20261013/decima-victoria-barca-espera-estambul-135259119",
+    "pubDate": "2026-10-13 06:01:26",
+    "category": "",
+    "description": "<h2 class=\"item\">El Barça visita a un Galatasaray que intentará cerrar la racha de las nueve victorias seguidas (ocho en la Liga, una en la Champions)</h2><h2 class=\"item\">\"Es un privilegio estar en esta situación, pero trabajamos muy duro cada día\", sostiene Flick</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La nueva presidenta de la DO Cava, Marta Vidal, protagonista del próximo Afterwork de EL PERIÓDICO",
+    "link": "https://www.elperiodico.com/es/economia/20261013/afterwork-periodico-marta-vidal-presidenta-do-cava-135256082",
+    "pubDate": "2026-10-13 06:01:25",
+    "category": "",
+    "description": "<h2>La también directora general de las bodegas Vallformosa es la primera mujer que ocupa el cargo en los 40 años de historia del consejo regulador</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/afterwork-con-marta-vidal-rm/\" target=\"_blank\">Este es el enlace para registrarse y asistir al Afterwork de EL PERIÓDICO el próximo 20 de octubre en CASA SEAT</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "La OTAN celebra en Italia un gran ejercicio nuclear en plena tensión con Rusia",
+    "link": "https://www.elperiodico.com/es/internacional/20261013/otan-italia-ejercicio-nuclear-maniobras-militares-135264534",
+    "pubDate": "2026-10-13 06:01:18",
+    "category": "",
+    "description": "<h2>Diecisiete aliados participan desde este martes en Steadfast Noon, un ejercicio anual que un general tilda de \"bidón de gasolina sobre el fuego\"</h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "A juicio 22 miembros de una banda georgiana que organizaba robos desde una escuela ocupada de Barcelona",
+    "link": "https://www.elperiodico.com/es/barcelona/20261013/juicio-organizacion-georgiana-escuela-menendez-pidal-asalto-pisos-135178789",
+    "pubDate": "2026-10-13 06:01:13",
+    "category": "",
+    "description": "<h2 class=\"item\">La banda se regía por un código de conducta denominado \"ladrón de ley\", una figura de autoridad dentro del crimen organizado postsoviético con estrictas normas de lealtad,</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20190529/desalojo-instituto-merli-okupas-7479001\">Segunda operación de desalojo en el instituto de Barcelona en el que se rodó 'Merlí'</a></h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La tregua entre Junqueras y Rufián",
+    "link": "https://www.elperiodico.com/es/opinion/20261013/tregua-junqueras-rufian-esquerra-29-n-listas-135253136",
+    "pubDate": "2026-10-13 06:01:12",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Defensa y aeroespacio buscan 25.000 trabajadores: remuneran con 77.000 euros de media y son un 70% más productivos",
+    "link": "https://www.elperiodico.com/es/economia/20261013/defensa-aeroespacio-buscan-25-000-135251509",
+    "pubDate": "2026-10-13 06:01:10",
+    "category": "",
+    "description": "<h2 class=\"item\">El empleo del sector creció un 11,5% en 2025 hasta los 290.000 puestos de trabajo. La industria necesita reforzar su cantera de perfiles cualificados ante el aumento de la inversión y de la carga de trabajo</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El tirón exterior de defensa y aeroespacio: exportan el 60% y aportan un impacto fiscal de 8.107 millones",
+    "link": "https://www.elperiodico.com/es/economia/20261013/tiron-exterior-defensa-aeroespacio-exportan-impacto-fiscal-135251972",
+    "pubDate": "2026-10-13 06:01:10",
+    "category": "",
+    "description": "<h2 class=\"item\">Las industrias agrupadas en la patronal TEDAE vendieron fuera de España por 10.821 millones de euros en 2025, casi el doble que cuatro años antes, y su actividad generó una recaudación equivalente al 2,5% de los ingresos tributarios del país</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Vox, primera fuerza en Canarias, segunda en Andalucía y tercera en Catalunya: la encuesta del 29N, por sexo, edad, población e ideología",
+    "link": "https://www.elperiodico.com/es/politica/20261013/encuesta-elecciones-generales-29n-catalunya-edad-sexo-poblacion-135247044",
+    "pubDate": "2026-10-13 06:01:09",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20261012/encuesta-elecciones-generales-espana-2026-29n-135212729\" target=\"_blank\">Encuesta 29N: La izquierda no remonta tras el adelanto electoral y se mantiene el equilibrio entre bloques</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261011/sondeo-elecciones-generales-valoracion-gobierno-sanchez-135172758\" target=\"_blank\">Encuesta 29N: El 56% de los españoles suspenden la gestión del Gobierno de Sánchez</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261011/sondeo-elecciones-generales-valoracion-lideres-135172721\" target=\"_blank\">Encuesta 29N: Sánchez es el preferido como presidente del Gobierno en medio de un suspenso general</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261011/sondeo-huelga-general-vivienda-elecciones-generales-135183635\" target=\"_blank\">Encuesta 29N: El 52% de los españoles rechazan la huelga general por la vivienda y el 43% la apoya</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261011/sondeo-elecciones-generales-vivienda-135184829\" target=\"_blank\">Encuesta 29N: Los españoles rechazan prorrogar los contratos de alquiler indefinidamente y apoyan congelar los precios</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261011/sondeo-ceuta-elecciones-generales-135191883\" target=\"_blank\">Encuesta 29N: El 70% de los españoles apuestan por devolver a los migrantes que entraron en Ceuta</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "David Moragas, cineasta: \"No hay manera de redimir la culpa. Hay que aprender a convivir con el sentimiento\"",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20261013/david-moragas-cineasta-hay-manera-134919669",
+    "pubDate": "2026-10-13 06:01:09",
+    "category": "",
+    "description": "<h2 class=\"item\">\"Hay una fuerza mayor que es el sistema. Nos presiona para que tengamos una determinada pareja, una casa perfecta, un modelo de vida feliz y funcional\"</h2><h2 class=\"item\">En 'Un altre home', se parte de una muerte por suicidio para explorar cómo convivimos con sentimientos que podemos llegar a entender racionalmente, pero que no siempre sabemos hacer desaparecer</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Rufián y Junqueras convierten el pulso por la lista electoral de ERC en un 'win-win': ¿qué gana cada uno?",
+    "link": "https://www.elperiodico.com/es/politica/20261013/rufian-junqueras-elecciones-generales-erc-135243978",
+    "pubDate": "2026-10-13 06:01:04",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20261011/rufian-candidato-erc-elecciones-generales-pulso-interno-135085545\">Rufián será el candidato de ERC a las elecciones en una alianza con Podemos</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261012/frente-amplio-ada-colau-candidata-elecciones-generales-29n-135259716\">Frente Amplio elige a Colau como candidata a las elecciones generales y lanza una última invitación a Podemos</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261012/rufian-frente-amplio-podemos-erc-izquierda-pactos-elecciones-generales-135243259\">La izquierda, en el laberinto de los pactos: ¿Quién liderará Frente Amplio? ¿Qué ha acordado ERC con Podemos?</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La sustracción internacional de menores por un progenitor aumenta el 46% en España desde 2022",
+    "link": "https://www.elperiodico.com/es/sociedad/20261013/sustraccion-internacional-menores-ministerio-de-justicia-familias-divorcios-134798640",
+    "pubDate": "2026-10-13 06:01:01",
+    "category": "",
+    "description": "<h2 class=\"item\">Los expertos advierten de que la complejidad de estos procedimientos y la dificultad para localizar a los menores en terceros países dilatan la resolución de los casos</h2><h2 class=\"item\">Según la Conferencia de La Haya, el 75% de los progenitores responsables de estas acciones son madres: siete de cada diez casos están relacionados con la violencia machista</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260728/juana-rivas-ira-tribunales-internacionales-132872015\">Juana Rivas irá a tribunales internacionales tras perder el último recurso por la custodia</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Moeve y ENSO sellan una alianza industrial para impulsar el uso de biomasa y gases verdes",
+    "link": "https://www.elperiodico.com/es/economia/20261013/moeve-enso-sellan-alianza-industrial-biomasa-biometano-135220753",
+    "pubDate": "2026-10-13 06:01:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Las dos compañías se unen para avanzar en la descarbonización de la industria transformando plantas de cogeneración y de biogás para que utilicen biometano</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Así es el GR KART de Toyota  para llevar la competición a toda la familia",
+    "link": "https://www.elperiodico.com/es/motor/20261013/gr-kart-toyota-llevar-competicion-toda-familia-135171439",
+    "pubDate": "2026-10-13 06:00:58",
+    "category": "",
+    "description": "<h2>Este kart de iniciación diseñado por GAZOO Racing permite graduar volante y pedales para pilotos de entre 135 y 185 centímetros</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Los bosques más bonitos del otoño cerca de Barcelona",
+    "link": "https://www.elperiodico.com/es/que-hacer/planes/20261013/bosques-bonitos-otono-barcelona-2026-109477590",
+    "pubDate": "2026-10-13 06:00:00",
+    "category": "",
+    "description": "<h2>¿Necesitas desconectar de la vida de la ciudad? Cambia los grises del asfalto por los colores otoñales. Apúntate estas excursiones</h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20261012/bar-mejores-historias-barcelona-135194357\" target=\"_blank\">El bar con las mejores historias de Barcelona</a></h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20251020/hoy-barcelona-agenda-actividades-planes-semana-102304377\" target=\"_blank\" rel=\"nofollow\">¿Qué hacer hoy en Barcelona? Los mejores planes de la semana</a></h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Guerra de Irán, en directo | Irán se ofrece a \"facilitar el diálogo\" entre Arabia Saudí y los hutíes de Yemen",
     "link": "https://www.elperiodico.com/es/internacional/20261013/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713",
     "pubDate": "2026-10-13 05:30:00",
