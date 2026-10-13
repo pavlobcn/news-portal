@@ -1,5 +1,86 @@
 [
   {
+    "title": "Guerra de Irán, en directo | Irán se ofrece a \"facilitar el diálogo\" entre Arabia Saudí y los hutíes de Yemen",
+    "link": "https://www.elperiodico.com/es/internacional/20261013/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713",
+    "pubDate": "2026-10-13 05:30:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20260410/guerra-ucrania-rusia-ultima-hora-zelenski-trump-putin-directo-126605559\" >DIRECTO | Guerra Ucrania - Rusia, en directo: última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Ruta guiada por la historia de Barcelona a través de sus hoteles",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261013/ruta-guiada-historia-barcelona-hoteles-bc-134884833",
+    "pubDate": "2026-10-13 05:30:00",
+    "category": "",
+    "description": "<h2>Las especializaciones “Monument” y “Cultural” del Gremi d’Hotels de Barcelona reconocen establecimientos que van mucho más allá del alojamiento </h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "РФ атакувала Дніпро та Львівщину",
+    "link": "https://ua.korrespondent.net/ukraine/4919521-rf-atakuvala-dnipro-ta-lvivschynu",
+    "pubDate": "2026-10-13 05:27:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4594861.png\">У Львівському айоні горять два приватних будинки, а у Дніпрі вибухова хвиля вибила вікна у багатоповерхівках.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Guerra Ucrania - Rusia, última hora en directo",
+    "link": "https://www.elperiodico.com/es/internacional/20261013/guerra-ucrania-rusia-ultima-hora-126605559",
+    "pubDate": "2026-10-13 05:25:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Directo GUERRA DE IRÁN | Última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Tráfico en Barcelona, en directo: última hora del incendio de Renfe",
+    "link": "https://www.elperiodico.com/es/barcelona/20261013/trafico-rodalies-directo-trenes-carreteras-lluvias-133938712",
+    "pubDate": "2026-10-13 05:24:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/barcelona/20260930/barcelona-redisenara-cuatro-grandes-accesos-aliviar-atascos-134836777\" target=\"_blank\">Barcelona rediseñará sus accesos por la Diagonal, la Gran Via y la Ronda Litoral para reducir atascos</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Віддати Донбас: у РФ назвали умови переговорів",
+    "link": "https://ua.korrespondent.net/world/4919519-viddaty-donbas-u-rf-nazvaly-umovy-perehovoriv",
+    "pubDate": "2026-10-13 04:56:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4594849.jpg\">У США нібито розраховують, що експорт дизеля та припинення українських ударів по НПЗ поверне Росію за стіл переговорів.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "'La balada del último cliente', de Peter Handke: regreso a casa",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20261013/peter-handke-critica-libro-balada-ultimo-cliente-135010006",
+    "pubDate": "2026-10-13 04:50:24",
+    "category": "",
+    "description": "<h2>Esta obra supone la vuelta deslumbrante del autor a los libros que lleva medio siglo escribiendo con la capacidad de asombrarnos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Carme Albaigès, escultora: \"Mi obra se centra en los seres humanos gracias a las novelas filosóficas que leo\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20261013/carme-albaiges-escultora-obra-centra-135095849",
+    "pubDate": "2026-10-13 04:50:23",
+    "category": "",
+    "description": "<h2>También pintora, trabaja alrededor del comportamiento humano. Sus figuras tienen el rostro cubierto para preservar su intimidad. París es donde más obra tiene</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "'La nit', de Joan Cavallé: el peso de la dictadura",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20261013/joan-cavalle-critica-libro-nit-135017196",
+    "pubDate": "2026-10-13 04:50:23",
+    "category": "",
+    "description": "<h2>Este libro recuerda que la represión no es solo un episodio del pasado, sino una herida que, pese al paso del tiempo, sigue presente</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Греція перехопила турецькі БПЛА",
     "link": "https://ua.korrespondent.net/world/4919517-hretsiia-perekhopyla-turetski-bpla",
     "pubDate": "2026-10-13 04:25:00",
