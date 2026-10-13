@@ -1,4 +1,4 @@
-# News for 2026-10-13 23:58
+# News for 2026-10-14 00:56
 
 Previous day: [2026-10-12](./data/2026-10-12.md)
 
@@ -62,6 +62,9 @@ Previous day: [2026-10-12](./data/2026-10-12.md)
 00:21 [Масований удар по Харкову: стали відомі деталі](https://ua.korrespondent.net/city/kharkov/4919500-masovanyi-udar-po-kharkovu-staly-vidomi-detali)<br>
 
 ## as.com
+23:47 [Montero, verdugo en su regreso a Valencia](https://as.com/baloncesto/euroliga/jean-montero-frena-a-valencia-basket-f202610-n/)<br>
+23:42 [Pedro Martínez y la lesión de Deck: “No está previsto salir al mercado”](https://as.com/baloncesto/euroliga/pedro-martinez-y-la-lesion-de-deck-no-esta-previsto-salir-al-mercado-f202610-n/)<br>
+23:32 [Sekulic: “Tenemos que aprender que con un cuarto no basta”](https://as.com/baloncesto/euroliga/sekulic-tenemos-que-aprender-que-con-un-cuarto-no-basta-f202610-n/)<br>
 23:29 [El triple para ganar del Barça: locura total en el Palau](https://as.com/baloncesto/videos/el-triple-para-ganar-del-barca-locura-total-en-el-palau-f202610-v/)<br>
 23:27 [Resultados Euroliga, jornada 5: horarios, TV, partidos y clasificación](https://as.com/baloncesto/euroliga/resultados-euroliga-jornada-5-horarios-tv-partidos-y-clasificacion-f202610-n/)<br>
 23:06 [El Madrid también sabe ganar fuera](https://as.com/opinion/el-madrid-tambien-sabe-ganar-fuera-f202610-n/)<br>

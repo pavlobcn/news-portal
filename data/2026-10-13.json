@@ -1,5 +1,23 @@
 [
   {
+    "title": "La portada de EL PERIÓDICO del 14 de octubre de 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20261013/portada-periodico-14-octubre-2026-135306892",
+    "pubDate": "2026-10-13 23:59:22",
+    "category": "",
+    "description": "",
+    "topic": "portada de EL PERIÓDICO",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Montero, verdugo en su regreso a Valencia",
+    "link": "https://as.com/baloncesto/euroliga/jean-montero-frena-a-valencia-basket-f202610-n/",
+    "pubDate": "2026-10-13 23:47:41",
+    "category": "Jean Montero",
+    "description": "El dominicano (26 tantos y 35 de valoración) fue el mejor de un Olympiacos que ganó en la prórroga tras remontarle al Valencia 28 puntos.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "El EuroVillarreal se estrena en la Champions a lo grande",
     "link": "https://www.elperiodico.com/es/deportes/futbol/20261013/villarreal-remonta-napoles-estrena-champions-135299675",
     "pubDate": "2026-10-13 23:46:48",
@@ -9,11 +27,29 @@
     "topic_match_probability": 100
   },
   {
+    "title": "Pedro Martínez y la lesión de Deck: “No está previsto salir al mercado”",
+    "link": "https://as.com/baloncesto/euroliga/pedro-martinez-y-la-lesion-de-deck-no-esta-previsto-salir-al-mercado-f202610-n/",
+    "pubDate": "2026-10-13 23:42:06",
+    "category": "Baloncesto",
+    "description": "El entrenador del Real Madrid habló tras la victoria frente al Armani Milán y aseguró que cuenta con una plantilla muy larga.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "На НПЗ у Ростові вибухнув ще один резервуар",
     "link": "https://ua.korrespondent.net/world/russia/4919852-na-npz-u-rostovi-vybukhnuv-sche-odyn-rezervuar",
     "pubDate": "2026-10-13 23:42:00",
     "category": "Росія новини",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4595604.jpg\">Нафтоналивний термінал був атакований ще у ніч проти суботи. Після кількох днів пожежа нібито припинилася, однак через добу стався новий вибух.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sekulic: “Tenemos que aprender que con un cuarto no basta”",
+    "link": "https://as.com/baloncesto/euroliga/sekulic-tenemos-que-aprender-que-con-un-cuarto-no-basta-f202610-n/",
+    "pubDate": "2026-10-13 23:32:52",
+    "category": "Baloncesto",
+    "description": "El técnico esloveno valoró la reacción azulgrana tras el descanso, elogió a los jugadores y destacó la importancia del triunfo.",
     "topic": "",
     "topic_match_probability": 0
   },
