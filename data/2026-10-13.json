@@ -1,5 +1,338 @@
 [
   {
+    "title": "El papa León XIV sale del Vaticano para ingresar en el hospital romano en el que será operado hoy de un nódulo pulmonar",
+    "link": "https://www.elperiodico.com/es/sociedad/20261013/papa-leon-xiv-ingresa-gemelli-nodulo-pulmonar-135276470",
+    "pubDate": "2026-10-13 13:03:09",
+    "category": "",
+    "description": "<h2>El pontífice, de 71 años, afronta su primer episodio de salud a poco más de un año de su elección; el Vaticano ya ha anunciado que una importante misa del miércoles será presidida por el decano del Colegio Cardenalicio</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Депутати викликали Кличка до парламенту",
+    "link": "https://ua.korrespondent.net/city/kiev/4919666-deputaty-vyklykaly-klychka-do-parlamentu",
+    "pubDate": "2026-10-13 13:03:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4595227.jpg\">Мера Києва викликали до Ради через проблеми з підготовкою столиці до зими.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "El sindicato docente Ustec impulsará un bloque educativo en la huelga general del 11 de noviembre",
+    "link": "https://www.elperiodico.com/es/sociedad/20261013/sindicato-ustec-impulsara-bloque-educativo-huelga-general-11-de-noviembre-vivienda-135277152",
+    "pubDate": "2026-10-13 13:01:13",
+    "category": "",
+    "description": "<h2 class=\"item\">La organización reclama la recuperación del poder adquisitivo perdido desde 2012 y la jubilación voluntaria a los 60 años como pilares fundamentales para dignificar la labor docente</h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Casi la mitad de las españolas tiene su primer hijo seis años más tarde de lo que quería",
+    "link": "https://www.elperiodico.com/es/sociedad/20261013/retraso-maternidad-infertilidad-mujeres-hijos-espana-conciliacion-135252319",
+    "pubDate": "2026-10-13 13:00:09",
+    "category": "",
+    "description": "<h2 class=\"item\">Un millón y medio de mujeres en España sufren problemas de fertilidad, según un barómetro internacional</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260929/aumenta-rechazo-maternidad-hijos-ine-134791585\" target=\"_blank\">Una de cada seis mujeres en España no quiere tener hijos: el rechazo aumenta un 127% entre las 'millennials'</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Український криголам Ноосфера розпочав антарктичний сезон",
+    "link": "https://ua.korrespondent.net/tech/science/4919650-ukrainskyi-kryholam-noosfera-rozpochav-antarktychnyi-sezon",
+    "pubDate": "2026-10-13 12:59:00",
+    "category": "Новини науки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4595216.jpg\">Українське криголамне судно Ноосфера розпочало черговий, вже шостий сезон досліджень в Антарктиці.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La idea de reintroducir el lince boreal en los Pirineos suma apoyos",
+    "link": "https://www.elperiodico.com/es/sociedad/20261013/reintroducir-lince-boreal-pirineos-cataluna-135276501",
+    "pubDate": "2026-10-13 12:58:32",
+    "category": "",
+    "description": "<h2 class=\"item\">Varias entidades ambientales crean un frente común para defender la propuesta, que debe ser estudiada primero por el parque natural del Alt Pirineu y después por la Generalitat</h2><h2 class=\"item\">CONTEXTO | <a href=\"https://www.elperiodico.com/es/sociedad/20251004/pirineos-cataluna-propuesta-liberar-lince-boreal-122198552\">El Pirineo catalán recupera la propuesta de liberar ejemplares de lince boreal</a></h2><h2 class=\"item\">MULTIMEDIA | <a href=\"https://www.elperiodico.com/es/sociedad/20240919/cataluna-reintroducir-lince-iberico-sh-108298134\" target=\"_blank\">Así es el plan de reintroducción que se plantea abordar Catalunya para el lince ibérico</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Laporta saca pecho en Estambul: \"Estamos practicando el mejor fútbol del mundo\"",
+    "link": "https://www.elperiodico.com/es/deportes/20261013/laporta-saca-pecho-estambul-practicando-135277217",
+    "pubDate": "2026-10-13 12:57:36",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/deportes/20261013/decima-victoria-barca-espera-estambul-135259119\">La décima victoria del Barça espera en Estambul</a></h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Barcelona aumenta la oferta de metro en las líneas L1 y L5 para responder al crecimiento de la demanda",
+    "link": "https://www.elperiodico.com/es/barcelona/20261013/barcelona-aumenta-oferta-metro-lineas-l1-l5-crecimiento-135251283",
+    "pubDate": "2026-10-13 12:56:43",
+    "category": "",
+    "description": "<h2>La red mejora la operatividad en sus líneas más concurridas incorporando nuevos trenes en la hora punta de la tarde entre semana y las horas valle de los sábados</h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Мерц пояснив, чому його рейтинги впали до мінімуму",
+    "link": "https://ua.korrespondent.net/world/4919664-merts-poiasnyv-chomu-yoho-reitynhy-vpaly-do-minimumu",
+    "pubDate": "2026-10-13 12:56:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4595218.jpg\">Канцлер Німеччини наголосив: його головне завдання - провести складні реформи та повернути країну на правильний шлях.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "La Comisión Europea cuestiona la validez de la \"prioridad nacional\" de PP y Vox en vivienda y ayudas sociales",
+    "link": "https://www.elperiodico.com/es/politica/20261013/comision-europea-cuestiona-validez-prioridad-nacional-pp-vox-135278440",
+    "pubDate": "2026-10-13 12:55:32",
+    "category": "",
+    "description": "<h2>El responsable de migraciones de la UE, del PP, señala en respuesta a Compromís que los Estados miembros \"no pueden imponer unilateralmente\" requisitos de residencia superiores a 5 años</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Las obras en el río Besòs para reparar daños y retirar escombros de la riada durarán semanas",
+    "link": "https://www.elperiodico.com/es/barcelona/20261013/rio-besos-puente-obras-reparaciones-riada-temporal-135276975",
+    "pubDate": "2026-10-13 12:54:58",
+    "category": "",
+    "description": "<h2 class=\"item\">El ACA comienza los trabajos en la margen derecha del tramo final, que luego extenderá a la franja izquierda, y Adif empieza a quitar las cañas y los troncos acumulados bajo el puente de Rodalies</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20261010/personas-sin-hogar-campamentos-barcelona-rio-besos-135192665\">Los sintecho del Besòs buscan refugio tras escapar de la riada: \"Hemos perdido ropa y documentación\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Reservoir Books publicará la segunda novela de Quentin Tarantino, 'Las aventuras de Cliff Booth'",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261013/reservoir-books-publicara-segunda-novela-135277142",
+    "pubDate": "2026-10-13 12:53:58",
+    "category": "",
+    "description": "<h2>El cineasta traslada la acción de su nueva novela al Hollywood de 1977 para contar las actividades clandestinas del personaje interpretado por Brad Pitt</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ведуча ЛЧ підкорила Єгипет ефектною фотосесією",
+    "link": "https://ua.korrespondent.net/sport/football/4919546-veducha-lch-pidkoryla-yehypet-efektnoui-fotosesiieui",
+    "pubDate": "2026-10-13 12:49:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4595003.jpg\">Зірка спортивного телебачення Єва Мураті зачарувала шанувальників вишуканим фотосетом на тлі єгипетських пам'яток.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Рада підтримала нову модель соціальної допомоги",
+    "link": "https://ua.korrespondent.net/ukraine/4919656-rada-pidtrymala-novu-model-sotsialnoi-dopomohy",
+    "pubDate": "2026-10-13 12:47:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4595217.jpg\">Проголосований законопроєкт узгоджується з Європейською соціальною хартією та Конвенцією про захист прав людини і основоположних свобод.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Названо найпопулярніші бензинові авто України у вересні",
+    "link": "https://ua.korrespondent.net/business/auto/4919658-nazvano-naipopuliarnishi-benzynovi-avto-ukrainy-u-veresni",
+    "pubDate": "2026-10-13 12:47:00",
+    "category": "Авто новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4595219.jpg\">У вересні серед нових автомобілів лідирував Hyundai Tucson, а серед імпортованих вживаних - Volkswagen Golf.",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ceuta se echa a la calle para recibir a los Reyes en una visita histórica",
+    "link": "https://www.elperiodico.com/es/politica/20261013/ceuta-calle-reyes-visita-historica-problemas-135277022",
+    "pubDate": "2026-10-13 12:44:21",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "La BBC prepara una docuserie de dos episodios sobre J.K. Rowling",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261013/bbc-prepara-docuserie-episodios-j-135276891",
+    "pubDate": "2026-10-13 12:43:51",
+    "category": "",
+    "description": "<h2> La serie repasará su «ascenso meteórico, influencia cultural y legado controvertido, utilizando su vida como una lente a través de la cual explorar tres décadas de profundos cambios sociales, políticos y tecnológicos», según el comunicado de prensa de la cadena pública británica</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La 'fintech' ID Finance cierra la mayor ronda de inversión del año en Catalunya: casi 550 millones de euros para su  'app' Plazo",
+    "link": "https://www.elperiodico.com/es/economia/20261013/fintech-id-finance-cierra-mayor-ronda-inversion-135275238",
+    "pubDate": "2026-10-13 12:40:32",
+    "category": "",
+    "description": "<h2>La compañía, que tiene su sede en Barcelona, facturó 243 millones de euros el año pasado y duplicó su beneficio</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20240206/id-finance-capta-150-millones-neobanco-plazo-97834021\" target=\"_blank\">La catalana ID Finance capta 150 millones de euros para impulsar su neobanco Plazo</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Удар по Рівному: зросла кількість постраждалих",
+    "link": "https://ua.korrespondent.net/ukraine/4919654-udar-po-rivnomu-zrosla-kilkist-postrazhdalykh",
+    "pubDate": "2026-10-13 12:40:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4595205.jpg\">Пожежу у навчальному закладі ліквідовано. Наразі відомо про 20 поранених, з яких двоє перебувають у реанімації.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "США продовжують надавати розвіддані - МЗС",
+    "link": "https://ua.korrespondent.net/ukraine/4919651-ssha-prodovzhuuit-nadavaty-rozviddani-mzs",
+    "pubDate": "2026-10-13 12:38:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4595215.jpg\">Американські розвіддані продовжують надходити попри останню напругу у відносинах України зі США, запевнив Андрій Сибіга.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Rescatan a varias personas atrapadas en una montaña rusa de Georgia tras un accidente con un muerto y un herido grave",
+    "link": "https://www.elperiodico.com/es/videos/internacional/rescatan-personas-atrapadas-montana-rusa/135276765.shtml",
+    "pubDate": "2026-10-13 12:33:44",
+    "category": "",
+    "description": "",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Чоловіка засудили до 10 років за викрадення виплат зниклого військового",
+    "link": "https://ua.korrespondent.net/ukraine/4919647-cholovika-zasudyly-do-10-rokiv-za-vykradennia-vyplat-znykloho-viiskovoho",
+    "pubDate": "2026-10-13 12:31:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4595202.jpg\">Чоловік протягом п’яти місяців переказував гроші з рахунку матері військового на інші рахунки, витрачаючи на власні потреби.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "DIRECTO | Rueda de prensa posterior al Consejo de MInistros",
+    "link": "https://www.elperiodico.com/es/videos/politica/directo-rueda-prensa-posterior-consejo-ministros/135276644.shtml",
+    "pubDate": "2026-10-13 12:30:39",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Las familias pinchan en educación digital: la mitad no habla con sus hijos sobre los riesgos de internet y el 61% no vigila qué hacen en la red",
+    "link": "https://www.elperiodico.com/es/sociedad/20261013/familias-hijos-dialogo-riesgos-internet-vigilancia-uso-red-datos-espana-135247721",
+    "pubDate": "2026-10-13 12:30:08",
+    "category": "",
+    "description": "<h2 class=\"item\">La capacidad económica de madres y padres marca diferencias en el control de las pantallas y el acompañamiento digital de los hijos, según un estudio de Fad Juventud y Netflix</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260831/primer-telefono-movil-hijos-familias-ceden-prohibidos-institutos-normalizados-casa-133694058\" target=\"_blank\">Familias que se resistían a dar el primer móvil a sus hijos acaban cediendo al llegar a 1º de la ESO: \"Me lo he comido con patatas\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Снігур сенсаційно вибила 14-ту ракетку світу на турнірі в Китаї",
+    "link": "https://ua.korrespondent.net/sport/tenis/4919646-snihur-sensatsiino-vybyla-14-tu-raketku-svitu-na-turniri-v-kytai",
+    "pubDate": "2026-10-13 12:29:00",
+    "category": "Новини тенісу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4595201.jpg\">Українська спортсменка продемонструвала відмінну гру та вибила з сітки змагань 14-ту ракетку світу.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El resurgir de Red Bull y Max Verstappen",
+    "link": "https://www.elperiodico.com/es/deportes/20261013/resurgir-red-bull-max-verstappen-135270762",
+    "pubDate": "2026-10-13 12:27:30",
+    "category": "",
+    "description": "<h2>Desde las mejoras introducidas en Azerbaiyán, el piloto neerlandés ha sumado 76 de los últimos 83 puntos en juego</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Rocío, propietaria de 5 pisos y 75 habitaciones: \"Mi mayor miedo en la selección de los inquilinos es la responsabilidad. Pasa cualquier cosa y soy yo la que responde\"",
+    "link": "https://www.elperiodico.com/es/vivienda/20261013/rocio-propietaria-pisos-habitaciones-vivienda-dinero-dv-et-135274279",
+    "pubDate": "2026-10-13 12:27:12",
+    "category": "",
+    "description": "<h2>La inversora inmobiliaria gestiona 17 viviendas mediante el alquiler tradicional y el modelo 'rent to rent', con el que obtiene ingresos al alquilar habitaciones</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Астаф’єва опинилася в центрі скандалу через Радіодиктант-2026",
+    "link": "https://ua.korrespondent.net/lifestyle/4919622-astafieva-opynylasia-v-tsentri-skandalu-cherez-radiodyktant-2026",
+    "pubDate": "2026-10-13 12:27:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4595084.jpg\">У мережі Threads спалахнули дискусії через участь Даші Астаф’євої та Артура Пройдакова в Радіодиктанті 2026 року: від хвилі підтримки до закидів щодо минулого співачки - пропонуємо огляд найяскравіших думок.",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "La ley de memoria democrática de Catalunya obligará a retirar el monumento franquista de Tortosa en un año",
+    "link": "https://www.elperiodico.com/es/politica/20261013/ley-memoria-democratica-catalunya-obligara-retirada-monumento-franquista-tortosa-135273249",
+    "pubDate": "2026-10-13 12:25:46",
+    "category": "",
+    "description": "<h2 class=\"item\">El pleno del Parlament prevé aprobar la norma la próxima semana, aunque el PP, el único partido con capacidad para recurrir al Consell de Garanties Estatutàries, podría retrasarlo</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tarragona/20260309/supremo-retorna-catalunya-decision-monumento-127739554\" target=\"_blank\">El Supremo allana el camino para la retirada del polémico monumento franquista de Tortosa</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Митники вилучили товарів на півмільярда гривень: що конфіскували",
+    "link": "https://ua.korrespondent.net/business/financial/4919644-mytnyky-vyluchyly-tovariv-na-pivmiliarda-hryven-scho-konfiskuvaly",
+    "pubDate": "2026-10-13 12:25:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4595192.jpg\">За дев’ять місяців 2026 року українські митники виявили понад 8,2 тисячі порушень на суму більш як 3 млрд грн.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "La Fórmula Uno regresará a África con el Gran Premio de Ruanda a partir de 2030",
+    "link": "https://www.elperiodico.com/es/deportes/20261013/formula-regresara-africa-gran-premio-135276204",
+    "pubDate": "2026-10-13 12:24:15",
+    "category": "",
+    "description": "<h2>La última vez que se celebró una prueba de F-1 en el continente africano fue en Sudáfrica en 1993</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los padres de Piqué, Montserrat y Joan, se desmarcan de la nueva batalla judicial entre su hijo y Shakira",
+    "link": "https://www.elperiodico.com/es/gente/20261013/padres-pique-montserrat-joan-desmarcan-135276198",
+    "pubDate": "2026-10-13 12:22:04",
+    "category": "",
+    "description": "<h2>El exfutbolista defiende que los desplazamientos de Milan y Sasha buscan mantener su arraigo</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "В ЄС знижується підтримка швидкого вступу України",
+    "link": "https://ua.korrespondent.net/world/4919640-v-yes-znyzhuietsia-pidtrymka-shvydkoho-vstupu-ukrainy",
+    "pubDate": "2026-10-13 12:17:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4595191.jpg\">Найвищу підтримку швидкого вступу України серед великих країн ЄС зафіксували у Швеції - 69%, найнижчу - у Румунії, 40%.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Más de 1.000 tiendas de Barcelona ofrecen los descuentos de 10 euros de los ‘Bonus Consum’ a partir de hoy",
+    "link": "https://www.elperiodico.com/es/barcelona/20261013/bonus-consum-tiendas-barcelona-descuentos-compras-135275474",
+    "pubDate": "2026-10-13 12:16:27",
+    "category": "",
+    "description": "<h2 class=\"item\">El ayuntamiento ha distribuido los primeros 3.000 vales de ahorro en menos de una hora y las entidades comerciales confían en que más de 2.000 tiendas acaben apuntándose a la campaña</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20261012/bonus-consum-2026-barcelona-como-registrarse-comercios-descargar-app-tpv-135225304\">Guía de los ‘Bonus Consum’ 2026 en Barcelona: cómo registrarse para obtenerlos, lista de comercios y dónde descargar la 'app'</a></h2>",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Зеленський: Партнери не попередили про атаку ракет",
+    "link": "https://ua.korrespondent.net/ukraine/4919639-zelenskyi-partnery-ne-poperedyly-pro-ataku-raket",
+    "pubDate": "2026-10-13 12:15:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4595190.jpg\">Розвідувальні дані про запуск російських балістичних ракет допомагають рятувати життя людей, і це одне з найбільш критичних питань, зазначив президент.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Siete días para renunciar a la mesa electoral: el plazo legal para los ciudadanos de 65 a 69 años",
+    "link": "https://www.elperiodico.com/es/sociedad/20261013/renuncia-mesa-electoral-ley-mayores-65-anos-plazo-dv-135165056",
+    "pubDate": "2026-10-13 12:15:00",
+    "category": "",
+    "description": "<h2 class=\"item\">No es necesario estar jubilado ni acreditar una enfermedad para acogerse a esta excepción, pero sí presentar la solicitud ante la Junta Electoral de Zona</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261009/elecciones-generales-espana-2026-pedro-sanchez-ultima-hora-directo-135003267\" >Elecciones generales en España 2026, en directo: última hora y todas las reacciones a la convocatoria de Sánchez para el 29 de noviembre</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261006/elecciones-generales-2026-guia-practica-voto-por-correo-mesa-electoral-135060482\" >Elecciones generales 2026: cómo saber dónde voto, si me toca mesa y hasta cuándo pedir el voto por correo</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Росіяни атакували колону мирних мешканців під час \"евакуації\" з Куп'янська",
+    "link": "https://ua.korrespondent.net/ukraine/4919638-rosiiany-atakuvaly-kolonu-myrnykh-meshkantsiv-pid-chas-evakuatsii-z-kupianska",
+    "pubDate": "2026-10-13 12:12:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4595188.jpg\">Раніше російські окупанти використовували мирних жителів як живий щит, відступаючи з Харківщини.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
     "title": "El incendio del AVE deja retrasos de más de una hora en la alta velocidad entre Barcelona y Madrid",
     "link": "https://www.elperiodico.com/es/videos/sociedad/incendio-ave-deja-retrasos-hora/135275334.shtml",
     "pubDate": "2026-10-13 12:04:15",
@@ -63,6 +396,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Учені попереджають про ризики пластику для жіночого організму",
+    "link": "https://ua.korrespondent.net/tech/4919469-ucheni-poperedzhauit-pro-ryzyky-plastyku-dlia-zhinochoho-orhanizmu",
+    "pubDate": "2026-10-13 11:58:00",
+    "category": "Наука та медицина",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4594548.jpg\">Нове наукове дослідження показало, що речовини зі звичайного пластику здатні впливати на жіноче репродуктивне здоров'я, провокуючи аномальні зміни в клітинній структурі яєчників.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "'Hogwarts Legacy 2' necesitará algo más que magia para superar el éxito de su predecesor",
     "link": "https://www.elperiodico.com/es/videojuegos/20261013/hogwarts-legacy-2-necesitara-magia-135270570",
     "pubDate": "2026-10-13 11:57:12",
@@ -70,6 +412,15 @@
     "description": "<h2>La continuación del RPG sigue sin confirmar planes de lanzamiento ni detalles sobre su jugabilidad, aunque Warner Bros. ya ha explicado qué espera de ella</h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Боруссія визначилася з майбутнім головного тренера",
+    "link": "https://ua.korrespondent.net/sport/football/4919629-borussiia-vyznachylasia-z-maibutnim-holovnoho-trenera",
+    "pubDate": "2026-10-13 11:56:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4595177.jpg\">Керівництво дортмундської Боруссії підтвердило довіру головному тренеру: Ніко Ковач продовжить керувати командою.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
   },
   {
     "title": "El Parlament concede la Medalla d'Honor a la dibujante Pilarín Bayés y al cineasta Pere Portabella",
@@ -99,6 +450,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Зростання ВВП України сповільниться: прогноз МВФ на цей рік",
+    "link": "https://ua.korrespondent.net/business/economics/4919624-zrostannia-vvp-ukrainy-spovilnytsia-prohnoz-mvf-na-tsei-rik",
+    "pubDate": "2026-10-13 11:52:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4595150.jpg\">Міжнародний валютний фонд не змінив оцінок зростання економіки України на найближчі роки. Цьогорічний прогноз залишився на рівні 1%, а наступного року очікується прискорення до 3,5%.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
     "title": "De los AirPods rebajados a los Levi’s 501 a precio mínimo: las ofertas de la semana que merece la pena aprovechar",
     "link": "https://www.elperiodico.com/es/shopping/20261013/mejores-ofertas-semana-airpods-rebajados-levi-501-135272588",
     "pubDate": "2026-10-13 11:50:13",
@@ -106,6 +466,15 @@
     "description": "<h2>Desde los auriculares de Apple hasta los vaqueros más icónicos de Levi’s, pasando por moda, productos para el hogar y cuidado personal: repasamos las ofertas más destacadas de Amazon para ahorrar en compras del día a día</h2>",
     "topic": "торгові центри, розпродажі",
     "topic_match_probability": 95
+  },
+  {
+    "title": "У Києві скасували поділ на черги відключень світла",
+    "link": "https://ua.korrespondent.net/city/kiev/4919630-u-kyievi-skasuvaly-podil-na-cherhy-vidkluichen-svitla",
+    "pubDate": "2026-10-13 11:49:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4595164.jpg\">Відтепер кожен будинок у столиці має окремий графік, який може змінюватися протягом дня залежно від ситуації в енергосистемі.",
+    "topic": "політика",
+    "topic_match_probability": 55
   },
   {
     "title": "Курс долара пішов вгору в обмінниках",
@@ -520,6 +889,15 @@
     "description": "<h2>El nuevo SUV destaca por su diseño y su cuidado interior, con motores híbridos y eléctricos de hasta 741 kilómetros de autonomía</h2>",
     "topic": "автомобілі",
     "topic_match_probability": 100
+  },
+  {
+    "title": "FilmUA: де стежити за новинками кіно та серіалів українською",
+    "link": "https://ua.korrespondent.net/business/4916527-FilmUA-de-stezhyty-za-novynkamy-kino-ta-serialiv-ukrainskoui",
+    "pubDate": "2026-10-13 09:22:00",
+    "category": "Новини бізнесу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4581460.jpeg\">\r\nЩотижня у світі кіно з’являються нові трейлери, анонси, прем’єри та продовження популярних серіалів.",
+    "topic": "телебачення",
+    "topic_match_probability": 90
   },
   {
     "title": "Frente Amplio y Podemos se enredan en quién debe sumarse a quién para unificar la izquierda",

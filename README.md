@@ -1,9 +1,11 @@
-# News for 2026-10-13 12:08
+# News for 2026-10-13 13:11
 
 Previous day: [2026-10-12](./data/2026-10-12.md)
 
 ## ua.korrespondent.net
+12:59 [Український криголам Ноосфера розпочав антарктичний сезон](https://ua.korrespondent.net/tech/science/4919650-ukrainskyi-kryholam-noosfera-rozpochav-antarktychnyi-sezon)<br>
 11:59 [Туристів попередили про небезпеку у Карпатах](https://ua.korrespondent.net/ukraine/4919634-turystiv-poperedyly-pro-nebezpeku-u-karpatakh)<br>
+11:58 [Учені попереджають про ризики пластику для жіночого організму](https://ua.korrespondent.net/tech/4919469-ucheni-poperedzhauit-pro-ryzyky-plastyku-dlia-zhinochoho-orhanizmu)<br>
 11:47 [Курс долара пішов вгору в обмінниках](https://ua.korrespondent.net/business/4919627-kurs-dolara-pishov-vhoru-v-obminnykakh)<br>
 11:29 [Сили оборони уразили рембазу Іскандерів](https://ua.korrespondent.net/ukraine/4919617-syly-oborony-urazyly-rembazu-iskanderiv)<br>
 11:16 [У Гватемалі 15-річна дівчина ожила під час власного похорону](https://ua.korrespondent.net/world/4919604-u-hvatemali-15-richna-divchyna-ozhyla-pid-chas-vlasnoho-pokhoronu)<br>
@@ -39,6 +41,14 @@ Previous day: [2026-10-12](./data/2026-10-12.md)
 07:37 [Un Barça “cada vez mejor”](https://as.com/baloncesto/euroliga/un-barca-cada-vez-mejor-f202610-n/)<br>
 
 ## www.elperiodico.com
+13:03 [El papa León XIV sale del Vaticano para ingresar en el hospital romano en el que será operado hoy de un nódulo pulmonar](https://www.elperiodico.com/es/sociedad/20261013/papa-leon-xiv-ingresa-gemelli-nodulo-pulmonar-135276470)<br>
+13:00 [Casi la mitad de las españolas tiene su primer hijo seis años más tarde de lo que quería](https://www.elperiodico.com/es/sociedad/20261013/retraso-maternidad-infertilidad-mujeres-hijos-espana-conciliacion-135252319)<br>
+12:58 [La idea de reintroducir el lince boreal en los Pirineos suma apoyos](https://www.elperiodico.com/es/sociedad/20261013/reintroducir-lince-boreal-pirineos-cataluna-135276501)<br>
+12:54 [Las obras en el río Besòs para reparar daños y retirar escombros de la riada durarán semanas](https://www.elperiodico.com/es/barcelona/20261013/rio-besos-puente-obras-reparaciones-riada-temporal-135276975)<br>
+12:53 [Reservoir Books publicará la segunda novela de Quentin Tarantino, 'Las aventuras de Cliff Booth'](https://www.elperiodico.com/es/ocio-y-cultura/20261013/reservoir-books-publicara-segunda-novela-135277142)<br>
+12:40 [La 'fintech' ID Finance cierra la mayor ronda de inversión del año en Catalunya: casi 550 millones de euros para su  'app' Plazo](https://www.elperiodico.com/es/economia/20261013/fintech-id-finance-cierra-mayor-ronda-inversion-135275238)<br>
+12:30 [Las familias pinchan en educación digital: la mitad no habla con sus hijos sobre los riesgos de internet y el 61% no vigila qué hacen en la red](https://www.elperiodico.com/es/sociedad/20261013/familias-hijos-dialogo-riesgos-internet-vigilancia-uso-red-datos-espana-135247721)<br>
+12:27 [Rocío, propietaria de 5 pisos y 75 habitaciones: "Mi mayor miedo en la selección de los inquilinos es la responsabilidad. Pasa cualquier cosa y soy yo la que responde"](https://www.elperiodico.com/es/vivienda/20261013/rocio-propietaria-pisos-habitaciones-vivienda-dinero-dv-et-135274279)<br>
 12:03 [Una piedra hallada en Noruega podría ser el ancla más antigua del mundo](https://www.elperiodico.com/es/tendencias21/20261013/piedra-hallada-noruega-ancla-antigua-135275426)<br>
 12:00 [Polémica con el Imserso 2026-2027: los jubilados estallan por los recargos de 200 euros y los cobros antes de viajar](https://www.elperiodico.com/es/economia/20261013/viajes-imserso-2026-quejas-jubilados-200-euros-gastos-adicionales-dv-135132247)<br>
 11:57 ['Hogwarts Legacy 2' necesitará algo más que magia para superar el éxito de su predecesor](https://www.elperiodico.com/es/videojuegos/20261013/hogwarts-legacy-2-necesitara-magia-135270570)<br>
