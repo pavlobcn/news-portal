@@ -1,10 +1,16 @@
-# News for 2026-10-14 18:06
+# News for 2026-10-14 19:23
 
 Previous day: [2026-10-13](./data/2026-10-13.md)
 
 ## ua.korrespondent.net
+19:18 [Майже 100 компаній приєднались до приватної ППО](https://ua.korrespondent.net/ukraine/4920152-maizhe-100-kompanii-pryiednalys-do-pryvatnoi-ppo)<br>
+18:53 [Норвегія скерує Україні €70,6 млн на зарплати, соцвиплати та відновлення](https://ua.korrespondent.net/business/economics/4920142-norvehiia-skeruie-ukraini-706-mln-na-zarplaty-sotsvyplaty-ta-vidnovlennia)<br>
+18:27 [Енергетика під тиском атак: обмеження на 15 жовтня](https://ua.korrespondent.net/ukraine/4920138-enerhetyka-pid-tyskom-atak-obmezhennia-na-15-zhovtnia)<br>
 18:03 [США розробили ракету нового покоління для Patriot](https://ua.korrespondent.net/world/4920130-ssha-rozrobyly-raketu-novoho-pokolinnia-dlia-Patriot)<br>
+17:50 [Баскетболіст НБА під час узяття кільця скористався головою](https://ua.korrespondent.net/sport/basketball/4920109-basketbolist-nba-pid-chas-uziattia-kiltsia-skorystavsia-holovoui)<br>
 17:40 [У Росії заявили про "атаки" на два НПЗ](https://ua.korrespondent.net/world/russia/4920125-u-rosii-zaiavyly-pro-ataky-na-dva-npz)<br>
+17:35 [Свята 15 жовтня 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4920098-sviata-15-zhovtnia-2026-roku-istoriia-tradytsii)<br>
+17:32 [Енергоатом обрав кандидатів на дві ключові керівні посади](https://ua.korrespondent.net/business/companies/4920122-enerhoatom-obrav-kandydativ-na-dvi-kluichovi-kerivni-posady)<br>
 17:17 [Удари по дата-центрах РФ: чому це болючіше за атаки проти НПЗ](https://ua.korrespondent.net/articles/4920119-udary-po-data-tsentrakh-rf-chomu-tse-boluichishe-za-ataky-proty-npz)<br>
 17:08 [Державі повернули недобудований масштабний медоб'єкт у Києві](https://ua.korrespondent.net/city/kiev/4920116-derzhavi-povernuly-nedobudovanyi-masshtabnyi-medobiekt-u-kyievi)<br>
 16:54 [Верховний Суд поставив крапку в справі водосховища Відсічне](https://ua.korrespondent.net/ukraine/4920112-verkhovnyi-sud-postavyv-krapku-v-spravi-vodoskhovyscha-vidsichne)<br>
@@ -60,6 +66,10 @@ Previous day: [2026-10-13](./data/2026-10-13.md)
 00:26 [Resumen del Barcelona vs. Maccabi Tel Aviv de Euroliga](https://as.com/videos/euroliga/resumen-del-barcelona-vs-maccabi-tel-aviv-de-euroliga-f202610-v/)<br>
 
 ## www.elperiodico.com
+19:21 [Rusia golpea la energía ucraniana en medio de temores de Kiev a perder la ayuda de EEUU](https://www.elperiodico.com/es/internacional/20261014/rusia-golpea-energia-ucraniana-bombardeo-tregua-energetica-135341247)<br>
+19:08 [El Hospital de Bellvitge coordina en España un ensayo de autoinyección para mejorar la miastenia](https://www.elperiodico.com/es/barcelona/20261014/hospital-bellvitge-coordina-espana-ensayo-autoinyeccion-mejorar-miastenia-135339080)<br>
+19:06 [El Baskonia destituye a Paolo Galbiati después de haber vetado en verano su fichaje por el Barça](https://www.elperiodico.com/es/deportes/20261014/baskonia-destituye-paolo-galbiati-despues-135340479)<br>
+19:03 [Crean un "agujero negro sónico" que absorbe el sonido en un laboratorio](https://www.elperiodico.com/es/tendencias21/20261014/crean-agujero-negro-sonico-absorbe-135340568)<br>
 18:00 [Premio Planeta, 75 años de un "lanzamiento motorizado" literario](https://www.elperiodico.com/es/ocio-y-cultura/20261014/premio-planeta-75-anos-lanzamiento-135335702)<br>
 18:00 [El director de 'No mires arriba' lanza una campaña con científicos y estrellas de Hollywood para alertar del auge de los extremos climáticoso](https://www.elperiodico.com/es/sociedad/20261014/director-pelicula-no-mires-arriba-dont-look-up-iniciativa-cientificos-estrellas-hollyood-extremos-climaticos-el-nino-efectos-135318871)<br>
 18:00 [El Banco de España cifra en 3.675 millones el ahorro fiscal de los hogares por la crisis energética, con mayor beneficio para quienes más gastan](https://www.elperiodico.com/es/economia/20261014/banco-espana-cifra-3-675-ahorro-fiscal-hogares-crisis-energetica-135337357)<br>
@@ -72,6 +82,7 @@ Previous day: [2026-10-13](./data/2026-10-13.md)
 17:01 [Un estudio afirma que los microplásticos son "químicamente activos" y tienen potencial para "causar daños biológicos" en el cuerpo humano](https://www.elperiodico.com/es/sociedad/20261014/estudio-microplasticos-quimicamente-activos-potencial-danos-salud-135330754)<br>
 17:00 [Luis Gallegos, experto en longevidad: "Tener que jubilarse a los 65 años, cuando podemos vivir hasta los 100, es un desperdicio de recursos y talento"](https://www.elperiodico.com/es/sociedad/20261014/luis-gallegos-longevidad-envejecimiento-edadismo-desigualdad-calidad-de-vida-135245495)<br>
 16:59 [Planeta alcanza una facturación récord de 2.200 millones y sitúa la educación como su principal motor de crecimiento](https://www.elperiodico.com/es/economia/20261014/planeta-alcanza-facturacion-record-2-135334235)<br>
+16:59 [Planeta alcanza una facturación récord de 2.200 millones en 2025 y sitúa la educación como su principal motor de crecimiento](https://www.elperiodico.com/es/ocio-y-cultura/20261014/planeta-alcanza-facturacion-record-2-135334235)<br>
 16:44 [La bola negra: a cada chaval, su Lorca](https://www.elperiodico.com/es/opinion/20261014/bola-negra-chaval-lorca-articulo-pilar-garces-135328333)<br>
 16:21 [Los castillos de España se caen a pedazos: el 90% está en ruina progresiva](https://www.elperiodico.com/es/sociedad/20261014/castillos-espana-deterioro-progresivo-derrumbe-palacio-almazan-soria-patrimonio-historico-135329098)<br>
 16:15 ['Upiro' trae al festival de Sitges un caso real de vampirismo en un convento de Calasparra](https://www.elperiodico.com/es/ocio-y-cultura/20261014/upiro-oscar-martin-festival-sitges-vampiros-monjas-135315449)<br>
