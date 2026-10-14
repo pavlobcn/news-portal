@@ -1,8 +1,11 @@
-# News for 2026-10-14 14:23
+# News for 2026-10-14 15:08
 
 Previous day: [2026-10-13](./data/2026-10-13.md)
 
 ## ua.korrespondent.net
+14:53 [Притула зачарував мережу ніжними фото з сім'єю](https://ua.korrespondent.net/lifestyle/4920043-prytula-zacharuvav-merezhu-nizhnymy-foto-z-simieui)<br>
+14:33 [Китай, Польща та Німеччина: з ким торгує Україна](https://ua.korrespondent.net/business/financial/4920052-kytai-polscha-ta-nimechchyna-z-kym-torhuie-ukraina)<br>
+14:24 [Без металургії Україні загрожує втрата 7% економічного виробництва - ЗМІ](https://ua.korrespondent.net/business/economics/4920049-bez-metalurhii-ukraini-zahrozhuie-vtrata-7-ekonomichnoho-vyrobnytstva-zmi)<br>
 14:19 [Іран заявив про затоплення контейнеровоза в Ормузі після підриву](https://ua.korrespondent.net/world/4920046-iran-zaiavyv-pro-zatoplennia-konteinerovoza-v-ormuzi-pislia-pidryvu)<br>
 13:50 [Атака на Луцьк: загинули четверо людей, 12 постраждали](https://ua.korrespondent.net/ukraine/4920034-ataka-na-lutsk-zahynuly-chetvero-luidei-12-postrazhdaly)<br>
 13:26 [У Південній Кореї розслідують витік даних 100 тисяч клієнтів банків](https://ua.korrespondent.net/tech/technews/4920020-u-pivdennii-korei-rozsliduuit-vytik-danykh-100-tysiach-kliientiv-bankiv)<br>
@@ -41,6 +44,11 @@ Previous day: [2026-10-13](./data/2026-10-13.md)
 00:26 [Resumen del Barcelona vs. Maccabi Tel Aviv de Euroliga](https://as.com/videos/euroliga/resumen-del-barcelona-vs-maccabi-tel-aviv-de-euroliga-f202610-v/)<br>
 
 ## www.elperiodico.com
+15:04 [José Antonio Portillo, Premio Artes Escénicas para la Infancia y la Juventud 2026](https://www.elperiodico.com/es/ocio-y-cultura/20261014/jose-antonio-portillo-premio-artes-escenicas-infancia-juventud-135329168)<br>
+15:00 [El AMB renueva la flota de la línea MB3 de Molins de Rei (Barcelona) con 2 nuevos microbuses](https://www.elperiodico.com/es/barcelona/20261014/amb-renueva-flota-linea-mb3-molins-de-rei-135328502)<br>
+14:55 ["Queremos dirigir escuelas, no sobrevivir en ellas": las direcciones del Baix Montseny se unen para alzar la voz](https://www.elperiodico.com/es/sociedad/20261014/queremos-dirigir-escuelas-no-sobrevivir-direcciones-baix-montseny-valles-oriental-135324641)<br>
+14:52 [El Premio Planeta celebra su 75 aniversario con pleno de finalistas marcadas por la "necesidad de sanación"](https://www.elperiodico.com/es/ocio-y-cultura/20261014/premio-planeta-celebra-75-aniversario-135323601)<br>
+14:41 [Huelga en los supermercados catalanes para Nochebuena y Nochevieja](https://www.elperiodico.com/es/economia/20261014/huelga-supermercados-cataluna-nochebuena-nochevieja-135325249)<br>
 14:14 [Desabastecimiento de las pastillas contra la calvicie por el 'boom' del consumo entre los jóvenes](https://www.elperiodico.com/es/sanidad/20261014/desabastecimiento-escasez-pastillas-calvicie-boom-jovenes-loniten-minogal-minoxidil-135316607)<br>
 14:12 [Grupo Housfy se hace con la catalana Brisasol y pone el foco en las administraciones de fincas para crecer](https://www.elperiodico.com/es/economia/20261014/grupo-housfy-catalana-brisasol-pone-135326517)<br>
 14:11 [Realidad fracturada ofrece tres formas de disfrutar del universo de Magic](https://www.elperiodico.com/es/videojuegos/20261014/realidad-fracturada-tres-formas-universo-magic-135325711)<br>

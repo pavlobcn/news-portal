@@ -1,10 +1,181 @@
 [
   {
+    "title": "José Antonio Portillo, Premio Artes Escénicas para la Infancia y la Juventud 2026",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261014/jose-antonio-portillo-premio-artes-escenicas-infancia-juventud-135329168",
+    "pubDate": "2026-10-14 15:04:11",
+    "category": "",
+    "description": "<h2>El jurado ha puesto en valor que la obra forma parte de una trayectoria como escenógrafo, docente y creador</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El AMB renueva la flota de la línea MB3 de Molins de Rei (Barcelona) con 2 nuevos microbuses",
+    "link": "https://www.elperiodico.com/es/barcelona/20261014/amb-renueva-flota-linea-mb3-molins-de-rei-135328502",
+    "pubDate": "2026-10-14 15:00:43",
+    "category": "",
+    "description": "<h2>La incorporación  permite al Área Metropolitana de Barcelona ofrecer 95 plazas diarias para conectar las zonas de montaña con el centro del municipio</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los agricultores catalanes inician una marcha lenta hacia Barcelona para denunciar la crítica situación del sector",
+    "link": "https://www.elperiodico.com/es/videos/economia/agricultores-catalanes-inician-marcha-lenta-video/135328904.shtml",
+    "pubDate": "2026-10-14 14:59:29",
+    "category": "",
+    "description": "",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Mike Tyson y cómo superó la adicción a la cocaína y la muerte de su hija a los 4 años: «Estoy agradecido por todo lo malo que me ha pasado»",
+    "link": "https://www.elperiodico.com/es/gente/20261014/mike-tyson-supero-adiccion-cocaina-135328566",
+    "pubDate": "2026-10-14 14:58:49",
+    "category": "",
+    "description": "<h2 class=\"item\">El excampeón mundial de los pesos pesados repasa su trayectoria personal y profesional en 'TYSON', una nueva docuserie de cuatro episodios de Netflix. </h2><h2 class=\"item\">El boxeador afirma que lleva diez años sin consumir cocaína ni beber alcohol, aunque reconoce que fuma marihuana, una situación que describe como estar «sobrio al estilo de California». </h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "\"Queremos dirigir escuelas, no sobrevivir en ellas\": las direcciones del Baix Montseny se unen para alzar la voz",
+    "link": "https://www.elperiodico.com/es/sociedad/20261014/queremos-dirigir-escuelas-no-sobrevivir-direcciones-baix-montseny-valles-oriental-135324641",
+    "pubDate": "2026-10-14 14:55:22",
+    "category": "",
+    "description": "<h2 class=\"item\">Las direcciones de escuelas e institutos de los 14 municipios del Servei Educatiu del Vallès Oriental III firman un manifiesto conjunto en el que denuncian la falta de recursos ante la creciente complejidad educativa</h2><h2 class=\"item\">Advierten de que las carencias del sistema les obligan a desatender el liderazgo pedagógico y la transformación de los centros para garantizar su funcionamiento diario</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260627/marta-rubio-portavoz-asamblea-directores-barcelona-necesidades-ninos-escuela-inclusiva-131422407\">Marta Rubio, directora de escuela: \"El decreto de la escuela inclusiva plantea un buen ideal, pero hay niños y niñas que necesitan otra cosa\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Путіна пояснили нові удари по енергетиці України",
+    "link": "https://ua.korrespondent.net/world/russia/4920059-u-putina-poiasnyly-novi-udary-po-enerhetytsi-ukrainy",
+    "pubDate": "2026-10-14 14:55:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4596100.jpg\">Дмитро Пєсков зробив Дональда Трампа крайнім після зриву енергетичного перемир'я з Україною.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Притула зачарував мережу ніжними фото з сім'єю",
+    "link": "https://ua.korrespondent.net/lifestyle/4920043-prytula-zacharuvav-merezhu-nizhnymy-foto-z-simieui",
+    "pubDate": "2026-10-14 14:53:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4595939.jpg\">Старший син Сергія Притули від першого шлюбу взяв участь у зворушливій сімейній фотосесії.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Premio Planeta celebra su 75 aniversario con pleno de finalistas marcadas por la \"necesidad de sanación\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261014/premio-planeta-celebra-75-aniversario-135323601",
+    "pubDate": "2026-10-14 14:52:55",
+    "category": "",
+    "description": "<h2 class=\"item\">El presidente del grupo editorial, José Creuheras, confirma \"conversaciones avanzadas\" para adquirir Juventud, tal y como ha avanzado EL PERIÓDICO </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20261014/planeta-ultima-compra-centenaria-juventud-135246511\">Planeta ultima la compra de la centenaria Juventud, la editorial de Tintín y Enid Blyton</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Рада ухвалила новий закон про оцінку майна",
+    "link": "https://ua.korrespondent.net/ukraine/4920057-rada-ukhvalyla-novyi-zakon-pro-otsinku-maina",
+    "pubDate": "2026-10-14 14:51:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4596110.jpg\">Нові правила передбачають єдиний підхід до оцінки нерухомості та земельних ділянок, оновлення кваліфікаційних вимог і посилення дисциплінарної відповідальності оцінювачів.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Міноборони з’ясовує причини обмежень роботи Starshield",
+    "link": "https://ua.korrespondent.net/ukraine/4920055-minoborony-ziasovuie-prychyny-obmezhen-roboty-Starshield",
+    "pubDate": "2026-10-14 14:49:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4596109.jpg\">У відомстві збирають дані від підрозділів, перевіряють резервні канали зв’язку та контактують зі США, SpaceX та партнерами у НАТО.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Huelga en los supermercados catalanes para Nochebuena y Nochevieja",
+    "link": "https://www.elperiodico.com/es/economia/20261014/huelga-supermercados-cataluna-nochebuena-nochevieja-135325249",
+    "pubDate": "2026-10-14 14:41:43",
+    "category": "",
+    "description": "<h2>UGT convoca dos días de paro ante el bloqueo de las negociaciones para renovar el convenio colectivo que rige a cadenas como Bon Preu, Sorli, La Sirena o Condis, entre otros</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Irlanda devuelve hasta 35.000 euros en impuestos para ayudar a comprar la primera vivienda",
+    "link": "https://www.elperiodico.com/es/economia/20261014/irlanda-devuelve-35-mil-euros-impuestos-ayudar-comprar-primera-vivienda-dv-135326475",
+    "pubDate": "2026-10-14 14:40:21",
+    "category": "",
+    "description": "<h2>El país permite recuperar parte de los impuestos pagados durante cuatro años, pero solo para comprar o construir una vivienda nueva y cumplir determinadas condiciones</h2>",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Detenidas dos mujeres acusadas de sustraer una bebé de apenas un mes en Jaén",
+    "link": "https://www.elperiodico.com/es/sucesos/20261014/detenidas-mujeres-acusadas-sustraer-bebe-135328024",
+    "pubDate": "2026-10-14 14:36:48",
+    "category": "",
+    "description": "<h2>La madre del bebé se presentó en comisaría, con un alto nivel de estrés y nerviosismo, manifestando que minutos antes dos mujeres le habían sustraído a su hija menor mientras se encontraba paseando por una céntrica calle de la localidad con el carrito</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Китай, Польща та Німеччина: з ким торгує Україна",
+    "link": "https://ua.korrespondent.net/business/financial/4920052-kytai-polscha-ta-nimechchyna-z-kym-torhuie-ukraina",
+    "pubDate": "2026-10-14 14:33:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4596099.jpg\">За дев’ять місяців 2026 року Україна імпортувала товарів на понад $75,1 млрд, тоді як експортувала майже на $29,6 млрд.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Enderrock publica la lista de los 400 mejores discos en catalán del siglo XXI",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261014/enderrock-lista-400-mejores-discos-catalan-135321910",
+    "pubDate": "2026-10-14 14:32:06",
+    "category": "",
+    "description": "<h2>La revista celebra su publicación número 400 con una lista elaborada gracias a la ayuda de decenas de expertos</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Víctimas del terrorismo reclaman a la Audiencia Nacional que no amnistíe a los CDR porque la sentencia de la justicia europea no afecta a su caso",
+    "link": "https://www.elperiodico.com/es/politica/20261014/victimas-terrorismo-catalanas-reclaman-audiencia-nacional-no-amnistia-cdr-135327321",
+    "pubDate": "2026-10-14 14:24:12",
+    "category": "",
+    "description": "<h2>Consideran que el TJUE solo declaró que la amnistía no es incompatible con el terrorismo y que es el tribunal encargado de juzgar los hechos quien debe valorar la violación de los derechos humanos cometida</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Без металургії Україні загрожує втрата 7% економічного виробництва - ЗМІ",
+    "link": "https://ua.korrespondent.net/business/economics/4920049-bez-metalurhii-ukraini-zahrozhuie-vtrata-7-ekonomichnoho-vyrobnytstva-zmi",
+    "pubDate": "2026-10-14 14:24:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4596093.jpg\">Колапс української металургійної галузі матиме важкі економічні наслідки у масштабі всієї країни, попереджають журналісти.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "La alcaldesa de Tortosa espera la \"seguridad jurídica\" de la nueva ley catalana para retirar el monumento franquista del Ebro",
     "link": "https://www.elperiodico.com/es/tarragona/20261014/alcaldesa-tortosa-espera-seguridad-juridica-ley-catalana-memoria-monumento-franquista-ebro-135324939",
     "pubDate": "2026-10-14 14:22:24",
     "category": "",
     "description": "<h2 class=\"item\">Mar Lleixà se muestra con prudencia a la hora de hablar de la retirada del monolito: \"Ya ha habido muchos anuncios en este sentido\"</h2><h2 class=\"item\">ANIVERSARIO | <a href=\"https://www.elperiodico.com/es/tarragona/20260307/monumento-franquista-batalla-ebro-cumple-127358442\">El monumento franquista de la Batalla del Ebro cumple 60 años a la espera de la sentencia judicial para ser retirado: \"No habrá un segundo referéndum\"</a></h2><h2 class=\"item\">CONTEXTO | <a href=\"https://www.elperiodico.com/es/politica/20261013/ley-memoria-democratica-catalunya-obligara-retirada-monumento-franquista-tortosa-135273249\">La ley de memoria democrática de Catalunya obligará a retirar el monumento franquista de Tortosa en un año</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Розкіш за $10 млн: Мессі замовив ексклюзивну яхту",
+    "link": "https://ua.korrespondent.net/sport/football/4919827-rozkish-za-10-mln-messi-zamovyv-ekskluizyvnu-yakhtu",
+    "pubDate": "2026-10-14 14:22:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4595515.jpg\">Футболіст оформив замовлення на преміальний моторний катамаран Sunreef ULTIMA 88, орієнтовна вартість якого становить близько 10 мільйонів доларів.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Сили оборони уразили FPV-дроном російський Мі-28НМ",
+    "link": "https://ua.korrespondent.net/ukraine/4920048-syly-oborony-urazyly-FPV-dronom-rosiiskyi-mi-28nm",
+    "pubDate": "2026-10-14 14:21:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4596092.jpg\">Українські військові застосували зенітний FPV-дрон для перехоплення російського бойового гелікоптера Мі-28НМ у повітрі.",
     "topic": "політика",
     "topic_match_probability": 80
   },
