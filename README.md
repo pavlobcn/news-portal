@@ -1,8 +1,20 @@
-# News for 2026-10-14 15:08
+# News for 2026-10-14 17:27
 
 Previous day: [2026-10-13](./data/2026-10-13.md)
 
 ## ua.korrespondent.net
+17:17 [Удари по дата-центрах РФ: чому це болючіше за атаки проти НПЗ](https://ua.korrespondent.net/articles/4920119-udary-po-data-tsentrakh-rf-chomu-tse-boluichishe-za-ataky-proty-npz)<br>
+17:08 [Державі повернули недобудований масштабний медоб'єкт у Києві](https://ua.korrespondent.net/city/kiev/4920116-derzhavi-povernuly-nedobudovanyi-masshtabnyi-medobiekt-u-kyievi)<br>
+16:54 [Верховний Суд поставив крапку в справі водосховища Відсічне](https://ua.korrespondent.net/ukraine/4920112-verkhovnyi-sud-postavyv-krapku-v-spravi-vodoskhovyscha-vidsichne)<br>
+16:52 [Нацбанк знизив офіційні курси долара і євро](https://ua.korrespondent.net/business/financial/4920110-natsbank-znyzyv-ofitsiini-kursy-dolara-i-yevro)<br>
+16:51 [Майкл Дуглас шокував зізнанням про своє минуле](https://ua.korrespondent.net/lifestyle/4920093-maikl-duhlas-shokuvav-ziznanniam-pro-svoie-mynule)<br>
+16:45 [Атаки на датацентри: в РФ захотіли створити резервну базу "судного дня"](https://ua.korrespondent.net/world/russia/4920107/)<br>
+16:36 [Шість областей України отримали енергодопомогу від Нідерландів](https://ua.korrespondent.net/ukraine/4920100-shist-oblastei-ukrainy-otrymaly-enerhodopomohu-vid-niderlandiv)<br>
+16:28 [У Києві зірвали масову активацію Starlink для РФ](https://ua.korrespondent.net/ukraine/4920099-u-kyievi-zirvaly-masovu-aktyvatsiui-Starlink-dlia-rf)<br>
+16:17 [У Польщі виявлено останки українських жертв](https://ua.korrespondent.net/world/4920092-u-polschi-vyiavleno-ostanky-ukrainskykh-zhertv)<br>
+16:13 [У Туреччині виявили корабель віком до 4700 років](https://ua.korrespondent.net/tech/science/4920072-u-turechchyni-vyiavyly-korabel-vikom-do-4700-rokiv)<br>
+15:54 [ЗСУ скасовують операції. Обмеження роботи Starlink](https://ua.korrespondent.net/ukraine/4920078-zsu-skasovuuit-operatsii-obmezhennia-roboty-Starlink)<br>
+15:35 [У Луцьку зросла кількість загиблих унаслідок атаки РФ](https://ua.korrespondent.net/ukraine/4920073-u-lutsku-zrosla-kilkist-zahyblykh-unaslidok-ataky-rf)<br>
 14:53 [Притула зачарував мережу ніжними фото з сім'єю](https://ua.korrespondent.net/lifestyle/4920043-prytula-zacharuvav-merezhu-nizhnymy-foto-z-simieui)<br>
 14:33 [Китай, Польща та Німеччина: з ким торгує Україна](https://ua.korrespondent.net/business/financial/4920052-kytai-polscha-ta-nimechchyna-z-kym-torhuie-ukraina)<br>
 14:24 [Без металургії Україні загрожує втрата 7% економічного виробництва - ЗМІ](https://ua.korrespondent.net/business/economics/4920049-bez-metalurhii-ukraini-zahrozhuie-vtrata-7-ekonomichnoho-vyrobnytstva-zmi)<br>
@@ -44,6 +56,20 @@ Previous day: [2026-10-13](./data/2026-10-13.md)
 00:26 [Resumen del Barcelona vs. Maccabi Tel Aviv de Euroliga](https://as.com/videos/euroliga/resumen-del-barcelona-vs-maccabi-tel-aviv-de-euroliga-f202610-v/)<br>
 
 ## www.elperiodico.com
+17:22 [Sharon Stone (68 años), sobre el calvario que vivió con su exmarido: “Me había programado una cirugía cerebral sin mi consentimiento”](https://www.elperiodico.com/es/videos/gente/sharon-stone-68-anos-calvario/135335211.shtml)<br>
+17:22 [CMF lanza sus primeros altavoces portátiles: Speaker S y Speaker M](https://www.elperiodico.com/es/tecnologia/20261014/cmf-lanza-primeros-altavoces-portatiles-135334508)<br>
+17:14 [Badalona se convierte en la capital del cortometraje con la proyección de 230 cortos en el FILMETS](https://www.elperiodico.com/es/barcelona/20261014/badalona-convierte-capital-cortometraje-proyeccion-135331661)<br>
+17:13 [Tiempo en Catalunya mañana jueves: calma a la espera de una posible dana](https://www.elperiodico.com/es/tiempo/20261014/tiempo-catalunya-hoy-jueves-posible-dana-meteocat-lluvias-dv-135329119)<br>
+17:09 [Menos boquerones](https://www.elperiodico.com/es/deportes/20261014/boquerones-135334214)<br>
+17:01 [Un estudio afirma que los microplásticos son "químicamente activos" y tienen potencial para "causar daños biológicos" en el cuerpo humano](https://www.elperiodico.com/es/sociedad/20261014/estudio-microplasticos-quimicamente-activos-potencial-danos-salud-135330754)<br>
+17:00 [Luis Gallegos, experto en longevidad: "Tener que jubilarse a los 65 años, cuando podemos vivir hasta los 100, es un desperdicio de recursos y talento"](https://www.elperiodico.com/es/sociedad/20261014/luis-gallegos-longevidad-envejecimiento-edadismo-desigualdad-calidad-de-vida-135245495)<br>
+16:59 [Planeta alcanza una facturación récord de 2.200 millones y sitúa la educación como su principal motor de crecimiento](https://www.elperiodico.com/es/economia/20261014/planeta-alcanza-facturacion-record-2-135334235)<br>
+16:44 [La bola negra: a cada chaval, su Lorca](https://www.elperiodico.com/es/opinion/20261014/bola-negra-chaval-lorca-articulo-pilar-garces-135328333)<br>
+16:21 [Los castillos de España se caen a pedazos: el 90% está en ruina progresiva](https://www.elperiodico.com/es/sociedad/20261014/castillos-espana-deterioro-progresivo-derrumbe-palacio-almazan-soria-patrimonio-historico-135329098)<br>
+16:15 ['Upiro' trae al festival de Sitges un caso real de vampirismo en un convento de Calasparra](https://www.elperiodico.com/es/ocio-y-cultura/20261014/upiro-oscar-martin-festival-sitges-vampiros-monjas-135315449)<br>
+16:00 [La mitad de los 'signos vitales' del planeta ya alcanzan "niveles extremos": "El clima se está desestabilizando"](https://www.elperiodico.com/es/sociedad/20261014/signos-vitales-planeta-empeorando-informe-135329814)<br>
+15:53 [Salvat ultima su deslocalización de Esplugues a Madrid sin acuerdo con los trabajadores: "No es un traslado, quieren despedir barato"](https://www.elperiodico.com/es/economia/20261014/salvat-esplugues-deslocalizacion-madrid-despidos-135323342)<br>
+15:52 [Peinan el Besòs desde Montcada en el décimo día de búsqueda del desaparecido en Granollers](https://www.elperiodico.com/es/barcelona/20261014/peinan-besos-montcada-decimo-dia-granollers-desaparecido-135330925)<br>
 15:04 [José Antonio Portillo, Premio Artes Escénicas para la Infancia y la Juventud 2026](https://www.elperiodico.com/es/ocio-y-cultura/20261014/jose-antonio-portillo-premio-artes-escenicas-infancia-juventud-135329168)<br>
 15:00 [El AMB renueva la flota de la línea MB3 de Molins de Rei (Barcelona) con 2 nuevos microbuses](https://www.elperiodico.com/es/barcelona/20261014/amb-renueva-flota-linea-mb3-molins-de-rei-135328502)<br>
 14:55 ["Queremos dirigir escuelas, no sobrevivir en ellas": las direcciones del Baix Montseny se unen para alzar la voz](https://www.elperiodico.com/es/sociedad/20261014/queremos-dirigir-escuelas-no-sobrevivir-direcciones-baix-montseny-valles-oriental-135324641)<br>
@@ -81,8 +107,11 @@ Previous day: [2026-10-13](./data/2026-10-13.md)
 09:28 [Precio del petróleo hoy, 14 de octubre por la Guerra en Irán: consulta el precio del barril de Brent](https://www.elperiodico.com/es/economia/20261014/precio-petroleo-hoy-14-octubre-dv-135311907)<br>
 09:11 [Los animalistas piden no dar en adopción gatos y perros blancos o negros en octubre y noviembre por los ritos de santería](https://www.elperiodico.com/es/sociedad/20261014/gatos-perros-negros-blancos-rituales-santeria-entidades-animalistas-piden-no-adopcion-octubre-noviembre-halloween-todos-los-santos-135296574)<br>
 09:01 [Los carburantes disparan la inflación al 4,9% y llevan al Gobierno a mantener la rebaja fiscal de 20 céntimos por litro](https://www.elperiodico.com/es/economia/20261014/ine-confirma-inflacion-dispara-4-135311331)<br>
+08:57 [León XIV presenta una evolución postoperatoria normal e inicia la fisioterapia respiratoria](https://www.elperiodico.com/es/sociedad/20261014/papa-leon-xiv-noche-tranquila-operacion-cancer-pulmon-135311190)<br>
 07:00 [Pepe y Javier, dos ilustres](https://www.elperiodico.com/es/tele/20261014/pepe-javier-ilustres-135293748)<br>
 07:00 [La IA necesita cada vez más supervisión en las empresas: casi una de cada tres pruebas detecta fallos de fiabilidad](https://www.elperiodico.com/es/economia/20261014/inteligencia-artificial-necesita-mas-supervision-una-cada-tres-pruebas-fallos-fiabilidad-135287734)<br>
+06:30 ["La inclusión exige algo más que recursos"](https://www.elperiodico.com/es/entre-todos/participacion/inclusion-exige-recursos-educacion-carta-lector-juan-enciso-135241575)<br>
+06:15 ["Comportamiento incívico e inaceptable de alumnos del Colegio Viaró en los FGC"](https://www.elperiodico.com/es/entre-todos/participacion/comportamiento-incivico-inaceptable-alumnos-colegio-viaro-carta-lector-daniel-garcia-135247952)<br>
 06:01 [Planeta ultima la compra de la centenaria Juventud, la editorial de Tintín y Enid Blyton](https://www.elperiodico.com/es/ocio-y-cultura/20261014/planeta-ultima-compra-centenaria-juventud-135246511)<br>
 06:00 [Indra y el Gobierno invierten 20 millones de euros en Qilimanjaro Quantum Tech](https://www.elperiodico.com/es/economia/20261014/indra-gobierno-invierten-20-millones-qilimanjaro-quantum-tech-135282164)<br>
 06:00 [Jordi Figueres, testimonio en primera persona: "Intenté acabar con todo. El arte te da la mano aunque estés en un pozo"](https://www.elperiodico.com/es/ser-feliz/20261014/jordi-figueres-testimonio-primera-persona-134622241)<br>
