@@ -1,8 +1,13 @@
-# News for 2026-10-14 20:01
+# News for 2026-10-14 21:34
 
 Previous day: [2026-10-13](./data/2026-10-13.md)
 
 ## ua.korrespondent.net
+21:19 [РФ повторно атакувала цивільну інфраструктуру Вінниці](https://ua.korrespondent.net/ukraine/4920184-rf-povtorno-atakuvala-tsyvilnu-infrastrukturu-vinnytsi)<br>
+21:05 [У Єгипті випадково знайшли дві масивні статуї фараона](https://ua.korrespondent.net/tech/science/4920181-u-yehypti-vypadkovo-znaishly-dvi-masyvni-statui-faraona)<br>
+20:56 [У ФБР спростували "візит" Пателя до Москви - ЗМІ](https://ua.korrespondent.net/world/4920176-u-fbr-sprostuvaly-vizyt-patelia-do-moskvy-zmi)<br>
+20:54 [Apple представила нові пристрої для розумного дому](https://ua.korrespondent.net/lifestyle/gadgets/4920178-Apple-predstavyla-novi-prystroi-dlia-rozumnoho-domu)<br>
+20:30 [Starlink частково відновлює роботу - Федоров](https://ua.korrespondent.net/ukraine/4920171-Starlink-chastkovo-vidnovluiie-robotu-fedorov)<br>
 19:59 [Вбивство військових на Харківщині: є затриманий](https://ua.korrespondent.net/ukraine/4920163-vbyvstvo-viiskovykh-na-kharkivschyni-ye-zatrymanyi)<br>
 19:18 [Майже 100 компаній приєднались до приватної ППО](https://ua.korrespondent.net/ukraine/4920152-maizhe-100-kompanii-pryiednalys-do-pryvatnoi-ppo)<br>
 18:53 [Норвегія скерує Україні €70,6 млн на зарплати, соцвиплати та відновлення](https://ua.korrespondent.net/business/economics/4920142-norvehiia-skeruie-ukraini-706-mln-na-zarplaty-sotsvyplaty-ta-vidnovlennia)<br>
@@ -69,6 +74,8 @@ Previous day: [2026-10-13](./data/2026-10-13.md)
 00:26 [Resumen del Barcelona vs. Maccabi Tel Aviv de Euroliga](https://as.com/videos/euroliga/resumen-del-barcelona-vs-maccabi-tel-aviv-de-euroliga-f202610-v/)<br>
 
 ## www.elperiodico.com
+21:21 [El fabricante de cristalería Duralex se salva tras un acuerdo con un empresario francés](https://www.elperiodico.com/es/economia/20261014/fabricante-cristaleria-duralex-salva-acuerdo-con-empresario-frances-cedric-meston-135344887)<br>
+20:49 [La divertida confesión de un niño a Felipe VI durante su visita a un colegio de Ceuta](https://www.elperiodico.com/es/videos/sociedad/divertida-confesion-nino-rey-felipe-colegio-ceuta/135344146.shtml)<br>
 20:00 [La jueza del caso Andic llama a declarar a Miquel Roca como testigo por la fundación del magnate](https://www.elperiodico.com/es/sociedad/20261014/jueza-andic-declaracion-miquel-roca-testigos-fundacion-135341705)<br>
 19:59 [El incombustible Alice Cooper revisa su leyenda en sus nuevas memorias: "He sido el entrevistado menos fiable y más escandalosamente poco veraz de todos los tiempos"](https://www.elperiodico.com/es/ocio-y-cultura/20261014/incombustible-alice-cooper-revisa-leyenda-135323528)<br>
 19:30 [Elena Crespo, abogada especializada en divorcios: "Si tienes hijos, es importante visualizar que tu pareja va a ser un buen ex"](https://www.elperiodico.com/es/sociedad/20261014/divorcio-hijos-expareja-casados-elena-crespo-dv-et-134060962)<br>
