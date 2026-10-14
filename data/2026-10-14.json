@@ -9,6 +9,96 @@
     "topic_match_probability": 90
   },
   {
+    "title": "РФ масовано атакувала залізницю в низці областей України",
+    "link": "https://ua.korrespondent.net/ukraine/4919905-rf-masovano-atakuvala-zaliznytsui-v-nyztsi-oblastei-ukrainy",
+    "pubDate": "2026-10-14 08:35:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4595846.jpg\">Під удари РФ потрапила залізниця у Харківській, Київській, Вінницькій, Хмельницькій і Тернопільській областях.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Масований удар по Україні: що вдалося збити ППО",
+    "link": "https://ua.korrespondent.net/ukraine/4919903-masovanyi-udar-po-ukraini-scho-vdalosia-zbyty-ppo",
+    "pubDate": "2026-10-14 08:30:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4595844.jpg\">У ніч проти 14 жовтня Сили ППО знешкодили 119 повітряних цілей, однак влучання зафіксували на 22 локаціях.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Mapa | Estas son las carreteras afectadas por la tractorada de este miércoles en Catalunya",
+    "link": "https://www.elperiodico.com/es/economia/20261014/mapa-carreteras-afectadas-tractoradas-14octubre-barcelona-cataluna-135188851",
+    "pubDate": "2026-10-14 08:21:00",
+    "category": "",
+    "description": "<h2>Los sindicatos agrarios, que prevén que las concentraciones en la capital catalana empiecen sobre las 12.00 horas, reclaman medidas para paliar el impacto de la subida del gasóleo</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261014/tractoradas-huelga-tractores-agricultores-catalunya-barcelona-ultima-hora-directo-135293358\">Última hora de la tractorada hoy en Catalunya, en directo</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Атака РФ на енергетику пошкодила 30 об'єктів",
+    "link": "https://ua.korrespondent.net/ukraine/4919900-ataka-rf-na-enerhetyku-poshkodyla-30-obiektiv",
+    "pubDate": "2026-10-14 08:20:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4595832.jpg\">Російська атака на енергетику України залишила без світла 600 тис. абонентів і пошкодила 30 об'єктів.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Pueblo Libre: el alma de las tabernas del Perú, trasladada a Barcelona",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20261014/restaurante-pueblo-libre-barcelona-peruano-135275296",
+    "pubDate": "2026-10-14 08:11:17",
+    "category": "",
+    "description": "<h2 class=\"item\">Pablo Ortega cumple cinco años del establecimeinto especializado en \"guisos peruanos\"</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20231113/mejores-restaurantes-peruanos-barcelona-92575043\">Los mejores restaurantes peruanos de Barcelona donde gozar más allá del ceviche</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20230911/olvidemos-ceviche-demos-oportunidad-tiradito-91847035\">Olvidemos el ceviche: demos una oportunidad al tiradito</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Miel con jarabe de maíz, zamburiñas que son volandeiras o atún rojo teñido: ojo con estos engaños alimentarios",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20261014/mayores-enganos-fraudes-comida-135288009",
+    "pubDate": "2026-10-14 08:10:25",
+    "category": "",
+    "description": "<h2 class=\"item\">De la mano del divulgador Miguel Ángel Lurueña, del blog 'Gominolas de petróleo', repasamos fraudes y falsedades gastronómicas</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20261007/mejor-tortilla-espana-restaurante-teulada-elche-135011428\" target=\"_blank\">La tortilla de patatas sin cebolla de un restaurante de Elche, elegida como la mejor de España de 2026</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/20260715/fermentar-tecnica-ancestral-moda-132385089\" target=\"_blank\">Fermentar, la técnica ancestral de moda que rinde culto a lo exótico: \"Preferimos hacer 'kimchi' que aceitunas\"</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "La Policía investiga la muerte de un hombre tiroteado en un polígono industrial de Almería",
+    "link": "https://www.elperiodico.com/es/sucesos/20261014/policia-investiga-muerte-hombre-tiroteado-135310627",
+    "pubDate": "2026-10-14 08:08:24",
+    "category": "",
+    "description": "<h2>Según apuntan distintas fuentes, la víctima mortal sería un trabajador de la planta</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Estos son los mejores rincones del mercado del Ninot donde comer de fábula",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20261014/mejores-restaurantes-mercado-ninot-barcelona-135107769",
+    "pubDate": "2026-10-14 08:06:55",
+    "category": "",
+    "description": "<h2 class=\"item\">El espacio del Eixample cuenta en su interior con varios sitios donde el gozo gastronómico está más que asegurado</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20231030/mejores-restaurantes-mercados-barcelona-93142786\">Los mejores restaurantes para saborear los mercados de Barcelona</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20260310/mejores-restaurantes-mercado-boqueria-barcelona-83158027\">Buenos restaurantes de la Boqueria donde reponer fuerzas</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Цієї ночі було обмежено роботу Starlink у ЗСУ - Стерненко",
+    "link": "https://ua.korrespondent.net/ukraine/4919895-tsiiei-nochi-bulo-obmezheno-robotu-Starlink-u-zsu-sternenko",
+    "pubDate": "2026-10-14 07:57:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4595824.jpg\"> Під час руху зі швидкістю понад 160 км/год зв'язок почав зникати, через що зірвалися кілька важливих військових місій.",
+    "topic": "блогери",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "El tráfico y el transporte público, en directo",
+    "link": "https://www.elperiodico.com/es/trafico-y-transportes/20261014/trafico-transporte-publico-directo-cortes-134053870",
+    "pubDate": "2026-10-14 07:45:00",
+    "category": "",
+    "description": "",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Дрони атакували дата-центр Сбербанку - соцмережі",
     "link": "https://ua.korrespondent.net/world/russia/4919891-drony-atakuvaly-data-tsentr-sberbanku-sotsmerezhi",
     "pubDate": "2026-10-14 07:36:00",
