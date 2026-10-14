@@ -1,5 +1,176 @@
 [
   {
+    "title": "DIRECTO | Pedro Sánchez en Zaragoza",
+    "link": "https://www.elperiodico.com/es/videos/politica/directo-pedro-sanchez-zaragoza/135337621.shtml",
+    "pubDate": "2026-10-14 18:04:08",
+    "category": "",
+    "description": "",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los Mossos responsabilizan a un excargo de la Generalitat por tramitar licencias irregulares para la cementera de Montcada",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/mossos-responsabilizan-excargo-generalitat-tramitar/135337509.shtml",
+    "pubDate": "2026-10-14 18:03:52",
+    "category": "",
+    "description": "",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "США розробили ракету нового покоління для Patriot",
+    "link": "https://ua.korrespondent.net/world/4920130-ssha-rozrobyly-raketu-novoho-pokolinnia-dlia-Patriot",
+    "pubDate": "2026-10-14 18:03:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4596253.jpg\">Початок випробувань ракети PAC-3 Edge заплановано на 2027 рік, а початкове розгортання очікується 2031 року.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Premio Planeta, 75 años de un \"lanzamiento motorizado\" literario",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261014/premio-planeta-75-anos-lanzamiento-135335702",
+    "pubDate": "2026-10-14 18:00:31",
+    "category": "",
+    "description": "<h2>Existe un tercio de españoles que lee dos o tres libros al año y, para muchos de ellos, el Premio Planeta es una de las novelas que deben leer</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El director de 'No mires arriba' lanza una campaña con científicos y estrellas de Hollywood para alertar del auge de los extremos climáticoso",
+    "link": "https://www.elperiodico.com/es/sociedad/20261014/director-pelicula-no-mires-arriba-dont-look-up-iniciativa-cientificos-estrellas-hollyood-extremos-climaticos-el-nino-efectos-135318871",
+    "pubDate": "2026-10-14 18:00:20",
+    "category": "",
+    "description": "<h2 class=\"item\">En España, científicos como Fernando Valladares solicitan al Gobierno y a las comunidades autónomas activar protocolos de prevención frente a los inminentes riesgos meteorológicos impulsados por el cambio climático y El Niño</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260512/coctel-el-nino-cambio-climatico-efectos-advertencia-cientificos-130102786\">Los científicos advierten del \"peligroso cóctel\" que supondrá la llegada de El Niño en un mundo ya alterado por el cambio climático</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Banco de España cifra en 3.675 millones el ahorro fiscal de los hogares por la crisis energética, con mayor beneficio para quienes más gastan",
+    "link": "https://www.elperiodico.com/es/economia/20261014/banco-espana-cifra-3-675-ahorro-fiscal-hogares-crisis-energetica-135337357",
+    "pubDate": "2026-10-14 18:00:20",
+    "category": "",
+    "description": "<h2>Las familias de mayor gasto se benefician de un ahorro de 264 euros frente a los 105 de las de menor gasto, aunque el alivio es proporcionalmente superior para estas últimas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "EEUU amenaza a los barcos españoles con tasas de 200.000 dólares por no permitir el envío de armas a Israel",
+    "link": "https://www.elperiodico.com/es/internacional/20261014/trump-sanciona-barcos-espana-puertos-armas-israel-135337292",
+    "pubDate": "2026-10-14 18:00:05",
+    "category": "",
+    "description": "<h2>El Gobierno rechazó el uso de puertos como el de Algeciras para barcos estadounidenses que transportaban material a Israel en plena guerra en Gaza </h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Juno Kitchen, el restaurante que reivindica el talento gastronómico femenino",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20261014/juno-kitchen-restaurante-barcelona-mujeres-135333985",
+    "pubDate": "2026-10-14 17:59:40",
+    "category": "",
+    "description": "<h2 class=\"item\">El establecimiento de Juno House ofrece propuestas de chefs, cocineras, productoras y artesanas  y una agenda de actividades relacionadas con ellas</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/20260306/dia-mujer-gastronomia-mujeres-barcelona-restaurantes-127454403\">Estas son las mujeres que marcan el ritmo de la gastronomía en Barcelona</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/vinos/20250430/mujeres-vino-mas-importantes-catalunya-116693809\">7 mujeres del mundo del vino que están cambiando el panorama</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Puigdemont reclama al Supremo aplicar la amnistía \"sin dilaciones a quien presidió la Generalitat\" para lograr la \"normalización institucional\"",
+    "link": "https://www.elperiodico.com/es/politica/20261014/puigdemont-reclama-supremo-aplicar-amnistia-135337234",
+    "pubDate": "2026-10-14 17:59:00",
+    "category": "",
+    "description": "<h2>El expresidente catalán pide al juez Llarena que le aplique la medida de gracia el mismo día que se cumplen siete años de la sentencia del 'procés'</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Pedro Sánchez lidera en Zaragoza el primer mitin del PSOE en Aragón para las elecciones del 29N con centenares de personas esperando",
+    "link": "https://www.elperiodico.com/es/politica/20261014/pedro-sanchez-lidera-zaragoza-primer-135337168",
+    "pubDate": "2026-10-14 17:58:36",
+    "category": "",
+    "description": "<h2>El secretario general de los socialistas y presidente del Gobierno estará acompañado por Pilar Alegría y Teresa Ladrero en un encuentro con la militancia en el hotel Hiberus de la capital aragonesa</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Pedraz rechaza diligencias solicitadas por la jueza de Badajoz hasta que pueda vincular su hostigamiento a la trama Leire",
+    "link": "https://www.elperiodico.com/es/politica/20261014/pedraz-rechaza-diligencias-solicitadas-jueza-relacion-trama-leire-135337150",
+    "pubDate": "2026-10-14 17:58:17",
+    "category": "",
+    "description": "<h2>Distingue entre los manejos del exjuez Luis Sáenz de Tejada y la actividad del grupo presuntamente dirigido por Santos Cerdán para frustrar investigaciones contra el entorno de Sánchez</h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Netflix despide a 1.000 empleados en su mayor recorte de plantilla desde 2022",
+    "link": "https://www.elperiodico.com/es/tele/20261014/netflix-despide-1-000-empleados-135336349",
+    "pubDate": "2026-10-14 17:53:10",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "China aprueba \"sin condiciones\" que Geely se haga con el 34 % de Ford en Almussafes",
+    "link": "https://www.elperiodico.com/es/motor/20261014/china-aprueba-condiciones-geely-haga-con-porcentaje-ford-135336228",
+    "pubDate": "2026-10-14 17:50:42",
+    "category": "",
+    "description": "<h2>La Administración Estatal para la Regulación del Mercado de China autoriza la entrada del fabricante asiático en la planta valenciana, donde ambas compañías compartirán el control operativo desde 2027</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Зеленський розповів про зустріч з королем Британії",
+    "link": "https://ua.korrespondent.net/ukraine/4920127-zelenskyi-rozpoviv-pro-zustrich-z-korolem-brytanii",
+    "pubDate": "2026-10-14 17:50:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4596254.jpg\">Глава держави подякував монарху за непохитну підтримку України та допомогу Сполученого Королівства.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Mango hace a la directora del negocio 'online' la nueva responsable de RRHH",
+    "link": "https://www.elperiodico.com/es/economia/20261014/mango-directora-negocio-online-nueva-responsable-personal-rrhh-135335534",
+    "pubDate": "2026-10-14 17:46:49",
+    "category": "",
+    "description": "<h2>La compañía fundada por Isak Andic resuelve así la salida de David Payeras \"para emprender nuevos proyectos profesionales\" y busca, mientrastanto, quien coja las riendas del comercio electrónico</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260924/mango-selecciona-exdirectiva-h-m-nueva-directora-retail-134645993\" target=\"_blank\">Mango elige a una exdirectiva de H&M como nueva responsable de Retail de la cadena</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Qué opciones tiene el Madrid sin Gabriel Deck?",
+    "link": "https://as.com/baloncesto/euroliga/que-opciones-tiene-el-madrid-sin-gabriel-deck-f202610-n/",
+    "pubDate": "2026-10-14 17:44:21",
+    "category": "Baloncesto",
+    "description": "El alero argentino (31 años y 1,98 m) pasará por el quirófano por una lesión en el hombro izquierdo. Se desconoce el tiempo de baja, pero no será corto.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "The Tyets y Miki Núñez se unen para rendir homenaje a una conocida presentadora de informativos de TV3: \"Dedicada a la voz que nos ha visto crecer\"",
+    "link": "https://www.elperiodico.com/es/gente/20261014/the-tyets-miki-nunez-cancion-homenaje-raquel-sans-la-travessa-dv-et-135289967",
+    "pubDate": "2026-10-14 17:42:46",
+    "category": "",
+    "description": "<h2>Los tres artistas catalanes prevén lanzar la composición este viernes</h2><h2><a href=\"https://www.elperiodico.com/es/tele/20260928/laura-escanes-travessa-vip-tramuntana-3cat-134680562\" >Laura Escanes pone al límite a los famosos en 'La travessa VIP: expedició Tramuntana': \"Han sufrido mucho\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/tele/20250128/miki-nunez-anorexia-bulimia-tv3-trastorno-113778579\" >Miki Núñez aborda su trastorno alimentario: \"Cada vez que me veía sentía asco\"</a></h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Росії заявили про \"атаки\" на два НПЗ",
+    "link": "https://ua.korrespondent.net/world/russia/4920125-u-rosii-zaiavyly-pro-ataky-na-dva-npz",
+    "pubDate": "2026-10-14 17:40:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4596249.jpg\">Радник президента України з комунікацій Дмитро Литвин запевнив, що цієї ночі Сили оборони не били по російських НПЗ.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los consulados preparan ya \"un Excel\" con los nacionalizados por la 'ley de nietos' certificados como exiliados",
+    "link": "https://www.elperiodico.com/es/internacional/20261014/consules-excell-certificaciones-ley-nietos-supremo-135335910",
+    "pubDate": "2026-10-14 17:36:22",
+    "category": "",
+    "description": "<h2 class=\"item\">El Ministerio de Exteriores asegura a EL PERIÓDICO que va a \"aplicar con diligencia\" con la orden del Supremo de elaborar un listado de los que sí han acreditado ser descendientes de exiliados</h2><h2 class=\"item\">Fuentes diplomáticas aseguran que han recibido instrucciones del Ministerio y que pronto estará el sistema informático para volcar los listados de quiénes sí han acreditado ser descendientes de exiliados</h2>",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
     "title": "Гороскоп на 15 жовтня 2026 року для всіх знаків зодіаку",
     "link": "https://ua.korrespondent.net/lifestyle/4920062-horoskop-na-15-zhovtnia-2026-roku-dlia-vsikh-znakiv-zodiaku",
     "pubDate": "2026-10-14 17:25:00",
@@ -34,6 +205,15 @@
     "description": "<h2 class=\"item\">Los ministros Félix Bolaños y Fernando Grande-Marlaska arroparán también a Pedro Sánchez en la candidatura de la capital</h2><h2 class=\"item\">Varios altos cargos de Moncloa saltan a los primeros puestos como la directora general de Asuntos Culturales o una asesora de Presidencia</h2>",
     "topic": "вибори (але не президента України чи США)",
     "topic_match_probability": 100
+  },
+  {
+    "title": "La ministra Margarita Robles volverá a ser la número dos de Pedro Sánchez en la lista del PSOE por Madrid",
+    "link": "https://www.elperiodico.com/es/politica/20261014/margarita-robles-numero-dos-psoe-madrid-pedro-sanchez-135335175",
+    "pubDate": "2026-10-14 17:20:06",
+    "category": "",
+    "description": "<h2 class=\"item\">Los titulares de Presidencia e Interior, Félix Bolaños y Fernando Grande-Marlaska, arroparán también a Pedro Sánchez en la candidatura de la capital</h2><h2 class=\"item\">Dos altos cargos de Moncloa entrarán en el Congreso como diputadas, Manuela Villa y Lorena Arafat</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 95
   },
   {
     "title": "Abascal afirma que Pedro Sánchez “odia sin límites a los españoles”",
@@ -437,6 +617,15 @@
     "pubDate": "2026-10-14 15:52:16",
     "category": "",
     "description": "<h2>Parlon ha concretado que los Mossos d'Esquadra asumen las zonas urbanas mediante drones térmicos para detectar vida, mientras que los Bomberos centran su rastreo en los espacios boscosos e interurbanos.</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20261012/nino-desaparecido-granollers-lluvias-perdido-cuatro-veces-antes-gustan-trenes-puentes-135250056\">El niño desaparecido en Granollers durante las lluvias se había perdido cuatro veces antes: \"Le gustan los trenes y los puentes\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Іран продає нафту Росії зі знижками до 42% - ЗМІ",
+    "link": "https://ua.korrespondent.net/business/economics/4920083-iran-prodaie-naftu-rosii-zi-znyzhkamy-do-42-zmi",
+    "pubDate": "2026-10-14 15:52:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4596177.jpg\">Іранську сировину транспортують через Каспій до Росії, змішують з місцевою нафтою, а потім спрямовують до потоку суміші CPC Blend, яку експортують до Європи за казахстанськими документами.",
     "topic": "",
     "topic_match_probability": 0
   },
