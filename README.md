@@ -1,8 +1,9 @@
-# News for 2026-10-15 16:19
+# News for 2026-10-15 16:55
 
 Previous day: [2026-10-14](./data/2026-10-14.md)
 
 ## ua.korrespondent.net
+16:28 [Сильвестр Сталлоне переніс дев’ять операцій на спині](https://ua.korrespondent.net/lifestyle/4920445-sylvestr-stallone-perenis-deviat-operatsii-na-spyni)<br>
 16:12 [На Херсонщині через артобстріл РФ поранені п’ятеро людей](https://ua.korrespondent.net/ukraine/4920457-na-khersonschyni-cherez-artobstril-rf-poraneni-piatero-luidei)<br>
 16:08 [У Чехії підірвали найвищу споруду](https://ua.korrespondent.net/world/4920455-u-chekhii-pidirvaly-naivyschu-sporudu)<br>
 15:25 [ПлейСіті оштрафувало власника двох онлайн-казино на 4,7 млн грн](https://ua.korrespondent.net/business/4920439-pleisiti-oshtrafuvalo-vlasnyka-dvokh-onlain-kazyno-na-47-mln-hrn)<br>
@@ -49,6 +50,10 @@ Previous day: [2026-10-14](./data/2026-10-14.md)
 06:18 [El verano de pesadilla del Lyon](https://as.com/baloncesto/euroliga/el-verano-de-pesadilla-del-lyon-f202610-n/)<br>
 
 ## www.elperiodico.com
+16:53 [Canarias estrena cuatro telescopios gigantes, únicos en el mundo, para investigar el cosmos invisible](https://www.elperiodico.com/es/sociedad/20261015/telescopios-gigantes-cherenkov-canarias-unicos-en-el-mundo-estudio-cosmos-invisible-universo-energetico-135377114)<br>
+16:30 [Oswaldo Restrepo, médico experto en seguridad y salud en el trabajo: "Si notas que durante el día te cuesta trabajo hablar, eso no es un problema de almohada"](https://www.elperiodico.com/es/salud/20261015/baba-dormir-problemas-respiracion-digestion-medico-oswaldo-restrepo-dv-et-132280209)<br>
+16:26 [El Besòs concentra casi la mitad de la población expuesta a inundaciones extremas en Barcelona](https://www.elperiodico.com/es/barcelona/20261015/besos-barrios-riesgo-inundaciones-barcelona-135369437)<br>
+16:25 [Granollers despide entre el dolor y el silencio a Rami, el niño de 12 años desaparecido durante el temporal](https://www.elperiodico.com/es/videos/sociedad/granollers-despide-dolor-silencio-rami/135376894.shtml)<br>
 16:17 [Día de Todos los Santos: el festivo cae en domingo y hasta 9 comunidades tendrán un puente de 3 días](https://www.elperiodico.com/es/economia/20261015/dia-de-todos-los-santos-boe-lunes-festivo-dv-135355620)<br>
 16:06 [Las grandes ciudades se están hundiendo: los satélites detectan que algunas zonas de Ciudad de México se hunden 21,7 centímetros al año](https://www.elperiodico.com/es/tendencias21/20261015/grandes-ciudades-hundiendo-satelites-detectan-135376223)<br>
 16:05 [Queda atrapado dentro de un contenedor mientras busca chatarra en Salt y tiene que llamar al 112](https://www.elperiodico.com/es/sociedad/20261015/queda-atrapado-contenedor-busca-chatarra-135376171)<br>
