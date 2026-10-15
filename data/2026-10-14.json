@@ -1,5 +1,14 @@
 [
   {
+    "title": "Росіяни поцілили по житловому будинку в Одесі",
+    "link": "https://ua.korrespondent.net/city/odessa/4920210-rosiiany-potsilyly-po-zhytlovomu-budynku-v-odesi",
+    "pubDate": "2026-10-14 23:59:00",
+    "category": "Одеса",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4596552.jpg\">Російські військові завдали удару по багатоповерховому житловому будинку в Одесі, повідомили в Одеській ОВА.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "El alcalde que habló con Mazón en plena dana: \"Daba por hecho que estaba encima de la emergencia\"",
     "link": "https://www.elperiodico.com/es/politica/20261014/alcalde-hablo-mazon-plena-dana-135348505",
     "pubDate": "2026-10-14 23:49:37",
@@ -7,6 +16,15 @@
     "description": "<h2>Los primeros ediles de Cullera y Benimodo declaran que suspendieron las clases el día anterior sin avisos de Emergencias</h2>",
     "topic": "політика",
     "topic_match_probability": 90
+  },
+  {
+    "title": "Калініна і Марченко можуть потрапити до збірної Кубка Біллі Джин Кінг",
+    "link": "https://ua.korrespondent.net/sport/tenis/4920207-kalinina-i-marchenko-mozhut-potrapyty-do-zbirnoi-kubka-billi-dzhyn-kinh",
+    "pubDate": "2026-10-14 23:43:00",
+    "category": "Новини тенісу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4596448.jpg\">Українські тенісисти визначені як кандидати до символічної збірної Кубка Біллі Джин Кінг.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 98
   },
   {
     "title": "В РФ прогриміли вибухи, палає аеродром - соцмережі",
