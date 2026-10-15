@@ -1,4 +1,4 @@
-# News for 2026-10-15 07:20
+# News for 2026-10-15 08:27
 
 Previous day: [2026-10-14](./data/2026-10-14.md)
 
@@ -14,6 +14,8 @@ Previous day: [2026-10-14](./data/2026-10-14.md)
 06:18 [El verano de pesadilla del Lyon](https://as.com/baloncesto/euroliga/el-verano-de-pesadilla-del-lyon-f202610-n/)<br>
 
 ## www.elperiodico.com
+08:10 [Lucía Martínez, enfermera con discapacidad, denuncia el uso indebido de las plazas de aparcamiento reservadas: "Necesito el espacio de dos plazas ordinarias para poder bajar con seguridad y autonomía"](https://www.elperiodico.com/es/sociedad/20261015/lucia-martinez-enfermeria-silla-ruedas-plazas-aparcamiento-reservadas-discapacidad-dv-et-135333096)<br>
+07:46 [¿Cuándo hay Luna llena? Fecha y hora de la Luna del cazador](https://www.elperiodico.com/es/ciencia/20261015/cuando-luna-llena-octubre-2026-fecha-hora-ver-dv-135240793)<br>
 07:16 [Haruki Murakami, el pertinaz desconsuelo](https://www.elperiodico.com/es/opinion/20261015/haruki-murakami-pertinaz-desconsuelo-135350437)<br>
 07:13 [Arantxa (34 años) lo dejó todo para vivir con su familia entre montañas: "Pensaba en el futuro y decía: 'Yo no quiero que mis hijos crezcan en un sitio donde hay miedo'"](https://www.elperiodico.com/es/economia/20261015/familia-vida-montanas-asturias-libertad-hijos-vida-rural-arantxa-dv-et-135167729)<br>
 07:00 [Aquí están las 119 sirenas de riesgo químico que se activarán en Catalunya el próximo 19 de octubre](https://www.elperiodico.com/es/tarragona/20261015/mapa-sirenas-riesgo-quimico-simulacro-catalunya-barcelona-tarragona-135293336)<br>
@@ -23,6 +25,7 @@ Previous day: [2026-10-14](./data/2026-10-14.md)
 06:01 [La consagración de Miguel Bernardeau: del fenómeno adolescente 'Élite' al reconocimiento de la crítica por 'La bola negra'](https://www.elperiodico.com/es/ocio-y-cultura/20261015/consagracion-miguel-bernardeau-fenomeno-adolescente-134895211)<br>
 06:01 [Los marroquíes desbancan a los británicos y son ya la nacionalidad que más viviendas compran en España](https://www.elperiodico.com/es/economia/20261015/marroquies-desbancan-britanicos-son-nacionalidad-135343309)<br>
 06:01 [La compra de casas por parte de extranjeros registra su mayor desplome desde la pandemia](https://www.elperiodico.com/es/economia/20261015/compra-casas-parte-extranjeros-registra-135343046)<br>
+06:01 [La compra de casas por parte de extranjeros registra su mayor desplome desde la pandemia](https://www.elperiodico.com/es/economia/20261015/compra-casas-extranjeros-primer-semestre-2026-135343046)<br>
 06:01 [Los trastornos mentales graves acortan la esperanza de vida entre 15 y 20 años, según una investigación](https://www.elperiodico.com/es/ser-feliz/20261015/trastornos-mentales-graves-acortan-esperanza-134509041)<br>
 06:01 [Nueve empresas europeas de armamento que suministran a Ucrania han sufrido atentados atribuidos a Rusia](https://www.elperiodico.com/es/internacional/20261015/nueve-empresas-europeas-armamento-suministran-ucrania-sufren-sabotajes-incendios-135340883)<br>
 06:00 [España encabeza el desapego universitario en Europa: el 31% de estudiantes sienten que "no encajan"](https://www.elperiodico.com/es/sociedad/20261015/espana-encabeza-desapego-estudiantes-universidad-134876137)<br>
