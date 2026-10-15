@@ -1,5 +1,104 @@
 [
   {
+    "title": "Haruki Murakami, el pertinaz desconsuelo",
+    "link": "https://www.elperiodico.com/es/opinion/20261015/haruki-murakami-pertinaz-desconsuelo-135350437",
+    "pubDate": "2026-10-15 07:16:53",
+    "category": "",
+    "description": "<h2>El prestigio del Nobel se va achicando por cada edición en la que el escritor japonés no es premiado</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Arantxa (34 años) lo dejó todo para vivir con su familia entre montañas: \"Pensaba en el futuro y decía: 'Yo no quiero que mis hijos crezcan en un sitio donde hay miedo'\"",
+    "link": "https://www.elperiodico.com/es/economia/20261015/familia-vida-montanas-asturias-libertad-hijos-vida-rural-arantxa-dv-et-135167729",
+    "pubDate": "2026-10-15 07:13:07",
+    "category": "",
+    "description": "<h2>La mujer, manda un mensaje a los que no se atreven a dar un cambio de 180 grados: \"Los límites nos los ponemos nosotros mismos\" </h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260914/hermano-urbanita-visita-aldea-montana-asturias-100-euros-alquiler-ibon-berasategui-dv-et-133844119\" >Ibon Berasategui (32 años) muestra a su hermano urbanita la vida en la montaña por un alquiler de 100 euros al mes: \"Es cierto que le gusta un poco el mundo rural, pero no tanto como a mí\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260904/dejo-todo-vivir-autocaravana-ahorro-agua-luz-alquiler-gastos-jesus-dv-et-133548109\" >Jesús lo dejó todo para vivir en una autocaravana: \"La idea es buscar poblaciones o lugares donde tus gastos se minimicen y puedas ahorrar lo máximo posible. Gastas en comida, un poco de gasoil y poco más\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La meca del cine friki de L’Hospitalet instalará consolas con ‘Street Fighter’ que usan el cuerpo como controlador",
+    "link": "https://www.elperiodico.com/es/que-hacer/planes/20261015/street-fighter-consolas-estreno-hospitalet-barcelona-cine-friki-135334645",
+    "pubDate": "2026-10-15 07:01:13",
+    "category": "",
+    "description": "<h2>Invasión de dobles de acción de Jackie Chan en los Filmax de L’Hospitalet. Este fin de semana, para celebrar el estreno de la película del videojuego de lucha, se podrá probar (gratis) una versión inmersiva del videojuego</h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20261014/modernismo-gratis-terrassa-desconocida-joya-oculta-parque-publico-106721019\" target=\"_blank\">Modernismo gratis: la desconocida joya oculta en un parque público de Terrassa</a></h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Canales, canales, canales…",
+    "link": "https://www.elperiodico.com/es/tele/20261015/canales-canales-canales-135334340",
+    "pubDate": "2026-10-15 07:01:03",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "TVyMAS Jueves 15 de octubre",
+    "link": "https://www.elperiodico.com/es/videos/tele/tvymas-jueves-15-octubre/135334931.shtml",
+    "pubDate": "2026-10-15 07:01:03",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Esta es la presión que deberías llevar en las ruedas de tu coche",
+    "link": "https://www.elperiodico.com/es/motor/20261015/que-presion-deberias-llevar-ruedas-coche-135331388",
+    "pubDate": "2026-10-15 07:00:59",
+    "category": "",
+    "description": "<h2>La mayoría de los conductores desconocen cuánto aire deben echar y cuándo hacerlo</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Aquí están las 119 sirenas de riesgo químico que se activarán en Catalunya el próximo 19 de octubre",
+    "link": "https://www.elperiodico.com/es/tarragona/20261015/mapa-sirenas-riesgo-quimico-simulacro-catalunya-barcelona-tarragona-135293336",
+    "pubDate": "2026-10-15 07:00:58",
+    "category": "",
+    "description": "<h2 class=\"item\">Cerca de 930.000 personas de 47 municipios catalanes están llamadas a confinarse al oir las sirenas a partir de las 10:00 horas del próximo lunes</h2><h2 class=\"item\">PRUEBA | <a href=\"https://www.elperiodico.com/es/tarragona/20261008/proteccio-civil-probara-sirenas-riesgo-quimico-catalunya-135139039\">Protecció Civil activará simultáneamente las 119 sirenas de riesgo químico de Catalunya el 19 de octubre</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "ESPN назвав десятку найкращих боксерів надважкої ваги",
+    "link": "https://ua.korrespondent.net/sport/boks/4920257-ESPN-nazvav-desiatku-naikraschykh-bokseriv-nadvazhkoi-vahy",
+    "pubDate": "2026-10-15 06:59:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4596871.jpg\">Першу сходинку знову посів український чемпіон Олександр Усик, випередивши своїх суперників.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Трамп знайшов \"причину\" початку війни в Україні",
+    "link": "https://ua.korrespondent.net/world/4920255-tramp-znaishov-prychynu-pochatku-viiny-v-ukraini",
+    "pubDate": "2026-10-15 06:53:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4596872.jpg\">Американський президент також пояснив, чому не називає російського правителя диктатором.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Монфіс змінив плани та достроково завершив кар'єру",
+    "link": "https://ua.korrespondent.net/sport/tenis/4920253-monfis-zminyv-plany-ta-dostrokovo-zavershyv-karieru",
+    "pubDate": "2026-10-15 06:44:00",
+    "category": "Новини тенісу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4596870.jpg\">40-річний французький тенісист знявся з прощального турніру, а його ім'я вже з'явилося в офіційному списку гравців, які завершили кар'єру.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Росіяни атакували Дніпропетровщину: є загиблі",
+    "link": "https://ua.korrespondent.net/ukraine/4920251-rosiiany-atakuvaly-dnipropetrovschynu-ye-zahybli",
+    "pubDate": "2026-10-15 06:35:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4596855.jpg\">У  Новоолександрівській  громаді внаслідок атаки зруйнований  приватний  будинок. Загинули  двоє  людей.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Реал шокував Рому камбеком, ПСЖ переміг Манчестер Сіті",
     "link": "https://ua.korrespondent.net/sport/football/4920214-real-shokuvav-romu-kambekom-pszh-peremih-manchester-siti",
     "pubDate": "2026-10-15 06:23:00",
