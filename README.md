@@ -1,8 +1,15 @@
-# News for 2026-10-15 12:03
+# News for 2026-10-15 13:58
 
 Previous day: [2026-10-14](./data/2026-10-14.md)
 
 ## ua.korrespondent.net
+13:37 [Повені в Стамбулі: двоє загиблих, тисячі евакуйованих](https://ua.korrespondent.net/world/4920397-poveni-v-stambuli-dvoie-zahyblykh-tysiachi-evakuiovanykh)<br>
+13:23 [На Закарпатті зафіксували землетрус](https://ua.korrespondent.net/ukraine/4920392-na-zakarpatti-zafiksuvaly-zemletrus)<br>
+13:20 [У Києві прощалися з Олександром Венедчуком](https://ua.korrespondent.net/lifestyle/4920328-u-kyievi-proschalysia-z-oleksandrom-venedchukom)<br>
+12:59 [Україна виконала половину плану агроекспорту з початку жовтня](https://ua.korrespondent.net/business/economics/4920383-ukraina-vykonala-polovynu-planu-ahroeksportu-z-pochatku-zhovtnia)<br>
+12:43 [В Україні викрили сім каналів продажу зброї](https://ua.korrespondent.net/ukraine/4920374-v-ukraini-vykryly-sim-kanaliv-prodazhu-zbroi)<br>
+12:33 [Біля Румунії загорівся танкер: зникли вісьмеро моряків](https://ua.korrespondent.net/world/4920370-bilia-rumunii-zahorivsia-tanker-znykly-vismero-moriakiv)<br>
+12:05 [У водах Румунії дрон вдарив по танкеру YARA J](https://ua.korrespondent.net/world/4920359-u-vodakh-rumunii-dron-vdaryv-po-tankeru-YARA-J)<br>
 11:59 [Підлітки соромляться батьків: психолог пояснив причини](https://ua.korrespondent.net/tech/medicine/4920016-pidlitky-soromliatsia-batkiv-psykholoh-poiasnyv-prychyny)<br>
 11:29 [Гривня відновила зростання в обмінниках](https://ua.korrespondent.net/business/financial/4920348-hryvnia-vidnovyla-zrostannia-v-obminnykakh)<br>
 11:26 [Біля Верховної Ради знайшли підозрілий предмет - ЗМІ](https://ua.korrespondent.net/city/kiev/4920346-bilia-verkhovnoi-rady-znaishly-pidozrilyi-predmet-zmi)<br>
@@ -37,6 +44,17 @@ Previous day: [2026-10-14](./data/2026-10-14.md)
 06:18 [El verano de pesadilla del Lyon](https://as.com/baloncesto/euroliga/el-verano-de-pesadilla-del-lyon-f202610-n/)<br>
 
 ## www.elperiodico.com
+13:56 ['Frugales' contra 'amigos de la cohesión': la UE busca un acuerdo para su presupuesto antes de finales de año](https://www.elperiodico.com/es/internacional/20261015/frugales-amigos-cohesion-ue-busca-acuerdo-presupuesto-135370607)<br>
+13:53 [Desarticulada una red que utilizaba drones para repartir droga en Galicia: diez detenidos y siete en prisión](https://www.elperiodico.com/es/sucesos/20261015/desarticulada-red-utilizaba-drones-repartir-135370386)<br>
+13:52 [Los pisos nuevos de dos dormitorios ya valen en València 450.000 euros y los de tres, 600.000](https://www.elperiodico.com/es/sociedad/20261015/pisos-nuevos-dormitorios-valen-valencia-vivienda-valencia-135353187)<br>
+13:50 [Desarticulada una red que utilizaba drones para repartir droga en Galicia: diez detenidos y siete en prisión](https://www.elperiodico.com/es/videos/sucesos/desarticulada-red-utilizaba-drones-repartir-droga-galicia/135370212.shtml)<br>
+13:42 [Al menos 33 niños muertos en Pakistán por el derrumbe del techo de una escuela](https://www.elperiodico.com/es/internacional/20261015/ninos-muertos-pakistan-derrumbe-techo-escuela-negligencia-135369787)<br>
+13:38 [Casi la mitad de los españoles recibió bofetadas o golpes como castigo durante su infancia, según el CIS](https://www.elperiodico.com/es/sociedad/20261015/maltrato-infantil-golpes-infancia-ninos-pantallas-135362371)<br>
+13:26 [Nerea Riveiro, pedagoga: "La atención de un niño no depende solo de cuánto le interesa algo: también intervienen las demandas que requiera la tarea y las habilidades de autorregulación"](https://www.elperiodico.com/es/educacion/20261015/nerea-riveiro-pedagoga-tdah-atencion-ninos-dv-et-135366620)<br>
+13:14 [Valentín Naranjo, experto en humedades y calidad del aire: "No tiendas tu ropa en el dormitorio, la humedad se queda en las paredes y en el colchón"](https://www.elperiodico.com/es/vida-y-estilo/20261015/valentin-naranjo-experto-humedades-calidad-aire-tender-ropa-humedad-colchon-y-paredes-dv-et-135366924)<br>
+13:06 [El porcentaje de adolescentes que se sienten solos se duplica: "Tenemos que estar muy atentos porque no son solo cosas de la edad"](https://www.elperiodico.com/es/sociedad/20261015/porcentaje-adolescentes-dicen-sentirse-solos-duplica-atentos-cosas-edad-salud-mental-135357857)<br>
+12:35 [Un fármaco para un cáncer raro o una vacuna de ADN contra una 'superbacteria': estas son algunas de las investigaciones que financiará La Caixa](https://www.elperiodico.com/es/sanidad/20261015/farmaco-cancer-raro-vacuna-adn-superbacteria-la-caixa-financia-investigaciones-2026-135359938)<br>
+12:35 [Una de cada cinco personas mayores de 60 años tienen algún problema neurológico o de salud mental](https://www.elperiodico.com/es/sociedad/20261015/cinco-personas-mayores-60-anos-problema-salud-mental-ancianos-135355985)<br>
 12:01 [Barcelona liderará una investigación pionera para entender por qué algunas gripes derivan en neumonías](https://www.elperiodico.com/es/sociedad/20261015/barcelona-investigacion-gripe-neumonia-crg-caixaresearch-135359852)<br>
 11:59 [Por qué 'Bully' puso en apuros a Rockstar y cómo una broma infantil ayudó a darle forma](https://www.elperiodico.com/es/videojuegos/20261015/bully-puso-apuros-rockstar-broma-infantil-forma-135356160)<br>
 11:58 [El virus del papiloma humano gana terreno al tabaco y al alcohol en un tipo de cáncer de cabeza y cuello](https://www.elperiodico.com/es/sanidad/20261015/virus-papiloma-humano-gana-terreno-tabaco-alcohol-cancer-cabeza-cuello-135360823)<br>
@@ -58,6 +76,7 @@ Previous day: [2026-10-14](./data/2026-10-14.md)
 10:36 [Carlota Juncosa, escritora e ilustradora: «El grafiti cuestiona qué es lo que ocupa el espacio público»](https://www.elperiodico.com/es/ocio-y-cultura/20261015/carlota-juncosa-escritora-ilustradora-grafiti-135358136)<br>
 10:20 [Hillary Swank, embarazada de su tercer hijo a los 52 años](https://www.elperiodico.com/es/gente/20261015/hillary-swank-embarazada-tercer-hijo-135357803)<br>
 09:18 [Tana Rivera y Andrés Roca Rey rompen](https://www.elperiodico.com/es/gente/20261015/tana-rivera-andres-roca-rey-135354543)<br>
+09:10 [Ricardo Salinas Pliego, empresario multimillonario, sobre el sueldo fijo: "No sirve para nada, la gente tiene que sentir que si se esfuerza gana más"](https://www.elperiodico.com/es/economia/20261015/ricardo-salinas-pliego-empresario-multimillonario-sueldo-fijo-dv-et-135321913)<br>
 09:00 [El cardiólogo José Abellán advierte sobre el síntoma clave del infarto: "Una sensación como una losa en el pecho..."](https://www.elperiodico.com/es/salud/20261015/infarto-sintomas-corazon-cardiologo-jose-abellan-dv-et-135015336)<br>
 08:45 [Hallado en Sitges el cuerpo de Rami, el niño desaparecido en Granollers durante las lluvias](https://www.elperiodico.com/es/barcelona/20261015/rami-nino-desaparecido-granollers-cuerpo-sitges-135352946)<br>
 08:10 [Lucía Martínez, enfermera con discapacidad, denuncia el uso indebido de las plazas de aparcamiento reservadas: "Necesito el espacio de dos plazas ordinarias para poder bajar con seguridad y autonomía"](https://www.elperiodico.com/es/sociedad/20261015/lucia-martinez-enfermeria-silla-ruedas-plazas-aparcamiento-reservadas-discapacidad-dv-et-135333096)<br>
