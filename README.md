@@ -1,4 +1,4 @@
-# News for 2026-10-15 20:25
+# News for 2026-10-15 21:57
 
 Previous day: [2026-10-14](./data/2026-10-14.md)
 
@@ -50,6 +50,7 @@ Previous day: [2026-10-14](./data/2026-10-14.md)
 03:33 [Starlink для ЗСУ оплачує Німеччина - ЗМІ](https://ua.korrespondent.net/world/worldabus/4920238-Starlink-dlia-zsu-oplachuie-nimechchyna-zmi)<br>
 
 ## as.com
+21:10 [Sigue en directo la VI edición del Hall of Fame](https://as.com/videos/baloncesto/sigue-en-directo-la-vi-edicion-del-hall-of-fame-f202610-v/)<br>
 20:07 [Real Madrid - Asvel, en directo: Euroliga 2026-27 en vivo hoy](https://as.com/baloncesto/euroliga/real-madrid-asvel-en-directo-euroliga-2026-27-en-vivo-hoy-f202610-d/)<br>
 10:02 [Dabone no puede jugar con el Barcelona](https://as.com/baloncesto/acb/dabone-no-puede-jugar-con-el-barcelona-f202610-n/)<br>
 08:30 [Una gran noche de leyendas](https://as.com/baloncesto/mas_baloncesto/una-gran-noche-de-leyendas-f202610-n/)<br>
@@ -58,6 +59,11 @@ Previous day: [2026-10-14](./data/2026-10-14.md)
 06:18 [El verano de pesadilla del Lyon](https://as.com/baloncesto/euroliga/el-verano-de-pesadilla-del-lyon-f202610-n/)<br>
 
 ## www.elperiodico.com
+21:50 [El secreto de la longevidad se investiga en España: ¿es posible vivir 119 años?](https://www.elperiodico.com/es/sociedad/20261015/secreto-longevidad-investiga-espana-posible-135389425)<br>
+21:35 ["Los padres llevan a sus hijos a su primera vez de putas": Kamila Ferreira, escritora y superviviente de explotación sexual](https://www.elperiodico.com/es/ocio-y-cultura/20261015/kamila-ferreira-libro-prostitucion-135388880)<br>
+21:08 [Un año de la OPA fracasada del BBVA al Sabadell](https://www.elperiodico.com/es/videos/economia/ano-opa-fracasada-bbva-sabadell-video/135388103.shtml)<br>
+20:45 [Siga la ceremonia de la 75 edición del Premio Planeta, en directo](https://www.elperiodico.com/es/ocio-y-cultura/20261015/siga-ceremonia-edicion-premio-planeta-135387375)<br>
+20:32 [La sala Meteoro de Poble-sec cerrará sus puertas definitivamente el próximo mes de febrero](https://www.elperiodico.com/es/ocio-y-cultura/20261015/sala-meteoro-poble-sec-cerrara-135386554)<br>
 20:19 [Harry y Meghan despliegan magnetismo 'royal' en su primera aparición oficial en Reino Unido](https://www.elperiodico.com/es/ocio-y-cultura/20261015/harry-meghan-despliegan-magnetismo-royal-primera-aparicion-reino-unido-135386217)<br>
 20:15 [Alfonso Muñoz, experto en pensiones, avisa: "Con 15 años cotizados únicamente se tiene derecho al 50%..."](https://www.elperiodico.com/es/economia/20261015/jubilacion-pension-anos-cotizados-seguridad-social-dv-et-132205764)<br>
 20:00 [El proyecto Zuidpark de Amberes gana el Premio Europeo del Espacio Público Urbano](https://www.elperiodico.com/es/ocio-y-cultura/20261015/proyecto-zuidpark-amberes-gana-premio-135374662)<br>
