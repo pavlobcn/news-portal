@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Росія масовано атакувала Кропивницький: троє загиблих",
+    "link": "https://ua.korrespondent.net/ukraine/4920219-rosiia-masovano-atakuvala-kropyvnytskyi-troie-zahyblykh",
+    "pubDate": "2026-10-15 00:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4596585.jpg\">Логістика, транспортні та промислові підприємства Кіровоградщини та обласного центру перебували під ударами росіян.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Розвідка США погрожувала посольству України - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/worldabus/4920217-rozvidka-ssha-pohrozhuvala-posolstvu-ukrainy-zmi",
+    "pubDate": "2026-10-15 00:46:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4596584.jpg\">Нові удари по НПЗ Росії означатимуть повну зупинку обміну розвідданими, заявили американці українським дипломатам.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Vinicius se hace la víctima tras su sanción y Mourinho explota: \"Se hacen cosas sin vergüenza ya, los madridistas no son estúpidos\"",
+    "link": "https://www.elperiodico.com/es/deportes/20261015/vinicius-victima-sancion-mourinho-explota-135348959",
+    "pubDate": "2026-10-15 00:24:11",
+    "category": "",
+    "description": "<h2>El brasileño da la cara tras su castigo de cuatro partidos y un nuevo partido muy por debajo de su nivel: \"Es muy fácil sacarme la roja a mí\"</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Muere una anciana de 82 años al desplomarse el ascensor de una residencia de mayores en Vélez-Málaga",
+    "link": "https://www.elperiodico.com/es/sucesos/20261015/muere-anciana-82-anos-desplomarse-ascensor-residencia-mayores-velez-malaga-135348643",
+    "pubDate": "2026-10-15 00:10:04",
+    "category": "",
+    "description": "<h2>Cinco personas más han resultado heridas en el desplome del elevador registrado en la residencia Seniors de Vélez-Málaga, un suceso que actualmente investiga la Policía Nacional</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "La portada de EL PERIÓDICO del 15 de octubre de 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20261015/portada-periodico-15-octubre-2026-135348579",
+    "pubDate": "2026-10-15 00:06:01",
+    "category": "",
+    "description": "",
+    "topic": "portada de EL PERIÓDICO",
+    "topic_match_probability": 100
+  }
+]
