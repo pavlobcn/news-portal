@@ -1,8 +1,11 @@
-# News for 2026-10-15 11:23
+# News for 2026-10-15 12:03
 
 Previous day: [2026-10-14](./data/2026-10-14.md)
 
 ## ua.korrespondent.net
+11:59 [Підлітки соромляться батьків: психолог пояснив причини](https://ua.korrespondent.net/tech/medicine/4920016-pidlitky-soromliatsia-batkiv-psykholoh-poiasnyv-prychyny)<br>
+11:29 [Гривня відновила зростання в обмінниках](https://ua.korrespondent.net/business/financial/4920348-hryvnia-vidnovyla-zrostannia-v-obminnykakh)<br>
+11:26 [Біля Верховної Ради знайшли підозрілий предмет - ЗМІ](https://ua.korrespondent.net/city/kiev/4920346-bilia-verkhovnoi-rady-znaishly-pidozrilyi-predmet-zmi)<br>
 11:11 [Учених спантеличила незвичайна знахідка в космосі](https://ua.korrespondent.net/tech/space/4920307-uchenykh-spantelychyla-nezvychaina-znakhidka-v-kosmosi)<br>
 10:54 [Київ прощається з Олександром "Венею" Венедчуком](https://ua.korrespondent.net/lifestyle/4920328-kyiv-proschaietsia-z-oleksandrom-veneui-venedchukom)<br>
 10:28 [Ракети Нептун уразили шість Су-34М в Росії](https://ua.korrespondent.net/ukraine/4920321-rakety-neptun-urazyly-shist-su-34m-v-rosii)<br>
@@ -34,11 +37,19 @@ Previous day: [2026-10-14](./data/2026-10-14.md)
 06:18 [El verano de pesadilla del Lyon](https://as.com/baloncesto/euroliga/el-verano-de-pesadilla-del-lyon-f202610-n/)<br>
 
 ## www.elperiodico.com
+12:01 [Barcelona liderará una investigación pionera para entender por qué algunas gripes derivan en neumonías](https://www.elperiodico.com/es/sociedad/20261015/barcelona-investigacion-gripe-neumonia-crg-caixaresearch-135359852)<br>
+11:59 [Por qué 'Bully' puso en apuros a Rockstar y cómo una broma infantil ayudó a darle forma](https://www.elperiodico.com/es/videojuegos/20261015/bully-puso-apuros-rockstar-broma-infantil-forma-135356160)<br>
+11:58 [El virus del papiloma humano gana terreno al tabaco y al alcohol en un tipo de cáncer de cabeza y cuello](https://www.elperiodico.com/es/sanidad/20261015/virus-papiloma-humano-gana-terreno-tabaco-alcohol-cancer-cabeza-cuello-135360823)<br>
+11:56 [Los marroquís desbancan a los británicos y son ya la nacionalidad que más viviendas compra en España](https://www.elperiodico.com/es/videos/economia/marroquis-desbancan-britanicos-son-nacionalidad-mas-viviendas-compra-espana-video/135362245.shtml)<br>
+11:37 [Billy Crystal pierde la fe en Dios tras la muerte de Rob Reiner: «Ya no confío en él. Han pasado demasiadas cosas malas»](https://www.elperiodico.com/es/gente/20261015/billy-crystal-pierde-fe-dios-135361007)<br>
+11:34 [YouTube etiquetará las canciones creadas con inteligencia artificial: "Nuestros oyentes nos han dicho que quieren transparencia"](https://www.elperiodico.com/es/ocio-y-cultura/20261015/youtube-etiquetara-canciones-creadas-inteligencia-135361315)<br>
+11:29 [Hilary Swank anuncia que espera su tercer hijo a los 52 años](https://www.elperiodico.com/es/videos/gente/hilary-swank-espera-tercer-hijo-52-anos-video/135361272.shtml)<br>
 11:20 [Las nuevas guías clínicas recomiendan evaluar la pérdida ósea en perimenopausia para evitar osteoporosis](https://www.elperiodico.com/es/sociedad/20261015/guias-recomiendan-evaluar-osteoporosis-menopausia-135356100)<br>
 11:19 [Vivir en Phuket gratis: así es la oferta de voluntariado que atrae a viajeros a Tailandia](https://www.elperiodico.com/es/economia/20261015/vivir-phuket-gratis-oferta-voluntariado-viajeros-tailandia-dv-135356779)<br>
 11:17 [Descubren casi 11.700 virus desconocidos en el fondo del Pacífico donde se buscan metales para baterías](https://www.elperiodico.com/es/tendencias21/20261015/descubren-11-700-virus-desconocidos-135360667)<br>
 11:16 [Más allá del índice de masa corporal: el Hospital del Mar participa en un estudio que redefine los criterios para la cirugía de la obesidad](https://www.elperiodico.com/es/sanidad/20261015/indice-masa-corporal-hospital-mar-estudio-cirugia-135358417)<br>
 11:15 [El plan para desconectar en Badalona: un spa con vistas al Mediterráneo y gastronomía](https://www.elperiodico.com/es/barcelona/badalona/20261015/badalona-spa-plan-desconectar-mar-puerto-dv-loc-135013824)<br>
+11:11 [El laboratorio donde nacen los científicos del mañana: dos décadas abriendo las puertas de la investigación real antes de la universidad](https://www.elperiodico.com/es/ciencia/20261015/fundacio-catalunya-pedrera-becas-jovenes-ciencia-bc-135312857)<br>
 11:06 [Carlos III escribirá al papa León XIV para transmitirle su apoyo tras el diagnóstico de cáncer de pulmón](https://www.elperiodico.com/es/gente/20261015/carlos-iii-escribira-papa-leon-135359555)<br>
 10:58 [Catalunya emite una primera tanda de avisos por lluvias torrenciales a partir del sábado en una veintena de comarcas del litoral y del interior](https://www.elperiodico.com/es/sociedad/20261015/avisos-lluvias-torrenciales-sabado-cataluna-meteocat-135359151)<br>
 10:55 [Una empresa de Girona digitaliza la relación con sus clientes profesionales y facilita pedidos y gestiones 24/7](https://www.elperiodico.com/es/economia/20261015/empresa-girona-digitaliza-relacion-clientes-bc-135166899)<br>
