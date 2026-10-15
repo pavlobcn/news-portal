@@ -1,8 +1,13 @@
-# News for 2026-10-15 13:58
+# News for 2026-10-15 16:19
 
 Previous day: [2026-10-14](./data/2026-10-14.md)
 
 ## ua.korrespondent.net
+16:12 [На Херсонщині через артобстріл РФ поранені п’ятеро людей](https://ua.korrespondent.net/ukraine/4920457-na-khersonschyni-cherez-artobstril-rf-poraneni-piatero-luidei)<br>
+16:08 [У Чехії підірвали найвищу споруду](https://ua.korrespondent.net/world/4920455-u-chekhii-pidirvaly-naivyschu-sporudu)<br>
+15:25 [ПлейСіті оштрафувало власника двох онлайн-казино на 4,7 млн грн](https://ua.korrespondent.net/business/4920439-pleisiti-oshtrafuvalo-vlasnyka-dvokh-onlain-kazyno-na-47-mln-hrn)<br>
+15:22 [Хмельницька АЕС готується до зими: що перевіряють експерти](https://ua.korrespondent.net/business/companies/4920437-khmelnytska-aes-hotuietsia-do-zymy-scho-pereviriauit-eksperty)<br>
+14:12 [РФ ударила по складах під Дніпром: виникла пожежа](https://ua.korrespondent.net/ukraine/4920412-rf-udaryla-po-skladakh-pid-dniprom-vynykla-pozhezha)<br>
 13:37 [Повені в Стамбулі: двоє загиблих, тисячі евакуйованих](https://ua.korrespondent.net/world/4920397-poveni-v-stambuli-dvoie-zahyblykh-tysiachi-evakuiovanykh)<br>
 13:23 [На Закарпатті зафіксували землетрус](https://ua.korrespondent.net/ukraine/4920392-na-zakarpatti-zafiksuvaly-zemletrus)<br>
 13:20 [У Києві прощалися з Олександром Венедчуком](https://ua.korrespondent.net/lifestyle/4920328-u-kyievi-proschalysia-z-oleksandrom-venedchukom)<br>
@@ -44,6 +49,24 @@ Previous day: [2026-10-14](./data/2026-10-14.md)
 06:18 [El verano de pesadilla del Lyon](https://as.com/baloncesto/euroliga/el-verano-de-pesadilla-del-lyon-f202610-n/)<br>
 
 ## www.elperiodico.com
+16:17 [Día de Todos los Santos: el festivo cae en domingo y hasta 9 comunidades tendrán un puente de 3 días](https://www.elperiodico.com/es/economia/20261015/dia-de-todos-los-santos-boe-lunes-festivo-dv-135355620)<br>
+16:06 [Las grandes ciudades se están hundiendo: los satélites detectan que algunas zonas de Ciudad de México se hunden 21,7 centímetros al año](https://www.elperiodico.com/es/tendencias21/20261015/grandes-ciudades-hundiendo-satelites-detectan-135376223)<br>
+16:05 [Queda atrapado dentro de un contenedor mientras busca chatarra en Salt y tiene que llamar al 112](https://www.elperiodico.com/es/sociedad/20261015/queda-atrapado-contenedor-busca-chatarra-135376171)<br>
+16:03 [Claude hizo de mí](https://www.elperiodico.com/es/opinion/20261015/claude-hizo-inteligencia-artificial-articulo-josep-maria-fonalleras-135375854)<br>
+15:53 [Crítica de 'La invitación': Olivia Wilde firma una de las comedias más comentadas, elegantes y esperadas del año](https://www.elperiodico.com/es/ocio-y-cultura/20261015/critica-invitacion-olivia-wilde-firma-135375118)<br>
+15:46 [Granollers despide a Rami, el niño de 12 años desaparecido durante el temporal](https://www.elperiodico.com/es/videos/sociedad/granollers-despide-rami-nino-desaparecido-temporal/135375355.shtml)<br>
+15:45 [Una neblina tóxica envuelve Indonesia, Malasia y Singapur](https://www.elperiodico.com/es/fotos/en-imagenes/neblina-toxica-envuelve-indonesia-malasia-135374782)<br>
+15:39 [Con pelos y señales](https://www.elperiodico.com/es/deportes/20261015/pelos-senales-135374989)<br>
+15:39 [Danny DeVito, en Sitges: "Me gusta la comedia negra porque te da libertad"](https://www.elperiodico.com/es/ocio-y-cultura/20261015/danny-devito-festival-de-sitges-entrevista-drag-135372713)<br>
+15:34 [Tres baldosas](https://www.elperiodico.com/es/opinion/20261015/tres-baldosas-conflicto-articulo-juan-tallon-135374550)<br>
+15:24 [Luis de Valdivia, Premio Empresario del Año Banco Sabadell](https://www.elperiodico.com/es/sociedad/20261015/luis-valdivia-premio-empresario-ano-bc-135374658)<br>
+15:16 [La reubicación de un desnudo de la Ruta del Arte de Castelló d’Empúries genera malestar entre los artistas](https://www.elperiodico.com/es/ocio-y-cultura/20261015/reubicacion-desnudo-ruta-arte-castello-135373567)<br>
+15:15 [Xavier Calabuig, experto en consumo eléctrico: "La plancha sí dispara la factura, la cafetera no"](https://www.elperiodico.com/es/economia/20261015/experto-consumo-electrico-analiza-gastos-electrodomesticos-dv-et-135336446)<br>
+15:03 [Laia Olmos, madre de Pau y Tona, testimonio de duelo gestacional: "La sociedad no te acompaña una mierda"](https://www.elperiodico.com/es/ser-feliz/20261015/laia-olmos-madre-pau-tona-135356404)<br>
+14:46 [BBVA Research prevé que la economía catalana crezca un 2,6% en 2026 y mantenga su fortaleza en 2027](https://www.elperiodico.com/es/economia/20261015/bbva-research-preve-economia-catalana-crezca-2026-fortaleza-135372276)<br>
+14:43 [La Aemet señala el domingo y el lunes como los días más adversos de la dana y advierte de lluvias torrenciales en toda la costa mediterránea](https://www.elperiodico.com/es/sociedad/20261015/aemet-dana-domingo-lunes-dias-adversos-zonas-mas-riesgo-135371817)<br>
+14:18 [Cortizo, Premio Empresa del Año Banco Sabadell](https://www.elperiodico.com/es/sociedad/20261015/cortizo-premio-empresa-ano-banco-bc-135371774)<br>
+14:10 [Verónica Olmos, farmacéutica, sobre cómo organizar correctamente las pastillas en pastilleros: "El color del blíster es lo primero que debes revisar"](https://www.elperiodico.com/es/salud/20261015/color-blister-pastillero-conservacion-luz-humedad-farmaceutica-veronica-olmos-aemps-dv-et-133455057)<br>
 13:56 ['Frugales' contra 'amigos de la cohesión': la UE busca un acuerdo para su presupuesto antes de finales de año](https://www.elperiodico.com/es/internacional/20261015/frugales-amigos-cohesion-ue-busca-acuerdo-presupuesto-135370607)<br>
 13:53 [Desarticulada una red que utilizaba drones para repartir droga en Galicia: diez detenidos y siete en prisión](https://www.elperiodico.com/es/sucesos/20261015/desarticulada-red-utilizaba-drones-repartir-135370386)<br>
 13:52 [Los pisos nuevos de dos dormitorios ya valen en València 450.000 euros y los de tres, 600.000](https://www.elperiodico.com/es/sociedad/20261015/pisos-nuevos-dormitorios-valen-valencia-vivienda-valencia-135353187)<br>
@@ -53,8 +76,10 @@ Previous day: [2026-10-14](./data/2026-10-14.md)
 13:26 [Nerea Riveiro, pedagoga: "La atención de un niño no depende solo de cuánto le interesa algo: también intervienen las demandas que requiera la tarea y las habilidades de autorregulación"](https://www.elperiodico.com/es/educacion/20261015/nerea-riveiro-pedagoga-tdah-atencion-ninos-dv-et-135366620)<br>
 13:14 [Valentín Naranjo, experto en humedades y calidad del aire: "No tiendas tu ropa en el dormitorio, la humedad se queda en las paredes y en el colchón"](https://www.elperiodico.com/es/vida-y-estilo/20261015/valentin-naranjo-experto-humedades-calidad-aire-tender-ropa-humedad-colchon-y-paredes-dv-et-135366924)<br>
 13:06 [El porcentaje de adolescentes que se sienten solos se duplica: "Tenemos que estar muy atentos porque no son solo cosas de la edad"](https://www.elperiodico.com/es/sociedad/20261015/porcentaje-adolescentes-dicen-sentirse-solos-duplica-atentos-cosas-edad-salud-mental-135357857)<br>
+12:55 [La música en directo va como un cohete y la asistencia a los cines cae a niveles de la crisis de las salas en los 80](https://www.elperiodico.com/es/ocio-y-cultura/20261015/asistencia-cine-cae-niveles-80-conciertos-alza-135366114)<br>
 12:35 [Un fármaco para un cáncer raro o una vacuna de ADN contra una 'superbacteria': estas son algunas de las investigaciones que financiará La Caixa](https://www.elperiodico.com/es/sanidad/20261015/farmaco-cancer-raro-vacuna-adn-superbacteria-la-caixa-financia-investigaciones-2026-135359938)<br>
 12:35 [Una de cada cinco personas mayores de 60 años tienen algún problema neurológico o de salud mental](https://www.elperiodico.com/es/sociedad/20261015/cinco-personas-mayores-60-anos-problema-salud-mental-ancianos-135355985)<br>
+12:17 [Encuentran en Turquía el naufragio más antiguo del mundo](https://www.elperiodico.com/es/videos/internacional/encuentran-turquia-naufragio-antiguo-mundo/135363750.shtml)<br>
 12:01 [Barcelona liderará una investigación pionera para entender por qué algunas gripes derivan en neumonías](https://www.elperiodico.com/es/sociedad/20261015/barcelona-investigacion-gripe-neumonia-crg-caixaresearch-135359852)<br>
 11:59 [Por qué 'Bully' puso en apuros a Rockstar y cómo una broma infantil ayudó a darle forma](https://www.elperiodico.com/es/videojuegos/20261015/bully-puso-apuros-rockstar-broma-infantil-forma-135356160)<br>
 11:58 [El virus del papiloma humano gana terreno al tabaco y al alcohol en un tipo de cáncer de cabeza y cuello](https://www.elperiodico.com/es/sanidad/20261015/virus-papiloma-humano-gana-terreno-tabaco-alcohol-cancer-cabeza-cuello-135360823)<br>
@@ -84,6 +109,7 @@ Previous day: [2026-10-14](./data/2026-10-14.md)
 07:16 [Haruki Murakami, el pertinaz desconsuelo](https://www.elperiodico.com/es/opinion/20261015/haruki-murakami-pertinaz-desconsuelo-135350437)<br>
 07:13 [Arantxa (34 años) lo dejó todo para vivir con su familia entre montañas: "Pensaba en el futuro y decía: 'Yo no quiero que mis hijos crezcan en un sitio donde hay miedo'"](https://www.elperiodico.com/es/economia/20261015/familia-vida-montanas-asturias-libertad-hijos-vida-rural-arantxa-dv-et-135167729)<br>
 07:00 [Aquí están las 119 sirenas de riesgo químico que se activarán en Catalunya el próximo 19 de octubre](https://www.elperiodico.com/es/tarragona/20261015/mapa-sirenas-riesgo-quimico-simulacro-catalunya-barcelona-tarragona-135293336)<br>
+06:45 ["Llegar a la hora con Rodalies es cuestión de suerte"](https://www.elperiodico.com/es/entre-todos/participacion/llegar-hora-rodalies-cuestion-suerte-retrasos-carta-lector-valeria-basseda-135276842)<br>
 06:08 [Mad Max o la última gota de gasolina…en Bali](https://www.elperiodico.com/es/trafico-y-transportes/20261015/mad-max-o-ultima-gota-135348533)<br>
 06:01 [Alessandro Baricco, escritor con alma de músico: "El nuevo Beethoven es Radiohead"](https://www.elperiodico.com/es/ocio-y-cultura/20261015/alessandro-baricco-escritor-alma-musico-135258486)<br>
 06:01 [Robert Eggers regresa a Sitges convertido en director estrella del fantástico](https://www.elperiodico.com/es/ocio-y-cultura/20261015/robert-eggers-licantropo-la-bruja-sitges-premio-135331339)<br>
