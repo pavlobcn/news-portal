@@ -1,4 +1,4 @@
-# News for 2026-10-15 18:51
+# News for 2026-10-15 20:25
 
 Previous day: [2026-10-14](./data/2026-10-14.md)
 
@@ -50,6 +50,7 @@ Previous day: [2026-10-14](./data/2026-10-14.md)
 03:33 [Starlink для ЗСУ оплачує Німеччина - ЗМІ](https://ua.korrespondent.net/world/worldabus/4920238-Starlink-dlia-zsu-oplachuie-nimechchyna-zmi)<br>
 
 ## as.com
+20:07 [Real Madrid - Asvel, en directo: Euroliga 2026-27 en vivo hoy](https://as.com/baloncesto/euroliga/real-madrid-asvel-en-directo-euroliga-2026-27-en-vivo-hoy-f202610-d/)<br>
 10:02 [Dabone no puede jugar con el Barcelona](https://as.com/baloncesto/acb/dabone-no-puede-jugar-con-el-barcelona-f202610-n/)<br>
 08:30 [Una gran noche de leyendas](https://as.com/baloncesto/mas_baloncesto/una-gran-noche-de-leyendas-f202610-n/)<br>
 06:20 [Real Madrid - Asvel: horario, TV, cómo y dónde ver la Euroliga 2026-27](https://as.com/baloncesto/euroliga/real-madrid-asvel-horario-tv-como-y-donde-ver-la-euroliga-2026-27-f202610-n/)<br>
@@ -57,6 +58,16 @@ Previous day: [2026-10-14](./data/2026-10-14.md)
 06:18 [El verano de pesadilla del Lyon](https://as.com/baloncesto/euroliga/el-verano-de-pesadilla-del-lyon-f202610-n/)<br>
 
 ## www.elperiodico.com
+20:19 [Harry y Meghan despliegan magnetismo 'royal' en su primera aparición oficial en Reino Unido](https://www.elperiodico.com/es/ocio-y-cultura/20261015/harry-meghan-despliegan-magnetismo-royal-primera-aparicion-reino-unido-135386217)<br>
+20:15 [Alfonso Muñoz, experto en pensiones, avisa: "Con 15 años cotizados únicamente se tiene derecho al 50%..."](https://www.elperiodico.com/es/economia/20261015/jubilacion-pension-anos-cotizados-seguridad-social-dv-et-132205764)<br>
+20:00 [El proyecto Zuidpark de Amberes gana el Premio Europeo del Espacio Público Urbano](https://www.elperiodico.com/es/ocio-y-cultura/20261015/proyecto-zuidpark-amberes-gana-premio-135374662)<br>
+19:47 [Los relojes atómicos dejarán de añadir segundos para ajustarse a la rotación de la Tierra](https://www.elperiodico.com/es/sociedad/20261015/relojes-atomicos-anadir-segundos-rotacion-de-la-tierra-135385279)<br>
+19:34 [La inundación de una residencia de Sant Adrià de Besòs](https://www.elperiodico.com/es/videos/barcelona/inundacion-residencia-sant-adria-besos-video/135383919.shtml)<br>
+19:30 [El 'dolor de pagar': esta es la razón psicológica por la que pagar en efectivo cuida tus finanzas](https://www.elperiodico.com/es/ser-feliz/20261015/pago-efectivo-dolor-tarjeta-credito-movil-control-gastos-dv-et-132505423)<br>
+19:26 [Crítica de 'Whalefall': los esfuerzos de un joven para sobrevivir tras ser engullido vivo por una gigantesca ballena](https://www.elperiodico.com/es/ocio-y-cultura/20261015/critica-whalefall-esfuerzos-joven-ballena-135385213)<br>
+19:12 [Crítica de 'El mal hijo': Jaime Lorente debuta como director con un drama naturalista sobre una infancia rota y una juventud superada](https://www.elperiodico.com/es/ocio-y-cultura/20261015/critica-mal-hijo-jaime-lorente-135384173)<br>
+19:08 [Rodalies busca al personal directivo que acompañará a Òscar Playà en la nueva empresa](https://www.elperiodico.com/es/economia/20261015/rodalies-busca-personal-directivo-acompanar-oscar-playa-135378773)<br>
+19:00 [La periodista Xantal Llavina, la responsable de fondos de la ACC o la exdiputada Anna Navarro: estas son las 100 mujeres TIC de referencia en Catalunya](https://www.elperiodico.com/es/economia/20261015/lista-100-mujeres-tic-catalunya-2026-instituto-mas-mujeres-135366090)<br>
 18:50 [Una residencia de ancianos cierra tras inundarse por la crecida del río Besòs: “El agua llegó al techo en segundos”](https://www.elperiodico.com/es/barcelona/20261015/lluvias-temporal-inundaciones-besos-sant-adria-residencia-cerrada-135378850)<br>
 18:44 [La Fira d’Ocupació de Mataró reunirá a 36 empresas que ofrecerán 162 puestos de trabajo](https://www.elperiodico.com/es/barcelona/20261015/fira-d-ocupacio-mataro-reunira-135380900)<br>
 18:35 [La jueza del caso Andic llama a declarar como testigo al empresario José Creuheras, amigo íntimo de Isak, a petición de la fiscalía](https://www.elperiodico.com/es/sociedad/20261015/jueza-andic-llama-declarar-creuheras-amigo-isak-andic-relaciones-hijo-fiscalia-135376120)<br>
