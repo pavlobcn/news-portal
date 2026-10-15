@@ -1,8 +1,14 @@
-# News for 2026-10-15 16:55
+# News for 2026-10-15 18:18
 
 Previous day: [2026-10-14](./data/2026-10-14.md)
 
 ## ua.korrespondent.net
+18:12 [Військовим на передовій закуповують нові протиуламкові костюми](https://ua.korrespondent.net/ukraine/4920494-viiskovym-na-peredovii-zakupovuuit-novi-protyulamkovi-kostuimy)<br>
+17:57 [Свята 16 жовтня 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4920460-sviata-16-zhovtnia-2026-roku-istoriia-tradytsii)<br>
+17:53 [Україну атакували майже 1000 дронів з минулої доби](https://ua.korrespondent.net/ukraine/4920492-ukrainu-atakuvaly-maizhe-1000-droniv-z-mynuloi-doby)<br>
+17:29 [У Ватикані повідомили про стан Папи Лева XIV після операції](https://ua.korrespondent.net/world/4920483-u-vatykani-povidomyly-pro-stan-papy-leva-XIV-pislia-operatsii)<br>
+17:23 [В України закінчилися ракети для Patriot - ЗМІ](https://ua.korrespondent.net/ukraine/4920481-v-ukrainy-zakinchylysia-rakety-dlia-Patriot-zmi)<br>
+17:09 [У Києві дрон двічі влучив у складську будівлю: виникла пожежа](https://ua.korrespondent.net/city/kiev/4920477-u-kyievi-dron-dvichi-vluchyv-u-skladsku-budivlui-vynykla-pozhezha)<br>
 16:28 [Сильвестр Сталлоне переніс дев’ять операцій на спині](https://ua.korrespondent.net/lifestyle/4920445-sylvestr-stallone-perenis-deviat-operatsii-na-spyni)<br>
 16:12 [На Херсонщині через артобстріл РФ поранені п’ятеро людей](https://ua.korrespondent.net/ukraine/4920457-na-khersonschyni-cherez-artobstril-rf-poraneni-piatero-luidei)<br>
 16:08 [У Чехії підірвали найвищу споруду](https://ua.korrespondent.net/world/4920455-u-chekhii-pidirvaly-naivyschu-sporudu)<br>
@@ -50,6 +56,13 @@ Previous day: [2026-10-14](./data/2026-10-14.md)
 06:18 [El verano de pesadilla del Lyon](https://as.com/baloncesto/euroliga/el-verano-de-pesadilla-del-lyon-f202610-n/)<br>
 
 ## www.elperiodico.com
+18:09 [Naturgy se muda y trasladará a sus más de 700 empleados a un nuevo edificio de oficinas en Madrid](https://www.elperiodico.com/es/economia/20261015/naturgy-traslada-700-empleados-nuevo-135381493)<br>
+18:03 [Un 43,6% de personas que viven de alquiler a precio de mercado están en riesgo de pobreza o exclusión social](https://www.elperiodico.com/es/sociedad/20261015/43-6-personas-viven-alquiler-precio-mercado-riesgo-pobreza-exclusion-social-135381120)<br>
+18:00 [La IA gana terreno en las finanzas: casi nueve de cada diez españoles valora que le ayude a comparar opciones](https://www.elperiodico.com/es/economia/20261015/inteligencia-artificial-chatgpt-gemini-claude-decisiones-financieras-nueve-cada-diez-espanoles-135369950)<br>
+17:58 [Las temperaturas bajarán hasta 10 grados en las próximas horas dejando atrás el "calor otoñal" y volviendo a valores normales para la época](https://www.elperiodico.com/es/sociedad/20261015/temperaturas-bajan-10-grados-prevision-cambio-tiempo-aemet-135379618)<br>
+17:11 [Historia de un asesinato prehistórico: un fósil neandertal de 75.000 años exhibe la herida de lanza más antigua jamás documentada](https://www.elperiodico.com/es/sociedad/20261015/historia-asesinato-prehistorico-fosil-neandertal-herida-lanza-135376091)<br>
+17:07 [Un fármaco utilizado para suprimir la producción de leche tras el parto podría reducir el riesgo de cáncer de mama](https://www.elperiodico.com/es/sanidad/20261015/farmaco-utilizado-produccion-leche-podria-suprimir-riesgo-cancer-de-mama-135377009)<br>
+17:03 [Tiempo en Catalunya mañana viernes: día nuboso antes de las lluvias torrenciales del sábado](https://www.elperiodico.com/es/tiempo/20261015/tiempo-catalunya-hoy-viernes-nubes-lluvias-torrenciales-sabado-meteocat-dv-135375961)<br>
 16:53 [Canarias estrena cuatro telescopios gigantes, únicos en el mundo, para investigar el cosmos invisible](https://www.elperiodico.com/es/sociedad/20261015/telescopios-gigantes-cherenkov-canarias-unicos-en-el-mundo-estudio-cosmos-invisible-universo-energetico-135377114)<br>
 16:30 [Oswaldo Restrepo, médico experto en seguridad y salud en el trabajo: "Si notas que durante el día te cuesta trabajo hablar, eso no es un problema de almohada"](https://www.elperiodico.com/es/salud/20261015/baba-dormir-problemas-respiracion-digestion-medico-oswaldo-restrepo-dv-et-132280209)<br>
 16:26 [El Besòs concentra casi la mitad de la población expuesta a inundaciones extremas en Barcelona](https://www.elperiodico.com/es/barcelona/20261015/besos-barrios-riesgo-inundaciones-barcelona-135369437)<br>
@@ -58,6 +71,7 @@ Previous day: [2026-10-14](./data/2026-10-14.md)
 16:06 [Las grandes ciudades se están hundiendo: los satélites detectan que algunas zonas de Ciudad de México se hunden 21,7 centímetros al año](https://www.elperiodico.com/es/tendencias21/20261015/grandes-ciudades-hundiendo-satelites-detectan-135376223)<br>
 16:05 [Queda atrapado dentro de un contenedor mientras busca chatarra en Salt y tiene que llamar al 112](https://www.elperiodico.com/es/sociedad/20261015/queda-atrapado-contenedor-busca-chatarra-135376171)<br>
 16:03 [Claude hizo de mí](https://www.elperiodico.com/es/opinion/20261015/claude-hizo-inteligencia-artificial-articulo-josep-maria-fonalleras-135375854)<br>
+16:00 [Josep M. Paredes, astrofísico: "Con los nuevos telescopios de Canarias podremos descubrir fenómenos hasta ahora ocultos"](https://www.elperiodico.com/es/sociedad/20261015/josep-paredes-astrofisico-telescopios-canarias-entrevista-135374888)<br>
 15:53 [Crítica de 'La invitación': Olivia Wilde firma una de las comedias más comentadas, elegantes y esperadas del año](https://www.elperiodico.com/es/ocio-y-cultura/20261015/critica-invitacion-olivia-wilde-firma-135375118)<br>
 15:46 [Granollers despide a Rami, el niño de 12 años desaparecido durante el temporal](https://www.elperiodico.com/es/videos/sociedad/granollers-despide-rami-nino-desaparecido-temporal/135375355.shtml)<br>
 15:45 [Una neblina tóxica envuelve Indonesia, Malasia y Singapur](https://www.elperiodico.com/es/fotos/en-imagenes/neblina-toxica-envuelve-indonesia-malasia-135374782)<br>
