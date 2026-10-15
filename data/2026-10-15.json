@@ -1,5 +1,32 @@
 [
   {
+    "title": "Україна чекає на F-16 від Бельгії для протидії дронам - Зеленський",
+    "link": "https://ua.korrespondent.net/ukraine/4920558-ukraina-chekaie-na-F-16-vid-belhii-dlia-protydii-dronam-zelenskyi",
+    "pubDate": "2026-10-15 23:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4597965.jpg\">Авіація допомагає країні боротися з реактивними шахедами, наголосив президент України під час візиту в Бельгію.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Resumen del Real Madrid vs. Asvel Villeurbanne de Euroliga",
+    "link": "https://as.com/videos/euroliga/resumen-del-real-madrid-vs-asvel-villeurbanne-de-euroliga-f202610-v/",
+    "pubDate": "2026-10-15 23:54:15",
+    "category": "Baloncesto",
+    "description": "El Real Madrid logra su tercera victoria en la Euroliga con un Andres Feliz, sin límites; 26 puntos que hacen olvidar el mal comienzo en la Euroliga.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Resultados Euroliga, jornada 6: horarios, TV, partidos y clasificación",
+    "link": "https://as.com/baloncesto/euroliga/resultados-euroliga-jornada-6-horarios-tv-partidos-y-clasificacion-f202610-n/",
+    "pubDate": "2026-10-15 23:34:17",
+    "category": "Baloncesto",
+    "description": "Euroliga 2026-27: resultados de los partidos y clasificación de la temporada en su jornada 6. Real Madrid, Barcelona, Baskonia, Valencia Basket…",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "РФ атакувала Хмельниччину: на нафтобазі палає",
     "link": "https://ua.korrespondent.net/ukraine/4920553-rf-atakuvala-khmelnychchynu-na-naftobazi-palaie",
     "pubDate": "2026-10-15 23:34:00",
@@ -160,6 +187,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4597928.jpg\">Дональд Трамп активно підтримує Захарію, її призначення, на думку експертів, є яскравим свідченням того, що під час другого терміну Трамп цінує особисту лояльність понад усе.",
     "topic": "політика",
     "topic_match_probability": 90
+  },
+  {
+    "title": "Мілан громить Зальцбург хет-триком 19-річного Альфаджо Сіссе",
+    "link": "https://ua.korrespondent.net/sport/football/4920547-milan-hromyt-zaltsburh-khet-trykom-19-richnoho-alfadzho-sisse",
+    "pubDate": "2026-10-15 22:26:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4597838.jpg\">Вінгер італійської команди допоміг \"россонері\" здобути першу перемогу в нинішньому розіграші Ліги Європи.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
   },
   {
     "title": "РФ уразила енергооб'єкт: частина Києва без світла",
@@ -378,6 +414,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "В Усика з’явилися кандидати на бій замість Вайлдера - джерело",
+    "link": "https://ua.korrespondent.net/sport/boks/4920532-v-usyka-ziavylysia-kandydaty-na-bii-zamist-vaildera-dzherelo",
+    "pubDate": "2026-10-15 20:40:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4597740.jpg\">В українського ексабсолюта в центрі уваги два боксери, здатні скласти йому конкуренцію на рингу.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
     "title": "La sala Meteoro de Poble-sec cerrará sus puertas definitivamente el próximo mes de febrero",
     "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261015/sala-meteoro-poble-sec-cerrara-135386554",
     "pubDate": "2026-10-15 20:32:13",
@@ -457,6 +502,15 @@
     "description": "<h2> Este espacio, construido en el siglo XIX, se convirtió durante la década de 1960 en una extensa explanada asfaltada utilizada como aparcamiento, que acumulaba calor y sobrecargaba la red de alcantarillado.</h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Volkswagen представив великий кросовер із запасом ходу до 1602 км",
+    "link": "https://ua.korrespondent.net/lifestyle/motors/4920522-Volkswagen-predstavyv-velykyi-krosover-iz-zapasom-khodu-do-1602-km",
+    "pubDate": "2026-10-15 19:58:00",
+    "category": "Автомобілі",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4597712.jpg\">Новинка, розроблена спільно з китайською SAIC, отримала 800-вольтову архітектуру, електричний запас ходу до 451 км і систему допомоги водієві з лідаром.",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
   },
   {
     "title": "Китай та Північна Корея відкрили другий міст завдовжки майже 3 км",
