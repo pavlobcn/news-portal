@@ -1,8 +1,11 @@
-# News for 2026-10-16 17:25
+# News for 2026-10-16 18:57
 
 Previous day: [2026-10-15](./data/2026-10-15.md)
 
 ## ua.korrespondent.net
+18:04 [В Одесі затримали адвоката на хабарі у $315 тисяч](https://ua.korrespondent.net/ukraine/4920843-v-odesi-zatrymaly-advokata-na-khabari-u-315-tysiach)<br>
+18:01 [Україна випробує доставку медичних вантажів дронами](https://ua.korrespondent.net/ukraine/4920832-ukraina-vyprobuie-dostavku-medychnykh-vantazhiv-dronamy)<br>
+17:40 [На Рівненщині масштабні знеструмлення - Укренерго](https://ua.korrespondent.net/ukraine/4920833-na-rivnenschyni-masshtabni-znestrumlennia-ukrenerho)<br>
 17:24 [Росіяни атакували Миколаїв "бандеролями"](https://ua.korrespondent.net/ukraine/4920829-rosiiany-atakuvaly-mykolaiv-banderoliamy)<br>
 17:18 [Уражено цілі на Брянщині і в Криму - Генштаб](https://ua.korrespondent.net/ukraine/4920827-urazheno-tsili-na-brianschyni-i-v-krymu-henshtab)<br>
 16:54 [Затриманого на Харківщині російського військового взяли під варту](https://ua.korrespondent.net/ukraine/4920821-zatrymanoho-na-kharkivschyni-rosiiskoho-viiskovoho-vzialy-pid-vartu)<br>
@@ -73,6 +76,14 @@ Previous day: [2026-10-15](./data/2026-10-15.md)
 00:18 [Pedro Martínez: “Soy admirador de Campazzo”](https://as.com/baloncesto/pedro-martinez-soy-admirador-de-campazzo-f202610-n/)<br>
 
 ## www.elperiodico.com
+18:44 [El proyecto que recupera la memoria de los afectados por la dana, Premio Nacional de Restauración 2026](https://www.elperiodico.com/es/ocio-y-cultura/20261016/proyecto-recupera-memoria-afectados-dana-135427754)<br>
+18:36 [La ATM autoriza la licitación de las obras para unir el Trambaix y el Trambesòs por la Diagonal](https://www.elperiodico.com/es/barcelona/20261016/obras-tranvia-diagonal-conexion-trambaix-trambesos-atm-135422445)<br>
+18:30 [La psicóloga Patricia Ramírez, sobre hablar de tus problemas con los demás: "Puede empeorar tu salud mental"](https://www.elperiodico.com/es/ser-feliz/20261016/hablar-problemas-corumiacion-ansiedad-depresion-psicologa-patricia-ramirez-dv-129041495)<br>
+18:26 [Catalunya libera 13 turones europeos en la sierra de la Albera para fomentar la recuperación de esta especie](https://www.elperiodico.com/es/medio-ambiente/20261016/liberan-13-turones-europeos-albera-135424920)<br>
+18:12 [L'Arca de Noè conmemorará sus 100 años con actos en el MNAC, el Saló de Cent y el Zoo de Barcelona](https://www.elperiodico.com/es/barcelona/20261016/larca-noe-conmemorara-100-anos-actos-mnac-liceu-salo-de-cent-135424145)<br>
+18:06 [Nielsen, entrenador de Carlsen: “Tengo en muy alta estima el activismo político de Kasparov. Su libro sobre Putin fue profético”](https://www.elperiodico.com/es/deportes/20261016/nielsen-alta-estima-activismo-kasparov-putin-ajedrez-135380573)<br>
+17:44 [Chris Pratt y el papa León XIV exploran la tumba de san Pedro en un documental sobre los orígenes del cristianismo](https://www.elperiodico.com/es/ocio-y-cultura/20261016/chris-pratt-papa-leon-xiv-135424802)<br>
+17:41 [El MNAC aplaza el traslado de las pinturas profanas de Sijena y descarta iniciarlo la próxima semana](https://www.elperiodico.com/es/ocio-y-cultura/20261016/mnac-aplaza-traslado-pinturas-profanas-135425062)<br>
 17:22 [Desde las alturas de Benidorm](https://www.elperiodico.com/es/opinion/20261016/alturas-benidorm-vivienda-articulo-marti-saballs-pons-135422868)<br>
 17:22 ['Adam'  la dana que llega este fin de semana con lluvias torrenciales](https://www.elperiodico.com/es/videos/sociedad/adam-dana-llega-semana-lluvias/135424260.shtml)<br>
 17:19 [Penguin desea "todo lo mejor" a Isabel Allende tras fichar por Planeta tras 40 años de relación editorial: "Ha sido un enorme orgullo"](https://www.elperiodico.com/es/ocio-y-cultura/20261016/penguin-desea-mejor-isabel-allende-135424050)<br>
@@ -120,6 +131,7 @@ Previous day: [2026-10-15](./data/2026-10-15.md)
 11:30 [Más de 280.000 catalanes en situación de pobreza severa se quedan fuera del Ingreso Mínimo Vital](https://www.elperiodico.com/es/sociedad/20261016/275-000-catalanes-situacion-pobreza-severa-quedan-fuera-ingreso-minimo-vital-imv-ayudas-sociales-135381268)<br>
 11:29 [Así avanza Benidorm en el despliegue de la tecnología para controlar los drones](https://www.elperiodico.com/es/sociedad/20261016/avanza-benidorm-despliegue-tecnologia-controlar-drones-espacio-aereo-135398705)<br>
 11:28 [Una firma espía de Israel hackea millones de móviles a través de anuncios en línea, según un estudio](https://www.elperiodico.com/es/internacional/20261016/firma-espia-israel-hackea-millones-moviles-anuncios-pegasus-candiru-virus-135405207)<br>
+11:28 [Alerta por lluvias torrenciales en Catalunya, Valencia y Baleares, en directo | Última hora de la dana, avisos rojos del Meteocat, Aemet y plan Inuncat](https://www.elperiodico.com/es/sociedad/20261016/lluvia-cataluna-valencia-baleares-dana-alerta-meteocat-aemet-ultima-hora-directo-135404377)<br>
 11:16 [Siempre nos quedará la IA](https://www.elperiodico.com/es/gente/20261016/mamarazzis-siempre-quedara-ia-lorena-vazquez-135403479)<br>
 10:51 [Las previsiones sobre la dana empeoran y obligan a activar avisos rojos en la costa catalana a partir del sábado](https://www.elperiodico.com/es/sociedad/20261016/previsiones-dana-avisos-rojos-cataluna-meteocat-135402751)<br>
 10:32 [La enfermedad del Papa dispara la incertidumbre: ¿condicionará el papado de León XIV?](https://www.elperiodico.com/es/sociedad/20261016/cancer-pulmon-papa-leon-xiv-incertidumbre-papado-135401585)<br>
