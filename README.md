@@ -1,8 +1,16 @@
-# News for 2026-10-16 07:57
+# News for 2026-10-16 09:24
 
 Previous day: [2026-10-15](./data/2026-10-15.md)
 
 ## ua.korrespondent.net
+08:59 [У Вижницькому нацпарку збереглися прадавні скелі](https://ua.korrespondent.net/tech/science/4920512-u-vyzhnytskomu-natsparku-zberehlysia-pradavni-skeli)<br>
+08:55 [Атака на Рівне: постраждали семеро людей](https://ua.korrespondent.net/ukraine/4920617-ataka-na-rivne-postrazhdaly-semero-luidei)<br>
+08:47 [Росія нарощує транзит зерна через Латвію](https://ua.korrespondent.net/business/economics/4920615-rosiia-naroschuie-tranzyt-zerna-cherez-latviui)<br>
+08:29 [Син Дональда Трампа публічно привітав дружину з особливим днем](https://ua.korrespondent.net/lifestyle/4920544-syn-donalda-trampa-publichno-pryvitav-druzhynu-z-osoblyvym-dnem)<br>
+08:24 [Нафтовий ринок лихоманить через загрозу поставкам з Ірану](https://ua.korrespondent.net/business/economics/4920609-naftovyi-rynok-lykhomanyt-cherez-zahrozu-postavkam-z-iranu)<br>
+08:15 [Удар по Одещині: пошкоджено енергооб'єкт, є постраждалі](https://ua.korrespondent.net/city/odessa/4920606-udar-po-odeschyni-poshkodzheno-enerhoobiekt-ye-postrazhdali)<br>
+08:10 [Фінляндія закрила частину затоки через загрозу дронів](https://ua.korrespondent.net/world/4920604-finliandiia-zakryla-chastynu-zatoky-cherez-zahrozu-droniv)<br>
+07:59 [Нічна атака на Волинь: є руйнування та постраждалі](https://ua.korrespondent.net/ukraine/4920601-nichna-ataka-na-volyn-ye-ruinuvannia-ta-postrazhdali)<br>
 07:31 [Росіяни вдарили по Рівному: є влучення](https://ua.korrespondent.net/ukraine/4920597-rosiiany-vdaryly-po-rivnomu-ye-vluchennia)<br>
 07:15 [Генштаб назвав найгарячіший напрямок фронту](https://ua.korrespondent.net/ukraine/4920594-henshtab-nazvav-naihariachishyi-napriamok-frontu)<br>
 06:50 [В Умані через атаку РФ зайнялася багатоповерхівка](https://ua.korrespondent.net/ukraine/4920590-v-umani-cherez-ataku-rf-zainialasia-bahatopoverkhivka)<br>
@@ -13,9 +21,17 @@ Previous day: [2026-10-15](./data/2026-10-15.md)
 01:38 [Нова пошесть в РФ: під Москвою в п'яти людей запідозрили мавпячу віспу](https://ua.korrespondent.net/world/russia/4920564-nova-poshest-v-rf-pid-moskvoui-v-piaty-luidei-zapidozryly-mavpiachu-vispu)<br>
 
 ## as.com
+08:48 [El fenómeno Aday Mara llega al Hall of Fame](https://as.com/baloncesto/videos/el-fenomeno-aday-mara-llega-al-hall-of-fame-f202610-v/)<br>
 00:18 [Pedro Martínez: “Soy admirador de Campazzo”](https://as.com/baloncesto/pedro-martinez-soy-admirador-de-campazzo-f202610-n/)<br>
 
 ## www.elperiodico.com
+09:20 [El Ibex 35 abre en positivo y busca cerrar la semana por encima de los 19.200 puntos](https://www.elperiodico.com/es/economia/20261016/ibex-35-abre-positivo-busca-135400062)<br>
+09:15 [Romualdo González dejó la obra para dedicarse al cultivo del pistacho: “La gente dice que se está sembrando mucho, pero es que España es el sitio donde más se puede poner pistacho”](https://www.elperiodico.com/es/economia/20261016/donde-salen-pistachos-cultivo-pistacho-espana-buena-zona-romualdo-agricultor-construccion-dv-127632487)<br>
+09:13 [Nerea Pérez de las Heras, en el videopódcast del suplemento ABRIL: "La parte de testimonio fue la más difícil de escribir"](https://www.elperiodico.com/es/ocio-y-cultura/libros/20261016/nerea-perez-heras-videopodcast-suplemento-abril-135285207)<br>
+09:08 [¿Cómo se convierte el agua en hidrógeno renovable?](https://www.elperiodico.com/es/sociedad/20261016/convierte-agua-hidrogeno-renovable-bc-135399591)<br>
+08:54 [¿Cuándo se cambia la hora en España? Llega el horario de invierno 2026](https://www.elperiodico.com/es/sociedad/20261016/cambio-hora-invierno-2026-octubre-122562519)<br>
+08:53 [Isabel Allende (84 años), premio Planeta, sobre sus hábitos de salud: "Yo me levanto a las 6 de la mañana por disciplina y voy al gimnasio todos los días"](https://www.elperiodico.com/es/gente/20261016/isabel-allende-premio-planeta-levanto-gimnasio-dv-et-135397821)<br>
+08:45 [La inmobiliaria que pedía 5.000 euros por visitar un piso retira el anuncio por la alta demanda](https://www.elperiodico.com/es/sociedad/20261016/inmobiliaria-pedia-5-000-euros-135397971)<br>
 07:49 [Un terremoto de magnitud 6,9 sacude la península rusa de Kamchatka](https://www.elperiodico.com/es/internacional/20261016/terremoto-magnitud-6-9-sacude-135397114)<br>
 07:45 [¿El arma definitiva contra las velutinas? Les colocan chips ‘espía’ para descubrir dónde están sus nidos](https://www.elperiodico.com/es/medio-ambiente/20261016/arma-definitiva-velutinas-les-colocan-135396991)<br>
 07:37 [El Real Madrid gana al Asvel en la Euroliga con un tremendo partido de Andrés Feliz](https://www.elperiodico.com/es/deportes/20261016/real-madrid-gana-asvel-euroliga-135391110)<br>
