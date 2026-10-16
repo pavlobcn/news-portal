@@ -1,13 +1,21 @@
-# News for 2026-10-16 11:49
+# News for 2026-10-16 13:13
 
 Previous day: [2026-10-15](./data/2026-10-15.md)
 
 ## ua.korrespondent.net
+13:11 [З’явився аудіозапис про день смерті Панеттьєрі](https://ua.korrespondent.net/lifestyle/4920710-ziavyvsia-audiozapys-pro-den-smerti-panettieri)<br>
+12:54 [Надходження військового збору зросли: скільки отримав бюджет](https://ua.korrespondent.net/business/financial/4920716-nadkhodzhennia-viiskovoho-zboru-zrosly-skilky-otrymav-buidzhet)<br>
+12:41 [Принц Гаррі зробив емоційну заяву про принцесу Діану](https://ua.korrespondent.net/lifestyle/4920693-prynts-harri-zrobyv-emotsiinu-zaiavu-pro-pryntsesu-dianu)<br>
+12:30 [У МОН озвучили, скільки шкіл можуть навчати дітей в укриттях](https://ua.korrespondent.net/ukraine/4920706-u-mon-ozvuchyly-skilky-shkil-mozhut-navchaty-ditei-v-ukryttiakh)<br>
+12:15 [Ель-Ніньо "рівня Годзілли": спека може посилити загрозу голоду](https://ua.korrespondent.net/tech/science/4920503-el-nino-rivnia-hodzilly-speka-mozhe-posylyty-zahrozu-holodu)<br>
+12:07 [Сили оборони уразили РЛС Небо-У в Росії](https://ua.korrespondent.net/ukraine/4920698-syly-oborony-urazyly-rls-nebo-u-v-rosii)<br>
+12:07 [РФ накрила "бандеролями" Бахмач: багато руйнувань](https://ua.korrespondent.net/ukraine/4920699-rf-nakryla-banderoliamy-bakhmach-bahato-ruinuvan)<br>
 11:39 [ЄС не скасує санкції проти РФ до завершення війни](https://ua.korrespondent.net/world/4920684-yes-ne-skasuie-sanktsii-proty-rf-do-zavershennia-viiny)<br>
 11:34 [У Карпатах випав сніг, температура впала до -5](https://ua.korrespondent.net/ukraine/4920686-u-karpatakh-vypav-snih-temperatura-vpala-do-5)<br>
 11:28 [Гривня зміцнюється в обмінниках наприкінці тижня](https://ua.korrespondent.net/business/financial/4920680-hryvnia-zmitsnuiietsia-v-obminnykakh-naprykintsi-tyzhnia)<br>
 11:21 [Військовим видаватимуть альтернативний сухпайок](https://ua.korrespondent.net/ukraine/4920678-viiskovym-vydavatymut-alternatyvnyi-sukhpaiok)<br>
 11:10 [ЄС не послаблюватиме підтримку України - Кошта](https://ua.korrespondent.net/world/4920676-yes-ne-poslabluivatyme-pidtrymku-ukrainy-koshta)<br>
+11:04 [У Києві і області запровадили аварійні відключення](https://ua.korrespondent.net/city/kiev/4920673-u-kyievi-i-oblasti-zaprovadyly-avariini-vidkluichennia)<br>
 10:53 [Удар по підприємству на Волині: є жертва та загроза викиду аміаку](https://ua.korrespondent.net/ukraine/4920668-udar-po-pidpryiemstvu-na-volyni-ye-zhertva-ta-zahroza-vykydu-amiaku)<br>
 10:33 [Російські дрони уночі п'ять разів залітали в Молдову](https://ua.korrespondent.net/world/4920662-rosiiski-drony-unochi-piat-raziv-zalitaly-v-moldovu)<br>
 10:27 [Японія посилить спостереження за військовими Китаю](https://ua.korrespondent.net/world/4920661-yaponiia-posylyt-sposterezhennia-za-viiskovymy-kytaui)<br>
@@ -15,6 +23,7 @@ Previous day: [2026-10-15](./data/2026-10-15.md)
 09:58 [У центрі Сум російський дрон влучив у ТЦ: є постраждалі](https://ua.korrespondent.net/ukraine/4920646-u-tsentri-sum-rosiiskyi-dron-vluchyv-u-tts-ye-postrazhdali)<br>
 09:49 [ППО знищила понад 70% реактивних "шахедів" за ніч](https://ua.korrespondent.net/ukraine/4920644-ppo-znyschyla-ponad-70-reaktyvnykh-shakhediv-za-nich)<br>
 09:45 [Обстріли Донеччини: загиблий і шестеро поранених](https://ua.korrespondent.net/ukraine/4920637-obstrily-donechchyny-zahyblyi-i-shestero-poranenykh)<br>
+09:32 [Атаковано два райони Харкова, є загиблі](https://ua.korrespondent.net/city/kharkov/4920634-atakovano-dva-raiony-kharkova-ye-zahybli)<br>
 09:25 [Україна затвердила стратегію інженерного обладнання оборонних рубежів](https://ua.korrespondent.net/ukraine/4920624-ukraina-zatverdyla-stratehiui-inzhenernoho-obladnannia-oboronnykh-rubezhiv)<br>
 08:59 [У Вижницькому нацпарку збереглися прадавні скелі](https://ua.korrespondent.net/tech/science/4920512-u-vyzhnytskomu-natsparku-zberehlysia-pradavni-skeli)<br>
 08:55 [Атака на Рівне: постраждали семеро людей](https://ua.korrespondent.net/ukraine/4920617-ataka-na-rivne-postrazhdaly-semero-luidei)<br>
@@ -41,6 +50,20 @@ Previous day: [2026-10-15](./data/2026-10-15.md)
 00:18 [Pedro Martínez: “Soy admirador de Campazzo”](https://as.com/baloncesto/pedro-martinez-soy-admirador-de-campazzo-f202610-n/)<br>
 
 ## www.elperiodico.com
+13:07 [La esperanza de vida con buena salud de los catalanes es de 68 años, aunque viven de media hasta los 84](https://www.elperiodico.com/es/sanidad/20261016/esperanza-vida-buena-salud-cataluna-pla-salut-horizto-2035-135374443)<br>
+13:04 [Los médicos de familia advierten del riesgo de "banalizar" el uso de los fármacos para adelgazar en adolescentes](https://www.elperiodico.com/es/sanidad/20261016/medicos-familia-advierten-riesgo-banalizar-uso-farmacos-adelgazar-adolescentes-135408524)<br>
+13:03 [Así es la carrera por encontrar las mandarinas del futuro](https://www.elperiodico.com/es/sociedad/20261016/carrera-encontrar-mandarinas-futuro-135398834)<br>
+13:00 [El pueblo más pequeño de Catalunya: se recorre en 10 minutos y está rodeado de viñas](https://www.elperiodico.com/es/catalunya/20261016/pueblo-pequeno-cataluna-puigdalber-dv-loc-127294920)<br>
+12:56 [Maurici Lucena, presidente de Aena: “La saturación del aeropuerto de Barcelona-El Prat provocará que el tráfico se vaya a Girona y Reus”](https://www.elperiodico.com/es/economia/20261016/presidente-aena-maurici-lucena-ampliacion-aeropuerto-barcelona-el-prat-trafico-ira-girona-reus-135400607)<br>
+12:52 [Lara Ferreiro, psicóloga, sobre las personas con TOC que regresan a casa a comprobar que han cerrado la puerta: "Entran en un círculo vicioso del que no pueden salir"](https://www.elperiodico.com/es/salud/20261016/toc-comprobacion-psicologa-lara-ferreiro-puertas-fogones-dv-et-134798742)<br>
+12:51 [De recorrer medio mundo en silla de ruedas a atravesar la Costa Brava en kayak para reclamar una mayor accesibilidad](https://www.elperiodico.com/es/sociedad/20261016/recorrer-medio-mundo-silla-ruedas-costa-brava-kayak-accesibilidad-dv-et-135409032)<br>
+12:38 [Mette-Marit de Noruega reaparece en su momento más delicado y muestra el refugio que le ayuda a encontrar la calma](https://www.elperiodico.com/es/gente/20261016/mette-marit-noruega-reaparece-refugio-salud-telar-135408561)<br>
+12:37 [La gestora e instaladora de proyectos solares Eltex despide a sus casi 60 empleados y cierra definitivamente](https://www.elperiodico.com/es/economia/20261016/gestora-instaladora-proyectos-solares-eltex-solar-ere-cierre-135403518)<br>
+12:19 [Yolanda Gutiérrez, psicóloga: "Olvidar lo que ibas a hacer no significa tener mala memoria, sino falta de concentración"](https://www.elperiodico.com/es/salud/20261016/yolanda-gutierrez-psicologa-olvidar-ibas-hacer-memoria-falta-concentracion-135407755)<br>
+12:14 [Vuelos cancelados y retrasos en toda Italia por problemas en la transmisión de datos](https://www.elperiodico.com/es/economia/20261016/italia-vuelos-cancelados-problema-transmision-datos-135407387)<br>
+12:01 [El FMI alerta del riesgo de recesión en Europa si no se potencia el crecimiento](https://www.elperiodico.com/es/economia/20261016/fmi-alerta-riesgo-recesion-europa-135406650)<br>
+12:00 [El trabajo de los profesionales que hacen posible el espectáculo Kurios, del Cirque du Soleil, desde detrás del escenario.](https://www.elperiodico.com/es/videos/ocio-y-cultura/trabajo-profesionales-posible-espectaculo-kurios/135342714.shtml)<br>
+11:49 [Ferran Torres se pasa a la moda íntima: posa en calzoncillos para Intimissimi y enseña sus tatuajes](https://www.elperiodico.com/es/gente/20261016/ferran-torres-calzoncillos-intimissimi-embajador-tatuajes-135405582)<br>
 11:43 [Los primeros cuatro telescopios Cherenkov del mundo abren en Canarias una nueva ventana al cosmos invisible](https://www.elperiodico.com/es/sociedad/20261016/cuatro-antenas-cherenkov-abren-canarias-135398707)<br>
 11:34 [Emilio Baena, exinspector de Hacienda: "La Agencia Tributaria ya no tarda semanas en embargarte. Tarda 12 horas"](https://www.elperiodico.com/es/economia/20261016/emilio-baena-exinspector-hacienda-agencia-tributaria-ya-no-semanas-embargarte-tarda-12-horas-dv-135402382)<br>
 11:30 [Más de 280.000 catalanes en situación de pobreza severa se quedan fuera del Ingreso Mínimo Vital](https://www.elperiodico.com/es/sociedad/20261016/275-000-catalanes-situacion-pobreza-severa-quedan-fuera-ingreso-minimo-vital-imv-ayudas-sociales-135381268)<br>
