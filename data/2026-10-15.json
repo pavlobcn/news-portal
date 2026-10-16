@@ -36,6 +36,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "РФ атакувала Хмельниччину: на нафтобазі пожежа",
+    "link": "https://ua.korrespondent.net/ukraine/4920553-rf-atakuvala-khmelnychchynu-na-naftobazi-pozhezha",
+    "pubDate": "2026-10-15 23:34:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4597926.jpg\">Росіяни неодноразово атакували Хмельниччину безпілотниками; працювали сили ППО, повідомила місцева влада.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
     "title": "María Jesús Montero reitera que estaría \"encantada\" de que Zapatero participe en la campaña de las elecciones generales en Andalucía pese a las investigaciones judiciales abiertas",
     "link": "https://www.elperiodico.com/es/politica/20261015/maria-jesus-montero-reitera-estaria-135391211",
     "pubDate": "2026-10-15 23:16:47",
@@ -933,6 +942,15 @@
     "category": "Новини України",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4597557.jpg\">До ЄРДР внесли відомості щодо дій службових осіб військової частини та можливого шахрайства з боку матері, позбавленої батьківських прав.",
     "topic": "пограбування, афера",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Війна на Близькому Сході. Онлайн",
+    "link": "https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain",
+    "pubDate": "2026-10-15 17:36:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473659.jpg\">США та Ізраїль проводять масштабну операцію проти Ірану. Тегеран у відповідь атакує військові об'єкти США майже у всіх країнах Перської затоки.",
+    "topic": "політика",
     "topic_match_probability": 85
   },
   {
