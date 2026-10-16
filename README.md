@@ -1,4 +1,4 @@
-# News for 2026-10-17 00:46
+# News for 2026-10-17 01:33
 
 Previous day: [2026-10-15](./data/2026-10-15.md)
 
@@ -141,6 +141,7 @@ Previous day: [2026-10-15](./data/2026-10-15.md)
 14:12 [El Supremo destopa las veces que un empleado puede usar los 5 días de permiso para cuidar a un familiar](https://www.elperiodico.com/es/economia/20261016/permiso-cuidado-familiar-tribunal-supremo-elimina-tope-5-dias-ano-135414440)<br>
 14:09 [Microsoft crea Xbox Labs para investigar el uso de la IA en el desarrollo de videojuegos](https://www.elperiodico.com/es/tecnologia/20261016/microsoft-crea-xbox-labs-investigar-135378136)<br>
 13:59 [Isabel Allende, Premio Planeta 2026: "Me importa mucho la democracia porque sé lo que significa perderla y cuánto cuesta recuperarla"](https://www.elperiodico.com/es/ocio-y-cultura/20261016/isabel-allende-premio-planeta-2026-135413678)<br>
+13:59 [Isabel Allende, Premio Planeta 2026: "Me importa mucho la democracia porque sé lo que significa perderla y cuánto cuesta recuperarla"](https://www.elperiodico.com/es/ocio-y-cultura/20261016/isabel-allende-premio-planeta-2026-democracia-hacerse-mayor-135413678)<br>
 13:56 [La Aemet bautiza con el nombre de Adam la dana de este fin de semana, que destaca como la primera de esta temporada](https://www.elperiodico.com/es/sociedad/20261016/aemet-adam-dana-prevision-lluvias-135413018)<br>
 13:07 [La esperanza de vida con buena salud de los catalanes es de 68 años, aunque viven de media hasta los 84](https://www.elperiodico.com/es/sanidad/20261016/esperanza-vida-buena-salud-cataluna-pla-salut-horizto-2035-135374443)<br>
 13:04 [Los médicos de familia advierten del riesgo de "banalizar" el uso de los fármacos para adelgazar en adolescentes](https://www.elperiodico.com/es/sanidad/20261016/medicos-familia-advierten-riesgo-banalizar-uso-farmacos-adelgazar-adolescentes-135408524)<br>
