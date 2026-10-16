@@ -1,5 +1,41 @@
 [
   {
+    "title": "La vida es (somos) frágil(es)",
+    "link": "https://www.elperiodico.com/es/opinion/20261016/me-acuerdo-libro-joe-brainard-135356987",
+    "pubDate": "2026-10-16 04:50:37",
+    "category": "",
+    "description": "<h2>'Me acuerdo' es uno de esos libros que nunca me canso de recomendar, y siempre que lo hago me sorprende que tan poca gente lo conozca</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Dickens y Prince, mi gente",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20261016/dickens-prince-libro-nick-hornby-135049602",
+    "pubDate": "2026-10-16 04:50:37",
+    "category": "",
+    "description": "<h2>Los dos, dice Nick Hornby, tenían un talento, un genio, que afortunadamente brotó por necesidad</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "'Número cero', de Eduardo Jordá: persiguiendo el eterno enigma",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20261016/eduardo-jorda-critica-libro-numero-cero-135013092",
+    "pubDate": "2026-10-16 04:50:37",
+    "category": "",
+    "description": "<h2>En este libro, el autor se suma a la larga lista de intentos por asomarse a la poliédrica e indescifrable personalidad de Bob Dylan</h2><h2 class=\"item\">'<a href=\"https://www.elperiodico.com/es/ocio-y-cultura/libros/20261002/big-bang-dylan-134549689\">Big Bang' Dylan, por Laura Barrachina</a></h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Путін пригрозив Україні ударами \"у відповідь\"",
+    "link": "https://ua.korrespondent.net/ukraine/4920576-putin-pryhrozyv-ukraini-udaramy-u-vidpovid",
+    "pubDate": "2026-10-16 04:44:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4598219.jpg\">Україна продовжує атакувати російські нафтопереробні заводи, а Росія \"почала відповідати\", заявив хазяїн Кремля.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "У США невідомий улаштував стрілянину в школі: загинули діти",
     "link": "https://ua.korrespondent.net/world/4920574-u-ssha-nevidomyi-ulashtuvav-strilianynu-v-shkoli-zahynuly-dity",
     "pubDate": "2026-10-16 03:59:00",
