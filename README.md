@@ -1,12 +1,15 @@
-# News for 2026-10-16 20:13
+# News for 2026-10-16 20:56
 
 Previous day: [2026-10-15](./data/2026-10-15.md)
 
 ## ua.korrespondent.net
 19:54 [Рязанський НПЗ зупинив переробку на одному з основних блоків](https://ua.korrespondent.net/world/russia/4920866-riazanskyi-npz-zupynyv-pererobku-na-odnomu-z-osnovnykh-blokiv)<br>
+19:45 [Складаний iPhone Duo повністю розпродався за декілька хвилин](https://ua.korrespondent.net/lifestyle/gadgets/4920867-skladanyi-iPhone-Duo-povnistui-rozprodavsia-za-dekilka-khvylyn)<br>
 19:39 [До 40 годин очікування: що відбувається на кордоні з Польщею](https://ua.korrespondent.net/ukraine/4920861-do-40-hodyn-ochikuvannia-scho-vidbuvaietsia-na-kordoni-z-polscheui)<br>
+19:39 [Газпром шукає нових покупців в Африці](https://ua.korrespondent.net/business/economics/4920857-hazprom-shukaie-novykh-pokuptsiv-v-afrytsi)<br>
 19:17 [Масована атака РФ 16 жовтня: ППО знищила 253 дрони](https://ua.korrespondent.net/ukraine/4920854-masovana-ataka-rf-16-zhovtnia-ppo-znyschyla-253-drony)<br>
 19:01 [У кількох областях ввели аварійні відключення](https://ua.korrespondent.net/ukraine/4920850-u-kilkokh-oblastiakh-vvely-avariini-vidkluichennia)<br>
+18:44 [Флагманський 16-дюймовий, із NVIDIA RTX Spark: в Україні можна придбати ASUS ProArt P16](https://ua.korrespondent.net/lifestyle/gadgets/4919395-flahmanskyi-16-duiimovyi-iz-NVIDIA-RTX-Spark-v-ukraini-mozhna-prydbaty-ASUS-ProArt-P16)<br>
 18:04 [В Одесі затримали адвоката на хабарі у $315 тисяч](https://ua.korrespondent.net/ukraine/4920843-v-odesi-zatrymaly-advokata-na-khabari-u-315-tysiach)<br>
 18:01 [Україна випробує доставку медичних вантажів дронами](https://ua.korrespondent.net/ukraine/4920832-ukraina-vyprobuie-dostavku-medychnykh-vantazhiv-dronamy)<br>
 17:40 [На Рівненщині масштабні знеструмлення - Укренерго](https://ua.korrespondent.net/ukraine/4920833-na-rivnenschyni-masshtabni-znestrumlennia-ukrenerho)<br>
@@ -70,6 +73,8 @@ Previous day: [2026-10-15](./data/2026-10-15.md)
 01:38 [Нова пошесть в РФ: під Москвою в п'яти людей запідозрили мавпячу віспу](https://ua.korrespondent.net/world/russia/4920564-nova-poshest-v-rf-pid-moskvoui-v-piaty-luidei-zapidozryly-mavpiachu-vispu)<br>
 
 ## as.com
+20:42 [Virtus Bolonia - Baskonia, en directo: Euroliga, hoy en vivo](https://as.com/baloncesto/euroliga/virtus-bolonia-baskonia-en-directo-euroliga-hoy-en-vivo-f202610-n/)<br>
+19:58 [Sigue en directo el Casademont Zaragoza - Real Madrid de Liga U](https://as.com/baloncesto/videos/sigue-en-directo-el-casademont-zaragoza-real-madrid-de-liga-u-f202610-v/)<br>
 19:56 [Barcelona - Olympiacos, en directo: Euroliga 2025-26 en vivo hoy](https://as.com/baloncesto/euroliga/barcelona-olympiacos-en-directo-euroliga-2025-26-en-vivo-hoy-f202610-d/)<br>
 14:08 [Ponsarnau, ante el Madrid: “Una buena oportunidad para crecer”](https://as.com/baloncesto/ponsarnau-ante-el-madrid-una-buena-oportunidad-para-crecer-f202610-n/)<br>
 12:23 [Perímetro Feliz: “Ahora entiendo por qué nos ha metido ocho”](https://as.com/baloncesto/euroliga/perimetro-feliz-ahora-entiendo-por-que-nos-ha-metido-ocho-f202610-n/)<br>
@@ -81,10 +86,14 @@ Previous day: [2026-10-15](./data/2026-10-15.md)
 00:18 [Pedro Martínez: “Soy admirador de Campazzo”](https://as.com/baloncesto/pedro-martinez-soy-admirador-de-campazzo-f202610-n/)<br>
 
 ## www.elperiodico.com
+20:51 [El PERIÓDICO refuerza sus contenidos económicos](https://www.elperiodico.com/es/economia/20261016/periodico-refuerza-contenidos-economicos-135422739)<br>
+20:25 [La dana Adam obliga a activar una nueva tanda de avisos rojos y mensajes ES-Alert en Catalunya ante el riesgo de lluvias torrenciales e inundaciones](https://www.elperiodico.com/es/sociedad/20261016/dana-adam-avisos-rojos-es-alert-cataluna-meteocat-135429857)<br>
+20:23 [Arriba un cayuco con 109 personas a bordo a la isla de El Hierro](https://www.elperiodico.com/es/sociedad/20261016/cayuco-109-personas-bordo-isla-135430895)<br>
 20:06 [Catalunya reivindica los 50 años de su primera gran 'diada' feminista: “Fue una explosión de voces silenciadas durante décadas”](https://www.elperiodico.com/es/sociedad/20261016/50-anos-primeres-jornades-catalanes-dona-explosion-voces-feminismo-silenciadas-franquismo-135428418)<br>
 20:01 [Antoni Trasobares, director del CTFC: "Consumir producto local ayuda también a prevenir los incendios forestales"](https://www.elperiodico.com/es/sociedad/20261016/antoni-trasobares-director-ctfc-consumir-135358516)<br>
 20:01 [Alix E. Harrow: "Los regímenes fascistas se obsesionan con reescribir la historia porque solo así justifican los crímenes que cometen en el presente"](https://www.elperiodico.com/es/ocio-y-cultura/20261016/alix-harrow-regimenes-fascistas-obsesionados-reescribir-historia-eterna-135235858)<br>
 19:49 [Docentes vuelven a las calles tras tres jornadas de huelga con seguimiento de más del 60 %](https://www.elperiodico.com/es/sociedad/20261016/docentes-vuelven-calles-tres-jornadas-huelga-seguimiento-135429995)<br>
+19:16 [El sindicato Semaf convova una huelga de maquinistas el próximo jueves 29 de octubre en toda España](https://www.elperiodico.com/es/economia/20261016/sindicato-semaf-convoca-huelga-maquinistas-jueves-29-octubre-renfe-135428917)<br>
 19:00 [Las últimas funciones del Cirque du Soleil en L'Hospitalet a través de tres figuras 'invisibles': "Siempre hay adrenalina, es en directo”](https://www.elperiodico.com/es/barcelona/20261016/kurios-cirque-du-soleil-l-lhospitalet-barcelona-perfiles-entre-bastidores-135349444)<br>
 18:44 [El proyecto que recupera la memoria de los afectados por la dana, Premio Nacional de Restauración 2026](https://www.elperiodico.com/es/ocio-y-cultura/20261016/proyecto-recupera-memoria-afectados-dana-135427754)<br>
 18:36 [La ATM autoriza la licitación de las obras para unir el Trambaix y el Trambesòs por la Diagonal](https://www.elperiodico.com/es/barcelona/20261016/obras-tranvia-diagonal-conexion-trambaix-trambesos-atm-135422445)<br>
