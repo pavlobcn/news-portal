@@ -1,8 +1,9 @@
-# News for 2026-10-16 20:56
+# News for 2026-10-16 21:47
 
 Previous day: [2026-10-15](./data/2026-10-15.md)
 
 ## ua.korrespondent.net
+21:14 [Війська РФ вдарили ракетами по Харкову](https://ua.korrespondent.net/city/kharkov/4920881-viiska-rf-vdaryly-raketamy-po-kharkovu)<br>
 19:54 [Рязанський НПЗ зупинив переробку на одному з основних блоків](https://ua.korrespondent.net/world/russia/4920866-riazanskyi-npz-zupynyv-pererobku-na-odnomu-z-osnovnykh-blokiv)<br>
 19:45 [Складаний iPhone Duo повністю розпродався за декілька хвилин](https://ua.korrespondent.net/lifestyle/gadgets/4920867-skladanyi-iPhone-Duo-povnistui-rozprodavsia-za-dekilka-khvylyn)<br>
 19:39 [До 40 годин очікування: що відбувається на кордоні з Польщею](https://ua.korrespondent.net/ukraine/4920861-do-40-hodyn-ochikuvannia-scho-vidbuvaietsia-na-kordoni-z-polscheui)<br>

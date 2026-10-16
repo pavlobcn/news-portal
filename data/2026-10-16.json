@@ -1,5 +1,68 @@
 [
   {
+    "title": "Un herido de bala en un tiroteo cerca de la plaza Europa de Salou",
+    "link": "https://www.elperiodico.com/es/sucesos/20261016/herido-bala-salou-tiroteo-135432640",
+    "pubDate": "2026-10-16 21:38:54",
+    "category": "",
+    "description": "<h2 class=\"item\">Los hechos han ocurrido en plena calle y los Mossos d'Esquadra buscan a los autores de los disparos</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ir a la universidad en coche cuesta de media 830 euros por curso, casi lo mismo que la matrícula",
+    "link": "https://www.elperiodico.com/es/motor/20261016/ir-universidad-coche-cuesta-media-830-euros-135365482",
+    "pubDate": "2026-10-16 21:15:56",
+    "category": "",
+    "description": "<h2>Un estudio revela que la falta de alternativas en el transporte público empuja a miles de jóvenes al coche compartido para aliviar el presupuesto familiar</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Prieto presenta su renuncia como delegado del Gobierno en Catalunya para concurrir a las elecciones generales del 29-N",
+    "link": "https://www.elperiodico.com/es/politica/20261016/carlos-prieto-presenta-renuncia-delegado-gobierno-catalunya-elecciones-135432391",
+    "pubDate": "2026-10-16 21:14:25",
+    "category": "",
+    "description": "",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Війська РФ вдарили ракетами по Харкову",
+    "link": "https://ua.korrespondent.net/city/kharkov/4920881-viiska-rf-vdaryly-raketamy-po-kharkovu",
+    "pubDate": "2026-10-16 21:14:00",
+    "category": "Харків",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4599365.jpg\">Серед постраждалих у Немишлянському районі зокрема двоє 13-річних підлітків.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Шахтар завдяки своїй наполегливості в програваних матчах ЛЧ став десятим",
+    "link": "https://ua.korrespondent.net/sport/football/4920880-shakhtar-zavdiaky-svoii-napolehlyvosti-v-prohravanykh-matchakh-lch-stav-desiatym",
+    "pubDate": "2026-10-16 21:12:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4599292.jpg\">Донецькій команді завдяки своїй самовідданій грі вдалося обійти багато європейських топклубів.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El horóscopo de mañana, sábado 17 de octubre: amor, trabajo, dinero y salud para todos los signos del zodíaco",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20261016/horoscopo-hoy-sabado-17-octubre-dv-135134266",
+    "pubDate": "2026-10-16 21:01:05",
+    "category": "",
+    "description": "<h2 class=\"item\">Conoce la suerte de tu horóscopo a partir de los signos del zodíaco, según la astrología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/temas/horoscopo-11990\" >Consulta el horóscopo diario de tu signo de ayer, hoy y mañana</a></h2>",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Речниця Трампа втратила посаду після першого брифінгу - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4920878-rechnytsia-trampa-vtratyla-posadu-pislia-pershoho-bryfinhu-zmi",
+    "pubDate": "2026-10-16 20:57:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4599330.jpg\">Кеті Захарія пропрацювала на посаді речниці менше, як тиждень, коли, як стверджують джерела, її звільнили.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
     "title": "El PERIÓDICO refuerza sus contenidos económicos",
     "link": "https://www.elperiodico.com/es/economia/20261016/periodico-refuerza-contenidos-economicos-135422739",
     "pubDate": "2026-10-16 20:51:37",
