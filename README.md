@@ -1,8 +1,9 @@
-# News for 2026-10-16 23:08
+# News for 2026-10-16 23:59
 
 Previous day: [2026-10-15](./data/2026-10-15.md)
 
 ## ua.korrespondent.net
+23:50 [У застосунку Укрзалізниці з'явилася інформація про евакуаційні зупинки](https://ua.korrespondent.net/business/companies/4920899-u-zastosunku-ukrzaliznytsi-ziavylasia-informatsiia-pro-evakuatsiini-zupynky)<br>
 22:49 [На Сумщині семеро людей постраждали через атаки РФ](https://ua.korrespondent.net/ukraine/4920892-na-sumschyni-semero-luidei-postrazhdaly-cherez-ataky-rf)<br>
 21:59 [Нафта Brent уперше з травня перевищила $110](https://ua.korrespondent.net/business/economics/4920886-nafta-Brent-upershe-z-travnia-perevyschyla-110)<br>
 21:14 [Війська РФ вдарили ракетами по Харкову](https://ua.korrespondent.net/city/kharkov/4920881-viiska-rf-vdaryly-raketamy-po-kharkovu)<br>
@@ -76,6 +77,8 @@ Previous day: [2026-10-15](./data/2026-10-15.md)
 01:38 [Нова пошесть в РФ: під Москвою в п'яти людей запідозрили мавпячу віспу](https://ua.korrespondent.net/world/russia/4920564-nova-poshest-v-rf-pid-moskvoui-v-piaty-luidei-zapidozryly-mavpiachu-vispu)<br>
 
 ## as.com
+23:38 [Sekulic: “Estamos construyendo algo con vistas al futuro”](https://as.com/baloncesto/euroliga/sekulic-estamos-construyendo-algo-con-vistas-al-futuro-f202610-n/)<br>
+23:07 [Velimir Perasovic debuta con una derrota en Bolonia](https://as.com/baloncesto/velimir-perasovic-debuta-con-una-derrota-en-bolonia-f202610-n/)<br>
 22:53 [Sekulic y Punter se pegan un tiro en el pie](https://as.com/baloncesto/euroliga/sekulic-y-punter-se-pegan-un-tiro-en-el-pie-f202610-n/)<br>
 22:40 [Enfocan a Pep Guardiola en el Palau y la reacción es bestial](https://as.com/baloncesto/videos/enfocan-a-pep-guardiola-en-el-palau-y-la-reaccion-es-bestial-f202610-v/)<br>
 22:37 [El gigante Dabone espera al Madrid](https://as.com/baloncesto/mas_baloncesto/el-gigante-dabone-espera-al-madrid-f202610-n/)<br>

@@ -1,5 +1,59 @@
 [
   {
+    "title": "PSOE y Frente Amplio extienden el acuerdo de listas conjuntas para el Senado a 46 provincias para \"derrotar a la derecha y la ultraderecha\"",
+    "link": "https://www.elperiodico.com/es/politica/20261016/psoe-frente-amplio-acuerdo-senado-135434835",
+    "pubDate": "2026-10-16 23:53:51",
+    "category": "",
+    "description": "<h2 class=\"item\">La coalición se llamará Senado de Progreso e incluye a socialistas, IU, Sumar, Compromís, Más Madrid, Chunta y Batzarre</h2><h2 class=\"item\">Los negociadores apuraron hasta casi la medianoche del viernes al sábado para cerrar las coaliciones</h2><h2 class=\"item\">Los socialistas y la izquierda alternativa calculan que de esta forma pueden conseguir la mayoría en la Cámara Alta</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У застосунку Укрзалізниці з'явилася інформація про евакуаційні зупинки",
+    "link": "https://ua.korrespondent.net/business/companies/4920899-u-zastosunku-ukrzaliznytsi-ziavylasia-informatsiia-pro-evakuatsiini-zupynky",
+    "pubDate": "2026-10-16 23:50:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4599493.png\">Пасажири зможуть побачити кількість форсмажорних зупинок кожного поїзда, щоб мати змогу \"розважливо обрати маршрут і рейс\".",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ітаума розкрив справжні причини поразки в бою з Хрговичем",
+    "link": "https://ua.korrespondent.net/sport/boks/4920902-itauma-rozkryv-spravzhni-prychyny-porazky-v-boui-z-khrhovychem",
+    "pubDate": "2026-10-16 23:41:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4599402.jpg\">Британський боксер зазнав першої поразки у своїй боксерській кар'єрі, поступившись у бою хорватському спортсмену Філіпу Хрговичу.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Sekulic: “Estamos construyendo algo con vistas al futuro”",
+    "link": "https://as.com/baloncesto/euroliga/sekulic-estamos-construyendo-algo-con-vistas-al-futuro-f202610-n/",
+    "pubDate": "2026-10-16 23:38:35",
+    "category": "Baloncesto",
+    "description": "El entrenador del Barcelona valoró la derrota de su equipo ante el Olympiacos en la 6ª jornada de la Euroliga.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "На фронті загинув ексгравець Динамо Роман Максимюк",
+    "link": "https://ua.korrespondent.net/ukraine/4920894-na-fronti-zahynuv-ekshravets-dynamo-roman-maksymuik",
+    "pubDate": "2026-10-16 23:18:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4599458.jpg\">Колишній футболіст зник безвісти ще на початку 2025 року. Зараз підтвердилося, що він загинув.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Velimir Perasovic debuta con una derrota en Bolonia",
+    "link": "https://as.com/baloncesto/velimir-perasovic-debuta-con-una-derrota-en-bolonia-f202610-n/",
+    "pubDate": "2026-10-16 23:07:19",
+    "category": "Baskonia",
+    "description": "Su equipo nunca estuvo por delante en el marcador pero empató en la recta final del choque y se soñó con la remontada.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Una mala noche de Punter frena al Barça ante el campeón de Europa",
     "link": "https://www.elperiodico.com/es/deportes/20261016/mala-noche-punter-frena-barca-135432225",
     "pubDate": "2026-10-16 22:59:43",
@@ -79,6 +133,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4599422.png\">Президент США \"погодився\" із пропозицією власника Ілона Маска. Він фактично дав \"зелене світло\" Пентагону.",
     "topic": "політика",
     "topic_match_probability": 85
+  },
+  {
+    "title": "Обмеження Starlink для ЗСУ. Ініціатор і наслідки",
+    "link": "https://ua.korrespondent.net/ukraine/4920898-obmezhennia-Starlink-dlia-zsu-initsiator-i-naslidky",
+    "pubDate": "2026-10-16 22:13:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4599494.jpg\">Відповідальність за сповільнення військової версії системи (Starshield) наразі американці перекладають один на одного.",
+    "topic": "політика",
+    "topic_match_probability": 80
   },
   {
     "title": "El Defensor del Pueblo recurre ante el TC la suspensión del voto de los nacionalizados por la 'ley de nietos'",
