@@ -1,8 +1,21 @@
-# News for 2026-10-16 09:24
+# News for 2026-10-16 11:49
 
 Previous day: [2026-10-15](./data/2026-10-15.md)
 
 ## ua.korrespondent.net
+11:39 [ЄС не скасує санкції проти РФ до завершення війни](https://ua.korrespondent.net/world/4920684-yes-ne-skasuie-sanktsii-proty-rf-do-zavershennia-viiny)<br>
+11:34 [У Карпатах випав сніг, температура впала до -5](https://ua.korrespondent.net/ukraine/4920686-u-karpatakh-vypav-snih-temperatura-vpala-do-5)<br>
+11:28 [Гривня зміцнюється в обмінниках наприкінці тижня](https://ua.korrespondent.net/business/financial/4920680-hryvnia-zmitsnuiietsia-v-obminnykakh-naprykintsi-tyzhnia)<br>
+11:21 [Військовим видаватимуть альтернативний сухпайок](https://ua.korrespondent.net/ukraine/4920678-viiskovym-vydavatymut-alternatyvnyi-sukhpaiok)<br>
+11:10 [ЄС не послаблюватиме підтримку України - Кошта](https://ua.korrespondent.net/world/4920676-yes-ne-poslabluivatyme-pidtrymku-ukrainy-koshta)<br>
+10:53 [Удар по підприємству на Волині: є жертва та загроза викиду аміаку](https://ua.korrespondent.net/ukraine/4920668-udar-po-pidpryiemstvu-na-volyni-ye-zhertva-ta-zahroza-vykydu-amiaku)<br>
+10:33 [Російські дрони уночі п'ять разів залітали в Молдову](https://ua.korrespondent.net/world/4920662-rosiiski-drony-unochi-piat-raziv-zalitaly-v-moldovu)<br>
+10:27 [Японія посилить спостереження за військовими Китаю](https://ua.korrespondent.net/world/4920661-yaponiia-posylyt-sposterezhennia-za-viiskovymy-kytaui)<br>
+10:12 [Відключення в Києві і дев'яти областях - Укренерго](https://ua.korrespondent.net/ukraine/4920649-vidkluichennia-v-kyievi-i-deviaty-oblastiakh-ukrenerho)<br>
+09:58 [У центрі Сум російський дрон влучив у ТЦ: є постраждалі](https://ua.korrespondent.net/ukraine/4920646-u-tsentri-sum-rosiiskyi-dron-vluchyv-u-tts-ye-postrazhdali)<br>
+09:49 [ППО знищила понад 70% реактивних "шахедів" за ніч](https://ua.korrespondent.net/ukraine/4920644-ppo-znyschyla-ponad-70-reaktyvnykh-shakhediv-za-nich)<br>
+09:45 [Обстріли Донеччини: загиблий і шестеро поранених](https://ua.korrespondent.net/ukraine/4920637-obstrily-donechchyny-zahyblyi-i-shestero-poranenykh)<br>
+09:25 [Україна затвердила стратегію інженерного обладнання оборонних рубежів](https://ua.korrespondent.net/ukraine/4920624-ukraina-zatverdyla-stratehiui-inzhenernoho-obladnannia-oboronnykh-rubezhiv)<br>
 08:59 [У Вижницькому нацпарку збереглися прадавні скелі](https://ua.korrespondent.net/tech/science/4920512-u-vyzhnytskomu-natsparku-zberehlysia-pradavni-skeli)<br>
 08:55 [Атака на Рівне: постраждали семеро людей](https://ua.korrespondent.net/ukraine/4920617-ataka-na-rivne-postrazhdaly-semero-luidei)<br>
 08:47 [Росія нарощує транзит зерна через Латвію](https://ua.korrespondent.net/business/economics/4920615-rosiia-naroschuie-tranzyt-zerna-cherez-latviui)<br>
@@ -21,10 +34,26 @@ Previous day: [2026-10-15](./data/2026-10-15.md)
 01:38 [Нова пошесть в РФ: під Москвою в п'яти людей запідозрили мавпячу віспу](https://ua.korrespondent.net/world/russia/4920564-nova-poshest-v-rf-pid-moskvoui-v-piaty-luidei-zapidozryly-mavpiachu-vispu)<br>
 
 ## as.com
+10:48 [Yankuba Sima se desvincula de Valencia Basket](https://as.com/baloncesto/acb/yankuba-sima-se-desvincula-de-valencia-basket-f202610-n/)<br>
 08:48 [El fenómeno Aday Mara llega al Hall of Fame](https://as.com/baloncesto/videos/el-fenomeno-aday-mara-llega-al-hall-of-fame-f202610-v/)<br>
+08:08 [El Barça disfruta en la agonía](https://as.com/baloncesto/euroliga/el-barca-disfruta-en-la-agonia-f202610-n/)<br>
+08:08 [Perasovic se estrena en Bolonia](https://as.com/baloncesto/euroliga/perasovic-se-estrena-en-bolonia-f202610-n/)<br>
 00:18 [Pedro Martínez: “Soy admirador de Campazzo”](https://as.com/baloncesto/pedro-martinez-soy-admirador-de-campazzo-f202610-n/)<br>
 
 ## www.elperiodico.com
+11:43 [Los primeros cuatro telescopios Cherenkov del mundo abren en Canarias una nueva ventana al cosmos invisible](https://www.elperiodico.com/es/sociedad/20261016/cuatro-antenas-cherenkov-abren-canarias-135398707)<br>
+11:34 [Emilio Baena, exinspector de Hacienda: "La Agencia Tributaria ya no tarda semanas en embargarte. Tarda 12 horas"](https://www.elperiodico.com/es/economia/20261016/emilio-baena-exinspector-hacienda-agencia-tributaria-ya-no-semanas-embargarte-tarda-12-horas-dv-135402382)<br>
+11:30 [Más de 280.000 catalanes en situación de pobreza severa se quedan fuera del Ingreso Mínimo Vital](https://www.elperiodico.com/es/sociedad/20261016/275-000-catalanes-situacion-pobreza-severa-quedan-fuera-ingreso-minimo-vital-imv-ayudas-sociales-135381268)<br>
+11:29 [Así avanza Benidorm en el despliegue de la tecnología para controlar los drones](https://www.elperiodico.com/es/sociedad/20261016/avanza-benidorm-despliegue-tecnologia-controlar-drones-espacio-aereo-135398705)<br>
+11:28 [Una firma espía de Israel hackea millones de móviles a través de anuncios en línea, según un estudio](https://www.elperiodico.com/es/internacional/20261016/firma-espia-israel-hackea-millones-moviles-anuncios-pegasus-candiru-virus-135405207)<br>
+11:16 [Siempre nos quedará la IA](https://www.elperiodico.com/es/gente/20261016/mamarazzis-siempre-quedara-ia-lorena-vazquez-135403479)<br>
+10:51 [Las previsiones sobre la dana empeoran y obligan a activar avisos rojos en la costa catalana a partir del sábado](https://www.elperiodico.com/es/sociedad/20261016/previsiones-dana-avisos-rojos-cataluna-meteocat-135402751)<br>
+10:32 [La enfermedad del Papa dispara la incertidumbre: ¿condicionará el papado de León XIV?](https://www.elperiodico.com/es/sociedad/20261016/cancer-pulmon-papa-leon-xiv-incertidumbre-papado-135401585)<br>
+10:29 [Hilary Swank, embarazada de su tercer hijo a los 52 años: el original anuncio y la reacción de sus mellizos](https://www.elperiodico.com/es/gente/20261016/hilary-swank-embarazada-52-anos-tercer-hijo-mellizos-135401183)<br>
+09:59 [GTA 6 revela nuevos detalles del pasado de Jason y su historia junto a Lucía en el tráiler de lanzamiento](https://www.elperiodico.com/es/videojuegos/20261016/gta-6-revela-nuevos-detalles-135385466)<br>
+09:48 [Precio de la gasolina y diésel hoy, 16 de octubre en España: consulta el precio de los carburantes](https://www.elperiodico.com/es/economia/20261016/precio-gasolina-diesel-hoy-16-octubre-dv-135378462)<br>
+09:35 [Muniesa (CaixaBank) destaca el papel de las microfinanzas en la cohesión social](https://www.elperiodico.com/es/economia/20261016/muniesa-caixabank-destaca-papel-microfinanzas-135383270)<br>
+09:31 [El modelo energético 360° para empresas: cómo reducir costes agrupando placas, baterías y suministro en un solo proveedor](https://www.elperiodico.com/es/economia/20261016/modelo-360-energia-empresas-bc-134879527)<br>
 09:20 [El Ibex 35 abre en positivo y busca cerrar la semana por encima de los 19.200 puntos](https://www.elperiodico.com/es/economia/20261016/ibex-35-abre-positivo-busca-135400062)<br>
 09:15 [Romualdo González dejó la obra para dedicarse al cultivo del pistacho: “La gente dice que se está sembrando mucho, pero es que España es el sitio donde más se puede poner pistacho”](https://www.elperiodico.com/es/economia/20261016/donde-salen-pistachos-cultivo-pistacho-espana-buena-zona-romualdo-agricultor-construccion-dv-127632487)<br>
 09:13 [Nerea Pérez de las Heras, en el videopódcast del suplemento ABRIL: "La parte de testimonio fue la más difícil de escribir"](https://www.elperiodico.com/es/ocio-y-cultura/libros/20261016/nerea-perez-heras-videopodcast-suplemento-abril-135285207)<br>
