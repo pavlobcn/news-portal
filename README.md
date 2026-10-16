@@ -1,8 +1,10 @@
-# News for 2026-10-16 13:13
+# News for 2026-10-16 14:37
 
 Previous day: [2026-10-15](./data/2026-10-15.md)
 
 ## ua.korrespondent.net
+14:11 [АРМА готує до продажу арештований суховантаж РФ у Чорноморську](https://ua.korrespondent.net/business/4920744-arma-hotuie-do-prodazhu-areshtovanyi-sukhovantazh-rf-u-chornomorsku)<br>
+13:45 [Найбільші алкогольні мережі Росії вперше почали закривати магазини](https://ua.korrespondent.net/world/russia/4920734-naibilshi-alkoholni-merezhi-rosii-vpershe-pochaly-zakryvaty-mahazyny)<br>
 13:11 [З’явився аудіозапис про день смерті Панеттьєрі](https://ua.korrespondent.net/lifestyle/4920710-ziavyvsia-audiozapys-pro-den-smerti-panettieri)<br>
 12:54 [Надходження військового збору зросли: скільки отримав бюджет](https://ua.korrespondent.net/business/financial/4920716-nadkhodzhennia-viiskovoho-zboru-zrosly-skilky-otrymav-buidzhet)<br>
 12:41 [Принц Гаррі зробив емоційну заяву про принцесу Діану](https://ua.korrespondent.net/lifestyle/4920693-prynts-harri-zrobyv-emotsiinu-zaiavu-pro-pryntsesu-dianu)<br>
@@ -43,6 +45,9 @@ Previous day: [2026-10-15](./data/2026-10-15.md)
 01:38 [Нова пошесть в РФ: під Москвою в п'яти людей запідозрили мавпячу віспу](https://ua.korrespondent.net/world/russia/4920564-nova-poshest-v-rf-pid-moskvoui-v-piaty-luidei-zapidozryly-mavpiachu-vispu)<br>
 
 ## as.com
+14:08 [Ponsarnau, ante el Madrid: “Una buena oportunidad para crecer”](https://as.com/baloncesto/ponsarnau-ante-el-madrid-una-buena-oportunidad-para-crecer-f202610-n/)<br>
+12:23 [Perímetro Feliz: “Ahora entiendo por qué nos ha metido ocho”](https://as.com/baloncesto/euroliga/perimetro-feliz-ahora-entiendo-por-que-nos-ha-metido-ocho-f202610-n/)<br>
+12:04 [El plan de la década en la Euroliga](https://as.com/baloncesto/euroliga/el-plan-de-la-decada-en-la-euroliga-f202610-n/)<br>
 10:48 [Yankuba Sima se desvincula de Valencia Basket](https://as.com/baloncesto/acb/yankuba-sima-se-desvincula-de-valencia-basket-f202610-n/)<br>
 08:48 [El fenómeno Aday Mara llega al Hall of Fame](https://as.com/baloncesto/videos/el-fenomeno-aday-mara-llega-al-hall-of-fame-f202610-v/)<br>
 08:08 [El Barça disfruta en la agonía](https://as.com/baloncesto/euroliga/el-barca-disfruta-en-la-agonia-f202610-n/)<br>
@@ -50,6 +55,13 @@ Previous day: [2026-10-15](./data/2026-10-15.md)
 00:18 [Pedro Martínez: “Soy admirador de Campazzo”](https://as.com/baloncesto/pedro-martinez-soy-admirador-de-campazzo-f202610-n/)<br>
 
 ## www.elperiodico.com
+14:35 [Ni una vez a la semana ni cada 15 días: cuándo hay que lavar las sábanas para evitar la acumulación de ácaros y bacterias](https://www.elperiodico.com/es/vida-y-estilo/20261016/cada-cuanto-lavar-cambiar-las-sabanas-cama-invierno-dv-105558586)<br>
+14:32 [El Papa muestra "una mejoría constante" y recupera autonomía tras su operación de pulmón](https://www.elperiodico.com/es/sociedad/20261016/papa-muestra-mejoria-constante-recupera-135416772)<br>
+14:15 [Helena Rodero, experta en cuidado capilar, sobre las canas: "Si vuelves a un estilo de vida saludable esas canas se revierten"](https://www.elperiodico.com/es/salud/20261016/eliminar-canas-alopecia-mejoras-estilo-vida-enfermera-doctor-abellan-dv-129032111)<br>
+14:14 [Ignacio Solsona, abogado laboralista: "Esperemos que a partir de 2027 las personas que tengan más de 40 años cotizados puedan solicitar una jubilación anticipada sin ninguna penalización"](https://www.elperiodico.com/es/economia/20261016/ignacio-solsona-abogado-laboralista-esperemos-que-partir-2027-personas-tengan-mas-40-anos-cotizados-puedan-solicitar-jubilacion-anticipada-sin-ninguna-penalizacion-dv-135408658)<br>
+14:12 [El Supremo destopa las veces que un empleado puede usar los 5 días de permiso para cuidar a un familiar](https://www.elperiodico.com/es/economia/20261016/permiso-cuidado-familiar-tribunal-supremo-elimina-tope-5-dias-ano-135414440)<br>
+14:09 [Microsoft crea Xbox Labs para investigar el uso de la IA en el desarrollo de videojuegos](https://www.elperiodico.com/es/tecnologia/20261016/microsoft-crea-xbox-labs-investigar-135378136)<br>
+13:59 [Isabel Allende, Premio Planeta 2026: "Me importa mucho la democracia porque sé lo que significa perderla y cuánto cuesta recuperarla"](https://www.elperiodico.com/es/ocio-y-cultura/20261016/isabel-allende-premio-planeta-2026-135413678)<br>
 13:07 [La esperanza de vida con buena salud de los catalanes es de 68 años, aunque viven de media hasta los 84](https://www.elperiodico.com/es/sanidad/20261016/esperanza-vida-buena-salud-cataluna-pla-salut-horizto-2035-135374443)<br>
 13:04 [Los médicos de familia advierten del riesgo de "banalizar" el uso de los fármacos para adelgazar en adolescentes](https://www.elperiodico.com/es/sanidad/20261016/medicos-familia-advierten-riesgo-banalizar-uso-farmacos-adelgazar-adolescentes-135408524)<br>
 13:03 [Así es la carrera por encontrar las mandarinas del futuro](https://www.elperiodico.com/es/sociedad/20261016/carrera-encontrar-mandarinas-futuro-135398834)<br>
@@ -89,6 +101,9 @@ Previous day: [2026-10-15](./data/2026-10-15.md)
 07:37 [El Real Madrid gana al Asvel en la Euroliga con un tremendo partido de Andrés Feliz](https://www.elperiodico.com/es/deportes/20261016/real-madrid-gana-asvel-euroliga-135391110)<br>
 07:13 [Mónica recuerda cómo pasó de trabajar con drones a heredar 117 cabezas de ganado en Lugo: "No sabía ni poner una brida"](https://www.elperiodico.com/es/economia/20261016/cambio-vida-ganaderia-familiar-lugo-galicia-monica-dv-et-leg-135164259)<br>
 07:00 [El intestino produce alrededor del 90% de la serotonina del organismo: qué significa este dato y otras curiosidades](https://www.elperiodico.com/es/salud/20261016/intestino-produce-alrededor-90-serotonina-bc-135396113)<br>
+07:00 ["Algaradas necesarias"](https://www.elperiodico.com/es/entre-todos/participacion/algaradas-necesarias-carta-luis-fernando-crespo-zorita-135300956)<br>
+06:45 ["Los tipos de interés y el interés de los tipos"](https://www.elperiodico.com/es/entre-todos/participacion/interes-tipos-economia-de-mercado-carta-lector-ferran-crespo-135300695)<br>
+06:30 ["Cuando no se tienen argumentos se recurre al insulto y a la violencia"](https://www.elperiodico.com/es/entre-todos/participacion/argumentos-recurre-insulto-violencia-presidente-pedro-sanchez-carta-lector-victor-calvo-135295010)<br>
 06:05 [Valencia Boat Show cuelga el cartel de completo con cifras récord y refuerza su posición en el Mediterráneo](https://www.elperiodico.com/es/economia/20261016/valencia-boat-show-cuelga-cartel-bc-135360178)<br>
 06:00 [5 claves para acompañar el duelo de las madres que pierden al bebé antes o después del parto](https://www.elperiodico.com/es/ser-feliz/20261016/5-claves-acompanar-duelo-madres-135389129)<br>
 06:00 [Una de las joyas medievales del Pirineo catalán acoge este fin de semana la feria más antigua de España](https://www.elperiodico.com/es/que-hacer/planes/20261016/joyas-medievales-pirineo-catalan-feria-antigua-paraiso-quesos-135383943)<br>
@@ -96,6 +111,7 @@ Previous day: [2026-10-15](./data/2026-10-15.md)
 06:00 [Charles Spencer, hermano de Diana de Gales: "La familia real estaba muy celosa de Diana. Su magnetismo de estrella le resultaba inoportuno"](https://www.elperiodico.com/es/internacional/20261016/charles-spencer-hermano-diana-gales-libro-familia-real-muy-celosa-diana-magnetismo-estrella-incomodo-135395839)<br>
 06:00 [Carlos Torres y Josep Oliu, dos presidentes reforzados pese a todo un año después de la opa de BBVA a Banc Sabadell](https://www.elperiodico.com/es/economia/20261016/carlos-torres-josep-oliu-presidentes-135244592)<br>
 06:00 [BBVA y Sabadell buscan sus espacios](https://www.elperiodico.com/es/economia/20261016/bbva-sabadell-buscan-espacios-135299618)<br>
+06:00 ["Cuestionar lo establecido no es señal de debilidad"](https://www.elperiodico.com/es/entre-todos/participacion/cuestionar-establecido-debilidad-manifestaciones-huelgas-generacion-de-cristal-carta-lector-sergi-lopez-135272481)<br>
 05:55 [Guerra de Irán, en directo](https://www.elperiodico.com/es/internacional/20261016/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713)<br>
 05:53 [Guerra Ucrania - Rusia, última hora en directo](https://www.elperiodico.com/es/internacional/20261016/guerra-ucrania-rusia-ultima-hora-126605559)<br>
 04:50 [La vida es (somos) frágil(es)](https://www.elperiodico.com/es/opinion/20261016/me-acuerdo-libro-joe-brainard-135356987)<br>
