@@ -1,5 +1,77 @@
 [
   {
+    "title": "Albiol será el candidato del PP por Barcelona en las elecciones generales",
+    "link": "https://www.elperiodico.com/es/politica/20261017/albiol-candidato-pp-cataluna-barcelona-elecciones-generales-135402322",
+    "pubDate": "2026-10-17 15:46:34",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20250706/feijoo-apuesta-sector-pp-catalan-moderado-modelo-albiol-congreso-volcado-centralidad-119396552\" target=\"_blank\">Feijóo abraza la 'fórmula Albiol' y da protagonismo al PP catalán moderado en su congreso</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Irene Montero pide \"disculpas por el espectáculo\" pero cree \"valioso\" el acuerdo con ERC",
+    "link": "https://www.elperiodico.com/es/videos/politica/irene-montero-pide-disculpas-espectaculo/135446665.shtml",
+    "pubDate": "2026-10-17 15:30:34",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ceuta cifra en 3.086 los menores acogidos, que eran 180 antes de la entrada masiva",
+    "link": "https://www.elperiodico.com/es/sociedad/20261017/ceuta-menores-acogidos-entrada-masiva-135446537",
+    "pubDate": "2026-10-17 15:26:39",
+    "category": "",
+    "description": "<h2>Los recursos de la ciudad autónoma soportan una sobreocupación del 10.541%</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Dos menores detenidos por la muerte de una anciana en su casa en Burgos",
+    "link": "https://www.elperiodico.com/es/sucesos/20261017/menores-detenidos-muerte-anciana-burgos-135446377",
+    "pubDate": "2026-10-17 15:22:46",
+    "category": "",
+    "description": "<h2>La víctima apareció el pasado martes amordazada y maniatada en su vivienda</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Catalunya ofrecerá cribados de cáncer de pulmón a fumadores mayores de 60 años a partir de 2027",
+    "link": "https://www.elperiodico.com/es/sociedad/20261017/catalunya-cribados-cancer-pulmon-fumadores-135446187",
+    "pubDate": "2026-10-17 15:17:20",
+    "category": "",
+    "description": "<h2 class=\"item\">El Govern implantará este programa a partir de 2027 y se centrará inicialmente en pacientes con un historial de consumo de un paquete diario durante 30 años</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Registrado un terremoto de magnitud 2,5 \"sin daños\" en el Ripollès (Girona)",
+    "link": "https://www.elperiodico.com/es/sociedad/20261017/ripolles-toses-girona-terremoto-sin-danos-135445906",
+    "pubDate": "2026-10-17 15:09:36",
+    "category": "",
+    "description": "<h2 class=\"item\">El fenómeno sísmico ha tenido lugar este sábado en las inmediaciones del municipio gerundense de Toses y ha sido percibido probablemente por los habitantes cercanos al epicentro</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Europa enfría la expansión de Palantir, la empresa aliada de Trump y Netanyahu que también tiene contratos en España",
+    "link": "https://www.elperiodico.com/es/internacional/20261017/crece-rechazo-europa-palantir-empresa-vigilancia-peter-thiel-ia-negocios-espana-policia-trump-135446022",
+    "pubDate": "2026-10-17 15:00:52",
+    "category": "",
+    "description": "<h2>Potencias como Alemania o el Reino Unido empiezan a dar la espalda a la controvertida firma de análisis de datos aduciendo que sus sistemas algorítmicos suponen una amenaza para la seguridad y la soberanía europea</h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20261010/malestar-socios-gobierno-contrato-palantir-espana-ejercito-inteligencia-artificial-sumar-millones-trump-guerra-gaza-israel-peter-thiel-135197507\" target=\"_blank\">El Gobierno de España deberá decidir antes de las elecciones si renueva su polémico contrato militar con Palantir</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Ada Colau sobre Podemos: \"Si alguien no se quiere sentar a una mesa, no se le puede obligar\"",
+    "link": "https://www.elperiodico.com/es/videos/politica/ada-colau-alguien-quiere-sentar/135445991.shtml",
+    "pubDate": "2026-10-17 15:00:45",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Feijóo promete \"llegar, trabajar y resolver\" para fortalecer el Estado del bienestar",
     "link": "https://www.elperiodico.com/es/videos/politica/feijoo-promete-llegar-trabajar-resolver/135445536.shtml",
     "pubDate": "2026-10-17 14:29:38",
@@ -529,6 +601,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4600135.jpg\">Водій автомобіля Renault здійснив наїзд на пішохода та залишив місце дорожньо-транспортної пригоди.",
     "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
     "topic_match_probability": 90
+  },
+  {
+    "title": "El Govern firma con BonÀrea y Creu Roja los contratos de las tarjetas monedero para familias con menores vulnerables",
+    "link": "https://www.elperiodico.com/es/sociedad/20261017/govern-firma-bonarea-creu-roja-tarjetas-monedero-familias-menores-vulnerables-135440201",
+    "pubDate": "2026-10-17 10:53:16",
+    "category": "",
+    "description": "<h2>Las ayudas servirán para adquirir alimentos y productos de higiene y está previsto que lleguen a unas 12.000 familias</h2>",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "España cae en los penaltis ante Argentina y peleará por el bronce en el Mundial",
