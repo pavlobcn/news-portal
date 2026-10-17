@@ -1,8 +1,9 @@
-# News for 2026-10-17 23:05
+# News for 2026-10-18 00:33
 
 Previous day: [2026-10-16](./data/2026-10-16.md)
 
 ## ua.korrespondent.net
+23:17 [БПЛА атакували Полтаву: є жертва і поранені](https://ua.korrespondent.net/ukraine/4921065-bpla-atakuvaly-poltavu-ye-zhertva-i-poraneni)<br>
 22:24 [Румунські F-16 збили два дрони над Чорним морем](https://ua.korrespondent.net/world/4921055-rumunski-F-16-zbyly-dva-drony-nad-chornym-morem)<br>
 21:59 [На фронті відбулося 215 бойових зіткнень](https://ua.korrespondent.net/ukraine/4921051-na-fronti-vidbulosia-215-boiovykh-zitknen)<br>
 21:35 [Росіяни вдарили балістикою по Харкову, є поранені](https://ua.korrespondent.net/city/kharkov/4921043-rosiiany-vdaryly-balistykoui-po-kharkovu-ye-poraneni)<br>
@@ -41,6 +42,8 @@ Previous day: [2026-10-16](./data/2026-10-16.md)
 02:23 [У Херсоні пенсіонер підірвався на міні](https://ua.korrespondent.net/ukraine/4920914-u-khersoni-pensioner-pidirvavsia-na-mini)<br>
 
 ## as.com
+23:17 [El Monbus Obradoiro está lanzado](https://as.com/baloncesto/acb/el-monbus-obradoiro-esta-lanzado-f202610-n/)<br>
+22:11 [El Andorra logra su primera victoria de la temporada](https://as.com/baloncesto/acb/el-andorra-logra-su-primera-victoria-de-la-temporada-f202610-n/)<br>
 21:05 [Cameron Hunt tapa las grietas](https://as.com/baloncesto/cameron-hunt-tapa-las-grietas-f202610-n/)<br>
 18:26 [Jarred Shaw, exjugador de baloncesto encarcelado en Indonesia, pide auxilio a Estados Unidos: “No quería despertar”](https://as.com/baloncesto/nba/jarred-shaw-exjugador-de-baloncesto-encarcelado-en-indonesia-pide-auxilio-a-estados-unidos-no-queria-despertar-f202610-n/)<br>
 16:46 [El Movistar Estudiantes llama a su afición ante su primera gran final](https://as.com/baloncesto/mas_baloncesto/el-movistar-estudiantes-llama-a-su-aficion-ante-su-primera-gran-final-f202610-n/)<br>
@@ -51,6 +54,9 @@ Previous day: [2026-10-16](./data/2026-10-16.md)
 00:01 [Resumen del Barcelona vs. Olympiacos de Euroliga](https://as.com/videos/euroliga/resumen-del-barcelona-vs-olympiacos-de-euroliga-f202610-v/)<br>
 
 ## www.elperiodico.com
+23:57 [Fallece el Conde Rudi, referente del desarrollo turístico de Marbella](https://www.elperiodico.com/es/sociedad/20261017/fallece-conde-rudi-referente-desarrollo-135457739)<br>
+23:53 [Juan Carlos I e Irene Urdangarin disfrutan de una jornada de vela en la ría de Pontevedra](https://www.elperiodico.com/es/sociedad/20261017/juan-carlos-irene-urdangarin-disfrutan-135457671)<br>
+23:43 [Investigan la muerte de un hombre encontrado en un callejón de Murcia](https://www.elperiodico.com/es/sucesos/20261017/investigan-muerte-hombre-encontrado-callejon-135457600)<br>
 22:47 [Reabre la estación de Metro de Sol tras "constatarse que están garantizadas las condiciones de seguridad y salud"](https://www.elperiodico.com/es/sociedad/20261017/reabre-estacion-sol-metro-madrid-135457058)<br>
 22:46 [Incendio en el Ayuntamiento de Limoges, Francia](https://www.elperiodico.com/es/videos/internacional/incendio-ayuntamiento-limoges-francia-video/135457033.shtml)<br>
 22:02 [Teresa Sanjurjo, directora de la Fundación Princesa de Asturias: "La presencia de Leonor es algo que deciden sus padres, yo no hago pronósticos"](https://www.elperiodico.com/es/ocio-y-cultura/20261017/teresa-sanjurjo-directora-fundacion-princesa-135456628)<br>

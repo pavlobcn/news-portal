@@ -1,5 +1,86 @@
 [
   {
+    "title": "Fallece el Conde Rudi, referente del desarrollo turístico de Marbella",
+    "link": "https://www.elperiodico.com/es/sociedad/20261017/fallece-conde-rudi-referente-desarrollo-135457739",
+    "pubDate": "2026-10-17 23:57:33",
+    "category": "",
+    "description": "<h2>Nacido en una familia aristocrática que perdió su fortuna tras la II Guerra Mundial, su trayectoria estuvo íntimamente ligada a la del hotel Marbella Club</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Juan Carlos I e Irene Urdangarin disfrutan de una jornada de vela en la ría de Pontevedra",
+    "link": "https://www.elperiodico.com/es/sociedad/20261017/juan-carlos-irene-urdangarin-disfrutan-135457671",
+    "pubDate": "2026-10-17 23:53:28",
+    "category": "",
+    "description": "<h2>El rey emérito recibe en Sanxenxo la visita de su nieta y ve como el ‘Bribón’ inició la regata con un segundo puesto general</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Бабіш назвав катастрофічним для свого руху результат виборів у Сенат",
+    "link": "https://ua.korrespondent.net/world/4921067-babish-nazvav-katastrofichnym-dlia-svoho-rukhu-rezultat-vyboriv-u-senat",
+    "pubDate": "2026-10-17 23:50:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4600895.jpg\">У Чехії 16-17 жовтня переобирали третину складу 81-місного Сенату. За підсумками виборів фракція Бабіша матиме на одного сенатора менше.",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Investigan la muerte de un hombre encontrado en un callejón de Murcia",
+    "link": "https://www.elperiodico.com/es/sucesos/20261017/investigan-muerte-hombre-encontrado-callejon-135457600",
+    "pubDate": "2026-10-17 23:43:46",
+    "category": "",
+    "description": "<h2>Un trabajador del servicio de limpieza dio la voz de alarma por el hedor, la Policía acudió al lugar y vio, entre un carro con enseres, cómo asomaba el pie de una persona</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Valencia y Athletic firman las tablas sin goles en Mestalla",
+    "link": "https://www.elperiodico.com/es/deportes/20261017/valencia-athletic-firman-tablas-goles-135457172",
+    "pubDate": "2026-10-17 23:43:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Los valencianistas siguen anclados en el descenso con dos empates tras la llegada de Aguirre. Los vascos suman su tercer empate a cero consecutivo.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Шахтар обігрує Колос у дев’ятому турі УПЛ",
+    "link": "https://ua.korrespondent.net/sport/football/4921069-shakhtar-obihruie-kolos-u-deviatomu-turi-upl",
+    "pubDate": "2026-10-17 23:34:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4600834.jpg\">Підопічні Арди Турана провели передпідготовку до матчу міжнародного рівня з Інтером, легко вигравши поєдинок із Колосом.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Monbus Obradoiro está lanzado",
+    "link": "https://as.com/baloncesto/acb/el-monbus-obradoiro-esta-lanzado-f202610-n/",
+    "pubDate": "2026-10-17 23:17:22",
+    "category": "Baloncesto",
+    "description": "El equipo gallego asalta el Coliseum y gana al San Pablo Burgos para certificar su buen comienzo de temporada con tres triunfos en cuatro jornadas.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "БПЛА атакували Полтаву: є жертва і поранені",
+    "link": "https://ua.korrespondent.net/ukraine/4921065-bpla-atakuvaly-poltavu-ye-zhertva-i-poraneni",
+    "pubDate": "2026-10-17 23:17:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4600855.jpg\">Через атаку російського дрона пошкоджено чотири приватні будинки. Одна людина загинула, дві постраждали.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Operativo para buscar a una mujer que habría caído en el arroyo en Cabrera de Mar",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/operativo-buscar-mujer-habria-caido-video/135457289.shtml",
+    "pubDate": "2026-10-17 23:06:56",
+    "category": "",
+    "description": "",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 80
+  },
+  {
     "title": "Reabre la estación de Metro de Sol tras \"constatarse que están garantizadas las condiciones de seguridad y salud\"",
     "link": "https://www.elperiodico.com/es/sociedad/20261017/reabre-estacion-sol-metro-madrid-135457058",
     "pubDate": "2026-10-17 22:47:41",
@@ -52,6 +133,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4600788.jpg\">Українському гравцю суддя матчу показав пряму червону картку за неспортивну поведінку в матчі Брентфорда проти Ліверпуля.",
     "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
     "topic_match_probability": 100
+  },
+  {
+    "title": "El Andorra logra su primera victoria de la temporada",
+    "link": "https://as.com/baloncesto/acb/el-andorra-logra-su-primera-victoria-de-la-temporada-f202610-n/",
+    "pubDate": "2026-10-17 22:11:36",
+    "category": "Baloncesto",
+    "description": "El equipo del Principado remontó 17 puntos frente al Río Breogán, que perdió su invencibilidad en la Liga Endesa.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Teresa Sanjurjo, directora de la Fundación Princesa de Asturias: \"La presencia de Leonor es algo que deciden sus padres, yo no hago pronósticos\"",
