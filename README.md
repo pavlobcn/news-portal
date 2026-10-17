@@ -1,8 +1,12 @@
-# News for 2026-10-17 20:42
+# News for 2026-10-17 22:30
 
 Previous day: [2026-10-16](./data/2026-10-16.md)
 
 ## ua.korrespondent.net
+22:24 [Румунські F-16 збили два дрони над Чорним морем](https://ua.korrespondent.net/world/4921055-rumunski-F-16-zbyly-dva-drony-nad-chornym-morem)<br>
+21:59 [На фронті відбулося 215 бойових зіткнень](https://ua.korrespondent.net/ukraine/4921051-na-fronti-vidbulosia-215-boiovykh-zitknen)<br>
+21:10 [У Сумській громаді чрез удар російського дрона загинув чоловік](https://ua.korrespondent.net/ukraine/4921041-u-sumskii-hromadi-chrez-udar-rosiiskoho-drona-zahynuv-cholovik)<br>
+20:45 [У застосунку Повітряна тривога з'явилися зміни](https://ua.korrespondent.net/ukraine/4921037-u-zastosunku-povitriana-tryvoha-ziavylysia-zminy)<br>
 20:20 [На Чернігівщині через російські атаки 19 тисяч абонентів - без електрики](https://ua.korrespondent.net/ukraine/4921033-na-chernihivschyni-cherez-rosiiski-ataky-19-tysiach-abonentiv-bez-elektryky)<br>
 19:55 [У Луцьку через російські удари зупинилося німецьке підприємство](https://ua.korrespondent.net/ukraine/4921027-u-lutsku-cherez-rosiiski-udary-zupynylosia-nimetske-pidpryiemstvo)<br>
 19:30 [На Тернопільщині РФ повторно вдарила по енергетичному об’єкту](https://ua.korrespondent.net/ukraine/4921025-na-ternopilschyni-rf-povtorno-vdaryla-po-enerhetychnomu-obiektu)<br>
@@ -12,6 +16,7 @@ Previous day: [2026-10-16](./data/2026-10-16.md)
 17:00 [У Криму стався землетрус](https://ua.korrespondent.net/ukraine/4921002-u-krymu-stavsia-zemletrus)<br>
 16:54 [Стародубцева оступилася на шляху кваліфікації турніру WTA 500 у Китаї](https://ua.korrespondent.net/sport/tenis/4921005-starodubtseva-ostupylasia-na-shliakhu-kvalifikatsii-turniru-WTA-500-u-kytai)<br>
 16:35 [На Запоріжжі окупанти вбили двох українськх полонених - УВ Південь](https://ua.korrespondent.net/ukraine/4920999-na-zaporizhzhi-okupanty-vbyly-dvokh-ukrainskkh-polonenykh-uv-pivden)<br>
+16:35 [На Запоріжжі окупанти вбили двох українських полонених - УВ Південь](https://ua.korrespondent.net/ukraine/4920999-na-zaporizhzhi-okupanty-vbyly-dvokh-ukrainskykh-polonenykh-uv-pivden)<br>
 16:26 [Снігур стала учасницею фіналу кваліфікації турніру WTA 500 у Нінбо](https://ua.korrespondent.net/sport/tenis/4921001-snihur-stala-uchasnytseui-finalu-kvalifikatsii-turniru-WTA-500-u-ninbo)<br>
 15:45 [ДСНС попереджає про густий туман у чотирьох областях](https://ua.korrespondent.net/ukraine/4920993-dsns-poperedzhaie-pro-hustyi-tuman-u-chotyrokh-oblastiakh)<br>
 15:20 [Генштаб підтвердив ураження підприємства Робоавіа в РФ](https://ua.korrespondent.net/ukraine/4920989-henshtab-pidtverdyv-urazhennia-pidpryiemstva-roboavia-v-rf)<br>
@@ -34,6 +39,7 @@ Previous day: [2026-10-16](./data/2026-10-16.md)
 02:23 [У Херсоні пенсіонер підірвався на міні](https://ua.korrespondent.net/ukraine/4920914-u-khersoni-pensioner-pidirvavsia-na-mini)<br>
 
 ## as.com
+21:05 [Cameron Hunt tapa las grietas](https://as.com/baloncesto/cameron-hunt-tapa-las-grietas-f202610-n/)<br>
 18:26 [Jarred Shaw, exjugador de baloncesto encarcelado en Indonesia, pide auxilio a Estados Unidos: “No quería despertar”](https://as.com/baloncesto/nba/jarred-shaw-exjugador-de-baloncesto-encarcelado-en-indonesia-pide-auxilio-a-estados-unidos-no-queria-despertar-f202610-n/)<br>
 16:46 [El Movistar Estudiantes llama a su afición ante su primera gran final](https://as.com/baloncesto/mas_baloncesto/el-movistar-estudiantes-llama-a-su-aficion-ante-su-primera-gran-final-f202610-n/)<br>
 12:18 [“La canasta de la década” en Oviedo: de 98-98 pasan a 98-100 y a 101-100 todo a falta de 2″](https://as.com/baloncesto/la-canasta-de-la-decada-en-oviedo-de-98-98-pasan-a-98-100-y-a-101-100-todo-a-falta-de-2-clone-f202610-v/)<br>
@@ -43,6 +49,11 @@ Previous day: [2026-10-16](./data/2026-10-16.md)
 00:01 [Resumen del Barcelona vs. Olympiacos de Euroliga](https://as.com/videos/euroliga/resumen-del-barcelona-vs-olympiacos-de-euroliga-f202610-v/)<br>
 
 ## www.elperiodico.com
+22:02 [Teresa Sanjurjo, directora de la Fundación Princesa de Asturias: "La presencia de Leonor es algo que deciden sus padres, yo no hago pronósticos"](https://www.elperiodico.com/es/ocio-y-cultura/20261017/teresa-sanjurjo-directora-fundacion-princesa-135456628)<br>
+22:00 [Entrevista a Teresa Sanjurjo, directora de la Fundación Princesa de Asturias 2026](https://www.elperiodico.com/es/videos/ocio-y-cultura/entrevista-teresa-sanjurjo-directora-fundacion/135456563.shtml)<br>
+21:00 [Las industrias de Argelia y Marruecos contaminan más Canarias que sus coches](https://www.elperiodico.com/es/sociedad/20261017/industrias-argelia-marruecos-contaminan-canarias-135455317)<br>
+20:53 [Las lluvias y tormentas por la dana Adam ponen en aviso a siete comunidades autónomas, Ceuta y Melilla el domingo, con alerta roja en Comunidad Valenciana](https://www.elperiodico.com/es/sociedad/20261017/lluvias-tormentas-dana-adam-ponen-135455152)<br>
+20:51 [El Unicaja ahonda en la crisis de un Kids&Us Manresa que sigue sin ganar (72-84)](https://www.elperiodico.com/es/deportes/20261017/unicaja-ahonda-crisis-kids-us-135454945)<br>
 20:32 [Aterriza de emergencia en Barcelona un avión con destino Milán tras impactar contra aves](https://www.elperiodico.com/es/sociedad/20261017/aterriza-emergencia-barcelona-avion-destino-milan-135454635)<br>
 20:32 [TMB instala barreras contra inundaciones en la estación Parc Logístic en la línea 9 ante el pronóstico de lluvia](https://www.elperiodico.com/es/videos/sociedad/tmb-instala-barreras-inundaciones-estacion-video/135454681.shtml)<br>
 20:27 [La lluvia cae fuertemente en Mataró este sábado](https://www.elperiodico.com/es/videos/sociedad/lluvia-cae-fuertemente-mataro-sabado-video/135454544.shtml)<br>
