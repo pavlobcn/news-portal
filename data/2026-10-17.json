@@ -1,5 +1,86 @@
 [
   {
+    "title": "Radares fijos, tramos y helicópteros: los controles de velocidad que más vigilan a los conductores en Girona",
+    "link": "https://www.elperiodico.com/es/trafico-y-transportes/20261017/radares-velocidad-provincia-girona-dv-108027925",
+    "pubDate": "2026-10-17 20:00:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/trafico-y-transportes/20240908/radar-trafico-multas-espana-cadiz-salida-tunel-dv-107828817\" >Así es como de verdad funciona el radar que más multa en España: solo si haces este gesto en carretera</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/trafico-y-transportes/20240903/dgt-motos-camufladas-radar-multa-dv-107503271\" >Te multan sin que te des cuenta: así son las motos camufladas de la DGT</a></h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "У Луцьку через російські удари зупинилося німецьке підприємство",
+    "link": "https://ua.korrespondent.net/ukraine/4921027-u-lutsku-cherez-rosiiski-udary-zupynylosia-nimetske-pidpryiemstvo",
+    "pubDate": "2026-10-17 19:55:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4600663.jpg\">Повідомляється, що підприємство оцінює поточні обставини та координує подальші дії, але головним пріоритетом є безпека, життя та здоров’я працівників.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Protección Civil Catalunya envía mensajes Es Alert a en alerta roja ante fuertes lluvias",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/proteccion-civil-catalunya-envia-mensajes/135453585.shtml",
+    "pubDate": "2026-10-17 19:41:15",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los virales bailes de María Jesús Montero y Pedro Sánchez en el mitin del PSOE en Fuenlabrada",
+    "link": "https://www.elperiodico.com/es/videos/politica/virales-bailes-maria-jesus-montero/135453616.shtml",
+    "pubDate": "2026-10-17 19:41:06",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "На Тернопільщині РФ повторно вдарила по енергетичному об’єкту",
+    "link": "https://ua.korrespondent.net/ukraine/4921025-na-ternopilschyni-rf-povtorno-vdaryla-po-enerhetychnomu-obiektu",
+    "pubDate": "2026-10-17 19:30:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4600624.jpg\"> Енергетики працюють над усуненням наслідків атаки та докладають усіх зусиль, щоб якнайшвидше відновити електропостачання.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Dos personas vinculadas a la izquierda abertzale, detenidas en Gipuzkoa e investigadas por terrorismo",
+    "link": "https://www.elperiodico.com/es/sucesos/20261017/detenidos-gipuzkoa-investigados-terrorismo-135453322",
+    "pubDate": "2026-10-17 19:28:09",
+    "category": "",
+    "description": "<h2>Se trata de dos personas que cuentan con \"antecedentes relevantes\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "TMB instala barreras antiinundaciones en la estación de Parc Logístic de la línea 9 ante la previsión de lluvia",
+    "link": "https://www.elperiodico.com/es/barcelona/20261017/metro-barcelona-tmb-instala-barreras-antiinundaciones-estacion-l9-135451819",
+    "pubDate": "2026-10-17 19:09:14",
+    "category": "",
+    "description": "<h2 class=\"item\">Es la primera vez que se colocan estas estructuras, que evitan que el agua entre en las instalaciones</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tiempo/20261017/barcelona-cataluna-lluvia-mapa-fotos-floodup-dv-loc-135422499\" >El mapa que usa tus fotos de la lluvia en Barcelona para prever el próximo temporal y el riesgo de inundaciones</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Incidentes en París durante la protesta contra el encarecimiento de la vida",
+    "link": "https://www.elperiodico.com/es/videos/internacional/incidentes-paris-durante-protesta-encarecimiento/135452092.shtml",
+    "pubDate": "2026-10-17 19:07:22",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Cuestión de Estado: Las pensiones ya entran en campaña",
+    "link": "https://www.elperiodico.com/es/politica/20261017/cuestion-pensiones-entran-campana-135410449",
+    "pubDate": "2026-10-17 19:00:59",
+    "category": "",
+    "description": "",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Мадяр не проти транзиту українського зерна через Угорщину - ЗМІ",
     "link": "https://ua.korrespondent.net/world/worldabus/4921021-madiar-ne-proty-tranzytu-ukrainskoho-zerna-cherez-uhorschynu-zmi",
     "pubDate": "2026-10-17 18:40:00",
