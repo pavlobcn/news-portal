@@ -1,5 +1,203 @@
 [
   {
+    "title": "Vox vive su 'momento Podemos' con un tercer puesto consolidado pero mucha cautela sobre la posibilidad de vencer a Sánchez",
+    "link": "https://www.elperiodico.com/es/politica/20261017/vox-vive-momento-tercer-puesto-135435058",
+    "pubDate": "2026-10-17 06:01:50",
+    "category": "",
+    "description": "<h2>Los de  Abascal acarician según los sondeos  el 20% del voto, el mismo que alcanzaron los de Pablo Iglesias hace una década </h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Morante, del toreo al fútbol por amor al Betis: \"El balón da menos cornadas\"",
+    "link": "https://www.elperiodico.com/es/deportes/20261017/morante-toreo-futbol-amor-betis-135433964",
+    "pubDate": "2026-10-17 06:01:43",
+    "category": "",
+    "description": "<h2>El hijo del toreo 'Morante de la Puebla' se ha convertido en el diamante del Betis en este arranque de temporada </h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Barcelona es moda",
+    "link": "https://www.elperiodico.com/es/opinion/20261017/barcelona-moda-articulo-xavier-de-balaguer-135430650",
+    "pubDate": "2026-10-17 06:01:16",
+    "category": "",
+    "description": "<h2>Hace falta una estrategia de ciudad, pensada y desarrollada desde la colaboración público-privada</h2>",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Estas son las 10 empresas que más facturan con el auge de la proteína en España",
+    "link": "https://www.elperiodico.com/es/economia/20261017/empresas-facturan-auge-proteina-espana-135429389",
+    "pubDate": "2026-10-17 06:01:10",
+    "category": "",
+    "description": "<h2>Productos como los huevos han registrado, solo en el primer semestre de 2026, un nuevo incremento del 5% en el consumo doméstico, mientras que la carne fresca de pollo experimentó el año pasado un alza de 5,4% respecto a 2024</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261016/alimentos-efecto-ozempic-disparan-europa-2026-135425065\" target=\"_blank\">De uno a más de 150: Los alimentos con 'efecto ozempic' se disparan este 2026 en Europa</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261016/kefir-espana-anuncia-normativa-regulacion-produccion-venta-135424775\" target=\"_blank\">España anuncia una normativa para regular cómo se elabora el kéfir y qué deben explicar las etiquetas de los envases</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "España anuncia una normativa para regular cómo se elabora el kéfir y qué deben explicar las etiquetas de los envases",
+    "link": "https://www.elperiodico.com/es/economia/20261017/kefir-espana-anuncia-normativa-regulacion-produccion-venta-135424775",
+    "pubDate": "2026-10-17 06:01:10",
+    "category": "",
+    "description": "<h2>Hace tiempo que algunos productores denuncian el 'intrusismo' que se produce en el sector, amparado por la ausencia de una norma sobre la producción y comercialización de un alimento que está en auge</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261016/alimentos-efecto-ozempic-disparan-europa-2026-135425065\" target=\"_blank\">De uno a más de 150: Los alimentos con 'efecto ozempic' se disparan este 2026 en Europa</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "De uno a más de 150: Los alimentos con 'efecto ozempic' se disparan este 2026 en Europa",
+    "link": "https://www.elperiodico.com/es/economia/20261017/alimentos-efecto-ozempic-disparan-europa-2026-135425065",
+    "pubDate": "2026-10-17 06:01:10",
+    "category": "",
+    "description": "<h2>La industria alimentaria detecta una oportunidad y ha empezado a lanzar productos con mayor densidad nutricional, con más proteína, fibra y prebióticos en dosis o raciones más pequeñas</h2><h2>Las personas de 35 a 55 años son el principal destinatario de estas propuestas, que se centran en platos preparados, complementos alimenticios y snacks y bebidas saludables</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261016/empresas-facturan-auge-proteina-espana-135429389\" target=\"_blank\">Estas son las 10 empresas que más facturan con el auge de la proteína en España</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261016/kefir-espana-anuncia-normativa-regulacion-produccion-venta-135424775\" target=\"_blank\">España anuncia una normativa para regular cómo se elabora el kéfir y qué deben explicar las etiquetas de los envases</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los mensajes interceptados por EEUU al dueño de Plus Ultra desmienten la versión del financiero neerlandés ante el juez: \"¿Cuánto nos va a cobrar?\"",
+    "link": "https://www.elperiodico.com/es/politica/20261017/mensajes-interceptados-eeuu-dueno-plus-ultra-desmiente-financiero-juez-135428010",
+    "pubDate": "2026-10-17 06:01:05",
+    "category": "",
+    "description": "<h2>\"Vamos a usar un vehículo financiero de Felipe [Baca]. Trébol Investment\", dice el 17 de enero de 2019 el exdueño de Plus Ultra, en alusión a una empresa vinculada a Simón Leendert Verhoeven, que fue detenido en Alemania y entregado a la Audiencia Nacional</h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Luis Atienza (expresidente de Red Eléctrica): \"Nos dejamos comer la tostada con la transición energética y ahora nos quejamos de China\"",
+    "link": "https://www.elperiodico.com/es/economia/20261017/luis-atienza-expresidente-red-electrica-135435964",
+    "pubDate": "2026-10-17 06:00:57",
+    "category": "",
+    "description": "<h2>El experto energético señala que la falta de flexibilidad y almacenamiento en el sistema eléctrico español genera desequilibrios técnicos que exigen una mejor planificación de las infraestructuras</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cype promete revolucionar la concesión de licencias de obra",
+    "link": "https://www.elperiodico.com/es/economia/20261017/cype-promete-revolucionar-concesion-licencias-135435956",
+    "pubDate": "2026-10-17 06:00:52",
+    "category": "",
+    "description": "<h2>La tecnológica española, que factura 17 millones, lidera la ingeniería de edificación</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "De Jong lucha contra el desamor en el Barça",
+    "link": "https://www.elperiodico.com/es/deportes/20261017/jong-lucha-desamor-barca-135419228",
+    "pubDate": "2026-10-17 06:00:50",
+    "category": "",
+    "description": "<h2>El regreso del centrocampista neerlandés, lesionado desde el pasado Mundial, coincide con el mejor momento de un Barça que, lejos de echarlo de menos, ha adaptado su juego al gobierno de Rodri.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Rosa Vallejo, la abuela 'influencer': \"He limpiado toda mi vida, pero ahora me paran por la calle como si fuera Shakira\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261017/rosa-vallejo-abuela-espana-influencer-tiktok-instagram-limpiar-shakira-134770214",
+    "pubDate": "2026-10-17 06:00:38",
+    "category": "",
+    "description": "<h2 class=\"item\">Rosa Vallejo, con 86 años, se ha ganado el apodo de la 'abuela de España' por parodiar en las redes sociales escenas de la vida cotidiana, gastar bromas o hacer retos virales junto a su nieto Christian</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/entre-todos/20211114/influencers-40-50-60-anos-debes-seguir-12422550\" target=\"_blank\">'Influencers' de más de 40, 50 y 60 años que deberías seguir</a></h2>",
+    "topic": "блогери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Tener 86 años y millones de seguidores en TikTok: el fenómeno de los 'influencers' sénior que desafían prejuicios",
+    "link": "https://www.elperiodico.com/es/sociedad/20261017/influencers-senior-mayores-instagram-tiktok-134881117",
+    "pubDate": "2026-10-17 06:00:37",
+    "category": "",
+    "description": "<h2 class=\"item\">Humor, cocina, moda o televisión son algunos de los terrenos en los que creadores 'silver' han encontrado, gracias a su autenticidad y naturalidad, una audiencia millonaria, que huye de filtros y postureos</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261001/talento-senior-solo-una-cada-cuatro-empresas-contrata-mayores-55-anos-longevidad-134649106\" target=\"_blank\">El muro laboral de los séniors: las empresas valoran la experiencia, pero solo una de cada cuatro pymes ficha a mayores de 55</a></h2>",
+    "topic": "блогери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Lola Cruz pisa fuerte: de Valencia a París con el foco en Milán y Nueva York",
+    "link": "https://www.elperiodico.com/es/economia/20261017/lola-cruz-pisa-fuerte-valencia-135435933",
+    "pubDate": "2026-10-17 06:00:36",
+    "category": "",
+    "description": "<h2>Navima, la empresa de calzado prémium que también agrupa las marcas Bibi Lou y Gamin, prevé cerrar 2026 con 35 millones de facturación y abrir dos tiendas en la capital francesa en 2027 </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La 080 Barcelona Fashion llevará por primera vez sus desfiles a las calles y barrios de la ciudad en su 38ª edición",
+    "link": "https://www.elperiodico.com/es/gente/20261017/080-barcelona-fashion-octubre-2026-desfiles-barrios-festival-plec-080reborn-135357097",
+    "pubDate": "2026-10-17 06:00:32",
+    "category": "",
+    "description": "<h2 class=\"item\">La cita 'fashion', que comenzará el martes, incluirá 26 desfiles, con el 080Reborn de ropa de segunda mano, y estrenará 'PLEC · Barcelona Cultura de Moda', un nuevo festival abierto a toda la ciudadanía</h2><h2 class=\"item\">ENTREVISTA | <a href=\"https://www.elperiodico.com/es/gente/20261015/esther-garcia-capdevila-directora-mas-3000-desfiles-tambien-080-capitana-moda-espanola-entrevista-135327463\" target=\"_blank\">Esther Garcia Capdevila: \"Sueño con modelos que caminen sobre el agua o vuelen\"</a></h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Esther Garcia Capdevila, la mujer detrás de más de 3.000 desfiles como los de la 080: \"Sueño con modelos que caminen sobre el agua o vuelen\"",
+    "link": "https://www.elperiodico.com/es/gente/20261017/esther-garcia-capdevila-directora-mas-3000-desfiles-tambien-080-capitana-moda-espanola-entrevista-135327463",
+    "pubDate": "2026-10-17 06:00:31",
+    "category": "",
+    "description": "<h2>Ha trabajado con las tops de los 90, ha llevado la moda española por medio mundo y ha comandado producciones como la de Dior en Sevilla. La fundadora de ESMA Events habla de la era de Instagram, los nuevos cánones de belleza, la autocensura actual y los secretos de un oficio que todavía le provoca un nudo en el estómago</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20261015/080-barcelona-fashion-octubre-2026-desfiles-barrios-festival-plec-080reborn-135357097\" target=\"_blank\">La 080 Barcelona Fashion llevará por primera vez sus desfiles a las calles y barrios de la ciudad en su 38ª edición</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Encuestas de las elecciones generales en España 2026: así están los sondeos",
+    "link": "https://www.elperiodico.com/es/politica/20261017/encuestas-elecciones-generales-espana-sondeos-12274406",
+    "pubDate": "2026-10-17 06:00:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20261004/encuestas-elecciones-cataluna-sondeos-catalunya-124137879\" target=\"_blank\">Encuestas de las elecciones en Catalunya: así están los sondeos</a></h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20261016/encuestas-elecciones-estados-unidos-2026-sondeos-eeuu-129673684\" target=\"_blank\">Encuestas de las elecciones en Estados Unidos 2026: así están los sondeos sobre Trump y las 'midterm'</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Підсумки 16.10: Робота Starlink і удар за 2300 км",
+    "link": "https://ua.korrespondent.net/ukraine/4920831-pidsumky-1610-robota-Starlink-i-udar-za-2300-km",
+    "pubDate": "2026-10-17 05:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4599833.jpg\">Президент заявив про відновлення роботи Starlink; У РФ палає завод за 2300 км від України. Кореспондент.net виділяє головні події вчорашнього дня.",
+    "topic": "підсумки (за попередній день, наприклад)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Херсоні від КАБів постраждали діти",
+    "link": "https://ua.korrespondent.net/ukraine/4920926-u-khersoni-vid-kabiv-postrazhdaly-dity",
+    "pubDate": "2026-10-17 05:26:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4599798.jpg\">Одномісячне немовля, 11-річна дівчинка та двоє дорослих дістали вибухові травми, черепно-мозкові травми та акубаротравми.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Qué es una DANA retrógrada? El fenómeno que traerá lluvias torrenciales este fin de semana",
+    "link": "https://www.elperiodico.com/es/tiempo/20261017/dana-retrograda-fenomeno-lluvias-torrenciales-cataluna-valencia-baleares-aemet-dv-135417455",
+    "pubDate": "2026-10-17 05:00:50",
+    "category": "",
+    "description": "<h2>La dana Adam que afectará al Mediterráneo este fin de semana se desplazará en sentido contrario al habitual</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20261016/lluvia-cataluna-valencia-baleares-dana-alerta-meteocat-aemet-ultima-hora-directo-135404377\" >Alerta por lluvias torrenciales en Catalunya, Valencia y Baleares, en directo | Última hora de la dana, avisos rojos del Meteocat, Aemet y plan Inuncat</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Трамп вирішив не запроваджувати \"пекельні санкції\" Грема",
+    "link": "https://ua.korrespondent.net/world/4920924-tramp-vyrishyv-ne-zaprovadzhuvaty-pekelni-sanktsii-hrema",
+    "pubDate": "2026-10-17 04:58:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4599780.jpg\">Очільник Білого дому подав до Конгресу свідчення того, що звільнення РФ від вторинних санкцій відповідає інтересам США.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Кривий Ріг та Запоріжжя зазнали балістичної атаки",
+    "link": "https://ua.korrespondent.net/ukraine/4920922-kryvyi-rih-ta-zaporizhzhia-zaznaly-balistychnoi-ataky",
+    "pubDate": "2026-10-17 04:33:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4599759.jpg\">У Запоріжжі удар прийшовся по житловій багатоповерхівці, а у Кривому Розі було атаковане промислове підприємство.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Лора Лумер хоче стати новою прессекретаркою Трампа",
+    "link": "https://ua.korrespondent.net/world/4920920-lora-lumer-khoche-staty-novoui-pressekretarkoui-trampa",
+    "pubDate": "2026-10-17 03:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4599724.jpg\">Акттивістка запропонувала свою кандидатуру у соцмережі, і навела докази, чому вона підходить на цю посаду.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
     "title": "Трамп заявив, що без макіяжу він виглядає \"як мрець\"",
     "link": "https://ua.korrespondent.net/world/4920918-tramp-zaiavyv-scho-bez-makiiazhu-vin-vyhliadaie-yak-mrets",
     "pubDate": "2026-10-17 03:24:00",

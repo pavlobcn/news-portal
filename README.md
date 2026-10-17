@@ -1,10 +1,19 @@
-# News for 2026-10-17 03:29
+# News for 2026-10-17 06:43
 
 Previous day: [2026-10-16](./data/2026-10-16.md)
 
 ## ua.korrespondent.net
+05:26 [У Херсоні від КАБів постраждали діти](https://ua.korrespondent.net/ukraine/4920926-u-khersoni-vid-kabiv-postrazhdaly-dity)<br>
+04:33 [Кривий Ріг та Запоріжжя зазнали балістичної атаки](https://ua.korrespondent.net/ukraine/4920922-kryvyi-rih-ta-zaporizhzhia-zaznaly-balistychnoi-ataky)<br>
 03:24 [Трамп заявив, що без макіяжу він виглядає "як мрець"](https://ua.korrespondent.net/world/4920918-tramp-zaiavyv-scho-bez-makiiazhu-vin-vyhliadaie-yak-mrets)<br>
 02:23 [У Херсоні пенсіонер підірвався на міні](https://ua.korrespondent.net/ukraine/4920914-u-khersoni-pensioner-pidirvavsia-na-mini)<br>
 
 ## as.com
 00:01 [Resumen del Barcelona vs. Olympiacos de Euroliga](https://as.com/videos/euroliga/resumen-del-barcelona-vs-olympiacos-de-euroliga-f202610-v/)<br>
+
+## www.elperiodico.com
+06:00 [Luis Atienza (expresidente de Red Eléctrica): "Nos dejamos comer la tostada con la transición energética y ahora nos quejamos de China"](https://www.elperiodico.com/es/economia/20261017/luis-atienza-expresidente-red-electrica-135435964)<br>
+06:00 [Cype promete revolucionar la concesión de licencias de obra](https://www.elperiodico.com/es/economia/20261017/cype-promete-revolucionar-concesion-licencias-135435956)<br>
+06:00 [Lola Cruz pisa fuerte: de Valencia a París con el foco en Milán y Nueva York](https://www.elperiodico.com/es/economia/20261017/lola-cruz-pisa-fuerte-valencia-135435933)<br>
+06:00 [Esther Garcia Capdevila, la mujer detrás de más de 3.000 desfiles como los de la 080: "Sueño con modelos que caminen sobre el agua o vuelen"](https://www.elperiodico.com/es/gente/20261017/esther-garcia-capdevila-directora-mas-3000-desfiles-tambien-080-capitana-moda-espanola-entrevista-135327463)<br>
+05:00 [¿Qué es una DANA retrógrada? El fenómeno que traerá lluvias torrenciales este fin de semana](https://www.elperiodico.com/es/tiempo/20261017/dana-retrograda-fenomeno-lluvias-torrenciales-cataluna-valencia-baleares-aemet-dv-135417455)<br>
