@@ -1,5 +1,41 @@
 [
   {
+    "title": "Reabre la estación de Metro de Sol tras \"constatarse que están garantizadas las condiciones de seguridad y salud\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261017/reabre-estacion-sol-metro-madrid-135457058",
+    "pubDate": "2026-10-17 22:47:41",
+    "category": "",
+    "description": "<h2>Los trenes de las líneas 1, 2 y 3 vuelven a efectuar parada con normalidad un día después del cierre, que la Comunidad justificó por la presencia de tiendas de campaña por la vivienda dificultaba las tareas de mantenimiento</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Бельгії молодіжні протести переросли у сутички з поліцією",
+    "link": "https://ua.korrespondent.net/world/4921059-u-belhii-molodizhni-protesty-pererosly-u-sutychky-z-politsiieui",
+    "pubDate": "2026-10-17 22:47:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4600829.jpg\">Cеред учасників суботньої акції було багато неповнолітніх, зокрема дітей віком до 12 років.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Incendio en el Ayuntamiento de Limoges, Francia",
+    "link": "https://www.elperiodico.com/es/videos/internacional/incendio-ayuntamiento-limoges-francia-video/135457033.shtml",
+    "pubDate": "2026-10-17 22:46:55",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Світоліна змогла пройти на Підсумковий турнір WTA Finals 2026",
+    "link": "https://ua.korrespondent.net/sport/tenis/4921061-svitolina-zmohla-proity-na-pidsumkovyi-turnir-WTA-Finals-2026",
+    "pubDate": "2026-10-17 22:34:00",
+    "category": "Новини тенісу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4600810.jpg\">Перша ракетка України вперше за останні сім років візьме участь у Підсумковому турнірі WTA.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Румунські F-16 збили два дрони над Чорним морем",
     "link": "https://ua.korrespondent.net/world/4921055-rumunski-F-16-zbyly-dva-drony-nad-chornym-morem",
     "pubDate": "2026-10-17 22:24:00",
@@ -7,6 +43,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4600789.jpg\">Обидві цілі збили над територіальними водами країни через кілька хвилин після тоо, як вони увійшли у повітряний простір Румунії.",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Ярмолюк отримав червону картку в матчі АПЛ",
+    "link": "https://ua.korrespondent.net/sport/football/4921057-yarmoluik-otrymav-chervonu-kartku-v-matchi-apl",
+    "pubDate": "2026-10-17 22:13:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4600788.jpg\">Українському гравцю суддя матчу показав пряму червону картку за неспортивну поведінку в матчі Брентфорда проти Ліверпуля.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
   },
   {
     "title": "Teresa Sanjurjo, directora de la Fundación Princesa de Asturias: \"La presencia de Leonor es algo que deciden sus padres, yo no hago pronósticos\"",
@@ -45,6 +90,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Мессі тепер стане ще більш відомим завдяки назві рослин",
+    "link": "https://ua.korrespondent.net/sport/football/4921053-messi-teper-stane-sche-bilsh-vidomym-zavdiaky-nazvi-roslyn",
+    "pubDate": "2026-10-17 21:54:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4600787.jpg\">Тепер Мессі вивчатимуть не лише у футболі, а й у ботаніці, адже іменем зірки аргентинського футболу називають дедалі більше об’єктів живої природи.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Una bocanada Real",
     "link": "https://www.elperiodico.com/es/opinion/20261017/bocanada-real-visita-ceuta-melilla-135456226",
     "pubDate": "2026-10-17 21:49:01",
@@ -52,6 +106,24 @@
     "description": "",
     "topic": "політика",
     "topic_match_probability": 65
+  },
+  {
+    "title": "Росіяни вдарили балістикою по Харкову, є поранені",
+    "link": "https://ua.korrespondent.net/city/kharkov/4921043-rosiiany-vdaryly-balistykoui-po-kharkovu-ye-poraneni",
+    "pubDate": "2026-10-17 21:35:00",
+    "category": "Харків",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4600746.jpg\">Мер міста Ігор Терехова повідомив, що приліт був на межі двох районів міста - Слобідського та Основʼянського.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Кудрівка переграла Буковину в УПЛ з рахунком 4:1",
+    "link": "https://ua.korrespondent.net/sport/football/4921049-kudrivka-perehrala-bukovynu-v-upl-z-rakhunkom-41",
+    "pubDate": "2026-10-17 21:29:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4600745.jpg\">Команди зустрілися на полі в рамках проведення дев’ятого туру української Прем’єр-ліги.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
   },
   {
     "title": "Muere una niña tras precipitarse por una ventana en Zaragoza",
@@ -117,6 +189,15 @@
     "topic_match_probability": 100
   },
   {
+    "title": "Голкіпер Челсі отримав травму голови в матчі АПЛ",
+    "link": "https://ua.korrespondent.net/sport/football/4921039-holkiper-chelsi-otrymav-travmu-holovy-v-matchi-apl",
+    "pubDate": "2026-10-17 20:54:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4600463.jpg\">У матчі лондонського Челсі з Евертоном у рамках англійської Прем'єр-ліги гравець отримав травму голови.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Las lluvias y tormentas por la dana Adam ponen en aviso a siete comunidades autónomas, Ceuta y Melilla el domingo, con alerta roja en Comunidad Valenciana",
     "link": "https://www.elperiodico.com/es/sociedad/20261017/lluvias-tormentas-dana-adam-ponen-135455152",
     "pubDate": "2026-10-17 20:53:21",
@@ -160,6 +241,15 @@
     "description": "<h2>El campeón suma su undécima victoria seguida y hace historia a partir de un golazo de Lamine Yamal y el estreno goleador de Rodrigo, Eric y Dani Olmo</h2>",
     "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Харківські Соколи вперше в новому сезоні Суперліги перемогли суперників",
+    "link": "https://ua.korrespondent.net/sport/basketball/4921035-kharkivski-sokoly-vpershe-v-novomu-sezoni-superlihy-peremohly-supernykiv",
+    "pubDate": "2026-10-17 20:33:00",
+    "category": "Новини баскетболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4600462.jpg\">Харківчанам протистояла команда Ніко-Баскет-ЦОП. Матч завершився із значною різницею в рахунку.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Aterriza de emergencia en Barcelona un avión con destino Milán tras impactar contra aves",
