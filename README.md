@@ -1,8 +1,11 @@
-# News for 2026-10-18 20:53
+# News for 2026-10-18 23:12
 
 Previous day: [2026-10-17](./data/2026-10-17.md)
 
 ## ua.korrespondent.net
+22:58 [Балістичні удари по Києву: стали відомі наслідки](https://ua.korrespondent.net/city/kiev/4921235-balistychni-udary-po-kyievu-staly-vidomi-naslidky)<br>
+22:28 [Росіяни атакували Київ балістичними ракетами](https://ua.korrespondent.net/city/kiev/4921233-rosiiany-atakuvaly-kyiv-balistychnymy-raketamy)<br>
+21:57 [У ДПСУ назвали пункти пропуску на кордоні з найбільшими чергами](https://ua.korrespondent.net/ukraine/4921228-u-dpsu-nazvaly-punkty-propusku-na-kordoni-z-naibilshymy-cherhamy)<br>
 20:13 [Зеленський планує балотуватися на виборах](https://ua.korrespondent.net/ukraine/4921217-zelenskyi-planuie-balotuvatysia-na-vyborakh)<br>
 19:58 [Українців попередили про відключення світла 19 жовтня](https://ua.korrespondent.net/ukraine/4921215-ukraintsiv-poperedyly-pro-vidkluichennia-svitla-19-zhovtnia)<br>
 19:13 [Через атаку РФ зупинило роботу підприємство на Рівненщині](https://ua.korrespondent.net/ukraine/4921209-cherez-ataku-rf-zupynylo-robotu-pidpryiemstvo-na-rivnenschyni)<br>
@@ -22,6 +25,10 @@ Previous day: [2026-10-17](./data/2026-10-17.md)
 00:21 [У Москві заявили про атаку десятків БПЛА](https://ua.korrespondent.net/world/russia/4921071-u-moskvi-zaiavyly-pro-ataku-desiatkiv-bpla)<br>
 
 ## as.com
+21:36 [Sekulic: “El desgaste físico no debe ser una excusa”](https://as.com/baloncesto/acb/sekulic-el-desgaste-fisico-no-debe-ser-una-excusa-f202610-n/)<br>
+21:18 [Resumen del Joventut vs Barcelona, jornada 4 de la Liga Endesa](https://as.com/videos/acb/resumen-del-joventut-vs-barcelona-jornada-4-de-la-liga-endesa-f202610-v/)<br>
+21:12 [Ricky y Lapro humillan al Barça](https://as.com/baloncesto/acb/ricky-y-lapro-humillan-al-barca-f202610-n/)<br>
+20:48 [Silverio es inevitable](https://as.com/baloncesto/mas_baloncesto/silverio-es-inevitable-f202610-n/)<br>
 20:42 [Segunda derrota de la era Perasovic](https://as.com/baloncesto/segunda-derrota-de-la-era-perasovic-f202610-n/)<br>
 19:07 [El UCAM sufre el vendaval taronja liderado por Jasiel Rivero](https://as.com/baloncesto/acb/ucam-sufre-el-vendaval-taronja-liderado-por-jasiel-rivero-f202610-n/)<br>
 18:19 [Joventut - Barcelona, en directo: Liga Endesa 2026-27 en vivo hoy](https://as.com/baloncesto/nba/joventut-barcelona-en-directo-liga-endesa-2026-27-en-vivo-hoy-f202610-d/)<br>
@@ -39,6 +46,14 @@ Previous day: [2026-10-17](./data/2026-10-17.md)
 07:45 [Una bestia negra en el Movistar Arena](https://as.com/baloncesto/mas_baloncesto/una-bestia-negra-en-el-movistar-arena-f202610-n/)<br>
 
 ## www.elperiodico.com
+22:34 [Hallan muerta a una mujer que había desaparecido en la playa de Sagunt en plena alerta naranja](https://www.elperiodico.com/es/sucesos/20261018/hallan-muerta-mujer-habia-desaparecido-135479169)<br>
+22:31 [Un avión de Austrian Airlines con ruta desde Tel Aviv hacia Viena aterriza en Bulgaria tras una amenaza de bomba](https://www.elperiodico.com/es/internacional/20261018/avion-austrian-airlines-ruta-tel-135479071)<br>
+22:07 [Protecció Civil aplaza la prueba de sirenas de riesgo químico en Catalunya prevista para este lunes por la previsión de lluvias](https://www.elperiodico.com/es/sociedad/20261018/proteccio-civil-riesgo-quimico-prueba-sirenas-tarragona-barcelona-135478692)<br>
+21:44 [Alerta por lluvias muy fuertes en Cataluny este lunes: la Generalitat activará el sistema ES-Alert](https://www.elperiodico.com/es/videos/sociedad/alerta-lluvias-fuertes-cataluny-lunes-video/135477981.shtml)<br>
+21:42 [El mal tiempo provoca decenas de cancelaciones en el aeropuerto de Barcelona](https://www.elperiodico.com/es/tiempo/20261018/mal-tiempo-provoca-decenas-cancelaciones-135477738)<br>
+21:33 [La dana no da tregua y Catalunya mantiene las alertas por lluvias torrenciales hasta el martes](https://www.elperiodico.com/es/tiempo/20261018/tiempo-cataluna-dana-adam-avisos-meteocat-lluvias-135477018)<br>
+21:29 [Las lluvias y tormentas causan retrasos en vuelos en el aeropuerto de El Prat](https://www.elperiodico.com/es/videos/sociedad/lluvias-tormentas-causan-retrasos-masivos-video/135477633.shtml)<br>
+21:14 [El Joventut apaliza al Barça otra vez y con mayor virulencia](https://www.elperiodico.com/es/deportes/20261018/joventut-apaliza-barca-vez-mayor-135473250)<br>
 20:10 [La Policía desaloja a 500 personas del "último gran asentamiento" de inmigrantes de Ceuta](https://www.elperiodico.com/es/sociedad/20261018/policia-desaloja-500-personas-ultimo-135476463)<br>
 19:55 [Guti, exfutbolista del Real Madrid, sobre sus inversiones: "Lo más fácil es el ladrillo"](https://www.elperiodico.com/es/gente/20261018/guti-inversiones-vivienda-immobiliario-dv-et-135152595)<br>
 19:51 [El Salón Náutico cierra una de las mejores ediciones con más de 226 embarcaciones y 170 expositores](https://www.elperiodico.com/es/economia/20261018/barcelona-salon-nautico-cierra-mejores-ediciones-135476007)<br>
