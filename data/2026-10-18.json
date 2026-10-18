@@ -1,5 +1,86 @@
 [
   {
+    "title": "León XIV recita su primer Ángelus tras el alta hospitalaria y dice que \"retomará gradualmente\" su agenda",
+    "link": "https://www.elperiodico.com/es/videos/internacional/leon-xiv-recita-primer-angelus/135470165.shtml",
+    "pubDate": "2026-10-18 15:40:45",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Martínez: “Le doy menos valor al acierto y más a la intención de jugar rápido”",
+    "link": "https://as.com/baloncesto/acb/martinez-le-doy-menos-valor-al-acierto-y-mas-a-la-intencion-de-jugar-rapido-f202610-n/",
+    "pubDate": "2026-10-18 15:39:44",
+    "category": "Baloncesto",
+    "description": "El técnico titular del Real Madrid se expresó de esta manera después de que su equipo venciera a Surne Bilbao Basket en el partido de este domingo en el Movistar Arena.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Міністр оборони Італії зробив заяву про Україну",
+    "link": "https://ua.korrespondent.net/world/4921168-ministr-oborony-italii-zrobyv-zaiavu-pro-ukrainu",
+    "pubDate": "2026-10-18 15:34:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4601877.jpg\">Гвідо Крозетто вважає, що перемогу України у війні проти Росії не варто ототожнювати з повним розгромом російської армії чи захопленням Москви.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "‘Show’ de Jassel Pérez para Fiatc Girona: 40 puntazos",
+    "link": "https://as.com/baloncesto/acb/show-de-jassel-perez-para-fiatc-girona-40-puntazos-f202610-n/",
+    "pubDate": "2026-10-18 15:33:34",
+    "category": "Baloncesto",
+    "description": "Soberbia actuación de Jassel Pérez en Fontajau para dar al Bàsquet Girona un triunfo importante. 40 de los 110 puntos catalanes llevaron su firma este domingo.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El festival Nostalgia Milenial cancela todos los conciertos por los \"episodios meteorológicos\" de la pasada madrugada",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261018/festival-nostalgia-milenial-cancela-conciertos-135469388",
+    "pubDate": "2026-10-18 15:30:03",
+    "category": "",
+    "description": "<h2 class=\"item\">La devolución de las entradas y recargas de saldo se hará efectiva en los próximos días de forma automática al mismo método de pago</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Resumen del Basket Zaragoza vs. Força Lleida, jornada 4 de la Liga Endesa",
+    "link": "https://as.com/videos/acb/resumen-del-basket-zaragoza-vs-forca-lleida-jornada-4-de-la-liga-endesa-f202610-v/",
+    "pubDate": "2026-10-18 15:18:52",
+    "category": "Liga ACB",
+    "description": "El conjunto maño logra una amplia diferencia en el segundo cuarto y termina venciendo sin apuros al Força Lleida (109-98).",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los Mossos investigan dos secuestros en Santa Coloma y Fontanals de Cerdanya esta madrugada",
+    "link": "https://www.elperiodico.com/es/sucesos/20261018/mossos-investigan-dos-secuestros-santa-coloma-fontanals-cerdanya-135469243",
+    "pubDate": "2026-10-18 15:17:34",
+    "category": "",
+    "description": "<h2>En Fontanals, una persona con heridas leves ha sido localizada dentro de un vehículo y trasladada al hospital</h2><h2><a href=\"https://www.elperiodico.com/es/sucesos/20261018/investigan-detencion-ilegal-santa-coloma-mossos-135463462\">Los Mossos investigan una detención ilegal en Santa Coloma de Gramenet</a></h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "\"Закрийте кордони\": Трамп відреагував на масові протести у Франції",
+    "link": "https://ua.korrespondent.net/world/4921166-zakryite-kordony-tramp-vidreahuvav-na-masovi-protesty-u-frantsii",
+    "pubDate": "2026-10-18 15:15:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4601857.jpg\">У своїй заяві американський лідер пов'язав ситуацію з міграцією та закликав французьку владу посилити контроль на кордонах.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Trias receta a Junts ser \"hábil\" y hablar con PSOE y PP si beneficia a Catalunya",
+    "link": "https://www.elperiodico.com/es/politica/20261018/trias-junts-pp-psoe-elecciones-generales-135469143",
+    "pubDate": "2026-10-18 15:12:45",
+    "category": "",
+    "description": "<h2>El exalcalde dd Barcelona cree que son PSOE y PP los que deben acercarse a Junts y explicar qué harán tras el 29-N</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Nueva incidencia en Rodalies: retrasos de 30 minutos en las líneas R1 y R4",
     "link": "https://www.elperiodico.com/es/trafico-y-transportes/20261018/rodalies-incidencia-nueva-retrasos-r1-r2-r4-135469141",
     "pubDate": "2026-10-18 15:10:01",
@@ -25,6 +106,15 @@
     "description": "<h2 class=\"item\">Las intensas precipitaciones en la región de Estambul han provocado seis fallecimientos y tres desapariciones, mientras las autoridades locales inician este lunes el reparto de indemnizaciones para los damnificados</h2>",
     "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
     "topic_match_probability": 65
+  },
+  {
+    "title": "Este Zaragoza pinta bien",
+    "link": "https://as.com/baloncesto/acb/este-zaragoza-pinta-bien-f202610-n/",
+    "pubDate": "2026-10-18 15:05:00",
+    "category": "Baloncesto",
+    "description": "Tercer triunfo de cuatro posible para Casademont Zaragoza, que venció con claridad al Lleida en el cierre de las fiestas del Pilar. Justin Jaworski, el mejor.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Aurelio Rojas (36 años), cardiólogo, sobre este alimento: \"Medio aguacate mediano al día es una cantidad más que razonable\"",

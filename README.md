@@ -1,4 +1,4 @@
-# News for 2026-10-18 15:12
+# News for 2026-10-18 15:47
 
 Previous day: [2026-10-17](./data/2026-10-17.md)
 
@@ -18,6 +18,10 @@ Previous day: [2026-10-17](./data/2026-10-17.md)
 00:21 [У Москві заявили про атаку десятків БПЛА](https://ua.korrespondent.net/world/russia/4921071-u-moskvi-zaiavyly-pro-ataku-desiatkiv-bpla)<br>
 
 ## as.com
+15:39 [Martínez: “Le doy menos valor al acierto y más a la intención de jugar rápido”](https://as.com/baloncesto/acb/martinez-le-doy-menos-valor-al-acierto-y-mas-a-la-intencion-de-jugar-rapido-f202610-n/)<br>
+15:33 [‘Show’ de Jassel Pérez para Fiatc Girona: 40 puntazos](https://as.com/baloncesto/acb/show-de-jassel-perez-para-fiatc-girona-40-puntazos-f202610-n/)<br>
+15:18 [Resumen del Basket Zaragoza vs. Força Lleida, jornada 4 de la Liga Endesa](https://as.com/videos/acb/resumen-del-basket-zaragoza-vs-forca-lleida-jornada-4-de-la-liga-endesa-f202610-v/)<br>
+15:05 [Este Zaragoza pinta bien](https://as.com/baloncesto/acb/este-zaragoza-pinta-bien-f202610-n/)<br>
 14:37 [Llull dispara al Madrid a un nuevo récord: 20 triples](https://as.com/baloncesto/acb/llull-dispara-al-madrid-a-un-nuevo-record-20-triples-f202610-n/)<br>
 14:18 [Real Madrid - Bilbao Basket: resumen y resultado, ACB (119-84)](https://as.com/baloncesto/acb/real-madrid-bilbao-en-directo-acb-liga-endesa-202627-hoy-en-vivo-f202610-d/)<br>
 07:52 [Hilliard: “Quizás algún día sea ciudadano vasco”](https://as.com/baloncesto/acb/hilliard-quizas-algun-dia-sea-ciudadano-vasco-f202610-n/)<br>
@@ -27,6 +31,7 @@ Previous day: [2026-10-17](./data/2026-10-17.md)
 07:45 [Una bestia negra en el Movistar Arena](https://as.com/baloncesto/mas_baloncesto/una-bestia-negra-en-el-movistar-arena-f202610-n/)<br>
 
 ## www.elperiodico.com
+15:40 [León XIV recita su primer Ángelus tras el alta hospitalaria y dice que "retomará gradualmente" su agenda](https://www.elperiodico.com/es/videos/internacional/leon-xiv-recita-primer-angelus/135470165.shtml)<br>
 15:10 [Nueva incidencia en Rodalies: retrasos de 30 minutos en las líneas R1 y R4](https://www.elperiodico.com/es/trafico-y-transportes/20261018/rodalies-incidencia-nueva-retrasos-r1-r2-r4-135469141)<br>
 14:40 [Los Javis y el elenco de 'La bola negra' se codean con Taylor Swift, Kim Kardashian y Pamela Anderson en su salto a Hollywood](https://www.elperiodico.com/es/ocio-y-cultura/20261018/javis-elenco-bola-negra-taylor-swift-135468146)<br>
 14:30 [Tomás (64 años) vive en un pueblo abandonado del Pirineo: "Los que vivís en ciudad, veis a mucha gente aislada pidiendo ayuda y parece que se hacen invisibles"](https://www.elperiodico.com/es/economia/20261018/pueblo-abandonado-lleida-pirineo-despoblacion-vida-rural-tomas-dv-et-135400839)<br>
