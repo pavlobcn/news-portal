@@ -1,8 +1,10 @@
-# News for 2026-10-18 11:41
+# News for 2026-10-18 15:12
 
 Previous day: [2026-10-17](./data/2026-10-17.md)
 
 ## ua.korrespondent.net
+12:16 [Ворог вдарив по Одесі, є пошкодження](https://ua.korrespondent.net/city/odessa/4921145-voroh-vdaryv-po-odesi-ye-poshkodzhennia)<br>
+11:57 [Росія атакувала Львів та Рівне](https://ua.korrespondent.net/ukraine/4921142-rosiia-atakuvala-lviv-ta-rivne)<br>
 11:15 [РФ 76 разів атакувала енергетику за час "перемир'я"](https://ua.korrespondent.net/ukraine/4921137-rf-76-raziv-atakuvala-enerhetyku-za-chas-peremyria)<br>
 10:35 [Пішла з життя відома українська акторка](https://ua.korrespondent.net/lifestyle/4921132-pishla-z-zhyttia-vidoma-ukrainska-aktorka)<br>
 08:55 [На Волині стався витік аміаку](https://ua.korrespondent.net/ukraine/4921115-na-volyni-stavsia-vytik-amiaku)<br>
@@ -16,6 +18,8 @@ Previous day: [2026-10-17](./data/2026-10-17.md)
 00:21 [У Москві заявили про атаку десятків БПЛА](https://ua.korrespondent.net/world/russia/4921071-u-moskvi-zaiavyly-pro-ataku-desiatkiv-bpla)<br>
 
 ## as.com
+14:37 [Llull dispara al Madrid a un nuevo récord: 20 triples](https://as.com/baloncesto/acb/llull-dispara-al-madrid-a-un-nuevo-record-20-triples-f202610-n/)<br>
+14:18 [Real Madrid - Bilbao Basket: resumen y resultado, ACB (119-84)](https://as.com/baloncesto/acb/real-madrid-bilbao-en-directo-acb-liga-endesa-202627-hoy-en-vivo-f202610-d/)<br>
 07:52 [Hilliard: “Quizás algún día sea ciudadano vasco”](https://as.com/baloncesto/acb/hilliard-quizas-algun-dia-sea-ciudadano-vasco-f202610-n/)<br>
 07:50 [El Barça y el peso de la añoranza](https://as.com/baloncesto/acb/el-barca-y-el-peso-de-la-anoranza-f202610-n/)<br>
 07:49 [Joventut - Barcelona: horario, TV y dónde ver la ACB 2026-27](https://as.com/baloncesto/euroliga/joventut-barcelona-horario-tv-y-donde-ver-la-acb-2026-27-f202610-n/)<br>
@@ -23,6 +27,16 @@ Previous day: [2026-10-17](./data/2026-10-17.md)
 07:45 [Una bestia negra en el Movistar Arena](https://as.com/baloncesto/mas_baloncesto/una-bestia-negra-en-el-movistar-arena-f202610-n/)<br>
 
 ## www.elperiodico.com
+15:10 [Nueva incidencia en Rodalies: retrasos de 30 minutos en las líneas R1 y R4](https://www.elperiodico.com/es/trafico-y-transportes/20261018/rodalies-incidencia-nueva-retrasos-r1-r2-r4-135469141)<br>
+14:40 [Los Javis y el elenco de 'La bola negra' se codean con Taylor Swift, Kim Kardashian y Pamela Anderson en su salto a Hollywood](https://www.elperiodico.com/es/ocio-y-cultura/20261018/javis-elenco-bola-negra-taylor-swift-135468146)<br>
+14:30 [Tomás (64 años) vive en un pueblo abandonado del Pirineo: "Los que vivís en ciudad, veis a mucha gente aislada pidiendo ayuda y parece que se hacen invisibles"](https://www.elperiodico.com/es/economia/20261018/pueblo-abandonado-lleida-pirineo-despoblacion-vida-rural-tomas-dv-et-135400839)<br>
+13:34 [Reabre la estación de Metro de Sol tras garantizarse "las condiciones de seguridad y salud"](https://www.elperiodico.com/es/videos/sociedad/reabre-estacion-metro-sol-garantizarse/135467445.shtml)<br>
+13:26 [El Meteocat avisa de lluvias intensas este lunes en toda Catalunya y activa el aviso naranja en el litoral y prelitoral central](https://www.elperiodico.com/es/sociedad/20261018/meteocat-avisa-lluvias-intensas-lunes-aviso-naranja-catalunya-135462142)<br>
+13:25 [Fallece el conde Rudi, referente de la Marbella de los años de oro](https://www.elperiodico.com/es/gente/20261018/fallece-conde-rudi-referente-marbella-135466811)<br>
+12:52 ['La bola negra' supera a 'Torrente, presidente' y se convierte en la cuarta película más taquillera de la historia del cine español](https://www.elperiodico.com/es/ocio-y-cultura/20261018/bola-negra-supera-torrente-presidente-135465109)<br>
+12:08 [La dana Adam deja importantes inundaciones en la provincia de Almería](https://www.elperiodico.com/es/videos/sociedad/dana-adam-deja-importantes-inundaciones/135465064.shtml)<br>
+12:00 [Luis Ubalde: “Queremos que el Museu del Ferrocarril sea un catalizador de vocaciones como ingenieros o maquinistas”](https://www.elperiodico.com/es/barcelona/20261018/luis-ubalde-queremos-museu-ferrocarril-135422678)<br>
+11:43 [Vidas corrientes](https://www.elperiodico.com/es/opinion/20261018/vidas-corrientes-articulo-opinion-emma-riverola-135464080)<br>
 11:30 [El aviso de los expertos para hoy domingo si vives en zona de lluvias: por qué recomiendan bajar persianas y revisar ventanas](https://www.elperiodico.com/es/tiempo/20261018/lluvias-domingo-aviso-expertos-persianas-dv-135451511)<br>
 11:13 [Alerta por lluvias torrenciales en Catalunya, Valencia y Baleares, en directo | Última hora de la dana, avisos rojos del Meteocat, Aemet y plan Inuncat](https://www.elperiodico.com/es/sociedad/20261018/lluvia-cataluna-valencia-baleares-dana-alerta-meteocat-aemet-ultima-hora-directo-135404377)<br>
 11:10 [Alexandra Laudo, investigadora cultural: "Me pregunto qué hacen los hombres con todo el tiempo libre que las mujeres no tienen"](https://www.elperiodico.com/es/sociedad/20261018/alexandra-laudo-usos-tiempo-conciliacion-trabajo-descanso-time-use-week-barcelona-135428763)<br>
