@@ -1,5 +1,41 @@
 [
   {
+    "title": "Moeve Fútbol Zone 2x07: Toni Martínez y las claves de la jornada de LaLiga",
+    "link": "https://www.elperiodico.com/es/deportes/20261018/moeve-futbol-zone-2x07-toni-bc-135479955",
+    "pubDate": "2026-10-18 23:59:03",
+    "category": "",
+    "description": "<h2>El delantero del Deportivo Alavés será el invitado del programa, que contará con Juli Garcia y Raúl Fuentes para repasar la jornada, con especial atención al Betis–Barça y al Real Madrid–Sevilla</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "США схиляють Україну до капітуляції - Зеленський",
+    "link": "https://ua.korrespondent.net/ukraine/4921239-ssha-skhyliauit-ukrainu-do-kapituliatsii-zelenskyi",
+    "pubDate": "2026-10-18 23:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4602318.jpg\">Американською стороною були зроблені кроки, спрямовані на те, щоб схилити Україну до капітуляції, припустив український лідер.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Трамп зробив чергову заяву про Зеленського",
+    "link": "https://ua.korrespondent.net/world/worldabus/4921237-tramp-zrobyv-cherhovu-zaiavu-pro-zelenskoho",
+    "pubDate": "2026-10-18 23:44:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4602303.jpg\">Два роки тому український президент нібито \"міг укласти кращу угоду, ніж тепер\", стверджує американський лідер.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Zelenski afirma que parece que Trump está intentando forzar una capitulación de Ucrania ante Rusia",
+    "link": "https://www.elperiodico.com/es/internacional/20261018/zelenski-afirma-parece-trump-intentando-135479581",
+    "pubDate": "2026-10-18 23:12:38",
+    "category": "",
+    "description": "<h2>Trump replica que Zelenski \"no quiere acabar esta guerra y probablemente nunca quiso\"</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
     "title": "El Real Madrid golea al Sevilla el día que el VAR regala a Arda el 'Clásico'",
     "link": "https://www.elperiodico.com/es/deportes/20261018/real-madrid-sevilla-laliga-resumen-resultado-futbol-135479429",
     "pubDate": "2026-10-18 23:02:49",
@@ -135,6 +171,15 @@
     "topic_match_probability": 100
   },
   {
+    "title": "Заворушення у Франції: Мадяр зробив заяву",
+    "link": "https://ua.korrespondent.net/world/4921224-zavorushennia-u-frantsii-madiar-zrobyv-zaiavu",
+    "pubDate": "2026-10-18 21:19:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4602193.jpg\">Угорський прем'єр Мадяр на тлі масштабних протестів у Франції виступив за жорстку міграційну політику.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Resumen del Joventut vs Barcelona, jornada 4 de la Liga Endesa",
     "link": "https://as.com/videos/acb/resumen-del-joventut-vs-barcelona-jornada-4-de-la-liga-endesa-f202610-v/",
     "pubDate": "2026-10-18 21:18:37",
@@ -196,6 +241,15 @@
     "description": "Fue el partido en el que se encontraron los hermanos Kurucs: Arturs (La Laguna) y Rodions (Baskonia). Primer tropezón liguero vasco.",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Трамп підтримав Нетаньягу перед виборами в Ізраїлі",
+    "link": "https://ua.korrespondent.net/world/4921220-tramp-pidtrymav-netaniahu-pered-vyboramy-v-izraili",
+    "pubDate": "2026-10-18 20:42:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4602164.jpg\">Американський президент назвав Нетаньягу \"великим воїном-прем'єр-міністром і ще більшим партнером у справі миру в боротьбі з Іраном\".",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
   },
   {
     "title": "LaLiga: Real Madrid - Sevilla, en directo",
