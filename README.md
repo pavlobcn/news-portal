@@ -1,8 +1,11 @@
-# News for 2026-10-18 18:35
+# News for 2026-10-18 20:53
 
 Previous day: [2026-10-17](./data/2026-10-17.md)
 
 ## ua.korrespondent.net
+20:13 [Зеленський планує балотуватися на виборах](https://ua.korrespondent.net/ukraine/4921217-zelenskyi-planuie-balotuvatysia-na-vyborakh)<br>
+19:58 [Українців попередили про відключення світла 19 жовтня](https://ua.korrespondent.net/ukraine/4921215-ukraintsiv-poperedyly-pro-vidkluichennia-svitla-19-zhovtnia)<br>
+19:13 [Через атаку РФ зупинило роботу підприємство на Рівненщині](https://ua.korrespondent.net/ukraine/4921209-cherez-ataku-rf-zupynylo-robotu-pidpryiemstvo-na-rivnenschyni)<br>
 17:01 [Свята 19 жовтня 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4921181-sviata-19-zhovtnia-2026-roku-istoriia-tradytsii)<br>
 12:16 [Ворог вдарив по Одесі, є пошкодження](https://ua.korrespondent.net/city/odessa/4921145-voroh-vdaryv-po-odesi-ye-poshkodzhennia)<br>
 11:57 [Росія атакувала Львів та Рівне](https://ua.korrespondent.net/ukraine/4921142-rosiia-atakuvala-lviv-ta-rivne)<br>
@@ -19,6 +22,8 @@ Previous day: [2026-10-17](./data/2026-10-17.md)
 00:21 [У Москві заявили про атаку десятків БПЛА](https://ua.korrespondent.net/world/russia/4921071-u-moskvi-zaiavyly-pro-ataku-desiatkiv-bpla)<br>
 
 ## as.com
+20:42 [Segunda derrota de la era Perasovic](https://as.com/baloncesto/segunda-derrota-de-la-era-perasovic-f202610-n/)<br>
+19:07 [El UCAM sufre el vendaval taronja liderado por Jasiel Rivero](https://as.com/baloncesto/acb/ucam-sufre-el-vendaval-taronja-liderado-por-jasiel-rivero-f202610-n/)<br>
 18:19 [Joventut - Barcelona, en directo: Liga Endesa 2026-27 en vivo hoy](https://as.com/baloncesto/nba/joventut-barcelona-en-directo-liga-endesa-2026-27-en-vivo-hoy-f202610-d/)<br>
 18:04 [Carlos Martínez presenta la Wellbeinn Band y la Wellbeinn Balance](https://as.com/baloncesto/mas_baloncesto/carlos-martinez-presenta-la-wellbeinn-band-y-la-wellbeinn-balance-f202610-n/)<br>
 15:39 [Martínez: “Le doy menos valor al acierto y más a la intención de jugar rápido”](https://as.com/baloncesto/acb/martinez-le-doy-menos-valor-al-acierto-y-mas-a-la-intencion-de-jugar-rapido-f202610-n/)<br>
@@ -34,6 +39,12 @@ Previous day: [2026-10-17](./data/2026-10-17.md)
 07:45 [Una bestia negra en el Movistar Arena](https://as.com/baloncesto/mas_baloncesto/una-bestia-negra-en-el-movistar-arena-f202610-n/)<br>
 
 ## www.elperiodico.com
+20:10 [La Policía desaloja a 500 personas del "último gran asentamiento" de inmigrantes de Ceuta](https://www.elperiodico.com/es/sociedad/20261018/policia-desaloja-500-personas-ultimo-135476463)<br>
+19:55 [Guti, exfutbolista del Real Madrid, sobre sus inversiones: "Lo más fácil es el ladrillo"](https://www.elperiodico.com/es/gente/20261018/guti-inversiones-vivienda-immobiliario-dv-et-135152595)<br>
+19:51 [El Salón Náutico cierra una de las mejores ediciones con más de 226 embarcaciones y 170 expositores](https://www.elperiodico.com/es/economia/20261018/barcelona-salon-nautico-cierra-mejores-ediciones-135476007)<br>
+19:38 [Suspenden las clases de este lunes en amplias zonas de la Comunidad Valenciana y Baleares por la dana Adam](https://www.elperiodico.com/es/videos/sociedad/suspenden-clases-lunes-amplias-zonas/135475890.shtml)<br>
+18:59 [La UME embarca en Denia para desplegarse en Baleares por la borrasca Adam](https://www.elperiodico.com/es/videos/sociedad/ume-embarca-denia-desplegarse-baleares/135474771.shtml)<br>
+18:42 [Fallece una mujer en Catalunya por la DANA Adam y la costa sigue en alerta](https://www.elperiodico.com/es/videos/sociedad/fallece-mujer-catalunya-dana-adam-video/135474269.shtml)<br>
 18:33 [La UME se despliega hacia Ibiza para reforzar las emergencias ante la amenaza de más lluvias de la dana 'Adam'](https://www.elperiodico.com/es/sociedad/20261018/ume-despliega-ibiza-reforzar-emergencias-135474153)<br>
 18:21 [Adif prevé reabrir este lunes la segunda vía en Ricla para recuperar la circulación del AVE entre Barcelona y Madrid](https://www.elperiodico.com/es/trafico-y-transportes/20261018/adif-zaragoza-tren-lunes-segunda-madrid-barcelona-ave-135473234)<br>
 18:20 [Así ha sido la fiesta del reparto de 'La bola negra' en la Academy Museum Gala en Los Ángeles](https://www.elperiodico.com/es/videos/ocio-y-cultura/sido-fiesta-reparto-bola-negra/135473871.shtml)<br>
@@ -54,6 +65,7 @@ Previous day: [2026-10-17](./data/2026-10-17.md)
 13:26 [El Meteocat avisa de lluvias intensas este lunes en toda Catalunya y activa el aviso naranja en el litoral y prelitoral central](https://www.elperiodico.com/es/sociedad/20261018/meteocat-avisa-lluvias-intensas-lunes-aviso-naranja-catalunya-135462142)<br>
 13:25 [Fallece el conde Rudi, referente de la Marbella de los años de oro](https://www.elperiodico.com/es/gente/20261018/fallece-conde-rudi-referente-marbella-135466811)<br>
 12:52 ['La bola negra' supera a 'Torrente, presidente' y se convierte en la cuarta película más taquillera de la historia del cine español](https://www.elperiodico.com/es/ocio-y-cultura/20261018/bola-negra-supera-torrente-presidente-135465109)<br>
+12:21 [León XIV recita su primer Ángelus tras el alta hospitalaria y dice que "retomará gradualmente" su agenda](https://www.elperiodico.com/es/sociedad/20261018/leon-xiv-recita-primer-angelus-alta-hospitalaria-operacion-pulmon-135465339)<br>
 12:08 [La dana Adam deja importantes inundaciones en la provincia de Almería](https://www.elperiodico.com/es/videos/sociedad/dana-adam-deja-importantes-inundaciones/135465064.shtml)<br>
 12:00 [Luis Ubalde: “Queremos que el Museu del Ferrocarril sea un catalizador de vocaciones como ingenieros o maquinistas”](https://www.elperiodico.com/es/barcelona/20261018/luis-ubalde-queremos-museu-ferrocarril-135422678)<br>
 11:43 [Vidas corrientes](https://www.elperiodico.com/es/opinion/20261018/vidas-corrientes-articulo-opinion-emma-riverola-135464080)<br>
@@ -68,6 +80,7 @@ Previous day: [2026-10-17](./data/2026-10-17.md)
 09:00 [El festival de cine argentino de Barcelona (BAAR)  propone una programación en estado salvaje](https://www.elperiodico.com/es/ocio-y-cultura/20261018/festival-cine-argentino-barcelona-baar-135423126)<br>
 09:00 [Albert Om: "Barcelona es tan inmensa y está tan desbordada, que sirve para todo"](https://www.elperiodico.com/es/barcelona/20261018/albert-om-barcelona-inmensa-desbordada-135400338)<br>
 08:00 [Seis formas de utilizar la IA para estudiar y aprender en la ESO: "No le pidas que resuelva los problemas de Matemáticas, sino que te ayude a comprenderlos"](https://www.elperiodico.com/es/videos/sociedad/seis-formas-utilizar-ia-estudiar/135420399.shtml)<br>
+08:00 [Seis formas de utilizar la IA para estudiar en la ESO: "No le pidas que resuelva los problemas de Matemáticas, sino que te ayude a entenderlos"](https://www.elperiodico.com/es/sociedad/20261018/como-utilizar-bien-la-inteligencia-artificial-para-estudiar-aprender-mejor-135414515)<br>
 07:00 [¿Por qué hablamos de vivienda y no de salarios?](https://www.elperiodico.com/es/opinion/20261018/hablamos-vivienda-salarios-135438157)<br>
 06:37 [María Herrera y Albert Arenas también son flamantes campeones del mundo](https://www.elperiodico.com/es/deportes/20261018/maria-herrera-albert-arenas-son-135457676)<br>
 06:01 [EL PERIÓDICO refuerza su comité editorial](https://www.elperiodico.com/es/sociedad/20261018/periodico-refuerza-comite-editorial-135441995)<br>
