@@ -1,5 +1,428 @@
 [
   {
+    "title": "Los Mossos investigan una detención ilegal en Santa Coloma de Gramenet",
+    "link": "https://www.elperiodico.com/es/sucesos/20261018/investigan-detencion-ilegal-santa-coloma-mossos-135463462",
+    "pubDate": "2026-10-18 11:02:16",
+    "category": "",
+    "description": "<h2>Cuatro hombres habrían obligado al hombre a subir a un vehículo en la zona de Singuerlín, cerca de su casa</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260921/narcosecuestradores-autopista-ap7-desacomplejados-sin-miedo-riesgo-conductores-134532164\">Narcosecuestradores de la AP7: desacomplejados y sin miedo a poner en riesgo al resto de conductores</a></h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Sin energía no hay defensa",
+    "link": "https://www.elperiodico.com/es/opinion/20261018/energia-hay-defensa-articulo-josep-ramon-bosch-135429708",
+    "pubDate": "2026-10-18 11:00:02",
+    "category": "",
+    "description": "<h2>Defender el papel de la nuclear no supone enfrentarlo al desarrollo renovable. Supone exigir que la sustitución de una capacidad estratégica se haga cuando existan alternativas contrastadas</h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "La jueza exculpa al hombre que convivió un mes con el cadáver de su madre en Mallorca",
+    "link": "https://www.elperiodico.com/es/sucesos/20261018/jueza-exculpa-hombre-convivio-mes-135463510",
+    "pubDate": "2026-10-18 10:59:24",
+    "category": "",
+    "description": "<h2>La magistrada archiva el proceso penal por homicidio contra el acusado porque los forenses no han podido determinar si la anciana fue estrangulada o falleció por causas naturales</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Final del Masters 1.000 de Shanghai, en directo: Alejandro Davidovich - Rafa Jódar",
+    "link": "https://www.elperiodico.com/es/deportes/20261018/final-masters-1-000-shanghai-135462384",
+    "pubDate": "2026-10-18 10:58:41",
+    "category": "",
+    "description": "<h2>Novena final íntegramente española en la historia de los torneos de categoría Masters 1.000</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Атаковано міст, який з'єднує дві частини Пітєра",
+    "link": "https://ua.korrespondent.net/world/russia/4921134-atakovano-mist-yakyi-ziednuie-dvi-chastyny-pitiera",
+    "pubDate": "2026-10-18 10:54:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4601567.jpg\">Один із безпілотників влучив у вантовий міст через Корабельний фарватер у Санкт-Петербурзі.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Los Mossos reciben unas 60 denuncias por entradas fraudulentas para Oques Grasses",
+    "link": "https://www.elperiodico.com/es/sucesos/20261018/mossos-60-denuncias-entradas-fraudulentas-oques-grasses-135463133",
+    "pubDate": "2026-10-18 10:53:58",
+    "category": "",
+    "description": "<h2>La policía cree que se trata de una cifra 'negra' y que el número de personas estafadas podría ser muy superior</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El irremediable desequilibrio comercial entre China y la UE empuja a la colisión",
+    "link": "https://www.elperiodico.com/es/internacional/20261018/irremediable-desequilibrio-china-ue-empuja-potencias-colision-guerra-comercial-135463354",
+    "pubDate": "2026-10-18 10:53:54",
+    "category": "",
+    "description": "<h2>El 'parche' pactado la semana pasada por Bruselas y Pekín es insuficiente ante los 1.000 millones de dólares diarios de déficit comercial</h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Indignación en Europa y EEUU tras los recientes ataques de colonos israelíes en Cisjordania",
+    "link": "https://www.elperiodico.com/es/internacional/20261018/indignacion-europa-eeuu-recientes-ataques-colonos-israel-cisjordania-135463256",
+    "pubDate": "2026-10-18 10:51:36",
+    "category": "",
+    "description": "<h2>Los radicales judíos agredieron el viernes a una periodista estadounidense de 'The Washington Post' y el sábado a una delegación diplomática europea</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Así es la llamada Toscana catalana: pueblos medievales, carreteras entre viñedos y uno de los rincones más bonitos de Europa",
+    "link": "https://www.elperiodico.com/es/catalunya/20261018/pueblos-toscana-catalana-baix-emporda-girona-cataluna-dv-loc-131006719",
+    "pubDate": "2026-10-18 10:40:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Una comarca catalana que recuerda a la región de Italia</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/catalunya/20260819/pueblo-medieval-pep-guardiola-timbaler-bruc-barcelona-cataluna-dv-loc-131049599\">Cuna de Pep Guardiola y del legendario Timbaler del Bruc: la localidad de Catalunya que evoca su pasado medieval, con humedales y reservas naturales que miran a Montserrat</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.cat/ca/catalunya/20260512/rupit-pobles-cataluna-mirador-barcelona-dv-loc-130136428\">Descubre un mirador de ensueño en uno de los pueblos más bonitos de Catalunya y del mundo: ideal para visitar en familia</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Віцепрезидент США розповів, що думає про Путіна",
+    "link": "https://ua.korrespondent.net/world/4921130-vitseprezydent-ssha-rozpoviv-scho-dumaie-pro-putina",
+    "pubDate": "2026-10-18 10:16:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4601545.jpg\">Джей Ді Венс поділився своїми враженнями від останніх телефонних розмов із російським президентом.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Muere un sacerdote tras ser golpeado por una cruz durante una misa transmitida en directo",
+    "link": "https://www.elperiodico.com/es/sucesos/20261018/muere-sacerdote-golpeado-cruz-misa-directo-dv-135462333",
+    "pubDate": "2026-10-18 10:07:43",
+    "category": "",
+    "description": "<h2>El suceso, ocurrido en una iglesia de Guayaquil, quedó registrado al retransmitirse en vivo la ceremonia</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Nueve de los 15 depósitos pluviales de Barcelona rebasaron su capacidad máxima en el último episodio de lluvias torrenciales",
+    "link": "https://www.elperiodico.com/es/barcelona/20261018/nueve-15-depositos-pluviales-barcelona-rebasaron-capacidad-maxima-ultimo-episodio-lluvias-torrenciales-135334003",
+    "pubDate": "2026-10-18 10:00:35",
+    "category": "",
+    "description": "<h2>Entre el 3 y el 4 de octubre, los depósitos gestionaron 492.922 m³ de agua de lluvia, el 109% de la capacidad total de los mismos</h2><h2>El Ayuntamiento tiene sobre la mesa ampliar la red municipal de esta infraestructura para que pueda almacenar el triple de agua</h2><h2>CONTEXTO | <a href=\"https://www.elperiodico.com/es/barcelona/20261005/episodio-lluvias-extraordinario-50-desprendimientos-dos-escuelas-cerradas-seis-familias-evacuadas-barcelona-135017156\">El episodio de lluvias \"más extraordinario en 60 años\" en Barcelona: 50 desprendimientos, dos escuelas cerradas y seis familias evacuadas</a></h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20261018/inundacion-rio-besos-tres-xemeneies-puente-rodalies-135445590\">El puente de Rodalies sobre el Besòs amenaza con causar inundaciones de más de un metro de alto en torno a las Tres Xemeneies</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "De Onlyfans a la prostitución física: así se reclutan mujeres con mensajes \"empoderantes y feministas\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261018/onlyfans-prostitucion-fisica-recluta-mensaje-feminista-empoderante-135066129",
+    "pubDate": "2026-10-18 10:00:35",
+    "category": "",
+    "description": "<h2 class=\"item\">Un estudio de la entidad APIP-ACAM denuncia que los captadores de redes sociales emplean un lenguaje para eliminar el miedo de sus víctimas, prometiendo entornos seguros y empoderamiento para ocultar la explotación sexual</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Complejos vitamínicos, 'apps' de gestión y un programa de selección de ibéricas, las granjas también se pone al día",
+    "link": "https://www.elperiodico.com/es/economia/20261018/premios-innova-vall-companys-innovacion-granjas-hepatovall-vallchat-135462351",
+    "pubDate": "2026-10-18 10:00:35",
+    "category": "",
+    "description": "<h2>El grupo Vall Companys convoca unos galardones internos para que las mejoras locales puedan extenderse a las más de 1.500 explotaciones de porcino asociadas al grupo</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Bugatti desafía el calor de Sevilla con el Tourbillon",
+    "link": "https://www.elperiodico.com/es/motor/20261018/bugatti-desafia-calor-sevilla-tourbillon-135358301",
+    "pubDate": "2026-10-18 10:00:35",
+    "category": "",
+    "description": "<h2>La marca ha sometido a su nuevo hiperdeportivo híbrido de 1.800 CV a pruebas de refrigeración frente al calor extremo del sur de España</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El puente de Rodalies sobre el Besòs amenaza con causar inundaciones de más de un metro de alto en torno a las Tres Xemeneies",
+    "link": "https://www.elperiodico.com/es/barcelona/20261018/inundacion-rio-besos-tres-xemeneies-puente-rodalies-135445590",
+    "pubDate": "2026-10-18 10:00:34",
+    "category": "",
+    "description": "<h2 class=\"item\">El estudio de inundabilidad del barrio por alzar frente a la central sostiene que si la pasarela se levantase unos tres metros y medio se reduciría \"considerablemente\" la tromba de agua que podría desbordarse en caso de lluvias torrenciales hacia el vecindario y otros del entorno </h2><h2 class=\"item\"><a>Nueve de los 15 depósitos pluviales de Barcelona rebasaron su capacidad máxima en el último episodio de lluvias torrenciales</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Поляки шукають об’єкт, який міг залетіти до країни",
+    "link": "https://ua.korrespondent.net/world/4921127-poliaky-shukauit-obiekt-yakyi-mih-zaletity-do-krainy",
+    "pubDate": "2026-10-18 09:55:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4601524.jpg\">Польща перевіряє ймовірне порушення повітряного простору невпізнаним об’єктом. Факт інциденту поки не підтверджено.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Muere un niño de 6 años y un hombre en un atropello en un campo de fútbol en Kansas, Estados Unidos",
+    "link": "https://www.elperiodico.com/es/internacional/20261018/conductora-irrumpe-vehiculo-campo-futbol-nino-adulto-muertos-135462184",
+    "pubDate": "2026-10-18 09:49:47",
+    "category": "",
+    "description": "<h2>El vehículo, en el que viajaban dos menores, irrumpió a toda velocidad en el campo por razones que aún se desconocen</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "ISW прогнозує посилення російських диверсій в Європі",
+    "link": "https://ua.korrespondent.net/world/4921119-ISW-prohnozuie-posylennia-rosiiskykh-dyversii-v-yevropi",
+    "pubDate": "2026-10-18 09:40:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4601499.jpg\">Кремль, ймовірно, посилить диверсії і саботажі в Польщі взимку. Аналітики ISW назвали ймовірні цілі.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Feijóo proclama a Albiol como candidato a las elecciones generales en un acto en Barcelona",
+    "link": "https://www.elperiodico.com/es/politica/20261018/feijoo-albiol-barcelona-elecciones-generales-135461987",
+    "pubDate": "2026-10-18 09:37:19",
+    "category": "",
+    "description": "<h2>El líder del PP interviene este domingo en un acto en la capital catalana junto a los candidatos a las cuatro provincias de Catalunya </h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261017/albiol-candidato-pp-cataluna-barcelona-elecciones-generales-135402322\">Albiol será el candidato del PP por Barcelona en las elecciones generales</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Precio de la gasolina y diésel hoy, 18 de octubre en España: consulta el precio de los carburantes",
+    "link": "https://www.elperiodico.com/es/economia/20261018/precio-gasolina-diesel-hoy-18-octubre-dv-135461970",
+    "pubDate": "2026-10-18 09:37:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Guerra de EEUU e Israel contra Irán, en directo</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260303/afectara-espana-conflicto-iran-gas-gasolina-luz-inflacion-euribor-127492297\">¿Cómo afectará a España el conflicto con Irán? Gas, gasolina, luz, inflación y euríbor, en el punto de mira</a></h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Embalses hoy, 18 de octubre en Catalunya: consulta el estado de Sau, Foix, Susqueda y el resto de pantanos",
+    "link": "https://www.elperiodico.com/es/sociedad/20261018/embalses-hoy-18-octubre-catalunya-dv-135461936",
+    "pubDate": "2026-10-18 09:33:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Consulta el nivel de los pantanos catalanes, según los últimos datos de la Agència Catalana de l'Aigua</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/medio-ambiente/20260129/embalse-riudecanyes-libera-agua-primera-vez-desde-2020-126224648\">VÍDEO | El embalse de Riudecanyes libera agua por primera vez desde 2020</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20250922/noticias-google-discover-el-periodico-121841727\">Configura las noticias de Google para no perderte nada de EL PERIÓDICO</a></h2>",
+    "topic": "estado de los embalses",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "¿Cuándo enviarías tú el ES-Alert por las lluvias? Así es el juego simulador que te convierte en jefe de Protecció Civil",
+    "link": "https://www.elperiodico.com/es/sociedad/20261018/cuando-enviarias-es-alert-lluvias-juego-simulador-dv-135460966",
+    "pubDate": "2026-10-18 09:26:01",
+    "category": "",
+    "description": "<h2>El juego gratuito 'ES-Alert Simulator' te pone al frente de una sala de emergencias ficticia para decidir cuando alertar y evitar enfadar a la ciudadanía</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Francia, conmocionada tras los disturbios y saqueos en las protestas contra el alza del coste de la vida",
+    "link": "https://www.elperiodico.com/es/internacional/20261018/francia-conmocionada-disturbios-saqueos-protestas-coste-vida-135461552",
+    "pubDate": "2026-10-18 09:23:42",
+    "category": "",
+    "description": "<h2>Las autoridades informan de 1.200 detenidos y 150 policías y gendarmes heridos en todo el país</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Латвія та Литва оголошували повітряну тривогу: що відомо",
+    "link": "https://ua.korrespondent.net/world/4921117-latviia-ta-lytva-oholoshuvaly-povitrianu-tryvohu-scho-vidomo",
+    "pubDate": "2026-10-18 09:18:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4601478.jpg\">У Литві підняли винищувачі НАТО і закликали жителів кількох регіонів йти в укриття через повітряну тривогу.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Claudia Romero, abogada: \"Ni la vivienda es un derecho ni el italiano que se compra una casa en Formentera es tu problema\"",
+    "link": "https://www.elperiodico.com/es/economia/20261018/claudia-romero-abogada-vivienda-no-derecho-dv-et-135319394",
+    "pubDate": "2026-10-18 09:05:00",
+    "category": "",
+    "description": "<h2>\"Si fuera un derecho te tendrían que dar una casa solo por nacer, solo por existir, sin pagar por ella\", opina la letrada</h2><h2><a href=\"https://www.elperiodico.com/es/vivienda/20261013/confirmado-boe-ayudas-reforma-viviendas-accesibilidad-dv-135274255\">Confirmado por el BOE: ayudas de hasta 22.000 euros para reformar viviendas y mejorar su accesibilidad</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Ucrania lanza contra San Petersburgo uno de los mayores ataques con drones desde el inicio de la invasión",
+    "link": "https://www.elperiodico.com/es/internacional/20261018/ucrania-san-petersburgo-ataque-drones-135461392",
+    "pubDate": "2026-10-18 09:04:52",
+    "category": "",
+    "description": "<h2>Las autoridades reportan una víctima mortal y cinco heridos</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El festival de cine argentino de Barcelona (BAAR)  propone una programación en estado salvaje",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261018/festival-cine-argentino-barcelona-baar-135423126",
+    "pubDate": "2026-10-18 09:00:23",
+    "category": "",
+    "description": "<h2 style=\"text-align: justify;\">El certamen homenajea a Adolfo Aristarain y Pere Portabella y estrena ‘El partido’, el filme sobre la rivalidad deportiva y política entre Argentina e Inglaterra</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Albert Om: \"Barcelona es tan inmensa y está tan desbordada, que sirve para todo\"",
+    "link": "https://www.elperiodico.com/es/barcelona/20261018/albert-om-barcelona-inmensa-desbordada-135400338",
+    "pubDate": "2026-10-18 09:00:22",
+    "category": "",
+    "description": "<h2>El periodista reflexiona sobre sus seis décadas de vida y el éxito de su nuevo libro autobiográfico donde rinde homenaje a la generación de sus padres</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20261011/sandra-bestraten-edificio-sol-salud-135054613\">Sandra Bestraten: \"Para un edificio, el sol es salud\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/tele/20260621/oriol-nolis-periodista-director-2cat-131593122\">Oriol Nolis, periodista y director de La 2Cat: \"Durante estos nueve meses de vida, a La 2Cat le pongo un notable alto\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los hutíes de Yemen sacan los colores a Arabia Saudí: cómo una milicia de desarrapados hace sombra a la potencia regional saudí",
+    "link": "https://www.elperiodico.com/es/internacional/20261018/huties-yemen-castigo-arabia-saudi-por-que-armas-economia-paralela-135461214",
+    "pubDate": "2026-10-18 09:00:22",
+    "category": "",
+    "description": "<h2>Los rebeldes yemeníes han construido una economía paralela para financiar su maquinaria de guerra, al tiempo que reducían su dependencia de Irán con una red diversificada de abastecimiento de armas  </h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "'In vitro', la serie de David Verdaguer y Bruna Cusí en TV3 y HBO que rompe el tabú de la reproducción asistida",
+    "link": "https://www.elperiodico.com/es/tele/20261018/in-vitro-serie-david-verdaguer-123801637",
+    "pubDate": "2026-10-18 09:00:00",
+    "category": "",
+    "description": "<h2 class=\"item\">La ficción, que mezcla comedia y drama, está ambientada en una clínica de fertilidad</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/20260930/series-estrenos-octubre-2026-netflix-disney-hb-prime-video-movistar-filmin-3cat-apple-skyshowtime-134581324\">Las 12 series que no te puedes perder este octubre</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "\"Los padres llevan a sus hijos a su primera vez de putas\": Kamila Ferreira, escritora y superviviente de explotación sexual",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261018/kamila-ferreira-libro-prostitucion-135425998",
+    "pubDate": "2026-10-18 08:59:18",
+    "category": "",
+    "description": "<h2>La autora de 'España, la Tailandia europea' prepara su segundo libro sobre el sistema prostitucional</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "На Волині стався витік аміаку",
+    "link": "https://ua.korrespondent.net/ukraine/4921115-na-volyni-stavsia-vytik-amiaku",
+    "pubDate": "2026-10-18 08:55:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4601458.jpg\">Мешканців частини Маневичів закликали залишити домівки та тимчасово переміститися до безпечніших частин населеного пункту.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "На великій військовій базі у Канаді спалахнула пожежа: є загиблі",
+    "link": "https://ua.korrespondent.net/world/4921112-na-velykii-viiskovii-bazi-u-kanadi-spalakhnula-pozhezha-ye-zahybli",
+    "pubDate": "2026-10-18 08:40:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4601418.jpg\">Влада країни поки що не оприлюднила точну кількість жертв та поранених або причину інциденту.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У ЗСУ розповіли подробиці нічного удару росіян",
+    "link": "https://ua.korrespondent.net/ukraine/4921110-u-zsu-rozpovily-podrobytsi-nichnoho-udaru-rosiian",
+    "pubDate": "2026-10-18 08:17:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4601398.jpg\">Росія атакувала Україну 180 дронами та ракетою - скільки вдалося збити та скільки зафіксовано влучань.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El bocadilllo de oreja que le planta cara el 'brunch' en Barcelona",
+    "link": "https://www.elperiodico.com/es/que-hacer/donde-comer/20261018/bocadilllo-oreja-cara-brunch-barcelona-desayunos-tenedor-esmorzar-forquilla-135431543",
+    "pubDate": "2026-10-18 08:00:39",
+    "category": "",
+    "description": "<h2>Nuevo refugio barcelonés. Este joven local con café de especialidad apuesta por los desayunos de tenedor y la cocina catalana de fondo</h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20261016/barcelona-experiencias-inmersivas-netflix-primer-centro-espana-sandbox-vr-juegos-realidad-virtual-135392938\" target=\"_blank\">Abre en Barcelona el primer centro de España con experiencias inmersivas de Netflix</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El auge de los proxenetas en OnlyFans: captan a jóvenes con promesas de éxito y las chantajean hasta quedarse con el 90% de sus ingresos",
+    "link": "https://www.elperiodico.com/es/sociedad/20261018/auge-proxenetas-onlyfans-captan-jovenes-promesas-chantaje-135059537",
+    "pubDate": "2026-10-18 08:00:38",
+    "category": "",
+    "description": "<h2 class=\"item\">Los Mossos d'Esquadra alertan del reclutamiento de mujeres que suben contenido a la plataforma y acaban extorsionadas por falsos representantes con vídeos sexuales</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20250911/vinculo-redes-prostitucion-ley-abolicion-121472623\">Los expertos alertan de que las redes sociales son \"supermercados de prostitución\", donde se capta a chicas jóvenes</a></h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Las armas blancas en Catalunya: bajan los robos con violencia, pero aumentan las agresiones y las amenazas",
+    "link": "https://www.elperiodico.com/es/sucesos/20261018/amenazas-agresiones-robos-violencia-armas-blancas-navajas-cuchillos-135343180",
+    "pubDate": "2026-10-18 08:00:36",
+    "category": "",
+    "description": "<h2 class=\"item\">Los Mossos han incrementado un 6% las intervenciones de cuchillos y navajas en los primeros seis meses del año</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260525/mossos-controles-armas-blancas-parques-jovenes-norte-barcelona-130523071\">Cerco policial a la 'cultura de la navaja' juvenil con controles cada fin de semana en parques del norte de Barcelona</a></h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Seis formas de utilizar la IA para estudiar y aprender en la ESO: \"No le pidas que resuelva los problemas de Matemáticas, sino que te ayude a comprenderlos\"",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/seis-formas-utilizar-ia-estudiar/135420399.shtml",
+    "pubDate": "2026-10-18 08:00:35",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Mas Barcelona - Albert Om",
+    "link": "https://www.elperiodico.com/es/videos/podcast/barcelona-albert-om/135074406.shtml",
+    "pubDate": "2026-10-18 07:59:29",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Hilliard: “Quizás algún día sea ciudadano vasco”",
+    "link": "https://as.com/baloncesto/acb/hilliard-quizas-algun-dia-sea-ciudadano-vasco-f202610-n/",
+    "pubDate": "2026-10-18 07:52:27",
+    "category": "Deportes",
+    "description": "El escolta del Bilbao Basket rompe con ese tópico de que muchos norteamericanos están entre nosotros solo de paso.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Barça y el peso de la añoranza",
+    "link": "https://as.com/baloncesto/acb/el-barca-y-el-peso-de-la-anoranza-f202610-n/",
+    "pubDate": "2026-10-18 07:50:32",
+    "category": "Baloncesto",
+    "description": "Los azulgranas juegan contra el Joventut, que tienen a tres jugadores con pasado en el Palau: Tomic (lesionado), Laprovittola y Ricky. El base de El Mansou fue parte de la plantilla que conquistó la Euroliga de 2010.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Пітєр під повторною атакою дронів",
+    "link": "https://ua.korrespondent.net/world/russia/4921108-pitier-pid-povtornoui-atakoui-droniv",
+    "pubDate": "2026-10-18 07:50:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4601397.jpg\">У російському місті стався повторний приліт в порту, крім того горять склади компанії Ozon.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Joventut - Barcelona: horario, TV y dónde ver la ACB 2026-27",
+    "link": "https://as.com/baloncesto/euroliga/joventut-barcelona-horario-tv-y-donde-ver-la-acb-2026-27-f202610-n/",
+    "pubDate": "2026-10-18 07:49:15",
+    "category": "Baloncesto",
+    "description": "Conoce el horario y cómo ver el partido de la jornada 4 de la Liga Endesa 2026-27 entre Joventut y Barça. Este domingo, 18 de octubre, a las 19:00 horas.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Real Madrid - Bilbao: horario, TV y dónde ver la ACB 2026-27",
+    "link": "https://as.com/baloncesto/acb/real-madrid-bilbao-horario-tv-y-donde-ver-la-acb-2026-27-f202610-n/",
+    "pubDate": "2026-10-18 07:47:55",
+    "category": "Baloncesto",
+    "description": "Conoce el horario y cómo ver el partido de la jornada 4 de la Liga Endesa 2026-27 entre Real Madrid y Bilbao Basket. Este domingo, 18 de octubre, a las 12:30 horas.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Una bestia negra en el Movistar Arena",
+    "link": "https://as.com/baloncesto/mas_baloncesto/una-bestia-negra-en-el-movistar-arena-f202610-n/",
+    "pubDate": "2026-10-18 07:45:38",
+    "category": "Baloncesto",
+    "description": "El Movistar Estudiantes se enfrenta este domingo (18:30 horas, Baloncesto TV) a un Iberolea Palencia que ha ganado en tres de sus cuatro visitas al Palacio.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "РФ знову вдарила по Вінниччині: які наслідки",
+    "link": "https://ua.korrespondent.net/ukraine/4921106-rf-znovu-vdaryla-po-vinnychchyni-yaki-naslidky",
+    "pubDate": "2026-10-18 07:20:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4601358.jpg\">Росіяни атакували критичну інфраструктуру Вінницької області, в регіоні діють аварійні відключення.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
     "title": "¿Por qué hablamos de vivienda y no de salarios?",
     "link": "https://www.elperiodico.com/es/opinion/20261018/hablamos-vivienda-salarios-135438157",
     "pubDate": "2026-10-18 07:00:58",
