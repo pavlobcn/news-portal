@@ -1,5 +1,104 @@
 [
   {
+    "title": "Європу накрила хвиля антиурядових протестів",
+    "link": "https://ua.korrespondent.net/world/4921139-yevropu-nakryla-khvylia-antyuriadovykh-protestiv",
+    "pubDate": "2026-10-18 11:36:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4601629.jpg\">Відразу у восьми європейських країнах спалахнули акції та протести. Мітингарі влаштовують пожежі і грабують магазини.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Illa llama a seguir el ejemplo del \"compromiso\" de Tarradellas con la democracia",
+    "link": "https://www.elperiodico.com/es/politica/20261018/illa-tarradellas-remodelacion-tumba-cervello-democracia-135463733",
+    "pubDate": "2026-10-18 11:32:25",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20261016/salvador-illa-voto-util-sanchez-feijoo-abascal-veterano-elecciones-generales-135421173\">Illa apela al voto útil a Sánchez para frenar a Feijóo y Abascal: \"El penalti que lo tire el veterano\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261014/illa-bruselas-ue-vivienda-agricultores-recursos-cataluna-135322045\">Illa pide a la UE que movilice \"todos los recursos\" para afrontar la crisis de vivienda y active las ayudas a los agricultores</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El aviso de los expertos para hoy domingo si vives en zona de lluvias: por qué recomiendan bajar persianas y revisar ventanas",
+    "link": "https://www.elperiodico.com/es/tiempo/20261018/lluvias-domingo-aviso-expertos-persianas-dv-135451511",
+    "pubDate": "2026-10-18 11:30:39",
+    "category": "",
+    "description": "<h2 class=\"item\">Las precipitaciones intensas y las fuertes rachas de viento pueden afectar a elementos del hogar</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tiempo/20261017/cataluna-zonas-inundables-mapa-casa-peligro-lluvias-dana-dv-loc-135430817\" >¿Está tu casa en peligro por inundación? Este es el mapa de las zonas inundables por fuertes lluvias en Barcelona</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/vida-y-estilo/20260724/perisanas-mantenimiento-reparacion-dv-et-132248613\" >El error que cometes con tus persianas y que los expertos exigen cambiar: no es suficiente con limpiar las lamas</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "DIRECTO | Feijóo interviene en Barcelona junto a Alejandro Fernández y García Albiol",
+    "link": "https://www.elperiodico.com/es/videos/politica/directo-feijoo-interviene-barcelona-alejandro/135464030.shtml",
+    "pubDate": "2026-10-18 11:26:11",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Foment reclama al Gobierno central un plan de choque para la industria ante la escalada de precios de luz y gas",
+    "link": "https://www.elperiodico.com/es/economia/20261018/foment-reclama-gobierno-central-plan-choque-industria-precios-luz-gas-135463620",
+    "pubDate": "2026-10-18 11:24:13",
+    "category": "",
+    "description": "<h2>La patronal catalana alerta del riesgo de cierres de plantas y despidos y advierte de que el sobrecoste energético del sector químico español podría alcanzar los 1.000 millones de euros a finales de año</h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "El Barça o la coralidad del gol: 13 jugadores han marcado ya",
+    "link": "https://www.elperiodico.com/es/deportes/20261018/barca-o-coralidad-gol-13-135463543",
+    "pubDate": "2026-10-18 11:20:56",
+    "category": "",
+    "description": "<h2>El equipo ha mejorado su rendimiento realizador en el tercer año de Flick: entre Raphinha y Lamine Yamal han marcado más goles que todo el Atlético</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Detenido un hombre por unos disparos durante una pelea multitudinaria en el barrio de Roquetes de Barcelona el 9 de agosto",
+    "link": "https://www.elperiodico.com/es/sucesos/20261018/detenido-hombre-disparos-durante-pelea-barcelona-135463762",
+    "pubDate": "2026-10-18 11:19:01",
+    "category": "",
+    "description": "<h2 class=\"item\">El hombre, que acumula dieciséis detenciones previas, no tenía licencia de armas ni ninguna arma registrada legalmente</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sucesos/20261018/investigan-detencion-ilegal-santa-coloma-mossos-135463462\">Los Mossos investigan una detención ilegal en Santa Coloma de Gramenet</a></h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "РФ 76 разів атакувала енергетику за час \"перемир'я\"",
+    "link": "https://ua.korrespondent.net/ukraine/4921137-rf-76-raziv-atakuvala-enerhetyku-za-chas-peremyria",
+    "pubDate": "2026-10-18 11:15:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4601588.jpg\">За час \"енергетичного перемир’я\" Росія 76 разів цілеспрямовано атакувала українську енергетику та нафтогазовий сектор.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El cardiólogo Aurelio Rojas (36 años) alerta sobre el error más habitual que cometemos con el aceite de oliva: \"Lo estás haciendo mal\"",
+    "link": "https://www.elperiodico.com/es/salud/20261018/aurelio-rojas-cardiologo-aceite-de-oliva-virgen-extra-salud-dv-et-135140388",
+    "pubDate": "2026-10-18 11:15:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El médico explica cómo conservar y utilizar correctamente el aliño para evitar que pierda parte de sus propiedades</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/salud/20260824/aurelio-rojas-cardiologo-consumir-aceite-de-oliva-virgen-extra-dv-et-133152822\">El cardiólogo Aurelio Rojas revela el tipo de aceite de oliva más beneficioso para el corazón y el cerebro</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/catalunya/20260416/aceite-oliva-virgen-extra-premio-ministerio-agricultura-cataluna-tarragona-jaen-cordoba-dv-loc-128920008\" >Ni Córdoba ni Sevilla: este es el aceite de oliva virgen extra de España que ha ganado el gran premio de 2026</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Alerta por lluvias torrenciales en Catalunya, Valencia y Baleares, en directo | Última hora de la dana, avisos rojos del Meteocat, Aemet y plan Inuncat",
+    "link": "https://www.elperiodico.com/es/sociedad/20261018/lluvia-cataluna-valencia-baleares-dana-alerta-meteocat-aemet-ultima-hora-directo-135404377",
+    "pubDate": "2026-10-18 11:13:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261016/previsiones-dana-avisos-rojos-cataluna-meteocat-135402751\" target=\"_blank\">Las previsiones sobre la dana empeoran y obligan a activar avisos rojos en la costa catalana a partir del sábado</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261015/temperaturas-bajan-10-grados-prevision-cambio-tiempo-aemet-135379618\" target=\"_blank\">Las temperaturas bajarán hasta 10 grados en las próximas horas dejando atrás el \"calor otoñal\" y volviendo a valores normales para la época</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Alexandra Laudo, investigadora cultural: \"Me pregunto qué hacen los hombres con todo el tiempo libre que las mujeres no tienen\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261018/alexandra-laudo-usos-tiempo-conciliacion-trabajo-descanso-time-use-week-barcelona-135428763",
+    "pubDate": "2026-10-18 11:10:49",
+    "category": "",
+    "description": "<h2 class=\"item\">Experta en la construcción social del tiempo, es una de las participantes en la Time Use Week, que desde este lunes y hasta el miércoles debatirá en Barcelona sobre la gestión del tiempo y la aceleración social</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261008/espanoles-adelantan-hora-cena-ocho-tarde-135131836\" target=\"_blank\">Los españoles adelantan la hora de la cena: la mitad de las reservas en los restaurantes son antes de las nueve de la noche</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Los Mossos investigan una detención ilegal en Santa Coloma de Gramenet",
     "link": "https://www.elperiodico.com/es/sucesos/20261018/investigan-detencion-ilegal-santa-coloma-mossos-135463462",
     "pubDate": "2026-10-18 11:02:16",
@@ -16,6 +115,15 @@
     "description": "<h2>Defender el papel de la nuclear no supone enfrentarlo al desarrollo renovable. Supone exigir que la sustitución de una capacidad estratégica se haga cuando existan alternativas contrastadas</h2>",
     "topic": "політика",
     "topic_match_probability": 70
+  },
+  {
+    "title": "Полісся - Динамо: анонс матчу чемпіонату України",
+    "link": "https://ua.korrespondent.net/sport/4921124-polissia-dynamo-anons-matchu-chempionatu-ukrainy",
+    "pubDate": "2026-10-18 11:00:00",
+    "category": "Новини спорту",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4601503.jpg\">\r\nBETKING, стратегічним партнером УПЛ, пропонує анонс поєдинку чемпіонату України.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
   },
   {
     "title": "La jueza exculpa al hombre que convivió un mes con el cadáver de su madre en Mallorca",
@@ -77,6 +185,15 @@
     "pubDate": "2026-10-18 10:40:00",
     "category": "",
     "description": "<h2 class=\"item\">Una comarca catalana que recuerda a la región de Italia</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/catalunya/20260819/pueblo-medieval-pep-guardiola-timbaler-bruc-barcelona-cataluna-dv-loc-131049599\">Cuna de Pep Guardiola y del legendario Timbaler del Bruc: la localidad de Catalunya que evoca su pasado medieval, con humedales y reservas naturales que miran a Montserrat</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.cat/ca/catalunya/20260512/rupit-pobles-cataluna-mirador-barcelona-dv-loc-130136428\">Descubre un mirador de ensueño en uno de los pueblos más bonitos de Catalunya y del mundo: ideal para visitar en familia</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Пішла з життя відома українська акторка",
+    "link": "https://ua.korrespondent.net/lifestyle/4921132-pishla-z-zhyttia-vidoma-ukrainska-aktorka",
+    "pubDate": "2026-10-18 10:35:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4601546.jpg\">Народній артистці України Ользі Осіїк було 79 років. За своє життя вона зіграла більше 100 ролей.",
     "topic": "",
     "topic_match_probability": 0
   },

@@ -1,8 +1,10 @@
-# News for 2026-10-18 11:04
+# News for 2026-10-18 11:41
 
 Previous day: [2026-10-17](./data/2026-10-17.md)
 
 ## ua.korrespondent.net
+11:15 [РФ 76 разів атакувала енергетику за час "перемир'я"](https://ua.korrespondent.net/ukraine/4921137-rf-76-raziv-atakuvala-enerhetyku-za-chas-peremyria)<br>
+10:35 [Пішла з життя відома українська акторка](https://ua.korrespondent.net/lifestyle/4921132-pishla-z-zhyttia-vidoma-ukrainska-aktorka)<br>
 08:55 [На Волині стався витік аміаку](https://ua.korrespondent.net/ukraine/4921115-na-volyni-stavsia-vytik-amiaku)<br>
 08:40 [На великій військовій базі у Канаді спалахнула пожежа: є загиблі](https://ua.korrespondent.net/world/4921112-na-velykii-viiskovii-bazi-u-kanadi-spalakhnula-pozhezha-ye-zahybli)<br>
 06:37 [У Франції протестувальники підпалили історичну мерію](https://ua.korrespondent.net/world/4921102-u-frantsii-protestuvalnyky-pidpalyly-istorychnu-meriui)<br>
@@ -21,6 +23,9 @@ Previous day: [2026-10-17](./data/2026-10-17.md)
 07:45 [Una bestia negra en el Movistar Arena](https://as.com/baloncesto/mas_baloncesto/una-bestia-negra-en-el-movistar-arena-f202610-n/)<br>
 
 ## www.elperiodico.com
+11:30 [El aviso de los expertos para hoy domingo si vives en zona de lluvias: por qué recomiendan bajar persianas y revisar ventanas](https://www.elperiodico.com/es/tiempo/20261018/lluvias-domingo-aviso-expertos-persianas-dv-135451511)<br>
+11:13 [Alerta por lluvias torrenciales en Catalunya, Valencia y Baleares, en directo | Última hora de la dana, avisos rojos del Meteocat, Aemet y plan Inuncat](https://www.elperiodico.com/es/sociedad/20261018/lluvia-cataluna-valencia-baleares-dana-alerta-meteocat-aemet-ultima-hora-directo-135404377)<br>
+11:10 [Alexandra Laudo, investigadora cultural: "Me pregunto qué hacen los hombres con todo el tiempo libre que las mujeres no tienen"](https://www.elperiodico.com/es/sociedad/20261018/alexandra-laudo-usos-tiempo-conciliacion-trabajo-descanso-time-use-week-barcelona-135428763)<br>
 10:40 [Así es la llamada Toscana catalana: pueblos medievales, carreteras entre viñedos y uno de los rincones más bonitos de Europa](https://www.elperiodico.com/es/catalunya/20261018/pueblos-toscana-catalana-baix-emporda-girona-cataluna-dv-loc-131006719)<br>
 10:00 [Nueve de los 15 depósitos pluviales de Barcelona rebasaron su capacidad máxima en el último episodio de lluvias torrenciales](https://www.elperiodico.com/es/barcelona/20261018/nueve-15-depositos-pluviales-barcelona-rebasaron-capacidad-maxima-ultimo-episodio-lluvias-torrenciales-135334003)<br>
 10:00 [Complejos vitamínicos, 'apps' de gestión y un programa de selección de ibéricas, las granjas también se pone al día](https://www.elperiodico.com/es/economia/20261018/premios-innova-vall-companys-innovacion-granjas-hepatovall-vallchat-135462351)<br>
