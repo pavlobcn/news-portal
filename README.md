@@ -1,8 +1,9 @@
-# News for 2026-10-18 15:47
+# News for 2026-10-18 18:35
 
 Previous day: [2026-10-17](./data/2026-10-17.md)
 
 ## ua.korrespondent.net
+17:01 [Свята 19 жовтня 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4921181-sviata-19-zhovtnia-2026-roku-istoriia-tradytsii)<br>
 12:16 [Ворог вдарив по Одесі, є пошкодження](https://ua.korrespondent.net/city/odessa/4921145-voroh-vdaryv-po-odesi-ye-poshkodzhennia)<br>
 11:57 [Росія атакувала Львів та Рівне](https://ua.korrespondent.net/ukraine/4921142-rosiia-atakuvala-lviv-ta-rivne)<br>
 11:15 [РФ 76 разів атакувала енергетику за час "перемир'я"](https://ua.korrespondent.net/ukraine/4921137-rf-76-raziv-atakuvala-enerhetyku-za-chas-peremyria)<br>
@@ -18,6 +19,8 @@ Previous day: [2026-10-17](./data/2026-10-17.md)
 00:21 [У Москві заявили про атаку десятків БПЛА](https://ua.korrespondent.net/world/russia/4921071-u-moskvi-zaiavyly-pro-ataku-desiatkiv-bpla)<br>
 
 ## as.com
+18:19 [Joventut - Barcelona, en directo: Liga Endesa 2026-27 en vivo hoy](https://as.com/baloncesto/nba/joventut-barcelona-en-directo-liga-endesa-2026-27-en-vivo-hoy-f202610-d/)<br>
+18:04 [Carlos Martínez presenta la Wellbeinn Band y la Wellbeinn Balance](https://as.com/baloncesto/mas_baloncesto/carlos-martinez-presenta-la-wellbeinn-band-y-la-wellbeinn-balance-f202610-n/)<br>
 15:39 [Martínez: “Le doy menos valor al acierto y más a la intención de jugar rápido”](https://as.com/baloncesto/acb/martinez-le-doy-menos-valor-al-acierto-y-mas-a-la-intencion-de-jugar-rapido-f202610-n/)<br>
 15:33 [‘Show’ de Jassel Pérez para Fiatc Girona: 40 puntazos](https://as.com/baloncesto/acb/show-de-jassel-perez-para-fiatc-girona-40-puntazos-f202610-n/)<br>
 15:18 [Resumen del Basket Zaragoza vs. Força Lleida, jornada 4 de la Liga Endesa](https://as.com/videos/acb/resumen-del-basket-zaragoza-vs-forca-lleida-jornada-4-de-la-liga-endesa-f202610-v/)<br>
@@ -31,6 +34,18 @@ Previous day: [2026-10-17](./data/2026-10-17.md)
 07:45 [Una bestia negra en el Movistar Arena](https://as.com/baloncesto/mas_baloncesto/una-bestia-negra-en-el-movistar-arena-f202610-n/)<br>
 
 ## www.elperiodico.com
+18:33 [La UME se despliega hacia Ibiza para reforzar las emergencias ante la amenaza de más lluvias de la dana 'Adam'](https://www.elperiodico.com/es/sociedad/20261018/ume-despliega-ibiza-reforzar-emergencias-135474153)<br>
+18:21 [Adif prevé reabrir este lunes la segunda vía en Ricla para recuperar la circulación del AVE entre Barcelona y Madrid](https://www.elperiodico.com/es/trafico-y-transportes/20261018/adif-zaragoza-tren-lunes-segunda-madrid-barcelona-ave-135473234)<br>
+18:20 [Así ha sido la fiesta del reparto de 'La bola negra' en la Academy Museum Gala en Los Ángeles](https://www.elperiodico.com/es/videos/ocio-y-cultura/sido-fiesta-reparto-bola-negra/135473871.shtml)<br>
+18:15 [El rincón secreto de Sant Cugat del Vallès que se ha hecho un hueco en la historia del cine](https://www.elperiodico.com/es/barcelona/sant-cugat/20261018/rincon-sant-cugat-valles-historia-cine-dv-loc-110916622)<br>
+17:59 [Sobre (vivir) a la crianza - Permisos de paternidad y maternidad](https://www.elperiodico.com/es/videos/podcast/vivir-crianza-permisos-paternidad-maternidad/135026959.shtml)<br>
+17:15 [Al menos siete muertos y decenas de heridos en una explosión en una base militar canadiense](https://www.elperiodico.com/es/internacional/20261018/siete-muertos-decenas-heridos-explosion-135472398)<br>
+17:05 [Riada y goteras en las instalaciones del aeropuerto de Ibiza por la tormenta 'Adam'](https://www.elperiodico.com/es/tiempo/20261018/riada-goteras-instalaciones-aeropuerto-ibiza-135472126)<br>
+17:02 [Inundaciones dentro del Aeropuerto de Ibiza](https://www.elperiodico.com/es/videos/sociedad/inundaciones-aeropuerto-ibiza/135472069.shtml)<br>
+17:00 [María José González, especialista en familia y género: “Cuando los permisos se hacen simultáneamente, es la mujer quien asume los cuidados”](https://www.elperiodico.com/es/sociedad/20261018/maria-jose-gonzalez-permiso-paternidad-mujer-cuidados-135383090)<br>
+16:33 [Tiempo en Catalunya mañana lunes: la dana Adam activa los avisos por lluvia en todo el territorio](https://www.elperiodico.com/es/tiempo/20261018/tiempo-cataluna-hoy-lunes-19-de-octubre-lluvias-dana-dv-loc-135469603)<br>
+16:10 [Cómo programar mensajes en Whatsapp: así funciona el botón clave para no molestar a tus contactos a deshora](https://www.elperiodico.com/es/tecnologia/20261018/programar-mensajes-whatsapp-boton-clave-dv-135313656)<br>
+16:00 [Cobra el paro y gana 30.000 euros con la venta de una casa: ahora la justicia la condena a devolverle 7.000 euros al SEPE](https://www.elperiodico.com/es/economia/20261018/devolver-cobro-indebido-sepe-paro-venta-vivienda-dv-et-135405482)<br>
 15:40 [León XIV recita su primer Ángelus tras el alta hospitalaria y dice que "retomará gradualmente" su agenda](https://www.elperiodico.com/es/videos/internacional/leon-xiv-recita-primer-angelus/135470165.shtml)<br>
 15:10 [Nueva incidencia en Rodalies: retrasos de 30 minutos en las líneas R1 y R4](https://www.elperiodico.com/es/trafico-y-transportes/20261018/rodalies-incidencia-nueva-retrasos-r1-r2-r4-135469141)<br>
 14:40 [Los Javis y el elenco de 'La bola negra' se codean con Taylor Swift, Kim Kardashian y Pamela Anderson en su salto a Hollywood](https://www.elperiodico.com/es/ocio-y-cultura/20261018/javis-elenco-bola-negra-taylor-swift-135468146)<br>
