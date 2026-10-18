@@ -1,5 +1,203 @@
 [
   {
+    "title": "María Herrera y Albert Arenas también son flamantes campeones del mundo",
+    "link": "https://www.elperiodico.com/es/deportes/20261018/maria-herrera-albert-arenas-son-135457676",
+    "pubDate": "2026-10-18 06:37:51",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Pues igual tampoco será el PSG el que derrota al Barça...",
+    "link": "https://www.elperiodico.com/es/deportes/20261018/igual-sera-psg-derrota-barca-135456837",
+    "pubDate": "2026-10-18 06:37:02",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Sevilla visita a un Real Madrid sin Vinicius y con Mourinho replicando a Xabi Alonso",
+    "link": "https://www.elperiodico.com/es/deportes/20261018/sevilla-visita-real-madrid-135457397",
+    "pubDate": "2026-10-18 06:02:36",
+    "category": "",
+    "description": "<h2>El brasileño, en pésima forma, estará cuatro partidos fuera por sanción y su baja abre la puerta a Diomande. Arda Güler también puede entrar de inicio en la medular</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La batalla por el presupuesto de la UE: los frugales contra los ambiciosos",
+    "link": "https://www.elperiodico.com/es/opinion/20261018/batalla-presupuesto-ue-frugales-ambiciosos-135451160",
+    "pubDate": "2026-10-18 06:01:42",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "EL PERIÓDICO refuerza su comité editorial",
+    "link": "https://www.elperiodico.com/es/sociedad/20261018/periodico-refuerza-comite-editorial-135441995",
+    "pubDate": "2026-10-18 06:01:30",
+    "category": "",
+    "description": "<h2 class=\"item\">Prensa Ibérica amplía el organismo de asesoramiento a la dirección editorial con ocho nuevos miembros</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Feijóo: \"Hay que poner orden en la oferta turística\"",
+    "link": "https://www.elperiodico.com/es/politica/20261018/feijoo-hay-poner-orden-oferta-135447179",
+    "pubDate": "2026-10-18 06:01:29",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Entrevista a Tinet Rubira, director de Gestmusic",
+    "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/entrevista-tinet-rubira-director-gestmusic/135431711.shtml",
+    "pubDate": "2026-10-18 06:01:24",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Al Frente Amplio y a Podemos se les acabó el amor de tanto intentarlo: 10 años de pactos y desventuras",
+    "link": "https://www.elperiodico.com/es/politica/20261018/frente-amplio-podemos-10-anos-alianzas-desventuras-135435435",
+    "pubDate": "2026-10-18 06:01:23",
+    "category": "",
+    "description": "<h2>El espacio de la izquierda alternativa al PSOE logró una alianza en 2026 que, con sus altos y bajos, se mantuvo a nivel nacional hasta este viernes</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Tinet Rubira: \"'OT' lleva 25 años porque no es una estafa: de ahí salen carreras\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261018/tinet-rubira-ot-lleva-25-135428680",
+    "pubDate": "2026-10-18 06:01:23",
+    "category": "",
+    "description": "<h2 class=\"item\">El director de Gestmusic reflexiona sobre la andadura del popular ‘talent show’ desde su estreno en 2001, un programa asentado como producto de entretenimiento y factoría de figuras musicales, que prepara su 14ª edición para el año que viene</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Luis Martínez-Sicluna (FEMP): \"Los ayuntamientos tenemos suelo y dinero para construir viviendas, pero necesitamos que nos dejen hacerlo\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261018/luis-martinez-sicluna-secretario-general-femp-federacion-municipios-ayuntamientos-retos-espana-50-millones-habitantes-vivienda-inmigracion-servicios-sociales-135256052",
+    "pubDate": "2026-10-18 06:01:21",
+    "category": "",
+    "description": "<h2 class=\"item\">El secretario general de la Federación Española de Municipios y Provincias reclama más recursos para afrontar el crecimiento de las ciudades y urge a reformar la ley de financiación local, que data de 2002</h2><h2 class=\"item\">España alcanza los 50 millones: un país más envejecido y diverso al límite por el déficit de viviendas e infraestructuras</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20250907/catalunya-10-millones-pone-prueba-planes-govern-generalitat-idescat-proyeccion-121187609\" target=\"_blank\">La 'Catalunya de los 10 millones' pone a prueba los planes de futuro del Govern</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Juan Luis Ruiz, alcalde de Vilanova i la Geltrú: \"No queremos asumir el crecimiento que ya no cabe en el área de Barcelona\"",
+    "link": "https://www.elperiodico.com/es/barcelona/20261018/juan-luis-ruiz-alcalde-vilanova-hemos-ganado-23-000-habitantes-per-los-servicios-son-los-mismos-135271781",
+    "pubDate": "2026-10-18 06:01:20",
+    "category": "",
+    "description": "<h2 class=\"item\">El edil del PSC defiende moderar la expansión mientras reclama más transporte, sanidad y vivienda para una ciudad que ha crecido un 46% en los últimos 25 años</h2><h2 class=\"item\">\"Hemos ganado 23.000 habitantes, pero nuestros servicios son prácticamente los mismos\", denuncia</h2><h2 class=\"item\">CONTEXTO | <a href=\"https://www.elperiodico.com/es/barcelona/20260408/alcaldes-abren-condiciones-densificacion-paliar-crisis-vivienda-catalunya-128859408\" target=\"_blank\">Los alcaldes se abren con condiciones a la densificación para paliar la crisis de la vivienda en Catalunya</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Entrevista con Juan Luis Ruiz, alcalde de Vilanova i la Geltrú",
+    "link": "https://www.elperiodico.com/es/videos/barcelona/entrevista-juan-luis-ruiz-alcalde-vilanova-geltru-video/135279621.shtml",
+    "pubDate": "2026-10-18 06:01:20",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Feijoo: “La revalorización del sistema de pensiones es una línea roja de mi programa”",
+    "link": "https://www.elperiodico.com/es/politica/20261018/feijoo-revalorizacion-sistema-pensiones-linea-135425986",
+    "pubDate": "2026-10-18 06:01:17",
+    "category": "",
+    "description": "<h2>“Me comprometo a construir un millón de viviendas nuevas en mi primera legislatura, y puede que más”</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Feijóo: “España no funciona con el motor catalán apagado”",
+    "link": "https://www.elperiodico.com/es/politica/20261018/feijoo-espana-funciona-motor-catalan-135425985",
+    "pubDate": "2026-10-18 06:01:16",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Feijóo: \"El Gobierno con Vox puede funcionar porque ya lo hace en cuatro autonomías\"",
+    "link": "https://www.elperiodico.com/es/politica/20261018/feijoo-funcionar-gobierno-vox-reiniciar-135425988",
+    "pubDate": "2026-10-18 06:01:16",
+    "category": "",
+    "description": "<h2>“Me peleé con mis colegas europeos para que Ceuta fuese un asunto comunitario, y lo conseguimos”</h2><h2>\"El Rey ha dicho dos cosas en Ceuta: La primera que la integridad territorial y la soberanía nacional no se negocian y la segunda que todos los que entraron irregularmente tienen que irse. No puedo estar más de acuerdo con ese mensaje\"</h2><h2>Tras los mandatos de Pedro Sánchez hay que \"reiniciar, resetear\" el país, asegura Feijóo.</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "25 años de Operación Triunfo, el fenómeno televisivo que arrasó en España: ¿qué fue de los cantantes de la primera edición?",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261018/25-anos-operacion-triunfo-fenomeno-134800252",
+    "pubDate": "2026-10-18 06:01:13",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La España de los 50 millones: chequeo a un país envejecido que debe integrar 2,5 millones de extranjeros y construir 750.000 viviendas",
+    "link": "https://www.elperiodico.com/es/sociedad/20261018/espana-reto-50-millones-habitantes-vivienda-inmigracion-infraestructuras-135252721",
+    "pubDate": "2026-10-18 06:01:11",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las sillas más apetitosas después de las elecciones",
+    "link": "https://www.elperiodico.com/es/economia/20261018/sillas-apetitosas-despues-elecciones-135458648",
+    "pubDate": "2026-10-18 06:01:05",
+    "category": "",
+    "description": "<h2>La presidencia, la dirección y la estrategia de las empresas participadas por el Estado, tanto cotizadas como no cotizadas, dependerán del resultado que arrojen las urnas el 29N </h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Franklin Graux, fundador de las sombrererías UP Headwear del centro de Barcelona: \"Salir a la calle sin sombrero es como salir sin zapatos\"",
+    "link": "https://www.elperiodico.com/es/gente/20261018/franklin-graux-up-headwear-sombrereria-barcelona-tiendas-entrevista-134923827",
+    "pubDate": "2026-10-18 06:00:57",
+    "category": "",
+    "description": "<h2>El empresario e incansable trotamundos y su socia, Mónica González, han convertido sus cuatro tiendas en una declaración de estilo donde conviven firmas como Bailey, Hollywood, Player, Panamá, Borsalino y New Era, con la omnipresente gorra de béisbol</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Підсумки 17.10: Скандал з Starlink і відповідь США",
+    "link": "https://ua.korrespondent.net/ukraine/4920988-pidsumky-1710-skandal-z-Starlink-i-vidpovid-ssha",
+    "pubDate": "2026-10-18 05:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4601259.jpg\">Зеленський зачвив, що обмеження Starlink для України - це спланована операція; Рубіо заперечує звинувачення. Кореспондент.net виділяє головні події вчорашнього дня.",
+    "topic": "підсумки (за попередній день, наприклад)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Супутникова мережа РФ стане катастрофою - Флеш",
+    "link": "https://ua.korrespondent.net/ukraine/4921063-suputnykova-merezha-rf-stane-katastrofoui-flesh",
+    "pubDate": "2026-10-18 05:24:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4600854.jpg\">Супутниковий зв’язок дозволить російським операторам безпосередньо керувати дронами та ракетами по всій території України, що зробить марною мережу засобів РЕБ, розгорнуту по всій країні для придушення таких цілей.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "На Вінниччині росіяни зруйнували критичну інфраструктуру",
+    "link": "https://ua.korrespondent.net/ukraine/4921093-na-vinnychchyni-rosiiany-zruinuvaly-krytychnu-infrastrukturu",
+    "pubDate": "2026-10-18 03:56:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4601161.jpg\">Енергетики вже працюють над відновленням електропостачання, однак найближчим часом ситуація з електрикою залишатиметься нестабільною.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Рубіо прокоментував обмеження Starlink для України",
     "link": "https://ua.korrespondent.net/world/4921089-rubio-prokomentuvav-obmezhennia-Starlink-dlia-ukrainy",
     "pubDate": "2026-10-18 02:53:00",
