@@ -1,5 +1,23 @@
 [
   {
+    "title": "¿Por qué hablamos de vivienda y no de salarios?",
+    "link": "https://www.elperiodico.com/es/opinion/20261018/hablamos-vivienda-salarios-135438157",
+    "pubDate": "2026-10-18 07:00:58",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Рубіо: Санкції проти РФ призупинені на 60 днів",
+    "link": "https://ua.korrespondent.net/world/4921104-rubio-sanktsii-proty-rf-pryzupyneni-na-60-dniv",
+    "pubDate": "2026-10-18 06:58:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4601338.jpg\">За цей час американський президент має намір \"оцінити економічні наслідки цього кроку\", пояснив Рубіо.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
     "title": "María Herrera y Albert Arenas también son flamantes campeones del mundo",
     "link": "https://www.elperiodico.com/es/deportes/20261018/maria-herrera-albert-arenas-son-135457676",
     "pubDate": "2026-10-18 06:37:51",
@@ -16,6 +34,24 @@
     "description": "",
     "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
     "topic_match_probability": 100
+  },
+  {
+    "title": "У Франції протестувальники підпалили історичну мерію",
+    "link": "https://ua.korrespondent.net/world/4921102-u-frantsii-protestuvalnyky-pidpalyly-istorychnu-meriui",
+    "pubDate": "2026-10-18 06:37:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4601318.jpg\">У французькому Ліможі під час протестів підпалили історичну ратушу 1883 року. Знаменита вежа з годинником обвалилася.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Німеччина заборонить соцмережі дітям до 13 років",
+    "link": "https://ua.korrespondent.net/world/4921100-nimechchyna-zaboronyt-sotsmerezhi-ditiam-do-13-rokiv",
+    "pubDate": "2026-10-18 06:16:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4601298.jpg\">У Німеччині хочуть заборонити соціальні мережі дітям до 13 років і обмежити їх для підлітків.",
+    "topic": "політика",
+    "topic_match_probability": 90
   },
   {
     "title": "El Sevilla visita a un Real Madrid sin Vinicius y con Mourinho replicando a Xabi Alonso",
@@ -81,6 +117,15 @@
     "topic_match_probability": 100
   },
   {
+    "title": "Un desafío para 50 millones",
+    "link": "https://www.elperiodico.com/es/opinion/20261018/desafio-50-millones-demografia-editorial-135433467",
+    "pubDate": "2026-10-18 06:01:23",
+    "category": "",
+    "description": "<h2>Se requiere planificación, inversión, innovación y un auténtico desafío: la capacidad de tejer acuerdos políticos que permitan pensar y actuar a largo plazo</h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
     "title": "Luis Martínez-Sicluna (FEMP): \"Los ayuntamientos tenemos suelo y dinero para construir viviendas, pero necesitamos que nos dejen hacerlo\"",
     "link": "https://www.elperiodico.com/es/sociedad/20261018/luis-martinez-sicluna-secretario-general-femp-federacion-municipios-ayuntamientos-retos-espana-50-millones-habitantes-vivienda-inmigracion-servicios-sociales-135256052",
     "pubDate": "2026-10-18 06:01:21",
@@ -135,6 +180,24 @@
     "topic_match_probability": 100
   },
   {
+    "title": "La familia venezolana que pagó un millón de euros a Zapatero y sus hijas dio un pelotazo de 21 millones con un edificio en el centro de Madrid",
+    "link": "https://www.elperiodico.com/es/politica/20261018/familia-venezolana-pago-millon-euros-135420165",
+    "pubDate": "2026-10-18 06:01:15",
+    "category": "",
+    "description": "<h2>Los empresarios Amaro, a quienes el expresidente consideró amigos, vendieron las viviendas de lujo a millonarios venezolanos, entre ellos a exdueños de Plus Ultra</h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "25 años de Operación Triunfo, el fenómeno televisivo que arrasó en España: ¿qué fue de los cantantes de la primera edición?",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/25-anos-operacion-triunfo-134799913-rm/index.html",
+    "pubDate": "2026-10-18 06:01:14",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
     "title": "25 años de Operación Triunfo, el fenómeno televisivo que arrasó en España: ¿qué fue de los cantantes de la primera edición?",
     "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261018/25-anos-operacion-triunfo-fenomeno-134800252",
     "pubDate": "2026-10-18 06:01:13",
@@ -142,6 +205,24 @@
     "description": "",
     "topic": "телебачення",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Las caras del 29-N: Feijóo y Sánchez se juegan su última bala y solo Frente Amplio cambia de líder",
+    "link": "https://www.elperiodico.com/es/politica/20261018/candidatos-partidos-elecciones-sanchez-feijoo-135421571",
+    "pubDate": "2026-10-18 06:01:13",
+    "category": "",
+    "description": "<h2>Los partidos rehúyen de la renovación en sus cabezas de cartel y cierran la puerta al relevo generacional con referentes de amplia trayectoria institucional</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La España de los 50 millones: chequeo a un país envejecido que debe integrar 2,5 millones de extranjeros y construir 750.000 viviendas",
+    "link": "https://www.elperiodico.com/es/sociedad/espana-reto-50-millones-habitantes-vivienda-inmigracion-infraestructuras-135253361-rm/index.html",
+    "pubDate": "2026-10-18 06:01:12",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "La España de los 50 millones: chequeo a un país envejecido que debe integrar 2,5 millones de extranjeros y construir 750.000 viviendas",
@@ -158,6 +239,15 @@
     "pubDate": "2026-10-18 06:01:05",
     "category": "",
     "description": "<h2>La presidencia, la dirección y la estrategia de las empresas participadas por el Estado, tanto cotizadas como no cotizadas, dependerán del resultado que arrojen las urnas el 29N </h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los candidatos a las elecciones del 29-N llevan más de una década en política institucional",
+    "link": "https://www.elperiodico.com/es/politica/20261018/elecciones-generales-candidatos-decada-vida-publica-hiperliderazgos-135370074",
+    "pubDate": "2026-10-18 06:01:03",
+    "category": "",
+    "description": "<h2 class=\"item\">Los partidos vuelven a confiar en dirigentes veteranos, un hecho que refleja cómo las mismas caras se mantienen en primera línea durante años </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261017/elecciones-generales-29-n-hiperliderazgos-candidatos-eclipsan-partidos-135320679\" target=\"_blank\">Un 29-N de hiperliderazgos: cómo los candidatos eclipsan a los partidos</a></h2>",
     "topic": "вибори (але не президента України чи США)",
     "topic_match_probability": 100
   },
@@ -189,11 +279,47 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Геґсету радять балотуватися у президенти - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4921097-hegsetu-radiat-balotuvatysia-u-prezydenty-zmi",
+    "pubDate": "2026-10-18 04:57:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4601220.jpg\">Частина радників міністра війни вважає, що демонстрація військової рішучості та жорсткі заяви можуть допомогти йому здобути підтримку виборців. Інші застерігають, що схильність Геґсета до скандалів може йому зашкодити.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "У Пітері дрон влучив у міст - OSINT",
+    "link": "https://ua.korrespondent.net/world/russia/4921095-u-piteri-dron-vluchyv-u-mist-OSINT",
+    "pubDate": "2026-10-18 04:29:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4601200.jpg\">Вантовий міст через судноплавний канал сполучає південну та північну частини міста. Очевидці зняли влучання з різних ракурсів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "На Вінниччині росіяни зруйнували критичну інфраструктуру",
     "link": "https://ua.korrespondent.net/ukraine/4921093-na-vinnychchyni-rosiiany-zruinuvaly-krytychnu-infrastrukturu",
     "pubDate": "2026-10-18 03:56:00",
     "category": "Новини України",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4601161.jpg\">Енергетики вже працюють над відновленням електропостачання, однак найближчим часом ситуація з електрикою залишатиметься нестабільною.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Сенаторів обурило рішення Трампа не впроваджувати санкції проти РФ",
+    "link": "https://ua.korrespondent.net/world/4921087-senatoriv-oburylo-rishennia-trampa-ne-vprovadzhuvaty-sanktsii-proty-rf",
+    "pubDate": "2026-10-18 03:55:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4601056.jpeg\">Однопартійці президента вважають, що він капітулює перед російським диктатором. Демократи ж кажуть, що президентська \"угода з дияволом стає дедалі бруднішою\".",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Пітері після атаки ефектні пожежі: куди влучили",
+    "link": "https://ua.korrespondent.net/world/russia/4921091-u-piteri-pislia-ataky-efektni-pozhezhi-kudy-vluchyly",
+    "pubDate": "2026-10-18 03:39:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4601160.jpg\">Масштабна пожежа сталася у нафтоналивному порті, де зберігаються та відвантажуються на експорт нафтопродукти. Окрім того, повідомляється пр прильоти по дата-центру і підстанції.",
     "topic": "",
     "topic_match_probability": 0
   },

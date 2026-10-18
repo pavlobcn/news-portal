@@ -1,15 +1,20 @@
-# News for 2026-10-18 06:38
+# News for 2026-10-18 07:16
 
 Previous day: [2026-10-17](./data/2026-10-17.md)
 
 ## ua.korrespondent.net
+06:37 [У Франції протестувальники підпалили історичну мерію](https://ua.korrespondent.net/world/4921102-u-frantsii-protestuvalnyky-pidpalyly-istorychnu-meriui)<br>
 05:24 [Супутникова мережа РФ стане катастрофою - Флеш](https://ua.korrespondent.net/ukraine/4921063-suputnykova-merezha-rf-stane-katastrofoui-flesh)<br>
+04:29 [У Пітері дрон влучив у міст - OSINT](https://ua.korrespondent.net/world/russia/4921095-u-piteri-dron-vluchyv-u-mist-OSINT)<br>
 03:56 [На Вінниччині росіяни зруйнували критичну інфраструктуру](https://ua.korrespondent.net/ukraine/4921093-na-vinnychchyni-rosiiany-zruinuvaly-krytychnu-infrastrukturu)<br>
+03:39 [У Пітері після атаки ефектні пожежі: куди влучили](https://ua.korrespondent.net/world/russia/4921091-u-piteri-pislia-ataky-efektni-pozhezhi-kudy-vluchyly)<br>
 00:52 [У Запоріжжі БПЛА влучив у будинок, є жертва](https://ua.korrespondent.net/city/zaporozhye/4921077-u-zaporizhzhi-bpla-vluchyv-u-budynok-ye-zhertva)<br>
 00:21 [У Москві заявили про атаку десятків БПЛА](https://ua.korrespondent.net/world/russia/4921071-u-moskvi-zaiavyly-pro-ataku-desiatkiv-bpla)<br>
 
 ## www.elperiodico.com
+07:00 [¿Por qué hablamos de vivienda y no de salarios?](https://www.elperiodico.com/es/opinion/20261018/hablamos-vivienda-salarios-135438157)<br>
 06:37 [María Herrera y Albert Arenas también son flamantes campeones del mundo](https://www.elperiodico.com/es/deportes/20261018/maria-herrera-albert-arenas-son-135457676)<br>
 06:01 [EL PERIÓDICO refuerza su comité editorial](https://www.elperiodico.com/es/sociedad/20261018/periodico-refuerza-comite-editorial-135441995)<br>
+06:01 [La España de los 50 millones: chequeo a un país envejecido que debe integrar 2,5 millones de extranjeros y construir 750.000 viviendas](https://www.elperiodico.com/es/sociedad/espana-reto-50-millones-habitantes-vivienda-inmigracion-infraestructuras-135253361-rm/index.html)<br>
 06:01 [La España de los 50 millones: chequeo a un país envejecido que debe integrar 2,5 millones de extranjeros y construir 750.000 viviendas](https://www.elperiodico.com/es/sociedad/20261018/espana-reto-50-millones-habitantes-vivienda-inmigracion-infraestructuras-135252721)<br>
 06:00 [Franklin Graux, fundador de las sombrererías UP Headwear del centro de Barcelona: "Salir a la calle sin sombrero es como salir sin zapatos"](https://www.elperiodico.com/es/gente/20261018/franklin-graux-up-headwear-sombrereria-barcelona-tiendas-entrevista-134923827)<br>
