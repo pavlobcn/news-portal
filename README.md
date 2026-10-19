@@ -1,8 +1,42 @@
-# News for 2026-10-19 08:59
+# News for 2026-10-19 15:32
 
 Previous day: [2026-10-18](./data/2026-10-18.md)
 
 ## ua.korrespondent.net
+15:22 [Сили оборони уразили цілі в Росії і на ТОТ](https://ua.korrespondent.net/ukraine/4921453-syly-oborony-urazyly-tsili-v-rosii-i-na-tot)<br>
+15:13 [Відомо, скільки перехоплювачів Україна застосовує проти реактивних Шахедів](https://ua.korrespondent.net/ukraine/4921451-vidomo-skilky-perekhopluivachiv-ukraina-zastosovuie-proty-reaktyvnykh-shakhediv)<br>
+15:11 [У Тереччині жертвами повеней стали вісім осіб](https://ua.korrespondent.net/world/4921449-u-terechchyni-zhertvamy-povenei-staly-visim-osib)<br>
+15:07 [З окупованої Херсонщини повернули групу українських дітей](https://ua.korrespondent.net/ukraine/4921439-z-okupovanoi-khersonschyny-povernuly-hrupu-ukrainskykh-ditei)<br>
+15:05 [У DELTA зафіксували понад три млн місій з ураження цілей](https://ua.korrespondent.net/ukraine/4921447-u-DELTA-zafiksuvaly-ponad-try-mln-misii-z-urazhennia-tsilei)<br>
+14:56 [Названо збитки бізнесу від атак РФ з початку року](https://ua.korrespondent.net/business/economics/4921444-nazvano-zbytky-biznesu-vid-atak-rf-z-pochatku-roku)<br>
+14:43 [Росія завербувала майже 46 тисяч іноземців зі 151 країни - Коордштаб](https://ua.korrespondent.net/world/russia/4921437-rosiia-zaverbuvala-maizhe-46-tysiach-inozemtsiv-zi-151-krainy-koordshtab)<br>
+14:29 [Під садом у Франції знайшли поховання віком 1700 років](https://ua.korrespondent.net/tech/science/4921187-pid-sadom-u-frantsii-znaishly-pokhovannia-vikom-1700-rokiv)<br>
+14:19 [АРМА виставило на реалізацію 819 гаджетів Apple](https://ua.korrespondent.net/business/4921427-arma-vystavylo-na-realizatsiui-819-hadzhetiv-Apple)<br>
+13:58 [РФ активізувала локальні штурми під Гуляйполем - ДШВ](https://ua.korrespondent.net/ukraine/4921418-rf-aktyvizuvala-lokalni-shturmy-pid-huliaipolem-dshv)<br>
+13:57 [Прикордонники заперечили 40-годинні черги на кордоні з Польщею](https://ua.korrespondent.net/ukraine/4921417-prykordonnyky-zaperechyly-40-hodynni-cherhy-na-kordoni-z-polscheui)<br>
+13:53 [ЄС профінансує підводний кабель до Гренландії](https://ua.korrespondent.net/world/4921415-yes-profinansuie-pidvodnyi-kabel-do-hrenlandii)<br>
+13:33 [Житло для молодих сімей: уряд розширив умови програми єОселя](https://ua.korrespondent.net/ukraine/4921406-zhytlo-dlia-molodykh-simei-uriad-rozshyryv-umovy-prohramy-yeoselia)<br>
+13:17 [У Молдові стався землетрус](https://ua.korrespondent.net/world/4921399-u-moldovi-stavsia-zemletrus)<br>
+12:46 [В Україні збережеться дощова погода, подекуди тумани](https://ua.korrespondent.net/ukraine/4921387-v-ukraini-zberezhetsia-doschova-pohoda-podekudy-tumany)<br>
+12:33 [З окупованих Олешок готують евакуацію - Лубінець](https://ua.korrespondent.net/ukraine/4921384-z-okupovanykh-oleshok-hotuuit-evakuatsiui-lubinets)<br>
+12:20 [Росіяни поранили вісім дітей в Ірпені](https://ua.korrespondent.net/ukraine/4921377-rosiiany-poranyly-visim-ditei-v-irpeni)<br>
+12:19 [У Кривому Розі кількість поранених через атаку РФ зросла до семи](https://ua.korrespondent.net/ukraine/4921376-u-kryvomu-rozi-kilkist-poranenykh-cherez-ataku-rf-zrosla-do-semy)<br>
+12:09 [Маск пообіцяв акції SpaceX кожній дитині у США](https://ua.korrespondent.net/world/4921372-mask-poobitsiav-aktsii-SpaceX-kozhnii-dytyni-u-ssha)<br>
+11:53 [Біля берегів Греції затонули човни з мігрантами: є загиблі](https://ua.korrespondent.net/world/4921364-bilia-berehiv-hretsii-zatonuly-chovny-z-mihrantamy-ye-zahybli)<br>
+11:52 [Ціни на нафту впали через дії Трампа](https://ua.korrespondent.net/business/economics/4921365-tsiny-na-naftu-vpaly-cherez-dii-trampa)<br>
+11:49 [Росія таємно перевозить зброю до Африки - ЗМІ](https://ua.korrespondent.net/world/4921362-rosiia-taiemno-perevozyt-zbroui-do-afryky-zmi)<br>
+11:17 [Супутник РФ наблизився до апарата, який використовує Україна](https://ua.korrespondent.net/world/4921350-suputnyk-rf-nablyzyvsia-do-aparata-yakyi-vykorystovuie-ukraina)<br>
+11:16 [Гривня почала втрачати позиції в обмінних пунктах](https://ua.korrespondent.net/business/financial/4921349-hryvnia-pochala-vtrachaty-pozytsii-v-obminnykh-punktakh)<br>
+10:59 [На Київщині зросло число постраждалих, є жертва](https://ua.korrespondent.net/ukraine/4921341-na-kyivschyni-zroslo-chyslo-postrazhdalykh-ye-zhertva)<br>
+10:33 [Росія знищила датацентр у Києві](https://ua.korrespondent.net/city/kiev/4921326-rosiia-znyschyla-datatsentr-u-kyievi)<br>
+10:32 [В Еквадорі хрест упав на священника та вбив його](https://ua.korrespondent.net/world/4921207-v-ekvadori-khrest-upav-na-sviaschennyka-ta-vbyv-yoho)<br>
+10:26 [Зливи та шторм в Іспанії: є жертви та руйнування](https://ua.korrespondent.net/world/4921327-zlyvy-ta-shtorm-v-ispanii-ye-zhertvy-ta-ruinuvannia)<br>
+10:13 [Польща рекордно заробляє на торгівлі з Україною: нові дані BGK](https://ua.korrespondent.net/business/economics/4921322-polscha-rekordno-zarobliaie-na-torhivli-z-ukrainoui-novi-dani-BGK)<br>
+09:58 [Дві людини загинули через атаку РФ по Кривому Рогу](https://ua.korrespondent.net/ukraine/4921316-dvi-luidyny-zahynuly-cherez-ataku-rf-po-kryvomu-rohu)<br>
+09:56 [Відключення світла охопили 11 областей України](https://ua.korrespondent.net/ukraine/4921315-vidkluichennia-svitla-okhopyly-11-oblastei-ukrainy)<br>
+09:51 [У Канаді військові потрапили в пастку вогню під час навчань: є загиблі](https://ua.korrespondent.net/world/4921313-u-kanadi-viiskovi-potrapyly-v-pastku-vohnui-pid-chas-navchan-ye-zahybli)<br>
+09:40 [Літак з Ізраїлю екстрено сів у Болгарії через загрозу вибуху](https://ua.korrespondent.net/world/4921309-litak-z-izrailui-ekstreno-siv-u-bolharii-cherez-zahrozu-vybukhu)<br>
+09:25 [ГУР розкрило 37 іноземних компонентів у російських Кометах](https://ua.korrespondent.net/ukraine/4921303-hur-rozkrylo-37-inozemnykh-komponentiv-u-rosiiskykh-kometakh)<br>
 08:45 [Нічна атака на Україну: є влучання на 25 локаціях](https://ua.korrespondent.net/ukraine/4921288-nichna-ataka-na-ukrainu-ye-vluchannia-na-25-lokatsiiakh)<br>
 08:41 [Пожежі, поранені і зниклі безвісти: наслідки атаки на Київщину](https://ua.korrespondent.net/ukraine/4921287-pozhezhi-poraneni-i-znykli-bezvisty-naslidky-ataky-na-kyivschynu)<br>
 08:27 [У популярного українського режисера виявили рак](https://ua.korrespondent.net/lifestyle/4921197-u-populiarnoho-ukrainskoho-rezhysera-vyiavyly-rak)<br>
@@ -20,7 +54,37 @@ Previous day: [2026-10-18](./data/2026-10-18.md)
 01:43 [У Кенії стався перший в її історії спалах Еболи](https://ua.korrespondent.net/world/4921245-u-kenii-stavsia-pershyi-v-yii-istorii-spalakh-eboly)<br>
 00:59 [Удар по Києву: влада повідомила про жертву](https://ua.korrespondent.net/city/kiev/4921243-udar-po-kyievu-vlada-povidomyla-pro-zhertvu)<br>
 
+## as.com
+14:45 [Olivier Sarr batalla por minutos](https://as.com/baloncesto/acb/olivier-sarr-batalla-por-minutos-f202610-n/)<br>
+14:23 [Markus Howard se despidió de la afición en una cafetería](https://as.com/baloncesto/markus-howard-se-despidio-de-la-aficion-en-una-cafeteria-f202610-n/)<br>
+
 ## www.elperiodico.com
+15:28 [Los pasajeros de la R4 de Rodalies, obligados a cambiar de tren en Cornellà: había fallado el limpiaparabrisas](https://www.elperiodico.com/es/sociedad/20261019/pasajeros-r4-rodalies-obligados-cambiar-tren-cornella-limpiaparabrisas-135494882)<br>
+15:24 [Una canción puede convertirse en una orden secreta para los asistentes de IA](https://www.elperiodico.com/es/tendencias21/20261019/cancion-convertirse-orden-secreta-asistentes-135503614)<br>
+15:13 [Terrassa reunirá a los mercados semanales de Catalunya para abordar los retos del sector](https://www.elperiodico.com/es/barcelona/20261019/terrassa-reunira-mercados-semanales-catalunya-retos-sector-barcelona-135501074)<br>
+15:06 [Hacienda lo confirma: estar en la hipoteca de una vivienda alquilada no permite deducir los gastos si no eres propietario](https://www.elperiodico.com/es/economia/20261019/hacienda-hipoteca-vivienda-alquilada-deducir-gastos-propietario-dv-135500817)<br>
+15:01 [Los psiquiatras, contra la nueva ley que limita los ingresos involuntarios de los pacientes: "Deja solas a sus familias"](https://www.elperiodico.com/es/sanidad/20261019/psiquiatras-nueva-ley-limita-ingresos-involuntarios-pacientes-deja-solas-familias-135498390)<br>
+14:40 [Los despidos vía ERE se cobran 5.300 empleos en Catalunya hasta septiembre, un 15% menos que el año pasado](https://www.elperiodico.com/es/economia/20261019/despidos-ere-cataluna-trabajadores-afectados-septiembre-2026-135499128)<br>
+14:33 [La dana Adam desborda el Girona en la Marina Alta y siembra el caos en Els Poblets (Alicante)](https://www.elperiodico.com/es/videos/sociedad/dana-adam-desborda-girona-marina/135500102.shtml)<br>
+14:27 [Así operan los rescates en Valencia, por la dana que ha dejado más de 500 litros por metro cuadrado y ha obligado a confinar 142 municipios](https://www.elperiodico.com/es/videos/sociedad/dana-valencia-dejado-500-litros-video/135499211.shtml)<br>
+14:24 [Parlon y Rull encabezan el minuto de silencio en Cabrera de Mar por la muerte de la mujer arrastrada por la riera](https://www.elperiodico.com/es/videos/sociedad/parlon-rull-encabezan-minuto-silencio-muerte-mujer-cabrera-mar-arrastrada-riera-video/135499522.shtml)<br>
+14:11 [La Policía Nacional rescata a una persona mayor en la localidad valenciana de Gandía (Valencia)](https://www.elperiodico.com/es/videos/sociedad/policia-nacional-rescata-persona-mayor-gandia-valencia-video/135498591.shtml)<br>
+14:10 [Los profesores de la Comunidad de Madrid cortan la vía de servicio de la A-3 de entrada a la ciudad](https://www.elperiodico.com/es/videos/sociedad/profesores-huelga-educacion-publica-madrid/135498662.shtml)<br>
+14:05 [Las listas de espera de la dependencia caen al mínimo histórico, pero más de 134.700 personas aguardan una prestación](https://www.elperiodico.com/es/sociedad/20261019/listas-espera-dependencia-minimo-historico-135488595)<br>
+14:02 [Famosas que sufrieron cáncer de mama: historias de superación y prevención en el Día Mundial del Cáncer de Mama](https://www.elperiodico.com/es/gente/20261019/dia-mundial-cancer-mama-terelu-campos-ana-rosa-quintana-cristina-medina-dv-et-135485383)<br>
+13:58 [Labores de rescate y evacuación de personas en la zona de Oliva-Piles y el litoral sur de Valencia](https://www.elperiodico.com/es/videos/sociedad/labores-rescate-evacuacion-personas-zona-oliva-piles-litoral-sur-valencia-video/135497940.shtml)<br>
+13:55 [El precio del euríbor hoy, 19 de octubre: nuevo chaparrón para los hipotecados en este inicio de semana](https://www.elperiodico.com/es/economia/20261019/precio-euribor-hoy-19-octubre-dv-135497602)<br>
+13:55 [¿Tu barrio es más rico que la media? Consulta el nuevo mapa de la renta en España](https://www.elperiodico.com/es/economia/20261019/barrio-media-consulta-nuevo-mapa-renta-distribucion-de-la-riqueza-ricos-pobres-135496569)<br>
+13:55 [40 familias de Sabadell temen perder sus viviendas sociales por el fin del acuerdo entre la Generalitat y la Sareb](https://www.elperiodico.com/es/barcelona/20261019/40-familias-sabadell-temen-perder-vivienda-bloque-generalitat-sareb-135496791)<br>
+13:37 [La vida después del cáncer de mama: "El premio es estar viva, pero también quedan heridas y duelos que no se ven"](https://www.elperiodico.com/es/salud/20261019/vida-despues-cancer-mama-premio-seguir-vivas-135496691)<br>
+13:24 [La defensa de Jonathan Andic recopila informes médicos de Isak por tratamientos en las rodillas desde 2018](https://www.elperiodico.com/es/sociedad/20261019/defensa-jonathan-andic-recopila-informes-tratamientos-rodillas-135494887)<br>
+13:17 [Mañana de lluvia en Barcelona](https://www.elperiodico.com/es/fotos/sociedad/manana-lluvia-barcelona-fotos-135495202)<br>
+13:00 [Las imágenes más impactantes del paso de la dana Adam por la Comunidad Valenciana](https://www.elperiodico.com/es/tiempo/20261019/imagenes-impactantes-paso-dana-adam-comunidad-valenciana-cataluna-135493138)<br>
+11:50 [Arranca la NBA con los Knicks como rival a batir y con el español Aday Mara como gran aliciente](https://www.elperiodico.com/es/deportes/20261019/arranca-nba-knicks-rival-batir-135276832)<br>
+11:44 [Abraham de la Fuente, profesor: "Las familias vemos el fin de las colonias escolares como una pérdida, pero eran un privilegio"](https://www.elperiodico.com/es/sociedad/20261019/abraham-fuente-profesor-director-angeleta-ferrer-barcelona-autonomia-centros-escuela-inclusiva-colonias-escolares-educacion-cataluna-135404242)<br>
+11:26 [Catalunya eleva los avisos por lluvias torrenciales y prevé acumulaciones de más de 100 litros por metro cuadrado en las próximas horas](https://www.elperiodico.com/es/sociedad/20261019/dana-adam-catalunya-avisos-lunes-martes-135486709)<br>
+10:27 [Cindy Crawford rompe su silencio y se despide de su hijo Presley Gerber con una emotiva carta: "Hasta que nos volvamos a encontrar, nuestro dulce niño"](https://www.elperiodico.com/es/gente/20261019/cindy-crawford-despide-hijo-presley-gerber-emotiva-carta-135485953)<br>
+09:46 [La fatiga social: cuándo relacionarte también te agota](https://www.elperiodico.com/es/videos/cuidamos-tu-salud/salud-mental/fatiga-social-relacionarte-agota/135485193.shtml)<br>
 08:53 [El río Vaca ya se desborda en Tavernes de la Valldigna y Simat: "Ha sido una noche muy complicada"](https://www.elperiodico.com/es/videos/sociedad/rio-vaca-desborda-tavernes-valldigna-simat-video/135483397.shtml)<br>
 08:45 [Así está Oliva tras descargar la dana 400 litros y obligar a rescates en helicóptero](https://www.elperiodico.com/es/videos/sociedad/oliva-descargar-dana-400-litros-video/135483215.shtml)<br>
 08:30 [150.000 euros al mes: el desorbitado precio del alquiler de la antigua mansión de Paris Hilton](https://www.elperiodico.com/es/gente/20261019/150-000-euros-mes-alquiler-antigua-mansion-paris-hilton-dv-et-135183084)<br>
