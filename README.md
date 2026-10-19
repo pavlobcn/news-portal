@@ -1,12 +1,17 @@
-# News for 2026-10-19 08:21
+# News for 2026-10-19 08:59
 
 Previous day: [2026-10-18](./data/2026-10-18.md)
 
 ## ua.korrespondent.net
+08:45 [Нічна атака на Україну: є влучання на 25 локаціях](https://ua.korrespondent.net/ukraine/4921288-nichna-ataka-na-ukrainu-ye-vluchannia-na-25-lokatsiiakh)<br>
+08:41 [Пожежі, поранені і зниклі безвісти: наслідки атаки на Київщину](https://ua.korrespondent.net/ukraine/4921287-pozhezhi-poraneni-i-znykli-bezvisty-naslidky-ataky-na-kyivschynu)<br>
+08:27 [У популярного українського режисера виявили рак](https://ua.korrespondent.net/lifestyle/4921197-u-populiarnoho-ukrainskoho-rezhysera-vyiavyly-rak)<br>
+08:20 [США заявили про збій у системі попередження України про балістику](https://ua.korrespondent.net/world/4921284-ssha-zaiavyly-pro-zbii-u-systemi-poperedzhennia-ukrainy-pro-balistyku)<br>
 08:02 [РФ атакувала одне з найбільших підприємств Ірпеня](https://ua.korrespondent.net/ukraine/4921280-rf-atakuvala-odne-z-naibilshykh-pidpryiemstv-irpenia)<br>
 07:45 [На Херсонщині внаслідок російських атак постраждала дитина](https://ua.korrespondent.net/ukraine/4921276-na-khersonschyni-vnaslidok-rosiiskykh-atak-postrazhdala-dytyna)<br>
 07:23 [США не попередили Київ про балістичну атаку - ЗМІ](https://ua.korrespondent.net/ukraine/4921270-ssha-ne-poperedyly-kyiv-pro-balistychnu-ataku-zmi)<br>
 07:01 [На Рівненщині є влучання по цивільних об’єктах: дві жінки поранені](https://ua.korrespondent.net/ukraine/4921268-na-rivnenschyni-ye-vluchannia-po-tsyvilnykh-obiektakh-dvi-zhinky-poraneni)<br>
+06:39 [РФ вдарила по Дніпру: є поранена, під завалами можуть бути люди](https://ua.korrespondent.net/city/dnepr/4921265-rf-vdaryla-po-dnipru-ye-poranena-pid-zavalamy-mozhut-buty-luidy)<br>
 06:17 [Генштаб показав рекордні втрати армії РФ за добу](https://ua.korrespondent.net/ukraine/4921263-henshtab-pokazav-rekordni-vtraty-armii-rf-za-dobu)<br>
 04:57 [У Києві через удар РФ закрили дві станції метро](https://ua.korrespondent.net/city/kiev/4921259-u-kyievi-cherez-udar-rf-zakryly-dvi-stantsii-metro)<br>
 04:35 [Ракетні удари по Києву: кількість поранених зросла](https://ua.korrespondent.net/city/kiev/4921257-raketni-udary-po-kyievu-kilkist-poranenykh-zrosla)<br>
@@ -16,6 +21,9 @@ Previous day: [2026-10-18](./data/2026-10-18.md)
 00:59 [Удар по Києву: влада повідомила про жертву](https://ua.korrespondent.net/city/kiev/4921243-udar-po-kyievu-vlada-povidomyla-pro-zhertvu)<br>
 
 ## www.elperiodico.com
+08:53 [El río Vaca ya se desborda en Tavernes de la Valldigna y Simat: "Ha sido una noche muy complicada"](https://www.elperiodico.com/es/videos/sociedad/rio-vaca-desborda-tavernes-valldigna-simat-video/135483397.shtml)<br>
+08:45 [Así está Oliva tras descargar la dana 400 litros y obligar a rescates en helicóptero](https://www.elperiodico.com/es/videos/sociedad/oliva-descargar-dana-400-litros-video/135483215.shtml)<br>
+08:30 [150.000 euros al mes: el desorbitado precio del alquiler de la antigua mansión de Paris Hilton](https://www.elperiodico.com/es/gente/20261019/150-000-euros-mes-alquiler-antigua-mansion-paris-hilton-dv-et-135183084)<br>
 08:15 [Gabi y Tomás, una pareja de jóvenes de 25 años que ha dejado todo atrás para empezar a reformar una casa en medio del monte de Asturias: "No tenía ducha ni el saneamiento hecho. Además, la electricidad no existía"](https://www.elperiodico.com/es/economia/20261019/reforma-casa-abandonada-asturias-vida-rural-gabi-tomas-dv-et-135313571)<br>
 08:10 [Alerta por lluvias torrenciales en Catalunya, Valencia y Baleares, en directo | Última hora de la dana, avisos rojos del Meteocat, Aemet y plan Inuncat](https://www.elperiodico.com/es/sociedad/20261019/lluvia-cataluna-valencia-baleares-dana-alerta-meteocat-aemet-ultima-hora-directo-135404377)<br>
 07:53 [El temporal causa rescates en pisos, conductores atrapados en coches y más 200 incidencias en Valencia y Alicante](https://www.elperiodico.com/es/sociedad/20261019/temporal-causa-rescates-pisos-conductores-atrapados-coches-200-incidencias-valencia-alicante-135482049)<br>

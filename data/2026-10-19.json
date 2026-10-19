@@ -1,5 +1,122 @@
 [
   {
+    "title": "El río Vaca ya se desborda en Tavernes de la Valldigna y Simat: \"Ha sido una noche muy complicada\"",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/rio-vaca-desborda-tavernes-valldigna-simat-video/135483397.shtml",
+    "pubDate": "2026-10-19 08:53:47",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Así está Oliva tras descargar la dana 400 litros y obligar a rescates en helicóptero",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/oliva-descargar-dana-400-litros-video/135483215.shtml",
+    "pubDate": "2026-10-19 08:45:31",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Нічна атака на Україну: є влучання на 25 локаціях",
+    "link": "https://ua.korrespondent.net/ukraine/4921288-nichna-ataka-na-ukrainu-ye-vluchannia-na-25-lokatsiiakh",
+    "pubDate": "2026-10-19 08:45:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4602723.jpg\">Протиповітряна оборона знешкодила чотири ракети та 243 дрони, якими російські війська вночі атакували Україну.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Український футбол попрощався з відомим арбітром",
+    "link": "https://ua.korrespondent.net/sport/football/4921290-ukrainskyi-futbol-poproschavsia-z-vidomym-arbitrom",
+    "pubDate": "2026-10-19 08:44:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4602704.jpg\">Зупинилося серце видатного українського арбітра, одного з перших вітчизняних асистентів арбітра категорії ФІФА та знаного спортивного журналіста.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Пожежі, поранені і зниклі безвісти: наслідки атаки на Київщину",
+    "link": "https://ua.korrespondent.net/ukraine/4921287-pozhezhi-poraneni-i-znykli-bezvisty-naslidky-ataky-na-kyivschynu",
+    "pubDate": "2026-10-19 08:41:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4602706.jpg\">У Бучанському й Вишгородському районах пошкоджено житлові будинки, автомобілі, виробничі та інфраструктурні об’єкти. В Ірпінському районі вирує пожежа на одному з підприємств.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los 10 momentos del polémico desfile de Victoria's Secret 2026: modelos excluidas, 'nepo babies' y el sujetador de 50 millones de Kylie Jenner",
+    "link": "https://www.elperiodico.com/es/gente/20261019/victorias-secret-2026-10-momentos-polemica-kylie-jenner-135481904",
+    "pubDate": "2026-10-19 08:32:29",
+    "category": "",
+    "description": "<h2>La firma de lencería regresa a Los Ángeles entre críticas por la ausencia de ángeles históricas, el debut de hijas de famosos y un espectáculo con Bella Hadid, Adriana Lima y actuaciones musicales</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Зірка української легкої атлетики зіграв весілля",
+    "link": "https://ua.korrespondent.net/sport/4921208-zirka-ukrainskoi-lehkoi-atletyky-zihrav-vesillia",
+    "pubDate": "2026-10-19 08:31:00",
+    "category": "Новини спорту",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4602081.jpg\">Український легкоатлет поділився радісною звісткою про зміни в особистому житті - спортсмен офіційно узаконив стосунки зі своєю обраницею.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "150.000 euros al mes: el desorbitado precio del alquiler de la antigua mansión de Paris Hilton",
+    "link": "https://www.elperiodico.com/es/gente/20261019/150-000-euros-mes-alquiler-antigua-mansion-paris-hilton-dv-et-135183084",
+    "pubDate": "2026-10-19 08:30:00",
+    "category": "",
+    "description": "<h2 class=\"item\">La empresaria y su marido residieron durante más de dos años en esta exclusiva vivienda de los Ángeles, que cuenta con siete dormitorios, trece baños, piscina y pista de tenis</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20260225/baronesa-thyssen-retira-venta-mansion-lujo-mallorca-alquiler-127100613\">La baronesa Thyssen retira de la venta su mansión de lujo en Mallorca: la ofrece en alquiler por 16.000 euros al mes</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Macron rechaza la dimisión del ministro del Interior y pide más medidas contra los violentos en Francia",
+    "link": "https://www.elperiodico.com/es/internacional/20261019/macron-rechaza-dimision-ministro-interior-pide-medidas-contra-violentos-francia-135482882",
+    "pubDate": "2026-10-19 08:28:46",
+    "category": "",
+    "description": "<h2>El presidente francés justifica la continuidad de Laurent Nuñez en el cargo por la necesidad de mantener la estabilidad en el mando de las fuerzas de seguridad durante la crisis y le pide implementar nuevos métodos de intervención policial tras los graves disturbios y saqueos</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У популярного українського режисера виявили рак",
+    "link": "https://ua.korrespondent.net/lifestyle/4921197-u-populiarnoho-ukrainskoho-rezhysera-vyiavyly-rak",
+    "pubDate": "2026-10-19 08:27:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4602021.jpg\">Український режисер Олексій Комаровський відверто зізнався шанувальникам про серйозні проблеми зі здоров'ям.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Понад 200 боїв: Генштаб описав ситуацію на фронті",
+    "link": "https://ua.korrespondent.net/ukraine/4921282-ponad-200-boiv-henshtab-opysav-sytuatsiui-na-fronti",
+    "pubDate": "2026-10-19 08:24:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4602703.jpg\">Протягом минулої доби російські війська здійснили 3050 обстрілів, завдали 82 авіаударів і застосували понад 9 тисяч дронів-камікадзе.",
+    "topic": "підсумки (за попередній день, наприклад)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Cuando un restaurante tiene dos cartas de vino: la pública y la discreta",
+    "link": "https://www.elperiodico.com/es/gastronomia/vinos/20261019/restaurante-bascoat-madrid-135365371",
+    "pubDate": "2026-10-19 08:22:56",
+    "category": "",
+    "description": "<h2 class=\"item\">En Bascoat, el restaurante vasco-contemporáneo en Madrid de Rodrigo García y Nagore Irazuegi, existe la carpeta pública, en abierto en la web, y los vinos de estraperlo</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20250211/mejores-restaurantes-madrid-personalidad-113357067\">Estos restaurantes de Madrid tienen una personalidad única</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/vinos/20261012/vinos-el-hombre-bala-gredos-garnacha-135026576\">Un incendio tremebundo, una viña trabajada con dinamita y vinos que hacen bum</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "США заявили про збій у системі попередження України про балістику",
+    "link": "https://ua.korrespondent.net/world/4921284-ssha-zaiavyly-pro-zbii-u-systemi-poperedzhennia-ukrainy-pro-balistyku",
+    "pubDate": "2026-10-19 08:20:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4602688.jpg\">Кілька днів тому стався збій у програмному забезпеченні американської системи раннього попередження.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Gabi y Tomás, una pareja de jóvenes de 25 años que ha dejado todo atrás para empezar a reformar una casa en medio del monte de Asturias: \"No tenía ducha ni el saneamiento hecho. Además, la electricidad no existía\"",
     "link": "https://www.elperiodico.com/es/economia/20261019/reforma-casa-abandonada-asturias-vida-rural-gabi-tomas-dv-et-135313571",
     "pubDate": "2026-10-19 08:15:49",
@@ -81,6 +198,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Усик знав, чим закінчиться матч Полісся з Динамо",
+    "link": "https://ua.korrespondent.net/sport/football/4921278-usyk-znav-chym-zakinchytsia-match-polissia-z-dynamo",
+    "pubDate": "2026-10-19 07:53:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4602672.jpg\">Боксер заздалегідь передбачив перемогу Полісся у поєдинку проти Динамо. У підсумку житомирська команда дійсно здобула гучний тріумф.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Tráfico y transporte público en Barcelona y Catalunya, en directo: Rodalies, carreteras y alerta por lluvias",
     "link": "https://www.elperiodico.com/es/barcelona/20261019/trafico-barcelona-catalunya-hoy-carreteras-rodalies-ave-133938712",
     "pubDate": "2026-10-19 07:52:00",
@@ -108,6 +234,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Відсутність Вінісіуса не завадила Реалу розгромити Севілью",
+    "link": "https://ua.korrespondent.net/sport/football/4921274-vidsutnist-vinisiusa-ne-zavadyla-realu-rozghromyty-sevilui",
+    "pubDate": "2026-10-19 07:28:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4602656.jpg\">Мадридський клуб провів переконливий поєдинок у Севільї, не залишивши господарям жодних шансів на позитивний результат.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
     "title": "США не попередили Київ про балістичну атаку - ЗМІ",
     "link": "https://ua.korrespondent.net/ukraine/4921270-ssha-ne-poperedyly-kyiv-pro-balistychnu-ataku-zmi",
     "pubDate": "2026-10-19 07:23:00",
@@ -133,6 +268,15 @@
     "description": "<h2>La Safor y la Marina Alta concentran los episodios más graves, con registros de lluvia superiores a los 300 litros por metro cuadrado, mientras las precipitaciones también provocan daños materiales en l’Horta y Emergencias activa la preemergencia hidrológica en nuevas cuencas</h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Арсенал реалізував свій шанс і переміг Ноттінгем",
+    "link": "https://ua.korrespondent.net/sport/football/4921272-arsenal-realizuvav-svii-shans-i-peremih-nottinhem",
+    "pubDate": "2026-10-19 07:15:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4602634.jpg\">Єдиний удар у площину воріт суперника протягом усього матчу виявився вирішальним і приніс лондонцям три очки.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
   },
   {
     "title": "Manuel Mestre (Ayming): \"La financiación debe formar parte del diseño del proyecto desde el principio\"",
@@ -187,6 +331,24 @@
     "description": "<h2 style=\"text-align: justify;\">Rodeado de bosques pirenaicos, este municipio del Ripollès a 2 horas de Barcelona es conocido por sus galletas y por su puente, igual de fotografiado que el de Besalú</h2><h2 style=\"text-align: justify;\"><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20261014/modernismo-gratis-terrassa-desconocida-joya-oculta-parque-publico-106721019\" target=\"_blank\">Modernismo gratis: la desconocida joya oculta en un parque público de Terrassa</a></h2><h2 style=\"text-align: justify;\"><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20260929/horrorland-barcelona-mejor-parque-terror-europa-halloween-2026-134781877\" target=\"_blank\">Horrorland: vuelve a Barcelona el mejor parque de terror de Europa</a></h2>",
     "topic": "qué hacer esta semana en Barcelona",
     "topic_match_probability": 75
+  },
+  {
+    "title": "Ярмоленко не став виправдовувати Динамо після невдачі",
+    "link": "https://ua.korrespondent.net/sport/football/4921232-yarmolenko-ne-stav-vypravdovuvaty-dynamo-pislia-nevdachi",
+    "pubDate": "2026-10-19 06:44:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4602209.jpg\">Футболіст погодився з тим, що зараз київський клуб грає суттєво нижче від своїх реальних можливостей.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "РФ вдарила по Дніпру: є поранена, під завалами можуть бути люди",
+    "link": "https://ua.korrespondent.net/city/dnepr/4921265-rf-vdaryla-po-dnipru-ye-poranena-pid-zavalamy-mozhut-buty-luidy",
+    "pubDate": "2026-10-19 06:39:00",
+    "category": "Дніпро",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4602604.jpg\">Внаслідок атаки пошкоджено приватні будинки. Поранення дістала 84-річна жінка, яку доправили до лікарні.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Генштаб показав рекордні втрати армії РФ за добу",
