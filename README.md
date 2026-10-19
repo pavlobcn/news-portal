@@ -1,8 +1,9 @@
-# News for 2026-10-19 22:11
+# News for 2026-10-20 01:00
 
 Previous day: [2026-10-18](./data/2026-10-18.md)
 
 ## ua.korrespondent.net
+22:59 [РФ атакувала Хмельниччину та Львівщину: пошкоджено церкву й енергооб'єкт](https://ua.korrespondent.net/ukraine/4921582-rf-atakuvala-khmelnychchynu-ta-lvivschynu-poshkodzheno-tserkvu-y-enerhoobiekt)<br>
 21:59 [Атака на підприємство Київщини: є загиблий і поранені](https://ua.korrespondent.net/ukraine/4921567-ataka-na-pidpryiemstvo-kyivschyny-ye-zahyblyi-i-poraneni)<br>
 21:39 [Японія готує першу місію з доставлення зразків ґрунту з місяця Марса](https://ua.korrespondent.net/tech/space/4921571-yaponiia-hotuie-pershu-misiui-z-dostavlennia-zrazkiv-gruntu-z-misiatsia-marsa)<br>
 20:48 [У Норвегії виявили небезпечні метали у питній воді](https://ua.korrespondent.net/world/4921554-u-norvehii-vyiavyly-nebezpechni-metaly-u-pytnii-vodi)<br>
@@ -81,6 +82,9 @@ Previous day: [2026-10-18](./data/2026-10-18.md)
 14:23 [Markus Howard se despidió de la afición en una cafetería](https://as.com/baloncesto/markus-howard-se-despidio-de-la-aficion-en-una-cafeteria-f202610-n/)<br>
 
 ## www.elperiodico.com
+23:13 [Deep Purple, la leyenda sigue en pie y con la cabeza alta en el Sant Jordi Club](https://www.elperiodico.com/es/ocio-y-cultura/20261019/deep-purple-concierto-barcelona-sant-jordi-club-critica-135521043)<br>
+22:39 [30 alcades se forman para responder mejor a las emergencias climáticas](https://www.elperiodico.com/es/tiempo/20261019/alcaldes-formacion-impacto-emergencias-climaticas-135520559)<br>
+22:24 [Catalunya registra los niveles más altos de ozono troposférico desde 2010](https://www.elperiodico.com/es/tiempo/20261019/catalunya-registra-el-peor-ano-de-ozono-troposferico-desde-al-menos-2010-135520043)<br>
 22:06 [Arabia Saudí ejecuta a una pareja de Bangladés por "actos indecentes" en una mezquita](https://www.elperiodico.com/es/internacional/20261019/arabiasaudi-ejecuta-pareja-banglades-darse-islamofobia-ley-islamica-135520412)<br>
 20:38 [El Govern elige una nave en Sant Fruitós de Bages para ubicar allí la Reserva Nacional de museos en 2030](https://www.elperiodico.com/es/ocio-y-cultura/20261019/presidente-illa-presenta-nave-bages-135517901)<br>
 20:21 [Torres (BBVA) destaca el potencial de la inteligencia artificial para impulsar la transformación de las empresas y la economía](https://www.elperiodico.com/es/economia/20261019/torres-bbva-destaca-potencial-inteligencia-135517603)<br>
