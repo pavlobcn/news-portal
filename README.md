@@ -1,11 +1,26 @@
-# News for 2026-10-19 21:29
+# News for 2026-10-19 22:11
 
 Previous day: [2026-10-18](./data/2026-10-18.md)
 
 ## ua.korrespondent.net
+21:59 [Атака на підприємство Київщини: є загиблий і поранені](https://ua.korrespondent.net/ukraine/4921567-ataka-na-pidpryiemstvo-kyivschyny-ye-zahyblyi-i-poraneni)<br>
+21:39 [Японія готує першу місію з доставлення зразків ґрунту з місяця Марса](https://ua.korrespondent.net/tech/space/4921571-yaponiia-hotuie-pershu-misiui-z-dostavlennia-zrazkiv-gruntu-z-misiatsia-marsa)<br>
 20:48 [У Норвегії виявили небезпечні метали у питній воді](https://ua.korrespondent.net/world/4921554-u-norvehii-vyiavyly-nebezpechni-metaly-u-pytnii-vodi)<br>
+20:29 [Удар по Хмельницькому: зросла кількість жертв](https://ua.korrespondent.net/ukraine/4921550-udar-po-khmelnytskomu-zrosla-kilkist-zhertv)<br>
+19:54 [Смартфони Samsung Galaxy S27 вийдуть раніше, ніж очікувалося - інсайдер](https://ua.korrespondent.net/lifestyle/gadgets/4921544-smartfony-Samsung-Galaxy-S27-vyidut-ranishe-nizh-ochikuvalosia-insaider)<br>
 19:50 [Підпал Starlink біля Софії: двом німцям загрожує до 12 років](https://ua.korrespondent.net/world/4921536-pidpal-Starlink-bilia-sofii-dvom-nimtsiam-zahrozhuie-do-12-rokiv)<br>
+19:11 [Атака дронів на Хмельниччину: є постраждалі та руйнування](https://ua.korrespondent.net/ukraine/4921527-ataka-droniv-na-khmelnychchynu-ye-postrazhdali-ta-ruinuvannia)<br>
+18:56 [Укренерго попередило про відключення у вівторок](https://ua.korrespondent.net/ukraine/4921522-ukrenerho-poperedylo-pro-vidkluichennia-u-vivtorok)<br>
+18:06 [Удар по Харківщині: серед шести жертв три дитини](https://ua.korrespondent.net/ukraine/4921511-udar-po-kharkivschyni-sered-shesty-zhertv-try-dytyny)<br>
+18:05 [Атаки РФ пошкодили понад дві тисячі вагонів Укрзалізниці](https://ua.korrespondent.net/business/companies/4921508-ataky-rf-poshkodyly-ponad-dvi-tysiachi-vahoniv-ukrzaliznytsi)<br>
+17:42 [Rheinmetall придбав верф на Чорному морі](https://ua.korrespondent.net/business/companies/4921500-Rheinmetall-prydbav-verf-na-chornomu-mori)<br>
+17:31 [Генштаб оцінив поточну ефективність ППО](https://ua.korrespondent.net/ukraine/4921502-henshtab-otsinyv-potochnu-efektyvnist-ppo)<br>
+17:23 [В Україні побільшало банкрутів: хто втрачає платоспроможність](https://ua.korrespondent.net/business/4921496-v-ukraini-pobilshalo-bankrutiv-khto-vtrachaie-platospromozhnist)<br>
 17:17 [Принцесі Нідерландів присвоїли військове звання сержанта](https://ua.korrespondent.net/world/4921497-pryntsesi-niderlandiv-prysvoily-viiskove-zvannia-serzhanta)<br>
+16:50 [Росіяни вбили немовля і двох жінок на Харківщині](https://ua.korrespondent.net/ukraine/4921489-rosiiany-vbyly-nemovlia-i-dvokh-zhinok-na-kharkivschyni)<br>
+16:27 [Зеленський: Обмеження Starlink досі діють](https://ua.korrespondent.net/ukraine/4921479-zelenskyi-obmezhennia-Starlink-dosi-diuit)<br>
+15:59 [Росіяни уразили 28 підстанцій - Зеленський](https://ua.korrespondent.net/ukraine/4921465-rosiiany-urazyly-28-pidstantsii-zelenskyi)<br>
+15:44 [СБУ оприлюднила кількість вироків за поширення відео російських ударів](https://ua.korrespondent.net/ukraine/4921457-sbu-opryluidnyla-kilkist-vyrokiv-za-poshyrennia-video-rosiiskykh-udariv)<br>
 15:22 [Сили оборони уразили цілі в Росії і на ТОТ](https://ua.korrespondent.net/ukraine/4921453-syly-oborony-urazyly-tsili-v-rosii-i-na-tot)<br>
 15:13 [Відомо, скільки перехоплювачів Україна застосовує проти реактивних Шахедів](https://ua.korrespondent.net/ukraine/4921451-vidomo-skilky-perekhopluivachiv-ukraina-zastosovuie-proty-reaktyvnykh-shakhediv)<br>
 15:11 [У Тереччині жертвами повеней стали вісім осіб](https://ua.korrespondent.net/world/4921449-u-terechchyni-zhertvamy-povenei-staly-visim-osib)<br>
@@ -59,11 +74,14 @@ Previous day: [2026-10-18](./data/2026-10-18.md)
 00:59 [Удар по Києву: влада повідомила про жертву](https://ua.korrespondent.net/city/kiev/4921243-udar-po-kyievu-vlada-povidomyla-pro-zhertvu)<br>
 
 ## as.com
+21:28 [“Aquí no quiero segundones, te lo habrá dicho Saporta”](https://as.com/baloncesto/acb/aqui-no-quiero-segundones-te-lo-habra-dicho-saporta-f202610-n/)<br>
+21:25 [Dwight Howard vuelve a retirarse](https://as.com/baloncesto/mas_baloncesto/dwight-howard-vuelve-a-retirarse-f202610-n/)<br>
 19:57 [Bodiroga confirma que la Euroliga cambiará su formato](https://as.com/baloncesto/euroliga/bodiroga-confirma-que-la-euroliga-cambiara-su-formato-f202610-n/)<br>
 14:45 [Olivier Sarr batalla por minutos](https://as.com/baloncesto/acb/olivier-sarr-batalla-por-minutos-f202610-n/)<br>
 14:23 [Markus Howard se despidió de la afición en una cafetería](https://as.com/baloncesto/markus-howard-se-despidio-de-la-aficion-en-una-cafeteria-f202610-n/)<br>
 
 ## www.elperiodico.com
+22:06 [Arabia Saudí ejecuta a una pareja de Bangladés por "actos indecentes" en una mezquita](https://www.elperiodico.com/es/internacional/20261019/arabiasaudi-ejecuta-pareja-banglades-darse-islamofobia-ley-islamica-135520412)<br>
 20:38 [El Govern elige una nave en Sant Fruitós de Bages para ubicar allí la Reserva Nacional de museos en 2030](https://www.elperiodico.com/es/ocio-y-cultura/20261019/presidente-illa-presenta-nave-bages-135517901)<br>
 20:21 [Torres (BBVA) destaca el potencial de la inteligencia artificial para impulsar la transformación de las empresas y la economía](https://www.elperiodico.com/es/economia/20261019/torres-bbva-destaca-potencial-inteligencia-135517603)<br>
 20:06 [Las empresas chinas con sede en Catalunya aumentan un 32% en los dos últimos años](https://www.elperiodico.com/es/economia/20261019/china-empresas-sede-catalunya-aumento-inversion-extranjera-135512656)<br>
