@@ -1,8 +1,21 @@
-# News for 2026-10-20 14:58
+# News for 2026-10-20 18:53
 
 Previous day: [2026-10-19](./data/2026-10-19.md)
 
 ## ua.korrespondent.net
+18:31 [РФ вдарила по операційній Інституту кардіології](https://ua.korrespondent.net/city/kiev/4921869-rf-vdaryla-po-operatsiinii-instytutu-kardiolohii)<br>
+18:06 [Офіційний курс долара подолав психологічний рубіж](https://ua.korrespondent.net/business/financial/4921866-ofitsiinyi-kurs-dolara-podolav-psykholohichnyi-rubizh)<br>
+17:58 [Чехія вперше передбачила 2% ВВП на оборону](https://ua.korrespondent.net/world/4921864-chekhiia-vpershe-peredbachyla-2-vvp-na-oboronu)<br>
+17:45 [Київ частково знеструмлений після атаки РФ](https://ua.korrespondent.net/city/kiev/4921862-kyiv-chastkovo-znestrumlenyi-pislia-ataky-rf)<br>
+17:31 [Свята 21 жовтня 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4921845-sviata-21-zhovtnia-2026-roku-istoriia-tradytsii)<br>
+17:27 [Алабуга стала центром співпраці Росії, Китаю, Ірану та КНДР - доповідь](https://ua.korrespondent.net/world/4921857-alabuha-stala-tsentrom-spivpratsi-rosii-kytaui-iranu-ta-kndr-dopovid)<br>
+17:01 [Росіяни тричі атакували Краматорськ упродовж дня](https://ua.korrespondent.net/ukraine/4921854-rosiiany-trychi-atakuvaly-kramatorsk-uprodovzh-dnia)<br>
+16:52 [Удари РФ змінять правила перетину кордону між Україною та Польщею](https://ua.korrespondent.net/world/4921846-udary-rf-zminiat-pravyla-peretynu-kordonu-mizh-ukrainoui-ta-polscheui)<br>
+16:50 [Ракетний удар по Харкову: постраждали дев'ятеро людей](https://ua.korrespondent.net/city/kharkov/4921849-raketnyi-udar-po-kharkovu-postrazhdaly-deviatero-luidei)<br>
+16:43 [Донька Путіна відкрила лабораторію з вивчення довголіття](https://ua.korrespondent.net/world/russia/4921841-donka-putina-vidkryla-laboratoriui-z-vyvchennia-dovholittia)<br>
+15:57 [У Польщі виявили останки понад 40 українців, убитих у 1944 році](https://ua.korrespondent.net/world/4921825-u-polschi-vyiavyly-ostanky-ponad-40-ukraintsiv-ubytykh-u-1944-rotsi)<br>
+15:29 [Допомога ЗСУ: у Литві зібрали понад мільйон євро на перехоплювачі дронів](https://ua.korrespondent.net/world/4921814-dopomoha-zsu-u-lytvi-zibraly-ponad-milion-yevro-na-perekhopluivachi-droniv)<br>
+15:26 [Британія відправляє винищувачі для захисту Саудівської Аравії](https://ua.korrespondent.net/world/4921817-brytaniia-vidpravliaie-vynyschuvachi-dlia-zakhystu-saudivskoi-aravii)<br>
 14:49 [В Україні стартували зйомки фільму За двома зайцями. 90-ті](https://ua.korrespondent.net/showbiz/cinema/4921789-v-ukraini-startuvaly-ziomky-filmu-za-dvoma-zaitsiamy-90-ti)<br>
 14:46 [У Молдові знову затримали українських прикордонників](https://ua.korrespondent.net/world/4921797-u-moldovi-znovu-zatrymaly-ukrainskykh-prykordonnykiv)<br>
 14:25 [Дороге пальне вдарить по пасажирах: як подорожчають авіаквитки](https://ua.korrespondent.net/business/financial/4921792-dorohe-palne-vdaryt-po-pasazhyrakh-yak-podorozhchauit-aviakvytky)<br>
@@ -48,11 +61,33 @@ Previous day: [2026-10-19](./data/2026-10-19.md)
 05:26 [Дрон РФ поцілив у багатоквартирний будинок у Сумах](https://ua.korrespondent.net/ukraine/4921612-dron-rf-potsilyv-u-bahatokvartyrnyi-budynok-u-sumakh)<br>
 
 ## as.com
+16:56 [La NBA no da pistas sobre la expansión pero insiste en que octubre de 2027 “es una fecha realista”](https://as.com/baloncesto/nba/la-nba-no-da-pistas-sobre-la-expansion-pero-insiste-en-que-octubre-de-2027-es-una-fecha-realista-f202610-n/)<br>
 14:56 [Lebron James: The last chance](https://as.com/baloncesto/videos/lebron-james-the-last-chance-f202610-v/)<br>
 12:41 [“No creo que los equipos de la Euroliga se vayan a marchar a la NBA”](https://as.com/baloncesto/euroliga/no-creo-que-los-equipos-de-la-euroliga-se-vayan-a-marchar-a-la-nba-f202610-n/)<br>
 11:30 [El circuito 3x3 CaixaBank 2026 bate récord de asistencia en su temporada más inclusiva](https://as.com/baloncesto/mas_baloncesto/el-circuito-3x3-caixabank-2026-bate-record-de-asistencia-en-su-temporada-mas-inclusiva-f202610-n/)<br>
 
 ## www.elperiodico.com
+18:40 [Haier entra en el mercado de la aspiración con la gama I-Pro Clean Series 5](https://www.elperiodico.com/es/tecnologia/20261020/haier-entra-mercado-aspiracion-modelos-135554610)<br>
+18:37 [Solo el 22% de tierras agrícolas y ganaderas están en manos de mujeres: "Soy la titular y todavía buscan a mi padre"](https://www.elperiodico.com/es/sociedad/20261020/mujeres-agricultura-ganaderia-pesca-sectores-masculinizados-brecha-genero-135552705)<br>
+18:32 [080 Reborn cumple 5 años empoderando la segunda mano en la pasarela: así es 'Nòmada', la propuesta para "vestir mejor sin comprar más"](https://www.elperiodico.com/es/gente/20261020/080-reborn-cinco-anos-segunda-mano-pasarela-nomada-135528283)<br>
+18:27 [Los científicos Klenerman y Balasubramanian animan a los futuros médicos, químicos y biólogos asturianos a investigar "desde la curiosidad" y a "no tener miedo a perseguir algo grande"](https://www.elperiodico.com/es/sociedad/20261020/cientificos-klenerman-balasubramanian-animan-futuros-135555575)<br>
+18:24 [La Audencia Nacional reclama el regreso a la Garrotxa del hombre extraditado por error a Estados Unidos](https://www.elperiodico.com/es/sucesos/20261020/audencia-nacional-reclama-hombre-extraditado-por-error-135554284)<br>
+18:15 [Arturo Pérez-Reverte: "El Ulises de Nolan parece un buey de Arkansas trasladado al Mediterráneo"](https://www.elperiodico.com/es/ocio-y-cultura/20261020/entrevista-arturo-perez-reverte-nueva-novela-la-hipotesis-mas-peligrosa-135520356)<br>
+18:07 [La crisis de la vivienda impide a las familias monoparentales salir de los programas sociales](https://www.elperiodico.com/es/sociedad/20261020/vivienda-familias-monoparentales-programas-sociales-135552754)<br>
+18:07 [El Gobierno aprueba una nueva baja por menopausia: ¿Quién podrá disfrutarla?, ¿con qué síntomas?](https://www.elperiodico.com/es/sociedad/20261020/nueva-baja-laboral-menopausia-sintomas-135550393)<br>
+18:06 [Los preparativos del desfile de Custo: El equipo de peluquería, maquillaje y vestuario.](https://www.elperiodico.com/es/fotos/ocio-y-cultura/preparativos-desfile-custo-equipo-peluqueria-135553988)<br>
+17:46 [Barcelona calcula que pueden construirse de 20 a 25 pisos en el solar ocupado que quiere comprar en el Raval](https://www.elperiodico.com/es/barcelona/20261020/barcelona-vivienda-compra-solar-sareb-agora-juan-andres-benitez-135551795)<br>
+17:37 [El presidente de Confemetal fracasa en su intento de continuar un tercer mandato al frente de la organización](https://www.elperiodico.com/es/economia/20261020/presidente-confemetal-fracasa-continuar-tercer-mandato-135551366)<br>
+17:29 [Josie valora la trayectoria estilística de la Princesa Leonor y la infanta Sofía: "Están muy verdes"](https://www.elperiodico.com/es/gente/20261020/josie-valora-trayectoria-estilistica-princesa-135551007)<br>
+17:29 [¿Por qué unos imitan y otros no si todos tenemos neuronas espejo? Un experimento social llega al Teatre Lliure](https://www.elperiodico.com/es/ocio-y-cultura/20261020/imitan-neuronas-espejo-experimento-social-135532365)<br>
+17:16 [La historia de Héctor: ocho meses ocupando una casa "abandonada" en Figueres y sin trabajo fijo: "Ahora que tengo papeles, nadie me llama; aquí la vida no es fácil"](https://www.elperiodico.com/es/sociedad/20261020/historia-hector-ocho-meses-ocupando-casa-figueres-dv-et-135448041)<br>
+17:11 [Barcelona relanza sus dos 'domus' romanas: abrirán al público todos los fines de semana](https://www.elperiodico.com/es/barcelona/20261020/barcelona-relanza-visitas-domus-avinyo-sant-honorat-135520185)<br>
+17:07 [En imágenes el desfile inaugural de la 080 Barcelona Fashion: '080 Reborn' en la pasarela de la Marina Seca.](https://www.elperiodico.com/es/fotos/ocio-y-cultura/imagenes-desfile-inaugural-080-barcelona-135549579)<br>
+17:02 [Cinesa inaugura dos nuevas salas IMAX en Terrassa y Madrid tras el éxito de 'La odisea'](https://www.elperiodico.com/es/ocio-y-cultura/20261020/cinesa-inaugura-nuevas-salas-imax-135549094)<br>
+16:33 [La ELA genera un coste de casi 400.000 euros durante toda la enfermedad en los afectados y sus familias](https://www.elperiodico.com/es/sanidad/20261020/ela-genera-coste-enfermedad-afectados-familias-135546162)<br>
+15:57 [¿Por qué algunas personas necesitan comprobar varias veces si han apagado el fuego o cerrado la puerta? La explicación está en el cerebro](https://www.elperiodico.com/es/salud/20261020/toc-comprobacion-psicologa-lara-ferreiro-puertas-fogones-dv-et-134798742)<br>
+15:56 [El cardiólogo Aurelio Rojas rescata el refrán de su abuelo sobre las cenas y advierte: "La ciencia empieza a darle la razón"](https://www.elperiodico.com/es/salud/20261020/cardiologo-aurelio-rojas-rescata-refran-abuelo-cenar-tarde-infartos-135529854)<br>
+15:53 [De la Moncloa a la Zarzuela: Glovo, Filmin y las grandes tecnológicas españolas reivindican su peso económico ante el Rey](https://www.elperiodico.com/es/politica/20261020/moncloa-zarzuela-glovo-filmin-grandes-tecnologicas-rey-135546557)<br>
 14:57 [Empieza la carrera a los Óscar: las posibles nominaciones, también las de 'La bola negra'](https://www.elperiodico.com/es/ocio-y-cultura/20261020/carrera-oscar-posibles-nominaciones-135536282)<br>
 14:56 [Las aseguradoras facturan 71.113 millones hasta septiembre, un 10,36% más](https://www.elperiodico.com/es/economia/20261020/aseguradoras-facturan-71-113-millones-hasta-septiembre-135543930)<br>
 14:38 [La astronauta Christina Koch normaliza en Oviedo la emoción del temor a los viajes espaciales: "El miedo es normal, lo importante es que no nos impida hacer cosas desafiantes"](https://www.elperiodico.com/es/sociedad/20261020/astronauta-christina-koch-normaliza-oviedo-135543120)<br>
@@ -68,6 +103,7 @@ Previous day: [2026-10-19](./data/2026-10-19.md)
 12:50 [Una investigación sobre el saqueo masivo de conocimiento para alimentar la IA gana el Premio Anagrama de Ensayo](https://www.elperiodico.com/es/ocio-y-cultura/20261020/premio-anagrama-ensayo-xavier-nueno-ia-robo-135528734)<br>
 12:41 [Carmen Lomana revela cómo está Roca Rey tras su ruptura con Tana Rivera: "Asustado"](https://www.elperiodico.com/es/gente/20261020/carmen-lomana-revela-roca-rey-135534368)<br>
 12:26 [Más depresión, más alcohol y más obesidad: la valoración del estado de salud de los españoles empeora](https://www.elperiodico.com/es/sanidad/20261020/depresion-alcohol-obesidad-valoracion-salud-espanoles-empeora-135530844)<br>
+12:17 [Los fumadores pasivos repuntan un 11% en España tras casi dos décadas sin endurecer la ley del tabaco](https://www.elperiodico.com/es/sociedad/20261020/fumadores-pasivos-repuntan-tabaco-terrazas-135531845)<br>
 11:46 [Revolut sufre una caída generalizada de sus servicios de pago por un fallo en Google Cloud](https://www.elperiodico.com/es/economia/20261020/revolut-sufre-caida-servicios-espana-135532207)<br>
 11:32 [Los inquilinos pueden reparar averías y descontar el coste del alquiler gracias a la nueva normativa de vivienda](https://www.elperiodico.com/es/economia/20261020/nueva-normativa-vivienda-permite-inquilinos-autorreparaciones-descontar-alquiler-135314523)<br>
 11:31 [Detenidos en Tarragona y Barcelona dos yihadistas en un "severo proceso de radicalización"](https://www.elperiodico.com/es/sucesos/20261020/detenidos-tarragona-barcelona-yihadistas-severo-135531376)<br>
@@ -87,6 +123,9 @@ Previous day: [2026-10-19](./data/2026-10-19.md)
 07:53 [¿Cuándo cambian la hora en España? El horario de invierno 2026 está a la vuelta de la esquina](https://www.elperiodico.com/es/sociedad/20261020/cambio-hora-invierno-2026-octubre-122562519)<br>
 07:00 [Salamanca instala semáforos en la acera para evitar atropellos por el giro de los autobuses](https://www.elperiodico.com/es/motor/20261020/salamanca-instala-semaforos-acera-evitar-135401340)<br>
 07:00 [BeXReal apuesta por compartir datos energéticos para reducir costes y mejorar la competitividad industrial](https://www.elperiodico.com/es/tecnologia/20261020/bexreal-apuesta-compartir-datos-energeticos-135523586)<br>
+06:45 ["Asignatura pendiente"](https://www.elperiodico.com/es/entre-todos/participacion/asignatura-pendiente-carta-miguel-rabadan-135435529)<br>
+06:30 ["Trabajar y no poder tener un hogar"](https://www.elperiodico.com/es/entre-todos/participacion/trabajar-hogar-carta-rabab-ajnan-135425163)<br>
+06:15 ["No deixem que ens prenguin l’empatia"](https://www.elperiodico.com/es/entre-todos/participacion/deixem-ens-prenguin-l-empatia-carta-tona-giribets-135420618)<br>
 06:00 [Ramon Mas: "Todos somos adictos a la ficción. Que sea un problema social es cuestión de tiempo"](https://www.elperiodico.com/es/ocio-y-cultura/20261020/sempre-es-massa-tard-novela-ramon-mas-latra-editorial-135246471)<br>
 06:00 [Mathieu Bélisle, ensayista: "Para conocer de veras cuán necesaria es la esperanza, hace falta haberla perdido antes"](https://www.elperiodico.com/es/ser-feliz/20261020/mathieu-belisle-ensayista-conocer-veras-135486447)<br>
 06:00 [VÍDEO | "Añoro la época de las 'tops'. Claudia Schiffer era insustituible": Esther Garcia Capdevila, directora de desfiles como los de la 080, repasa sus 5 momentos 'wow'](https://www.elperiodico.com/es/gente/20261020/video-esther-garcia-capdevila-claudia-schiffer-dior-080-desfiles-mejores-momentos-trayectoria-135374383)<br>
