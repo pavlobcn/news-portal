@@ -1,3 +1,18 @@
-# News for 2026-10-20 04:10
+# News for 2026-10-20 08:34
 
 Previous day: [2026-10-19](./data/2026-10-19.md)
+
+## ua.korrespondent.net
+06:43 [У Тамбовській області РФ палає об’єкт Транснефті](https://ua.korrespondent.net/world/russia/4921618-u-tambovskii-oblasti-rf-palaie-obiekt-transnefti)<br>
+
+## www.elperiodico.com
+08:30 [3,5 millones de euros por Rocabruna, en Oló: un castillo, una masía, tres apartamentos y una escuela](https://www.elperiodico.com/es/sociedad/20261020/3-5-millones-euros-rocabruna-castillo-masia-apartamentos-escuela-dv-et-135441069)<br>
+08:29 [Pasan a disposición de la Audiencia Nacional los dos detenidos por terrorismo en Gipuzkoa](https://www.elperiodico.com/es/sucesos/20261020/pasan-disposicion-audiencia-nacional-detenidos-terrorismo-gipuzkoa-135524532)<br>
+08:16 [Última hora de la dana Adam y las lluvias en Valencia y Catalunya, en directo: avisos del Meteocat y Aemet, previsión y radar de precipitaciones](https://www.elperiodico.com/es/sociedad/20261020/lluvia-cataluna-valencia-baleares-dana-alerta-meteocat-aemet-ultima-hora-directo-135404377)<br>
+07:53 [¿Cuándo cambian la hora en España? El horario de invierno 2026 está a la vuelta de la esquina](https://www.elperiodico.com/es/sociedad/20261020/cambio-hora-invierno-2026-octubre-122562519)<br>
+07:00 [Salamanca instala semáforos en la acera para evitar atropellos por el giro de los autobuses](https://www.elperiodico.com/es/motor/20261020/salamanca-instala-semaforos-acera-evitar-135401340)<br>
+07:00 [BeXReal apuesta por compartir datos energéticos para reducir costes y mejorar la competitividad industrial](https://www.elperiodico.com/es/tecnologia/20261020/bexreal-apuesta-compartir-datos-energeticos-135523586)<br>
+06:00 [Ramon Mas: "Todos somos adictos a la ficción. Que sea un problema social es cuestión de tiempo"](https://www.elperiodico.com/es/ocio-y-cultura/20261020/sempre-es-massa-tard-novela-ramon-mas-latra-editorial-135246471)<br>
+06:00 [Mathieu Bélisle, ensayista: "Para conocer de veras cuán necesaria es la esperanza, hace falta haberla perdido antes"](https://www.elperiodico.com/es/ser-feliz/20261020/mathieu-belisle-ensayista-conocer-veras-135486447)<br>
+06:00 [VÍDEO | "Añoro la época de las 'tops'. Claudia Schiffer era insustituible": Esther Garcia Capdevila, directora de desfiles como los de la 080, repasa sus 5 momentos 'wow'](https://www.elperiodico.com/es/gente/20261020/video-esther-garcia-capdevila-claudia-schiffer-dior-080-desfiles-mejores-momentos-trayectoria-135374383)<br>
+06:00 [De Madonna a Almodóvar: los 7 desfiles que darán que hablar en la 080 Barcelona Fashion que empieza hoy](https://www.elperiodico.com/es/gente/20261020/080-barcelona-fashion-2026-siete-desfiles-daran-que-hablar-madonna-almodovar-dominnico-custo-nouchi-135365147)<br>
