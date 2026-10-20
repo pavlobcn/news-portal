@@ -1,8 +1,33 @@
-# News for 2026-10-20 09:36
+# News for 2026-10-20 14:04
 
 Previous day: [2026-10-19](./data/2026-10-19.md)
 
 ## ua.korrespondent.net
+13:54 [У Києві реставрують купол Софійського собору](https://ua.korrespondent.net/city/kiev/4921780-u-kyievi-restavruuit-kupol-sofiiskoho-soboru)<br>
+13:43 [У Києві російський дрон влучив у будівлю медзакладу](https://ua.korrespondent.net/city/kiev/4921772-u-kyievi-rosiiskyi-dron-vluchyv-u-budivlui-medzakladu)<br>
+13:40 [У Ялті річки виходять з берегів і руйнують будинки](https://ua.korrespondent.net/world/russia/4921773-u-yalti-richky-vykhodiat-z-berehiv-i-ruinuuit-budynky)<br>
+13:33 [У Дії запустили оформлення виплат на дітей](https://ua.korrespondent.net/business/economics/4921769-u-dii-zapustyly-oformlennia-vyplat-na-ditei)<br>
+13:20 [Атака на склади біля Дніпра: загинули двоє людей](https://ua.korrespondent.net/city/dnepr/4921765-ataka-na-sklady-bilia-dnipra-zahynuly-dvoie-luidei)<br>
+13:15 [Стрічка про Елізабет Голмс сенсаційно стартувала в прокаті](https://ua.korrespondent.net/showbiz/cinema/4921729-strichka-pro-elizabet-holms-sensatsiino-startuvala-v-prokati)<br>
+13:11 [У Франції затримали підозрюваного у підпалі історичної мерії Ліможа](https://ua.korrespondent.net/world/4921759-u-frantsii-zatrymaly-pidozruivanoho-u-pidpali-istorychnoi-merii-limozha)<br>
+12:53 [У Хмельницькому масово гине риба в річці](https://ua.korrespondent.net/ukraine/4921750-u-khmelnytskomu-masovo-hyne-ryba-v-richtsi)<br>
+12:48 [На трасі Київ - Одеса під час атаки РФ загинув водій шатлу НВМК](https://ua.korrespondent.net/ukraine/4921749-na-trasi-kyiv-odesa-pid-chas-ataky-rf-zahynuv-vodii-shatlu-nvmk)<br>
+12:41 [Війська РФ поцілили по складах у Запоріжжі](https://ua.korrespondent.net/city/zaporozhye/4921747-viiska-rf-potsilyly-po-skladakh-u-zaporizhzhi)<br>
+12:30 [Під товщею льоду Антарктиди знайшли загадковий світ](https://ua.korrespondent.net/tech/science/4921549-pid-tovscheui-lodu-antarktydy-znaishly-zahadkovyi-svit)<br>
+12:29 [Норвегія затримала судно, пов’язане з російським СПГ-проєктом](https://ua.korrespondent.net/world/4921741-norvehiia-zatrymala-sudno-poviazane-z-rosiiskym-sph-proiektom)<br>
+12:21 [Армія РФ вбила цивільних у Краматорську](https://ua.korrespondent.net/ukraine/4921737-armiia-rf-vbyla-tsyvilnykh-u-kramatorsku)<br>
+12:03 ["Флеш": Розвіддані США надходять, є проблема з попередженням атак](https://ua.korrespondent.net/ukraine/4921731-flesh-rozviddani-ssha-nadkhodiat-ye-problema-z-poperedzhenniam-atak)<br>
+11:56 [Сили оборони уразили нові цілі окупантів на ТОТ](https://ua.korrespondent.net/ukraine/4921727-syly-oborony-urazyly-novi-tsili-okupantiv-na-tot)<br>
+11:52 [Росіяни атакували Епіцентр на Волині](https://ua.korrespondent.net/ukraine/4921724-rosiiany-atakuvaly-epitsentr-na-volyni)<br>
+11:44 [У Португалії поліція прибрала намети учасників протестів](https://ua.korrespondent.net/world/4921720-u-portuhalii-politsiia-prybrala-namety-uchasnykiv-protestiv)<br>
+11:36 [В обмінних пунктах зросли курси долара і євро](https://ua.korrespondent.net/business/financial/4921717-v-obminnykh-punktakh-zrosly-kursy-dolara-i-yevro)<br>
+11:07 [Білецький очолив угруповання військ Центр](https://ua.korrespondent.net/ukraine/4921699-biletskyi-ocholyv-uhrupovannia-viisk-tsentr)<br>
+10:59 [Rheinmetall відкрив завод з випуску снарядів проти дронів](https://ua.korrespondent.net/world/4921698-Rheinmetall-vidkryv-zavod-z-vypusku-snariadiv-proty-droniv)<br>
+10:48 [Відключення поширились на 13 областей України](https://ua.korrespondent.net/ukraine/4921689-vidkluichennia-poshyrylys-na-13-oblastei-ukrainy)<br>
+10:25 [Дрони атакували нафтостанцію у Тамбовській області](https://ua.korrespondent.net/world/russia/4921681-drony-atakuvaly-naftostantsiui-u-tambovskii-oblasti)<br>
+10:09 [Кремль заклав рекордну знижку на газ для Китаю](https://ua.korrespondent.net/world/russia/4921677-kreml-zaklav-rekordnu-znyzhku-na-haz-dlia-kytaui)<br>
+09:49 [Агенти РФ готували атаки на ТЦК у Києві](https://ua.korrespondent.net/city/kiev/4921669-ahenty-rf-hotuvaly-ataky-na-ttsk-u-kyievi)<br>
+09:40 [Трегубов прокоментував вигадані "успіхи" РФ про Куп’янськ](https://ua.korrespondent.net/ukraine/4921664-trehubov-prokomentuvav-vyhadani-uspikhy-rf-pro-kupiansk)<br>
 09:24 ["Шахед" вдарив по трасі під Києвом, є загиблі](https://ua.korrespondent.net/ukraine/4921659-shakhed-vdaryv-po-trasi-pid-kyievom-ye-zahybli)<br>
 08:59 [У Перу археологи виявили загадкове поховання дитини](https://ua.korrespondent.net/tech/science/4921556-u-peru-arkheolohy-vyiavyly-zahadkove-pokhovannia-dytyny)<br>
 08:57 [Атака на Київщину: четверо загиблих і 27 поранених](https://ua.korrespondent.net/ukraine/4921648-ataka-na-kyivschynu-chetvero-zahyblykh-i-27-poranenykh)<br>
@@ -17,7 +42,30 @@ Previous day: [2026-10-19](./data/2026-10-19.md)
 06:21 [Генштаб оновив втрати армії РФ станом на 20 жовтня](https://ua.korrespondent.net/ukraine/4921616-henshtab-onovyv-vtraty-armii-rf-stanom-na-20-zhovtnia)<br>
 05:26 [Дрон РФ поцілив у багатоквартирний будинок у Сумах](https://ua.korrespondent.net/ukraine/4921612-dron-rf-potsilyv-u-bahatokvartyrnyi-budynok-u-sumakh)<br>
 
+## as.com
+12:41 [“No creo que los equipos de la Euroliga se vayan a marchar a la NBA”](https://as.com/baloncesto/euroliga/no-creo-que-los-equipos-de-la-euroliga-se-vayan-a-marchar-a-la-nba-f202610-n/)<br>
+11:30 [El circuito 3x3 CaixaBank 2026 bate récord de asistencia en su temporada más inclusiva](https://as.com/baloncesto/mas_baloncesto/el-circuito-3x3-caixabank-2026-bate-record-de-asistencia-en-su-temporada-mas-inclusiva-f202610-n/)<br>
+
 ## www.elperiodico.com
+14:00 [Los 10 mitos sobre el envejecimiento que la ciencia desmonta: ni el ayuno alarga la vida ni basta con caminar](https://www.elperiodico.com/es/sociedad/20261020/mitos-longevidad-envejecimiento-ayuno-caminar-135534675)<br>
+13:57 [Una reumatóloga advierte sobre la osteoporosis, la enfermedad silenciosa que afecta a tres millones de españoles: "No es inevitable"](https://www.elperiodico.com/es/salud/20261020/reumatologa-advierte-osteoporosis-enfermedad-silenciosa-evitable-135539951)<br>
+13:55 [La multinacional estadounidense Hologic adquiere la 'startup' catalana Reveal Genomics](https://www.elperiodico.com/es/economia/20261020/multinacional-estadounidense-hologic-adquiere-startup-reveal-genomics-135534728)<br>
+13:36 [Victoria Beckham se niega a llamar al colegio de su hija Harper para que pueda maquillarse](https://www.elperiodico.com/es/gente/20261020/victoria-beckham-niega-llamar-colegio-135538319)<br>
+13:16 [El precio del euríbor hoy, 20 de octubre: sin tregua en el mercado de las hipotecas](https://www.elperiodico.com/es/economia/20261020/precio-euribor-hoy-20-octubre-dv-135535056)<br>
+13:09 [Dentro de la mente de Dalí: la fascinación por Freud que convirtió sus miedos y deseos en arte](https://www.elperiodico.com/es/ocio-y-cultura/20261020/dentro-mente-dali-fascinacion-freud-convirtio-miedos-deseos-arte-135535446)<br>
+12:54 [Esprint de los consulados para cumplir con el Supremo: Un tercio ha subido "total o parcialmente" datos sobre la 'ley de nietos'](https://www.elperiodico.com/es/internacional/20261020/numero-consulados-datos-exiliados-ley-de-nietos-supremo-voto-135535767)<br>
+12:52 [Jaime Lorente se estrena como director: «El cine es violento por naturaleza: te obliga a mirar cosas»](https://www.elperiodico.com/es/ocio-y-cultura/20261020/jaime-lorente-director-cine-135535552)<br>
+12:50 [Una investigación sobre el saqueo masivo de conocimiento para alimentar la IA gana el Premio Anagrama de Ensayo](https://www.elperiodico.com/es/ocio-y-cultura/20261020/premio-anagrama-ensayo-xavier-nueno-ia-robo-135528734)<br>
+12:41 [Carmen Lomana revela cómo está Roca Rey tras su ruptura con Tana Rivera: "Asustado"](https://www.elperiodico.com/es/gente/20261020/carmen-lomana-revela-roca-rey-135534368)<br>
+12:26 [Más depresión, más alcohol y más obesidad: la valoración del estado de salud de los españoles empeora](https://www.elperiodico.com/es/sanidad/20261020/depresion-alcohol-obesidad-valoracion-salud-espanoles-empeora-135530844)<br>
+11:46 [Revolut sufre una caída generalizada de sus servicios de pago por un fallo en Google Cloud](https://www.elperiodico.com/es/economia/20261020/revolut-sufre-caida-servicios-espana-135532207)<br>
+11:32 [Los inquilinos pueden reparar averías y descontar el coste del alquiler gracias a la nueva normativa de vivienda](https://www.elperiodico.com/es/economia/20261020/nueva-normativa-vivienda-permite-inquilinos-autorreparaciones-descontar-alquiler-135314523)<br>
+11:31 [Detenidos en Tarragona y Barcelona dos yihadistas en un "severo proceso de radicalización"](https://www.elperiodico.com/es/sucesos/20261020/detenidos-tarragona-barcelona-yihadistas-severo-135531376)<br>
+11:11 [El viaje del papa León XIV a España costó 29,3 millones de euros y generó un impacto económico de 140](https://www.elperiodico.com/es/sociedad/20261020/viaje-papa-espana-impacto-economico-140millones-135529215)<br>
+10:58 [La gran banca española afronta la tormenta de bonos con 533.000 millones en deuda pública](https://www.elperiodico.com/es/economia/20261020/gran-banca-espanola-afronta-tormenta-135530350)<br>
+10:57 [La costa de Sídney se llena de esculturas contra la violencia machista y en recuerdo de las víctimas de Bondi](https://www.elperiodico.com/es/fotos/internacional/costa-sidney-llena-esculturas-violencia-machista-recuerdo-victimas-bondi-fotos-135530163)<br>
+10:10 [Infusión intratecal: así funciona la bomba que permite aliviar el dolor oncológico con menos medicación](https://www.elperiodico.com/es/salud/20261020/infusion-intratecal-funciona-bomba-permite-mejorar-dolor-oncologico-135528205)<br>
+09:41 [Este es el champú anticaída favorito de los hombres para frenar la caída del pelo (y huele de maravilla)](https://www.elperiodico.com/es/shopping/20261020/champu-anticaida-favorito-hombres-frenar-135526606)<br>
 09:23 [Así aprendimos a luchar contra el barro en l'Horta Sud (Valencia): cuando el agua se va empieza otra pesadilla invisible](https://www.elperiodico.com/es/sociedad/20261020/aprendimos-luchar-barro-lhorta-sud-valencia-135526114)<br>
 09:20 [Precio del petróleo hoy, 20 de octubre por la Guerra en Irán: consulta el precio del barril de Brent](https://www.elperiodico.com/es/economia/20261020/precio-petroleo-hoy-20-octubre-dv-135524863)<br>
 09:16 [Dana Adam: triple Es-Alert preventivo y pueblos confinados, balance de gestión dos años después de la lección de la gran riada](https://www.elperiodico.com/es/sociedad/20261020/dana-adam-triple-alert-preventivo-135525871)<br>
@@ -33,3 +81,4 @@ Previous day: [2026-10-19](./data/2026-10-19.md)
 06:00 [Mathieu Bélisle, ensayista: "Para conocer de veras cuán necesaria es la esperanza, hace falta haberla perdido antes"](https://www.elperiodico.com/es/ser-feliz/20261020/mathieu-belisle-ensayista-conocer-veras-135486447)<br>
 06:00 [VÍDEO | "Añoro la época de las 'tops'. Claudia Schiffer era insustituible": Esther Garcia Capdevila, directora de desfiles como los de la 080, repasa sus 5 momentos 'wow'](https://www.elperiodico.com/es/gente/20261020/video-esther-garcia-capdevila-claudia-schiffer-dior-080-desfiles-mejores-momentos-trayectoria-135374383)<br>
 06:00 [De Madonna a Almodóvar: los 7 desfiles que darán que hablar en la 080 Barcelona Fashion que empieza hoy](https://www.elperiodico.com/es/gente/20261020/080-barcelona-fashion-2026-siete-desfiles-daran-que-hablar-madonna-almodovar-dominnico-custo-nouchi-135365147)<br>
+05:30 [El Algarve donde el verano parece durar un poco más](https://www.elperiodico.com/es/vida-y-estilo/20261020/algarve-verano-parece-durar-bc-135522993)<br>
