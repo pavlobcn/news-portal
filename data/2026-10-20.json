@@ -1,5 +1,59 @@
 [
   {
+    "title": "La portada de EL PERIÓDICO del 21 de octubre de 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20261020/portada-periodico-21-octubre-2026-135565209",
+    "pubDate": "2026-10-20 23:56:19",
+    "category": "",
+    "description": "",
+    "topic": "portada de EL PERIÓDICO",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "The Strokes siguen siendo The Strokes: guitarras endemoniadas y canciones que electrocutan en el Palau Sant Jordi",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261020/dame-una-url-the-strokes-concierto-palau-sant-jordi-barcelona-2026-135565115",
+    "pubDate": "2026-10-20 23:49:08",
+    "category": "",
+    "description": "<h2>El grupo neoyorquino ofreció un concierto rotundo en el que presentó su último álbum, ‘Reality awaits’, aunque se fortificó en las canciones del primero, ‘Is this it’, que ha cumplido 25 años</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Зеленський: Система передачі даних про балістику \"тепер працює\"",
+    "link": "https://ua.korrespondent.net/ukraine/4921930-zelenskyi-systema-peredachi-danykh-pro-balistyku-teper-pratsuiie",
+    "pubDate": "2026-10-20 23:45:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/0.jpg\">Глава держави подякував США за те, що раннє попередження щодо російських балістичних ракет зараз працює.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Flick acepta la primera derrota: \"El PSG ha demostrado que es mejor equipo que nosotros\"",
+    "link": "https://www.elperiodico.com/es/deportes/20261020/psg-barcelona-champions-contracronica-135560871",
+    "pubDate": "2026-10-20 23:25:50",
+    "category": "",
+    "description": "<h2 class=\"item\">El técnico alemán admite la superioridad del campeón de Europa en un duelo en que brillaron Joan Garcia y Xavi Espart y flojeó Lamine Yamal, pese a marcar un golazo</h2><h2 class=\"item\">La crónica: <a href=\"https://www.elperiodico.com/es/deportes/20261020/barca-cae-engullido-centrifugadora-psg-135560918\">El Barça cae engullido por la centrifugadora del PSG (4-2)</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Liverpool despierta a tiempo y deja sin premio al Villarreal",
+    "link": "https://www.elperiodico.com/es/deportes/20261020/liverpool-despierta-tiempo-deja-premio-135564750",
+    "pubDate": "2026-10-20 23:25:41",
+    "category": "",
+    "description": "<h2 class=\"item\">El submarino amarillo se puso con un 0-2 a la media hora de juego, pero acabó sucumbiendo en Anfield. </h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Росія відновила експорт дизеля - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4921928-rosiia-vidnovyla-eksport-dyzelia-zmi",
+    "pubDate": "2026-10-20 23:20:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/0.jpg\">Щонайменше два танкери останніми днями вирушили до Туреччини та Бразилії, які є найбільшими покупцями російського дизельного пального з 2023 року.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
     "title": "Llanto por el Barça roto, por Juan Cruz Ruiz",
     "link": "https://www.elperiodico.com/es/deportes/20261020/llanto-barca-roto-juan-cruz-135564301",
     "pubDate": "2026-10-20 23:14:35",
@@ -60,6 +114,15 @@
     "category": "Новини боксу",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/0.jpg\">Американський спортивний оглядач Кен Гісснер висловив думку американської спортивної спільноти щодо наступних суперників для колишнього абсолютного чемпіона Олександра Усика.",
     "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Переговори в Норвегії. Мірні пропозиції для Росії",
+    "link": "https://ua.korrespondent.net/ukraine/4921932-perehovory-v-norvehii-mirni-propozytsii-dlia-rosii",
+    "pubDate": "2026-10-20 22:30:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/0.jpg\">Український президент наголосив, що американська сторона підтвердила готовність надати України надійні безпекові гарантії.",
+    "topic": "політика",
     "topic_match_probability": 100
   },
   {
