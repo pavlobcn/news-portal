@@ -1,5 +1,104 @@
 [
   {
+    "title": "Llanto por el Barça roto, por Juan Cruz Ruiz",
+    "link": "https://www.elperiodico.com/es/deportes/20261020/llanto-barca-roto-juan-cruz-135564301",
+    "pubDate": "2026-10-20 23:14:35",
+    "category": "",
+    "description": "<h2 class=\"item\">LA CRÓNICA: <a href=\"https://www.elperiodico.com/es/deportes/20261020/barca-cae-engullido-centrifugadora-psg-135560918\" target=\"_blank\">El Barça cae engullido por la centrifugadora del PSG</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "De Patti Smith a la eternidad: la Premio Princesa deja al público en pie después de una hora de poesía, rock y comunidad",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261020/patti-smith-eternidad-premio-princesa-135564381",
+    "pubDate": "2026-10-20 23:07:41",
+    "category": "",
+    "description": "<h2>La cantante, acompañada por un cuarteto con sus dos hijos, Jackson y Jesse Paris, firma en Gijón una actuación soberbia a sus 79 años, marcada por los homenajes a Arthur Rimbaud, Jim Morrison, Fred Sonic Smith y los 50 años de su primer concierto en España</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Barça cae engullido por la centrifugadora del PSG",
+    "link": "https://www.elperiodico.com/es/deportes/20261020/barca-cae-engullido-centrifugadora-psg-135560918",
+    "pubDate": "2026-10-20 23:00:19",
+    "category": "",
+    "description": "<h2>Los azulgranas sufren la primera derrota tras empatar con sendos golazos de Espart y Lamine Yamal, pero no resistieron el arreón final del cuadro francés, que encontró el acierto que no tuvo en el primer tiempo</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Lluís Puig regresará este miércoles a Catalunya nueve años después del referéndum del 1-O",
+    "link": "https://www.elperiodico.com/es/politica/20261020/lluis-puig-regresa-cataluna-espana-amnistia-135132641",
+    "pubDate": "2026-10-20 22:56:47",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20261007/comin-puig-volveran-catalunya-esperar-135101437\">Comín y Puig volverán a Catalunya sin esperar a Puigdemont para reservarle un \"regreso institucional\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261006/puigdemont-amnistia-regreso-espana-135069141\">Puigdemont celebra la amnistía como \"una derrota del Estado\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261006/juez-llarena-aplica-amnistia-puigdemont-135055035\">El juez Llarena levanta la orden de arresto nacional a Puigdemont, Comín y Puig</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Julián Álvarez renace para que el Atlético rescate un empate en Stuttgart",
+    "link": "https://www.elperiodico.com/es/deportes/20261020/stuttgart-atletico-champions-goles-resultado-resumen-135564079",
+    "pubDate": "2026-10-20 22:53:02",
+    "category": "",
+    "description": "<h2>El argentino marca su primer gol tras seis meses de sequía, en un mal partido de los colchoneros, que acabaron con diez por expulsión de Hjulmand</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "\"Подивимося, що скаже Путін\" - Зеленський анонсував візит Віткоффа у РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4921926-podyvymosia-scho-skazhe-putin-zelenskyi-anonsuvav-vizyt-vitkoffa-u-rf",
+    "pubDate": "2026-10-20 22:49:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/0.jpg\">Американські перемовники після зустрічі з українським лідером повезуть в Росію пропозиції щодо гарантій безпеки.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "У США не бачать сенсу в третьому бою Усика з Дюбуа: Ф’юрі теж не варіант",
+    "link": "https://ua.korrespondent.net/sport/boks/4921924-u-ssha-ne-bachat-sensu-v-tretomu-boui-usyka-z-duibua-fuiri-tezh-ne-variant",
+    "pubDate": "2026-10-20 22:40:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/0.jpg\">Американський спортивний оглядач Кен Гісснер висловив думку американської спортивної спільноти щодо наступних суперників для колишнього абсолютного чемпіона Олександра Усика.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Трамп: Україна мусить захотіти укласти угоду",
+    "link": "https://ua.korrespondent.net/ukraine/4921921-tramp-ukraina-musyt-zakhotity-uklasty-uhodu",
+    "pubDate": "2026-10-20 22:23:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/0.jpg\">Глава Білого дома видав чергову порцію заяв про російсько-українську війну, стверджуючи, що Київ нібито у гіршій ситуації, ніж Москва, і без угоди справа для України буде ще гіршою.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El calvario de trece viajeros por la presunta estafa de una agencia de Banyoles: \"Tardamos 32 horas en volver a casa\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261020/tardamos-32-horas-volver-casa-estafa-agencia-banyoles-135561557",
+    "pubDate": "2026-10-20 22:20:31",
+    "category": "",
+    "description": "<h2 class=\"item\">Un grupo de trece personas tuvo que cruzar Marruecos para coger otro avión, mientras otros clientes denuncian haber pagado por regresar de vacaciones o por viajes que no han podido realizar</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261020/investigada-una-agencia-de-viajes-banyoles-estafa-135561316\">Los Mossos investigan una agencia de viajes de Banyoles por una posible estafa a varios clientes</a></h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los Mossos investigan una agencia de viajes de Banyoles por una posible estafa a varios clientes",
+    "link": "https://www.elperiodico.com/es/sociedad/20261020/investigada-una-agencia-de-viajes-banyoles-estafa-135561316",
+    "pubDate": "2026-10-20 22:18:42",
+    "category": "",
+    "description": "<h2 class=\"item\">El cuerpo policial ha recibido tres denuncias por irregularidades en reservas internacionales y varios afectados relatan que se han quedado sin billetes de vuelta o han perdido el dinero de sus vacaciones</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260923/detenida-figueres-responsable-agencia-viajes-escala-estafa-dos-millones-134612167\">Detenida en Figueres la responsable de la agencia de L’Escala investigada por estafar más de dos millones en viajes</a></h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Збірна України з футзалу розпочала відбір на ЧС-2028 з розгрому Естонії",
+    "link": "https://ua.korrespondent.net/sport/4921919-zbirna-ukrainy-z-futzalu-rozpochala-vidbir-na-chs-2028-z-rozghromu-estonii",
+    "pubDate": "2026-10-20 22:09:00",
+    "category": "Новини спорту",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/0.jpg\">Українські футзалісти здобули розгромну перемогу в першому матчі кваліфікації на чемпіонат світу-2026.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Trump acusa a España de quedarse de brazos cruzados ante los migrantes que \"se abalanzaron\" contra Ceuta",
     "link": "https://www.elperiodico.com/es/internacional/20261020/trump-acusa-espana-quedarse-brazos-135562729",
     "pubDate": "2026-10-20 22:03:37",
