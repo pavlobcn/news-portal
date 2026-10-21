@@ -1,8 +1,9 @@
-# News for 2026-10-21 20:57
+# News for 2026-10-21 22:43
 
 Previous day: [2026-10-20](./data/2026-10-20.md)
 
 ## ua.korrespondent.net
+21:44 [Дрон РФ спалив евакуаційне авто на Донеччині](https://ua.korrespondent.net/ukraine/4922256-dron-rf-spalyv-evakuatsiine-avto-na-donechchyni)<br>
 19:49 [Росіяни вдарили по центру Слов’янська](https://ua.korrespondent.net/ukraine/4922233-rosiiany-vdaryly-po-tsentru-slovianska)<br>
 19:21 [Укренерго прогнозує обмеження на четвер](https://ua.korrespondent.net/ukraine/4922227-ukrenerho-prohnozuie-obmezhennia-na-chetver)<br>
 19:03 [Укрзалізниця запускає три нових поїзди до Польщі](https://ua.korrespondent.net/business/companies/4922223-ukrzaliznytsia-zapuskaie-try-novykh-poizdy-do-polschi)<br>
@@ -50,6 +51,10 @@ Previous day: [2026-10-20](./data/2026-10-20.md)
 01:10 [El Clásico cambia de sede](https://as.com/baloncesto/mas_baloncesto/el-clasico-de-la-liga-u-cambia-de-sede-f202610-n/)<br>
 
 ## www.elperiodico.com
+22:09 [La Universitat de Barcelona cierra sus conexiones a internet por la alerta de ciberseguridad PHP](https://www.elperiodico.com/es/sociedad/20261021/universitat-barcelona-cierra-conexiones-internet-ciberseguridad-php-php-135603633)<br>
+21:33 [El nuevo parte médico del Papa confirma que su cáncer estaba localizado y León XIV no necesita más tratamiento](https://www.elperiodico.com/es/sociedad/20261021/nuevo-parte-medico-papa-confirma-135602965)<br>
+21:30 [Lucía Galán, pediatra, sobre una enfermedad que afecta a millones de españoles: "La migraña no es un simple dolor de cabeza, es una enfermedad neurológica"](https://www.elperiodico.com/es/salud/20261021/migrana-tratamiento-dolor-cabeza-pediatra-lucia-galan-dv-et-134797833)<br>
+21:25 [Elegancia sensual, baño lencero y alta costura pop: la segunda jornada de la 080 se rinde al talento de Guillermina Baeza, Nathalie Chandler y Dominnico](https://www.elperiodico.com/es/gente/20261021/dominnico-guillermina-baeza-nathalie-chandler-080-barcelona-fashion-week-135596878)<br>
 20:40 [Buscan a un niño de 9 años desaparecido en Ciudad Real](https://www.elperiodico.com/es/sucesos/20261021/buscan-nino-9-anos-desaparecido-135602372)<br>
 20:34 [Análisis del iPhone 18 Pro: la apertura variable cambia la manera de mirar](https://www.elperiodico.com/es/tecnologia/20261021/analisis-iphone-18-pro-caracteristicas-135601443)<br>
 20:10 [Meta afronta una sanción de 25.000 millones de dólares en EEUU por sus prácticas en Facebook](https://www.elperiodico.com/es/economia/20261021/meta-afronta-sancion-25-000-135601606)<br>
