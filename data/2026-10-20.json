@@ -540,6 +540,15 @@
     "topic_match_probability": 100
   },
   {
+    "title": "Вторгнення Росії в Україну. Онлайн",
+    "link": "https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain",
+    "pubDate": "2026-10-20 19:12:00",
+    "category": "Новини політики",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/2748609.jpg\">Володимир Путін почав повномасштабну війну проти України 24 лютого 2022 року. Не зумівши \"взяти Київ за три дні\", він сконцентрувався на захопленні Донбасу та південних областей України.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "El Gobierno confirma que aprobará la subida salarial del 2027 para los funcionarios antes de las elecciones",
     "link": "https://www.elperiodico.com/es/economia/20261020/funcionarios-gobierno-confirma-aprobara-subida-salarial-2027-antes-elecciones-generales-135557770",
     "pubDate": "2026-10-20 19:10:46",
@@ -979,6 +988,15 @@
     "description": "<h2 class=\"item\">Las cuentas municipales priorizan la vivienda, el mantenimiento de la vía pública, la atención social y la modernización de la ciudad</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tarragona/20261019/reus-congelara-impuestos-mayoria-tasas-2027-presupuestos-135498723\">Reus congelará los impuestos y la mayoría de tasas en 2027 y ampliará las bonificaciones para movilizar viviendas vacías</a></h2>",
     "topic": "політика",
     "topic_match_probability": 90
+  },
+  {
+    "title": "Війна на Близькому Сході. Онлайн",
+    "link": "https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain",
+    "pubDate": "2026-10-20 17:05:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473659.jpg\">США та Ізраїль проводять масштабну операцію проти Ірану. Тегеран у відповідь атакує військові об'єкти США майже у всіх країнах Перської затоки.",
+    "topic": "політика",
+    "topic_match_probability": 95
   },
   {
     "title": "Cinesa inaugura dos nuevas salas IMAX en Terrassa y Madrid tras el éxito de 'La odisea'",
