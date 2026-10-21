@@ -1,8 +1,9 @@
-# News for 2026-10-21 16:47
+# News for 2026-10-21 19:20
 
 Previous day: [2026-10-20](./data/2026-10-20.md)
 
 ## ua.korrespondent.net
+19:03 [Укрзалізниця запускає три нових поїзди до Польщі](https://ua.korrespondent.net/business/companies/4922223-ukrzaliznytsia-zapuskaie-try-novykh-poizdy-do-polschi)<br>
 15:29 [Росіяни атакували торговий центр в Рівному](https://ua.korrespondent.net/ukraine/4922168-rosiiany-atakuvaly-torhovyi-tsentr-v-rivnomu)<br>
 14:52 [Росія втратила винищувач Су-30 під Калінінградом](https://ua.korrespondent.net/world/russia/4922155-rosiia-vtratyla-vynyschuvach-su-30-pid-kalininhradom)<br>
 14:49 [Росія атакувала газовидобувний об’єкт на Харківщині](https://ua.korrespondent.net/ukraine/4922153-rosiia-atakuvala-hazovydobuvnyi-obiekt-na-kharkivschyni)<br>
@@ -47,6 +48,25 @@ Previous day: [2026-10-20](./data/2026-10-20.md)
 01:10 [El Clásico cambia de sede](https://as.com/baloncesto/mas_baloncesto/el-clasico-de-la-liga-u-cambia-de-sede-f202610-n/)<br>
 
 ## www.elperiodico.com
+19:11 [Julian Barnes acerca la literatura a los estudiantes asturianos: "Encontraba en los libros más verdad que en la vida que estaba viviendo"](https://www.elperiodico.com/es/sociedad/20261021/julian-barnes-acerca-literatura-estudiantes-135599546)<br>
+19:07 ['Les veles s'inflaran' recupera los 'hits' de  Dagom Dagom: "Es mentira que los musicales en catalán no son comerciales"](https://www.elperiodico.com/es/ocio-y-cultura/20261021/les-veles-sinflaran-recupera-hits-dagoll-dagom-135586265)<br>
+19:01 [La justicia confirma el despido de un jefe que humillaba a sus trabajadores burlándose de su físico y su edad y hacía comentarios sobre sus parejas: “No te da derecho a humillar”](https://www.elperiodico.com/es/economia/20261021/despido-jefe-humillaba-trabajadores-dv-et-135596334)<br>
+19:01 [Despiden a una peluquera días después de coger la baja médica y tras 16 años en la empresa: el abogado Juanma Lorente explica qué puede reclamar](https://www.elperiodico.com/es/economia/20261021/despido-peluquera-baja-medica-16-anos-empresa-abogado-juanma-lorente-dv-et-135596741)<br>
+19:01 [Despiden a una peluquera días después de coger la baja médica y tras 16 años en la empresa: el abogado Juanma Lorente explica qué puede reclamar](https://www.elperiodico.com/es/economia/20261021/despiden-peluquera-dias-despues-coger-135596648)<br>
+18:45 [¿El perro de tu vecino ladra todo el día? La Ley de Propiedad Horizontal te puede ayudar](https://www.elperiodico.com/es/vivienda/20261021/perro-ladra-ley-propiedad-horizontal-condena-ruido-dv-127018860)<br>
+18:41 [7 aeropuertos del sur de Italia registran problemas de escasez de combustible por los bloqueos de los transportistas](https://www.elperiodico.com/es/internacional/20261021/7-aeropuertos-sur-italia-afectados-escasez-combustible-protestas-bloqueos-transportistas-135597514)<br>
+18:35 [Dos brechas de ciberseguridad detectadas con IA exponen hasta un 70% de las páginas de Internet](https://www.elperiodico.com/es/tecnologia/20261021/errores-informaticos-detectados-ia-exponen-ciberseguridad-internet-webs-gobiernos-trafico-135596052)<br>
+18:32 [Cómo conocer a alguien analizando su basura](https://www.elperiodico.com/es/opinion/20261021/conocer-alguien-analizando-basura-articulo-miqui-otero-135559583)<br>
+18:24 [Crítica de 'Un amor posible': la película confirma a Lee Chang-dong como uno de los grandes cineastas de nuestro tiempo](https://www.elperiodico.com/es/ocio-y-cultura/20261021/critica-un-amor-posible-pelicula-lee-chang-dong-grandes-cineastas-nuestro-tiempo-135596249)<br>
+18:06 [Puig recupera velocidad de crecimiento e ingresa 3.700 millones de euros hasta septiembre, un 4% más](https://www.elperiodico.com/es/economia/20261021/puig-resultados-tercer-trimestre-2026-ingresa-millones-septiembre-135596062)<br>
+17:56 [Detenidos seis menores por el crimen de Burgos que una publicación en redes atribuyó falsamente a un manresano](https://www.elperiodico.com/es/sociedad/20261021/detenidos-seis-menores-crimen-burgos-135595604)<br>
+17:54 [Demos un par de vueltas al Es-Alert](https://www.elperiodico.com/es/opinion/20261021/demos-par-vueltas-alert-articulo-pilar-garces-135588188)<br>
+17:41 [J. A. Bayona y Javier Bardem se alían para rodar un documental sobre el barcelonés Néstor Almendros](https://www.elperiodico.com/es/ocio-y-cultura/20261021/j-bayona-javier-bardem-ruedan-135594731)<br>
+17:32 [Badalona encenderá su gran árbol de Navidad el 21 de noviembre para inaugurar las fiestas](https://www.elperiodico.com/es/barcelona/20261021/badalona-encendera-gran-arbol-navidad-el-21-de-noviembre-para-inaugurar-las-fiestas-135593885)<br>
+17:24 [EN IMÁGENES | La segunda jornada de la 080 Barcelona Fashion Week](https://www.elperiodico.com/es/fotos/ocio-y-cultura/imagenes-segunda-jornada-080-barcelona-135594176)<br>
+17:06 [León XIV vuelve a sorprender: recorre la plaza de San Pedro en papamóvil ocho días después de operarse del pulmón](https://www.elperiodico.com/es/sociedad/20261021/papa-leon-xiv-papamovil-retoma-audiencias-ocho-dias-tras-operacion-tumor-pulmon-135591789)<br>
+17:02 [Un estudio confirma que Hispania ya era un mosaico genético de pueblos hace 2.000 años, con influencias romanas, del norte de África y visigodas](https://www.elperiodico.com/es/sociedad/20261021/estudio-genetico-antigua-hispania-mezcla-genetica-135588488)<br>
+16:52 [Maxi Iglesias, según su entorno: "Estoy viviendo una de las épocas más felices de mi vida"](https://www.elperiodico.com/es/gente/20261021/maxi-iglesias-aitana-sanchez-gijon-beso-mamarazzis-135580492)<br>
 16:40 [Muere Igor Arzuaga a los 50 años, músico vasco y artista multidisciplinar](https://www.elperiodico.com/es/ocio-y-cultura/20261021/muere-igor-arzuaga-50-anos-135590651)<br>
 16:11 [La brasileña Anna Bella Geiger, Premio Velázquez de las Artes Plásticas 2026](https://www.elperiodico.com/es/ocio-y-cultura/20261021/brasilena-anna-bella-geiger-premio-135588431)<br>
 15:29 [Qué sabemos (y qué no) de los efectos del Superniño en Catalunya: las incógnitas sobre las lluvias, el calor extremo y otros desastres climáticos](https://www.elperiodico.com/es/sociedad/20261021/efectos-supernino-cataluna-lluvias-calor-extremos-climaticos-135585468)<br>
