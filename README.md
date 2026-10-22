@@ -1,8 +1,11 @@
-# News for 2026-10-22 21:31
+# News for 2026-10-22 22:46
 
 Previous day: [2026-10-21](./data/2026-10-21.md)
 
 ## ua.korrespondent.net
+21:57 [Вірус, який вражав худобу, виявили у людини у Франції](https://ua.korrespondent.net/world/4922573-virus-yakyi-vrazhav-khudobu-vyiavyly-u-luidyny-u-frantsii)<br>
+21:05 [Удар РФ по ринку в Лозовій: зросла кількість поранених](https://ua.korrespondent.net/ukraine/4922586-udar-rf-po-rynku-v-lozovii-zrosla-kilkist-poranenykh)<br>
+19:34 ["Флеш"показав нову ракету РФ Філін](https://ua.korrespondent.net/ukraine/4922569-fleshpokazav-novu-raketu-rf-filin)<br>
 18:00 [Укренерго попередило про відключення 23 жовтня](https://ua.korrespondent.net/ukraine/4922545-ukrenerho-poperedylo-pro-vidkluichennia-23-zhovtnia)<br>
 17:42 [Свята 23 жовтня 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4922529-sviata-23-zhovtnia-2026-roku-istoriia-tradytsii)<br>
 17:05 [В Антарктиді шукають людей, які рахуватимуть пінгвінів](https://ua.korrespondent.net/world/4922517-v-antarktydi-shukauit-luidei-yaki-rakhuvatymut-pinhviniv)<br>
@@ -77,6 +80,8 @@ Previous day: [2026-10-21](./data/2026-10-21.md)
 02:24 [Нафта з РФ обвалилася до мінімуму за 1,5 місяці](https://ua.korrespondent.net/world/4922286-nafta-z-rf-obvalylasia-do-minimumu-za-15-misiatsi)<br>
 
 ## as.com
+22:26 [Reacción colosal del Madrid](https://as.com/baloncesto/euroliga/reaccion-colosal-del-madrid-f202610-n/)<br>
+22:12 [El Baskonia da la cara pero suma una nueva derrota en Atenas](https://as.com/baloncesto/el-baskonia-da-la-cara-pero-suma-una-nueva-derrota-en-atenas-f202610-n/)<br>
 21:28 [Maccabi - Real Madrid, en directo: Euroliga 2026-27 en vivo hoy](https://as.com/baloncesto/maccabi-real-madrid-en-directo-euroliga-2026-27-en-vivo-hoy-f202610-n/)<br>
 21:27 [Armani Milán - Barcelona, en directo: Euroliga 2026-27 en vivo hoy](https://as.com/baloncesto/euroliga/armani-milan-barcelona-en-directo-euroliga-2026-27-en-vivo-hoy-f202610-d/)<br>
 19:46 [El Olympiacos no para: ahora ficha a John Konchar](https://as.com/baloncesto/euroliga/el-olympiacos-no-para-ahora-ficha-a-john-konchar-f202610-n/)<br>
@@ -88,6 +93,11 @@ Previous day: [2026-10-21](./data/2026-10-21.md)
 04:14 [La fina línea de Kevin Punter](https://as.com/baloncesto/euroliga/la-fina-linea-de-kevin-punter-f202610-n/)<br>
 
 ## www.elperiodico.com
+22:32 [El Nasdaq se desploma un 3% ante las dudas sobre la rentabilidad de la inteligencia artificial, en su peor sesión desde junio](https://www.elperiodico.com/es/economia/20261022/nasdaq-desploma-3-dudas-rentabilidad-135652333)<br>
+22:23 [Moderna se desploma un 24% tras filtraciones no verificadas sobre su vacuna contra el melanoma](https://www.elperiodico.com/es/economia/20261022/moderna-desploma-24-filtraciones-verificadas-135651963)<br>
+22:12 [Catalunya libera 800 tortugas mediterráneas en los parques naturales de Els Ports y la Serra de Montsant (Tarragona)](https://www.elperiodico.com/es/medio-ambiente/20261022/catalunya-libera-800-tortugas-en-els-ports-y-la-serra-de-montsant-135651018)<br>
+22:06 [El ministerio de Sanidad asegura a los psiquiatras que no se eliminarán los ingresos forzosos](https://www.elperiodico.com/es/ser-feliz/20261022/ministerio-sanidad-asegura-psiquiatras-eliminaran-135650830)<br>
+22:06 [Una princesa en el móvil: el afán de la multitud por grabar y fotografiar a las puertas del auditorio a la familia real](https://www.elperiodico.com/es/sociedad/20261022/princesa-movil-afan-multitud-grabar-135651672)<br>
 21:29 [Barclays recortará 5.000 empleos por la irrupción de la inteligencia artificial pese a elevar un 17% su beneficio hasta septiembre](https://www.elperiodico.com/es/economia/20261022/barclays-recortara-5-000-empleos-135650866)<br>
 21:23 [El modernismo catalán reivindica su lugar en Europa con una gran exposición en Múnich](https://www.elperiodico.com/es/ocio-y-cultura/20261022/modernismo-catalan-reivindica-lugar-europa-135583931)<br>
 21:17 [PLEC, la otra fiesta de la moda de la 080 Barcelona Fashion más allá de la pasarela: música, arte, pódcasts y mucho talento local](https://www.elperiodico.com/es/gente/20261022/plec-barcelona-festival-moda-arte-musica-tinglados-port-vell-135614739)<br>
