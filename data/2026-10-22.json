@@ -1,5 +1,338 @@
 [
   {
+    "title": "Дрони атакували військовий об’єкт у Підмосков’ї",
+    "link": "https://ua.korrespondent.net/world/russia/4922310-drony-atakuvaly-viiskovyi-obiekt-u-pidmoskovi",
+    "pubDate": "2026-10-22 07:18:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4606360.jpg\">У Серпухові під Москвою під удар потрапив військовий арсенал, який займається ремонтом російських систем ППО.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Путін - \"гуманіст\"? Реакція на заяву Віткоффа",
+    "link": "https://ua.korrespondent.net/world/4922275-putin-humanist-reaktsiia-na-zaiavu-vitkoffa",
+    "pubDate": "2026-10-22 07:15:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4606132.jpg\">Слова Віткоффа викликали миттєву та жорстку реакцію серед його ж однопартійців-республіканців у Сенаті США.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Tráfico y Rodalies en Barcelona y Catalunya, en directo | Colas kilométricas por un accidente en la Ronda Litoral y retrasos en la R1",
+    "link": "https://www.elperiodico.com/es/barcelona/20261022/trafico-barcelona-catalunya-hoy-carreteras-rodalies-ave-133938712",
+    "pubDate": "2026-10-22 07:12:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/barcelona/20260930/barcelona-redisenara-cuatro-grandes-accesos-aliviar-atascos-134836777\" target=\"_blank\">Barcelona rediseñará sus accesos por la Diagonal, la Gran Via y la Ronda Litoral para reducir atascos</a> </h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Vintage y cerveza: el Flea y el Barcelona Beer Fest inauguran un Otkorberfest con mercadillo",
+    "link": "https://www.elperiodico.com/es/que-hacer/planes/20261022/vintage-cerveza-flea-barcelona-beer-fest-otkorberfest-135598391",
+    "pubDate": "2026-10-22 07:00:19",
+    "category": "",
+    "description": "<h2 style=\"text-align: justify;\">Tras un octubre de trabajarte la barriga cervecera, dile adiós a las fiestas de la cerveza con un último eventazo: el Cheers, que llevará 30.000 asistentes al Moll Mestral</h2><h2 style=\"text-align: justify;\"><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20261020/ruta-supermercados-cocina-konbini-barcelona-moda-asiatica-135519741\" target=\"_blank\">Ruta por los supermercados con cocina 'konbini', nueva moda asiática en Barcelona</a></h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La subida de la luz desata una carrera entre empresas para firmar ‘megacontratos’ eléctricos como escudo frente a los altos precios",
+    "link": "https://www.elperiodico.com/es/economia/20261022/subida-luz-desata-carrera-empresas-contratos-electricidad-ppa-135596748",
+    "pubDate": "2026-10-22 07:00:16",
+    "category": "",
+    "description": "<h2 class=\"item\">Grandes consumidores de luz disparan en plena crisis la contratación de electricidad a largo plazo con plantas renovables ya en funcionamiento, y ya no sólo con proyectos en construcción, para tener un blindaje inmediato frente a las subidas de precios</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "OT: 25 años cruzando la pasarela",
+    "link": "https://www.elperiodico.com/es/tele/20261022/ot-25-anos-cruzando-pasarela-video-sergi-mas-135594834",
+    "pubDate": "2026-10-22 07:00:13",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Esto es lo que tendrías que pagar si rompes un radar de la DGT",
+    "link": "https://www.elperiodico.com/es/motor/20261022/lo-que-tendrias-pagar-si-rompes-radar-dgt-135491079",
+    "pubDate": "2026-10-22 07:00:10",
+    "category": "",
+    "description": "<h2>Se trata de un sofisticado aparato cuyo precio seguramente sea superior al que puedas imaginarte</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Alexander Seoane (LIN3S): “¿Y si pudieras saber si tu publicidad va a funcionar antes de gastar un solo euro?”",
+    "link": "https://www.elperiodico.com/es/tecnologia/20261022/alexander-seoane-lin3s-pudieras-publicidad-bc-135609244",
+    "pubDate": "2026-10-22 06:59:04",
+    "category": "",
+    "description": "<h2>El responsable de Data de LIN3S explica cómo la inteligencia artificial y la colaboración entre empresas pueden transformar la publicidad digital, reducir inversiones poco eficaces y ayudar a tomar mejores decisiones.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El tráfico y el transporte público, en directo",
+    "link": "https://www.elperiodico.com/es/trafico-y-transportes/20261022/trafico-transporte-publico-directo-cortes-134053870",
+    "pubDate": "2026-10-22 06:30:00",
+    "category": "",
+    "description": "",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Генштаб показав рекордні втрати окупантів за добу",
+    "link": "https://ua.korrespondent.net/ukraine/4922297-henshtab-pokazav-rekordni-vtraty-okupantiv-za-dobu",
+    "pubDate": "2026-10-22 06:20:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4606323.jpg\">Сили оборони знищили 2250 вояків армії РФ, а також три танки, 44 гармати, вісім бронемашин, три засоби ППО, сім НРК і 363 одиниць автомобільної техніки росіян.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Todo lo que quería saber y no se atrevió a preguntar sobre el final del Mundial de MotoGP",
+    "link": "https://www.elperiodico.com/es/deportes/20261022/queria-atrevio-preguntar-final-mundial-135607055",
+    "pubDate": "2026-10-22 06:10:36",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Amigos, dejen lo que esté haciendo y vean jugar al Como 1907 de Cesc, ¡que locura!",
+    "link": "https://www.elperiodico.com/es/deportes/20261022/amigos-dejen-haciendo-vean-jugar-135606900",
+    "pubDate": "2026-10-22 06:09:50",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Nacho Bañeras, filósofo: \"La enfermedad mental es, a veces, incapacidad para ser una persona productiva\"",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20261022/nacho-baneras-filosofo-enfermedad-mental-135089539",
+    "pubDate": "2026-10-22 06:01:23",
+    "category": "",
+    "description": "<h2 class=\"item\">\"Lo que nos da más miedo son nuestras propias fantasías; normalmente la realidad es mejor\"</h2><h2 class=\"item\">\"Dar más espacio a la vulnerabilidad nos permite ser más humildes\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La visita de Milei dota de más munición a la izquierda ante la incomodidad de Feijóo y los insultos de Abascal",
+    "link": "https://www.elperiodico.com/es/politica/20261022/visita-milei-dota-municion-izquierda-135601886",
+    "pubDate": "2026-10-22 06:01:21",
+    "category": "",
+    "description": "<h2>El paso de Javier Milei por España ha vuelto a poner de manifiesto las tensiones internas en la política nacional mientras el PP intenta mantener la distancia con el líder libertario</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Renfe y Ouigo, una liberalización imperfecta",
+    "link": "https://www.elperiodico.com/es/opinion/20261022/renfe-ouigo-liberalizacion-ferroviaria-talleres-cnmc-135602504",
+    "pubDate": "2026-10-22 06:01:21",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cornellà invertirá cerca de 30 millones de euros en la climatización de las escuelas públicas de la ciudad",
+    "link": "https://www.elperiodico.com/es/barcelona/20261022/cornella-invertira-cerca-30-millones-euros-climatizacion-escuelas-publicas-ciudad-135598282",
+    "pubDate": "2026-10-22 06:01:16",
+    "category": "",
+    "description": "<h2>La inversión prevista  busca adaptar las infraestructuras educativas ante las cada vez más frecuentes temperaturas extremas</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260528/calor-colegios-falta-climatizacion-126658982\" target=\"_blank\">Aulas a 35º: por qué los colegios protegen peor del calor que las granjas de pollos</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260519/presupuestos-govern-erc-escuelas-100-millones-climatizar-centenar-centros-130373617\" target=\"_blank\">El Govern y ERC pactan destinar 100 millones a la climatización de un centenar de centros educativos</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El TC rebate que invada competencias del Supremo con el rechazo del recurso del Defensor del Pueblo por la 'ley de nietos'",
+    "link": "https://www.elperiodico.com/es/politica/20261022/tc-rebate-invada-competencias-supremo-rechazar-recursos-ley-de-nietos-135599894",
+    "pubDate": "2026-10-22 06:01:15",
+    "category": "",
+    "description": "<h2 class=\"item\">El pleno defiende el carácter subsidiario del Constitucional, que le impide actuar cuando todavía pueden hacerlo los tribunales ordinarios</h2><h2 class=\"item\">El Supremo reprocha al tribunal de garantías utilizar una \"innecesaria grandilocuencia\" para ocultar que invade su ámbito competencial</h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "El amigo de Zapatero cobró 181.037 euros por conseguir que Delcy Rodríguez se reuniera con directivos de una empresa energética que había sido expropiada",
+    "link": "https://www.elperiodico.com/es/politica/20261022/amigo-zapatero-cobro-181-037-135600201",
+    "pubDate": "2026-10-22 06:01:15",
+    "category": "",
+    "description": "<h2>Julio Martínez Martínez aseguró haber hecho gestiones con la actual presidenta de Venezuela, quien según declaró este empresario llegó a reunirse con los exdueños de la mercantil Turbovén</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Woody Allen, un boxeador frustrado rueda en un Madrid otoñal: \"Amo tanto a Ali como a Bergman\"",
+    "link": "https://www.elperiodico.com/es/deportes/20261022/woody-allen-boxeador-frustrado-madrid-135596622",
+    "pubDate": "2026-10-22 06:01:05",
+    "category": "",
+    "description": "<h2>El cineasta neoyorquino, que heredó la pasión por el deporte de su padre, confiesa que \"me siento más a gusto ante un ring de boxeo que en un concierto\"</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Neinor ultima un acuerdo con DWS para construir 1.000 viviendas protegidas en alquiler",
+    "link": "https://www.elperiodico.com/es/economia/20261022/neinor-ultima-acuerdo-dws-construir-135597029",
+    "pubDate": "2026-10-22 06:01:05",
+    "category": "",
+    "description": "<h2>La promotora y el último fondo de la gestora de Deutsche Bank negocian el lanzamiento de un vehículo que aspira a invertir 50 millones de euros</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Diane Foley, madre del periodista decapitado por Estado Islámico: \"EEUU podría haberle salvado, pero decidió no hacerlo\"",
+    "link": "https://www.elperiodico.com/es/internacional/20261022/diane-foley-madre-periodista-decapitado-jim-foley-estado-islamico-135608492",
+    "pubDate": "2026-10-22 06:00:59",
+    "category": "",
+    "description": "<h2>La madre del periodista James Foley, decapitado ante las cámaras por Estado Islámico en 2014, hace balance del secuestro de su hijo y del abandono de la Administración Obama de los rehenes en su libro 'Madre Americana', coescrito con Colum McCann</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Studio Ghibli: emocionar al mundo desde la ecología, el pacifismo y la fantasía",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261022/studio-ghibli-mundo-ecologia-miyazaki-135594613",
+    "pubDate": "2026-10-22 06:00:58",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La influencia de Hayao Miyazaki en el cine contemporáneo, de Wes Anderson a su hijo Goro",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261022/influencia-hayao-miyazaki-cine-contemporaneo-135591647",
+    "pubDate": "2026-10-22 06:00:56",
+    "category": "",
+    "description": "<h2 style=\"text-align: justify;\">Muchos son los cineastas que reconocen el ascendiente del director de ‘El viaje de Chihiro’, desde su hijo Goro hasta cineastas como Spielberg, Lasseter, Guillermo del Toro y Wes Anderson</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Seis escapadas monumentales este otoño en Catalunya",
+    "link": "https://www.elperiodico.com/es/que-hacer/20261022/seis-escapadas-monumentales-otono-catalunya-135544648",
+    "pubDate": "2026-10-22 06:00:55",
+    "category": "",
+    "description": "",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Encuesta de las elecciones generales en Lleida: Empate técnico entre Junts, ERC y PSC en la provincia",
+    "link": "https://www.elperiodico.com/es/politica/20261022/encuesta-elecciones-generales-lleida-sondeo-135593187",
+    "pubDate": "2026-10-22 06:00:55",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20261019/encuesta-elecciones-generales-barcelona-provincia-sondeo-135474532\" target=\"_blank\">Encuesta de las elecciones generales en Barcelona: El PSC ganaría en la provincia con ERC segunda</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261020/encuesta-elecciones-generales-tarragona-provincia-sondeo-135497427\" target=\"_blank\">Encuesta de las elecciones generales en Tarragona: ERC desbancaría al PSC como primera fuerza en la provincia</a></h2><h2><atarget=\"_blank\">Encuesta de las elecciones generales en Girona: El PSC y ERC se disputan la victoria en la provincia</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261017/encuestas-elecciones-generales-espana-sondeos-12274406\" target=\"_blank\">Encuestas de las elecciones generales en España: así están los sondeos</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261004/encuestas-elecciones-cataluna-sondeos-catalunya-124137879\" target=\"_blank\">Encuestas de las elecciones en Catalunya: así están los sondeos</a></h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20261016/encuestas-elecciones-estados-unidos-2026-sondeos-eeuu-129673684\" target=\"_blank\">Encuestas de las elecciones en Estados Unidos 2026: así están los sondeos sobre Trump y las 'midterm'</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Cerca de 50.000 trabajadores con discapacidad podrán anticipar su jubilación a los 56 años: \"Cada dolencia que entra en la lista es una alegría\"",
+    "link": "https://www.elperiodico.com/es/sanidad/20261022/trabajadores-discapacidad-espanoles-jubilacion-anticipada-enfermedades-alegria-lista-135014063",
+    "pubDate": "2026-10-22 06:00:46",
+    "category": "",
+    "description": "<h2 class=\"item\">Catorce patologías, como el párkinson, la espina bífida o la lesión medular de origen no traumáticos, se han incorporado al listado de enfermedades con acceso a este derecho</h2><h2 class=\"item\">El proceso para acceder a la prestación es largo y complejo, afirman las entidades: exige acreditar 15 años de cotización y presentar informes médicos rigurosos</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260127/son-nuevas-enfermedades-acogerse-jubilacion-anticipada-importante-apoyo-126144319\">Estas son las nuevas enfermedades que pueden acogerse a la jubilación anticipada: \"Es un importante apoyo\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Toni Comín, un político de 'siete vidas' que regresa a Catalunya con cuentas pendientes",
+    "link": "https://www.elperiodico.com/es/politica/20261022/toni-comin-regreso-cataluna-parlamento-europeo-denuncias-cuentas-pendientes-135539320",
+    "pubDate": "2026-10-22 06:00:42",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261022/toni-comin-regresa-cataluna-espana-amnistia-eurodiputado-congreso-madrid-junta-electoral-135132650\">Comín regresa a España y acude al Congreso para recoger su acta como eurodiputado</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261019/toni-comin-regreso-madrid-cataluna-amnistia-eurodiputado-135489588\">Los detalles del regreso de Toni Comín: una cita en Madrid y una caminata por la montaña hasta el Alt Empordà</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261019/llarena-acata-doctrina-tc-amnistia-puigdemont-135486157\">Llarena acata la doctrina del TC y confirma la retirada de la orden de arresto de Puigdemont, Comín y Puig</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Barcelona en movimiento: el día con más tráfico del año, los distritos más visitados y los destinos favoritos",
+    "link": "https://www.elperiodico.com/es/motor/20261022/barcelona-movimiento-trafico-2025-135489693",
+    "pubDate": "2026-10-22 06:00:39",
+    "category": "",
+    "description": "<h2>Un análisis de movilidad revela la velocidad media en las jornadas más atascadas de la capital catalana y los distritos con mayor afluencia</h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Toni Comín regresa a España y acude hoy al Congreso para recoger su acta como eurodiputado",
+    "link": "https://www.elperiodico.com/es/politica/20261022/toni-comin-regresa-cataluna-espana-amnistia-eurodiputado-congreso-madrid-junta-electoral-135132650",
+    "pubDate": "2026-10-22 06:00:38",
+    "category": "",
+    "description": "<h2 class=\"item\">Comín, un político de 'siete vidas' que regresa a Catalunya con cuentas pendientes</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261019/toni-comin-regreso-madrid-cataluna-amnistia-eurodiputado-135489588\">Los detalles del regreso de Toni Comín: una cita en Madrid y una caminata por la montaña hasta el Alt Empordà</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261019/llarena-acata-doctrina-tc-amnistia-puigdemont-135486157\">Llarena acata la doctrina del TC y confirma la retirada de la orden de arresto de Puigdemont, Comín y Puig</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Підсумки 21.10: Швидкий мир і обшуки у голови НБУ",
+    "link": "https://ua.korrespondent.net/ukraine/4922110-pidsumky-2110-shvydkyi-myr-i-obshuky-u-holovy-nbu",
+    "pubDate": "2026-10-22 05:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4606271.jpg\">Кремль і Білий дім заговорили про швидке завершення війни в Україні, Зеленський готовий до \"заморозки\"; У голови Нацбанку пройшли обшуки. Кореспондент.net виділяє головні події вчорашнього дня.",
+    "topic": "підсумки (за попередній день, наприклад)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Guerra Ucrania - Rusia, última hora en directo",
+    "link": "https://www.elperiodico.com/es/internacional/20261022/guerra-ucrania-rusia-ultima-hora-126605559",
+    "pubDate": "2026-10-22 05:40:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Directo GUERRA DE IRÁN | Última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Guerra de Irán, en directo",
+    "link": "https://www.elperiodico.com/es/internacional/20261022/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713",
+    "pubDate": "2026-10-22 05:39:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20260410/guerra-ucrania-rusia-ultima-hora-zelenski-trump-putin-directo-126605559\" >DIRECTO | Guerra Ucrania - Rusia, en directo: última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "'Tor', el caso que obsesiona a Carles Porta desde hace 30 años: el reportaje de TV3 que se ha convertido en radio, true crime, libro y ahora serie de ficción con Los Javis",
+    "link": "https://www.elperiodico.com/es/tele/yotele/20261022/tor-caso-obsesiona-carles-porta-desde-hace-30-anos-reportaje-tv3-convertido-radio-true-crime-libro-serie-ficcion-javis-135577429",
+    "pubDate": "2026-10-22 05:30:38",
+    "category": "",
+    "description": "<h2>El periodista lleva casi tres décadas regresando al crimen de Josep Montané, 'Sansa', y a la guerra por la propiedad de una montaña del Pirineo.</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El jefe antidroga de la Guardia Civil en Segovia, en prisión por narcotráfico: \"Vente a por el jamón que te tengo preparado\"",
+    "link": "https://www.elperiodico.com/es/sucesos/20261022/jefe-antidroga-civil-segovia-jamon-135608121",
+    "pubDate": "2026-10-22 05:00:52",
+    "category": "",
+    "description": "<h2>El subteniente Barbero llegó a vender cocaína personalmente, según la investigación: \"Me debes dos pelotas de jamón... A ver cuándo te sale de la polla pagármelo\", le reprochó a un narco</h2><h2>Los investigadores grabaron sus conversaciones con narcos. Cuando uno le anunció que iba a comprarse un Porsche, el oficial de la Guardia Civil se enfadó: \"¿No puedes ir en un 600? ¿En un coche normal...? Pasa un poco desapercibido, cabrón\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Гілларі Клінтон припустила наявність у Путіна компромата на Трампа",
+    "link": "https://ua.korrespondent.net/world/4922292-hillari-klinton-prypustyla-naiavnist-u-putina-kompromata-na-trampa",
+    "pubDate": "2026-10-22 04:25:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4606260.png\">Політикиня пов’язала свої підозри з тим, що Трамп тривалий час опирався оприлюдненню документів у справі Джеффрі Епштейна.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Real Madrid: los bases al poder",
+    "link": "https://as.com/baloncesto/euroliga/real-madrid-los-bases-al-poder-f202610-n/",
+    "pubDate": "2026-10-22 04:14:00",
+    "category": "Baloncesto",
+    "description": "Maledon, Campazzo y Feliz suman el 39% de los puntos, el 70% de las asistencias y el 44% de la valoración del Real Madrid en la Euroliga.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La fina línea de Kevin Punter",
+    "link": "https://as.com/baloncesto/euroliga/la-fina-linea-de-kevin-punter-f202610-n/",
+    "pubDate": "2026-10-22 04:14:00",
+    "category": "Baloncesto",
+    "description": "El Barça se adentra en la mediocridad al ritmo de su principal valedor, cuyas ausencias son demasiado grandes como para ignorarlas. Hoy, visita al Milán.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "У Вінниці зтримали двох військових за підозрою у подвійному вбивстві жінок",
     "link": "https://ua.korrespondent.net/ukraine/4922261-u-vinnytsi-ztrymaly-dvokh-viiskovykh-za-pidozroui-u-podviinomu-vbyvstvi-zhinok",
     "pubDate": "2026-10-22 03:47:00",
