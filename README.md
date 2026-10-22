@@ -1,4 +1,4 @@
-# News for 2026-10-22 19:32
+# News for 2026-10-22 21:31
 
 Previous day: [2026-10-21](./data/2026-10-21.md)
 
@@ -77,6 +77,10 @@ Previous day: [2026-10-21](./data/2026-10-21.md)
 02:24 [Нафта з РФ обвалилася до мінімуму за 1,5 місяці](https://ua.korrespondent.net/world/4922286-nafta-z-rf-obvalylasia-do-minimumu-za-15-misiatsi)<br>
 
 ## as.com
+21:28 [Maccabi - Real Madrid, en directo: Euroliga 2026-27 en vivo hoy](https://as.com/baloncesto/maccabi-real-madrid-en-directo-euroliga-2026-27-en-vivo-hoy-f202610-n/)<br>
+21:27 [Armani Milán - Barcelona, en directo: Euroliga 2026-27 en vivo hoy](https://as.com/baloncesto/euroliga/armani-milan-barcelona-en-directo-euroliga-2026-27-en-vivo-hoy-f202610-d/)<br>
+19:46 [El Olympiacos no para: ahora ficha a John Konchar](https://as.com/baloncesto/euroliga/el-olympiacos-no-para-ahora-ficha-a-john-konchar-f202610-n/)<br>
+19:33 [Resultados Euroliga, jornada 7: horarios, TV, partidos y clasificación](https://as.com/baloncesto/euroliga/resultados-euroliga-jornada-7-horarios-tv-partidos-y-clasificacion-f202610-n/)<br>
 18:43 [Real Madrid - Asvel, en directo: Euroliga 2026-27 en vivo hoy](https://as.com/baloncesto/euroliga/real-madrid-asvel-en-directo-euroliga-2026-27-en-vivo-hoy-f202610-d/)<br>
 17:41 [‘Trash-talking’, una canasta imperdible y la lección de Doncic al novato en su cara que no olvidará](https://as.com/baloncesto/videos/lo-que-hubo-detras-del-show-de-doncic-thras-talking-una-canasta-imperdible-y-una-leccion-al-novato-que-no-olvidara-f202610-v/)<br>
 12:41 [Ndiaye aprovecha su cesión](https://as.com/baloncesto/acb/ndiaye-aprovecha-su-cesion-f202610-n/)<br>
@@ -84,6 +88,15 @@ Previous day: [2026-10-21](./data/2026-10-21.md)
 04:14 [La fina línea de Kevin Punter](https://as.com/baloncesto/euroliga/la-fina-linea-de-kevin-punter-f202610-n/)<br>
 
 ## www.elperiodico.com
+21:29 [Barclays recortará 5.000 empleos por la irrupción de la inteligencia artificial pese a elevar un 17% su beneficio hasta septiembre](https://www.elperiodico.com/es/economia/20261022/barclays-recortara-5-000-empleos-135650866)<br>
+21:23 [El modernismo catalán reivindica su lugar en Europa con una gran exposición en Múnich](https://www.elperiodico.com/es/ocio-y-cultura/20261022/modernismo-catalan-reivindica-lugar-europa-135583931)<br>
+21:17 [PLEC, la otra fiesta de la moda de la 080 Barcelona Fashion más allá de la pasarela: música, arte, pódcasts y mucho talento local](https://www.elperiodico.com/es/gente/20261022/plec-barcelona-festival-moda-arte-musica-tinglados-port-vell-135614739)<br>
+21:02 [El Govern confirma 9 nuevos casos de peste porcina en la zona de alto riesgo de Collserola](https://www.elperiodico.com/es/economia/20261022/govern-confirma-9-nuevos-casos-peste-porcina-collserola-barcelona-135650101)<br>
+20:53 [Detectado el virus shamonda en tres explotaciones de vacuno de leche de Girona](https://www.elperiodico.com/es/sanidad/20261022/detectado-virus-shamonda-tres-explotaciones-135649786)<br>
+20:18 [Trump carga contra Lebron James por "no respetar" el himno nacional: "No vale nada, es una vergüenza total"](https://www.elperiodico.com/es/deportes/20261022/trump-carga-lebron-james-respetar-135646295)<br>
+20:09 [Una novela sobre los límites del perdón y la ruptura entre un padre alcohólico y su hija gana el III Premio Diana Zaforteza](https://www.elperiodico.com/es/ocio-y-cultura/20261022/laura-galve-gana-premio-zaforteza-dime-nina-bonita-135636754)<br>
+20:01 [Un implante inalámbrico permite controlar la obesidad y la diabetes en ratones sin necesidad de medicamentos](https://www.elperiodico.com/es/sociedad/20261022/implante-controlar-obesidad-diabetes-ratones-estudio-135637962)<br>
+19:55 [La escuela Vedruna corta Gran de Gràcia para rechazar la pérdida de horas de uso de una pista de básquet](https://www.elperiodico.com/es/barcelona/20261022/escuela-vedruna-gracia-corta-horas-gran-de-gracia-protesta-pabellon-basquet-barcelona-135595674)<br>
 19:29 [AMI acusa a Meta de poner en riesgo los derechos de propiedad intelectual de los medios](https://www.elperiodico.com/es/economia/20261022/ami-acusa-meta-poner-riesgo-135643002)<br>
 19:20 [La patronal del gran consumo alerta del riesgo de contagio de las revueltas sociales y llama a evitar la polarización](https://www.elperiodico.com/es/economia/20261022/patronal-gran-consumo-alerta-riesgo-contagio-revueltas-sociales-135642609)<br>
 19:12 [Sin calendario para reabrir el túnel del Gornal de FGC: las primeras investigaciones descartan a Adif](https://www.elperiodico.com/es/barcelona/20261022/afectaciones-fgc-gornal-frecuencia-trenes-135637746)<br>
