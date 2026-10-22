@@ -1,8 +1,22 @@
-# News for 2026-10-22 12:33
+# News for 2026-10-22 14:30
 
 Previous day: [2026-10-21](./data/2026-10-21.md)
 
 ## ua.korrespondent.net
+13:55 [Президент Чехії: Угода Трампа з Путіним ускладнила мирні переговори](https://ua.korrespondent.net/world/4922455-prezydent-chekhii-uhoda-trampa-z-putinym-uskladnyla-myrni-perehovory)<br>
+13:30 [На Хмельниччині з-під води показалися руїни старовинної церкви](https://ua.korrespondent.net/showbiz/culture/4922398-na-khmelnychchyni-z-pid-vody-pokazalysia-ruiny-starovynnoi-tserkvy)<br>
+13:29 [На Черкащині змінилися керівники облради і ДСНС](https://ua.korrespondent.net/ukraine/4922453-na-cherkaschyni-zminylysia-kerivnyky-oblrady-i-dsns)<br>
+13:28 [Курйоз під час матчу: ворота здуло за межі поля](https://ua.korrespondent.net/sport/football/4922436-kurioz-pid-chas-matchu-vorota-zdulo-za-mezhi-polia)<br>
+13:24 [Україна наростила транзит зернових через сусідні країни](https://ua.korrespondent.net/business/economics/4922451-ukraina-narostyla-tranzyt-zernovykh-cherez-susidni-krainy)<br>
+13:23 [Економіка України у вересні скоротилася на 2,4% - ЗМІ](https://ua.korrespondent.net/business/economics/4922447-ekonomika-ukrainy-u-veresni-skorotylasia-na-24-zmi)<br>
+13:20 [Фінляндія виділить €2 млн на гуманітарну допомогу Україні](https://ua.korrespondent.net/world/4922443-finliandiia-vydilyt-2-mln-na-humanitarnu-dopomohu-ukraini)<br>
+13:18 [Аргентина домовилася з тренером про продовження співпраці](https://ua.korrespondent.net/sport/football/4922441-arhentyna-domovylasia-z-trenerom-pro-prodovzhennia-spivpratsi)<br>
+13:04 [МКС отримав премію Сахарова на тлі санкцій США](https://ua.korrespondent.net/world/4922440-mks-otrymav-premiui-sakharova-na-tli-sanktsii-ssha)<br>
+12:59 [Зірковий гравець Шахтаря стане батьком у 19 років](https://ua.korrespondent.net/sport/football/4922337-zirkovyi-hravets-shakhtaria-stane-batkom-u-19-rokiv)<br>
+12:57 [ВАКС зняв браслет з ексміністра Галущенка](https://ua.korrespondent.net/ukraine/4922437-vaks-zniav-braslet-z-eksministra-haluschenka)<br>
+12:46 [Іран втрачає нафтові доходи через блокаду США](https://ua.korrespondent.net/business/economics/4922433-iran-vtrachaie-naftovi-dokhody-cherez-blokadu-ssha)<br>
+12:41 [Наказ у 2014 році міг запобігти війні - Зеленський](https://ua.korrespondent.net/ukraine/4922432-nakaz-u-2014-rotsi-mih-zapobihty-viini-zelenskyi)<br>
+12:33 [Промоутер пояснив, як Ф’юрі може переграти Джошуа](https://ua.korrespondent.net/sport/boks/4922426-promouter-poiasnyv-yak-fuiri-mozhe-perehraty-dzhoshua)<br>
 12:31 [Україна повернула 252 тіла загиблих воїнів](https://ua.korrespondent.net/ukraine/4922429-ukraina-povernula-252-tila-zahyblykh-voiniv)<br>
 12:16 [Бук не сховався: ЗСУ показали ураження ППО росіян](https://ua.korrespondent.net/ukraine/4922422-buk-ne-skhovavsia-zsu-pokazaly-urazhennia-ppo-rosiian)<br>
 12:15 [Іран заявив про ураження семи суден-"порушників"](https://ua.korrespondent.net/world/4922423-iran-zaiavyv-pro-urazhennia-semy-suden-porushnykiv)<br>
@@ -16,18 +30,25 @@ Previous day: [2026-10-21](./data/2026-10-21.md)
 11:28 [У Мінагрополітики озвучили прогноз щодо олійних](https://ua.korrespondent.net/business/economics/4922401-u-minahropolityky-ozvuchyly-prohnoz-schodo-oliinykh)<br>
 11:27 [Курс гривні стабілізувався в обмінниках](https://ua.korrespondent.net/business/financial/4922399-kurs-hryvni-stabilizuvavsia-v-obminnykakh)<br>
 11:17 [На Київщині одразу у шести містах погіршилася якість повітря](https://ua.korrespondent.net/ukraine/4922393-na-kyivschyni-odrazu-u-shesty-mistakh-pohirshylasia-yakist-povitria)<br>
+11:13 [Іспанія та Італія відновлять вільний рух через порти й аеропорти](https://ua.korrespondent.net/world/4922390-ispaniia-ta-italiia-vidnovliat-vilnyi-rukh-cherez-porty-y-aeroporty)<br>
 11:00 [Мережа LaserVille увійшла до Книги рекордів України](https://ua.korrespondent.net/business/press_release/4921806-merezha-LaserVille-uviishla-do-knyhy-rekordiv-ukrainy)<br>
+10:55 [У Парижі заборонили протести біля палацу президента та Єлисейських полів](https://ua.korrespondent.net/world/4922381-u-paryzhi-zaboronyly-protesty-bilia-palatsu-prezydenta-ta-yelyseiskykh-poliv)<br>
 10:48 [РФ перекидає бронетехніку на півдні для нового наступу - військові](https://ua.korrespondent.net/ukraine/4922379-rf-perekydaie-bronetekhniku-na-pivdni-dlia-novoho-nastupu-viiskovi)<br>
 10:42 [Нові відключення у Києві і шести областях](https://ua.korrespondent.net/ukraine/4922374-novi-vidkluichennia-u-kyievi-i-shesty-oblastiakh)<br>
+10:39 [Стало відомо, чи потребує Папа Римський подальшого лікування після операції](https://ua.korrespondent.net/world/4922371-stalo-vidomo-chy-potrebuie-papa-rymskyi-podalshoho-likuvannia-pislia-operatsii)<br>
+10:25 [Пошкоджені мости замінюють дамбами: що будують окупанти під Джанкоєм](https://ua.korrespondent.net/world/russia/4922365-poshkodzheni-mosty-zaminuiuit-dambamy-scho-buduuit-okupanty-pid-dzhankoiem)<br>
 10:20 [Президент: "Гуманісти" вдарили 21 ракетою по Києву](https://ua.korrespondent.net/ukraine/4922362-prezydent-humanisty-vdaryly-21-raketoui-po-kyievu)<br>
+10:10 [Трамп відповів, чи вважає Путіна "гуманістом"](https://ua.korrespondent.net/world/4922359-tramp-vidpoviv-chy-vvazhaie-putina-humanistom)<br>
 10:01 [Вибори у США і дані користувачів Facebook: Meta оштрафували на $25 млрд](https://ua.korrespondent.net/business/companies/4922355-vybory-u-ssha-i-dani-korystuvachiv-Facebook-Meta-oshtrafuvaly-na-25-mlrd)<br>
 10:01 ["Кріт" ФСБ навів ракети на понад 100 дронарів](https://ua.korrespondent.net/ukraine/4922356-krit-fsb-naviv-rakety-na-ponad-100-dronariv)<br>
+09:55 [Біля заводу "Шахедів" розгорнули ППО, як навколо резиденції Путіна - ЗМІ](https://ua.korrespondent.net/world/russia/4922353-bilia-zavodu-shakhediv-rozghornuly-ppo-yak-navkolo-rezydentsii-putina-zmi)<br>
 09:40 [Операція "Тєлємост": ГУР розкрило провокацію РФ](https://ua.korrespondent.net/ukraine/4922346-operatsiia-tieliemost-hur-rozkrylo-provokatsiui-rf)<br>
 09:37 [РФ почала застосовувати проти України нову крилату ракету Філін](https://ua.korrespondent.net/ukraine/4922342-rf-pochala-zastosovuvaty-proty-ukrainy-novu-krylatu-raketu-filin)<br>
 09:36 [Сили оборони провели підземну операцію](https://ua.korrespondent.net/ukraine/4922344-syly-oborony-provely-pidzemnu-operatsiui)<br>
 09:19 [Звітував про військові об'єкти: Верховний суд підтвердив вирок агенту ФСБ](https://ua.korrespondent.net/ukraine/4922336-zvituvav-pro-viiskovi-obiekty-verkhovnyi-sud-pidtverdyv-vyrok-ahentu-fsb)<br>
 09:19 [Удар по Чернігову та агропідприємству області: є загиблий, виникла пожежа](https://ua.korrespondent.net/ukraine/4922338-udar-po-chernihovu-ta-ahropidpryiemstvu-oblasti-ye-zahyblyi-vynykla-pozhezha)<br>
 08:58 [Росія повторно атакувала завод Титан у Кілії](https://ua.korrespondent.net/ukraine/4922330-rosiia-povtorno-atakuvala-zavod-tytan-u-kilii)<br>
+08:47 [Нафта відреагувала на вивід дипломатів США із Саудівської Аравії](https://ua.korrespondent.net/world/4922328-nafta-vidreahuvala-na-vyvid-dyplomativ-ssha-iz-saudivskoi-aravii)<br>
 08:36 [Хмельниччина постраждала від удару РФ: є знеструмлення](https://ua.korrespondent.net/ukraine/4922325-khmelnychchyna-postrazhdala-vid-udaru-rf-ye-znestrumlennia)<br>
 08:25 [Летіли ракети і сотні дронів: як відпрацювала ППО](https://ua.korrespondent.net/ukraine/4922321-letily-rakety-i-sotni-droniv-yak-vidpratsuivala-ppo)<br>
 08:17 [На Вінниччині РФ пошкодила будинки, промислові та енергетичні об’єкти](https://ua.korrespondent.net/ukraine/4922319-na-vinnychchyni-rf-poshkodyla-budynky-promyslovi-ta-enerhetychni-obiekty)<br>
@@ -44,10 +65,40 @@ Previous day: [2026-10-21](./data/2026-10-21.md)
 02:24 [Нафта з РФ обвалилася до мінімуму за 1,5 місяці](https://ua.korrespondent.net/world/4922286-nafta-z-rf-obvalylasia-do-minimumu-za-15-misiatsi)<br>
 
 ## as.com
+12:41 [Ndiaye aprovecha su cesión](https://as.com/baloncesto/acb/ndiaye-aprovecha-su-cesion-f202610-n/)<br>
 04:14 [Real Madrid: los bases al poder](https://as.com/baloncesto/euroliga/real-madrid-los-bases-al-poder-f202610-n/)<br>
 04:14 [La fina línea de Kevin Punter](https://as.com/baloncesto/euroliga/la-fina-linea-de-kevin-punter-f202610-n/)<br>
 
 ## www.elperiodico.com
+14:21 [La jueza cita el 12 de noviembre a técnicos de Iryo y Renfe para descifrar cajas negras de los trenes del accidente de Adamuz (Córdoba)](https://www.elperiodico.com/es/politica/20261022/jueza-cita-12-noviembre-tecnicos-135629195)<br>
+14:20 [Las lágrimas felices del pequeño Joaquín después de que Messi le firmara una camiseta en Oviedo: "Significa todo para mí y doy gracias"](https://www.elperiodico.com/es/deportes/20261022/lagrimas-felices-pequeno-joaquin-despues-messi-firmara-camiseta-oviedo-135629048)<br>
+14:16 [Qué hacer si una DANA inunda tu coche y cómo reclamar los daños](https://www.elperiodico.com/es/motor/20261022/dana-inunda-coche-reclamar-danos-135572213)<br>
+14:15 [Virus shamonda: qué es, cómo se contagia y principales síntomas](https://www.elperiodico.com/es/sanidad/20261022/virus-shamonda-contagia-principales-sintomas-135625812)<br>
+14:14 [Justo Molinero, de pirata radiofónico a sultán de la comunicación: "Sería el mejor candidato contra Aliança Catalana"](https://www.elperiodico.com/es/ocio-y-cultura/20261022/justo-molinero-radio-tele-taxi-serie-documental-3cat-tv3-serielizados-135613805)<br>
+14:08 [Cristina Valido fija la "línea roja" de Coalición Canaria: no apoyará un Gobierno que incluya a Vox](https://www.elperiodico.com/es/politica/20261022/cristina-valido-fija-linea-roja-135628097)<br>
+14:04 [Christina Koch desvela en Avilés los secretos de Artemis II: "Somos personas normales a las que le encargan cosas extraordinarias"](https://www.elperiodico.com/es/sociedad/20261022/christina-koch-desvela-aviles-secretos-artemis-ii-135627850)<br>
+14:03 [El Parlament tapa los carteles de Vox que tachan a Companys de "asesino" durante su homenaje](https://www.elperiodico.com/es/politica/20261022/parlament-tapa-carteles-vox-asesino-lluis-companys-135619482)<br>
+14:01 [La Plataforma para la Educación Mediática reclama al Govern una estrategia pública contra la desinformación](https://www.elperiodico.com/es/sociedad/20261022/plataforma-educacion-mediatica-exige-govern-estrategia-contra-desinformacion-135577835)<br>
+14:00 [Dejan Šoškić, opositor serbio y candidato de la Lista de los Estudiantes: "Estamos luchando por nuestra democracia y nuestra república, que está al borde de una dictadura"](https://www.elperiodico.com/es/internacional/20261022/dejan-soskic-candidato-opositor-lista-estudiantes-serbios-democracia-135627601)<br>
+13:55 [Barcelona construye su primer depósito pluvial tras 15 años de cara a estrenarlo en 2028](https://www.elperiodico.com/es/barcelona/20261022/barcelona-construye-primer-deposito-pluvial-desde-2013-estrenarlo-en-2028-135622835)<br>
+13:43 [Toni Comín regresa a España y recoge su acta de eurodiputado](https://www.elperiodico.com/es/fotos/politica/toni-comin-regresa-espana-recoge-acta-eurodiputado-fotos-135626605)<br>
+13:39 [Messi y Antonela: pareja de enamorados en Oviedo enfundados en negro](https://www.elperiodico.com/es/deportes/20261022/messi-antonela-pareja-enamorados-oviedo-135626317)<br>
+13:37 [El PSOE estudia emprender acciones legales contra el PP por la suplantación de la identidad de Begoña Gómez en un vídeo generado por IA](https://www.elperiodico.com/es/politica/20261022/psoe-estudia-acciones-legales-pp-135626137)<br>
+13:34 [El precio del euríbor hoy, 22 de octubre: el índice del jueves llega con buenas noticias en pequeñas dosis para los titulares de una hipoteca](https://www.elperiodico.com/es/economia/20261022/precio-euribor-hoy-22-octubre-dv-135623657)<br>
+13:29 [Leo Messi ya saluda a Asturias: así fue la multitudinaria llegada del astro argentino al Reconquista](https://www.elperiodico.com/es/deportes/20261022/leo-messi-saluda-asturias-multitudinaria-llegada-astro-argentino-reconquista-135625603)<br>
+13:28 [El Santander ficha a Santiago Bau, ex primer ejecutivo de El Corte Inglés, para su área de Tecnología y Operaciones](https://www.elperiodico.com/es/economia/20261022/santander-ficha-santiago-bau-ex-135625458)<br>
+13:26 [El Festival Feroe, cancelado: su director critica la «especulación sin escrúpulos» de la música en directo](https://www.elperiodico.com/es/ocio-y-cultura/20261022/festival-feroe-cancela-primera-edicion-135622687)<br>
+13:24 [Muere en Francia un hombre con el virus shamonda que se creía no transmisible a humanos](https://www.elperiodico.com/es/sociedad/20261022/muere-francia-hombre-virus-shamonda-transmisible-humanos-135625153)<br>
+13:13 [Una segunda jueza inadmite otra querella contra la autora de la Instrucción de la 'ley de nietos' por "cosa juzgada" y cuestiona la vía penal](https://www.elperiodico.com/es/politica/20261022/segunda-jueza-inadmite-querella-autora-instruccion-ley-de-nietos-135624450)<br>
+13:10 [¿Naciste el 19 de marzo de 1997? El desconcertante y misterioso llamamiento de la ATM en Barcelona](https://www.elperiodico.com/es/barcelona/20261022/naciste-19-marzo-1997-desconcertante-135622904)<br>
+13:01 [La protesta de los conductores de camiones contra el aumento de los costos del combustible estanca a Italia](https://www.elperiodico.com/es/fotos/en-imagenes/protesta-conductores-camiones-aumento-costos-fotos-135623235)<br>
+12:58 [Afectados por la 'ley de nietos' alegan ante el Supremo que la suspensión de su derecho al voto no es proporcional ni guarda relación con la demanda inicial](https://www.elperiodico.com/es/politica/20261022/supremo-jec-afectados-voto-nacionalizados-ley-nietos-135623211)<br>
+12:55 [12 artículos de IKEA, Maisons du Monde y Leroy Merlin para decorar tu casa este Halloween con estilo](https://www.elperiodico.com/es/shopping/20261022/halloween-decoracion-hogar-leroy-merlin-ikea-maisons-du-monde-135357858)<br>
+12:54 [La peste porcina también pasa factura a Osborne: el productor de los jamones Cinco Jotas ha perdido ventas por 3 millones de euros](https://www.elperiodico.com/es/economia/20261022/factura-peste-porcina-afecta-osborne-135623027)<br>
+12:48 [Aviso a los usuarios de bicicleta: multa de 500 euros a un ciclista tras la llegada del nuevo Reglamento de Circulación](https://www.elperiodico.com/es/trafico-y-transportes/20261022/aviso-usuarios-bicicleta-multa-500-ciclista-nuevo-reglamento-circulacion-dgt-dv-135619697)<br>
+12:45 [Enric Masip, asesor de Laporta: "Es una vergüenza. El Real Madrid ataca y maltrata a toda la competición"](https://www.elperiodico.com/es/deportes/20261022/enric-masip-asesor-laporta-verguenza-135622017)<br>
+12:37 [Mutua reclama la adhesión automática a los planes de empresa para impulsar las pensiones](https://www.elperiodico.com/es/economia/20261022/mutua-reclama-adhesion-automatica-planes-135621727)<br>
+12:32 [Qué sabemos (y qué no) de los efectos del Superniño en España: las incógnitas sobre las lluvias, el calor extremo y otros desastres climáticos](https://www.elperiodico.com/es/sociedad/20261022/efectos-supernino-espana-lluvias-calor-extremos-climaticos-135621176)<br>
 12:28 [Los chips, la IA y la computación ganan a la salud como área principal de creación de 'spin offs' tecnológicas en España en 2025](https://www.elperiodico.com/es/economia/20261022/chips-ia-computacion-ganan-salud-creacion-spin-off-deep-tech-espana-2025-135620099)<br>
 12:17 [Seis horas en la puerta del instituto para cambiar el pañal a su hija con cáncer cerebral ante la falta de educadoras en Alicante](https://www.elperiodico.com/es/sociedad/20261022/seis-horas-puerta-colegio-cambiar-panal-hija-cancer-cerebral-alicante-135620446)<br>
 12:12 [Dreo Convection Heater 711S: calor serio, silencio y una forma sensata de calentar espacios](https://www.elperiodico.com/es/tecnologia/20261022/dreo-convection-heater-711s-135614449)<br>
