@@ -1,8 +1,10 @@
-# News for 2026-10-22 17:37
+# News for 2026-10-22 19:32
 
 Previous day: [2026-10-21](./data/2026-10-21.md)
 
 ## ua.korrespondent.net
+18:00 [Укренерго попередило про відключення 23 жовтня](https://ua.korrespondent.net/ukraine/4922545-ukrenerho-poperedylo-pro-vidkluichennia-23-zhovtnia)<br>
+17:42 [Свята 23 жовтня 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4922529-sviata-23-zhovtnia-2026-roku-istoriia-tradytsii)<br>
 17:05 [В Антарктиді шукають людей, які рахуватимуть пінгвінів](https://ua.korrespondent.net/world/4922517-v-antarktydi-shukauit-luidei-yaki-rakhuvatymut-pinhviniv)<br>
 17:01 [В Ейфелевій вежі є секретна кімната на висоті 285 метрів](https://ua.korrespondent.net/tech/science/4922173-v-eifelevii-vezhi-ye-sekretna-kimnata-na-vysoti-285-metriv)<br>
 16:49 [Станція метро Чернігівська у Києві частково відновила роботу](https://ua.korrespondent.net/city/kiev/4922513-stantsiia-metro-chernihivska-u-kyievi-chastkovo-vidnovyla-robotu)<br>
@@ -75,11 +77,24 @@ Previous day: [2026-10-21](./data/2026-10-21.md)
 02:24 [Нафта з РФ обвалилася до мінімуму за 1,5 місяці](https://ua.korrespondent.net/world/4922286-nafta-z-rf-obvalylasia-do-minimumu-za-15-misiatsi)<br>
 
 ## as.com
+18:43 [Real Madrid - Asvel, en directo: Euroliga 2026-27 en vivo hoy](https://as.com/baloncesto/euroliga/real-madrid-asvel-en-directo-euroliga-2026-27-en-vivo-hoy-f202610-d/)<br>
+17:41 [‘Trash-talking’, una canasta imperdible y la lección de Doncic al novato en su cara que no olvidará](https://as.com/baloncesto/videos/lo-que-hubo-detras-del-show-de-doncic-thras-talking-una-canasta-imperdible-y-una-leccion-al-novato-que-no-olvidara-f202610-v/)<br>
 12:41 [Ndiaye aprovecha su cesión](https://as.com/baloncesto/acb/ndiaye-aprovecha-su-cesion-f202610-n/)<br>
 04:14 [Real Madrid: los bases al poder](https://as.com/baloncesto/euroliga/real-madrid-los-bases-al-poder-f202610-n/)<br>
 04:14 [La fina línea de Kevin Punter](https://as.com/baloncesto/euroliga/la-fina-linea-de-kevin-punter-f202610-n/)<br>
 
 ## www.elperiodico.com
+19:29 [AMI acusa a Meta de poner en riesgo los derechos de propiedad intelectual de los medios](https://www.elperiodico.com/es/economia/20261022/ami-acusa-meta-poner-riesgo-135643002)<br>
+19:20 [La patronal del gran consumo alerta del riesgo de contagio de las revueltas sociales y llama a evitar la polarización](https://www.elperiodico.com/es/economia/20261022/patronal-gran-consumo-alerta-riesgo-contagio-revueltas-sociales-135642609)<br>
+19:12 [Sin calendario para reabrir el túnel del Gornal de FGC: las primeras investigaciones descartan a Adif](https://www.elperiodico.com/es/barcelona/20261022/afectaciones-fgc-gornal-frecuencia-trenes-135637746)<br>
+18:46 [Expertos en sanidad animal piden reforzar la vigilancia sobre el virus de shamonda y rastrear nuevos casos](https://www.elperiodico.com/es/sanidad/20261022/expertos-virus-de-shamonda-rastrear-nuevos-casos-vigilancia-135638409)<br>
+18:41 [Logitech G305 X Superlight, análisis y opinión: características, precio y experiencia de uso](https://www.elperiodico.com/es/tecnologia/20261022/logitech-g305-x-superlight-analisis-135640057)<br>
+18:39 [Catalunya y California se alían para proteger a la biodiversidad de sequías, olas de calor y megaincendios](https://www.elperiodico.com/es/sociedad/20261022/catalunya-california-alian-proteger-biodiversidad-135625895)<br>
+18:32 [El turista se rebela](https://www.elperiodico.com/es/opinion/20261022/turista-rebela-paris-disturbios-articulo-josep-maria-fonalleras-135640339)<br>
+18:28 [Avanzan las obras de la estación de La Sagrera: completada la construcción de ocho vías de alta velocidad](https://www.elperiodico.com/es/sociedad/20261022/avanzan-obras-estacion-sagrera-completada-construccion-ocho-vias-alta-velocidad-135635164)<br>
+18:21 [Trabajar más](https://www.elperiodico.com/es/opinion/20261022/trabajar-camionero-taxista-articulo-juan-tallon-135639284)<br>
+18:05 [Condis logra 305 millones para obtener liquidez y reforzar las tiendas que compró a Diges en Menorca y a Roges en Manresa](https://www.elperiodico.com/es/economia/20261022/condis-305-millones-liquidez-tiendas-diges-roges-correfour-135639487)<br>
+17:51 [Salvat cierra con acuerdo la deslocalización de su laboratorio de Esplugues a Madrid en 2030](https://www.elperiodico.com/es/economia/20261022/salvat-pacta-trabajadores-deslocalizacion-esplugues-madrid-135638107)<br>
 17:17 [Un vecino denuncia discriminación de un conductor de bus de Barcelona y el Síndic insta a cambiarlo de línea](https://www.elperiodico.com/es/barcelona/20261022/vecino-discriminacion-conductor-bus-barcelona-sindic-cambiarlo-linea-135241525)<br>
 17:16 [Roberto, de 66 años, dejó su casa para vivir en un barco en Ibiza tras superar un cáncer: "Me han llamado loco muchas veces"](https://www.elperiodico.com/es/economia/20261022/vida-velero-cancer-jubilacion-precio-vivienda-ibiza-roberto-dv-et-135129542)<br>
 17:09 [Muere el poeta y crítico literario leridano Jaume Pont a los 79 años](https://www.elperiodico.com/es/ocio-y-cultura/20261022/muere-jaume-pont-poeta-critico-literario-leridano-anos-135636750)<br>
