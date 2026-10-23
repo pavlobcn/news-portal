@@ -63,6 +63,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Названо місце проведення першого в історії жіночого Клубного ЧС",
+    "link": "https://ua.korrespondent.net/sport/football/4922601-nazvano-mistse-provedennia-pershoho-v-istorii-zhinochoho-klubnoho-chs",
+    "pubDate": "2026-10-22 23:12:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4607031.jpg\">Клубний чемпіонат світу серед жіночих футбольних команд прийме країна, яка має досвід проведення схожого турніру.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Маск зняв обмеження Starlink для ЗСУ - Трамп",
     "link": "https://ua.korrespondent.net/world/worldabus/4922600-mask-zniav-obmezhennia-Starlink-dlia-zsu-tramp",
     "pubDate": "2026-10-22 22:58:00",
@@ -540,6 +549,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Вторгнення Росії в Україну. Онлайн",
+    "link": "https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain",
+    "pubDate": "2026-10-22 19:44:00",
+    "category": "Новини політики",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/2748609.jpg\">Володимир Путін почав повномасштабну війну проти України 24 лютого 2022 року. Не зумівши \"взяти Київ за три дні\", він сконцентрувався на захопленні Донбасу та південних областей України.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
     "title": "\"Флеш\"показав нову ракету РФ Філін",
     "link": "https://ua.korrespondent.net/ukraine/4922569-fleshpokazav-novu-raketu-rf-filin",
     "pubDate": "2026-10-22 19:34:00",
@@ -565,6 +583,15 @@
     "description": "<h2>Los editores europeos solicitan a la Comisión Europea la adopción de medidas urgentes para frenar unas condiciones que podrían contravenir la Ley de Mercados Digitales de la Unión Europea</h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Війна на Близькому Сході. Онлайн",
+    "link": "https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain",
+    "pubDate": "2026-10-22 19:27:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473659.jpg\">США та Ізраїль проводять масштабну операцію проти Ірану. Тегеран у відповідь атакує військові об'єкти США майже у всіх країнах Перської затоки.",
+    "topic": "політика",
+    "topic_match_probability": 90
   },
   {
     "title": "La patronal del gran consumo alerta del riesgo de contagio de las revueltas sociales y llama a evitar la polarización",
