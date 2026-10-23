@@ -1,5 +1,275 @@
 [
   {
+    "title": "Café Saula, la marca 'premium' de Pascual, se expande a Galicia, Asturias y Cantabria, tras desembarcar en Madrid",
+    "link": "https://www.elperiodico.com/es/economia/20261023/cafe-saula-pascual-expande-galicia-asturias-cantabria-madrid-135687285",
+    "pubDate": "2026-10-23 19:09:27",
+    "category": "",
+    "description": "<h2>La marca de origen catalán refuerza su apuesta por la hostelería y aspira a superar el millón de kilos de café comercializados en 2026</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Starlink в Україні досі обмежений: що відповів Трамп",
+    "link": "https://ua.korrespondent.net/ukraine/4922895-Starlink-v-ukraini-dosi-obmezhenyi-scho-vidpoviv-tramp",
+    "pubDate": "2026-10-23 19:04:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4608031.jpg\">В Україні досі діють обмеження швидкості супутникового зв’язку Starlink, які впливають на його роботу поблизу фронту.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "El entrenador del Bayern Vincent Kompany se desploma en el campo de entrenamiento y es trasladado de urgencia al hospital",
+    "link": "https://www.elperiodico.com/es/deportes/20261023/entrenador-bayern-vincent-kompany-desploma-hospital-135686569",
+    "pubDate": "2026-10-23 19:03:17",
+    "category": "",
+    "description": "<h2>El técnico belga se encuentra estable después de que un helicoptero medicalizado aterrizara en las instalaciones del club bávaro en Múnich</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Le pagan 330 veces su sueldo por un error técnico, dimite al día siguiente y la Justicia le da la razón",
+    "link": "https://www.elperiodico.com/es/economia/20261023/pago-330-veces-sueldo-error-tecnico-justicia-dv-et-135639303",
+    "pubDate": "2026-10-23 19:00:51",
+    "category": "",
+    "description": "<h2 class=\"item\">La empresa le transfirió 172.000 euros y lo denunció cuando no devolvió el dinero. Tras años de litigio, los tribunales han concluido que los hechos no constituían el delito que le atribuía la compañía</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260210/falta-semana-trabajo-indemnizacion-paro-dv-126319115\">Falta una semana al trabajo y se va con indemnización y paro: el curioso caso de un trabajador explicado por un experto</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Dani Martín aplaza sus conciertos en Barcelona por una situación familiar \"de extrema gravedad\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261023/dani-martin-aplaza-conciertos-barcelona-familiar-gravedad-135686892",
+    "pubDate": "2026-10-23 18:59:15",
+    "category": "",
+    "description": "",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los relojes se atrasan una hora la madrugada del domingo: a las 3 serán las 2",
+    "link": "https://www.elperiodico.com/es/sociedad/20261023/cambio-de-hora-domingo-retrasar-relojes-a-las-tres-seran-las-dos-horario-invierno-135685648",
+    "pubDate": "2026-10-23 18:57:32",
+    "category": "",
+    "description": "<h2 class=\"item\">La Comisión Europea ha criticado que los Estados miembros no hayan alcanzado aún un acuerdo para desbloquear la reforma que debe poner fin al cambio de hora</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261022/fin-del-cambio-de-hora-bloqueo-europa-claves-135602622\" target=\"_blank\">¿Por qué Europa no consigue acabar con el cambio de hora? Las claves de un bloqueo que va para largo</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260328/fin-del-cambio-de-hora-retraso-agenda-union-europea-2026-2031-128486522\" target=\"_blank\">El fin del cambio de hora se retrasa: no será en 2026 y la UE ya habla de 2031</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "En directo, Euskaltax Bilbao Baskek vs. Joventut Badalona de Liga U",
+    "link": "https://as.com/baloncesto/en-directo-euskaltax-bilbao-baskek-vs-joventut-badalona-de-liga-u-f202610-v/",
+    "pubDate": "2026-10-23 18:56:33",
+    "category": "Liga U",
+    "description": "Emisión en directo de una nueva jornada de la mejor liga de baloncesto juvenil. Sigue en AS.com y todas sus plataformas este partidazo de la Liga U22.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Dónde está 'Wally' Illa?",
+    "link": "https://www.elperiodico.com/es/opinion/20261023/wally-illa-independentismo-articulo-silvia-coppulo-135686444",
+    "pubDate": "2026-10-23 18:52:51",
+    "category": "",
+    "description": "<h2>Es un error que el Gobierno socialista de 2026 se esconda de un miembro del Gobierno independentista de 2017</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261022/lluis-puig-regreso-parlament-cataluna-135621301\">Lluís Puig vuelve al Parlament y retira el lazo amarillo de su escaño: \"Me sigo declarando independentista\"</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Lisette Oropesa regresa al Liceu con 'I Capuleti e I Montecchi': \"En esta ópera, Julieta no es nada naíf, sino una mujer madura que piensa en su responsabilidad\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261023/lisette-oropesa-regresa-liceu-capuleti-135676250",
+    "pubDate": "2026-10-23 18:48:44",
+    "category": "",
+    "description": "<h2 class=\"item\">La mezzosoprano Raffaella Lupinacci en el rol de Romeo y el director de escena Allex Aguilera debutan en el Gran Teatre con este título de Bellini con Riccardo Frizza en el foso</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Tony Iommi, el gran señor del 'riff' mantiene viva la llama de Black Sabbath en su álbum en solitario 'From the dark'",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261023/tony-iommi-nuevo-disco-critica-from-the-dark-135678651",
+    "pubDate": "2026-10-23 18:47:20",
+    "category": "",
+    "description": "<h2 class=\"item\">El guitarrista británico reaparece con un disco en el que desarrolla el visionario sonido rocoso de la banda, ya desaparecida, con una capa de melancolía y contando con Brian May como invitado en una canción</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "В Укренерго підтвердили відключення у суботу",
+    "link": "https://ua.korrespondent.net/ukraine/4922893-v-ukrenerho-pidtverdyly-vidkluichennia-u-subotu",
+    "pubDate": "2026-10-23 18:47:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4608030.jpg\">Причина запровадження обмежень - наслідки російських ракетно-дронових ударів на енергооб'єкти.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "El palo y la zanahoria: los Veintisiete respaldan la estrategia de Bruselas para reequilibrar las relaciones con China con diálogo y presión",
+    "link": "https://www.elperiodico.com/es/internacional/20261023/palo-zanahoria-veintisiete-respaldan-estrategia-comision-china-135686526",
+    "pubDate": "2026-10-23 18:46:30",
+    "category": "",
+    "description": "<h2>Los ministros de comercio de la UE han pedido a la Comisión que busque extender el acuerdo sobre los coches híbridos a otros sectores</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "ПСЖ зіграє матч Ліги 1 одночасно із церемонією вручення Золотого м'яча",
+    "link": "https://ua.korrespondent.net/sport/football/4922892-pszh-zihraie-match-lihy-1-odnochasno-iz-tseremoniieui-vruchennia-zolotoho-miacha",
+    "pubDate": "2026-10-23 18:41:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4608014.jpg\">Матч ПСЖ - Ліон через перенесення відбудеться одночасно із церемонією вручення нагороди Золотий м'яч.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Y de pronto llegó Milei...",
+    "link": "https://www.elperiodico.com/es/opinion/20261023/pronto-llego-milei-argentina-espana-articulo-juan-cruz-ruiz-135686033",
+    "pubDate": "2026-10-23 18:40:58",
+    "category": "",
+    "description": "<h2>El presidente argentino ha revuelto la caja de los truenos y empeorado hasta aquello que a él le resultaba propicio: la derecha, la ultraderecha, española</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261022/visita-milei-dota-municion-izquierda-135601886\">La visita de Milei dota de más munición a la izquierda ante la incomodidad de Feijóo y los insultos de Abascal</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La fiscalía de Ecuador pide la prisión preventiva de la líder opositora Luisa González",
+    "link": "https://www.elperiodico.com/es/internacional/20261023/fiscalia-ecuador-pide-prision-preventiva-opositora-luisa-gonzalez-135685986",
+    "pubDate": "2026-10-23 18:31:55",
+    "category": "",
+    "description": "<h2>González ha sido acusada de lavado de activos. La dirigente califica de absurda la denuncia y asegura que Ecuador vive en una dictadura</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Bank of America prevé que el BCE mantenga los tipos sin cambios en octubre: “Puede permitirse esperar hasta diciembre”",
+    "link": "https://www.elperiodico.com/es/economia/20261023/bank-of-america-preve-bce-mantenga-tipos-interes-octubre-135679406",
+    "pubDate": "2026-10-23 18:31:23",
+    "category": "",
+    "description": "<h2>El banco estadounidense espera una pausa en la próxima reunión, aunque mantiene una última subida como escenario central ante el encarecimiento de la energía</h2>",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Атака РФ на судно біля Румунії: загинув український моряк",
+    "link": "https://ua.korrespondent.net/world/4922890-ataka-rf-na-sudno-bilia-rumunii-zahynuv-ukrainskyi-moriak",
+    "pubDate": "2026-10-23 18:30:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4608015.jpg\">Біля румунського міста Констанца затонуло судно KHORYV під прапором Коморських Островів. Один український моряк загинув, ще четверо громадян України доправили до лікарні.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Aquel Solbes contra Pizarro",
+    "link": "https://www.elperiodico.com/es/opinion/20261023/solbes-pizarro-economia-campana-electoral-articulo-marti-saballs-pons-135664510",
+    "pubDate": "2026-10-23 18:29:00",
+    "category": "",
+    "description": "<h2>Hay algunas similitudes entre el contexto de aquel marzo de 2008 y la actualidad</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261022/pp-ia-sanchez-orgullo-zurdo-135620481\">El PP usa la IA contra Sánchez y su \"orgullo zurdo\" con un vídeo de Begoña Gómez</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "З окупованої Херсонщини повернули п’ятьох дітей",
+    "link": "https://ua.korrespondent.net/ukraine/4922888-z-okupovanoi-khersonschyny-povernuly-piatokh-ditei",
+    "pubDate": "2026-10-23 18:19:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4608013.jpg\">Серед врятованих зокрема 16-річна дівчинка, котра пережила озброєний обшук російських військових, під час якого вони забрали її батька.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Emmanuel Macron en los tiempos del cólera",
+    "link": "https://www.elperiodico.com/es/opinion/20261023/emmanuel-macron-tiempos-colera-articulo-josep-cuni-135682640",
+    "pubDate": "2026-10-23 18:16:23",
+    "category": "",
+    "description": "<h2>El presidente más joven que accedió al Elíseo ha pasado de ser el ministro de Economía mejor valorado de un Gobierno socialista al líder centrista que en nueve años ha tenido que capear una mayor y más prolongada tensión social</h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20261023/operativo-seguridad-protestas-francia-fin-semana-135672768\">El dispositivo \"masivo\" de Francia para evitar que este sábado se repitan las protestas violentas: 70.000 agentes, blindados, drones y helicópteros</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Consellera de Territori, Sílvia Paneque: \"Catalunya llegará al 15% de viviendas destinadas a políticas de alquiler moderado y protegido\"",
+    "link": "https://www.elperiodico.com/es/economia/20261023/consellera-territori-silvia-paneque-catalunya-planes-15-viviendas-protegidas-135683065",
+    "pubDate": "2026-10-23 18:13:31",
+    "category": "",
+    "description": "<h2>La consellera reivindica los avances en vivienda protegida y fija el objetivo de alcanzar los 50.000 pisos asequibles en 2030, aunque admite que ahora hay que acelerar la ejecución de las promociones</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260929/govern-presume-38000-pisos-de-50000-plan-vivienda-protegida-balance-debate-politica-general-134689039\" target=\"_blank\">El Govern sitúa en 38.000 las viviendas en marcha de las 50.000 prometidas en 2024</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El crecimiento del eléctrico en Europa frena las ventas de gasolina y diésel",
+    "link": "https://www.elperiodico.com/es/motor/20261023/crecimiento-electrico-europa-frena-ventas-gasolina-diesel-135623299",
+    "pubDate": "2026-10-23 18:10:23",
+    "category": "",
+    "description": "<h2>Las matriculaciones en la Unión Europea suben un 5,7% impulsadas por los modelos 100% eléctricos, que alcanzan el 22,7% del mercado</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Колос виграв виїзний матч у Вереса з рахунком 2:0",
+    "link": "https://ua.korrespondent.net/sport/football/4922884-kolos-vyhrav-vyiznyi-match-u-veresa-z-rakhunkom-20",
+    "pubDate": "2026-10-23 18:09:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4607936.jpg\">Команди грали під тиском повітряних тривог, однак у матчі все одно був показаний результат - переміг сильніший.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Portavoces, líderes, medios y redes rusas agitan sin disimulo las protestas estudiantiles en Francia e Italia",
+    "link": "https://www.elperiodico.com/es/internacional/20261023/portavoces-lideres-medios-redes-rusas-135684629",
+    "pubDate": "2026-10-23 18:04:39",
+    "category": "",
+    "description": "<h2>Mientras personalidades rusas y manifestantes franceses e italianos repiten las mismas o similares consignas y eslóganes, mensajes coordinados con millones de visitas \"redirigen los agravios\" de los estudiantes \"de forma deshonesta hacia Ucrania\", según un estudio</h2><h2>Desde Moscú, dirigentes rusos vinculados al régimen de Putin como la portavoz Maria Zajárova o el filósofo acusado de ideas genocidas Aleksándr Duguin animan a los manifestantes   </h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Ракети вдарили по оборонному заводу в Орлі",
+    "link": "https://ua.korrespondent.net/world/russia/4922883-rakety-vdaryly-po-oboronnomu-zavodu-v-orli",
+    "pubDate": "2026-10-23 18:02:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4607998.jpg\">Завод Протон – провідний виробник оптоелектроніки та компонентів військового призначення, залучений до кооперації російського ВПК.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Перший складаний iPhone доступний для передзамовлення в Україні",
+    "link": "https://ua.korrespondent.net/lifestyle/gadgets/4922661-pershyi-skladanyi-iPhone-dostupnyi-dlia-peredzamovlennia-v-ukraini",
+    "pubDate": "2026-10-23 18:00:00",
+    "category": "Гаджети",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4607439.jpg\">\r\n\r\n\r\n\r\nСьогодні, 23 жовтня, в Україні стартує передзамовлення iPhone Duo — першого складаного смартфона Apple.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Поліція оточила територію біля посольства України у Вашингтоні",
+    "link": "https://ua.korrespondent.net/world/4922881-politsiia-otochyla-terytoriui-bilia-posolstva-ukrainy-u-vashynhtoni",
+    "pubDate": "2026-10-23 17:54:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4607997.jpg\">Біля входу до консульського відділення посольства України у Вашингтоні виявили підозрілий предмет. Заради безпеки працівників і відвідувачів будівлю тимчасово евакуювали, а територію оточили.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Tiempo en Catalunya mañana sábado: avisos por lluvia intensa en Barcelona, Maresme y la Selva",
+    "link": "https://www.elperiodico.com/es/tiempo/20261023/tiempo-catalunya-hoy-sabado-avisos-lluvia-barcelona-maresme-selva-meteocat-dv-135683382",
+    "pubDate": "2026-10-23 17:52:45",
+    "category": "",
+    "description": "<h2 class=\"item\">La borrasca Austen provocará un descenso de entre 3 y 5 grados en algunas comarcas y dejará chubascos que podrían superar los 20 litros por metro cuadrado en media hora</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tiempo/20261020/govern-trabaja-293-actuaciones-reconstruccion-lluvias-70-municipios-135559336\">El Govern trabaja en 293 actuaciones de reconstrucción en 70 municipios afectados por las lluvias</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La IndyCar llega a Catalunya con un acuerdo de diez años: \"Os lo pondremos muy difícil para que os marchéis\"",
+    "link": "https://www.elperiodico.com/es/deportes/20261023/indycar-barcelona-catalunya-2027-fechas-acuerdo-diez-anos-135680918",
+    "pubDate": "2026-10-23 17:51:09",
+    "category": "",
+    "description": "<h2 class=\"item\">La categoría estadounidense celebrará su primera carrera en Barcelona del 16 al 18 de julio de 2027, con Álex Palou como gran protagonista de una operación adelantada en exclusiva por EL PERIÓDICO</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20261019/indycar-barcelona-circuit-catalunya-2027-acuerdo-135425016\">El Circuit de Catalunya cierra un acuerdo multianual con la IndyCar y celebrará la primera carrera en julio de 2027</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Descubren restos de una torre romana del siglo IV bajo el Monasterio de Sant Cugat",
+    "link": "https://www.elperiodico.com/es/barcelona/20261023/descubren-restos-torre-romana-siglo-sant-cugat-135680739",
+    "pubDate": "2026-10-23 17:50:39",
+    "category": "",
+    "description": "<h2>Unas excavaciones para investigar los movimientos estructurales del monasterio han permitido confirmar la existencia de una antigua torre de fortificación romana y localizar una tumba medieval de los siglos XI y XII</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260930/sant-cugat-analiza-subsuelo-monasterio-movimientos-estructurales-grietas-134855646\">Sant Cugat investiga el origen de los movimientos del Monasterio que han dejado grietas en la fachada sur: \"De momento son controlados\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "La pasión por la moto de Bultaco se reúne en Casa Seat-Cupra",
     "link": "https://www.elperiodico.com/es/motor/20261023/pasion-moto-bultaco-exposicion-casa-seat-cupra-135675208",
     "pubDate": "2026-10-23 17:49:20",
@@ -405,11 +675,29 @@
     "topic_match_probability": 80
   },
   {
+    "title": "Вибори у США: політичні пожертви Маска перевищили $445 млн",
+    "link": "https://ua.korrespondent.net/world/4922842-vybory-u-ssha-politychni-pozhertvy-maska-perevyschyly-445-mln",
+    "pubDate": "2026-10-23 15:54:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4607858.jpg\">За обсягом пожертв у цьому виборчому циклі Маск значно випереджає інших великих політичних донорів.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
     "title": "El Joventut de Badalona cambia de propiedad y Ricky Rubio entra en el accionariado",
     "link": "https://www.elperiodico.com/es/deportes/20261023/joventut-badalona-cambia-propiedad-ricky-135678558",
     "pubDate": "2026-10-23 15:50:54",
     "category": "",
     "description": "<h2>Los dueños del Zalgiris Kaunas lituano adquieren el histórico club catalán de baloncesto</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Фінляндія першою схвалила підземне сховище ядерних відходів",
+    "link": "https://ua.korrespondent.net/world/4922839-finliandiia-pershoui-skhvalyla-pidzemne-skhovysche-yadernykh-vidkhodiv",
+    "pubDate": "2026-10-23 15:49:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4607857.jpg\">У сховищі на глибині понад 400 метрів планують зберігати до 6500 тонн урану. Перед початком роботи об’єкт має пройти перевірку регулятора.",
     "topic": "",
     "topic_match_probability": 0
   },
@@ -439,6 +727,33 @@
     "description": "",
     "topic": "телебачення",
     "topic_match_probability": 90
+  },
+  {
+    "title": "Фон дер Ляєн відреагувала на атаку РФ на судно біля Румунії",
+    "link": "https://ua.korrespondent.net/world/4922833-fon-der-liaien-vidreahuvala-na-ataku-rf-na-sudno-bilia-rumunii",
+    "pubDate": "2026-10-23 15:40:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4607841.jpg\">Російська атака на комерційне судно Khoryv поблизу узбережжя Румунії забрала життя одного моряка. Ще троє членів екіпажу зникли безвісти.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Дрони заблокували повітряний простір над Москвою",
+    "link": "https://ua.korrespondent.net/world/4922827-drony-zablokuvaly-povitrianyi-prostir-nad-moskvoui",
+    "pubDate": "2026-10-23 15:16:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4607827.jpg\">Нині десять пасажирських авіарейсів зараз знаходяться над Москвою без змоги виконати посадку через план Килим, який ввели у місті через атаку БпЛА.",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Німеччина шукає заміну Tomahawk: у списку українська ракета Барс",
+    "link": "https://ua.korrespondent.net/world/4922824-nimechchyna-shukaie-zaminu-Tomahawk-u-spysku-ukrainska-raketa-bars",
+    "pubDate": "2026-10-23 15:15:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4607812.jpg\">Німеччина веде переговори з європейськими виробниками та Україною про закупівлю тисяч ракет великої дальності. Серед можливих придбань - українські крилаті ракети-дрони Барс.",
+    "topic": "політика",
+    "topic_match_probability": 75
   },
   {
     "title": "El PSOE aprovecha los mensajes de Feijóo como munición para arañar el voto de las mujeres",
@@ -486,6 +801,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Німеччина видала Україні прикордонника, який вбив військового в СЗЧ",
+    "link": "https://ua.korrespondent.net/world/4922820-nimechchyna-vydala-ukraini-prykordonnyka-yakyi-vbyv-viiskovoho-v-szch",
+    "pubDate": "2026-10-23 14:54:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4607802.jpg\">Чоловіка підозрюють у вбивстві військовослужбовця, що намагався незаконно перетнути кордон із Молдовою.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 90
+  },
+  {
     "title": "Laura Escanes y Miki Núñez repiten como presentadores de las campanadas de 3Cat",
     "link": "https://www.elperiodico.com/es/tele/20261023/laura-escanes-miki-nunez-campanadas-3cat-tv3-2026-135674742",
     "pubDate": "2026-10-23 14:52:08",
@@ -529,6 +853,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4607764.jpg\">Опади прогнозують у п’яти областях, тоді як на заході країни вночі та вранці місцями очікується туман.",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Переговори про мир для України: що кажуть у Єврокомісії",
+    "link": "https://ua.korrespondent.net/world/4922806-perehovory-pro-myr-dlia-ukrainy-scho-kazhut-u-yevrokomisii",
+    "pubDate": "2026-10-23 14:21:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4607762.jpg\">У Євросоюзі не підтверджують і не спростовують інформацію про можливу переговорну групу високого рівня для діалогу з Володимиром Путіним.",
+    "topic": "політика",
+    "topic_match_probability": 100
   },
   {
     "title": "Побільшало російської: мовна омбудсменка оцінила ситуацію на Закарпатті",
