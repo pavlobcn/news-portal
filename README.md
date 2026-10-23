@@ -1,4 +1,4 @@
-# News for 2026-10-23 21:36
+# News for 2026-10-23 22:29
 
 Previous day: [2026-10-22](./data/2026-10-22.md)
 
@@ -65,6 +65,7 @@ Previous day: [2026-10-22](./data/2026-10-22.md)
 08:08 [T.J. Shorts vuelve al lugar donde ‘nació’ en la Euroliga](https://as.com/baloncesto/euroliga/tj-shorts-vuelve-al-lugar-donde-nacio-en-la-euroliga-f202610-n/)<br>
 
 ## www.elperiodico.com
+22:05 ['Helicobacter pylori': estos son los síntomas de la bacteria que afecta a casi la mitad de la población y puede permanecer oculta durante años](https://www.elperiodico.com/es/sanidad/20261023/helicobacter-pylori-estos-son-los-sintomas-de-la-bacteria-que-afecta-a-casi-la-mitad-de-la-poblacion-135701731)<br>
 20:59 [Éxito de asistencia en la 080 Barcelona Fashion: de L'Amar a David Catalán, el broche de oro a una edición de récord con más de 18.500 visitantes](https://www.elperiodico.com/es/gente/20261023/080-barcelona-fashion-week-visitantes-moda-135686356)<br>
 20:35 [Los Premios Princesa coronan la excelencia un año más y el Rey reclama unidad: "La democracia necesita tiempo y confianza"](https://www.elperiodico.com/es/politica/20261023/familia-real-preside-ceremonia-premios-135684334)<br>
 19:52 [Joan Jubany, sobre la muerte de su hermana Helena: "Hay miembros de la Unió Excursionista Sabadell que saben cosas y callan"](https://www.elperiodico.com/es/sociedad/20261023/joan-hermano-helena-jubany-juicio-crimen-unio-excursionista-sabadell-saben-cosas-135658688)<br>

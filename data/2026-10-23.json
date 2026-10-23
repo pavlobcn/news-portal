@@ -1,5 +1,50 @@
 [
   {
+    "title": "Europa está que arde",
+    "link": "https://www.elperiodico.com/es/opinion/20261023/europa-arde-135702177",
+    "pubDate": "2026-10-23 22:14:27",
+    "category": "",
+    "description": "<h2>La fractura generacional, el desgaste del Estado del bienestar y la desconfianza en la política alimentan un malestar que desborda las fronteras francesas</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "'Helicobacter pylori': estos son los síntomas de la bacteria que afecta a casi la mitad de la población y puede permanecer oculta durante años",
+    "link": "https://www.elperiodico.com/es/sanidad/20261023/helicobacter-pylori-estos-son-los-sintomas-de-la-bacteria-que-afecta-a-casi-la-mitad-de-la-poblacion-135701731",
+    "pubDate": "2026-10-23 22:05:10",
+    "category": "",
+    "description": "<h2 class=\"item\">Los especialistas destacan la importancia de comprobar sistemáticamente que la bacteria ha desaparecido tras el tratamiento, ya que la desaparición de los síntomas no garantiza que la infección se haya erradicado por completo</h2><h2 class=\"item\">Los expertos han elaborado 25 recomendaciones a partir de las nuevas evidencias científicas disponibles</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ciencia/20260318/modificacion-antibiotico-comun-mejorar-tratamiento-helicobacter-pylori-estudio-128107304\">La modificación de un antibiótico común puede mejorar hasta 60 veces el tratamiento de la bacteria estomacal 'Helicobacter pylori'</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Bridgestone desmonta los grandes mitos sobre el mantenimiento y la seguridad de los neumáticos",
+    "link": "https://www.elperiodico.com/es/motor/20261023/bridgestone-desmonta-grandes-mitos-mantenimiento-seguridad-neumaticos-135627041",
+    "pubDate": "2026-10-23 22:01:11",
+    "category": "",
+    "description": "<h2>El fabricante premium analiza las creencias erróneas sobre presión, antigüedad y desgaste que comprometen el rendimiento del vehículo</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Акції Volvo обвалилися на 30%: збитки перевищили прогнози",
+    "link": "https://ua.korrespondent.net/business/companies/4922934-aktsii-Volvo-obvalylysia-na-30-zbytky-perevyschyly-prohnozy",
+    "pubDate": "2026-10-23 21:56:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4608162.jpg\">Щоб стабілізувати фінансове становище, компанія планує скоротити ще 2500 робочих місць і заощадити мільярди крон.",
+    "topic": "автомобілі",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Salvador Illa y Pere Aragonès visitan las obras de retirada del amianto en Badia del Vallès: \"Será la primera ciudad de Europa desamiantada\"",
+    "link": "https://www.elperiodico.com/es/barcelona/20261023/salvador-illa-pere-aragones-visitan-obras-amianto-badia-135680582",
+    "pubDate": "2026-10-23 21:53:37",
+    "category": "",
+    "description": "<h2 class=\"item\">El president de la Generalitat y su antecesor han coincidido en los trabajos para eliminar 355 toneladas de amianto de 127 comunidades de propietarios</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20261014/preparando-cava-empiezan-esperadas-obras-amianto-tuberias-viviendas-127-europa-libre-135323351\">\"Estamos preparando el cava\": Empiezan las esperadas obras para retirar 355 toneladas de amianto de Badia del Vallès tras años de lucha vecinal</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
     "title": "Основний вінгер Арсенала вибув на тривалий час через травму",
     "link": "https://ua.korrespondent.net/sport/football/4922936-osnovnyi-vinher-arsenala-vybuv-na-tryvalyi-chas-cherez-travmu",
     "pubDate": "2026-10-23 21:23:00",
