@@ -1,5 +1,86 @@
 [
   {
+    "title": "Eficiencia ambiental, buena gobernanza y una apuesta por las personas: tres pilares para crecer con responsabilidad",
+    "link": "https://www.elperiodico.com/es/economia/20261023/eficiencia-ambiental-buena-gobernanza-apuesta-bc-135703576",
+    "pubDate": "2026-10-23 23:59:16",
+    "category": "",
+    "description": "<h2>La compañía de alimentación ElPozo ha desarrollado una hoja de ruta basada en la sostenibilidad y la responsabilidad, valores que se han integrado en todas las áreas de la organización como elementos clave de su modelo de gestión</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Макрон відреагував на теракт під Парижем",
+    "link": "https://ua.korrespondent.net/world/4922949-makron-vidreahuvav-na-terakt-pid-paryzhem",
+    "pubDate": "2026-10-23 23:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/0.jpg\">Нападник діяв \"на основі расистської ідеології та щадив окремих людей залежно від кольору їхньої шкіри\", заявив глава держави.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Трамп пригрозив 200% митами Україні та Росії",
+    "link": "https://ua.korrespondent.net/world/worldabus/4922947-tramp-pryhrozyv-200-mytamy-ukraini-ta-rosii",
+    "pubDate": "2026-10-23 23:28:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/0.jpg\">Вашингтон все ж має недостатню торгівлю з Києвом та Москвою, щоб \"змусити їх припинити війну\", визнав лідер США.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "TJ Shorts destroza a su exequipo",
+    "link": "https://as.com/baloncesto/euroliga/tj-shorts-destroza-a-su-exequipo-f202610-n/",
+    "pubDate": "2026-10-23 23:09:05",
+    "category": "Baloncesto",
+    "description": "El Valencia suma la victoria (5-2) con un trabajado partido y una actuación estelar del base (25 puntos y 8 asistencias).",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Трамп заговорив про \"завершення війни\" в Україні",
+    "link": "https://ua.korrespondent.net/world/worldabus/4922944-tramp-zahovoryv-pro-zavershennia-viiny-v-ukraini",
+    "pubDate": "2026-10-23 22:59:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/0.jpg\">Американський лідер висловив надію на близьке завершення російської воєнної агресії проти України.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La portada de EL PERIÓDICO del 24 de octubre de 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20261023/portada-periodico-24-octubre-2026-135702660",
+    "pubDate": "2026-10-23 22:49:36",
+    "category": "",
+    "description": "",
+    "topic": "portada de EL PERIÓDICO",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Trump afirma en Florida que los buques de EEUU \"pasarán\" por Cuba tras la guerra en Irán",
+    "link": "https://www.elperiodico.com/es/internacional/20261023/trump-afirma-florida-buques-ee-135702766",
+    "pubDate": "2026-10-23 22:47:02",
+    "category": "",
+    "description": "<h2>En el marco de su campaña electoral en Florida, Donald Trump reafirmó su presión sobre el Gobierno cubano y destacó la capacidad de Marco Rubio para cerrar un acuerdo</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Війна в Україні стосується лиш Донбасу - Рубіо",
+    "link": "https://ua.korrespondent.net/world/worldabus/4922941-viina-v-ukraini-stosuietsia-lysh-donbasu-rubio",
+    "pubDate": "2026-10-23 22:36:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/0.jpg\">Росії та Україні доведеться піти на певні поступки, щоб закінчити війну, запевняє державний секретар США.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Un juez de Argentina cierra la causa \"criptogate\" que apuntaba contra los hermanos Milei",
+    "link": "https://www.elperiodico.com/es/internacional/20261023/juez-argentina-cierra-causa-criptogate-135702566",
+    "pubDate": "2026-10-23 22:31:01",
+    "category": "",
+    "description": "<h2>Según el dictamen la estafa por cientos de millones de dólares no pudo ser probada. \"Los sucesos denunciados no encuadran en una figura legal\". </h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Europa está que arde",
     "link": "https://www.elperiodico.com/es/opinion/20261023/europa-arde-135702177",
     "pubDate": "2026-10-23 22:14:27",
@@ -43,6 +124,15 @@
     "description": "<h2 class=\"item\">El president de la Generalitat y su antecesor han coincidido en los trabajos para eliminar 355 toneladas de amianto de 127 comunidades de propietarios</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20261014/preparando-cava-empiezan-esperadas-obras-amianto-tuberias-viviendas-127-europa-libre-135323351\">\"Estamos preparando el cava\": Empiezan las esperadas obras para retirar 355 toneladas de amianto de Badia del Vallès tras años de lucha vecinal</a></h2>",
     "topic": "політика",
     "topic_match_probability": 75
+  },
+  {
+    "title": "Лувр і музеї зачинять: Франція готується до нових заворушень",
+    "link": "https://ua.korrespondent.net/world/4922927-luvr-i-muzei-zachyniat-frantsiia-hotuietsia-do-novykh-zavorushen",
+    "pubDate": "2026-10-23 21:39:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4608155.jpg\">Влада готує 70 тисяч правоохоронців, а Лувр та низка інших відомих музеїв не прийматимуть відвідувачів.",
+    "topic": "політика",
+    "topic_match_probability": 70
   },
   {
     "title": "Основний вінгер Арсенала вибув на тривалий час через травму",

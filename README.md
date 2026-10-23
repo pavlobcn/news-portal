@@ -1,4 +1,4 @@
-# News for 2026-10-23 22:29
+# News for 2026-10-24 00:38
 
 Previous day: [2026-10-22](./data/2026-10-22.md)
 
@@ -54,6 +54,7 @@ Previous day: [2026-10-22](./data/2026-10-22.md)
 00:44 [Український "Руслан" загорівся в аеропорту Японії](https://ua.korrespondent.net/world/4922608-ukrainskyi-ruslan-zahorivsia-v-aeroportu-yaponii)<br>
 
 ## as.com
+23:09 [TJ Shorts destroza a su exequipo](https://as.com/baloncesto/euroliga/tj-shorts-destroza-a-su-exequipo-f202610-n/)<br>
 19:15 [Dabone pone Madrid a sus pies](https://as.com/baloncesto/mas_baloncesto/dabone-pone-madrid-a-sus-pies-f202610-n/)<br>
 18:56 [En directo, Euskaltax Bilbao Baskek vs. Joventut Badalona de Liga U](https://as.com/baloncesto/en-directo-euskaltax-bilbao-baskek-vs-joventut-badalona-de-liga-u-f202610-v/)<br>
 17:43 [Real Madrid - Barcelona, en directo: Liga U de baloncesto 2026 en vivo hoy](https://as.com/baloncesto/mas_baloncesto/real-madrid-barcelona-en-directo-liga-u-de-baloncesto-2026-en-vivo-hoy-f202610-d/)<br>
