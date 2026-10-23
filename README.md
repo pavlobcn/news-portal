@@ -1,8 +1,11 @@
-# News for 2026-10-23 19:12
+# News for 2026-10-23 21:36
 
 Previous day: [2026-10-22](./data/2026-10-22.md)
 
 ## ua.korrespondent.net
+19:56 [Данія відмовиться від розведення норок заради хутра](https://ua.korrespondent.net/world/4922911-daniia-vidmovytsia-vid-rozvedennia-norok-zarady-khutra)<br>
+19:43 [Дія та Резерв+ тимчасово обмежать: що не працюватиме](https://ua.korrespondent.net/tech/technews/4922905-diia-ta-rezerv-tymchasovo-obmezhat-scho-ne-pratsuivatyme)<br>
+19:22 [У Сінгапурі створили перший сенсорний екран, вбудований в одяг](https://ua.korrespondent.net/tech/technews/4922906-u-sinhapuri-stvoryly-pershyi-sensornyi-ekran-vbudovanyi-v-odiah)<br>
 18:00 [Перший складаний iPhone доступний для передзамовлення в Україні](https://ua.korrespondent.net/lifestyle/gadgets/4922661-pershyi-skladanyi-iPhone-dostupnyi-dlia-peredzamovlennia-v-ukraini)<br>
 17:54 [Поліція оточила територію біля посольства України у Вашингтоні](https://ua.korrespondent.net/world/4922881-politsiia-otochyla-terytoriui-bilia-posolstva-ukrainy-u-vashynhtoni)<br>
 16:32 [Вакцина проти раку шкіри знизила ризик рецидиву на 42%](https://ua.korrespondent.net/tech/4922822-vaktsyna-proty-raku-shkiry-znyzyla-ryzyk-retsydyvu-na-42)<br>
@@ -51,6 +54,7 @@ Previous day: [2026-10-22](./data/2026-10-22.md)
 00:44 [Український "Руслан" загорівся в аеропорту Японії](https://ua.korrespondent.net/world/4922608-ukrainskyi-ruslan-zahorivsia-v-aeroportu-yaponii)<br>
 
 ## as.com
+19:15 [Dabone pone Madrid a sus pies](https://as.com/baloncesto/mas_baloncesto/dabone-pone-madrid-a-sus-pies-f202610-n/)<br>
 18:56 [En directo, Euskaltax Bilbao Baskek vs. Joventut Badalona de Liga U](https://as.com/baloncesto/en-directo-euskaltax-bilbao-baskek-vs-joventut-badalona-de-liga-u-f202610-v/)<br>
 17:43 [Real Madrid - Barcelona, en directo: Liga U de baloncesto 2026 en vivo hoy](https://as.com/baloncesto/mas_baloncesto/real-madrid-barcelona-en-directo-liga-u-de-baloncesto-2026-en-vivo-hoy-f202610-d/)<br>
 15:10 [Ricky Rubio entra en el nuevo accionariado del Joventut](https://as.com/baloncesto/acb/ricky-rubio-entra-en-el-nuevo-accionariado-del-joventut-f202610-n/)<br>
@@ -61,6 +65,12 @@ Previous day: [2026-10-22](./data/2026-10-22.md)
 08:08 [T.J. Shorts vuelve al lugar donde ‘nació’ en la Euroliga](https://as.com/baloncesto/euroliga/tj-shorts-vuelve-al-lugar-donde-nacio-en-la-euroliga-f202610-n/)<br>
 
 ## www.elperiodico.com
+20:59 [Éxito de asistencia en la 080 Barcelona Fashion: de L'Amar a David Catalán, el broche de oro a una edición de récord con más de 18.500 visitantes](https://www.elperiodico.com/es/gente/20261023/080-barcelona-fashion-week-visitantes-moda-135686356)<br>
+20:35 [Los Premios Princesa coronan la excelencia un año más y el Rey reclama unidad: "La democracia necesita tiempo y confianza"](https://www.elperiodico.com/es/politica/20261023/familia-real-preside-ceremonia-premios-135684334)<br>
+19:52 [Joan Jubany, sobre la muerte de su hermana Helena: "Hay miembros de la Unió Excursionista Sabadell que saben cosas y callan"](https://www.elperiodico.com/es/sociedad/20261023/joan-hermano-helena-jubany-juicio-crimen-unio-excursionista-sabadell-saben-cosas-135658688)<br>
+19:46 [El discurso de la princesa Leonor en los Premios Princesa de Asturias 2026: "¿Cómo mantener el entusiasmo en estos tiempos de desencanto social profundo?"](https://www.elperiodico.com/es/politica/20261023/discurso-princesa-leonor-premios-princesa-asturias-2026-135687994)<br>
+19:37 [La princesa Leonor reivindica la esperanza frente al desencanto de su generación: "Necesitamos confiar"](https://www.elperiodico.com/es/politica/20261023/princesa-leonor-reivindica-esperanza-necesitamos-confiar-generacion-135688463)<br>
+19:31 [Nuestros flechazos en la 080 Barcelona Fashion: de Nathalie Chandler a Guillermina Baeza, los desfiles que nos han conquistado](https://www.elperiodico.com/es/gente/20261023/080-barcelona-fashion-week-natahlie-chandle-guillermina-baeza-dominnico-135679644)<br>
 19:00 [Le pagan 330 veces su sueldo por un error técnico, dimite al día siguiente y la Justicia le da la razón](https://www.elperiodico.com/es/economia/20261023/pago-330-veces-sueldo-error-tecnico-justicia-dv-et-135639303)<br>
 18:57 [Los relojes se atrasan una hora la madrugada del domingo: a las 3 serán las 2](https://www.elperiodico.com/es/sociedad/20261023/cambio-de-hora-domingo-retrasar-relojes-a-las-tres-seran-las-dos-horario-invierno-135685648)<br>
 18:48 [Lisette Oropesa regresa al Liceu con 'I Capuleti e I Montecchi': "En esta ópera, Julieta no es nada naíf, sino una mujer madura que piensa en su responsabilidad"](https://www.elperiodico.com/es/ocio-y-cultura/20261023/lisette-oropesa-regresa-liceu-capuleti-135676250)<br>

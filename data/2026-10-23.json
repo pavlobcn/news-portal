@@ -1,5 +1,311 @@
 [
   {
+    "title": "Основний вінгер Арсенала вибув на тривалий час через травму",
+    "link": "https://ua.korrespondent.net/sport/football/4922936-osnovnyi-vinher-arsenala-vybuv-na-tryvalyi-chas-cherez-travmu",
+    "pubDate": "2026-10-23 21:23:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4608156.jpg\">У складі \"канонірів\" з'явився гравець, на якого не зможуть покладати надію протягом найближчих двох місяців.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Гуманітарний коридор для Олешок: ЗСУ готують дії",
+    "link": "https://ua.korrespondent.net/ukraine/4922923-humanitarnyi-korydor-dlia-oleshok-zsu-hotuuit-dii",
+    "pubDate": "2026-10-23 21:22:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4608125.jpg\">Україна готується забезпечити гуманітарний доступ до окупованих Олешок в Херсонській області.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Pedro Sánchez acepta la entrevista del 'youtuber' Jordi Wild tras el sí de Feijóo, Abascal y Colau",
+    "link": "https://www.elperiodico.com/es/politica/20261023/pedro-sanchez-acepta-entrevista-youtuber-jordi-wild-135701372",
+    "pubDate": "2026-10-23 21:21:14",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/tele/20261023/pedro-sanchez-la-revuelta-entrevista-david-broncano-mejores-momentos-135638288\" target=\"_blank\">Los mejores momentos de Pedro Sánchez en La Revuelta</a></h2><h2><a href=\"https://www.elperiodico.com/es/tele/20261023/pedro-sanchez-revuelta-consejo-proteger-seguridad-movil-virus-pegasus-dv-et-135659758\" target=\"_blank\">Pedro Sánchez y Pegassus</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Порятунок Олешек. Меланія Трамп домовилась?",
+    "link": "https://ua.korrespondent.net/ukraine/4922931-poriatunok-oleshek-melaniia-tramp-domovylas",
+    "pubDate": "2026-10-23 21:13:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/0.jpg\">Білий дім оприлюднив повідомлення про те, що перша леді США Меланія Трамп домоглася укладення перемир'я між Росією та Україною в окупованому РФ місті Олешки на Херсонщині.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Exteriores \"redobla los esfuerzos\" para cumplir con el último auto del Supremo: \"Trabajarán este sábado y domingo\"",
+    "link": "https://www.elperiodico.com/es/internacional/20261023/exteriores-redobla-esfuerzos-cumplir-ultimo-auto-supremo-135700800",
+    "pubDate": "2026-10-23 21:07:42",
+    "category": "",
+    "description": "<h2>El Supremo da cinco días a Bolaños y Albares para que remitan los nombres de los 163.020 nacionalizados por la 'ley de nietos' que no pueden votar</h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Бундесвер готує удари по супутниках",
+    "link": "https://ua.korrespondent.net/world/4922920-bundesver-hotuie-udary-po-suputnykakh",
+    "pubDate": "2026-10-23 21:05:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4608108.jpg\">Німеччина планує створити космічні війська чисельністю щонайменше 1000 осіб і розвиває засоби протидії ворожим супутникам.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Volvo скоротить 2500 працівників",
+    "link": "https://ua.korrespondent.net/business/auto/4922929-Volvo-skorotyt-2500-pratsivnykiv",
+    "pubDate": "2026-10-23 21:05:00",
+    "category": "Авто новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4608140.jpg\">Загальна кількість запланованих скорочень шведського автовиробника зросте з 3000 до 5500 робочих місць.",
+    "topic": "автомобілі",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El horóscopo de mañana, sábado 24 de octubre: amor, trabajo, dinero y salud para todos los signos del zodíaco",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20261023/horoscopo-hoy-sabado-24-octubre-dv-135334101",
+    "pubDate": "2026-10-23 21:00:45",
+    "category": "",
+    "description": "<h2 class=\"item\">Conoce la suerte de tu horóscopo a partir de los signos del zodíaco, según la astrología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/temas/horoscopo-11990\" >Consulta el horóscopo diario de tu signo de ayer, hoy y mañana</a></h2>",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Éxito de asistencia en la 080 Barcelona Fashion: de L'Amar a David Catalán, el broche de oro a una edición de récord con más de 18.500 visitantes",
+    "link": "https://www.elperiodico.com/es/gente/20261023/080-barcelona-fashion-week-visitantes-moda-135686356",
+    "pubDate": "2026-10-23 20:59:39",
+    "category": "",
+    "description": "<h2 class=\"item\">Más de 6.000 personas han pasado por el Open Area, que dispara su público respecto a abril, mientras que PLEC, la nueva apuesta cultural del Ayuntamiento, se estrena con más de 3.000 asistentes en dos días</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20261023/080-barcelona-fashion-week-natahlie-chandle-guillermina-baeza-dominnico-135679644\" target=\"_blank\">Nuestros flechazos en la 080 Barcelona Fashion: de Nathalie Chandler a Guillermina Baeza, los desfiles que nos han conquistado</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20261022/plec-barcelona-festival-moda-arte-musica-tinglados-port-vell-135614739\" target=\"_blank\">PLEC, la otra fiesta de la moda de la 080 Barcelona Fashion más allá de la pasarela: música, arte, pódcasts y mucho talento local</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "\"Detrás de esta Badia hay memoria y futuro\": el documental 'Vecinos de Hormigón' reivindica la historia de la ciudad",
+    "link": "https://www.elperiodico.com/es/barcelona/20261023/detras-badia-hay-memoria-futuro-el-documental-vecinos-de-hormigon-reivindica-la-historia-vecinal-ciudad-135695011",
+    "pubDate": "2026-10-23 20:52:45",
+    "category": "",
+    "description": "<h2>Centenares de vecinos arropan la presentación del documental de Movistar Plus+, con la participación de EL PERIÓDICO, que repasa medio siglo de luchas vecinales</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20261023/badia-valles-ciudad-construyo-llega-documental-pantalla-vecinos-lucha-vecinal-135636427\" target=\"_blank\">Badia del Vallès acoge el estreno de 'Vecinos de Hormigón', el documental sobre el medio siglo de lucha vecinal de la ciudad</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Молдова вижене дипломата РФ після інциденту з дроном",
+    "link": "https://ua.korrespondent.net/world/4922916-moldova-vyzhene-dyplomata-rf-pislia-intsydentu-z-dronom",
+    "pubDate": "2026-10-23 20:46:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4608107.jpg\">У Молдові оголосили про намір вислати співробітника російського посольства після виявлення дрона з вибухівкою поблизу житлового будинку.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Бій Бенавідеса за три чемпіонські пояси перенесено на більш ранню дату",
+    "link": "https://ua.korrespondent.net/sport/boks/4922925-bii-benavidesa-za-try-chempionski-poiasy-pereneseno-na-bilsh-rannui-datu",
+    "pubDate": "2026-10-23 20:44:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4608124.jpg\">Чемпіон важкої ваги Девід Бенавідес вийде на ринг із Міхалом Чесляком у боротьбі за три титули.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Muere un niño de año y medio ahogado en una piscina particular de Valencia",
+    "link": "https://www.elperiodico.com/es/sucesos/20261023/muere-nino-ano-medio-ahogado-135696397",
+    "pubDate": "2026-10-23 20:43:55",
+    "category": "",
+    "description": "<h2>Un guardia civil que vive en la zona rescató del agua a un hermano de la víctima, de 3 años, tras el accidente, ocurrido en la localidad de Tous</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Los Premios Princesa coronan la excelencia un año más y el Rey reclama unidad: \"La democracia necesita tiempo y confianza\"",
+    "link": "https://www.elperiodico.com/es/politica/20261023/familia-real-preside-ceremonia-premios-135684334",
+    "pubDate": "2026-10-23 20:35:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Los discursos de Leonor y el historiador Timothy Garton-Ash dejan un diálogo esperanzador para que las nuevas generaciones salven el futuro de Europa: \"Si conjugáramos diversidad y unidad seríamos imbatibles\", afirma el historiador mientras la heredera de la Corona apela a la \"confianza\"</h2><h2 class=\"item\">La cantante Patti Smith da la sorpresa al cantar a capela 'Wing' y la astronauta Kristina Koch mete a la humanidad en el mismo cohete: \"No esperen a la próxima misión a la Luna para darse cuenta de que sus semejantes son sus compañeros de tripulación\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ya tenemos precio para el Lexus TZ, que arranca en 88.000 euros",
+    "link": "https://www.elperiodico.com/es/motor/20261023/precio-lexus-tz-arranca-gama-88-000-euros-135669329",
+    "pubDate": "2026-10-23 20:33:09",
+    "category": "",
+    "description": "<h2>El SUV eléctrico de seis plazas se ofrece dos niveles de potencia y otros tantos acabados a elegir, con tracción total en ambos</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Зеленський назвав кількість українців за кордоном",
+    "link": "https://ua.korrespondent.net/ukraine/4922913-zelenskyi-nazvav-kilkist-ukraintsiv-za-kordonom",
+    "pubDate": "2026-10-23 20:29:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4608089.jpg\">Через повномасштабну війну за межами України перебувають 9,5 мільйона цивільних громадян.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Los Mossos denuncian a 252 conductores por exceso de velocidad en tres horas y media en Ponent (Lleida)",
+    "link": "https://www.elperiodico.com/es/sucesos/20261023/mossos-denuncian-252-conductores-exceso-velocidad-135693857",
+    "pubDate": "2026-10-23 20:26:54",
+    "category": "",
+    "description": "<h2 class=\"item\">Un dispositivo especial, en el que también se han controlado otros 390 vehículos, ha detectado distracciones al volante y posesión de drogas</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Robots humanoides, vivienda y libertad de mercado",
+    "link": "https://www.elperiodico.com/es/opinion/20261023/robots-humanoides-vivienda-libertad-mercado-135695312",
+    "pubDate": "2026-10-23 20:17:09",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Керманич Баварії проводить час у лікарні через вірусну інфекцію",
+    "link": "https://ua.korrespondent.net/sport/football/4922919-kermanych-bavarii-provodyt-chas-u-likarni-cherez-virusnu-infektsiui",
+    "pubDate": "2026-10-23 20:16:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4608091.jpg\">Венсан Компані опинився на лікарняному ліжку, підхопивши вірусну інфекцію. Провівши тренування з командою, тренер раптово втратив свідомість.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "У Німеччині викрили схему підробки мовних сертифікатів",
+    "link": "https://ua.korrespondent.net/world/4922909-u-nimechchyni-vykryly-skhemu-pidrobky-movnykh-sertyfikativ",
+    "pubDate": "2026-10-23 20:11:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4608072.jpg\">У Німеччині затримали сімох підозрюваних у виготовленні та продажу фальшивих сертифікатів про знання німецької мови.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Данія відмовиться від розведення норок заради хутра",
+    "link": "https://ua.korrespondent.net/world/4922911-daniia-vidmovytsia-vid-rozvedennia-norok-zarady-khutra",
+    "pubDate": "2026-10-23 19:56:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4608090.jpg\">Нові обмеження ЄС мають запрацювати 7 серпня, перехідний період триватиме до 2029 року.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Joan Jubany, sobre la muerte de su hermana Helena: \"Hay miembros de la Unió Excursionista Sabadell que saben cosas y callan\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261023/joan-hermano-helena-jubany-juicio-crimen-unio-excursionista-sabadell-saben-cosas-135658688",
+    "pubDate": "2026-10-23 19:52:30",
+    "category": "",
+    "description": "<h2 class=\"item\">A la joven <strong>Helena Jubany </strong>varias personas la drogaron un viernes de diciembre de 2001, la mantuvieron encerrada 40 horas en un piso de Sabadell y, finalmente, la arrojaron al vacío desde la azotea. La<strong> Policía Nacional</strong> concluyó que había que buscar a los culpables entre los miembros de la <strong>Unió Excursionista de Sabadell (UES)</strong>, un club al que la víctima, forastera en la ciudad, se había inscrito un año antes para hacer amigos. Pero los investigadores no pudieron probarlo. Para desesperación de la familia Jubany, la causa se archivó y, durante dos décadas, nadie de la UES se apiadó de ellos y les contó la verdad. Saberla se ha convertido en una obsesión para los Jubany, que esta semana celebran que habrá un juicio contra el principal sospechoso, <strong>Santiago Laiglesia.</strong></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261016/jueza-envia-juicio-santi-laiglesia-crimen-helena-jubany-135424347\" target=\"_blank\">Santiago Laiglesia irá a juicio por el asesinato de Helena Jubany 25 años después</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Felipe VI pide cuidar las \"formas e instituciones\" de la democracia ante las elecciones del 29-N",
+    "link": "https://www.elperiodico.com/es/politica/20261023/felipe-vi-cuidar-formas-instituciones-elecciones-generales-135689021",
+    "pubDate": "2026-10-23 19:47:51",
+    "category": "",
+    "description": "<h2 class=\"item\">El Rey reivindica un \"compromiso diario, cívico y exigente\" para garantizar la convivencia y recuerda el legado de la Transición</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El discurso de la princesa Leonor en los Premios Princesa de Asturias 2026: \"¿Cómo mantener el entusiasmo en estos tiempos de desencanto social profundo?\"",
+    "link": "https://www.elperiodico.com/es/politica/20261023/discurso-princesa-leonor-premios-princesa-asturias-2026-135687994",
+    "pubDate": "2026-10-23 19:46:30",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20261023/premios-princesa-asturias-2026-ultima-hora-directo-135665505\" target=\"_blank\">DIRECTO | Premios Princesa de Asturias 2026, en directo: última hora de la ceremonia, discurso de la Princesa Leonor y entrega de premios a Leo Messi y al resto de galardonados</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Дія та Резерв+ тимчасово обмежать: що не працюватиме",
+    "link": "https://ua.korrespondent.net/tech/technews/4922905-diia-ta-rezerv-tymchasovo-obmezhat-scho-ne-pratsuivatyme",
+    "pubDate": "2026-10-23 19:43:00",
+    "category": "Технології",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4608071.jpg\">З вечора 23 жовтня до ранку 26 жовтня частина послуг на порталі Дія, у ЦНАПах та застосунку«Резерв» буде тимчасово недоступна.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La princesa Leonor reivindica la esperanza frente al desencanto de su generación: \"Necesitamos confiar\"",
+    "link": "https://www.elperiodico.com/es/politica/20261023/princesa-leonor-reivindica-esperanza-necesitamos-confiar-generacion-135688463",
+    "pubDate": "2026-10-23 19:37:00",
+    "category": "",
+    "description": "<h2 class=\"item\">La heredera de la Corona reconoce las dificultades de los jóvenes para encontrar un buen trabajo y acceder a una casa, pero reivindica la ilusión y la confianza en el futuro frente al pesimismo</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Nuestros flechazos en la 080 Barcelona Fashion: de Nathalie Chandler a Guillermina Baeza, los desfiles que nos han conquistado",
+    "link": "https://www.elperiodico.com/es/gente/20261023/080-barcelona-fashion-week-natahlie-chandle-guillermina-baeza-dominnico-135679644",
+    "pubDate": "2026-10-23 19:31:35",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20261023/080-barcelona-fashion-week-visitantes-moda-135686356\" target=\"_blank\">Éxito de asistencia en la 080 Barcelona Fashion: de L'Amar a David Catalán, el broche de oro a una edición de récord con más de 18.500 visitantes</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20261020/080-reborn-cinco-anos-segunda-mano-pasarela-nomada-135528283\" target=\"_blank\">080 Reborn cumple 5 años empoderando la segunda mano en la pasarela: así es 'Nòmada', la propuesta para \"vestir mejor sin comprar más\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Зеленський висловився щодо зустрічі в Абу-Дабі",
+    "link": "https://ua.korrespondent.net/ukraine/4922901-zelenskyi-vyslovyvsia-schodo-zustrichi-v-abu-dabi",
+    "pubDate": "2026-10-23 19:24:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4608055.jpg\">Українська сторона готова до переговорів у будь-який час, втім, проведення зустрічі залежить від РФ.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "У Сінгапурі створили перший сенсорний екран, вбудований в одяг",
+    "link": "https://ua.korrespondent.net/tech/technews/4922906-u-sinhapuri-stvoryly-pershyi-sensornyi-ekran-vbudovanyi-v-odiah",
+    "pubDate": "2026-10-23 19:22:00",
+    "category": "Технології",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4608070.jpg\">Кольоровий дисплей в рукаві здатний відображати зображення та відео, розпізнавати дотики й підтримує бездротове підключення до інших пристроїв.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Restaurante Nuara: cocina de mercado de campanillas junto al mar",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20261023/restaurante-nuara-barcelona-balcon-gastronomico-port-olimpic-130236740",
+    "pubDate": "2026-10-23 19:17:57",
+    "category": "",
+    "description": "<h2 class=\"item\">El restaurante del <a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20250508/balcon-gastronomico-barcelona-mejores-restaurantes-115887563\">Balcón Gastronómico</a> apuesta por la brasa y el producto de calidad para sus platos mediterráneos</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/cata-mayor/restaurantes/20241124/mejores-restaurantes-vila-olimpica-barcelona-111590935\" >Los mejores restaurantes de la Vila Olímpica para todos los bolsillos</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/cata-mayor/restaurantes/20240718/mejores-restaurantes-barceloneta-barcelona-105710860\" >Los mejores restaurantes de la Barceloneta</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Vandalizado el beso de Lamine Yamal y Mbappé, el nuevo mural de TvBoy antes del Clásico",
+    "link": "https://www.elperiodico.com/es/deportes/20261023/beso-lamine-yamal-mbappe-tvboy-135687120",
+    "pubDate": "2026-10-23 19:15:49",
+    "category": "",
+    "description": "<h2>\"La obra no duró ni una hora. Un beso contra la violencia y la homofobia en el fútbol. Una prueba de que este mensaje sigue siendo necesario\", señala el autor</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Dabone pone Madrid a sus pies",
+    "link": "https://as.com/baloncesto/mas_baloncesto/dabone-pone-madrid-a-sus-pies-f202610-n/",
+    "pubDate": "2026-10-23 19:15:01",
+    "category": "Baloncesto",
+    "description": "Gran Clásico de la Liga U que se lleva el Barça con su estrella como jugador más destacado. Kutluay, también brillante, fue de más a menos",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Toyota оновила кросовер Crown Signia",
+    "link": "https://ua.korrespondent.net/lifestyle/motors/4922899-Toyota-onovyla-krosover-Crown-Signia",
+    "pubDate": "2026-10-23 19:14:00",
+    "category": "Автомобілі",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4608047.jpg\">Toyota вирішила не змінювати технічну основу Crown Signia, зосередившись на вдосконаленні оснащення та перегляді цін.",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Футболіст Динамо пояснив зіткнення з Петряком",
+    "link": "https://ua.korrespondent.net/sport/football/4922902-futbolist-dynamo-poiasnyv-zitknennia-z-petriakom",
+    "pubDate": "2026-10-23 19:14:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4608032.jpg\">Гравець Динамо, у зіткненні з яким Іван Петряк отримав серйозну травму і впав на газон непритомний, прокоментував ігровий момент.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Café Saula, la marca 'premium' de Pascual, se expande a Galicia, Asturias y Cantabria, tras desembarcar en Madrid",
     "link": "https://www.elperiodico.com/es/economia/20261023/cafe-saula-pascual-expande-galicia-asturias-cantabria-madrid-135687285",
     "pubDate": "2026-10-23 19:09:27",
