@@ -1,8 +1,12 @@
-# News for 2026-10-23 07:58
+# News for 2026-10-23 08:46
 
 Previous day: [2026-10-22](./data/2026-10-22.md)
 
 ## ua.korrespondent.net
+08:41 [ISW: Операція ЗСУ зриває плани Кремля на Донеччині](https://ua.korrespondent.net/ukraine/4922657-ISW-operatsiia-zsu-zryvaie-plany-kremlia-na-donechchyni)<br>
+08:20 [Атака на енергетику Житомирщини: без світла понад 900 населених пунктів](https://ua.korrespondent.net/ukraine/4922651-ataka-na-enerhetyku-zhytomyrschyny-bez-svitla-ponad-900-naselenykh-punktiv)<br>
+08:18 [У двох воєводствах Польщі оголосили небезпеку через атаку РФ на Україну](https://ua.korrespondent.net/world/4922648-u-dvokh-voievodstvakh-polschi-oholosyly-nebezpeku-cherez-ataku-rf-na-ukrainu)<br>
+08:07 [92 реактивні дрони серед 176: подробиці атаки РФ](https://ua.korrespondent.net/ukraine/4922645-92-reaktyvni-drony-sered-176-podrobytsi-ataky-rf)<br>
 07:47 [Перехід на зимовий час: коли переводити годинники](https://ua.korrespondent.net/ukraine/4922642-perekhid-na-zymovyi-chas-koly-perevodyty-hodynnyky)<br>
 07:26 [Росіяни просунулися на Запоріжжі - DeepState](https://ua.korrespondent.net/ukraine/4922640-rosiiany-prosunulysia-na-zaporizhzhi-DeepState)<br>
 06:43 [У Полтаві російські дрони поцілили в залізничну інфраструктуру](https://ua.korrespondent.net/ukraine/4922630-u-poltavi-rosiiski-drony-potsilyly-v-zaliznychnu-infrastrukturu)<br>
@@ -13,7 +17,13 @@ Previous day: [2026-10-22](./data/2026-10-22.md)
 02:30 [Фінляндія безплатно передасть Україні унікальні локомотиви](https://ua.korrespondent.net/ukraine/4922614-finliandiia-bezplatno-peredast-ukraini-unikalni-lokomotyvy)<br>
 00:44 [Український "Руслан" загорівся в аеропорту Японії](https://ua.korrespondent.net/world/4922608-ukrainskyi-ruslan-zahorivsia-v-aeroportu-yaponii)<br>
 
+## as.com
+08:16 [Dabone y Kutluay se citan en el Clásico de la Liga U](https://as.com/baloncesto/mas_baloncesto/dabone-y-kutluay-se-citan-en-el-clasico-de-la-liga-u-f202610-n/)<br>
+08:08 [T.J. Shorts vuelve al lugar donde ‘nació’ en la Euroliga](https://as.com/baloncesto/euroliga/tj-shorts-vuelve-al-lugar-donde-nacio-en-la-euroliga-f202610-n/)<br>
+
 ## www.elperiodico.com
+08:39 [Lucas Cousido, estudiante de Ciencia e Ingeniería de Datos: "La generación Leonor crecimos mientras el mundo cambiaba a toda velocidad"](https://www.elperiodico.com/es/sociedad/20261023/lucas-cousido-estudiante-ciencia-ingenieria-135657553)<br>
+08:00 [Así es Mobo, el robot humanoide con inteligencia artificial creado por AiMOGA y el grupo Chery](https://www.elperiodico.com/es/motor/20261023/grupo-chery-presenta-mobo-robot-humanoide-135624444)<br>
 07:45 [Las imágenes de la NASA muestran que los océanos del mundo están cambiando de color: este es el motivo](https://www.elperiodico.com/es/medio-ambiente/20261023/imagenes-nasa-muestran-oceanos-mundo-135656505)<br>
 07:38 [Muere el actor Tom Skerritt, estrella de 'Top Gun' y 'Alien', a los 93 años](https://www.elperiodico.com/es/ocio-y-cultura/20261023/muere-93-anos-tom-skerritt-135652681)<br>
 07:12 [Alberto (25 años) lo ha dejado todo para irse a vivir en medio del campo y cultivar sus propios alimentos: "Me gustaría montarme un gimnasio, porque llevo ya tres meses sin ir"](https://www.elperiodico.com/es/economia/20261023/vida-rural-autosuficiente-campo-cultivo-alimentos-huerto-alberto-dv-et-135574664)<br>
