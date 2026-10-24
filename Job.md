@@ -1,20 +1,26 @@
 # Actions:
 
-1. Execute scripts (in the exact order), output all logs from executed scripts to a summary (will be used for debugging):
-   - 10-download-rss.js
-   - 20-build-news-json.js
-   - 30-prune-news-by-recent-days.js
-   - 35-join-yesterday-today-news.js
-   - 40-split-news-by-day.js 
-   - 50-generate-news-markdown.js 
-   - 60-promote-today-news-json.js
-2. Include in commit only *.json and *.md files.
-3. Set remote URL for a repo: https://github.com/pavlobcn/news-portal.git.
-4. Push changes to "main" branch using https: user in github_user variable, PAT in github_pat variable.
-5. Mandatory verification and completion gate:
-   - Run and include outputs of:
-     - git branch --show-current
-     - git rev-parse HEAD
-     - git ls-remote --heads origin main
-   - The task is complete only when git push origin main succeeds and git ls-remote --heads origin main points to the same commit as git rev-parse HEAD.
-   - If push fails, stop and report failure with stderr; do not mark task complete.
+1. Run command:
+
+```bash
+node src/prepare-data.js
+```
+
+2. Define filter matching with LLM (human-like understanding):
+
+Use `Filter.md` as the source of topics and update `news.json`: for each item add two new fields:
+- `topic` — best matching topic from `Filter.md`
+- `topic_match_probability` — 0..100 score based on title/category/description semantic meaning
+
+Rules for LLM matching:
+- Match by meaning, not by exact keywords.
+- Use title/category/description context as a human editor would.
+- When acronyms or names are mentioned, understand what it means to better match with filter.
+- Keep `0` when nothing meaningfully matches.
+- Use `100` for very close matches (e.g., FC Barcelona football news => `спорт=100`; boxing news => `спорт` with high score).
+
+3. Run command:
+
+```bash
+node src/generate-summary.js
+```
