@@ -1,8 +1,11 @@
-# News for 2026-10-24 13:28
+# News for 2026-10-24 15:46
 
 Previous day: [2026-10-23](./data/2026-10-23.md)
 
 ## ua.korrespondent.net
+15:19 [На Філіппінах зіткнулися два військові літаки](https://ua.korrespondent.net/world/4923034-na-filippinakh-zitknulysia-dva-viiskovi-litaky)<br>
+15:07 [Юта вперше перемагає, Лейкерс обійшли Кліпперс](https://ua.korrespondent.net/sport/basketball/4923027-yuta-vpershe-peremahaie-leikers-obiishly-klippers)<br>
+13:45 [НБУ зменшив продаж доларів на тлі падіння гривні](https://ua.korrespondent.net/business/financial/4923018-nbu-zmenshyv-prodazh-dolariv-na-tli-padinnia-hryvni)<br>
 12:53 [Росіяни знову атакували Лозову, є жертви](https://ua.korrespondent.net/ukraine/4923013-rosiiany-znovu-atakuvaly-lozovu-ye-zhertvy)<br>
 10:57 [У Starlink швидкість понад 400 км/год - Міноборони](https://ua.korrespondent.net/ukraine/4923000-u-Starlink-shvydkist-ponad-400-kmhod-minoborony)<br>
 10:36 [Генштаб підтвердив ураження двох заводів в Росії](https://ua.korrespondent.net/ukraine/4922998-henshtab-pidtverdyv-urazhennia-dvokh-zavodiv-v-rosii)<br>
@@ -28,6 +31,14 @@ Previous day: [2026-10-23](./data/2026-10-23.md)
 05:48 [Juan Núñez: “Sigo siendo el mismo que era”](https://as.com/baloncesto/acb/juan-nunez-sigo-siendo-el-mismo-que-era-f202610-n/)<br>
 
 ## www.elperiodico.com
+15:38 [La princesa Leonor reivindica el trabajo invisible de las mujeres en la historia de la pesca](https://www.elperiodico.com/es/politica/20261024/princesa-leonor-trabajo-invisible-mujeres-pesca-135716223)<br>
+15:32 [250 cabras recorren 60 kilómetros por Catalunya para recuperar una antigua ruta ganadera](https://www.elperiodico.com/es/sociedad/20261024/250-cabras-recorren-60-kilometros-ruta-ganadera-135714937)<br>
+15:22 [La reina Letizia se resbala y se cae en un barco en Llanes](https://www.elperiodico.com/es/politica/20261024/reina-letizia-resbala-cae-barco-llanes-135715020)<br>
+15:15 [Diego Fernández, ingeniero químico, revela para qué sirve realmente el bicarbonato: "Yo lo uso para limpiar las paredes y la suela de los zapatos"](https://www.elperiodico.com/es/vida-y-estilo/20261024/diego-fernandez-ingeniero-quimico-usos-bicarbonato-sodio-dv-135681779)<br>
+15:00 [El curioso invento impulsado en Sant Fruitós para que las ardillas puedan cruzar las calles con seguridad](https://www.elperiodico.com/es/sociedad/20261024/curioso-invento-impulsado-sant-fruitos-calles-seguridad-dv-135639956)<br>
+14:53 [Estos son los hospitales de Girona reconocidos entre los mejores de España](https://www.elperiodico.com/es/sociedad/20261024/hospitales-girona-reconocidos-mejores-espana-135714420)<br>
+14:37 [De la parka de Mango de Leonor a la cazadora bomber de Massimo Dutti de Sofía: los looks, cómodos y marineros, de la Reina, la Princesa y la Infanta en el "Pueblo Ejemplar" de Asturias](https://www.elperiodico.com/es/vida-y-estilo/20261024/parka-mango-leonor-cazadora-bomber-135714158)<br>
+13:41 [La gran noche de Cuatrecasas pone el listón muy alto a Luis Conde](https://www.elperiodico.com/es/opinion/20261024/gran-noche-cuatrecasas-pone-liston-cena-politicos-empresarios-barceloneando-vehils-135712070)<br>
 13:00 [¿Qué pensión puede cobrar un militar jubilado en España? La cifra te sorprenderá](https://www.elperiodico.com/es/sociedad/20261024/pension-cobrar-militar-jubilado-espana-dv-135676372)<br>
 13:00 [Empar Moliner (59 años), sobre hacerse mayor: "Me da rabia que me cedan el asiento, también que no lo hagan"](https://www.elperiodico.com/es/gente/20261024/empar-moliner-edad-transporte-publico-asientos-reservados-mayores-dv-et-135535828)<br>
 12:30 [El debate del cambio de hora: estos son los países que ya han dicho ‘no’ para siempre](https://www.elperiodico.com/es/sociedad/20261024/debate-cambio-hora-paises-no-siempre-dv-128587669)<br>
