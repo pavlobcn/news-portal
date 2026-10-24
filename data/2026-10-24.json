@@ -1,5 +1,392 @@
 [
   {
+    "title": "Шахтар — Зоря: анонс матчу чемпіонату України",
+    "link": "https://ua.korrespondent.net/sport/4923002-shakhtar-zoria-anons-matchu-chempionatu-ukrainy",
+    "pubDate": "2026-10-24 11:50:00",
+    "category": "Новини спорту",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4608874.jpg\">BETKING, стратегічним партнером УПЛ, пропонує анонс поєдинку чемпіонату України.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Junts se reivindica como el único partido de \"obediencia estrictamente catalana\" ante ERC",
+    "link": "https://www.elperiodico.com/es/politica/20261024/junts-erc-partido-obediencia-catalana-elecciones-generales-135709468",
+    "pubDate": "2026-10-24 11:49:08",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261017/nogueras-reivindica-papel-junts-frenar-dos-bloques-espanoles-135444485\">Nogueras reivindica el papel de Junts para frenar a los \"dos bloques españoles\"</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Detenido por violar a una mujer migrante y secuestrarla en su domicilio de Palma tras engañarla con darle trabajo de limpiadora",
+    "link": "https://www.elperiodico.com/es/sucesos/20261024/detenido-violar-mujer-migrante-enganarla-135709442",
+    "pubDate": "2026-10-24 11:31:34",
+    "category": "",
+    "description": "<h2>El sujeto intentó engañar a los agentes de la Policía Nacional aduciendo que la víctima había entrado en su vivienda a robar</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los Mossos investigan la conexión entre un altercado con disparos en Polinyà, un coche acribillado y dos heridos de bala en La Mina",
+    "link": "https://www.elperiodico.com/es/barcelona/20261024/mossos-disparos-alteracado-arma-polinya-mina-sant-adria-135708724",
+    "pubDate": "2026-10-24 11:22:02",
+    "category": "",
+    "description": "<h2 class=\"item\">Los investigadores tratan de aclarar las causas del incidente, por el que aún no hay detenidos, y fuentes policiales apuntan que los dos hombres que presentan heridas compatibles con balazos son reacios a colaborar en las pesquisas</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Словаччині проходять місцеві вибори",
+    "link": "https://ua.korrespondent.net/world/4923004-u-slovachchyni-prokhodiat-mistsevi-vybory",
+    "pubDate": "2026-10-24 11:22:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4608923.jpg\">Ці вибори вважаються барометром настроїв суспільства напередодні наступних парламентських виборів, які мають відбутися не пізніше вересня 2027 року.",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "¿Indicios científicos de reencarnación? Un estudio de 1.678 casos detecta un patrón inesperado en los relatos de vidas pasadas",
+    "link": "https://www.elperiodico.com/es/tendencias21/20261024/indicios-cientificos-reencarnacion-estudio-1-135612157",
+    "pubDate": "2026-10-24 11:19:00",
+    "category": "",
+    "description": "<h2>Un equipo de la Universidad de Virginia identifica una relación entre las muertes inesperadas y el tiempo que transcurre hasta el supuesto renacimiento, especialmente en familias que no creen en múltiples vidas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Desalojadas una decena de personas por el derrumbe de una casa en el centro histórico de Balaguer",
+    "link": "https://www.elperiodico.com/es/sociedad/20261024/desalojadas-decena-personas-derrumbe-casa-balaguer-centro-historico-135708932",
+    "pubDate": "2026-10-24 11:18:44",
+    "category": "",
+    "description": "<h2>El edificio estaba deshabitado y el hundimiento no ha causado heridos. Los vecinos afectados han sido realojados en un hotel hasta que se revise la seguridad de los inmuebles colindantes</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/badalona/20260424/treinta-personas-desalojadas-derrumbe-edificio-129464992\">Treinta personas desalojadas por el derrumbe de un edificio abandonado en Badalona</a></h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Alexia Hartmann, médica aérea y de expedición, sobre los rescates en el Everest: \"Los helicópteros no llegan porque no pueden volar\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261024/alexia-hartmann-medica-aerea-rescates-everest-helicopteros-no-pueden-volar-dv-et-135635507",
+    "pubDate": "2026-10-24 11:15:07",
+    "category": "",
+    "description": "<h2>La médica de montaña critica que hoy en día solo con pagar ya se puede subir al Everest con todas las facilidades, con el riesgo que eso puede suponer</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los Mossos refuerzan las medidas de seguridad ante la alerta yihadista por posibles ataques contra policías y manifestantes",
+    "link": "https://www.elperiodico.com/es/sociedad/20261024/mossos-refuerzan-medidas-seguridad-alerta-manifestaciones-previstas-fin-de-semana-135708725",
+    "pubDate": "2026-10-24 11:14:02",
+    "category": "",
+    "description": "<h2>La cúpula policial envía una comunicación interna a los agentes para extremar las precauciones durante las movilizaciones previstas este fin de semana en Barcelona y otros puntos de España</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20261024/mossos-detectan-collblanc-nueva-modalidad-pinganillo-carteristas-ladrones-135676692\">Los Mossos detectan en Collblanc una nueva modalidad de robo: carteristas con pinganillo para 'cazar' víctimas</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Atrapan a un atracador que atacaba gasolineras atendidas por mujeres solas",
+    "link": "https://www.elperiodico.com/es/sucesos/20261024/atrapan-atracador-atacaba-gasolineras-atendidas-mujeres-solas-135708859",
+    "pubDate": "2026-10-24 11:13:34",
+    "category": "",
+    "description": "",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Esto es lo qué ocurre en tu intestino cuando tomas entre tres y cinco cafés al día, según un estudio: la cafeína no lo explica todo",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20261024/estudio-cafe-cafeina-intestino-dv-135532729",
+    "pubDate": "2026-10-24 11:10:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Un ensayo con 62 adultos en Irlanda detecta cambios en bacterias intestinales, estrés y memoria según se tome café con o sin cafeína</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261020/tim-spector-medico-microbiota-cafe-microbioma-intestinal-dv-127912126\" >Tim Spector, experto en microbiota, sobre la cafeína: \"Los bebedores de café suelen presentar mejores indicadores de salud del corazón\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261020/nuria-roure-psicologa-experta-sueno-cerebro-efectos-cafeina-dv-128593150\" >Núria Roure, experta en sueño: \"Tu cerebro todavía está bajo el efecto de la cafeína cuando te vas a dormir\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20261020/mapa-cafe-barcelona-caro-barceloneta-gotic-dreta-de-leixample-dv-et-135509499\" >El mapa del café en Barcelona: los barrios donde tomarte un cortado se ha convertido en un lujo</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Votar sin leer",
+    "link": "https://www.elperiodico.com/es/opinion/20261024/votar-leer-twitter-tiktok-ia-articulo-valenti-puig-135701600",
+    "pubDate": "2026-10-24 11:00:26",
+    "category": "",
+    "description": "<h2>Perdemos vocabulario. La conversación se hace más trivial. Escribir de mucha pereza. Es al revés de cuando leer libros y prensa sustentaba la expansión demoliberal</h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "У Starlink швидкість понад 400 км/год - Міноборони",
+    "link": "https://ua.korrespondent.net/ukraine/4923000-u-Starlink-shvydkist-ponad-400-kmhod-minoborony",
+    "pubDate": "2026-10-24 10:57:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4608870.jpg\">Якщо раніше системи моніторингу фіксували обмеження у роботі Starlink/Starshield, то наразі показники швидкості відновилися.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las obras del puente de Marina alteran el tráfico en el Eixample a partir de este domingo",
+    "link": "https://www.elperiodico.com/es/barcelona/20261024/barcelona-obras-puente-marina-trafico-movilidad-135707721",
+    "pubDate": "2026-10-24 10:50:24",
+    "category": "",
+    "description": "<h2 class=\"item\">La remodelación conlleva afectaciones entre las calles Ali Bei y la avenida Meridiana, con carriles de circulación cortado y desvíos para los conductores</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20261023/obras-conexion-tranvia-diagonal-barcelona-empezaran-verano-del-2027-135660742\">Las obras de conexión del tranvía por la Diagonal de Barcelona empezarán el verano del 2027</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Mourinho se mira al espejo antes del clásico: \"El Madrid con Mourinho gana títulos\"",
+    "link": "https://www.elperiodico.com/es/deportes/20261024/mourinho-real-madrid-barca-clasico-135708236",
+    "pubDate": "2026-10-24 10:43:52",
+    "category": "",
+    "description": "<h2>El entrenador portugués apuesta por un perfil bajo en la previa del primer clásico de la temporada contra el Barça</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Генштаб підтвердив ураження двох заводів в Росії",
+    "link": "https://ua.korrespondent.net/ukraine/4922998-henshtab-pidtverdyv-urazhennia-dvokh-zavodiv-v-rosii",
+    "pubDate": "2026-10-24 10:36:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4608871.jpg\">Також уражено літак на аеродромі Єйськ Краснодарського краю РФ. Ступінь пошкоджень уточнюється.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "EEUU aumenta la presión sobre Cuba anunciando un ataque naval e invitando a su población a colaborar con la CIA",
+    "link": "https://www.elperiodico.com/es/internacional/20261024/eeuu-aumenta-presion-cuba-anunciando-buques-guerra-cia-135707675",
+    "pubDate": "2026-10-24 10:20:06",
+    "category": "",
+    "description": "<h2>EEUU llama a los cubanos a colaborar con la CIA para \"un cambio positivo\" en la isla</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Кенії троє людей померли від Еболи",
+    "link": "https://ua.korrespondent.net/world/4922996-u-kenii-troie-luidei-pomerly-vid-eboly",
+    "pubDate": "2026-10-24 10:17:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4608895.jpg\">Двоє померлих були близькими родичами. Ще одна пацієнтка померла після повернення з Демократичної республіки Конго.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Montse Cespedosa, experta en hipotecas: \"La gente tiene una necesidad de aparentar y de vivir a todo trapo, que es demasiado\"",
+    "link": "https://www.elperiodico.com/es/economia/20261024/montse-cespedosa-experta-hipotecas-aparentar-demasiado-dv-et-135625611",
+    "pubDate": "2026-10-24 10:15:20",
+    "category": "",
+    "description": "<h2>La especialista critica los hábitos de consumo de quienes quieren acceder a una vivienda y recomienda reducir los gastos en ocio, vacaciones y tecnología para conseguir ahorrar</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261018/claudia-romero-abogada-vivienda-no-derecho-dv-et-135319394\">Claudia Romero, abogada: \"Ni la vivienda es un derecho ni el italiano que se compra una casa en Formentera es tu problema\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El futuro barrio de las Tres Xemeneies vetará las viviendas en plantas bajas por el riesgo de inundación",
+    "link": "https://www.elperiodico.com/es/barcelona/20261024/tres-xemeneies-sant-adria-pisos-inundacion-barrio-135664728",
+    "pubDate": "2026-10-24 10:00:29",
+    "category": "",
+    "description": "<h2 class=\"item\">El estudio de inundabilidad revisado del proyecto urbanístico sostiene que será necesario para garantizar la seguridad en las edificaciones y se tendrá que habilitar también una vía de evacuación y un sistema de alarmas</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20261018/inundacion-rio-besos-tres-xemeneies-puente-rodalies-135445590\">El puente de Rodalies sobre el Besòs amenaza con causar inundaciones de más de un metro de alto en torno a las Tres Xemeneies</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "\"Las madres también nos presentamos a la selectividad\": los errores que aumentan la ansiedad de los hijos",
+    "link": "https://www.elperiodico.com/es/sociedad/20261024/consejos-madres-padres-hijos-selectividad-bachillerato-no-estres-135668558",
+    "pubDate": "2026-10-24 10:00:28",
+    "category": "",
+    "description": "<h2 class=\"item\">Los estudiantes piden menos presión y más calma frente a la tendencia de las familias a sobredimensionar la importancia de la prueba</h2><h2 class=\"item\">La palabra PAU se repite tanto en las aulas que los alumnos hacen apuestas entre institutos para ver qué docente la pronuncia más veces</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261003/estudiantes-hiperexigentes-familias-presion-notas-134831727\" target=\"_blank\">Autoexigencia, presión familiar y miedo a equivocarse: la cara menos visible de los alumnos excelentes</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Qué es ser feminista?",
+    "link": "https://www.elperiodico.com/es/opinion/20261024/feminista-alberto-nunez-feijoo-articulo-ana-bernal-trivino-135701277",
+    "pubDate": "2026-10-24 10:00:28",
+    "category": "",
+    "description": "<h2>Resulta cuestionable presumir de feminismo a la vez que se anuncia la intención de limitar derechos de las mujeres</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261023/feijoo-reitera-defensa-aborto-pide-135665410\">Feijóo apuesta por reabrir el debate sobre el consentimiento paterno en el aborto y reformará la eutanasia</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Dos de cada tres españoles piden neutralidad tecnológica para renovar el parque móvil y frenar las emisiones",
+    "link": "https://www.elperiodico.com/es/motor/20261024/tres-espanoles-piden-neutralidad-tecnologica-renovar-parque-movil-frenar-emisiones-135669234",
+    "pubDate": "2026-10-24 10:00:28",
+    "category": "",
+    "description": "<h2>Un estudio de la Fundación Repsol, SERNAUTO y FACONAUTO refleja que el 74% de los ciudadanos apoya ayudas a la compra sin discriminar la tecnología</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Así han regresado los líderes del 'procés': cada uno por su lado y con distinta pompa",
+    "link": "https://www.elperiodico.com/es/politica/20261024/cataluna-amnistia-regreso-lideres-proces-referendum-1-o-135556101",
+    "pubDate": "2026-10-24 10:00:27",
+    "category": "",
+    "description": "<h2 class=\"item\">Nueve años después del referéndum del 1-O, el único que sigue en el extranjero es Puigdemont</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261021/quien-es-lluis-puig-regreso-cataluna-espana-amnistia-exconseller-135496032\">Lluís Puig, el verso libre entre los exconsellers del 'procés' en el extranjero</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261022/toni-comin-regreso-cataluna-parlamento-europeo-denuncias-cuentas-pendientes-135539320\">Toni Comín, un político de 'siete vidas' que regresa a Catalunya con cuentas pendientes</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El gasto en pensiones de jubilación en Catalunya se duplica en 14 años y roza los 2.000 millones mensuales",
+    "link": "https://www.elperiodico.com/es/barcelona/20261024/gasto-pensiones-jubilacion-catalunya-duplica-pension-vejez-2000-millones-135706582",
+    "pubDate": "2026-10-24 09:51:39",
+    "category": "",
+    "description": "<h2>El número de pensiones crece un 20% desde 2012 y la prestación media alcanza los 1.611 euros, mientras la Seguridad Social recupera parte de su fondo de reserva y el envejecimiento de la población amenaza con elevar el gasto en las próximas décadas</h2><h2><a href=\"https://www.elperiodico.com/es/economia/pensiones-jubilacion-espana-reforma-sh/index.html\">MULTIMEDIA: ¿Cómo queda la jubilación tras la nueva reforma?</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Відновлено швидкість роботи Starlink - ЗМІ",
+    "link": "https://ua.korrespondent.net/ukraine/4922994-vidnovleno-shvydkist-roboty-Starlink-zmi",
+    "pubDate": "2026-10-24 09:49:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4608896.jpg\">Зараз військові продовжують \"моніторити і проводити перевірки на вищих швидкостях, визначати верхні ліміти\", стверджує джерело в Міноборони.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Pedro Sánchez emprende un fin de semana preelectoral con un mitin en Granada",
+    "link": "https://www.elperiodico.com/es/politica/20261024/pedro-sanchez-campana-preelectoral-mitin-granada-135706688",
+    "pubDate": "2026-10-24 09:46:42",
+    "category": "",
+    "description": "<h2 class=\"item\">El presidente y candidato a la reelección por el PSOE estará acompañado por la líder socialista en Andalucía, la exministra María Jesús Montero</h2><h2 class=\"item\">DIRECTO | <a href=\"https://www.elperiodico.com/es/politica/20261024/elecciones-generales-29-noviembre-vivienda-ceuta-ultima-hora-directo-135335688\">Elecciones generales 29N, en directo | Encuestas, sondeos y última hora de las candidaturas del PSOE, PP y Vox</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La exhibición de la joya del Barça para ‘reventar’ al Madrid: 15 años y es una locura tras otra",
+    "link": "https://as.com/baloncesto/videos/la-exhibicion-de-la-joya-del-barca-para-reventar-al-madrid-15-anos-y-es-una-locura-tras-otra-f202610-v/",
+    "pubDate": "2026-10-24 09:40:28",
+    "category": "FC Barcelona baloncesto",
+    "description": "Mohamed Dabone, jugador del Barça Atlètic, fue el mejor de su equipo en la victoria ante el Real Madrid por 80-84 en el Clásico juvenil de la Liga U22. 25 puntos, 9 rebotes y 24 de valoración promedió.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Récord histórico de natalidad en Catalunya: el espectacular ‘baby boom’ de un pequeño pueblo de Lleida",
+    "link": "https://www.elperiodico.com/es/catalunya/20261024/sudanell-natalidad-cataluna-lleida-record-baby-boom-hijos-dv-loc-135449449",
+    "pubDate": "2026-10-24 09:40:00",
+    "category": "",
+    "description": "<h2 class=\"item\">España presenta una pirámide de población regresiva, con una base estrecha debido al número reducido de jóvenes y niños</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20261013/nombres-catalanes-catalan-hijo-cantante-buhos-ixent-ivet-dv-loc-135014892\" >El original nombre catalán que el cantante de Búhos ha elegido para su hijo: mixto y con solo 22 personas en Catalunya</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20251202/natalidad-cataluna-nacimientos-bebes-mascotas-animales-censo-dv-loc-123629287\" >La natalidad presenta el peor dato en Catalunya de los últimos 70 años: ya hay más mascotas que bebés</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El espectacular pueblo de cuento a solo 45 minutos de L'Hospitalet",
+    "link": "https://www.elperiodico.com/es/barcelona/hospitalet/20261024/espectacular-pueblo-cuento-45-minutos-lhospitalet-la-garriga-dv-loc-107818022",
+    "pubDate": "2026-10-24 09:30:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/catalunya/20241213/excursion-estelar-ninos-lhospitalet-disfrutar-dv-loc-107815613\" >La excursión estelar a un paso de L'Hospitalet para disfrutar con tus hijos de la naturaleza</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/cata-mayor/20241228/mejor-restaurante-hospitalet-tripadvisor-dv-loc-107182697\" >\"Sublime y exquisito\": los cumplidos al mejor restaurante de L'Hospitalet según Tripadvisor</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/hospitalet/20240928/rincon-magico-lhospitalet-barcelona-dv-loc-106477188\" >¿Sabes dónde está? El rincón mágico de L'Hospitalet que pocos conocen</a></h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Атака на Дніпро 20 жовтня: число загиблих знову зросло",
+    "link": "https://ua.korrespondent.net/city/dnepr/4922992-ataka-na-dnipro-20-zhovtnia-chyslo-zahyblykh-znovu-zroslo",
+    "pubDate": "2026-10-24 09:22:00",
+    "category": "Дніпро",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/0.jpg\">У лікарні помер 33-річний чоловік, який був у вкрай тяжкому стані з опіками всього тіла. Медики до останнього боролися за його життя.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿A qué hora y dónde ver el Festival Eurovisión Junior 2026 este sábado?",
+    "link": "https://www.elperiodico.com/es/tele/20261024/eurovision-junior-2026-horario-cadena-135658318",
+    "pubDate": "2026-10-24 09:20:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El representante español es el jienense Lucas Paulano, ganador de 'La voz kids'</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Києві відновили рух між станціями метро Видубичі і Славутич",
+    "link": "https://ua.korrespondent.net/city/kiev/4922990-u-kyievi-vidnovyly-rukh-mizh-stantsiiamy-metro-vydubychi-i-slavutych",
+    "pubDate": "2026-10-24 09:01:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4608922.jpg\">Фахівці метрополітену виконали всі необхідні роботи з ліквідації наслідків російського обстрілу.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Una campaña sin tema fijo y con todas las batallas abiertas",
+    "link": "https://www.elperiodico.com/es/politica/20261024/campana-batallas-abiertas-sanchez-feijoo-wild-project-135703915",
+    "pubDate": "2026-10-24 09:00:38",
+    "category": "",
+    "description": "<h2 class=\"item\">Los bloques de izquierda y derecha perfilan sus estrategias para hacerse con el poder, entre negociaciones, rivalidades internas y un mes por delante en el que todavía está todo por disputar</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "¿Por qué Abascal no vio a Milei?",
+    "link": "https://www.elperiodico.com/es/opinion/20261024/abascal-vio-milei-alberto-nunez-feijoo-articulo-joan-tapia-135701805",
+    "pubDate": "2026-10-24 09:00:38",
+    "category": "",
+    "description": "<h2>El líder de Vox cree que ya tiene a la extrema derecha, busca más voto conservador, y no quiere ayudar a movilizar a la izquierda discutiendo sobre las pensiones</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261022/visita-milei-dota-municion-izquierda-135601886\">La visita de Milei dota de más munición a la izquierda ante la incomodidad de Feijóo y los insultos de Abascal</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261022/abascal-acusa-moncloa-orquestar-violencia-135625711\">Abascal acusa a la Moncloa de \"orquestar\" la violencia contra sus actos de precampaña</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La soledad mata tanto como el tabaco o la obesidad: uno de cada cinco españoles sufre aislamiento",
+    "link": "https://www.elperiodico.com/es/sociedad/20261024/soledad-no-deseada-aislamiento-social-monoparental-jovenes-personas-mayores-bullying-135673149",
+    "pubDate": "2026-10-24 09:00:33",
+    "category": "",
+    "description": "<h2 class=\"item\">Más de 30 millones de europeos admiten sentirse solos con frecuencia, según la UE</h2><h2 class=\"item\">El debilitamiento de los lazos comunitarios y familiares, el edadismo y la falsa sensación de proximidad que ofrecen las relaciones virtuales, entre los causantes del aislamiento social</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260425/soledad-deseada-gran-crisis-siglo-133079840\" target=\"_blank\">Soledad no deseada: la gran crisis del siglo XXI</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Nazanin Armanian, politóloga iraní: \"Irán está bajo control de Israel, no hace falta una gran guerra para acabar con el régimen\"",
+    "link": "https://www.elperiodico.com/es/internacional/20261024/nazanin-armanian-politologa-irani-iran-135706019",
+    "pubDate": "2026-10-24 09:00:33",
+    "category": "",
+    "description": "<h2>La escritora asegura que el ataque a gran escala de EEUU contra el régimen de Teherán busca beneficiar a la industria armamentística y descarta un acuerdo de paz a corto plazo, a pesar del sufrimiento y de la enorme asfixia económica a la que está sometida la población civil</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Israel lanza una gran operación militar en Cisjordania tras la muerte de dos soldados",
+    "link": "https://www.elperiodico.com/es/internacional/20261024/israel-palestina-operacion-militar-cisjordania-135705859",
+    "pubDate": "2026-10-24 08:53:59",
+    "category": "",
+    "description": "<h2 class=\"item\">Netanyahu dice que sopesa una intervención de gran envergadura \"como no ha habido desde la Guerra de los Seis Días\", a las puertas de los comicios en los que se juega su futuro político</h2><h2 class=\"item\">OPINIÓN | <a href=\"https://www.elperiodico.com/es/opinion/20261022/elecciones-israel-mitad-guerra-135636609\">Elecciones en Israel en mitad de una guerra, por Albert Garrido</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Jorge Valdano: \"El Barça es muy favorito, pero el Madrid está en condiciones de ganar en cualquier sitio\"",
+    "link": "https://www.elperiodico.com/es/deportes/20261024/jorge-valdano-barca-favorito-madrid-condiciones-ganar-135705937",
+    "pubDate": "2026-10-24 08:47:23",
+    "category": "",
+    "description": "<h2>El argentino cree que a los blancos les falta “un poco más de creatividad en el centro del campo” y que “si logran que a los delanteros les llegue la pelota antes y mejor, serán uno de los imparables de Europa”</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Росії дрони вдарили по заводу Тольяттікаучук",
+    "link": "https://ua.korrespondent.net/world/russia/4922988-u-rosii-drony-vdaryly-po-zavodu-toliattikauchuk",
+    "pubDate": "2026-10-24 08:44:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4608894.jpg\">Продукція заводу Тольяттікаучук використовується у виробництві твердого ракетного палива для тактичних і балістичних ракет.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Guerra de Irán y tensión en Israel, en directo",
+    "link": "https://www.elperiodico.com/es/internacional/20261024/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713",
+    "pubDate": "2026-10-24 08:42:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20260410/guerra-ucrania-rusia-ultima-hora-zelenski-trump-putin-directo-126605559\" >DIRECTO | Guerra Ucrania - Rusia, en directo: última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Alerta por salmonella en una clara de huevo pasteurizada y cristales en una salsa Ricotta",
+    "link": "https://www.elperiodico.com/es/sociedad/20261024/salmonella-alerta-clara-huevo-salsa-ricotta-cristales-135705726",
+    "pubDate": "2026-10-24 08:35:16",
+    "category": "",
+    "description": "<h2 class=\"item\">La Agencia Española de Seguridad Alimentaria y Nutrición recomienda a las personas que tenganlos productos de los lotes afectados que no hagan consumo de ellos</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20261022/agricultura-espana-alerta-por-el-virus-shamonda-135635639\">Agricultura pide calma ante el virus de shamonda, con positivos en animales en Girona, Córdoba, Toledo, Cantabria, Madrid y Ávila</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Guerra Ucrania - Rusia, última hora en directo",
+    "link": "https://www.elperiodico.com/es/internacional/20261024/guerra-ucrania-rusia-ultima-hora-126605559",
+    "pubDate": "2026-10-24 08:35:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Directo GUERRA DE IRÁN | Última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Barcelona refuerza los autobuses para desplazarse a los cementerios desde este sábado y hasta el día de Todos los Santos",
     "link": "https://www.elperiodico.com/es/barcelona/20261024/barcelona-transporte-publico-cementerios-todos-los-santos-autobuses-135705655",
     "pubDate": "2026-10-24 08:25:45",
@@ -140,6 +527,15 @@
     "pubDate": "2026-10-24 08:00:00",
     "category": "Новини України",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/0.jpg\">Зафіксовано влучання засобів повітряного нападу противника на 14 локаціях. Ще у п’яти місцях впали уламки збитих цілей.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Харкові з перебоями працюють метро і наземний електротранспорт",
+    "link": "https://ua.korrespondent.net/city/kharkov/4922982-u-kharkovi-z-pereboiamy-pratsuiuit-metro-i-nazemnyi-elektrotransport",
+    "pubDate": "2026-10-24 07:47:00",
+    "category": "Харків",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/0.jpg\">Перебої відбулися внаслідок чергових російських атак на обʼєкти обʼєднаної енергосистеми України.",
     "topic": "",
     "topic_match_probability": 0
   },
@@ -288,6 +684,15 @@
     "topic_match_probability": 100
   },
   {
+    "title": "Lamine Yamal, el adolescente que está reconstruyendo el fútbol",
+    "link": "https://www.elperiodico.com/es/deportes/lamine-yamal-futbol-balon-de-oro-135682400-rm/index.html",
+    "pubDate": "2026-10-24 06:01:14",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
     "title": "El impacto del Barça-Real Madrid",
     "link": "https://www.elperiodico.com/es/opinion/20261024/impacto-barca-real-madrid-clasico-135686726",
     "pubDate": "2026-10-24 06:01:13",
@@ -430,6 +835,15 @@
     "description": "<h2 class=\"item\">La aprobación en apenas siete meses de tres decretos distintos han disparado las dudas entre inquilinos y caseros</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261023/consultas-abogados-inquilinos-propietarios-incertidumbre-decretos-vivienda-pisos-vacios-135481022\" target=\"_blank\">Avalancha de consultas de propietarios e inquilinos por la \"inseguridad jurídica\" de los decretos de vivienda: \"Se están dejando muchos pisos vacíos\"</a></h2>",
     "topic": "політика",
     "topic_match_probability": 75
+  },
+  {
+    "title": "Lea un adelanto de 'El hombre que solo escribía en los aviones,' la primera novela de Pedro Almodóvar",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261024/lea-adelanto-hombre-escribia-aviones-135640507",
+    "pubDate": "2026-10-24 06:00:42",
+    "category": "",
+    "description": "<h2 class=\"item\">El cineasta manchego, autor de los libros 'El último sueño', 'Fuego en las entrañas' y 'Patty Difusa', se estrena el 29 de octubre en la novela con 'El hombre que solo escribía en los aviones', título del que EL PERIÓDICO ofrece un adelanto en exclusiva </h2>",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Los mensajes interceptados por EEUU revelan la conexión de la trama de Plus Ultra con la presidenta venezolana: \"Falta poco para que la Delcy te llame Julito\"",
