@@ -54,6 +54,15 @@
     "topic_match_probability": 100
   },
   {
+    "title": "Resultados Euroliga, jornada 7: horarios, TV, partidos y clasificación",
+    "link": "https://as.com/baloncesto/euroliga/resultados-euroliga-jornada-7-horarios-tv-partidos-y-clasificacion-f202610-n/",
+    "pubDate": "2026-10-23 22:47:15",
+    "category": "Baloncesto",
+    "description": "Euroliga 2026-27: resultados de los partidos y clasificación de la temporada en su jornada 7. Real Madrid, Barcelona, Baskonia, Valencia Basket…",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Trump afirma en Florida que los buques de EEUU \"pasarán\" por Cuba tras la guerra en Irán",
     "link": "https://www.elperiodico.com/es/internacional/20261023/trump-afirma-florida-buques-ee-135702766",
     "pubDate": "2026-10-23 22:47:02",
@@ -621,6 +630,15 @@
     "topic_match_probability": 100
   },
   {
+    "title": "Вторгнення Росії в Україну. Онлайн",
+    "link": "https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain",
+    "pubDate": "2026-10-23 18:14:00",
+    "category": "Новини політики",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/2748609.jpg\">Володимир Путін почав повномасштабну війну проти України 24 лютого 2022 року. Не зумівши \"взяти Київ за три дні\", він сконцентрувався на захопленні Донбасу та південних областей України.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Consellera de Territori, Sílvia Paneque: \"Catalunya llegará al 15% de viviendas destinadas a políticas de alquiler moderado y protegido\"",
     "link": "https://www.elperiodico.com/es/economia/20261023/consellera-territori-silvia-paneque-catalunya-planes-15-viviendas-protegidas-135683065",
     "pubDate": "2026-10-23 18:13:31",
@@ -907,6 +925,15 @@
     "description": "<h2 class=\"item\">Directiva, jugadores, empleados y aficionados han mantenido reuniones para rebajar la hostilidad, tras la suspensión del partido contra el Athletic</h2><h2 class=\"item\">El fondo de los Bukaneros permanecerá cerrado este sábado contra el Elche, mientras Presa hace ahora la concesiones que llevaba tiempo negando</h2>",
     "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Війна на Близькому Сході. Онлайн",
+    "link": "https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain",
+    "pubDate": "2026-10-23 16:55:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473659.jpg\">США та Ізраїль проводять масштабну операцію проти Ірану. Тегеран у відповідь атакує військові об'єкти США майже у всіх країнах Перської затоки.",
+    "topic": "політика",
+    "topic_match_probability": 90
   },
   {
     "title": "Петряк опритомнів у лікарні після зіткнення в матчі з Динамо",
