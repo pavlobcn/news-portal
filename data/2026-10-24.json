@@ -1,5 +1,104 @@
 [
   {
+    "title": "Дрон РФ спричинив пожежу на підприємстві Харківщини",
+    "link": "https://ua.korrespondent.net/ukraine/4923086-dron-rf-sprychynyv-pozhezhu-na-pidpryiemstvi-kharkivschyny",
+    "pubDate": "2026-10-24 21:18:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4609469.jpg\">Після влучання загорілася складська будівля приватного підприємства, попередньо, постраждалих немає.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Illa, ante los violentos disturbios en Barcelona: \"Quien protesta ejerce un derecho; quien agrede lo vulnera\"",
+    "link": "https://www.elperiodico.com/es/politica/20261024/illa-violentos-disturbios-barcelona-protesta-derecho-agrede-vulnera-reaccion-opinion-president-generalitat-135723484",
+    "pubDate": "2026-10-24 21:15:53",
+    "category": "",
+    "description": "<h2 class=\"item\">El president de la Generalitat ha agradecido el papel de los Mossos durante la manifestación juvenil de esta tarde en Barcelona</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20261024/francia-italia-protestas-manifestacion-paris-milan-ultima-hora-directo-135485330\"><a href=\"https://www.elperiodico.com/es/barcelona/20261024/tension-barcelona-protesta-juvenil-movilizaciones-europeas-135721173\" >Protestas en Francia, Italia y Barcelona, en directo: última hora de las manifestaciones</a></a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20261024/tension-barcelona-protesta-juvenil-movilizaciones-europeas-135721173\">Violentos disturbios en Barcelona por una protesta juvenil inspirada en las movilizaciones europeas</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Barcelona - Zaragoza, en directo: Liga Endesa 2026-27 en vivo hoy",
+    "link": "https://as.com/baloncesto/acb/barcelona-zaragoza-en-directo-liga-endesa-2026-27-en-vivo-hoy-f202610-d/",
+    "pubDate": "2026-10-24 21:09:54",
+    "category": "Baloncesto",
+    "description": "Sigue la retransmisión en directo de la quinta jornada de la Liga Endesa, entre el Barcelona y el Zaragoza hoy, a las 21:00, en As.com.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El horóscopo de mañana, domingo 25 de octubre: amor, trabajo, dinero y salud para todos los signos del zodíaco",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20261024/horoscopo-hoy-domingo-25-octubre-dv-135334369",
+    "pubDate": "2026-10-24 21:00:24",
+    "category": "",
+    "description": "<h2 class=\"item\">Conoce la suerte de tu horóscopo a partir de los signos del zodíaco, según la astrología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/temas/horoscopo-11990\" >Consulta el horóscopo diario de tu signo de ayer, hoy y mañana</a></h2>",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Cientos de personas quedan atrapadas en El Corte Inglés de la plaza Catalunya de Barcelona por las protestas juveniles",
+    "link": "https://www.elperiodico.com/es/barcelona/20261024/cientos-personas-atrapadas-corte-ingles-plaza-cataluna-protestas-jovenes-francia-italia-manifestaciones-135723026",
+    "pubDate": "2026-10-24 20:59:22",
+    "category": "",
+    "description": "<h2 class=\"item\">Muchos de los locales del centro de la capital catalana han bajado rápidamente las persianas para evitar desperfectos y han dejado en el interior a sus clientes</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20261024/francia-italia-protestas-manifestacion-paris-milan-ultima-hora-directo-135485330\">Protestas en Francia e Italia, en directo: última hora de las manifestaciones en París y Milán y las medidas de Macron y Meloni</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20261024/tension-barcelona-protesta-juvenil-movilizaciones-europeas-135721173\">Violentos disturbios en Barcelona por una protesta juvenil inspirada en las movilizaciones europeas</a></h2>",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "РФ допустила спецпосланця до українських полонених",
+    "link": "https://ua.korrespondent.net/world/russia/4923084-rf-dopustyla-spetsposlantsia-do-ukrainskykh-polonenykh",
+    "pubDate": "2026-10-24 20:51:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4609451.jpg\">Росія вперше від початку повномасштабної війни допустила до полонених іноземного представника - кардинала Маттео Дзуппі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Протести у Франції: у хід пішов сльозогінний газ",
+    "link": "https://ua.korrespondent.net/world/4923082-protesty-u-frantsii-u-khid-pishov-slozohinnyi-haz",
+    "pubDate": "2026-10-24 20:27:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4609408.jpg\">Під час загальнонаціональних протестів у Франції затримали 135 людей. У кількох містах поліція застосувала сльозогінний газ, а для забезпечення порядку по всій країні залучили 70 тисяч правоохоронців.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "El Manresa sigue sin ganar en ACB",
+    "link": "https://as.com/baloncesto/acb/el-manresa-sigue-sin-ganar-en-acb-f202610-n/",
+    "pubDate": "2026-10-24 20:26:05",
+    "category": "Baloncesto",
+    "description": "El San Pablo Burgos fue muy superior en el Nou Congost, donde se oyeron algunos pitos. Chase Audige, el mejor con 21 puntos.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росія обстріляла Слов’янськ фугасними авіабомбами",
+    "link": "https://ua.korrespondent.net/ukraine/4923080-rosiia-obstriliala-sloviansk-fuhasnymy-aviabombamy",
+    "pubDate": "2026-10-24 20:02:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4609386.jpg\">Відомо про двох поранених. Унаслідок російського авіаудару пошкоджені житлові будинки, два освітні заклади, адміністративна будівля та об’єкт інфраструктури.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Роналду образили незарахованими голами",
+    "link": "https://ua.korrespondent.net/sport/football/4923078-ronaldu-obrazyly-nezarakhovanymy-holamy",
+    "pubDate": "2026-10-24 19:40:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4609258.jpg\">Кріштіану Роналду не зміг підтвердити свій 982-й гол, забитий у матчі Ан-Насра і Аль-Фейсалі, а також ще один.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Троє загиблих, пожежа в багатоповерхівці: РФ атакувала Синельникове",
+    "link": "https://ua.korrespondent.net/ukraine/4923076-troie-zahyblykh-pozhezha-v-bahatopoverkhivtsi-rf-atakuvala-synelnykove",
+    "pubDate": "2026-10-24 19:39:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4609367.jpg\">Серед постраждалих - 11-річна дівчинка, двоє людей перебувають у тяжкому стані. У багатоповерхівці спалахнула пожежа, пошкоджені магазин та автомобілі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Disturbios en Barcelona por una protesta juvenil inspirada en las movilizaciones europeas",
     "link": "https://www.elperiodico.com/es/barcelona/20261024/tension-barcelona-protesta-juvenil-movilizaciones-europeas-135721173",
     "pubDate": "2026-10-24 19:31:57",
