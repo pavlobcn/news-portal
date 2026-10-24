@@ -1,5 +1,68 @@
 [
   {
+    "title": "Disturbios en Barcelona por una protesta juvenil inspirada en las movilizaciones europeas",
+    "link": "https://www.elperiodico.com/es/barcelona/20261024/tension-barcelona-protesta-juvenil-movilizaciones-europeas-135721173",
+    "pubDate": "2026-10-24 19:31:57",
+    "category": "",
+    "description": "<h2 class=\"item\">La manifestación, marcada por enfrentamientos con la policía, ha sido convocada a través de las redes sociales y grupos de WhatsApp y no cuenta con un organizador oficial</h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Un 'civet' de Fonteta con la mirada puesta en el 29-N",
+    "link": "https://www.elperiodico.com/es/economia/20261024/civet-fontana-mirada-puesta-29-135710994",
+    "pubDate": "2026-10-24 19:23:50",
+    "category": "",
+    "description": "<h2>Las elecciones centran el encuentro anual del 'establishment' catalán en el Baix Empordà</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20251004/opa-bbva-sabadell-monopoliza-civet-122276689\">La opa del BBVA al Sabadell monopoliza el 'civet' de Fonteta</a></h2>",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Укренерго попередило про відключення на 25 жовтня",
+    "link": "https://ua.korrespondent.net/ukraine/4923074-ukrenerho-poperedylo-pro-vidkluichennia-na-25-zhovtnia",
+    "pubDate": "2026-10-24 19:18:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4609349.jpg\">Через наслідки російських атак на енергетичну інфраструктуру в частині областей України в неділю обмежуватимуть споживання електроенергії.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Tiempo en Catalunya mañana domingo: subida de temperaturas y máximas de hasta 25 grados",
+    "link": "https://www.elperiodico.com/es/tiempo/20261024/tiempo-catalunya-hoy-domingo-subida-temperaturas-dv-135720703",
+    "pubDate": "2026-10-24 19:14:26",
+    "category": "",
+    "description": "<h2 class=\"item\">Los termómetros subirán entre 3 y 5 grados en algunos puntos del territorio, con predominio del sol y algunas precipitaciones débiles en el Pirineo al final del día</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las protestas contra el coste de la vida y el Gobierno sacuden varias ciudades italianas",
+    "link": "https://www.elperiodico.com/es/internacional/20261024/protestas-coste-vida-gobierno-sacuden-135720843",
+    "pubDate": "2026-10-24 19:11:36",
+    "category": "",
+    "description": "<h2>El Gobierno italiano desplegó un amplio operativo con 1.400 agentes y 500 militares en todo el país ante el temor a nuevos disturbios tras los incidentes registrados la semana pasada</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El Fulham vuelve a ganar y Arbeloa saca la cabeza del descenso de la Premier",
+    "link": "https://www.elperiodico.com/es/deportes/20261024/arbeloa-sale-descenso-coventry-fulham-135720682",
+    "pubDate": "2026-10-24 19:10:43",
+    "category": "",
+    "description": "<h2 class=\"item\">El técnico español salva el puesto con dos triunfos seguidos, el segundo a costa del Coventry de Lampard (0-1)</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20261015/catastrofico-comienzo-arbeloa-fulham-ultimo-135293882\">El catastrófico comienzo de Arbeloa en el Fulham: último de la Premier, con dos puntos en seis jornadas</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Усик готується до наступного бою, продовжуючи тренування",
+    "link": "https://ua.korrespondent.net/sport/boks/4923070-usyk-hotuietsia-do-nastupnoho-boui-prodovzhuuichy-trenuvannia",
+    "pubDate": "2026-10-24 19:09:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4609257.jpg\">Український боксер у своєму Instagram показав, який він має вигляд на тренуваннях у підготовці до наступного виходу на ринг.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Disturbios en varias ciudades francesas al término de las manifestaciones contra el encarecimiento de la vida",
     "link": "https://www.elperiodico.com/es/internacional/20261024/disturbios-ciudades-francesas-termino-manifestaciones-135720596",
     "pubDate": "2026-10-24 18:56:49",
