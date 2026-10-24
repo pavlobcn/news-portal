@@ -1,8 +1,9 @@
-# News for 2026-10-24 15:46
+# News for 2026-10-24 16:44
 
 Previous day: [2026-10-23](./data/2026-10-23.md)
 
 ## ua.korrespondent.net
+16:26 [Ворожий дрон влучив у ферму на Сумщині: є загибла](https://ua.korrespondent.net/ukraine/4923047-vorozhyi-dron-vluchyv-u-fermu-na-sumschyni-ye-zahybla)<br>
 15:19 [На Філіппінах зіткнулися два військові літаки](https://ua.korrespondent.net/world/4923034-na-filippinakh-zitknulysia-dva-viiskovi-litaky)<br>
 15:07 [Юта вперше перемагає, Лейкерс обійшли Кліпперс](https://ua.korrespondent.net/sport/basketball/4923027-yuta-vpershe-peremahaie-leikers-obiishly-klippers)<br>
 13:45 [НБУ зменшив продаж доларів на тлі падіння гривні](https://ua.korrespondent.net/business/financial/4923018-nbu-zmenshyv-prodazh-dolariv-na-tli-padinnia-hryvni)<br>
@@ -31,6 +32,9 @@ Previous day: [2026-10-23](./data/2026-10-23.md)
 05:48 [Juan Núñez: “Sigo siendo el mismo que era”](https://as.com/baloncesto/acb/juan-nunez-sigo-siendo-el-mismo-que-era-f202610-n/)<br>
 
 ## www.elperiodico.com
+16:35 [Málaga ataca a Huelva: el Ejército pone a prueba en un ejercicio nuevos sistemas de combate contra drones](https://www.elperiodico.com/es/politica/20261024/ejercito-prueba-sistemas-contra-drones-defensa-antiaerea-135717593)<br>
+16:15 [Javier Martín Vide, catedrático en climatología: "La temperatura del agua del Mediterráneo es tan alta o incluso más que la del Caribe"](https://www.elperiodico.com/es/catalunya/20261024/cataluna-tropicalizacion-caribe-tormentas-rodalies-climatologia-javier-martin-dv-et-135527496)<br>
+16:02 [Sergio Peris-Mencheta: "La enfermedad ha sido un regalo que me ha cambiado la vida; ahora valoro todo mucho más"](https://www.elperiodico.com/es/ocio-y-cultura/20261024/sergio-peris-mencheta-enfermedad-sido-seryo-documental-135716764)<br>
 15:38 [La princesa Leonor reivindica el trabajo invisible de las mujeres en la historia de la pesca](https://www.elperiodico.com/es/politica/20261024/princesa-leonor-trabajo-invisible-mujeres-pesca-135716223)<br>
 15:32 [250 cabras recorren 60 kilómetros por Catalunya para recuperar una antigua ruta ganadera](https://www.elperiodico.com/es/sociedad/20261024/250-cabras-recorren-60-kilometros-ruta-ganadera-135714937)<br>
 15:22 [La reina Letizia se resbala y se cae en un barco en Llanes](https://www.elperiodico.com/es/politica/20261024/reina-letizia-resbala-cae-barco-llanes-135715020)<br>
