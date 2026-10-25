@@ -1,5 +1,59 @@
 [
   {
+    "title": "Turtle Beach Vulcan II XP, análisis: precisión para jugar, comodidad para trabajar",
+    "link": "https://www.elperiodico.com/es/tecnologia/20261025/turtle-beach-vulcan-ii-xp-135744444",
+    "pubDate": "2026-10-25 18:32:03",
+    "category": "",
+    "description": "<h2>Un periférico de gama alta que combina switches intercambiables, construcción de aluminio, funciones competitivas y una experiencia de escritura especialmente cuidada</h2><h2>Lo hemos probado en partidas y en jornadas largas de trabajo: el nuevo teclado mecánico de Turtle Beach apuesta por la personalización a largo plazo, una respuesta rápida y un acabado más refinado de lo habitual en gaming</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La verdad del ayuno intermitente: el estudio clínico que desmonta el mito sobre perder peso",
+    "link": "https://www.elperiodico.com/es/salud/20261025/ayuno-intermitente-mentira-estudio-dv-126993171",
+    "pubDate": "2026-10-25 18:30:00",
+    "category": "",
+    "description": "<h2>Hacer dieta y llevar una alimentación equilibrada tiene mejores resultados para combatir la obesidad y el sobrepeso</h2><h2><a href=\"https://www.elperiodico.com/es/sanidad/20251211/ayuno-intermitente-eficaz-dieta-tradicional-combatir-obesidad-dicen-expertos-124670094\">¿Es el ayuno intermitente más eficaz que la dieta tradicional para combatir la obesidad? Esto dicen los expertos</a></h2><h2><a href=\"https://www.elperiodico.com/es/sanidad/20250503/ayuno-intermitente-dieta-beneficios-peligros-polemica-nutricionistas-medicos-116892860\">Radiografía del ayuno intermitente: la dieta de moda por su 'halo saludable' que divide a los nutricionistas</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Accidente de autobús en Fogars de Montclús, en directo: Última hora de los heridos y del dispositivo de emergencias",
+    "link": "https://www.elperiodico.com/es/sociedad/20261025/accidente-autobus-fogars-montclus-directo-ultima-hora-heridos-135745059",
+    "pubDate": "2026-10-25 18:23:05",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/trafico-y-transportes/20261025/accidente-autobus-fogars-montclus-activado-prealerta-procicat-135744149\">Al menos 20 heridos graves tras el accidente de un autobús que ha caído por un terraplén de veinte metros en Fogars de Montclús (Vallès Oriental)</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Белграді напали на матір Вучича",
+    "link": "https://ua.korrespondent.net/world/4923219-u-belhradi-napaly-na-matir-vuchycha",
+    "pubDate": "2026-10-25 18:15:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4610684.jpg\">У Белграді група з кількох людей напала на Ангеліну Вучич, матір колишнього президента Сербії Александра Вучича.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Маск закликав пожаліти російських призовників",
+    "link": "https://ua.korrespondent.net/world/4923215-mask-zaklykav-pozhality-rosiiskykh-pryzovnykiv",
+    "pubDate": "2026-10-25 17:56:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4610682.jpg\">Ілон Маск закликав припинити війну між Україною та Росією та висловив співчуття російським призовникам.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Francisco Martín dimite como delegado del Gobierno en Madrid tras ser excluido de las listas electorales",
+    "link": "https://www.elperiodico.com/es/politica/20261025/delegado-gobierno-madrid-presenta-dimision-135744366",
+    "pubDate": "2026-10-25 17:48:41",
+    "category": "",
+    "description": "<h2 class=\"item\">La renuncia de Francisco Martín llega tras la polémica por la acampada de Sol o varias actuaciones polémicas actuaciones policiales</h2><h2 class=\"item\">Parte del PSOE de Madrid creen que se quiere posicionar para el día después de una posible derrota electoral</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Activado en prealerta el Procicat por un accidente de autobús en Fogars de Montclús (Vallès Oriental)",
     "link": "https://www.elperiodico.com/es/trafico-y-transportes/20261025/accidente-autobus-fogars-montclus-activado-prealerta-procicat-135744149",
     "pubDate": "2026-10-25 17:43:10",
@@ -556,6 +610,15 @@
     "description": "<h2>El sector acumula 1.675.092 vehículos producidos hasta el tercer trimestre y mantiene la previsión de cerrar el año en 2,25 millones de unidades</h2>",
     "topic": "автомобілі",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Preguntas sobre la ‘ley de nietos’",
+    "link": "https://www.elperiodico.com/es/opinion/20261025/preguntas-ley-nietos-supremo-exteriores-justicia-135695441",
+    "pubDate": "2026-10-25 12:00:16",
+    "category": "",
+    "description": "<h2>El Supremo apremia a Exteriores y Justicia, bajo amenaza de multa, para que entreguen la lista de los afectados por la suspensión. ¿Puede el Alto Tribunal acelerar en su deliberación sobre el fondo de la cuestión? ¿Cómo es posible que un juzgado haya admitido la demanda contra Sofía Puente y otro la considere \"cosa juzgada\"?</h2>",
+    "topic": "політика",
+    "topic_match_probability": 65
   },
   {
     "title": "Los cinco empresarios que quieren catapultar una pyme catalana que clona plantas",
