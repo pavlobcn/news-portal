@@ -1,5 +1,374 @@
 [
   {
+    "title": "Confirmado: las áreas marinas protegidas aumentan la variedad y abundancia de peces",
+    "link": "https://www.elperiodico.com/es/medio-ambiente/20261025/estudio-confirma-areas-marinas-protegidas-99873651",
+    "pubDate": "2026-10-25 08:10:00",
+    "category": "",
+    "description": "<h2>Estas zonas resisten incluso los efectos de las olas de calor en el mar, contrariamente a las áreas no preservadas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Crónica de Berlín: cómo 'desparasitar' un callejero de los monstruos pasados",
+    "link": "https://www.elperiodico.com/es/internacional/20261025/cronica-berlin-desparasitar-callejero-monstruos-pasados-nazismo-colonialismo-135528052",
+    "pubDate": "2026-10-25 08:01:02",
+    "category": "",
+    "description": "<h2>Iniciativas ciudadanas luchan por renombrar las calles berlinesas en que persisten connotaciones coloniales, nazis y otros horrores recientes</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Dónde ver el clásico en Barcelona con fiesta, tapas y cerveza",
+    "link": "https://www.elperiodico.com/es/que-hacer/donde-comer/20261025/donde-ver-clasico-barcelona-fiesta-partido-barca-madrid-135693195",
+    "pubDate": "2026-10-25 08:01:02",
+    "category": "",
+    "description": "<h2>Este domingo podrás ver el Barça-Madrid en compañía con bebercio y cena para matar el ansia viva. Hay fiesta en Luz de Gas, donde celebra las victorias Laporta, y hasta cervezas Moritz inspiradas en el clásico</h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20261023/cine-viral-barcelona-comes-platos-iconicos-peliculas-morfilm-135620374\" target=\"_blank\">El cine viral de Barcelona donde comes lo que están comiendo en las películas</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Elecciones generales 29N, en directo | Encuestas, sondeos y última hora de las candidaturas del PSOE, PP y Vox",
+    "link": "https://www.elperiodico.com/es/politica/20261025/elecciones-generales-29-noviembre-vivienda-ceuta-ultima-hora-directo-135335688",
+    "pubDate": "2026-10-25 07:53:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20261017/encuestas-elecciones-generales-espana-sondeos-12274406\" target=\"_blank\">Encuestas de las elecciones generales 2026: así están los sondeos</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Нічна атака: скільки дронів знешкодила ППО",
+    "link": "https://ua.korrespondent.net/ukraine/4923135-nichna-ataka-skilky-droniv-zneshkodyla-ppo",
+    "pubDate": "2026-10-25 07:39:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4610028.jpg\">Бойова робота досі триває, оскільки дев'ять ударних безпілотників ще перебувають у повітрі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Україна отримала нову партію вакцини проти поліомієліту",
+    "link": "https://ua.korrespondent.net/ukraine/4923133-ukraina-otrymala-novu-partiui-vaktsyny-proty-poliomiielitu",
+    "pubDate": "2026-10-25 07:29:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4610027.jpg\">Завдяки масовим кампаніям з вакцинації кількість випадків поліомієліту у світі скоротилася більш ніж на 99%.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Disturbios en Barcelona, en directo: última hora de las detenciones y las protestas de jóvenes en otras ciudades de Europa",
+    "link": "https://www.elperiodico.com/es/internacional/20261025/disturbios-barcelona-ultima-hora-directo-manifestaciones-francia-italia-135485330",
+    "pubDate": "2026-10-25 07:29:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20261023/portavoces-lideres-medios-redes-rusas-135684629\">Portavoces, líderes, medios y redes rusas agitan sin disimulo las protestas estudiantiles en Francia e Italia</a></h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "США, Китай і Росія спробують поділити світ - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4923131-ssha-kytai-i-rosiia-sprobuuit-podilyty-svit-zmi",
+    "pubDate": "2026-10-25 07:07:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4610009.jpg\">Глава Білого дому може використати останні два роки президентства для формування нового світового порядку за участі Путіна та Сі.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Обама звинуватив Трампа в зростанні цін через війну з Іраном",
+    "link": "https://ua.korrespondent.net/world/4923129-obama-zvynuvatyv-trampa-v-zrostanni-tsin-cherez-viinu-z-iranom",
+    "pubDate": "2026-10-25 06:44:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4609974.jpg\">Обама пов’язав торговельну політику адміністрації Трампа та військове втручання в Іран зі зростанням цін на пальне й витрат домогосподарств.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Un diluvio provoca la suspensión total del GP de Australia por falta de seguridad",
+    "link": "https://www.elperiodico.com/es/deportes/20261025/diluvio-provoca-suspension-total-gp-135730017",
+    "pubDate": "2026-10-25 06:43:08",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Росія перетворюєТОТ на кримінальні анклави - ГУР",
+    "link": "https://ua.korrespondent.net/ukraine/4923127-rosiia-peretvoruiietot-na-kryminalni-anklavy-hur",
+    "pubDate": "2026-10-25 06:26:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4609956.png\">Населення перебуває в умовах постійного страху через жорсткий контррозвідувальний режим, загрозу насильства з боку воєнних злочинців з російської армії.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росіяни атакували Вінниччину, є знеструмлення",
+    "link": "https://ua.korrespondent.net/ukraine/4923125-rosiiany-atakuvaly-vinnychchynu-ye-znestrumlennia",
+    "pubDate": "2026-10-25 06:11:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4609936.jpg\">Внаслідок атаки ворога є пошкодження цивільного промислового обʼєкта та приватного домоволодіння.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los sindicatos ante la tregua educativa: por qué deben escuchar a los profesores",
+    "link": "https://www.elperiodico.com/es/opinion/20261025/tregua-educativa-catalunya-sindicatos-huega-profesores-135724010",
+    "pubDate": "2026-10-25 06:01:45",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los jóvenes ante el 29N",
+    "link": "https://www.elperiodico.com/es/opinion/20261025/jovenes-29n-elecciones-29-noviembre-135718773",
+    "pubDate": "2026-10-25 06:00:49",
+    "category": "",
+    "description": "",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Barça y Real Madrid afrontan un clásico monumental: de la conspiranoia al fútbol",
+    "link": "https://www.elperiodico.com/es/deportes/20261025/barca-real-madrid-afrontan-clasico-135714241",
+    "pubDate": "2026-10-25 06:00:45",
+    "category": "",
+    "description": "<h2>Azulgranas y blancos tienen ante sí la oportunidad de exponer sus argumentos futbolísticos en un clima cada vez más tóxico por las presuntas confabulaciones arbitrales. Mourinho regresa a un Camp Nou donde siempre buscó ser el protagonista.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Arda Güler, un Stradivarius al que Mourinho le pide rock’n’roll",
+    "link": "https://www.elperiodico.com/es/deportes/20261025/arda-guler-stradivaruis-mourinho-rocknroll-135643356",
+    "pubDate": "2026-10-25 06:00:41",
+    "category": "",
+    "description": "<h2>El turco se ha convertido en el <em>quarterback </em>de un Real Madrid que promedia cuatro goles por partido en los tres últimos encuentros</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "María Vicente, heptatleta: \"Mi psicóloga me dice: ‘María, tienes que cerrar bien las cosas’\"",
+    "link": "https://www.elperiodico.com/es/deportes/20261025/maria-vicente-heptatleta-psicologa-dice-135683749",
+    "pubDate": "2026-10-25 06:00:41",
+    "category": "",
+    "description": "<h2>La plusmarquista española de combinadas relata a ELPERIÓDICO los motivos que la han llevado a dejar España para entrenar en Inglaterra.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Recuerden esto: viene más inflación",
+    "link": "https://www.elperiodico.com/es/economia/20261025/recuerden-viene-inflacion-135729966",
+    "pubDate": "2026-10-25 06:00:40",
+    "category": "",
+    "description": "<h2 class=\"item\">Cuando los gobiernos no quieren ajustar las cuentas por sus posibles costes políticos, pagar la deuda con el dinero de todos los ciudadanos se convierte en una alternativa irresistible</h2>",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Robots y soledad",
+    "link": "https://www.elperiodico.com/es/opinion/20261025/robots-soledad-articulo-francesc-torralba-135702463",
+    "pubDate": "2026-10-25 06:00:40",
+    "category": "",
+    "description": "<h2>Proponer al autómata social como el antídoto al aislamiento no deseado es una manera de escapar de la responsabilidad social</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Se puede deliberar en las redes?",
+    "link": "https://www.elperiodico.com/es/opinion/20261025/deliberar-redes-135705857",
+    "pubDate": "2026-10-25 06:00:39",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "'Leomine' Yamal anda por el camino de Messi",
+    "link": "https://www.elperiodico.com/es/deportes/20261025/leomine-yamal-anda-camino-messi-135548964",
+    "pubDate": "2026-10-25 06:00:39",
+    "category": "",
+    "description": "<h2 class=\"item\">El joven extremo azulgrana reproduce a los 19 años las hazañas que protagonizaba el astro argentino en el Barça y que marcaron una era de dominio y espectáculo</h2><h2 class=\"item\">El rápido hallazgo en la cantera del heredero del 10 y las similitudes de las dos carreras justifican la comparación de los futbolistas que el azar ya había unido hace 20 años  </h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Un buen trabajo, casa propia y dinero: las prioridades de los jóvenes que se estrenan ante las urnas",
+    "link": "https://www.elperiodico.com/es/sociedad/20261025/prioridades-jovenes-estrenan-urnas-buen-trabajo-casa-propia-dinero-135687269",
+    "pubDate": "2026-10-25 06:00:37",
+    "category": "",
+    "description": "<h2 class=\"item\">La dificultad para encontrar empleo y para acceder a una vivienda se consolidan como las preocupaciones principales de los jóvenes ante la próxima cita con las urnas</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261025/jovenes-generacion-tiktok-votan-primera-vez-crispacion-no-escuchados-politicos-soluciones-zascas-135680834\">La generación TikTok va a las urnas por primera vez sin sentirse escuchada</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261023/elecciones-generales-29-noviembre-vivienda-ceuta-ultima-hora-directo-135335688\" target=\"_blank\">Elecciones generales 29-N, en directo</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La 'generación TikTok' vota por primera vez sin sentirse escuchada: \"En lugar de dar soluciones, los políticos se lanzan zascas\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261025/jovenes-generacion-tiktok-votan-primera-vez-crispacion-no-escuchados-politicos-soluciones-zascas-135680834",
+    "pubDate": "2026-10-25 06:00:34",
+    "category": "",
+    "description": "<h2 class=\"item\">Más de 1,6 millones de españoles de 18 a 20 años se estrenan ante las urnas, hartos de la crispación y convencidos de que sus problemas no se abordan en el debate público</h2><h2 class=\"item\">Politólogos y sociólogos advierten de que los discursos contrarios a la democracia calan peligrosamente entre los jóvenes</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261023/prioridades-jovenes-estrenan-urnas-buen-trabajo-casa-propia-dinero-135687269\" target=\"_blank\">Los jóvenes ante el 29-N: ¿Qué reclaman los 'hijos de la crisis del 2008'?</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261023/elecciones-generales-29-noviembre-vivienda-ceuta-ultima-hora-directo-135335688\" target=\"_blank\">Elecciones del 29-N, en directo</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El negocio de los 'snacks' genera 12.000 millones de euros en ventas en España y la previsión es crecer un 3% en cinco años",
+    "link": "https://www.elperiodico.com/es/economia/20261025/mars-negocio-snacks-espana-crecimiento-chocolates-chicles-135684459",
+    "pubDate": "2026-10-25 06:00:34",
+    "category": "",
+    "description": "<h2>La multinacional Mars, con una plantilla de unos 2.800 trabajadores en sus negocios españoles, ultima la fusión con el fabricante de Kellogg's, lo que la convertirá en líder de esta categoría</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261023/misha-melnychuk-director-general-mars-135685099\" target=\"_blank\">Misha Melnychuk, director general de Mars en el sur de Europa: \"La fusión con Kellogg's nos ayuda a acelerar nuestro avance hacia el liderazgo mundial en el sector del 'snack'\"</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Milei, el “amigo” de Abascal con el que el líder de Vox comenzó a cimentar su red internacional",
+    "link": "https://www.elperiodico.com/es/politica/20261025/milei-amigo-abascal-lider-vox-135686224",
+    "pubDate": "2026-10-25 06:00:34",
+    "category": "",
+    "description": "<h2>Santiago Abascal refuerza su vínculo con Javier Milei mediante una videollamada tras los rumores sobre un posible distanciamiento, reafirmando una estrategia de conexiones internacionales que el líder de Vox defiende</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Misha Melnychuk, director general de Mars en el sur de Europa: \"La fusión con Kellogg's nos ayuda a acelerar nuestro avance hacia el liderazgo mundial en el sector del 'snack'\"",
+    "link": "https://www.elperiodico.com/es/economia/20261025/misha-melnychuk-director-general-mars-135685099",
+    "pubDate": "2026-10-25 06:00:32",
+    "category": "",
+    "description": "<h2>\"Es clave reducir la huella de carbono en el sector primario, que es nuestro proveedor. Por eso, entre otros programas, tenemos un proyecto de 50 millones de dólares para ayudar a unos 25.000 agricultores de la India a producir menta\", cuenta el directivo de la multinacional</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261023/mars-negocio-snacks-espana-crecimiento-chocolates-chicles-135684459\" target=\"_blank\">El negocio de los 'snacks' genera 12.000 millones de euros en ventas en España y la previsión es crecer un 3% en cinco años</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Goldman Sachs augura una temporada de resultados récord en Europa y EEUU",
+    "link": "https://www.elperiodico.com/es/economia/20261025/goldman-sachs-augura-temporada-resultados-135729962",
+    "pubDate": "2026-10-25 06:00:31",
+    "category": "",
+    "description": "<h2>Los analistas de Goldman Sachs y UBS anticipan una temporada de resultados \"mejor de lo anticipado\", aunque vigilarán de cerca los señales de estrés crediticio </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "1,6 millones de familias inquilinas se beneficiarán de las bonificaciones fiscales de los decretos de vivienda",
+    "link": "https://www.elperiodico.com/es/economia/20261025/1-6-millones-familias-inquilinas-135683645",
+    "pubDate": "2026-10-25 06:00:30",
+    "category": "",
+    "description": "<h2>Cataluña y Madrid concentran más de la mitad de los hogares beneficiarios, según datos del Ministerio de Vivienda</h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Las elecciones más inciertas de Brasil: Lula y Bolsonaro se la juegan al todo o nada",
+    "link": "https://www.elperiodico.com/es/internacional/20261025/elecciones-inciertas-brasil-lula-bolsonaro-todo-nada-135729940",
+    "pubDate": "2026-10-25 06:00:30",
+    "category": "",
+    "description": "<h2>La paridad entre los candidatos que arrojan las encuestas impide hacer vaticinios y hace prever que la contienda se definirá por escasa diferencia</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Daniel Álvarez, sin visión desde los 15 años: \"Gracias a las gafas inteligentes distingo un súper de una peluquería\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261025/gafas-inteligentes-super-peluqueria-implante-coclear-tecnologia-discapacidad-testimonios-135362980",
+    "pubDate": "2026-10-25 06:00:27",
+    "category": "",
+    "description": "<h2 class=\"item\">Los dispositivos de última generación derriban barreras en la discapacidad</h2><h2 class=\"item\">Paula González, con discapacidad auditiva desde bebé, utiliza un implante coclear</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/teconologia-ayuda-personas-mayores-sh/index.html\" target=\"_blank\">La tecnología, un aliado en la etapa final de la vida</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La gran banca enfila los 29.200 millones de beneficio y apunta a otro récord al calor de los tipos del BCE",
+    "link": "https://www.elperiodico.com/es/economia/20261025/gran-banca-enfila-29-200-135729937",
+    "pubDate": "2026-10-25 06:00:27",
+    "category": "",
+    "description": "<h2>La gran banca española encara su décimo trimestre récord consecutivo con una previsión de facturación conjunta de 29.200 millones de euros, lo que supone un incremento del 15% anual</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Toni Comín regresa a Catalunya tres días después de recoger su acta de eurodiputado en el Congreso",
+    "link": "https://www.elperiodico.com/es/politica/20261025/toni-comin-amnistia-regreso-cataluna-frontera-francia-135663229",
+    "pubDate": "2026-10-25 06:00:24",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261022/toni-comin-regreso-cataluna-parlamento-europeo-denuncias-cuentas-pendientes-135539320\">Toni Comín, un político de 'siete vidas' que regresa a Catalunya con cuentas pendientes</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261024/cataluna-amnistia-regreso-lideres-proces-referendum-1-o-135556101\">Así han regresado los líderes del 'procés': cada uno por su lado y con distinta pompa</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La revolución tecnológica que está cambiando la vida de las personas con discapacidad",
+    "link": "https://www.elperiodico.com/es/nodos-industria-tecnologia-digital-telecomunicaciones/20261025/revolucion-tecnologica-cambiando-vida-personas-135671669",
+    "pubDate": "2026-10-25 06:00:23",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las bazas de Rieju para mantener el fregado",
+    "link": "https://www.elperiodico.com/es/economia/20261025/bazas-rieju-mantener-fregado-135729936",
+    "pubDate": "2026-10-25 06:00:22",
+    "category": "",
+    "description": "<h2 class=\"item\">En todos los sectores hay firmas que, con prudencia, han sabido sortear las crisis y han mantenido su solidez y el control familiar </h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Las provincias clave del 29N donde se juega el último escaño y arrecia la competición entre bloques",
+    "link": "https://www.elperiodico.com/es/politica/20261025/provincias-clave-elecciones-escanos-partidos-135660319",
+    "pubDate": "2026-10-25 06:00:17",
+    "category": "",
+    "description": "<h2>En las salas de máquinas electorales de los partidos mapean cada circunscripción donde hay batalla por el último escaño y en busca del voto útil</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "EL PERIÓDICO encadena 10 meses consecutivos como líder de audiencia en Catalunya",
+    "link": "https://www.elperiodico.com/es/sociedad/20261025/ranking-audiencia-gfk-septiembre-el-periodico-10-meses-consecutivos-lider-catalunya-135635964",
+    "pubDate": "2026-10-25 06:00:15",
+    "category": "",
+    "description": "<h2 class=\"item\">El medio editado por Prensa Ibérica amplía la ventaja sobre sus perseguidores</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260523/configura-google-seguir-periodico-129736197\">Configura Google para no perderte nada de EL PERIÓDICO</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Una millonaria venezolana acusó al padre de los empresarios que pagaron a Zapatero de estafarle tres millones con un piso de lujo en Madrid",
+    "link": "https://www.elperiodico.com/es/economia/20261025/millonaria-venezolana-acuso-padre-empresarios-135636997",
+    "pubDate": "2026-10-25 06:00:15",
+    "category": "",
+    "description": "<h2>Elita del Valle Zacarías acusó a Domingo Amaro Rangel, su esposa y su hermano de cobrarle tres millones de euros por una vivienda que nunca recibió. La denuncia no prosperó en la vía penal venezolana, que sobreseyó la causa al considerar que se trataba de un conflicto civil</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Una política histórica, el covid y muchas compras: así terminó Grifols con una deuda de más de 9.000 millones de euros",
+    "link": "https://www.elperiodico.com/es/economia/20261025/porque-tanta-deuda-ebitda-grifols-politica-historica-covid-compras-135729871",
+    "pubDate": "2026-10-25 06:00:15",
+    "category": "",
+    "description": "<h2>La compañía ha realizado todo tipo de cambios internos y tiene frente a sí un proyecto de transformación de su operativa de gran envergadura, pero su cotización en bolsa sigue un 80% inferior al récord que alcanzó antes del covid</h2><h2><atarget=\"_blank\">La cruzada egipcia de Grifols para poner fin a cinco años de problemas</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Laia Borràs, fotógrafa de partos: \"Es impresionante estar ante algo tan mamífero, algo que no estamos acostumbrados a ver\"",
+    "link": "https://www.elperiodico.com/es/gente/20261025/laia-borras-fotografa-partos-reales-exposicion-barcelona-momento-mujer-mamifera-135179581",
+    "pubDate": "2026-10-25 06:00:05",
+    "category": "",
+    "description": "<h2>Ha visto mujeres parir a cuatro patas, madres que no gritan y bebés que llegan al mundo en menos de una hora. Esta joven barcelonesa retrata sin filtros uno de los momentos más íntimos, salvajes y emocionantes de la vida</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Підсумки 24.10: Starlink відновили і заводи мінус",
+    "link": "https://ua.korrespondent.net/ukraine/4923059-pidsumky-2410-Starlink-vidnovyly-i-zavody-minus",
+    "pubDate": "2026-10-25 05:57:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4609816.jpg\">Швидкість Starlink/Starshield відновлено; ЗСУ уразили три заводи на території РФ. Кореспондент.net виділяє головні події вчорашнього дня.",
+    "topic": "підсумки (за попередній день, наприклад)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Martín dribla el quirófano y podría reaparecer, la semana que viene, en Malasia",
+    "link": "https://www.elperiodico.com/es/deportes/20261025/martin-dribla-quirofano-reaparecer-semana-135729614",
+    "pubDate": "2026-10-25 05:32:58",
+    "category": "",
+    "description": "<h2 class=\"item\">El piloto madrileño Jorge Martín (Aprilia), segundo del Mundial de MotoGP a 10 puntos del nuevo líder, el catalán Marc Márquez (Ducati), ganador, ayer, de su novena carrera al esprint en Australia, 'solo' tiene fracturado el extremo distal de su radio derecho y se libra del quirófano al no ser una fractura desplazada.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Управління комунікацій ЗСУ очолив засновник UAnimals",
     "link": "https://ua.korrespondent.net/ukraine/4923122-upravlinnia-komunikatsii-zsu-ocholyv-zasnovnyk-UAnimals",
     "pubDate": "2026-10-25 05:27:00",
