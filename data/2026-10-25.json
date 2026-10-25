@@ -1,5 +1,77 @@
 [
   {
+    "title": "Управління комунікацій ЗСУ очолив засновник UAnimals",
+    "link": "https://ua.korrespondent.net/ukraine/4923122-upravlinnia-komunikatsii-zsu-ocholyv-zasnovnyk-UAnimals",
+    "pubDate": "2026-10-25 05:27:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4609781.jpg\">Олександр Тодорчук пообіцяв окрему увагу приділяти взаємодії з підрозділами, партнерами та медіа.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Бєлгород атакували БПЛА, у місті пожежі",
+    "link": "https://ua.korrespondent.net/world/russia/4923120-bielhorod-atakuvaly-bpla-u-misti-pozhezhi",
+    "pubDate": "2026-10-25 04:56:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4609780.jpg\">Повідомляється про влучання у ТРЦ та пошкодження будинків. Моніторингові канали публікують кадри з пожежами.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Marc Cerrudo Boada, escritor: \"A menudo, la literatura es el arte de narrar batallas libradas en guerras perdidas hace tiempo\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20261025/marc-cerrudo-boada-escritor-postals-mon-que-oblido-135569861",
+    "pubDate": "2026-10-25 04:50:36",
+    "category": "",
+    "description": "<h2>El autor terrasense y conductor de los clubs de lectura de la Xarxa de Biblioteques Municipals escribe en 'ABRIL' sobre su novela 'Postals del món que oblido'</h2><h2><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20250214/bibliotecas-barcelona-baten-records-12-114301471\">Las bibliotecas de Barcelona baten récords con más de 12 millones de préstamos y 2 millones de usuarios</a></h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20250830/silent-reading-parties-barcelona-leer-silencio-desconocidos-120150705\">Llegan a Barcelona las 'silent reading parties', citas para leer en silencio con desconocidos</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Marta Platel, rescatar el olvido",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20261025/marta-platel-baile-criadas-entrevista-135530571",
+    "pubDate": "2026-10-25 04:50:35",
+    "category": "",
+    "description": "<h2>En 2023 publicó su primera novela y tres años más tarde, con la segunda, 'El baile de las criadas', ha ganado el premio Premio Fernando Lara</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Союзники США хочуть свою альтернативу Starlink - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4923118-souiznyky-ssha-khochut-svoui-alternatyvu-Starlink-zmi",
+    "pubDate": "2026-10-25 04:25:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4609779.jpg\">Європейців та канадійців непокоїть залежність від непередбачуваного Ілона Маска, однак заміни Starlink у найближчому майбутньому не буде.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Рубіо вважає \"дуже мудрим\" рішення зняти санкції з російського дизеля",
+    "link": "https://ua.korrespondent.net/world/4923116-rubio-vvazhaie-duzhe-mudrym-rishennia-zniaty-sanktsii-z-rosiiskoho-dyzelia",
+    "pubDate": "2026-10-25 03:51:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4609761.jpg\">Цей крок може бути вигідним не лише іншим країнам, а й самим Сполученим Штатам, які стикаються з високими цінами на дизельне пальне.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Dos nuevas encuestas muestran a Bolsonaro y Lula empatados aunque con una leve ventaja del ultraderechista",
+    "link": "https://www.elperiodico.com/es/internacional/20261025/nuevas-encuestas-muestran-bolsonaro-lula-135729330",
+    "pubDate": "2026-10-25 03:28:02",
+    "category": "",
+    "description": "<h2>Los sondeos se conocieron el sábado por la noche después que se agotaron los esfuerzos de los candidatos para pedirle el voto a los brasileños</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Україна перейшла на \"зимовий час\"",
+    "link": "https://ua.korrespondent.net/ukraine/4923106-ukraina-pereishla-na-zymovyi-chas",
+    "pubDate": "2026-10-25 03:24:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4609654.jpg\">О 4.00 стрілки годинника перевели на годину назад, тому цими вихідними можна поспати на годину довше.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "F-16 перехопив літак над резиденцією Трампа",
     "link": "https://ua.korrespondent.net/world/4923114-F-16-perekhopyv-litak-nad-rezydentsiieui-trampa",
     "pubDate": "2026-10-25 02:49:00",
