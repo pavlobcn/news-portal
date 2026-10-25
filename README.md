@@ -1,8 +1,10 @@
-# News for 2026-10-25 20:56
+# News for 2026-10-25 22:57
 
 Previous day: [2026-10-24](./data/2026-10-24.md)
 
 ## ua.korrespondent.net
+22:23 [Не через приліт: у Харкові одна людина загинула, п’ятеро постраждали](https://ua.korrespondent.net/city/kharkov/4923254-ne-cherez-prylit-u-kharkovi-odna-luidyna-zahynula-piatero-postrazhdaly)<br>
+21:32 [Чорне море випередило Перську затоку за кількістю атак](https://ua.korrespondent.net/world/4923249-chorne-more-vyperedylo-persku-zatoku-za-kilkistui-atak)<br>
 20:08 [Зірвався якір: біля Нідерландів судно втратило керування](https://ua.korrespondent.net/world/4923239-zirvavsia-yakir-bilia-niderlandiv-sudno-vtratylo-keruvannia)<br>
 19:49 [Відключення світла 26 жовтня: що чекає українців](https://ua.korrespondent.net/ukraine/4923235-vidkluichennia-svitla-26-zhovtnia-scho-chekaie-ukraintsiv)<br>
 18:53 [У Вінниці розібрали завали будинку після атаки РФ](https://ua.korrespondent.net/ukraine/4923224-u-vinnytsi-rozibraly-zavaly-budynku-pislia-ataky-rf)<br>
@@ -31,6 +33,10 @@ Previous day: [2026-10-24](./data/2026-10-24.md)
 01:22 [У Болгарії застрелили спортивного чиновника та ексчлена Європарламенту](https://ua.korrespondent.net/world/4923108-u-bolharii-zastrelyly-sportyvnoho-chynovnyka-ta-ekschlena-yevroparlamentu)<br>
 
 ## as.com
+21:36 [Resumen del Lleida vs Real Madrid, jornada 5 de la Liga Endesa](https://as.com/videos/acb/resumen-del-lleida-vs-real-madrid-jornada-5-de-la-liga-endesa-f202610-v/)<br>
+21:34 [Pedro Martínez: “Es positivo que todos se sientan importantes”](https://as.com/baloncesto/acb/pedro-martinez-es-positivo-que-todos-se-sientan-importantes-f202610-n/)<br>
+21:08 [El Madrid desata una tormenta de triples](https://as.com/baloncesto/acb/el-madrid-desata-una-tormenta-de-triples-f202610-n/)<br>
+20:24 [Un Unicaja de muchos quilates en Lugo](https://as.com/baloncesto/un-unicaja-de-muchos-quilates-en-lugo-f202610-n/)<br>
 20:12 [Lleida - Real Madrid, en directo: Liga Endesa 2026-27 en vivo hoy](https://as.com/baloncesto/acb/lleida-real-madrid-en-directo-liga-endesa-2026-27-en-vivo-hoy-f202610-d/)<br>
 18:54 [TJ Shorts asiste, Valencia gana](https://as.com/baloncesto/acb/tj-shorts-asiste-valencia-gana-f202610-n/)<br>
 15:48 [El Tenerife persigue al líder](https://as.com/baloncesto/acb/el-tenerife-persigue-al-lider-f202610-n/)<br>
