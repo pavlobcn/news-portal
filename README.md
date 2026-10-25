@@ -1,4 +1,4 @@
-# News for 2026-10-25 20:21
+# News for 2026-10-25 20:56
 
 Previous day: [2026-10-24](./data/2026-10-24.md)
 
@@ -40,6 +40,7 @@ Previous day: [2026-10-24](./data/2026-10-24.md)
 00:08 [Aleksander Sekulic: “Juan Núñez ha sido el mejor jugador del partido”](https://as.com/baloncesto/acb/aleksander-sekulic-juan-nunez-ha-sido-el-mejor-jugador-del-partido-f202610-n/)<br>
 
 ## www.elperiodico.com
+20:30 [Silvia Vidal, psicóloga: "La ansiedad social tiene un origen muy biológico de supervivencia"](https://www.elperiodico.com/es/ser-feliz/20261025/ansiedad-social-biologico-psicologa-silvia-vidal-dv-et-135298543)<br>
 19:44 [Vicente Calduch, farmacéutico, sobre la crema Nivea de bote azul: "No contiene ingredientes específicamente diseñados para tratar el daño inducido por la radiación”](https://www.elperiodico.com/es/salud/20261025/crema-nivea-proteccion-sol-quemadura-farmaceutico-vicente-calduch-dv-135537807)<br>
 19:40 [Alejandro, piloto de avión, explica que deben examinarse cada 6 meses técnica y psicológicamente: "Antes de cada despegue, hay años de formación"](https://www.elperiodico.com/es/economia/20261025/piloto-avion-formacion-vuelo-alejandro-dv-135596000)<br>
 18:32 [Turtle Beach Vulcan II XP, análisis: precisión para jugar, comodidad para trabajar](https://www.elperiodico.com/es/tecnologia/20261025/turtle-beach-vulcan-ii-xp-135744444)<br>
