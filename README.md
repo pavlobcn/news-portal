@@ -1,4 +1,4 @@
-# News for 2026-10-25 22:57
+# News for 2026-10-26 00:45
 
 Previous day: [2026-10-24](./data/2026-10-24.md)
 
@@ -46,6 +46,7 @@ Previous day: [2026-10-24](./data/2026-10-24.md)
 00:08 [Aleksander Sekulic: “Juan Núñez ha sido el mejor jugador del partido”](https://as.com/baloncesto/acb/aleksander-sekulic-juan-nunez-ha-sido-el-mejor-jugador-del-partido-f202610-n/)<br>
 
 ## www.elperiodico.com
+23:46 [Cuatro hermanos menores afectados por una intoxicación de gas butano en La Rioja](https://www.elperiodico.com/es/sociedad/20261025/cuatro-hermanos-menores-afectados-intoxicacion-135751859)<br>
 20:30 [Silvia Vidal, psicóloga: "La ansiedad social tiene un origen muy biológico de supervivencia"](https://www.elperiodico.com/es/ser-feliz/20261025/ansiedad-social-biologico-psicologa-silvia-vidal-dv-et-135298543)<br>
 19:44 [Vicente Calduch, farmacéutico, sobre la crema Nivea de bote azul: "No contiene ingredientes específicamente diseñados para tratar el daño inducido por la radiación”](https://www.elperiodico.com/es/salud/20261025/crema-nivea-proteccion-sol-quemadura-farmaceutico-vicente-calduch-dv-135537807)<br>
 19:40 [Alejandro, piloto de avión, explica que deben examinarse cada 6 meses técnica y psicológicamente: "Antes de cada despegue, hay años de formación"](https://www.elperiodico.com/es/economia/20261025/piloto-avion-formacion-vuelo-alejandro-dv-135596000)<br>
