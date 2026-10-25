@@ -1,8 +1,11 @@
-# News for 2026-10-25 18:32
+# News for 2026-10-25 20:21
 
 Previous day: [2026-10-24](./data/2026-10-24.md)
 
 ## ua.korrespondent.net
+20:08 [Зірвався якір: біля Нідерландів судно втратило керування](https://ua.korrespondent.net/world/4923239-zirvavsia-yakir-bilia-niderlandiv-sudno-vtratylo-keruvannia)<br>
+19:49 [Відключення світла 26 жовтня: що чекає українців](https://ua.korrespondent.net/ukraine/4923235-vidkluichennia-svitla-26-zhovtnia-scho-chekaie-ukraintsiv)<br>
+18:53 [У Вінниці розібрали завали будинку після атаки РФ](https://ua.korrespondent.net/ukraine/4923224-u-vinnytsi-rozibraly-zavaly-budynku-pislia-ataky-rf)<br>
 17:17 [Свята 26 жовтня 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4923208-sviata-26-zhovtnia-2026-roku-istoriia-tradytsii)<br>
 16:54 [Удар по маршрутці в Херсоні забрав життя пасажира](https://ua.korrespondent.net/ukraine/4923206-udar-po-marshruttsi-v-khersoni-zabrav-zhyttia-pasazhyra)<br>
 16:35 [Спалах пташиного грипу в Данії: під загрозою тисячі птахів](https://ua.korrespondent.net/world/4923202-spalakh-ptashynoho-hrypu-v-danii-pid-zahrozoui-tysiachi-ptakhiv)<br>
@@ -28,6 +31,8 @@ Previous day: [2026-10-24](./data/2026-10-24.md)
 01:22 [У Болгарії застрелили спортивного чиновника та ексчлена Європарламенту](https://ua.korrespondent.net/world/4923108-u-bolharii-zastrelyly-sportyvnoho-chynovnyka-ta-ekschlena-yevroparlamentu)<br>
 
 ## as.com
+20:12 [Lleida - Real Madrid, en directo: Liga Endesa 2026-27 en vivo hoy](https://as.com/baloncesto/acb/lleida-real-madrid-en-directo-liga-endesa-2026-27-en-vivo-hoy-f202610-d/)<br>
+18:54 [TJ Shorts asiste, Valencia gana](https://as.com/baloncesto/acb/tj-shorts-asiste-valencia-gana-f202610-n/)<br>
 15:48 [El Tenerife persigue al líder](https://as.com/baloncesto/acb/el-tenerife-persigue-al-lider-f202610-n/)<br>
 15:28 [El Girona coge velocidad de crucero con McClung y Pérez como timoneles](https://as.com/baloncesto/acb/el-girona-coge-velocidad-de-crucero-con-mcclung-y-perez-como-timoneles-f202610-n/)<br>
 14:48 [El Bilbao Basket se redime](https://as.com/baloncesto/el-bilbao-basket-se-redime-f202610-n/)<br>
@@ -35,6 +40,8 @@ Previous day: [2026-10-24](./data/2026-10-24.md)
 00:08 [Aleksander Sekulic: “Juan Núñez ha sido el mejor jugador del partido”](https://as.com/baloncesto/acb/aleksander-sekulic-juan-nunez-ha-sido-el-mejor-jugador-del-partido-f202610-n/)<br>
 
 ## www.elperiodico.com
+19:44 [Vicente Calduch, farmacéutico, sobre la crema Nivea de bote azul: "No contiene ingredientes específicamente diseñados para tratar el daño inducido por la radiación”](https://www.elperiodico.com/es/salud/20261025/crema-nivea-proteccion-sol-quemadura-farmaceutico-vicente-calduch-dv-135537807)<br>
+19:40 [Alejandro, piloto de avión, explica que deben examinarse cada 6 meses técnica y psicológicamente: "Antes de cada despegue, hay años de formación"](https://www.elperiodico.com/es/economia/20261025/piloto-avion-formacion-vuelo-alejandro-dv-135596000)<br>
 18:32 [Turtle Beach Vulcan II XP, análisis: precisión para jugar, comodidad para trabajar](https://www.elperiodico.com/es/tecnologia/20261025/turtle-beach-vulcan-ii-xp-135744444)<br>
 17:38 [Gaiarooms, la hotelera sin recepcionistas que compra los hoteles que nadie quiere](https://www.elperiodico.com/es/economia/20261025/gaiarooms-hotelera-recepcionistas-compra-hoteles-nadie-quiere-135744146)<br>
 17:00 [Tiempo en Catalunya mañana lunes: estabilidad y temperaturas de hasta 25 grados](https://www.elperiodico.com/es/tiempo/20261025/catalunya-hoy-lunes-tiempo-meteocat-dv-135740218)<br>
