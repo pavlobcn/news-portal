@@ -1,10 +1,136 @@
 [
   {
+    "title": "¡Silencio en las cunetas!",
+    "link": "https://www.elperiodico.com/es/opinion/20261025/federico-garcia-lorca-silencio-cunetas-emma-riverola-135730700",
+    "pubDate": "2026-10-25 08:38:04",
+    "category": "",
+    "description": "<h2>¿Qué pasa cuando una obra se cancela por motivos ideológicos?</h2>",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Путін пропустить послання до Федеральних зборів другий рік поспіль",
+    "link": "https://ua.korrespondent.net/world/russia/4923141-putin-propustyt-poslannia-do-federalnykh-zboriv-druhyi-rik-pospil",
+    "pubDate": "2026-10-25 08:34:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4610090.jpg\">Востаннє глава Кремля виступав із посланням у лютому 2024 року. Конституція Росії передбачає щорічне звернення президента до Федеральних зборів.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Генштаб оновив втрати росіян на 25 жовтня",
+    "link": "https://ua.korrespondent.net/ukraine/4923139-henshtab-onovyv-vtraty-rosiian-na-25-zhovtnia",
+    "pubDate": "2026-10-25 08:17:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4610072.jpg\">Загальні втрати країни-агрессора Росії з початку повномасштабного вторгнення орієнтовно становлять 1 578 450 осіб.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Guerra de Irán y tensión en Israel, en directo",
+    "link": "https://www.elperiodico.com/es/internacional/20261025/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713",
+    "pubDate": "2026-10-25 08:14:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20260410/guerra-ucrania-rusia-ultima-hora-zelenski-trump-putin-directo-126605559\" >DIRECTO | Guerra Ucrania - Rusia, en directo: última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Así vive Nelo Fernández (55 años) con 650 euros al mes en un autocaravana de 1989: \"Soy feliz porque no estoy pagando un alquiler todos los meses\"",
+    "link": "https://www.elperiodico.com/es/economia/20261025/autocaravana-gastos-mensuales-alimentacion-gasoil-nelo-fernandez-dv-et-135359261",
+    "pubDate": "2026-10-25 08:11:55",
+    "category": "",
+    "description": "<h2>El hombre expone cómo se arregla en un sitio tan pequeño: \"No como igual que si viviera en una casa, porque no tengo nueve cosas abiertas a la vez. Tampoco compro en exceso por la falta de espacio de almacenamiento\"</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260901/vida-autocaravana-tranquilidad-practicidad-libertad-bombero-divorcio-soledad-dv-et-133549985\" >Nelo Fernández (55 años) vive en una autocaravana desde su divorcio: \"Después de una adolescencia y una juventud bastante turbulentas, descubrí que la vida era muy corta\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260831/dejaron-barcelona-vivir-furgoneta-3-metros-cuadrados-islas-canarias-toni-sara-dv-et-133620927\" >Toni y Sara dejaron Barcelona para vivir en una furgoneta de 3 m² y recorrer las Islas Canarias: \"Tienes que tener en cuenta que todo se acaba más rápido. Nos gastamos, tirando a la alta, unos 150 euros a la semana entre los dos\"</a></h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Eustaquio Pérez (105 años) se levanta a las cuatro de la mañana y camina ocho kilómetros diarios: \"Tengo que morir trabajando\"",
+    "link": "https://www.elperiodico.com/es/economia/20261025/eustaquio-perez-105-anos-morir-trabajando-madrugar-dv-135680488",
+    "pubDate": "2026-10-25 08:10:50",
+    "category": "",
+    "description": "<h2>El hombre más longevo de Ourense continúa cuidando de sus 14 ovejas y asegura que las claves de su longevidad son mantenerse activo, comer de todo y vivir sin estrés</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260829/federico-93-anos-vive-oculto-sin-luz-bosque-siglo-dv-et-133164234\">Federico (94 años), aislado y sin electricidad en el bosque desde hace décadas: \"No hay lagartos, no ves una culebra ni por asomo... no hay agricultura y los pájaros se van todos\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Confirmado: las áreas marinas protegidas aumentan la variedad y abundancia de peces",
     "link": "https://www.elperiodico.com/es/medio-ambiente/20261025/estudio-confirma-areas-marinas-protegidas-99873651",
     "pubDate": "2026-10-25 08:10:00",
     "category": "",
     "description": "<h2>Estas zonas resisten incluso los efectos de las olas de calor en el mar, contrariamente a las áreas no preservadas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Guerra Ucrania - Rusia, última hora en directo",
+    "link": "https://www.elperiodico.com/es/internacional/20261025/guerra-ucrania-rusia-ultima-hora-126605559",
+    "pubDate": "2026-10-25 08:08:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Directo GUERRA DE IRÁN | Última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Cambio de hora en octubre: estos son los efectos de salud en nuestro cuerpo, según la ciencia",
+    "link": "https://www.elperiodico.com/es/sociedad/20261025/cambio-hora-octubre-efectos-cuerpo-salud-dv-135713669",
+    "pubDate": "2026-10-25 08:05:32",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/sociedad/20261022/fin-del-cambio-de-hora-bloqueo-europa-claves-135602622\">¿Por qué Europa no consigue acabar con el cambio de hora? Las claves de un bloqueo que va para largo</a></h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20261024/debate-cambio-hora-paises-no-siempre-dv-128587669\">El debate del cambio de hora: estos son los países que ya han dicho ‘no’ para siempre</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Última hora del clásico FC Barcelona - Real Madrid, en directo: alineaciones confirmadas y dónde ver el partido de Liga",
+    "link": "https://www.elperiodico.com/es/deportes/20261025/barcelona-real-madrid-clasico-ultima-hora-directo-135720821",
+    "pubDate": "2026-10-25 08:01:06",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/deportes/20261024/flick-fc-barcelona-clasico-previa-real-madrid-135711492\" >Hansi Flick, antes del clásico: \"Tengo buenas sensaciones\"</a></h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los bancos pisan el acelerador por el ahorro: cuentas y depósitos remunerados al 3% y sin importe mínimo",
+    "link": "https://www.elperiodico.com/es/economia/20261025/bancos-ahorro-cuentas-depositos-remunerados-3-por-ciento-135720698",
+    "pubDate": "2026-10-25 08:01:05",
+    "category": "",
+    "description": "<h2>Openbank, Trade Republic y Bankinter figuran entre algunas de las entidades que ofrecen más del 3% TAE desde el primer euro, mientras otros bancos reservan sus mejores tipos para grandes ahorradores</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Rafael Argullol: \"Nací cuando todavía se percibían las vibraciones de Hiroshima y probablemente moriré en una época de autodestrucción, de suicidio espiritual\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261025/rafael-argullol-naci-todavia-percibian-135638342",
+    "pubDate": "2026-10-25 08:01:04",
+    "category": "",
+    "description": "<h2 class=\"item\">El escritor y catedrático de Estética publica 'Pinacoteca soñada' (Acantilado), un personalísimo mapamundi del arte occidental </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Crece el número de plantaciones de cannabis abandonadas en Catalunya: \"Son el cuarto vertido ilegal más habitual\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261025/plantaciones-cannabis-abandonadas-aumento-cataluna-135625961",
+    "pubDate": "2026-10-25 08:01:04",
+    "category": "",
+    "description": "<h2 class=\"item\">Los otros tres vertidos más habituales son restos urbanos, residuos de obras y vehículos</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261023/vertederos-ilegales-bosque-naturaleza-duplican-cataluna-135531384\" target=\"_blank\">Los vertederos ilegales en plena naturaleza se duplican en tres años en Catalunya</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20240901/vertederos-ilegales-amianto-doblan-ano-107504791\">Los vertederos ilegales de amianto se duplican en un año en Catalunya: \"La gente se deshace de la uralita a lo bestia\"</a></h2>",
+    "topic": "марихуана",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los vertederos ilegales en plena naturaleza se duplican en tres años en Catalunya",
+    "link": "https://www.elperiodico.com/es/sociedad/20261025/vertederos-ilegales-bosque-naturaleza-duplican-cataluna-135531384",
+    "pubDate": "2026-10-25 08:01:03",
+    "category": "",
+    "description": "<h2 class=\"item\">De los 1.128 casos detectados por los Agentes Rurales en 2023, se ha pasado a los 2.775 en 2025 </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261023/plantaciones-cannabis-abandonadas-aumento-cataluna-135625961\" target=\"_blank\">Crece el número de plantaciones de cannabis abandonadas: \"Son el cuarto vertido ilegal más habitual\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20250609/catalunya-apuesta-incinerar-volumen-residuos-118414069\" target=\"_blank\">Catalunya aumentará la incineración de residuos y reducirá los vertederos</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Clayface, el último villano de la escudería DC",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261025/clayface-ultimo-villano-escuderia-dc-135638217",
+    "pubDate": "2026-10-25 08:01:03",
+    "category": "",
+    "description": "<h2>La última entrega del ‘Universo DC Capítulo 1: Dioses y monstruos’ presenta al curioso personaje con un rostro moldeable que puede imitar al de cualquier otra persona I Pertenece al grupo de relatos integrado por ‘Superman’, ‘Supergirl’ y la serie ‘Linternas’</h2>",
     "topic": "",
     "topic_match_probability": 0
   },
@@ -25,6 +151,33 @@
     "description": "<h2>Este domingo podrás ver el Barça-Madrid en compañía con bebercio y cena para matar el ansia viva. Hay fiesta en Luz de Gas, donde celebra las victorias Laporta, y hasta cervezas Moritz inspiradas en el clásico</h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20261023/cine-viral-barcelona-comes-platos-iconicos-peliculas-morfilm-135620374\" target=\"_blank\">El cine viral de Barcelona donde comes lo que están comiendo en las películas</a></h2>",
     "topic": "ресторани, їжа",
     "topic_match_probability": 95
+  },
+  {
+    "title": "\"Democracia\" o \"barbarie\": lo que está en juego en las elecciones en Israel",
+    "link": "https://www.elperiodico.com/es/internacional/20261025/israel-elecciones-2026-democracia-barbarie-netanyahu-eisenkot-135730322",
+    "pubDate": "2026-10-25 08:01:02",
+    "category": "",
+    "description": "<h2>El miedo a la victoria del bloque rival recorre la sociedad israelí en unos comicios donde muchos ciudadanos consideran que su identidad podría estar amenazada en función del resultado </h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Gadi Eisenkot, el rival más serio de Netanyahu que perdió a un hijo en la guerra de Gaza",
+    "link": "https://www.elperiodico.com/es/internacional/20261025/quien-es-gadi-eisenkot-candidato-israel-principal-rival-netanyahu-135730303",
+    "pubDate": "2026-10-25 08:01:02",
+    "category": "",
+    "description": "<h2>Nacido en Tiberíades hace 66 años, Eisenkot representa realidades marginales como hijo de judíos inmigrantes marroquíes, crecido en la periferia geográfica y con una larga trayectoria militar</h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260825/israel-binyamin-netanyahu-pionero-vanguardia-extrema-derecha-ola-ultra-avance-conservador-133622233\" target=\"_blank\">El Israel de Binyamín Netanyahu, \"pionero y vanguardia de la extrema derecha\"</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "У Вінниці шестеро поранених через атаку РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4923137-u-vinnytsi-shestero-poranenykh-cherez-ataku-rf",
+    "pubDate": "2026-10-25 07:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4610053.jpg\">Сталися руйнування між другим і третім поверхами житлового будинку, повністю знищено чотири квартири, пошкоджено припарковані авто.",
+    "topic": "політика",
+    "topic_match_probability": 85
   },
   {
     "title": "Elecciones generales 29N, en directo | Encuestas, sondeos y última hora de las candidaturas del PSOE, PP y Vox",
@@ -261,6 +414,15 @@
     "topic_match_probability": 100
   },
   {
+    "title": "1,6 millones de familias inquilinas se beneficiarán de las bonificaciones fiscales de los decretos de vivienda",
+    "link": "https://www.elperiodico.com/es/economia/20261025/6-millones-familias-inquilinas-135683645",
+    "pubDate": "2026-10-25 06:00:30",
+    "category": "",
+    "description": "<h2>Cataluña y Madrid concentran más de la mitad de los hogares beneficiarios, según datos del Ministerio de Vivienda</h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
     "title": "Daniel Álvarez, sin visión desde los 15 años: \"Gracias a las gafas inteligentes distingo un súper de una peluquería\"",
     "link": "https://www.elperiodico.com/es/sociedad/20261025/gafas-inteligentes-super-peluqueria-implante-coclear-tecnologia-discapacidad-testimonios-135362980",
     "pubDate": "2026-10-25 06:00:27",
@@ -340,6 +502,15 @@
     "description": "<h2>La compañía ha realizado todo tipo de cambios internos y tiene frente a sí un proyecto de transformación de su operativa de gran envergadura, pero su cotización en bolsa sigue un 80% inferior al récord que alcanzó antes del covid</h2><h2><atarget=\"_blank\">La cruzada egipcia de Grifols para poner fin a cinco años de problemas</a></h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Una millonaria venezolana acusó al padre de los empresarios que pagaron a Zapatero de estafarle tres millones con un piso de lujo en Madrid",
+    "link": "https://www.elperiodico.com/es/economia/20261025/millonaria-venezolana-acuso-padre-empresarios-pagaron-zapatero-135636997",
+    "pubDate": "2026-10-25 06:00:15",
+    "category": "",
+    "description": "<h2>Elita del Valle Zacarías acusó a Domingo Amaro Rangel, su esposa y su hermano de cobrarle tres millones de euros por una vivienda que nunca recibió. La denuncia no prosperó en la vía penal venezolana, que sobreseyó la causa al considerar que se trataba de un conflicto civil</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
   },
   {
     "title": "Laia Borràs, fotógrafa de partos: \"Es impresionante estar ante algo tan mamífero, algo que no estamos acostumbrados a ver\"",
