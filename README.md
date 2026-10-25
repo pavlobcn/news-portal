@@ -1,8 +1,11 @@
-# News for 2026-10-25 10:20
+# News for 2026-10-25 13:32
 
 Previous day: [2026-10-24](./data/2026-10-24.md)
 
 ## ua.korrespondent.net
+12:36 [У Харкові з'явився перший антидроновий коридор](https://ua.korrespondent.net/city/kharkov/4923168-u-kharkovi-ziavyvsia-pershyi-antydronovyi-korydor)<br>
+10:37 [Вогонь зруйнував гірську резиденцію Гітлера](https://ua.korrespondent.net/world/4923158-vohon-zruinuvav-hirsku-rezydentsiui-hitlera)<br>
+10:16 [Генштаб підтвердив нові ураження на Бєлгородщині](https://ua.korrespondent.net/ukraine/4923155-henshtab-pidtverdyv-novi-urazhennia-na-bielhorodschyni)<br>
 09:59 [Російський дрон поцілив у торговельний комплекс в Полтаві](https://ua.korrespondent.net/ukraine/4923153-rosiiskyi-dron-potsilyv-u-torhovelnyi-kompleks-v-poltavi)<br>
 09:43 [Двом німцям загрожує до 12 років за підпал Starlink у Болгарії](https://ua.korrespondent.net/world/4923150-dvom-nimtsiam-zahrozhuie-do-12-rokiv-za-pidpal-Starlink-u-bolharii)<br>
 07:39 [Нічна атака: скільки дронів знешкодила ППО](https://ua.korrespondent.net/ukraine/4923135-nichna-ataka-skilky-droniv-zneshkodyla-ppo)<br>
@@ -16,9 +19,19 @@ Previous day: [2026-10-24](./data/2026-10-24.md)
 01:22 [У Болгарії застрелили спортивного чиновника та ексчлена Європарламенту](https://ua.korrespondent.net/world/4923108-u-bolharii-zastrelyly-sportyvnoho-chynovnyka-ta-ekschlena-yevroparlamentu)<br>
 
 ## as.com
+10:12 [Primer partido serio y la NBA ya alucina con otro producto nacional: ¡Sergio, qué superclase eres!](https://as.com/baloncesto/primer-partido-serio-y-la-nba-ya-alucina-con-otro-producto-nacional-sergio-que-superclase-eres-f202610-v/)<br>
 00:08 [Aleksander Sekulic: “Juan Núñez ha sido el mejor jugador del partido”](https://as.com/baloncesto/acb/aleksander-sekulic-juan-nunez-ha-sido-el-mejor-jugador-del-partido-f202610-n/)<br>
 
 ## www.elperiodico.com
+13:20 [El espectacular pueblo de cuento a media hora de Granollers](https://www.elperiodico.com/es/catalunya/20261025/riells-fai-pueblo-espectacular-cerca-granollers-espacio-natural-sant-miquel-fai-monasterio-dv-loc-127752118)<br>
+12:46 [Mireia Font (58 años) dejó Barcelona para vivir en comunidad en una masía de Girona: "Nunca volvería a la ciudad. Podría vivir aquí hasta que me muera, pagando siempre la misma cuota y sabiendo que no subirá"](https://www.elperiodico.com/es/economia/20261025/masia-girona-vida-en-comunidad-dejo-barcelona-vivienda-libertad-mireia-dv-et-135612884)<br>
+12:16 [Rescatan a cuatro personas, dos de ellas menores, después de desorientarse de noche en Montserrat siguiendo una ruta por una aplicación](https://www.elperiodico.com/es/sucesos/20261025/rescatan-cuatro-personas-menores-montserrat-siguiendo-ruta-aplicacion-135735694)<br>
+12:00 [Los cinco empresarios que quieren catapultar una pyme catalana que clona plantas](https://www.elperiodico.com/es/economia/20261025/cinco-empresarios-quieren-in-vitro-catapultar-pyme-clona-plantas-135735504)<br>
+11:31 [Las playas de Barcelona baten récords con 5,6 millones de visitantes este verano](https://www.elperiodico.com/es/barcelona/20261025/playas-barcelona-baten-records-5-veranos-135734624)<br>
+11:19 [Muere el director de cine José Luis García Sánchez, Oso de Oro en Berlín por 'Las truchas'](https://www.elperiodico.com/es/ocio-y-cultura/20261025/muere-director-cine-jose-luis-garcia-sanchez-135734474)<br>
+11:00 [Más de 21.000 de los 52.814 médicos de la sanidad privada se jubilarán en los próximos 15 años: "Tenemos un gravísimo problema"](https://www.elperiodico.com/es/sanidad/20261025/sanidad-privada-jubilaciones-medicos-falta-enfermeras-espana-135615312)<br>
+10:59 [¿Por qué las personas viven más tiempo entre Olot y Vic? Dos científicos expertos en longevidad proponen estudiarlo](https://www.elperiodico.com/es/sociedad/20261025/personas-viven-mas-tiempo-olot-vic-longevidad-centenarios-135733274)<br>
+10:23 [Felipe VI abandona Oviedo tras operarse de cataratas: "Tengo que llevar las gafas, pero estoy bien"](https://www.elperiodico.com/es/politica/20261025/felipe-vi-abandona-oviedo-operarse-cataratas-135733158)<br>
 10:00 [Explosión de libélulas y ranas en Santa Coloma: "Los conectores verdes entre Can Zam y el Besòs funcionan"](https://www.elperiodico.com/es/sociedad/20261025/explosion-libelulas-ranas-santa-coloma-gramenet-parque-can-zam-besos-cataluna-135670505)<br>
 10:00 [Así ha cambiado la cúpula de Grifols en los últimos cinco años](https://www.elperiodico.com/es/economia/20261025/cambiado-cupula-grifols-ultimos-cinco-135732361)<br>
 09:25 [Irina, viviendo aislada en la montaña desde los 15 años: "Mi infancia fue una película de terror y me fui de mi casa a los 15 años porque no me pude ir antes"](https://www.elperiodico.com/es/economia/20261025/pueblo-aislado-montana-leon-vida-rural-autosuficiente-infancia-dura-irina-dv-et-135489053)<br>
@@ -41,6 +54,7 @@ Previous day: [2026-10-24](./data/2026-10-24.md)
 06:00 [La revolución tecnológica que está cambiando la vida de las personas con discapacidad](https://www.elperiodico.com/es/nodos-industria-tecnologia-digital-telecomunicaciones/20261025/revolucion-tecnologica-cambiando-vida-personas-135671669)<br>
 06:00 [EL PERIÓDICO encadena 10 meses consecutivos como líder de audiencia en Catalunya](https://www.elperiodico.com/es/sociedad/20261025/ranking-audiencia-gfk-septiembre-el-periodico-10-meses-consecutivos-lider-catalunya-135635964)<br>
 06:00 [Una política histórica, el covid y muchas compras: así terminó Grifols con una deuda de más de 9.000 millones de euros](https://www.elperiodico.com/es/economia/20261025/porque-tanta-deuda-ebitda-grifols-politica-historica-covid-compras-135729871)<br>
+06:00 [La cruzada egipcia de Grifols para poner fin a cinco años de problemas](https://www.elperiodico.com/es/economia/20261025/cruzada-egipcia-grifols-poner-cinco-anos-problemas-135729866)<br>
 06:00 [Laia Borràs, fotógrafa de partos: "Es impresionante estar ante algo tan mamífero, algo que no estamos acostumbrados a ver"](https://www.elperiodico.com/es/gente/20261025/laia-borras-fotografa-partos-reales-exposicion-barcelona-momento-mujer-mamifera-135179581)<br>
 04:50 [Marc Cerrudo Boada, escritor: "A menudo, la literatura es el arte de narrar batallas libradas en guerras perdidas hace tiempo"](https://www.elperiodico.com/es/ocio-y-cultura/libros/20261025/marc-cerrudo-boada-escritor-postals-mon-que-oblido-135569861)<br>
 04:50 [Marta Platel, rescatar el olvido](https://www.elperiodico.com/es/ocio-y-cultura/libros/20261025/marta-platel-baile-criadas-entrevista-135530571)<br>

@@ -1,5 +1,311 @@
 [
   {
+    "title": "Carlos Alcaraz (23 años): \"Murcia está muy infravalorada. Tenemos playa, montañas, buen clima y buena comida. Hay muchos memes de Murcia porque realmente no han ido\"",
+    "link": "https://www.elperiodico.com/es/gente/20261025/carlos-alcaraz-23-anos-murcia-tenista-profesional-dv-135737023",
+    "pubDate": "2026-10-25 13:30:26",
+    "category": "",
+    "description": "<h2 class=\"item\">El tenista de El Palmar siempre ha reivindicado el territorio en el que se crio y en el que todavía reside con su familia</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20260703/refugio-carlos-alcaraz-23-anos-murcia-dv-131926396\">El refugio de Carlos Alcaraz (23 años) en Murcia, con senderos, vegetación mediterránea y buenas vistas: \"Está muy infravalorado\"</a></h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Sandisk lanza la serie Guardian para cámaras de coche y seguridad doméstica",
+    "link": "https://www.elperiodico.com/es/tecnologia/20261025/sandisk-lanza-serie-guardian-tarjeta-135737547",
+    "pubDate": "2026-10-25 13:27:02",
+    "category": "",
+    "description": "<h2>La nueva gama de tarjetas está pensada para la grabación continua en entornos exigentes y está ya disponible desde unos 22 euros</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "El espectacular pueblo de cuento a media hora de Granollers",
+    "link": "https://www.elperiodico.com/es/catalunya/20261025/riells-fai-pueblo-espectacular-cerca-granollers-espacio-natural-sant-miquel-fai-monasterio-dv-loc-127752118",
+    "pubDate": "2026-10-25 13:20:00",
+    "category": "",
+    "description": "<h2>La provincia de Barcelona tiene preciosos espacios naturales, que incluyen monasterios, acantilados, grutas y pozas</h2><h2><a href=\"https://www.elperiodico.com/es/catalunya/20260817/espectacular-pueblo-cerca-mataro-maresme-dv-loc-109242803\">El espectacular pueblo costero a 20 minutos de Mataró: pequeñas casas blancas y aguas cristalinas</a></h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260627/espectacular-pueblo-cuento-30-minutos-reus-tarragona-dv-loc-108363445\">El increíble pueblo de cuento a media hora de Reus rodeado de viñedos</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Feijóo vincula a Sánchez con los altercados en Barcelona: \"Se están resistiendo a abandonar el poder con violencia\"",
+    "link": "https://www.elperiodico.com/es/politica/20261025/feijoo-pp-altercados-saqueos-vandalismo-barcelona-elecciones-generales-135735671",
+    "pubDate": "2026-10-25 13:17:26",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261024/pp-elecciones-generales-cataluna-resultado-12-escanos-feijoo-albiol-135659333\">¿Cómo puede sacar el PP los 12 diputados en Catalunya que pide Feijóo para gobernar?</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Collboni, tras los disturbios: “Lo que ha pasado no se puede volver a repetir en Barcelona”",
+    "link": "https://www.elperiodico.com/es/barcelona/20261025/barcelona-disturbios-protesta-manifestantes-detenidos-destrozos-collboni-135737223",
+    "pubDate": "2026-10-25 13:14:47",
+    "category": "",
+    "description": "<h2 class=\"item\">El alcalde subraya que no tolerará que las escenas de violencia y saqueo ocurran de nuevo, tal como ha sucedido en París y otras capitales europeas</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20261025/disturbios-barcelona-ultima-hora-directo-manifestaciones-francia-italia-135485330\">Disturbios en Barcelona, en directo: última hora de las detenciones y las protestas de jóvenes en otras ciudades de Europa</a></h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "РФ за добу атакувала Епіцентри у чотирьох містах",
+    "link": "https://ua.korrespondent.net/business/companies/4923171-rf-za-dobu-atakuvala-epitsentry-u-chotyrokh-mistakh",
+    "pubDate": "2026-10-25 13:07:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4610364.jpg\">Менш ніж за добу торговельні центри мережі зазнали атак у Харкові, Запоріжжі, Вінниці, Полтаві.",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Precio de la gasolina y diésel hoy, 25 de octubre en España: consulta el precio de los carburantes",
+    "link": "https://www.elperiodico.com/es/economia/20261025/precio-gasolina-diesel-hoy-25-octubre-dv-135737071",
+    "pubDate": "2026-10-25 13:00:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Guerra de EEUU e Israel contra Irán, en directo</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260303/afectara-espana-conflicto-iran-gas-gasolina-luz-inflacion-euribor-127492297\">¿Cómo afectará a España el conflicto con Irán? Gas, gasolina, luz, inflación y euríbor, en el punto de mira</a></h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Embalses hoy, 25 de octubre en Catalunya: consulta el estado de Sau, Foix, Susqueda y el resto de pantanos",
+    "link": "https://www.elperiodico.com/es/sociedad/20261025/embalses-hoy-25-octubre-catalunya-dv-135737046",
+    "pubDate": "2026-10-25 12:56:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Consulta el nivel de los pantanos catalanes, según los últimos datos de la Agència Catalana de l'Aigua</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20250922/noticias-google-discover-el-periodico-121841727\">Configura las noticias de Google para no perderte nada de EL PERIÓDICO</a></h2>",
+    "topic": "estado de los embalses",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "\"La generación que quiere romper con todo\": qué hay detrás de 'Blocus', los disturbios de Barcelona y las nuevas protestas",
+    "link": "https://www.elperiodico.com/es/barcelona/20261025/generacion-quiere-romper-hay-detras-blocus-jovenes-atercatos-detenidos-convocatorias-nuevas-135736305",
+    "pubDate": "2026-10-25 12:53:52",
+    "category": "",
+    "description": "<h2>Más de la mitad de los 128 detenidos son menores de edad, algunos de apenas 14 años. El fenómeno juvenil, inspirado en las movilizaciones de Francia y organizado a través de las redes sociales, extiende sus convocatorias a Girona y Granollers este domingo</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20261025/barcelona-disturbios-destrozos-tiendas-comerciantes-135732108\">Comerciantes afectados por los disturbios en el centro de Barcelona: “Esto no es robar, es destrozar”</a></h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20261025/disturbios-barcelona-ultima-hora-directo-manifestaciones-francia-italia-135485330\">DIRECTO | Última hora de las detenciones y las protestas de jóvenes en otras ciudades de Europa</a></h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Saúl Craviotto (41 años), piragüista, sobre nacer en Catalunya y vivir en Asturias: \"Yo soy de Lleida, me siento catalán y me siento muy orgulloso de ser catalán\"",
+    "link": "https://www.elperiodico.com/es/gente/20261025/saul-craviotto-piraguista-nacido-cataluna-asturias-gijon-familia-dv-et-135622629",
+    "pubDate": "2026-10-25 12:50:44",
+    "category": "",
+    "description": "<h2>El deportista español expone su gran vinculo con las tierras asturianas: \"Mis hijas han nacido en Gijón y yo viviré aquí hasta que me muera\"</h2><h2><a href=\"https://www.elperiodico.com/es/gente/20260819/actor-quim-gutierrez-vida-monte-lejos-fama-ciudad-dv-et-133121255\" >Así es la vida del actor Quim Gutiérrez (45 años) y su mujer viviendo en el campo: \"De alguna forma, ambos escuchábamos la llamada de los pájaros\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261022/pueblo-abandonado-lleida-pirineo-despoblacion-vida-rural-tomas-dv-et-135400839\" >Tomás (64 años), viviendo en un pueblo abandonado del Pirineo: \"Los que vivís en ciudad, veis a mucha gente aislada pidiendo ayuda y parece que se hacen invisibles\"</a></h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Mireia Font (58 años) dejó Barcelona para vivir en comunidad en una masía de Girona: \"Nunca volvería a la ciudad. Podría vivir aquí hasta que me muera, pagando siempre la misma cuota y sabiendo que no subirá\"",
+    "link": "https://www.elperiodico.com/es/economia/20261025/masia-girona-vida-en-comunidad-dejo-barcelona-vivienda-libertad-mireia-dv-et-135612884",
+    "pubDate": "2026-10-25 12:46:49",
+    "category": "",
+    "description": "<h2>La mujer explica cómo decidió realizar este gran cambio en su vida: \"El Turrós me ha traído una enorme libertad y la posibilidad de volver a redefinir desde cero mi vida\"</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261010/dejar-madrid-pueblo-bierzo-leon-cambio-de-vida-autosuficiente-rural-huerto-dv-et-135046706\" >José y su novia se fueron al Bierzo (León) en busca de una vida autosuficiente: \"Si pudiera volver atrás, dejaría Madrid otra vez con los ojos cerrados\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261021/pueblo-aislado-montana-leon-vida-rural-autosuficiente-infancia-dura-irina-dv-et-135489053\" >Irina vive aislada en la montaña desde los 15 años: \"Mi infancia fue una película de terror y yo me fui de mi casa a los 15 años porque no me pude ir antes\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Detenido un ladrón especializado en hurtos en hoteles de lujo de Barcelona que se hacía pasar por trabajador",
+    "link": "https://www.elperiodico.com/es/sucesos/20261025/detenido-ladron-especializado-hurtos-hoteles-lujo-barcelona-135736520",
+    "pubDate": "2026-10-25 12:43:16",
+    "category": "",
+    "description": "<h2>El hombre, de 60 años, acumula 24 antecedentes policiales y ha sido arrestado en Zaragoza</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Харкові з'явився перший антидроновий коридор",
+    "link": "https://ua.korrespondent.net/city/kharkov/4923168-u-kharkovi-ziavyvsia-pershyi-antydronovyi-korydor",
+    "pubDate": "2026-10-25 12:36:00",
+    "category": "Харків",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4610291.jpg\">Висота коридору становить сім метрів. Планується закриття також інших ділянок.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "\"Todo exquisito\": los elogios al mejor restaurante de Vic, según Tripadvisor",
+    "link": "https://www.elperiodico.com/es/gastronomia/20261025/mejor-restaurante-vic-gran-descubrimiento-elogios-dv-loc-109275196",
+    "pubDate": "2026-10-25 12:30:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/cata-mayor/20240925/mejores-restaurantes-vic-tripadvisor-dv-loc-108553134\" >Estos son los 5 mejores restaurantes de Vic según Tripadvisor</a></h2><h2><a href=\"https://www.elperiodico.com/es/cata-mayor/20241122/mejores-bar-vic-aclamado-patatas-bravas-dv-loc-108913585\" >\"Son antológicas\": el bar de Vic aclamado por sus patatas bravas</a></h2><h2><a href=\"https://www.elperiodico.com/es/cata-mayor/20240929/mejor-pastel-vi-tarta-queso-dv-loc-108655245\" >Una tarta de queso icónica: el restaurante de Vic con mejores pasteles</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Volkswagen планує завод Audi у США",
+    "link": "https://ua.korrespondent.net/business/auto/4923166-Volkswagen-planuie-zavod-Audi-u-ssha",
+    "pubDate": "2026-10-25 12:18:00",
+    "category": "Авто новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4610290.jpg\">Проєкт може стати політичним здобутком Дональда Трампа напередодні проміжних виборів до Конгресу США.",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Rescatan a cuatro personas, dos de ellas menores, después de desorientarse de noche en Montserrat siguiendo una ruta por una aplicación",
+    "link": "https://www.elperiodico.com/es/sucesos/20261025/rescatan-cuatro-personas-menores-montserrat-siguiendo-ruta-aplicacion-135735694",
+    "pubDate": "2026-10-25 12:16:36",
+    "category": "",
+    "description": "<h2>Los Bombers tuvieron que acompañar a la familia, formada por dos jóvenes de 19 años, dos menores de 11 y 12 y su madre, en una evacuación lenta porque tenían mucho frío y no iban preparados</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Junts acusa al Govern de falta de previsión y reclama la comparecencia \"urgente\" de Parlon tras los saqueos en Barcelona",
+    "link": "https://www.elperiodico.com/es/politica/20261025/saqueos-barcelona-junts-govern-comparecencia-parlon-illa-135734554",
+    "pubDate": "2026-10-25 12:05:09",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sucesos/20261025/vandalos-asaltaron-comercios-barcelona-jovenes-menores-mossos-policia-135732603\">Los vándalos que asaltaron comercios en Barcelona eran \"muy jóvenes\" y violentos: el 56% de los 128 detenidos son menores</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20261025/barcelona-disturbios-destrozos-tiendas-comerciantes-135732108\">Comerciantes afectados por los disturbios en el centro de Barcelona: \"Esto no es robar, es destrozar\"</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La fabricación de vehículos en España roza las 222.000 unidades en septiembre impulsada por los electrificados",
+    "link": "https://www.elperiodico.com/es/motor/20261025/fabricacion-vehiculos-espana-roza-222000-unidades-impulsado-electrificados-135664722",
+    "pubDate": "2026-10-25 12:00:16",
+    "category": "",
+    "description": "<h2>El sector acumula 1.675.092 vehículos producidos hasta el tercer trimestre y mantiene la previsión de cerrar el año en 2,25 millones de unidades</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los cinco empresarios que quieren catapultar una pyme catalana que clona plantas",
+    "link": "https://www.elperiodico.com/es/economia/20261025/cinco-empresarios-quieren-in-vitro-catapultar-pyme-clona-plantas-135735504",
+    "pubDate": "2026-10-25 12:00:15",
+    "category": "",
+    "description": "<h2>In Vitro inicia una nueva etapa tras el paso al lado del fundador, 40 años después de su creación, con el objetivo de multiplicar por más de 10 la facturación y duplicar la capacidad productiva.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El fiscal general de EEUU defiende revisar los votos en Alaska si el candidato republicano pierde",
+    "link": "https://www.elperiodico.com/es/internacional/20261025/fiscal-general-eeuu-defiende-demanda-revisar-votos-alaska-135734211",
+    "pubDate": "2026-10-25 11:39:54",
+    "category": "",
+    "description": "<h2>Un candidato independiente tiene un nombre muy parecido al del republicano Daniel S. Sullivan, y Donald Trump sospecha que los votantes pueden equivocarse</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "У Сербії розпочалися дострокові вибори",
+    "link": "https://ua.korrespondent.net/world/4923164-u-serbii-rozpochalysia-dostrokovi-vybory",
+    "pubDate": "2026-10-25 11:39:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4610269.jpg\">Головним суперником Вучича став студентський рух, який очолив масові антиурядові протести.",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "¿Gripe o estrategia? La incertidumbre rodea la baja de última hora de Courtois en el Clásico",
+    "link": "https://www.elperiodico.com/es/deportes/20261025/courtois-baja-ultima-hora-clasico-barca-madrid-135734698",
+    "pubDate": "2026-10-25 11:33:24",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/deportes/20261025/barca-real-madrid-afrontan-clasico-135714241\" >Barça y Real Madrid afrontan un clásico monumental: de la conspiranoia al fútbol</a></h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Las playas de Barcelona baten récords con 5,6 millones de visitantes este verano",
+    "link": "https://www.elperiodico.com/es/barcelona/20261025/playas-barcelona-baten-records-5-veranos-135734624",
+    "pubDate": "2026-10-25 11:31:34",
+    "category": "",
+    "description": "<h2>El volumen de residuos se reduce a la mitad, hasta los 276.300 kilos, mientras que la Guardia Urbana registra 220 detenciones y se imponen 95.000 denuncias por conductas incívicas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Trias cree que Puigdemont no concurrirá a otras elecciones y ve a Junts \"en renovación\"",
+    "link": "https://www.elperiodico.com/es/politica/20261025/xavier-trias-carles-puigdemont-elecciones-generalitat-cataluna-regreso-junts-convergencia-135734633",
+    "pubDate": "2026-10-25 11:31:17",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261025/toni-comin-amnistia-regreso-cataluna-frontera-francia-135663229\">Toni Comín regresa a Catalunya tres días después de recoger su acta de eurodiputado en el Congreso</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Muere el director de cine José Luis García Sánchez, Oso de Oro en Berlín por 'Las truchas'",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261025/muere-director-cine-jose-luis-garcia-sanchez-135734474",
+    "pubDate": "2026-10-25 11:19:16",
+    "category": "",
+    "description": "<h2>El director, guionista y productor salmantino ha fallecido a los 85 años en Madrid</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Кім Чен Ин заявив про зміцнення зв’язків із Китаєм",
+    "link": "https://ua.korrespondent.net/world/4923162-kim-chen-yn-zaiavyv-pro-zmitsnennia-zviazkiv-iz-kytaiem",
+    "pubDate": "2026-10-25 11:14:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4610228.jpg\">Лідер Північної Кореї відвідав китайське прикордонне місто Даньдун, де зустрівся з високопосадовцями КНР і заявив про намір розвивати відносини між країнами.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Más de 21.000 de los 52.814 médicos de la sanidad privada se jubilarán en los próximos 15 años: \"Tenemos un gravísimo problema\"",
+    "link": "https://www.elperiodico.com/es/sanidad/20261025/sanidad-privada-jubilaciones-medicos-falta-enfermeras-espana-135615312",
+    "pubDate": "2026-10-25 11:00:40",
+    "category": "",
+    "description": "<h2 class=\"item\">El envejecimiento de las plantillas, el relevo generacional y la escasez de profesionales son los principales retos de la patronal de la sanidad privada</h2><h2 class=\"item\">El 95% de los 431 hospitales que tiene el sector en España necesita contratar a más enfermeras</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260417/jose-manuel-baltar-elegido-nuevo-presidente-patronal-sanidad-privada-129206923\">José Manuel Baltar, elegido nuevo presidente de la patronal de la sanidad privada</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260701/espana-necesita-enfermeras-media-europea-proximas-jubilaciones-132007785\">España necesita 100.000 enfermeras para llegar a la media europea y cubrir las próximas jubilaciones</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Por qué las personas viven más tiempo entre Olot y Vic? Dos científicos expertos en longevidad proponen estudiarlo",
+    "link": "https://www.elperiodico.com/es/sociedad/20261025/personas-viven-mas-tiempo-olot-vic-longevidad-centenarios-135733274",
+    "pubDate": "2026-10-25 10:59:11",
+    "category": "",
+    "description": "<h2>Se publican las conclusiones de la investigación sobre la salud de hierro de María Branyas, que fue la mujer centenaria más longeva del mundo</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los Mossos despliegan en Manresa unidades ARRO con armas largas para combatir la sensación de inseguridad en la calle",
+    "link": "https://www.elperiodico.com/es/sociedad/20261025/mossos-despliegan-manresa-unidades-arro-seguridad-calle-armas-kargas-135733577",
+    "pubDate": "2026-10-25 10:52:33",
+    "category": "",
+    "description": "<h2>La policía catalana pone en marcha un dispositivo, que se mantendrá de manera indefinida, que combina agentes de la ARRO y de seguridad ciudadana en grupos de tres y se concentra en cuatro zonas de la ciudad</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20261024/mossos-detectan-collblanc-nueva-modalidad-pinganillo-carteristas-ladrones-135676692\">Los Mossos detectan en Collblanc una nueva modalidad de robo: carteristas con pinganillo para 'cazar' víctimas</a></h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Вогонь зруйнував гірську резиденцію Гітлера",
+    "link": "https://ua.korrespondent.net/world/4923158-vohon-zruinuvav-hirsku-rezydentsiui-hitlera",
+    "pubDate": "2026-10-25 10:37:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4610206.jpg\">Орлине гніздо звели у 1937-1938 роках на висоті 1834 метри як представницьку резиденцію Гітлера.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los vándalos que asaltaron comercios en Barcelona eran \"muy jóvenes\" y violentos: el 56% de los 128 detenidos son menores",
+    "link": "https://www.elperiodico.com/es/sucesos/20261025/vandalos-asaltaron-comercios-barcelona-jovenes-menores-mossos-policia-135732603",
+    "pubDate": "2026-10-25 10:24:38",
+    "category": "",
+    "description": "<h2>La policía señala la fuerte respuesta a una convocatoria por internet y que solo dos de los arrestados tuvieran antecedentes</h2><h2>La plataforma Blocus que movió online los disturbios convoca protestas en Madrid y otras ciudades españolas \"como en Francia\"</h2><h2><a href=\"https://www.elperiodico.com/es/sucesos/20261024/100-detenidos-barcelona-violentas-protestas-juveniles-actos-vandalicos-135726338\">Más de 100 detenidos en Barcelona por la violenta protesta juvenil que ha dejado 14 comercios saqueados</a></h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Felipe VI abandona Oviedo tras operarse de cataratas: \"Tengo que llevar las gafas, pero estoy bien\"",
+    "link": "https://www.elperiodico.com/es/politica/20261025/felipe-vi-abandona-oviedo-operarse-cataratas-135733158",
+    "pubDate": "2026-10-25 10:23:38",
+    "category": "",
+    "description": "<h2>El Monarca abandonó el Instituto Oftalmológico Fernández-Vega esta mañana con gafas de sol y ya ha puesto rumbo a Madrid</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Генштаб підтвердив нові ураження на Бєлгородщині",
+    "link": "https://ua.korrespondent.net/ukraine/4923155-henshtab-pidtverdyv-novi-urazhennia-na-bielhorodschyni",
+    "pubDate": "2026-10-25 10:16:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4610168.jpg\">Під удар потрапили військові об’єкти в Бєлгородській області РФ, а також на тимчасово окупованих територіях Запоріжжя та Херсонщини.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Primer partido serio y la NBA ya alucina con otro producto nacional: ¡Sergio, qué superclase eres!",
+    "link": "https://as.com/baloncesto/primer-partido-serio-y-la-nba-ya-alucina-con-otro-producto-nacional-sergio-que-superclase-eres-f202610-v/",
+    "pubDate": "2026-10-25 10:12:50",
+    "category": "San Antonio Spurs",
+    "description": "Sergio de Larrea aprovechó las bajas en Dallas Mavericks para disputar 33 minutos de juego en su tercer partido y convertirse en el máximo anotador de su equipo (21 puntos) en el partido.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Musk acusa a Ucrania de violar las condiciones de uso de Starlink",
     "link": "https://www.elperiodico.com/es/internacional/20261025/musk-acusa-ucrania-violar-condiciones-uso-starlink-135732260",
     "pubDate": "2026-10-25 10:03:41",
@@ -709,6 +1015,15 @@
     "description": "<h2>Elita del Valle Zacarías acusó a Domingo Amaro Rangel, su esposa y su hermano de cobrarle tres millones de euros por una vivienda que nunca recibió. La denuncia no prosperó en la vía penal venezolana, que sobreseyó la causa al considerar que se trataba de un conflicto civil</h2>",
     "topic": "пограбування, афера",
     "topic_match_probability": 100
+  },
+  {
+    "title": "La cruzada egipcia de Grifols para poner fin a cinco años de problemas",
+    "link": "https://www.elperiodico.com/es/economia/20261025/cruzada-egipcia-grifols-poner-cinco-anos-problemas-135729866",
+    "pubDate": "2026-10-25 06:00:14",
+    "category": "",
+    "description": "<h2>La farmacéutica mejora sus cifras, pero el mercado aún mantiene sus reticencias por la deuda y por el caso Gotham</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261025/porque-tanta-deuda-ebitda-grifols-politica-historica-covid-compras-135729871\" target=\"_blank\">Una política histórica, el covid y muchas compras: así terminó Grifols con una deuda de 6 veces su ebitda</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Laia Borràs, fotógrafa de partos: \"Es impresionante estar ante algo tan mamífero, algo que no estamos acostumbrados a ver\"",
