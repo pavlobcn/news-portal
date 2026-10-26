@@ -1,5 +1,140 @@
 [
   {
+    "title": "Accidente de autobús en Fogars de Montclús, en directo: Última hora de los heridos y del dispositivo de emergencias",
+    "link": "https://www.elperiodico.com/es/sociedad/20261026/accidente-autobus-fogars-montclus-directo-ultima-hora-heridos-135745059",
+    "pubDate": "2026-10-26 05:33:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/trafico-y-transportes/20261025/accidente-autobus-fogars-montclus-activado-prealerta-procicat-135744149\">Al menos 20 heridos graves tras el accidente de un autobús que ha caído por un terraplén de veinte metros en Fogars de Montclús (Vallès Oriental)</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La red eléctrica de Barcelona se prepara para resistir los efectos del cambio climático",
+    "link": "https://www.elperiodico.com/es/barcelona/20261026/red-electrica-barcelona-cambio-climatico-bc-135656465",
+    "pubDate": "2026-10-26 05:30:00",
+    "category": "",
+    "description": "<h2>El 93,5% de la red de la ciudad condal discurre bajo tierra y da servicio a más de 955.000 clientes </h2><h2>Se trata de una infraestructura más digitalizada, más mallada y más robusta que permite reducir el tiempo de respuesta ante una avería y prevenirlas antes de que pase </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Скандальне рішення: Москва прийме ЧС з важкої атлетики",
+    "link": "https://ua.korrespondent.net/sport/4923195-skandalne-rishennia-moskva-pryime-chs-z-vazhkoi-atletyky",
+    "pubDate": "2026-10-26 05:28:00",
+    "category": "Новини спорту",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4610590.jpg\">IWF віддала ЧС-2030 з важкої атлетики Москві, що стало першим призначенням великого світового турніру в Росії з 2022 року.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Guerra Ucrania - Rusia, última hora en directo",
+    "link": "https://www.elperiodico.com/es/internacional/20261026/guerra-ucrania-rusia-ultima-hora-126605559",
+    "pubDate": "2026-10-26 05:28:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Directo GUERRA DE IRÁN | Última hora</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Лула да Сілва переміг на виборах у Бразилії",
+    "link": "https://ua.korrespondent.net/world/4923278-lula-da-silva-peremih-na-vyborakh-u-brazylii",
+    "pubDate": "2026-10-26 05:27:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4611057.jpg\">Він став першим кандидатом, який зміг виграти у другому турі виборів, програвши у першому.",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "ЗМІ дізналися про таємний підрозділ ЗСУ, який б’є по РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4923282-zmi-diznalysia-pro-taiemnyi-pidrozdil-zsu-yakyi-bie-po-rf",
+    "pubDate": "2026-10-26 04:56:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4611101.png\">Успіх таких операцій забезпечують не лише вдосконалення виробництва, а й ретельне планування.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sofía V. Paura, directora de arte: \"Los directores de arte hacemos visible la idea\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20261026/sofia-paura-directora-arte-135529555",
+    "pubDate": "2026-10-26 04:50:25",
+    "category": "",
+    "description": "<h2>Su labor consiste en elegir tipografías, colores, composiciones, estilos de imagen y materiales que transmitan el concepto</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "'La lámpara', de Clarice Lispector: la soledad de la conciencia",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20261026/clarice-lispector-critica-libro-lampara-135494098",
+    "pubDate": "2026-10-26 04:50:25",
+    "category": "",
+    "description": "<h2>En su segunda novela, escrita con 26 años, la autora diseccionó la mente de una mujer que fracasa en cada vínculo que la vida le insinúa</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "'Cuando oscurece', de Peter Stamm: elevaciones cotidianas",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20261026/peter-stamm-critica-libro-relatos-cuando-oscurece-135487733",
+    "pubDate": "2026-10-26 04:50:25",
+    "category": "",
+    "description": "<h2>La soledad, la rutina y el desconcierto dan paso a destellos de delicadeza, ternura y comprensión en los relatos de este libro</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los libros recomendados por 'ABRIL': Wendell Berry, Barbara Baraldi y Anna Mallamo",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20261026/libros-recomendados-abril-wendell-berry-135401613",
+    "pubDate": "2026-10-26 04:50:25",
+    "category": "",
+    "description": "<h2>El equipo del suplemento literario de Prensa Ibérica también recomienda esta semana 'Antes de la sed', de Lara Dopazo Ruibal, y 'El manantial de la alegría', de Millanes Rivas, entre otros títulos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Без Довбика в Серії А: тренер пояснив ситуацію з українцем",
+    "link": "https://ua.korrespondent.net/sport/football/4923179-bez-dovbyka-v-serii-a-trener-poiasnyv-sytuatsiui-z-ukraintsem",
+    "pubDate": "2026-10-26 04:45:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4610573.jpg\">Наставник італійського клубу прокоментував ситуацію з українським нападником, розповівши про причини його відсутності в складі \"россоблу\".",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Зеленський назвав червоні лінії України у мирних переговорах",
+    "link": "https://ua.korrespondent.net/ukraine/4923280-zelenskyi-nazvav-chervoni-linii-ukrainy-u-myrnykh-perehovorakh",
+    "pubDate": "2026-10-26 04:25:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4611072.jpg\">Росія не буде диктувати Україні гарантії безпеки. Обмеження ЗСУ і нейтральний статус не обговорюються.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "РФ атакувала Запоріжжя, постраждала людина",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4923284-rf-atakuvala-zaporizhzhia-postrazhdala-luidyna",
+    "pubDate": "2026-10-26 03:52:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4611116.jpg\">Вналідок атаки були пошкоджені приватні будинки, автомобілі та комерційна будівля. Виникла пожежа.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ле Пен розпочала передвиборну кампанію і з відривом лідирує",
+    "link": "https://ua.korrespondent.net/world/4923276-le-pen-rozpochala-peredvybornu-kampaniui-i-z-vidryvom-lidyruie",
+    "pubDate": "2026-10-26 03:24:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4611042.jpg\">Очільниця ультраправої партії, яка обіцяла припинити допомогу Україні і не допустити її вступу до ЄС, має майже удвічі більший рейтинг, ніж найближчий суперник.",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Трамп: Ми володіємо Гренландією та Венесуелою",
+    "link": "https://ua.korrespondent.net/world/4923274-tramp-my-volodiiemo-hrenlandiieui-ta-venesueloui",
+    "pubDate": "2026-10-26 02:50:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4611027.jpg\">Американський лідер похвалився, що Сполучені Штати нібито отримали обидві країни задарма.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
     "title": "США просувають Орбана на генсека ООН - ЗМІ",
     "link": "https://ua.korrespondent.net/world/4923272-ssha-prosuvauit-orbana-na-henseka-oon-zmi",
     "pubDate": "2026-10-26 02:23:00",
