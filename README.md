@@ -1,8 +1,9 @@
-# News for 2026-10-26 17:58
+# News for 2026-10-26 18:28
 
 Previous day: [2026-10-25](./data/2026-10-25.md)
 
 ## ua.korrespondent.net
+18:07 [Свята 27 жовтня 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4923517-sviata-27-zhovtnia-2026-roku-istoriia-tradytsii)<br>
 17:48 [Офіційний курс гривні рекордно впав](https://ua.korrespondent.net/business/financial/4923528-ofitsiinyi-kurs-hryvni-rekordno-vpav)<br>
 17:22 [Удар РФ по Новій Водолазі: у лікарні помер 12-річний хлопчик](https://ua.korrespondent.net/ukraine/4923520-udar-rf-po-novii-vodolazi-u-likarni-pomer-12-richnyi-khlopchyk)<br>
 17:03 [У Києві обмежать рух через ключовий міст](https://ua.korrespondent.net/city/kiev/4923514-u-kyievi-obmezhat-rukh-cherez-kluichovyi-mist)<br>
@@ -60,6 +61,7 @@ Previous day: [2026-10-25](./data/2026-10-25.md)
 11:43 [Nick Smith, a los críticos: “No os atrevéis a decírmelo a la cara”](https://as.com/baloncesto/acb/nick-smith-a-los-criticos-no-os-atreveis-a-decirmelo-a-la-cara-f202610-n/)<br>
 
 ## www.elperiodico.com
+18:00 [Google Fitbit Edge: una pulsera pequeña que entiende tus días buenos y tus días malos](https://www.elperiodico.com/es/tecnologia/20261026/google-fitbit-edge-pulsera-analisis-135741619)<br>
 17:53 [¡No pienso rajar!, por Lluís Carrasco](https://www.elperiodico.com/es/deportes/20261026/pienso-rajar-lluis-carrasco-135779175)<br>
 17:49 [El Metro de Barcelona afronta un juicio pionero por la muerte de un trabajador expuesto al amianto](https://www.elperiodico.com/es/barcelona/20261026/metro-barcelona-afronta-juicio-pionero-amianto-actividad-profesional-135767578)<br>
 17:34 [Restablecida la circulación en la R15 tras la avería de un tren entre Duesaigües y Riudecanyes (Tarragona)](https://www.elperiodico.com/es/sociedad/20261026/r15-recupera-circulacion-135777352)<br>
