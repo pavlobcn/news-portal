@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Зеленський анонсував зустріч з ЄС, США та НАТО",
+    "link": "https://ua.korrespondent.net/ukraine/4923268-zelenskyi-anonsuvav-zustrich-z-yes-ssha-ta-nato",
+    "pubDate": "2026-10-26 01:22:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4610982.jpg\">Сторони говоритимуть про питання безпеки, гарантії для України та ініціативи щодо завершення російсько-української війни.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Демократи можуть отримати більшість у Сенаті - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4923266-demokraty-mozhut-otrymaty-bilshist-u-senati-zmi",
+    "pubDate": "2026-10-26 00:51:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4610967.jpg\">Для отримання контроля над Сенатом, демократам необхідно збільшити своє представництво на чотири місця – до 51.",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Зеленський розповів, як змінилася підтримка України у США",
+    "link": "https://ua.korrespondent.net/ukraine/4923259-zelenskyi-rozpoviv-yak-zminylasia-pidtrymka-ukrainy-u-ssha",
+    "pubDate": "2026-10-26 00:20:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4610922.jpg\">Американські політики з обох партій вважають несправедливою нинішню політику Білого дому щодо Києва.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Flick, tras la derrota en el clásico: \"Nos ha faltado frescura\"",
+    "link": "https://www.elperiodico.com/es/deportes/20261026/flick-reacciones-clasico-barcelona-madrid-135751487",
+    "pubDate": "2026-10-26 00:18:41",
+    "category": "",
+    "description": "<h2 class=\"item\">La crónica. <a href=\"https://www.elperiodico.com/es/deportes/20261025/barcelona-real-madrid-clasico-goles-resumen-cronica-135748254\">Mourinho y Mbappé frustran a un desconcertante Barça en el triunfo del Madrid en el Camp Nou (1-2)</a></h2><h2 class=\"item\">La contracrónica. <a href=\"https://www.elperiodico.com/es/deportes/20261025/contracronica-barcelona-real-madrid-135747754\">A Lamine Yamal no se le da bien Cucurella</a></h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La portada de EL PERIÓDICO del 26 de octubre de 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20261026/portada-periodico-26-octubre-2026-135752050",
+    "pubDate": "2026-10-26 00:03:56",
+    "category": "",
+    "description": "",
+    "topic": "portada de EL PERIÓDICO",
+    "topic_match_probability": 100
+  }
+]
