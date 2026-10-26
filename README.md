@@ -1,13 +1,28 @@
-# News for 2026-10-26 12:17
+# News for 2026-10-26 15:10
 
 Previous day: [2026-10-25](./data/2026-10-25.md)
 
 ## ua.korrespondent.net
+15:01 [Секретні дані Німеччини зберігатимуть у хмарі Google](https://ua.korrespondent.net/tech/technews/4923462-sekretni-dani-nimechchyny-zberihatymut-u-khmari-Google)<br>
+14:52 [Помер актор, голосом якого говорили Багз Банні та Даффі Дак](https://ua.korrespondent.net/lifestyle/4923441-pomer-aktor-holosom-yakoho-hovoryly-bahz-banni-ta-daffi-dak)<br>
+14:47 [Алжир вперше за понад 50 років відправить війська до Нігеру](https://ua.korrespondent.net/world/4923459-alzhyr-vpershe-za-ponad-50-rokiv-vidpravyt-viiska-do-niheru)<br>
+14:28 [Нафта РФ в обхід санкцій: у Дубаї "заморозили" $704 млн виручки](https://ua.korrespondent.net/business/4923454-nafta-rf-v-obkhid-sanktsii-u-dubai-zamorozyly-704-mln-vyruchky)<br>
+14:14 [Газ в Європі оновив чотирирічний ціновий максимум](https://ua.korrespondent.net/business/economics/4923451-haz-v-yevropi-onovyv-chotyryrichnyi-tsinovyi-maksymum)<br>
+14:00 [Starlink для України відновили: чому США дали задню і що далі](https://ua.korrespondent.net/articles/4923444-Starlink-dlia-ukrainy-vidnovyly-chomu-ssha-daly-zadnui-i-scho-dali)<br>
+13:53 [НХЛ: нищівний розгром у Нешвіллі й драма Далласа](https://ua.korrespondent.net/sport/hokey/4923434-nkhl-nyschivnyi-rozghrom-u-neshvilli-y-drama-dallasa)<br>
+13:49 [У Німеччині розробили ППО для боротьби з роями дронів](https://ua.korrespondent.net/world/4923436-u-nimechchyni-rozrobyly-ppo-dlia-borotby-z-roiamy-droniv)<br>
+13:48 [РФ активізувала вербування африканців через втрати у війні - ЗМІ](https://ua.korrespondent.net/world/russia/4923435-rf-aktyvizuvala-verbuvannia-afrykantsiv-cherez-vtraty-u-viini-zmi)<br>
+13:28 [Аналітики з'ясували, кому в Україні належать тисячі компаній](https://ua.korrespondent.net/business/4923425-analityky-ziasuvaly-komu-v-ukraini-nalezhat-tysiachi-kompanii)<br>
+13:23 [Росія вдарила по Донеччині: є загиблі та поранені](https://ua.korrespondent.net/ukraine/4923423-rosiia-vdaryla-po-donechchyni-ye-zahybli-ta-poraneni)<br>
+13:02 [Генштаб підтвердив ураження заводу Енергія в Росії](https://ua.korrespondent.net/ukraine/4923419-henshtab-pidtverdyv-urazhennia-zavodu-enerhiia-v-rosii)<br>
+12:55 [Сальдо отримав нову підозру через вивезення дітей з Херсона](https://ua.korrespondent.net/ukraine/4923415-saldo-otrymav-novu-pidozru-cherez-vyvezennia-ditei-z-khersona)<br>
+12:26 [Удар РФ по Умані: померла постраждала жінка](https://ua.korrespondent.net/ukraine/4923401-udar-rf-po-umani-pomerla-postrazhdala-zhinka)<br>
 12:12 [Шторм Боело паралізував рух у Британії](https://ua.korrespondent.net/world/4923393-shtorm-boelo-paralizuvav-rukh-u-brytanii)<br>
 12:08 [У ФРН круїзний лайнер зіткнувся з двома суднами](https://ua.korrespondent.net/world/4923391-u-frn-kruiznyi-lainer-zitknuvsia-z-dvoma-sudnamy)<br>
 11:59 [Синоптики розповіли, якою буде погода найближчими днями](https://ua.korrespondent.net/ukraine/4923386-synoptyky-rozpovily-yakoui-bude-pohoda-naiblyzhchymy-dniamy)<br>
 11:33 [Курси долара і євро зросли в обмінних пунктах](https://ua.korrespondent.net/business/financial/4923375-kursy-dolara-i-yevro-zrosly-v-obminnykh-punktakh)<br>
 11:32 [Вчені розкрили таємницю першої цариці Стародавнього Єгипту](https://ua.korrespondent.net/tech/science/4923227-vcheni-rozkryly-taiemnytsui-pershoi-tsarytsi-starodavnoho-yehyptu)<br>
+11:30 [Росія розширює виробництво модулів для КАБів](https://ua.korrespondent.net/world/russia/4923371-rosiia-rozshyruiie-vyrobnytstvo-moduliv-dlia-kabiv)<br>
 11:29 [Росія розширює виробництво модулів для КАБів - CDR](https://ua.korrespondent.net/world/russia/4923371-rosiia-rozshyruiie-vyrobnytstvo-moduliv-dlia-kabiv-CDR)<br>
 11:15 [У Польщі вилучили понад 1,6 тонни синтетичних наркотиків](https://ua.korrespondent.net/world/4923366-u-polschi-vyluchyly-ponad-16-tonny-syntetychnykh-narkotykiv)<br>
 11:00 [Син Білозір розірвав стосунки з дружиною](https://ua.korrespondent.net/lifestyle/4923346-syn-bilozir-rozirvav-stosunky-z-druzhynoui)<br>
@@ -31,9 +46,24 @@ Previous day: [2026-10-25](./data/2026-10-25.md)
 01:47 [На Хмельниччині відключення світла після удару РФ](https://ua.korrespondent.net/ukraine/4923270-na-khmelnychchyni-vidkluichennia-svitla-pislia-udaru-rf)<br>
 
 ## as.com
+14:49 [Un Movistar Estudiantes de dos mitades](https://as.com/baloncesto/mas_baloncesto/un-movistar-estudiantes-de-dos-mitades-f202610-n/)<br>
 11:43 [Nick Smith, a los críticos: “No os atrevéis a decírmelo a la cara”](https://as.com/baloncesto/acb/nick-smith-a-los-criticos-no-os-atreveis-a-decirmelo-a-la-cara-f202610-n/)<br>
 
 ## www.elperiodico.com
+15:04 [Locura por los cortavientos de Palantir que cuestan 170 dólares](https://www.elperiodico.com/es/vida-y-estilo/20261026/locura-cortavientos-palantir-cuestan-170-135772758)<br>
+15:00 [JP Morgan advierte de que el bitcoin todavía no es una apuesta segura para diversificar las inversiones](https://www.elperiodico.com/es/economia/20261026/jp-morgan-advierte-bitcoin-todavia-no-apuesta-segura-135771203)<br>
+15:00 [Mariana Enríquez: "Los vampiros de Silicon Valley son una buena metáfora de la época, donde lo humano se desvanece para convertirse en algo desalmado"](https://www.elperiodico.com/es/ocio-y-cultura/20261026/entrevista-mariana-enriquez-vampiros-silicon-valley-conversacion-oscuridad-135594179)<br>
+14:59 [La industria del espacio se convierte en la llave de la irrupción catalana en el negocio de la Defensa](https://www.elperiodico.com/es/economia/20261026/industria-espacio-convierte-llave-irrupcion-catalunya-negocio-defensa-135771811)<br>
+14:56 [Rodri, electricista: "A la gente no le importa gastarse 4.000 euros en un sofá, pero sí en una instalación eléctrica porque no se ve"](https://www.elperiodico.com/es/economia/20261026/rodri-electricista-gastar-dinero-electricidad-dv-133169633)<br>
+14:46 [El Círculo Ecuestre vuelve a abrir sus puertas con ‘By Invitation’, con galerías internacionales y un 42% de mujeres artistas](https://www.elperiodico.com/es/ocio-y-cultura/20261026/circulo-ecuestre-vuelve-abrir-puertas-135766820)<br>
+14:25 [El presidente de la Cambra de Contractistes de Catalunya, Lluís Moreno, enumera los "retos importantes" en infraestructuras para Catalunya, en una jornada de SEOPAN en Barcelona](https://www.elperiodico.com/es/videos/economia/presidente-cambra-contractistes-lluis-moreno-retos-importantes-infraestructuras-catalunya-video/135771299.shtml)<br>
+14:04 [El nuevo mapa del riesgo de terremoto en Catalunya: estos son los municipios con mayor peligrosidad sísmica](https://www.elperiodico.com/es/ciencia/20261026/mapa-peligro-terremoto-cataluna-municipios-barcelona-girona-lleida-tarragona-dv-et-135545600)<br>
+13:58 [Catalunya necesita 52.838 millones de inversión en infraestructuras durante la próxima década, según las constructoras y concesionarias](https://www.elperiodico.com/es/economia/20261026/catalunya-necesita-52838-millones-inversion-infraestructuras-jornada-seopan-135766616)<br>
+13:51 [Telefónica compra un 10% del grupo OGA para reforzarse en el uso de la IA en el negocio de defensa](https://www.elperiodico.com/es/economia/20261026/telefonica-defensa-compra-10-grupo-oga-135769290)<br>
+13:45 [El Open House Barcelona bate su récord con más de 75.000 visitantes este fin de semana](https://www.elperiodico.com/es/barcelona/20261026/open-house-barcelona-record-75000-visitantes-135760614)<br>
+13:28 [Una mujer será indemnizada por quedarse embarazada tras la vasectomía fallida de su pareja](https://www.elperiodico.com/es/sociedad/20261026/supremo-reconoce-derecho-pareja-paciente-vasectomia-fallida-135767868)<br>
+12:48 [Luis Rojas Marcos: "Mi padre era bueno, pero creía en el poder persuasivo de la paliza"](https://www.elperiodico.com/es/sociedad/20261026/luis-rojas-marcos-padre-bueno-135755849)<br>
+12:26 [Escritores irlandeses y galeses donan sus derechos de autor a Sally Rooney en señal de protesta por el veto británico](https://www.elperiodico.com/es/ocio-y-cultura/20261026/escritores-irlandeses-galeses-donan-derechos-135762020)<br>
 12:15 [Milo Quifes (25 años), de dejar sus estudios de Biología hace 4 años a coprotagonista de 'La bola negra': "No sé qué quiero ser en la vida"](https://www.elperiodico.com/es/gente/20261026/milo-quifes-actor-la-bola-negra-tiktok-estudios-biologia-dv-et-135321646)<br>
 12:07 [El nuevo almacén de residuos permitirá a Almaraz operar hasta los 60 años de vida](https://www.elperiodico.com/es/sociedad/20261026/nuevo-almacen-residuos-permitira-almaraz-135761712)<br>
 12:04 [Disfraces](https://www.elperiodico.com/es/opinion/20261026/disfraces-malismo-buenismo-135763360)<br>
@@ -52,6 +82,9 @@ Previous day: [2026-10-25](./data/2026-10-25.md)
 07:45 [El mercado de segunda mano, alternativa ecológica de consumo, crece sin parar en España: ya representa el 1,1% del PIB](https://www.elperiodico.com/es/medio-ambiente/20261026/mercado-segunda-mano-alternativa-ecologica-135755214)<br>
 07:45 [¿Cuándo es Luna llena en octubre? Fecha y hora de la Luna del cazador](https://www.elperiodico.com/es/ciencia/20261026/cuando-luna-llena-octubre-2026-luna-cazador-fecha-hora-ver-dv-135240793)<br>
 07:42 [John Malkovich, el arte de ser él mismo](https://www.elperiodico.com/es/opinion/20261026/john-malkovich-arte-ser-mismo-135753509)<br>
+07:01 ["Responsabilidad ante el abandono animal"](https://www.elperiodico.com/es/entre-todos/participacion/abandono-animal-responsabilidad-ignorar-carta-sheila-guzman-135607154)<br>
+06:30 ["¿Vivir para trabajar o trabajar para vivir?"](https://www.elperiodico.com/es/entre-todos/participacion/vivir-trabajar-o-trabajar-vivir-carta-laia-caparros-135574947)<br>
+06:16 ["La música es un oasis de humanidad"](https://www.elperiodico.com/es/entre-todos/participacion/musica-oasis-humanidad-carta-sol-arrellaga-135572158)<br>
 06:01 [Del déficit de viviendas a la batalla por el millón: un año de Desafío Vivienda 12 meses](https://www.elperiodico.com/es/economia/20261026/deficit-viviendas-batalla-millon-ano-135748528)<br>
 06:01 [Un gran pacto pretende asegurar el peso industrial del Bages hasta 2030](https://www.elperiodico.com/es/economia/20261026/gran-pacto-pretende-asegurar-peso-135746950)<br>
 06:00 [El desafío sigue aquí](https://www.elperiodico.com/es/opinion/20261026/desafio-sigue-135734861)<br>

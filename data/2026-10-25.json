@@ -819,6 +819,15 @@
     "topic_match_probability": 100
   },
   {
+    "title": "¿Protesta o vandalismo?",
+    "link": "https://www.elperiodico.com/es/opinion/20261025/protesta-o-vandalismo-articulo-opinion-astrid-barrio-135738264",
+    "pubDate": "2026-10-25 13:52:28",
+    "category": "",
+    "description": "<h2>La convocatoria difundida por redes sociales reunió a más de 500 personas en Barcelona y derivó en graves altercados que se saldaron con más de un centenar de detenciones</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Вторгнення Росії в Україну. Онлайн",
     "link": "https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain",
     "pubDate": "2026-10-25 13:47:00",
@@ -1582,6 +1591,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4610009.jpg\">Глава Білого дому може використати останні два роки президентства для формування нового світового порядку за участі Путіна та Сі.",
     "topic": "політика",
     "topic_match_probability": 90
+  },
+  {
+    "title": "¿Desde cuándo la cultura es tan cara?",
+    "link": "https://www.elperiodico.com/es/entre-todos/participacion/cultura-cara-carta-paula-rodriguez-mendez-135570214",
+    "pubDate": "2026-10-25 07:00:40",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Обама звинуватив Трампа в зростанні цін через війну з Іраном",
