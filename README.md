@@ -1,8 +1,21 @@
-# News for 2026-10-26 08:03
+# News for 2026-10-26 11:33
 
 Previous day: [2026-10-25](./data/2026-10-25.md)
 
 ## ua.korrespondent.net
+11:29 [Росія розширює виробництво модулів для КАБів - CDR](https://ua.korrespondent.net/world/russia/4923371-rosiia-rozshyruiie-vyrobnytstvo-moduliv-dlia-kabiv-CDR)<br>
+11:15 [У Польщі вилучили понад 1,6 тонни синтетичних наркотиків](https://ua.korrespondent.net/world/4923366-u-polschi-vyluchyly-ponad-16-tonny-syntetychnykh-narkotykiv)<br>
+11:00 [Син Білозір розірвав стосунки з дружиною](https://ua.korrespondent.net/lifestyle/4923346-syn-bilozir-rozirvav-stosunky-z-druzhynoui)<br>
+10:55 [Зимова аптечка без зайвого](https://ua.korrespondent.net/articles/4923349-zymova-aptechka-bez-zaivoho)<br>
+10:51 [НБА: шоу від Індіани та кадрові втрати Оклахоми](https://ua.korrespondent.net/sport/basketball/4923354-nba-shou-vid-indiany-ta-kadrovi-vtraty-oklakhomy)<br>
+10:50 [Дезертир передавав росіянам позиції ЗСУ на Запоріжжі та Херсонщині](https://ua.korrespondent.net/ukraine/4923355-dezertyr-peredavav-rosiianam-pozytsii-zsu-na-zaporizhzhi-ta-khersonschyni)<br>
+10:40 [У шести областях нові знеструмлення - Укренерго](https://ua.korrespondent.net/ukraine/4923351-u-shesty-oblastiakh-novi-znestrumlennia-ukrenerho)<br>
+10:19 [Ракета Сталевого купола Туреччини змінила ціль у повітрі і вразила її](https://ua.korrespondent.net/world/4923341-raketa-stalevoho-kupola-turechchyny-zminyla-tsil-u-povitri-i-vrazyla-yii)<br>
+10:03 [ГУР розкрило обладнання, на якому у РФ виготовляють балістику](https://ua.korrespondent.net/ukraine/4923338-hur-rozkrylo-obladnannia-na-yakomu-u-rf-vyhotovliauit-balistyku)<br>
+09:55 [СБУ попередила російські атаки на нафтобази](https://ua.korrespondent.net/ukraine/4923337-sbu-poperedyla-rosiiski-ataky-na-naftobazy)<br>
+09:33 [У Росії зійшов з рейок поїзд з пальним](https://ua.korrespondent.net/world/russia/4923328-u-rosii-ziishov-z-reiok-poizd-z-palnym)<br>
+09:19 [Нафта дешевшає на тлі надій на деескалацію](https://ua.korrespondent.net/business/economics/4923326-nafta-deshevshaie-na-tli-nadii-na-deeskalatsiui)<br>
+09:17 [Росія влучила по зерносховищах на Чернігівщині](https://ua.korrespondent.net/ukraine/4923324-rosiia-vluchyla-po-zernoskhovyschakh-na-chernihivschyni)<br>
 07:45 [Повітряні сили розповіли деталі нічної атаки РФ](https://ua.korrespondent.net/ukraine/4923301-povitriani-syly-rozpovily-detali-nichnoi-ataky-rf)<br>
 07:22 [Генштаб розповів про бої на ключових напрямках](https://ua.korrespondent.net/ukraine/4923297-henshtab-rozpoviv-pro-boi-na-kluichovykh-napriamkakh)<br>
 06:55 [Атака РФ на Запоріжжя: кількість поранених зросла](https://ua.korrespondent.net/city/zaporozhye/4923292-ataka-rf-na-zaporizhzhia-kilkist-poranenykh-zrosla)<br>
@@ -13,6 +26,13 @@ Previous day: [2026-10-25](./data/2026-10-25.md)
 01:47 [На Хмельниччині відключення світла після удару РФ](https://ua.korrespondent.net/ukraine/4923270-na-khmelnychchyni-vidkluichennia-svitla-pislia-udaru-rf)<br>
 
 ## www.elperiodico.com
+11:30 [Àgata Roca, actriz, sobre la vivienda: "Hombres o mujeres separados se han visto obligados a volver con sus padres”](https://www.elperiodico.com/es/vivienda/20261026/agata-roca-actriz-vivienda-crisis-divorciados-jovenes-dv-135623122)<br>
+11:17 [La IA alucina y te vuelve loco: ¿por qué responde cuando no sabe?](https://www.elperiodico.com/es/tendencias21/20261026/ia-alucina-vuelve-loco-responde-135761152)<br>
+11:00 [Un mecánico llega tarde al trabajo 48 veces en tres meses y le despiden: ahora la justicia le da la razón por la “teoría gradualista” y le tienen que pagar más de 27.000 euros](https://www.elperiodico.com/es/economia/20261026/mecanico-48-veces-tarde-despido-improcedente-dv-135741283)<br>
+10:57 [Los Thunder de Aday Mara se imponen a los Clippers de Baba Miller en el primer duelo español del curso](https://www.elperiodico.com/es/deportes/20261026/thunder-aday-mara-imponen-clippers-135758167)<br>
+09:32 [La junta de Barcelona Comerç elige como nuevo presidente a Jordi Arias](https://www.elperiodico.com/es/barcelona/20261026/junta-barcelona-comerc-elige-nuevo-presidente-jordi-arias-135679823)<br>
+08:19 [Moeve y Galp dan por rotas las negociaciones para fusionar sus negocios de petróleo](https://www.elperiodico.com/es/economia/20261026/moeve-galp-dan-rotas-negociaciones-135755473)<br>
+08:05 [Aviso a los usuarios de bicicleta: multa de 500 euros a un ciclista tras la entrada en vigor del nuevo Reglamento de Circulación](https://www.elperiodico.com/es/trafico-y-transportes/20261026/aviso-usuarios-bicicleta-multa-500-ciclista-nuevo-reglamento-circulacion-dgt-dv-135619697)<br>
 07:45 [El mercado de segunda mano, alternativa ecológica de consumo, crece sin parar en España: ya representa el 1,1% del PIB](https://www.elperiodico.com/es/medio-ambiente/20261026/mercado-segunda-mano-alternativa-ecologica-135755214)<br>
 07:45 [¿Cuándo es Luna llena en octubre? Fecha y hora de la Luna del cazador](https://www.elperiodico.com/es/ciencia/20261026/cuando-luna-llena-octubre-2026-luna-cazador-fecha-hora-ver-dv-135240793)<br>
 07:42 [John Malkovich, el arte de ser él mismo](https://www.elperiodico.com/es/opinion/20261026/john-malkovich-arte-ser-mismo-135753509)<br>
