@@ -1,6 +1,7 @@
-# News for 2026-10-27 01:37
+# News for 2026-10-27 03:19
 
 Previous day: [2026-10-26](./data/2026-10-26.md)
 
 ## ua.korrespondent.net
+02:46 [Росія повторно вдарила балістикою по Києву](https://ua.korrespondent.net/city/kiev/4923633-rosiia-povtorno-vdaryla-balistykoui-po-kyievu)<br>
 00:38 [Конотоп залишається знеструмленим четверту добу](https://ua.korrespondent.net/ukraine/4923623-konotop-zalyshaietsia-znestrumlenym-chetvertu-dobu)<br>
