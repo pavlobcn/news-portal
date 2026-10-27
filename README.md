@@ -1,8 +1,11 @@
-# News for 2026-10-27 21:41
+# News for 2026-10-27 23:23
 
 Previous day: [2026-10-26](./data/2026-10-26.md)
 
 ## ua.korrespondent.net
+22:33 [РФ уцілила в житловий будинок у Харкові:є поранені](https://ua.korrespondent.net/city/kharkov/4923953-rf-utsilyla-v-zhytlovyi-budynok-u-kharkoviie-poraneni)<br>
+21:59 [Україна випробовує власну супутникову мережу OBRIA](https://ua.korrespondent.net/tech/space/4923942-ukraina-vyprobovuie-vlasnu-suputnykovu-merezhu-OBRIA)<br>
+21:41 [Підпал заводу у Румунії: в країні посилено охорону об'єктів](https://ua.korrespondent.net/world/4923937-pidpal-zavodu-u-rumunii-v-kraini-posyleno-okhoronu-obiektiv)<br>
 21:12 [Війна майбутнього вже близько: Нідерланди закликають діяти швидше](https://ua.korrespondent.net/world/4923929-viina-maibutnoho-vzhe-blyzko-niderlandy-zaklykauit-diiaty-shvydshe)<br>
 19:59 [Індія наростила продажі боєприпасів союзникам Україні](https://ua.korrespondent.net/world/4923909-indiia-narostyla-prodazhi-boieprypasiv-souiznykam-ukraini)<br>
 19:46 [Реактивні дрони РФ: скільки збивають ЗСУ](https://ua.korrespondent.net/ukraine/4923910-reaktyvni-drony-rf-skilky-zbyvauit-zsu)<br>
@@ -79,6 +82,11 @@ Previous day: [2026-10-26](./data/2026-10-26.md)
 00:38 [Конотоп залишається знеструмленим четверту добу](https://ua.korrespondent.net/ukraine/4923623-konotop-zalyshaietsia-znestrumlenym-chetvertu-dobu)<br>
 
 ## as.com
+23:12 [Resumen del Baskonia vs Real Madrid , jornada 8 de la Euroliga](https://as.com/baloncesto/resumen-del-baskonia-vs-real-madrid-jornada-8-de-la-euroliga-f202610-v/)<br>
+23:09 [Resultados Euroliga, jornada 8: horarios, TV, partidos y clasificación](https://as.com/baloncesto/euroliga/resultados-euroliga-jornada-8-horarios-tv-partidos-y-clasificacion-f202610-n/)<br>
+22:43 [Valencia gana al ritmo de TJ Shorts](https://as.com/baloncesto/euroliga/valencia-gana-al-ritmo-de-tj-shorts-f202610-n/)<br>
+22:11 [Un Barça heroico en Múnich](https://as.com/baloncesto/euroliga/un-barca-heroico-en-munich-f202610-n/)<br>
+22:04 [Resumen del Bayern vs Barcelona, jornada 8 de la Euroliga](https://as.com/baloncesto/resumen-del-bayern-vs-barcelona-jornada-8-de-la-euroliga-f202610-v/)<br>
 20:21 [Valencia Basket - Fenerbahçe, en directo: Euroliga, hoy en vivo](https://as.com/baloncesto/euroliga/valencia-basket-fenerbahce-en-directo-euroliga-hoy-en-vivo-f202610-n/)<br>
 20:12 [Bayern - Barcelona, en directo: Euroliga 2026-27 en vivo hoy](https://as.com/baloncesto/euroliga/bayern-barcelona-en-directo-euroliga-2026-27-en-vivo-hoy-f202610-d/)<br>
 20:04 [Baskonia - Real Madrid, en directo: Euroliga 2026/27 hoy en vivo](https://as.com/baloncesto/euroliga/baskonia-real-madrid-en-directo-euroliga-202627-hoy-en-vivo-f202610-d/)<br>
@@ -92,6 +100,9 @@ Previous day: [2026-10-26](./data/2026-10-26.md)
 05:14 [Baskonia - Real Madrid: horario, TV y dónde ver la Euroliga 2026-27](https://as.com/baloncesto/euroliga/baskonia-real-madrid-horario-tv-y-donde-ver-la-euroliga-2026-27-f202610-n/)<br>
 
 ## www.elperiodico.com
+22:52 [El Govern aprueba destinar 118 millones de euros a mejorar las condiciones laborales de los docentes de la concertada](https://www.elperiodico.com/es/sociedad/20261027/govern-catalunya-118-millones-mejora-condiciones-laborales-profesores-educacion-concertada-135826321)<br>
+22:33 [Casi la mitad de la población solo puede cubrir sus necesidades básicas, según un estudio](https://www.elperiodico.com/es/sociedad/20261027/mitad-poblacion-cubrir-necesidades-basicas-135819709)<br>
+22:06 [El Barça no desaprovecha la fácil salida a Múnich](https://www.elperiodico.com/es/deportes/20261027/barca-desaprovecha-facil-salida-munich-135820831)<br>
 21:33 [Impactantes imágenes de un tornado destrozando un colegio en Chile](https://www.elperiodico.com/es/videos/internacional/impactantes-imagenes-tornado-destrozando-colegio-chile/135824839.shtml)<br>
 20:45 [La EPA y las dudas sobre el consumo](https://www.elperiodico.com/es/opinion/20261027/epa-dudas-consumo-135823587)<br>
 20:14 [Renfe trocea en 14 lotes el concurso de autobuses para cubrir los cortes de tren](https://www.elperiodico.com/es/economia/20261027/renfe-trocea-14-lotes-concurso-135822907)<br>
