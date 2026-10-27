@@ -1,8 +1,10 @@
-# News for 2026-10-27 06:34
+# News for 2026-10-27 07:12
 
 Previous day: [2026-10-26](./data/2026-10-26.md)
 
 ## ua.korrespondent.net
+06:54 [Удар по Південному мосту у Києві: відомо, як курсує метро](https://ua.korrespondent.net/city/kiev/4923654-udar-po-pivdennomu-mostu-u-kyievi-vidomo-yak-kursuie-metro)<br>
+06:39 [Атака РФ на Київ: зросла кількість постраждалих](https://ua.korrespondent.net/city/kiev/4923651-ataka-rf-na-kyiv-zrosla-kilkist-postrazhdalykh)<br>
 06:15 [Генштаб назвав втрати Росії станом на 27 жовтня](https://ua.korrespondent.net/ukraine/4923647-henshtab-nazvav-vtraty-rosii-stanom-na-27-zhovtnia)<br>
 05:22 [Тайвань протидіятиме Китаю в "сірій зоні" за допомогою роїв БпЛА](https://ua.korrespondent.net/world/4923645-taivan-protydiiatyme-kytaui-v-sirii-zoni-za-dopomohoui-roiv-bpla)<br>
 04:50 [Атака на Київ: обмежено рух Південним мостом](https://ua.korrespondent.net/city/kiev/4923643-ataka-na-kyiv-obmezheno-rukh-pivdennym-mostom)<br>
@@ -27,4 +29,5 @@ Previous day: [2026-10-26](./data/2026-10-26.md)
 06:00 [Las renuncias de las mujeres que cuidan de sus padres: "He tenido que cerrar mi panadería, que era mi vida, para poder atenderlos"](https://www.elperiodico.com/es/sociedad/20261027/mujeres-cuidan-padres-conciliacion-cuidados-renuncias-empleo-135183374)<br>
 06:00 [Tania Camon, experta en dependencia: "El teletrabajo no puede ser solución a los cuidados porque no estás disponible para cuidar"](https://www.elperiodico.com/es/sociedad/20261027/tania-camon-experta-dependencia-generacion-sandwich-cuidados-mayores-conciliacion-135253550)<br>
 06:00 [La estadística más incómoda de la industria de la moda: el 87% de la ropa usada en España escapa al reciclaje](https://www.elperiodico.com/es/gente/20261027/ropa-usada-espana-reciclaje-moda-informe-modare-135414684)<br>
+05:30 [Se celebra la primera edición de los Premios 'Vínculos que dan vida'](https://www.elperiodico.com/es/sociedad/20261027/celebra-primera-edicion-premios-vinculos-que-dan-vida-bc-135775951)<br>
 05:25 [Guerra de Irán y tensión en Israel, en directo](https://www.elperiodico.com/es/internacional/20261027/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713)<br>

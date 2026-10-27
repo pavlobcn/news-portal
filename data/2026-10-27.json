@@ -1,5 +1,77 @@
 [
   {
+    "title": "Diego Simeone, entrenador de Atlético de Madrid y propietario de 180 viviendas: \"Si me preguntasen dónde voy a vivir cuando deje de entrenar, lógicamente respondería...\"",
+    "link": "https://www.elperiodico.com/es/economia/20261027/diego-simeone-entrenador-atletico-madrid-negocio-inmobiliario-viviendas-dv-et-135761631",
+    "pubDate": "2026-10-27 07:10:42",
+    "category": "",
+    "description": "<h2>El técnico de fútbol argentino tiene un importante negocio inmobiliario en Madrid que en 2024 rondaba los 40 millones de euros en activos</h2><h2><a href=\"https://www.elperiodico.com/es/gente/20261025/saul-craviotto-piraguista-nacido-cataluna-asturias-gijon-familia-dv-et-135622629\" >Saúl Craviotto (41 años), piragüista, sobre nacer en Catalunya y vivir en Asturias: \"Yo soy de Lleida, me siento catalán y me siento muy orgulloso de ser catalán\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261024/chenoa-cantante-dinero-pisos-alquiler-patrimonio-ahorro-dv-135667801\" >Chenoa (51 años), sobre su patrimonio: \"Vivo en mi casa, pero tengo algunos pisos que están en alquiler\"</a></h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Cosas que no entiendo de la tele",
+    "link": "https://www.elperiodico.com/es/tele/20261027/sergi-mas-video-cosas-no-entiendo-tele-135779531",
+    "pubDate": "2026-10-27 07:00:38",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Qué significa la señal S-1c de la DGT y por qué es importante",
+    "link": "https://www.elperiodico.com/es/motor/20261027/significa-senal-s-1c-dgt-135671291",
+    "pubDate": "2026-10-27 07:00:33",
+    "category": "",
+    "description": "<h2>Esta señal anuncia una carretera 2+1, con un carril central que se habilita para adelantar en uno u otro sentido según el tramo</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Удар по Південному мосту у Києві: відомо, як курсує метро",
+    "link": "https://ua.korrespondent.net/city/kiev/4923654-udar-po-pivdennomu-mostu-u-kyievi-vidomo-yak-kursuie-metro",
+    "pubDate": "2026-10-27 06:54:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4612511.jpg\">Всі станції метро на \"червоній\" гілці відкриті для пасажирів. Рух поїздів між станціями Осокорки - Червоний хутір на \"зеленій\" гілці тимчасово призупинений.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Грузія втратила легенду: помер екскапітан збірної з футболу",
+    "link": "https://ua.korrespondent.net/sport/football/4923582-hruziia-vtratyla-lehendu-pomer-ekskapitan-zbirnoi-z-futbolu",
+    "pubDate": "2026-10-27 06:51:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4612105.jpg\">У складі збірної Грузії Немсадзе грав із 1992 до 2004 року, виходячи на поле у поєдинках проти збірної України.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "¿Por qué se ha producido el entendimiento PP-Vox en el Senado?",
+    "link": "https://www.elperiodico.com/es/opinion/20261027/producido-entendimiento-pp-vox-senado-135791250",
+    "pubDate": "2026-10-27 06:42:43",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Атака РФ на Київ: зросла кількість постраждалих",
+    "link": "https://ua.korrespondent.net/city/kiev/4923651-ataka-rf-na-kyiv-zrosla-kilkist-postrazhdalykh",
+    "pubDate": "2026-10-27 06:39:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4612490.jpg\">Кількість постраждалих у столиці внаслідок російських обстрілів зросла до 14 осіб, одна людина загинула.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Золотий м’яч уперше дістався нападнику Баварії",
+    "link": "https://ua.korrespondent.net/sport/football/4923622-zolotyi-miach-upershe-distavsia-napadnyku-bavarii",
+    "pubDate": "2026-10-27 06:29:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4612487.jpg\">Форвард Баварії та збірної Англії підкорив головну індивідуальну вершину, вперше в кар'єрі здобувши Золотий м'яч.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Directo | Kane y Alexia Putellas ganan el Balón de Oro 2026: última hora, reacciones y lista completa de premiados",
     "link": "https://www.elperiodico.com/es/deportes/20261027/balon-oro-2026-ultima-hora-directo-135762272",
     "pubDate": "2026-10-27 06:28:00",
@@ -23,6 +95,15 @@
     "pubDate": "2026-10-27 06:11:00",
     "category": "Новини футболу",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4612471.jpg\">Паризький ПСЖ отримав нагороду найкращого клубу року в чоловічому футболі, тоді як Барселона здобула аналогічне визнання серед жіночих команд.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Alexia Putellas, la reina de oro que ya es leyenda del fútbol mundial",
+    "link": "https://www.elperiodico.com/es/deportes/alexia-putellas-balon-oro-135770756-rm/index.html",
+    "pubDate": "2026-10-27 06:01:21",
+    "category": "",
+    "description": "",
     "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
     "topic_match_probability": 100
   },
@@ -169,6 +250,15 @@
     "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/trafico-y-transportes/20261025/accidente-autobus-fogars-montclus-activado-prealerta-procicat-135744149\">Al menos 20 heridos graves tras el accidente de un autobús que ha caído por un terraplén de veinte metros en Fogars de Montclús (Vallès Oriental)</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261026/interior-quiere-prohibir-pasajeros-vayan-de-pie-autobuses-autocares-accidente-montseny-govern-135757965\">Catalunya quiere prohibir que los pasajeros vayan de pie en los buses interurbanos tras el accidente del Montseny</a></h2>",
     "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Se celebra la primera edición de los Premios 'Vínculos que dan vida'",
+    "link": "https://www.elperiodico.com/es/sociedad/20261027/celebra-primera-edicion-premios-vinculos-que-dan-vida-bc-135775951",
+    "pubDate": "2026-10-27 05:30:33",
+    "category": "",
+    "description": "<h2>Los proyectos galardonados demuestran cómo la relación entre personas y animales de compañía puede impulsar ámbitos como el de la inclusión, la protección animal, la innovación y las políticas municipales</h2>",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "¿Quién es Jordi Wild, el streamer que ha conseguido sentar a Pedro Sánchez, Feijóo, Abascal y Ada Colau en su canal de YouTube antes del 29N?",
