@@ -1,8 +1,26 @@
-# News for 2026-10-27 09:00
+# News for 2026-10-27 11:56
 
 Previous day: [2026-10-26](./data/2026-10-26.md)
 
 ## ua.korrespondent.net
+11:43 [Україна - між Іраком і Катаром: рейтинг економік світу](https://ua.korrespondent.net/world/4923748-ukraina-mizh-irakom-i-katarom-reitynh-ekonomik-svitu)<br>
+11:42 [Окуповану Херсонщину заселяють росіянами - ГУР](https://ua.korrespondent.net/ukraine/4923746-okupovanu-khersonschynu-zaseliauit-rosiianamy-hur)<br>
+11:30 [Не робіть цього з мокрим взуттям: помилки, що псують черевики](https://ua.korrespondent.net/articles/4923720-ne-robit-tsoho-z-mokrym-vzuttiam-pomylky-scho-psuuit-cherevyky)<br>
+11:28 [Таємниці нацистського бункера-гіганта: навіщо його побудували](https://ua.korrespondent.net/showbiz/culture/4923470-taiemnytsi-natsystskoho-bunkera-hihanta-navischo-yoho-pobuduvaly)<br>
+11:20 [Постачальник виплатить Нацгвардії 24 млн грн через зрив термінів](https://ua.korrespondent.net/ukraine/4923738-postachalnyk-vyplatyt-natshvardii-24-mln-hrn-cherez-zryv-terminiv)<br>
+10:58 [Гривня стрімко втрачає позиції в обмінниках](https://ua.korrespondent.net/business/financial/4923726-hryvnia-strimko-vtrachaie-pozytsii-v-obminnykakh)<br>
+10:55 [Зірка Гри престолів завітала на вручення Золотого м'яча](https://ua.korrespondent.net/lifestyle/4923701-zirka-hry-prestoliv-zavitala-na-vruchennia-zolotoho-miacha)<br>
+10:55 ["Прозоре" поле бою: морпіхи розповіли про ситуацію на островах Херсонщини](https://ua.korrespondent.net/ukraine/4923724-prozore-pole-boui-morpikhy-rozpovily-pro-sytuatsiui-na-ostrovakh-khersonschyny)<br>
+10:45 [Російський дрон влучив у будинок на Черніговщині](https://ua.korrespondent.net/ukraine/4923719-rosiiskyi-dron-vluchyv-u-budynok-na-chernihovschyni)<br>
+10:32 [У Карпатах до -4° і сильний вітер: попередження для туристів](https://ua.korrespondent.net/ukraine/4923716-u-karpatakh-do-4-i-sylnyi-viter-poperedzhennia-dlia-turystiv)<br>
+10:28 [Укренерго назвало сім областей з відключенннями](https://ua.korrespondent.net/ukraine/4923714-ukrenerho-nazvalo-sim-oblastei-z-vidkluichennniamy)<br>
+10:20 [Дніпропетровщина пережила понад 40 ударів за ніч: відомо про наслідки](https://ua.korrespondent.net/ukraine/4923712-dnipropetrovschyna-perezhyla-ponad-40-udariv-za-nich-vidomo-pro-naslidky)<br>
+10:13 [У Києві оприлюднили схему об’їзду Південного мосту](https://ua.korrespondent.net/city/kiev/4923708-u-kyievi-opryluidnyly-skhemu-obizdu-pivdennoho-mostu)<br>
+09:58 ["Пологовий туризм": США скасували безвіз для китайців на популярні острови](https://ua.korrespondent.net/world/4923700-polohovyi-turyzm-ssha-skasuvaly-bezviz-dlia-kytaitsiv-na-populiarni-ostrovy)<br>
+09:40 [Винищувачі F-16 озброять гіперзвуковою ракетою](https://ua.korrespondent.net/world/4923691-vynyschuvachi-F-16-ozbroiat-hiperzvukovoui-raketoui)<br>
+09:35 [Харківщина зазнала масованих атак РФ: які наслідки](https://ua.korrespondent.net/ukraine/4923690-kharkivschyna-zaznala-masovanykh-atak-rf-yaki-naslidky)<br>
+09:20 [РФ атакувала 10 населених пунктів Донеччини за добу: є загиблі та поранені](https://ua.korrespondent.net/ukraine/4923685-rf-atakuvala-10-naselenykh-punktiv-donechchyny-za-dobu-ye-zahybli-ta-poraneni)<br>
+09:16 [На Хмельниччині атаки РФ критично пошкодили електрообладнання](https://ua.korrespondent.net/ukraine/4923684-na-khmelnychchyni-ataky-rf-krytychno-poshkodyly-elektroobladnannia)<br>
 08:58 [Морпіхи оцінили ситуацію в Олешках під час гуманітарної місії](https://ua.korrespondent.net/ukraine/4923680-morpikhy-otsinyly-sytuatsiui-v-oleshkakh-pid-chas-humanitarnoi-misii)<br>
 08:44 [НБА: Михайлюк не врятував Юту від поразки](https://ua.korrespondent.net/sport/basketball/4923673-nba-mykhailuik-ne-vriatuvav-yutu-vid-porazky)<br>
 08:41 [РФ атакувала Іскандерами і БПЛА: як спрацювала ППО](https://ua.korrespondent.net/ukraine/4923671-rf-atakuvala-iskanderamy-i-bpla-yak-spratsuivala-ppo)<br>
@@ -32,6 +50,17 @@ Previous day: [2026-10-26](./data/2026-10-26.md)
 05:14 [Baskonia - Real Madrid: horario, TV y dónde ver la Euroliga 2026-27](https://as.com/baloncesto/euroliga/baskonia-real-madrid-horario-tv-y-donde-ver-la-euroliga-2026-27-f202610-n/)<br>
 
 ## www.elperiodico.com
+11:48 [Collboni pide que la estación del AVE de La Sagrera lleve el nombre de Pasqual Maragall](https://www.elperiodico.com/es/videos/barcelona/collboni-pide-estacion-ave-sagrera-lleve-nombre-pasqual-maragall-video/135798835.shtml)<br>
+11:43 [El Puerto de Las Palmas se prepara ante el avance de Marruecos: «Tenemos la obligación de mantenernos en primera línea»](https://www.elperiodico.com/es/sociedad/20261027/puerto-de-las-palmas-debate-avance-marruecos-puertos-primera-linea-foro-oneport-135798633)<br>
+11:39 [El Consejo de Abogacía bate récords con su curso de derecho inmobiliario para adaptarse a los decretos de vivienda: 10.000 inscritos](https://www.elperiodico.com/es/sociedad/20261027/records-curso-derecho-inmobiliario-consejo-abogacia-decretos-vivienda-135767431)<br>
+11:36 [Revolut se acerca al pequeño inversor y permitirá invertir en empresas tecnológicas incluso antes de que salgan a Bolsa](https://www.elperiodico.com/es/economia/20261027/revolut-permitira-invertir-empresas-tecnologicas-antes-salir-bolsa-dv-135797917)<br>
+11:35 [María Cristina, notaria, sobre las donaciones de padres a hijos para comprar una vivienda: "No me vale que hagáis la transferencia"](https://www.elperiodico.com/es/economia/20261027/maria-cristina-clemente-notaria-dinero-transferencia-padres-hijos-dv-135797882)<br>
+11:20 [Buscan a Sofía Cataleea, una niña de un año desaparecida en Murcia desde el 5 de octubre](https://www.elperiodico.com/es/sucesos/20261027/buscan-sofia-cataleea-nina-ano-135797876)<br>
+11:19 [Catalunya vuelve a superar el 8% de paro tras un frenazo en las contrataciones](https://www.elperiodico.com/es/economia/20261027/cataluna-paro-epa-datos-tercer-trimestre-2026-135792455)<br>
+11:01 [May-Britt Moser, Nobel de Medicina, habla sobre el uso de sus investigaciones y su aplicación en el Alzhéimer](https://www.elperiodico.com/es/videos/sociedad/may-britt-moser-nobel-medicina/135796954.shtml)<br>
+10:56 [May-Britt Moser, Nobel de Medicina, habla sobre como afecta el uso de la IA al cerebro](https://www.elperiodico.com/es/videos/sociedad/may-britt-moser-nobel-medicina/135796665.shtml)<br>
+10:10 [El mundo vuelve a batir un nuevo récord en la concentración de gases de efecto invernadero, los "combustibles" del cambio climático](https://www.elperiodico.com/es/sociedad/20261027/mundo-nuevo-record-gases-efecto-invernadero-atmosfera-135793654)<br>
+09:12 [El paro repunta hasta el 10,2% en un flojo tercer trimestre](https://www.elperiodico.com/es/economia/20261027/paro-epa-datos-tercer-trimestre-2026-empleo-135793173)<br>
 08:51 [El misterio del Balneario de Alameda: nadie sabe por qué sus aguas termales se han enfriado diez grados](https://www.elperiodico.com/es/sociedad/20261027/misterio-balneario-alameda-nadie-aguas-135792219)<br>
 08:48 [La astronauta Christina Koch, de explorar el espacio a enamorarse de Cudillero y Cadavedo: "Es un cielo de mujer"](https://www.elperiodico.com/es/sociedad/20261027/astronauta-christina-koch-explorar-espacio-135792295)<br>
 08:34 [Un grupo de Telegram convoca una protesta "pacífica" en Palma pero alertan: "Saquearemos las tiendas si nos atacan"](https://www.elperiodico.com/es/sociedad/20261027/jovenes-mallorca-tiktok-telegram-protestas-blocus-vandalismo-135792238)<br>
