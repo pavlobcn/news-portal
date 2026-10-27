@@ -1,8 +1,13 @@
-# News for 2026-10-27 19:11
+# News for 2026-10-27 20:16
 
 Previous day: [2026-10-26](./data/2026-10-26.md)
 
 ## ua.korrespondent.net
+19:59 [Індія наростила продажі боєприпасів союзникам Україні](https://ua.korrespondent.net/world/4923909-indiia-narostyla-prodazhi-boieprypasiv-souiznykam-ukraini)<br>
+19:46 [Реактивні дрони РФ: скільки збивають ЗСУ](https://ua.korrespondent.net/ukraine/4923910-reaktyvni-drony-rf-skilky-zbyvauit-zsu)<br>
+19:42 [Apple представила нові MacBook Pro та iMac](https://ua.korrespondent.net/lifestyle/gadgets/4923913-Apple-predstavyla-novi-MacBook-Pro-ta-iMac)<br>
+19:31 [У МАГАТЕ оцінили стан ядерних об’єктів Ірану](https://ua.korrespondent.net/world/4923902-u-mahate-otsinyly-stan-yadernykh-obiektiv-iranu)<br>
+18:46 ["Режим тиші" розширили поза Олешки](https://ua.korrespondent.net/ukraine/4923896-rezhym-tyshi-rozshyryly-poza-oleshky)<br>
 18:30 [У Києві обмежать ціни на таксі під час тривог](https://ua.korrespondent.net/city/kiev/4923894-u-kyievi-obmezhat-tsiny-na-taksi-pid-chas-tryvoh)<br>
 17:56 [Метро Києва працює з обмеженнями після нічного обстрілу](https://ua.korrespondent.net/city/kiev/4923890-metro-kyieva-pratsuiie-z-obmezhenniamy-pislia-nichnoho-obstrilu)<br>
 17:45 [Ігор Стаковиченко: На ринку ЄС українські компанії не мають права на помилку](https://ua.korrespondent.net/business/4923869-ihor-stakovychenko-na-rynku-yes-ukrainski-kompanii-ne-mauit-prava-na-pomylku)<br>
@@ -73,6 +78,8 @@ Previous day: [2026-10-26](./data/2026-10-26.md)
 00:38 [Конотоп залишається знеструмленим четверту добу](https://ua.korrespondent.net/ukraine/4923623-konotop-zalyshaietsia-znestrumlenym-chetvertu-dobu)<br>
 
 ## as.com
+20:12 [Bayern - Barcelona, en directo: Euroliga 2026-27 en vivo hoy](https://as.com/baloncesto/euroliga/bayern-barcelona-en-directo-euroliga-2026-27-en-vivo-hoy-f202610-d/)<br>
+20:04 [Baskonia - Real Madrid, en directo: Euroliga 2026/27 hoy en vivo](https://as.com/baloncesto/euroliga/baskonia-real-madrid-en-directo-euroliga-202627-hoy-en-vivo-f202610-d/)<br>
 15:44 [La Final Four de 2029 también será en Abu Dabi](https://as.com/baloncesto/euroliga/la-final-four-de-2029-tambien-sera-en-abu-dabi-f202610-n/)<br>
 05:22 [Braxton Key, ante el poderío ofensivo taronja](https://as.com/baloncesto/euroliga/braxton-key-ante-el-poderio-ofensivo-taronja-f202610-n/)<br>
 05:21 [El Barça, ¿esta vez sí?](https://as.com/baloncesto/euroliga/el-barca-esta-vez-si-f202610-n/)<br>
@@ -83,6 +90,12 @@ Previous day: [2026-10-26](./data/2026-10-26.md)
 05:14 [Baskonia - Real Madrid: horario, TV y dónde ver la Euroliga 2026-27](https://as.com/baloncesto/euroliga/baskonia-real-madrid-horario-tv-y-donde-ver-la-euroliga-2026-27-f202610-n/)<br>
 
 ## www.elperiodico.com
+20:14 [Renfe trocea en 14 lotes el concurso de autobuses para cubrir los cortes de tren](https://www.elperiodico.com/es/economia/20261027/renfe-trocea-14-lotes-concurso-135822907)<br>
+20:12 [Dentro de la subasta de los bienes que los Franco se llevaron del Pazo de Meirás: "Mucha gente en streaming", un servidor "petao" y "locura" por las sillas de jardinería y la porcelana](https://www.elperiodico.com/es/sociedad/20261027/dentro-polemica-subasta-bienes-familia-franco-tenia-pazo-meiras-pujas-servidor-streaming-madrid-magna-arts-135822896)<br>
+20:00 [Carles Sans: "El humor debe continuar siendo una herramienta para poder decir prácticamente todo"](https://www.elperiodico.com/es/ocio-y-cultura/20261027/carles-sans-tricicle-entrevista-men-vaig-135807886)<br>
+19:59 [Carles Sans: "No hay música más celestial que una oleada de risa"](https://www.elperiodico.com/es/videos/ocio-y-cultura/carles-sans-hay-musica-celestial-video/135815641.shtml)<br>
+19:33 [Barcelona comparte la Capitalidad Europea de la Navidad con dos ciudades de luces y tradiciones de cuento](https://www.elperiodico.com/es/barcelona/20261027/barcelona-comparte-capitalidad-europea-navidad-135820976)<br>
+19:13 [Así es la megacárcel de Costa Rica inspirada en Bukele que ya recibe a sus presos más peligrosos](https://www.elperiodico.com/es/videos/internacional/megacarcel-costa-rica-inspirada-bukele/135821073.shtml)<br>
 19:09 [Cambios en Ryanair desde el 10 de noviembre: cerrará la facturación de equipaje en el aeropuerto una hora antes del vuelo](https://www.elperiodico.com/es/economia/20261027/ryanair-cerrara-facturacion-equipaje-aeropuerto-antes-vuelo-noviembre-135820656)<br>
 19:08 [Las librerías serán el eje temático de la Feria del Libro 2027: Madrid celebrará a los libreros en plena batalla contra la presión inmobiliaria](https://www.elperiodico.com/es/ocio-y-cultura/20261027/librerias-seran-eje-tematico-feria-libro-madrid-2027-novedades-135820868)<br>
 18:49 [El MIT crea un software para fabricar objetos con "autoconsciencia"](https://www.elperiodico.com/es/tendencias21/20261027/mit-crea-software-fabricar-objetos-135820042)<br>
@@ -113,6 +126,7 @@ Previous day: [2026-10-26](./data/2026-10-26.md)
 13:42 [Barcelona celebra su apuesta por la tecnología abierta con una semana de congresos y debates](https://www.elperiodico.com/es/tecnologia/20261027/barcelona-tecnologia-abierta-redes-sociales-mozilla-debate-congresos-horarios-ia-135581644)<br>
 13:34 [La Generalitat y Renfe renuevan el contrato programa de Rodalies caducado en 2011 y prevén invertir 1.400 millones](https://www.elperiodico.com/es/sociedad/20261027/generalitat-renfe-renuevan-contrato-programa-1-400-millones-2028-135799250)<br>
 13:29 [El Gobierno da luz verde a 200 millones de euros en subvenciones a promotores y fondos de inversión para que construyan 2.500 viviendas en suelos de Casa 47](https://www.elperiodico.com/es/economia/20261027/gobierno-da-luz-verde-200-135804650)<br>
+13:26 [Una nueva terapia abre la puerta a la curación de la hepatitis B: "Estamos ante una noticia muy esperanzadora"](https://www.elperiodico.com/es/sanidad/20261027/nueva-terapia-abre-puerta-curacion-hepatitis-b-noticia-esperanzadora-eeuu-135801375)<br>
 13:26 [Andrés Velencoso (48 años), sobre su juventud: "Barcelona es el trampolín a donde tú quieras"](https://www.elperiodico.com/es/barcelona/20261027/andres-velencoso-barcelona-estudiante-joventud-modelo-actor-dv-135796976)<br>
 13:20 [Loles León (76 años), actriz, da su apoyo público a los acampados en la Puerta del Sol de Madrid por la vivienda: "Bravo por toda esta gente"](https://www.elperiodico.com/es/economia/20261027/actriz-loles-leon-vivienda-alquiler-espana-mayores-crisis-inmobiliaria-dv-135758142)<br>
 13:08 [El AMB adjudica a Veolia el contrato de agua de 1.000 millones para ocho ciudades del área de Barcelona](https://www.elperiodico.com/es/barcelona/20261027/amb-adjudica-veolia-contrato-agua-1000-millones-ocho-ciudades-area-barcelona-135797053)<br>
