@@ -1,0 +1,38 @@
+[
+  {
+    "title": "П'ять провідних країн Європи зробили гучну заяву щодо НАТО",
+    "link": "https://ua.korrespondent.net/world/4923625-piat-providnykh-krain-yevropy-zrobyly-huchnu-zaiavu-schodo-nato",
+    "pubDate": "2026-10-27 00:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4612246.jpg\">Міністри оборони Франції, Німеччини, Італії, Польщі та Великобританії, які входять до групи E5, провели переговори в Парижі.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Конотоп залишається знеструмленим четверту добу",
+    "link": "https://ua.korrespondent.net/ukraine/4923623-konotop-zalyshaietsia-znestrumlenym-chetvertu-dobu",
+    "pubDate": "2026-10-27 00:38:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4612231.jpg\">Більша частина Конотопа нині також без газопостачання, зазначив міський голова Артем Семеніхін.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los goles de Harry Kane frustran la ambición de Lamine Yamal por el Balón de Oro",
+    "link": "https://www.elperiodico.com/es/deportes/20261027/harry-kane-balon-de-oro-ganador-25-26-135785288",
+    "pubDate": "2026-10-27 00:16:05",
+    "category": "",
+    "description": "<h2 class=\"item\">El delantero inglés, de 33 años, se corona como mejor jugador del mundo con sus 73 tantos y aplaza el reconocimiento a la estrella del Barça, que debió conformarse con el premio a mejor futbolista joven, conquistado por tercera vez</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20261026/balon-oro-2026-ultima-hora-directo-135762272\">Última hora del Balón de Oro 2026, en directo</a></h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La portada de EL PERIÓDICO del 27 de octubre de 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20261027/portada-periodico-27-octubre-2026-135789093",
+    "pubDate": "2026-10-27 00:12:36",
+    "category": "",
+    "description": "",
+    "topic": "portada de EL PERIÓDICO",
+    "topic_match_probability": 100
+  }
+]
