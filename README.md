@@ -1,8 +1,9 @@
-# News for 2026-10-27 23:23
+# News for 2026-10-27 23:59
 
 Previous day: [2026-10-26](./data/2026-10-26.md)
 
 ## ua.korrespondent.net
+23:34 [Соцмережі: В РФ чути вибухи, атаковано меткомбінат](https://ua.korrespondent.net/world/russia/4923963-sotsmerezhi-v-rf-chuty-vybukhy-atakovano-metkombinat)<br>
 22:33 [РФ уцілила в житловий будинок у Харкові:є поранені](https://ua.korrespondent.net/city/kharkov/4923953-rf-utsilyla-v-zhytlovyi-budynok-u-kharkoviie-poraneni)<br>
 21:59 [Україна випробовує власну супутникову мережу OBRIA](https://ua.korrespondent.net/tech/space/4923942-ukraina-vyprobovuie-vlasnu-suputnykovu-merezhu-OBRIA)<br>
 21:41 [Підпал заводу у Румунії: в країні посилено охорону об'єктів](https://ua.korrespondent.net/world/4923937-pidpal-zavodu-u-rumunii-v-kraini-posyleno-okhoronu-obiektiv)<br>
@@ -82,6 +83,11 @@ Previous day: [2026-10-26](./data/2026-10-26.md)
 00:38 [Конотоп залишається знеструмленим четверту добу](https://ua.korrespondent.net/ukraine/4923623-konotop-zalyshaietsia-znestrumlenym-chetvertu-dobu)<br>
 
 ## as.com
+23:50 [Resumen del Valencia Basket vs Fenerbahçe, jornada 8 de la Euroliga](https://as.com/baloncesto/resumen-del-valencia-basket-vs-fenerbahce-jornada-8-de-la-euroliga-f202610-v/)<br>
+23:47 [Perasovic: “En el mercado queremos comprar bueno, bonito y barato”](https://as.com/baloncesto/euroliga/perasovic-en-el-mercado-queremos-comprar-bueno-bonito-y-barato-f202610-n/)<br>
+23:32 [Martínez: “No nos creemos superiores a nadie”](https://as.com/baloncesto/acb/martinez-no-nos-creemos-superiores-a-nadie-f202610-n/)<br>
+23:27 [El Madrid sigue de 100 en 100](https://as.com/baloncesto/euroliga/el-madrid-sigue-de-100-en-100-f202610-n/)<br>
+23:14 [El Murcia perece ante el Peristeri](https://as.com/baloncesto/mas_baloncesto/el-murcia-perece-ante-el-peristeri-f202610-n/)<br>
 23:12 [Resumen del Baskonia vs Real Madrid , jornada 8 de la Euroliga](https://as.com/baloncesto/resumen-del-baskonia-vs-real-madrid-jornada-8-de-la-euroliga-f202610-v/)<br>
 23:09 [Resultados Euroliga, jornada 8: horarios, TV, partidos y clasificación](https://as.com/baloncesto/euroliga/resultados-euroliga-jornada-8-horarios-tv-partidos-y-clasificacion-f202610-n/)<br>
 22:43 [Valencia gana al ritmo de TJ Shorts](https://as.com/baloncesto/euroliga/valencia-gana-al-ritmo-de-tj-shorts-f202610-n/)<br>
