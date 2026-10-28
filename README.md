@@ -1,8 +1,11 @@
-# News for 2026-10-28 21:18
+# News for 2026-10-28 22:41
 
 Previous day: [2026-10-27](./data/2026-10-27.md)
 
 ## ua.korrespondent.net
+22:24 [РФ атакувала підприємство на Рівненщині, є жертва](https://ua.korrespondent.net/ukraine/4924296-rf-atakuvala-pidpryiemstvo-na-rivnenschyni-ye-zhertva)<br>
+21:59 [ООН надасть зимову допомогу 2,1 млн українців: хто отримає](https://ua.korrespondent.net/ukraine/4924293-oon-nadast-zymovu-dopomohu-21-mln-ukraintsiv-khto-otrymaie)<br>
+21:44 [На Харківщині російський дрон вдарив по тепловозу](https://ua.korrespondent.net/ukraine/4924289-na-kharkivschyni-rosiiskyi-dron-vdaryv-po-teplovozu)<br>
 20:45 [Росія атакувала цивільне підприємство на Рівненщині: є жертва](https://ua.korrespondent.net/ukraine/4924281-rosiia-atakuvala-tsyvilne-pidpryiemstvo-na-rivnenschyni-ye-zhertva)<br>
 17:28 [Свята 29 жовтня 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4924229-sviata-29-zhovtnia-2026-roku-istoriia-tradytsii)<br>
 17:01 [Атака на потяг із біженцями: у Польщі провели навчання](https://ua.korrespondent.net/world/4924218-ataka-na-potiah-iz-bizhentsiamy-u-polschi-provely-navchannia)<br>
@@ -58,6 +61,9 @@ Previous day: [2026-10-27](./data/2026-10-27.md)
 
 ## www.elperiodico.com
 23:59 [Tiempo en Catalunya mañana jueves: bajan las temperaturas hasta 5 grados y llegan lluvias intensas el fin de semana](https://www.elperiodico.com/es/tiempo/20261028/tiempo-catalunya-hoy-jueves-temperaturas-llegan-lluvias-dv-135852702)<br>
+22:19 [Las víctimas, primero](https://www.elperiodico.com/es/opinion/20261028/victimas-urda-alta-velocidad-editorial-135867800)<br>
+22:00 [La prensa internacional destaca el accidente de tren de Urda en sus ediciones digitales](https://www.elperiodico.com/es/internacional/20261028/prensa-internacional-destaca-accidente-tren-135867586)<br>
+21:38 ["Reanude la marcha con normalidad": el audio de la orden de Adif al AVE minutos antes del accidente ferroviario](https://www.elperiodico.com/es/politica/20261028/reanude-marcha-normalidad-audio-orden-135867087)<br>
 21:00 [La renovación millonaria de la limpieza de grafitis y el mantenimiento de fuentes en Barcelona abre una pugna empresarial](https://www.elperiodico.com/es/barcelona/20261028/renovacion-millonaria-limpieza-grafitis-mantenimiento-fuentes-barcelona-pugna-empresarial-135844121)<br>
 20:13 [La Justicia desestima las alegaciones del MNAC y pide cumplir el cronograma previsto para el retorno de las pinturas murales de Sijena](https://www.elperiodico.com/es/ocio-y-cultura/20261028/justicia-desestima-alegaciones-mnac-pide-sijena-pinturas-135864317)<br>
 19:43 [El Roca City de Viladecans y Gavà estima en 2038 la culminación de su futuro distrito económico](https://www.elperiodico.com/es/barcelona/20261028/proyecto-urbanistico-roca-city-marca-2038-horizonte-completar-desarrollo-135850784)<br>
