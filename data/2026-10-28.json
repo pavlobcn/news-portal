@@ -1,5 +1,725 @@
 [
   {
+    "title": "El rey lamenta la “desgracia terrible” del accidente ferroviario en Toledo: “Todo nuestro pésame y apoyo en un momento tan duro”",
+    "link": "https://www.elperiodico.com/es/sociedad/20261028/rey-lamenta-desgracia-terrible-accidente-tren-toledo-135840712",
+    "pubDate": "2026-10-28 12:20:16",
+    "category": "",
+    "description": "",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Huelga de médicos en Barcelona este miércoles",
+    "link": "https://www.elperiodico.com/es/fotos/en-imagenes/huelga-medicos-barcelona-miercoles-fotos-135839986",
+    "pubDate": "2026-10-28 12:17:17",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "В Росії готуються заблокувати Apple і Microsoft",
+    "link": "https://ua.korrespondent.net/world/russia/4924112-v-rosii-hotuuitsia-zablokuvaty-Apple-i-Microsoft",
+    "pubDate": "2026-10-28 12:16:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4614010.jpg\">Компанії мають зберігати дані користувачів на території РФ і надавати їх силовим органам на запит без рішення суду.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El joven detenido por ensuciar un coche patrulla de la Policía ha hecho otra pintada en un furgón y ha amenazado a los agentes",
+    "link": "https://www.elperiodico.com/es/sociedad/20261028/joven-detenido-ensuciar-coche-patrulla-135831830",
+    "pubDate": "2026-10-28 12:13:17",
+    "category": "",
+    "description": "<h2>El individuo ha aprovechado que los acampados de la Plaza de España hacían un programa de radio para gritar: \"Policías, súbditos del PP, os vamos a matar a todos\"</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La Guardia Civil activa a sus especialistas de identificación de cadáveres en el accidente de Urda por choque de trenes",
+    "link": "https://www.elperiodico.com/es/sociedad/20261028/guardia-civil-activa-especialistas-identificacion-cadaveres-accidente-choque-trenes-urda-toledo-135840135",
+    "pubDate": "2026-10-28 12:12:50",
+    "category": "",
+    "description": "<h2>La Unidad Militar de Emergencias ha aportado una morgue móvil para ayudar en la evacuación de cuerpos</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "На Sotheby's за $47,3 млн продали скелет тиранозавра",
+    "link": "https://ua.korrespondent.net/tech/science/4924067-na-Sothebys-za-473-mln-prodaly-skelet-tyranozavra",
+    "pubDate": "2026-10-28 12:11:00",
+    "category": "Новини науки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613904.jpg\">На аукціоні Sotheby's у Нью-Йорку зафіксували рекордну угоду: окам'янілий скелет молодого тиранозавра пішов із молотка за 47,3 млн доларів США.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Українець уперше очолив Парламентську асамблею ОБСЄ",
+    "link": "https://ua.korrespondent.net/ukraine/4924110-ukrainets-upershe-ocholyv-parlamentsku-asambleui-obsie",
+    "pubDate": "2026-10-28 12:09:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613980.jpg\">Це стало результатом тривалої та злагодженої роботи всієї української делегації на міжнародній арені, зазначив Микита Потураєв.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Barcelona y Esplugues se alían para aterrizar el futuro Clínic y la construcción de hasta 6.000 nuevas viviendas",
+    "link": "https://www.elperiodico.com/es/barcelona/20261028/barcelona-esplugues-alian-aterrizar-futuro-construccion-hasta-6000-nuevas-viviendas-135835948",
+    "pubDate": "2026-10-28 12:08:19",
+    "category": "",
+    "description": "<h2>Los alcaldes Jaume Collboni y Eduard Sanz proyectan un área intermodal para absorber los 65.000 nuevos viajes diarios que generará el futuro hospital en los terrenos de Barcelona y Esplugues</h2><h2>DESARROLLO URBANÍSTICO DEL CLÍNIC | <a href=\"https://www.elperiodico.com/es/economia/20261018/govern-quiere-construir-futuro-campus-clinic-diagonal-concesion-colaboracion-publico-privada-135386125\" target=\"_blank\">El Govern quiere construir el futuro Campus Clínic con colaboración público-privada</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Paneque ofrece «todo el apoyo material o cualquier otro que sea necesario» a Castilla-La Mancha tras la colisión de trenes en Toledo",
+    "link": "https://www.elperiodico.com/es/videos/politica/paneque-ofrece-apoyo-material-o/135839678.shtml",
+    "pubDate": "2026-10-28 12:07:16",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Союзники поза ЄС різко скоротили обіцяну фіндопомогу Україні - ЗМІ",
+    "link": "https://ua.korrespondent.net/ukraine/4924107-souiznyky-poza-yes-rizko-skorotyly-obitsianu-findopomohu-ukraini-zmi",
+    "pubDate": "2026-10-28 12:06:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613982.jpg\">Україні може знадобитися ще 70 млрд євро для покриття фінансових потреб у 2027 році. Однак союзники поза ЄС наразі пообіцяли лише 4 млрд євро допомоги, тоді як на 2026 рік виділили 19 млрд євро.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "La 2Cat inicia una nueva etapa con un canal propio en la TDT, y con más oferta en catalán, a partir del 5 de noviembre",
+    "link": "https://www.elperiodico.com/es/tele/20261028/2cat-nuevo-canal-tdt-catalan-135838202",
+    "pubDate": "2026-10-28 12:05:35",
+    "category": "",
+    "description": "<h2 class=\"item\">Salvador Illa y José Pablo López han oficializado este miércoles el acuerdo entre TVE y la Generalitat de Catalunya</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/20261009/guia-la2cat-programas-presentadores-programacion-135146931\">Guía de la nueva temporada de La2Cat: todos los programas, horarios y presentadores</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Última hora del accidente de trenes en Toledo, hoy en directo: muertos, heridos, causa y rescate de víctimas del choque de un Iryo y un AVE",
+    "link": "https://www.elperiodico.com/es/sociedad/20261028/accidente-tren-los-yebenes-toledo-ultima-hora-directo-135832237",
+    "pubDate": "2026-10-28 12:05:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/sociedad/20261028/sido-choque-trenes-obligado-interrumpir-alta-velocidad-madrid-andalucia-135832517\" target=\"_blank\">Mapa del accidente de tren en Los Yébenes (Toledo) ¿Dónde ha sido el choque entre un Iryo y un AVE?</a></h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Реал опублікував заяву після резонансних слів Мбаппе",
+    "link": "https://ua.korrespondent.net/sport/football/4924088-real-opublikuvav-zaiavu-pislia-rezonansnykh-sliv-mbappe",
+    "pubDate": "2026-10-28 12:04:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613965.jpg\">Клуб публічно перепросив за витівку своєї суперзірки, намагаючись зберегти партнерські відносини на азійському ринку.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Media docena de ciudades importan el veto de Barcelona a los supermercados 24 h para proteger al comercio de barrio",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/media-docena-ciudades-importan-veto-barcelona-supermercados-24-horas-video/135839384.shtml",
+    "pubDate": "2026-10-28 12:03:45",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Joaquina, una amiga de una pasajera del tren en el choque entre un AVE y un Iryo con destino a Sevilla",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/joaquina-amiga-pasajera-tren-choque/135839524.shtml",
+    "pubDate": "2026-10-28 12:02:22",
+    "category": "",
+    "description": "",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Desesperación entre familiares en Sevilla tras el accidente de trenes de Toledo: \"No he podido contactar con mi amiga\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261028/amiga-pasajera-tren-accidente-toledo-135839555",
+    "pubDate": "2026-10-28 12:02:20",
+    "category": "",
+    "description": "<h2>La preocupación y la incertidumbre se han apoderado de muchos seres queridos de pasajeros del AVE y el Iryo que han sufrido una colisión este miércoles por la mañana en Urda</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Чому плачуть вікна",
+    "link": "https://ua.korrespondent.net/articles/4924073-chomu-plachut-vikna",
+    "pubDate": "2026-10-28 12:00:00",
+    "category": "Статті",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613923.png\">Як зупинити конденсат на вікнах, позбутися зайвої вологи та захистити оселю від плісняви?",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Montse Cespedosa, experta en hipotecas, sobre el ahorro: \"No te vayas de vacaciones. No te gastes en un móvil de mil euros, ¿para qué? Hay móviles de 150 euros\"",
+    "link": "https://www.elperiodico.com/es/economia/20261028/montse-cespedosa-experta-hipotecas-aparentar-demasiado-dv-et-135625611",
+    "pubDate": "2026-10-28 12:00:00",
+    "category": "",
+    "description": "<h2>La especialista critica los hábitos de consumo de quienes quieren acceder a una vivienda y recomienda reducir los gastos en ocio, vacaciones y tecnología para conseguir ahorrar</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261018/claudia-romero-abogada-vivienda-no-derecho-dv-et-135319394\">Claudia Romero, abogada: \"Ni la vivienda es un derecho ni el italiano que se compra una casa en Formentera es tu problema\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El nuevo proyecto musical de Manolo Kabezabolo charra en aragonés: \"Las lenguas de cada pueblo se deben defender\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261028/nuevo-proyecto-musical-manolo-kabezabolo-135831829",
+    "pubDate": "2026-10-28 11:59:43",
+    "category": "",
+    "description": "<h2>El cantautor punk zaragozano, ya recuperado de su accidente de tráfico, ha colaborado con la asociación cultural Nogará-Religada</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Світове автовиробництво зросло на 1% за пів року",
+    "link": "https://ua.korrespondent.net/business/auto/4924105-svitove-avtovyrobnytstvo-zroslo-na-1-za-piv-roku",
+    "pubDate": "2026-10-28 11:59:00",
+    "category": "Авто новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613979.jpg\">Найбільшим виробником залишається Китай, попри те, що його показник скоротився на 4%.",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Aitana, sobre tributar en España: \"A las personas que ganan más, hay que freírlas a impuestos\"",
+    "link": "https://www.elperiodico.com/es/economia/20261028/aitana-tributar-espana-personas-ganan-mas-hay-freirlas-impuestos-dv-135836120",
+    "pubDate": "2026-10-28 11:57:34",
+    "category": "",
+    "description": "<h2>La cantante ha reafirmado su postura sobre la vivienda y la necesidad de tributar en España</h2><h2><a href=\"https://www.elperiodico.com/es/gente/20261007/aitana-vivenda-urbanizacion-madrid-privacidad-seguridad-piscina-sala-grabacion-dv-134881946\" target=\"_blank\">Así es la exclusiva urbanización donde vive Aitana: mansiones, amplias zonas verdes y máxima privacidad a 18 kilómetros de Madrid</a></h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Un periodista relata el accidente de tren en Toledo: \"Estoy vivo de milagro\"",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/periodista-relata-accidente-tren-toledo/135839118.shtml",
+    "pubDate": "2026-10-28 11:54:48",
+    "category": "",
+    "description": "",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "¿Cuándo habrá resultados definitivos en Israel? ¿Podría Netanyahu ser primer ministro de nuevo? Algunas claves sobre el lento escrutinio",
+    "link": "https://www.elperiodico.com/es/internacional/20261028/habra-resultados-definitivos-israel-netanyahu-135839020",
+    "pubDate": "2026-10-28 11:53:02",
+    "category": "",
+    "description": "<h2>Con poco más de la mitad del recuento, la Knesset, el Parlamento israelí, mantiene su fragmentación y se dirige a un período de largas negociaciones para formar un gobierno</h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20261028/elecciones-israel-guerra-iran-ultima-hora-directo-130265713\" target=\"_blank\">Directo | Minuto a minuto del recuento electoral: quién ha ganado, reacciones y última hora de Netanyahu</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Un centenar de efectivos de la Comunidad de Madrid colaboran en el accidente de Urda (Toledo)",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/centenar-efectivos-comunidad-madrid-colaboran/135838825.shtml",
+    "pubDate": "2026-10-28 11:52:50",
+    "category": "",
+    "description": "",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Системи для відеонагляду у Києві закупили зі збитками у понад 2,1 млн",
+    "link": "https://ua.korrespondent.net/city/kiev/4924100-systemy-dlia-videonahliadu-u-kyievi-zakupyly-zi-zbytkamy-u-ponad-21-mln",
+    "pubDate": "2026-10-28 11:51:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613959.jpg\">Правоохоронці викрили службову недбалість під час закупівлі камер відеоспостереження для міської системи безпеки.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росія посилила кібератаки на Україну із застосуванням ШІ",
+    "link": "https://ua.korrespondent.net/ukraine/4924098-rosiia-posylyla-kiberataky-na-ukrainu-iz-zastosuvanniam-shi",
+    "pubDate": "2026-10-28 11:49:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613966.jpg\">Штучний інтелект дає змогу ворогу швидше готувати й здійснювати атаки на державний і комерційний сектори.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Marcos Llorente, con el apoyo de Courtois y Carvajal, ataca a Óscar Puente tras el accidente de tren en Toledo: \"Eres un puto desastre\"",
+    "link": "https://www.elperiodico.com/es/deportes/20261028/marcos-llorente-apoyo-courtois-carvajal-135838721",
+    "pubDate": "2026-10-28 11:47:29",
+    "category": "",
+    "description": "<h2>El lateral del Atlético censura al ministro: \"¿No va siendo hora de que dejes de lado Twitter y te centres en el trabajo por el que te pagamos?\"</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "La investigación de los disturbios de Barcelona sospecha de una operación de desinformación extranjera",
+    "link": "https://www.elperiodico.com/es/sociedad/20261028/investigacion-disturbios-barcelona-sospechas-operacion-desinformacion-extranjera-bots-redes-menores-135833177",
+    "pubDate": "2026-10-28 11:41:57",
+    "category": "",
+    "description": "<h2 class=\"item\">Los Mossos trabajan con la hipótesis de que la convocatoria se fraguó a través de bots que difundieron vídeos de altercados en Francia en las cuentas de TikTok de menores españoles </h2><h2 class=\"item\">La policía catalana colabora con Policía Nacional y Guardia Civil para descubrir quién movilizó a los jóvenes</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261027/blocus-prepara-nueva-oleada-disturbios-barcelona-fin-de-semana-135805481\" target=\"_blank\">Blocus prepara una nueva oleada de disturbios en Barcelona: \"Poneos ropa negra y máscaras de Halloween\"</a></h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Jennifer Lawrence confiesa su operación de pecho tras ser madre y lanza su propia marca de productos para el pelo: \"Quiero ser una madre sexy\"",
+    "link": "https://www.elperiodico.com/es/gente/20261028/jennifer-lawrence-operacion-pecho-mes-marca-productos-pelo-135836151",
+    "pubDate": "2026-10-28 11:41:24",
+    "category": "",
+    "description": "<h2>La actriz, de 36 años, presenta Mes°, una firma de cuidado capilar creada junto a una experta en biotecnología, y habla sin tapujos de sus retoques estéticos, los cambios físicos tras sus dos embarazos y sus planes de volver a pasar por el quirófano</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los médicos llegan a la conselleria de salut",
+    "link": "https://www.elperiodico.com/es/videos/salud/medicos-llegan-conselleria-salut/135837980.shtml",
+    "pubDate": "2026-10-28 11:40:36",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Велес перекрив росіянам прихований шлях до Куп’янська - Трегубов",
+    "link": "https://ua.korrespondent.net/ukraine/4924095-veles-perekryv-rosiianam-prykhovanyi-shliakh-do-kupianska-trehubov",
+    "pubDate": "2026-10-28 11:40:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613963.jpg\">Після операції Велес ЗСУ не фіксували нових ефективних спроб проникнення російських підрозділів до Куп’янська. Водночас у північній частині міста залишаються росіяни, які раніше змогли закріпитися там невеликими групами.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "В обмінниках триває зростання курсу долара",
+    "link": "https://ua.korrespondent.net/business/financial/4924094-v-obminnykakh-tryvaie-zrostannia-kursu-dolara",
+    "pubDate": "2026-10-28 11:40:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613964.jpg\">На міжбанку курс американської валюти впав на 9 копійок і перебуває на рівні 45,58-45,61 грн/долар купівля-продаж.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Impactantes imágenes aéreas del accidente de tren de Toledo",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/impactantes-imagenes-aereas-accidente-tren/135838248.shtml",
+    "pubDate": "2026-10-28 11:39:10",
+    "category": "",
+    "description": "",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Théo Maledon, de señalado a imprescindible",
+    "link": "https://as.com/baloncesto/acb/theo-maledon-de-senalado-a-imprescindible-f202610-n/",
+    "pubDate": "2026-10-28 11:37:30",
+    "category": "Baloncesto",
+    "description": "Tras meses de dudas alrededor del francés, su arranque sobresaliente ha devuelto ilusión a una afición que esperaba mucho de él.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Нафтогаз та Держдеп США підписали меморандум про співпрацю",
+    "link": "https://ua.korrespondent.net/business/companies/4924090-naftohaz-ta-derzhdep-ssha-pidpysaly-memorandum-pro-spivpratsui",
+    "pubDate": "2026-10-28 11:36:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613958.jpg\">Наступним кроком мають стати переговори з потенційними інвесторами та підготовка конкретних інвестиційних проєктів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Таємниці, заморожені на тисячоліття: що знаходять у горах",
+    "link": "https://ua.korrespondent.net/tech/science/4923921-taiemnytsi-zamorozheni-na-tysiacholittia-scho-znakhodiat-u-horakh",
+    "pubDate": "2026-10-28 11:29:00",
+    "category": "Новини науки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613248.jpg\">Через танення льоду археологи знаходять стародавню зброю, одяг та муміфіковані рештки, але контакт із вологою та киснем ставить під загрозу збереження цих реліквій.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un testigo del accidente de tren en Toledo: \"El choque ha sido fortísimo, el Iryo ha saltado por los aires\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261028/testigo-accidente-tren-toledo-choque-iryo-135837600",
+    "pubDate": "2026-10-28 11:28:36",
+    "category": "",
+    "description": "<h2>Un AVE de Renfe y un tren Iryo han colisionado este miércoles en Urda, provocando el descarrilamiento de dos vagones y el corte de la línea de alta velocidad Madrid-Andalucía</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Серйозний удар: Челсі зазнав кадрової втрати в атаці",
+    "link": "https://ua.korrespondent.net/sport/football/4924064-serioznyi-udar-chelsi-zaznav-kadrovoi-vtraty-v-atatsi",
+    "pubDate": "2026-10-28 11:27:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613924.jpg\">Нападник лондонського клубу отримав травму під час тренувальної сесії і змушений пропустити найближчі матчі команди.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Спроба підпалу заводу в Румунії: у Польщі затримали українця",
+    "link": "https://ua.korrespondent.net/world/4924079-sproba-pidpalu-zavodu-v-rumunii-u-polschi-zatrymaly-ukraintsia",
+    "pubDate": "2026-10-28 11:25:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613938.jpg\">Затримано 25-річного громадянина України, якого підозрюють у причетності до групи, що могла готувати диверсії на замовлення Росії.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Києві згоріли два автобуси на парковці",
+    "link": "https://ua.korrespondent.net/city/kiev/4924086-u-kyievi-zghorily-dva-avtobusy-na-parkovtsi",
+    "pubDate": "2026-10-28 11:21:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613945.jpg\">Пожежа сталася на вулиці Миколи Василенка у Солом’янському районі. Вогонь охопив 80 кв. м.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Así actuaría el Ejército español ante una invasión de zombis: 'Apocalipsis Z: Nuevo mundo' llega a Prime Video",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261028/apocalipsis-z-nuevo-mundo-ejercito-zombis-carles-torrens-135806840",
+    "pubDate": "2026-10-28 11:19:29",
+    "category": "",
+    "description": "<h2 class=\"item\">Tras el éxito internacional de 'El principio del fin', Carles Torrens da un giro a la historia y convierte la continuación en un filme de aventuras bélicas</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Атаковано енергетику в чотирьох областях України",
+    "link": "https://ua.korrespondent.net/ukraine/4924083-atakovano-enerhetyku-v-chotyrokh-oblastiakh-ukrainy",
+    "pubDate": "2026-10-28 11:16:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613940.jpg\">Енергетики роблять усе можливе, щоб якнайшвидше заживити усіх знеструмлених абонентів, запевнили в Укренерго.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Abascal no suspende la precampaña para seguir culpando al PSOE de “los muertos” y Vox se personará en el accidente",
+    "link": "https://www.elperiodico.com/es/politica/20261028/abascal-suspende-precampana-seguir-culpando-135836566",
+    "pubDate": "2026-10-28 11:15:12",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/sociedad/20261028/ultima-hora-choque-trenes-toledo-135832371\" target=\"_blank\">Última hora del accidente de tren en Toledo, hoy en directo: cifra de muertos, heridos y causas del choque de un Iryo y un AVE entre Los Yébenes y Urda</a></h2><h2>Mapa del accidente de tren en Los Yébenes (Toledo) ¿Dónde ha sido el choque entre un Iryo y un AVE?</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "В Іспанії зіткнулися швидкісні поїзди: десятки загиблих",
+    "link": "https://ua.korrespondent.net/world/4924078-v-ispanii-zitknulysia-shvydkisni-poizdy-desiatky-zahyblykh",
+    "pubDate": "2026-10-28 11:13:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613936.jpg\">Аварія сталася поблизу містечок Лос-Єбенес і Урда у провінції Толедо. Причини зіткнення поки не встановили.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Ozon оцінив наслідки після атак на 11 об’єктів",
+    "link": "https://ua.korrespondent.net/world/russia/4924077-Ozon-otsinyv-naslidky-pislia-atak-na-11-obiektiv",
+    "pubDate": "2026-10-28 11:12:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613937.jpg\">Ozon зарезервував 30,1 млрд рублів на покриття збитків від атак дронів на 11 логістичних об’єктів. Водночас за третій квартал компанія отримала 3,7 млрд рублів чистого прибутку.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Márchense todos del Espanyol",
+    "link": "https://www.elperiodico.com/es/deportes/20261028/marchense-espanyol-sergi-135835217",
+    "pubDate": "2026-10-28 11:02:03",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20261028/despides-manolo-subir-autocar-135829700\">Cuando despides a Manolo antes de subir al autocar</a></h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Chenoa (51 años), sobre su vida antes de Operación triunfo: \"Yo trabajaba a las seis de la mañana hasta las dos de la tarde, iba a mi casa, a las seis me iba al casino y trabajaba hasta las doce\"",
+    "link": "https://www.elperiodico.com/es/economia/20261028/chenoa-cantante-dinero-pisos-alquiler-patrimonio-ahorro-dv-135667801",
+    "pubDate": "2026-10-28 11:00:00",
+    "category": "",
+    "description": "<h2>La cantante, que explica que siempre ha sido \"muy ahorradora\", se independizó a los 19 años: \"Tenía la cultura de los sobres. Los sobres son la luz, el butano, el gas..\"</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261023/piloto-motogp-jorge-lorenzo-okupa-precios-vivienda-espana-inversion-dv-et-135659483\" >Jorge Lorenzo (39 años), sobre la vivienda: \"No es algo muy apetitoso que tú inviertas el dinero que te ha costado años de lucha, de lesiones y de sufrimiento para que alguien te lo ocupe y la ley ampare al okupa\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/gente/20260722/blanca-portillo-hacienda-declaracion-renta-la-revuelta-dv-et-132303338\" >La divertida confesión de la actriz Blanca Portillo (63 años), sobre Hacienda: \"Pago impuestos como una puerca\"</a></h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Легендарний тенісист зіграв останній матч у кар'єрі",
+    "link": "https://ua.korrespondent.net/sport/tenis/4924071-lehendarnyi-tenisyst-zihrav-ostannii-match-u-karieri",
+    "pubDate": "2026-10-28 10:59:00",
+    "category": "Новини тенісу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613905.jpg\">Триразовий переможець турнірів Grand Slam провів свій останній офіційний матч у кар'єрі, програвши чеському тенісисту Іржі Легечці.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Після гучного скандалу з Вівтарем родина Гіги зробила заяву",
+    "link": "https://ua.korrespondent.net/lifestyle/4924054-pislia-huchnoho-skandalu-z-vivtarem-rodyna-hihy-zrobyla-zaiavu",
+    "pubDate": "2026-10-28 10:55:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613796.jpg\">Рідні Народного артиста України Степана Гіги перервали мовчання та вперше офіційно прокоментували конфлікт, що виник довкола переспіву його пісні Вівтар іншими виконавцями.",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los testimonios del accidente mortal de trenes en Toledo, impactados por la escena: \"Es todo un desastre\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261028/testimonios-choque-mortal-toledo-impactados-escena-todo-desastre-135834565",
+    "pubDate": "2026-10-28 10:53:19",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261028/accidente-tren-los-yebenes-toledo-ultima-hora-directo-135832237\">Última hora del accidente de tren en Toledo, hoy en directo: cifra de muertos, heridos y causas del choque de un Iryo y un AVE entre Los Yébenes y Urda</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20261028/alcance-trenes-interrumple-linea-alta-135831878\">El origen del accidente de trenes en Toledo: el AVE ha embestido por detrás al Iryo y dos vagones han salido disparados</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261028/que-se-sabe-accidente-trenes-yebenes-toledo-causas-yebenes-toledo-causas-choque-135833050\">Qué se sabe y qué no del accidente entre dos trenes en Los Yébenes (Toledo): causas del choque</a></h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Cómo consultar si tu tren sale a su hora tras el accidente de Toledo: webs oficiales para comprobarlo",
+    "link": "https://www.elperiodico.com/es/sociedad/20261028/renfe-adif-iryo-consultar-tren-sale-hora-accidente-toledo-billetes-webs-oficiales-135835078",
+    "pubDate": "2026-10-28 10:51:41",
+    "category": "",
+    "description": "<h2>Renfe dispone de un visor en tiempo real y Adif publica las incidencias de la red; los pasajeros deben revisar también los avisos de su operador</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20261028/accidente-tren-los-yebenes-toledo-ultima-hora-directo-135832237\" target=\"_blank\">Última hora del accidente de tren en Toledo, hoy en directo</a></h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20261028/sido-choque-trenes-obligado-interrumpir-alta-velocidad-madrid-andalucia-135832517\" >Mapa del accidente de tren en Los Yébenes (Toledo) ¿Dónde ha sido el choque entre un Iryo y un AVE?</a></h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20261028/que-se-sabe-accidente-trenes-yebenes-toledo-causas-yebenes-toledo-causas-choque-135833050\" >Qué se sabe y qué no del accidente entre dos trenes en Los Yébenes (Toledo): causas del choque</a></h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Президент: Без Starshield зупинились перехоплювачі",
+    "link": "https://ua.korrespondent.net/ukraine/4924068-prezydent-bez-Starshield-zupynylys-perekhopluivachi",
+    "pubDate": "2026-10-28 10:51:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613921.jpg\">Нині Україна знищує близько 90% російських \"шахедів\", тоді як на початку атак цей показник становив 50-75%, запевнив президент.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Іран отримав нову пропозицію щодо припинення війни",
+    "link": "https://ua.korrespondent.net/world/4924066-iran-otrymav-novu-propozytsiui-schodo-prypynennia-viiny",
+    "pubDate": "2026-10-28 10:48:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613908.jpg\">Тегеран розглядає проєкт нової угоди про припинення війни зі США та Ізраїлем, який передали катарські посередники. Відповідь Ірана очікують до кінця тижня.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Las personas sin techo de Barcelona mueren, de media, 34 años antes que el resto",
+    "link": "https://www.elperiodico.com/es/sociedad/20261028/personas-sin-techo-sin-hogar-barcelona-mueren-media-antes-resto-sinhogarismo-135827356",
+    "pubDate": "2026-10-28 10:45:48",
+    "category": "",
+    "description": "<h2 class=\"item\">Al menos 204 personas han fallecido en Barcelona mientras dormían al raso en los últimos 10 años y con una media de 49 años</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261022/odio-al-pobre-mitad-espanoles-creen-personas-pobres-prefieren-vivir-ayudas-sociales-congreso-aporofobia-barcelona-135589475\">Más de la mitad de los españoles creen que las personas pobres prefieren vivir de ayudas sociales</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260930/80-personas-viven-calle-sufrido-delito-agresion-discriminacion-134835606\">La mitad de las personas sin techo de Barcelona sufrieron violencia física en 2025</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ebro triplica sus ingresos hasta los 309,7 millones de euros en el primer semestre y entra en beneficio operativo",
+    "link": "https://www.elperiodico.com/es/motor/20261028/ebro-triplica-ingresos-primer-semestre-entra-beneficio-operativo-135833195",
+    "pubDate": "2026-10-28 10:41:31",
+    "category": "",
+    "description": "<h2>La firma española alcanza un resultado operativo de 1,7 millones de euros, multiplica sus ventas un 194,2% e impulsa su expansión por Europa</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Evacuadas 40 personas en la planta de Henkel de Montornès por una fuga sin afectación al exterior",
+    "link": "https://www.elperiodico.com/es/barcelona/20261028/evacuadas-40-personas-planta-henkel-de-montornes-por-una-fuga-sin-afectacion-al-exterior-135833770",
+    "pubDate": "2026-10-28 10:40:30",
+    "category": "",
+    "description": "<h2>La empresa ha evacuado a 40 trabajadores como medida preventiva y los Bombers han acudido al recinto, aunque no han tenido que intervenir al confirmar los técnicos que no había afectación fuera de la instalación</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Sergio García asume el banquillo del Espanyol como interino tras la destitución de Manolo González",
+    "link": "https://www.elperiodico.com/es/deportes/20261028/sergio-garcia-asume-banquillo-espanyol-135832963",
+    "pubDate": "2026-10-28 10:29:20",
+    "category": "",
+    "description": "<h2>El club cumple 126 años sumido en una nueva crisis de resultados y con la reciente destitución del técnico gallego tras la derrota en Copa frente al Sestao River.</h2><h2><a href=\"https://www.elperiodico.com/es/deportes/20261027/espanyol-muerto-despide-copa-ultimo-135824883\" >El Espanyol despide a Manolo tras otro ridículo en la Copa: \"Es uno de los peores días de mi vida, es muy injusto acabar así\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/deportes/20261025/numeros-lastran-manolo-gonzalez-frente-espanyol-135731012\" >Los números que lastran a Manolo González al frente del Espanyol</a></h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "В Україні підтвердили ще один випадок грипу типу А",
+    "link": "https://ua.korrespondent.net/ukraine/4924060-v-ukraini-pidtverdyly-sche-odyn-vypadok-hrypu-typu-a",
+    "pubDate": "2026-10-28 10:27:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613891.jpg\">В Рівненській області лабораторно підтвердили другий випадок грипу від початку епідемічного сезону. Загалом за тиждень на грип, ГРВІ та COVID-19 захворіли понад 109 тисяч людей.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У центрі Івано-Франківська жінка підпалила прапор України",
+    "link": "https://ua.korrespondent.net/ukraine/4924057-u-tsentri-ivano-frankivska-zhinka-pidpalyla-prapor-ukrainy",
+    "pubDate": "2026-10-28 10:22:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613889.jpg\">Жінка раніше не була судима, однак потрапляла в поле зору полиції через майнові правопорушення.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Qué se sabe y qué no del accidente entre dos trenes en Los Yébenes (Toledo): causas del choque",
+    "link": "https://www.elperiodico.com/es/sociedad/20261028/que-se-sabe-accidente-trenes-yebenes-toledo-causas-yebenes-toledo-causas-choque-135833050",
+    "pubDate": "2026-10-28 10:21:21",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261028/accidente-tren-los-yebenes-toledo-ultima-hora-directo-135832237\">Accidente de tren en Los Yébenes (Toledo), en directo | Última hora de los muertos y heridos en el choque entre un Iryo y un AVE y afectaciones en los trenes</a></h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Real Madrid se suma a las disculpas a China por el patinazo de Mbappé: \"Nuestro club mantiene un profundo respeto por el país, su historia, su cultura y sus ciudadanos\"",
+    "link": "https://www.elperiodico.com/es/deportes/20261028/real-madrid-suma-disculpas-china-135833696",
+    "pubDate": "2026-10-28 10:19:25",
+    "category": "",
+    "description": "<h2>Los blancos han emitido un comunicado en el que \"se suma a las disculpas públicas expresadas por Kylian Mbappé, en las que el propio jugador ha manifestado su arrepentimiento por sus palabras\". </h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Два бойовики РФ намагались потрапити до Києва - СБУ",
+    "link": "https://ua.korrespondent.net/ukraine/4924056-dva-boiovyky-rf-namahalys-potrapyty-do-kyieva-sbu",
+    "pubDate": "2026-10-28 10:17:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613890.jpg\">Чоловіки сподівалися доїхати до столиці, де в одного з них проживають родичі, та \"залягти на дно\".",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La UE investigará la legalidad de la regularización de migrantes a petición de Junts",
+    "link": "https://www.elperiodico.com/es/politica/20261028/union-europea-regularizacion-migrantes-135832231",
+    "pubDate": "2026-10-28 10:15:54",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260630/regularizacion-extraordinaria-migrantes-culmina-marcando-131934455\">La regularización extraordinaria de migrantes desborda las previsiones del Gobierno con más de un millón de solicitantes</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Accidente de trenes mortal en Los Yébenes (Toledo)",
+    "link": "https://www.elperiodico.com/es/fotos/sociedad/accidente-trenes-mortal-yebenes-toledo-fotos-135833406",
+    "pubDate": "2026-10-28 10:15:28",
+    "category": "",
+    "description": "",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Todos los partidos de ámbito estatal a excepción de Vox suspenden sus actos de campaña por el grave accidente de Toledo",
+    "link": "https://www.elperiodico.com/es/politica/20261028/partidos-ambito-nacional-suspenden-actos-excepcion-vox-135833278",
+    "pubDate": "2026-10-28 10:11:42",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/sociedad/20261028/accidente-tren-los-yebenes-toledo-ultima-hora-directo-135832237\" >Última hora del accidente de tren en Toledo, hoy en directo: cifra de muertos, heridos y causas del choque de un Iryo y un AVE entre Los Yébenes y Urda</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Трагічно загинув ексголова НКРЕКП",
+    "link": "https://ua.korrespondent.net/ukraine/4924052-trahichno-zahynuv-eksholova-nkrekp",
+    "pubDate": "2026-10-28 10:07:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613876.jpg\">Валерій Тарасюк у різні роки керував регулятором і був членом комісії НКРЕКП. ЗМІ пишуть про ДТП.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Los estudiantes urgen a desconvocar el conflicto de las colonias: \"Solo estás en el instituto una vez en la vida, no queremos renunciar a las salidas\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261028/instituto-vez-vida-queremos-renunciar-colonias-salidas-adolescentes-barcelona-135802330",
+    "pubDate": "2026-10-28 10:06:19",
+    "category": "",
+    "description": "<h2 class=\"item\">Alumnos de varios centros educativos leerán este jueves a la hora del patio un manifiesto en el que rechazan sufrir las consecuencias de las tensiones entre profesores y Educació </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260921/toni-alonso-director-escuela-problemas-sistema-educativo-cataluna-colonias-salidas-134475110\">Toni Alonso, director de escuela: \"El boicot a las salidas y colonias se levantará cuando haya un acuerdo con Educació avalado por el profesorado\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261019/abraham-fuente-profesor-director-angeleta-ferrer-barcelona-autonomia-centros-escuela-inclusiva-colonias-escolares-educacion-cataluna-135404242\">Abraham de la Fuente, profesor: \"Las familias vemos el fin de las colonias escolares como una pérdida, pero eran un privilegio\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Зеленський пояснив зрив переговорів у Брюсселі",
+    "link": "https://ua.korrespondent.net/ukraine/4924050-zelenskyi-poiasnyv-zryv-perehovoriv-u-bruisseli",
+    "pubDate": "2026-10-28 10:00:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613873.jpg\">В американської сторони змінились плани – їхні представники перебували у Вашингтоні, зазначив президент.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Aleix vive aislado en una masía catalana trabajando como cestero: \"Estos oficios antiguos y todo lo que es manual se está perdiendo; estamos en un punto en el que vamos un poco justitos\"",
+    "link": "https://www.elperiodico.com/es/economia/20261028/masia-catalana-500-anos-aislado-vida-autosuficiente-biert-girona-aleix-dv-et-135485367",
+    "pubDate": "2026-10-28 10:00:00",
+    "category": "",
+    "description": "<h2>El hombre explica cómo logra sobrevivir de manera autosuficiente: \"Tenemos una cisterna de acumulación de agua de la lluvia de unos 9.000 litros\"</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260803/reforma-masia-anos-300-ruina-hogar-alain-dv-et-132890564\" >Alain vive en una masía abandonada de hace más de 300 años en las montañas de Catalunya: \"Después de una vida llena de sexo, drogas y rock and roll, un día me detectaron un cáncer\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260926/vivir-finca-abandonada-cataluna-autosuficiente-agua-luz-molino-papel-proyectos-marc-dv-et-134398321\" >Marc, 4 años viviendo de forma autosuficiente en una finca abandonada de Catalunya: \"Para el tema de la luz, lo que hago es comprar unas barras de luz, de estas de Wallapop y las cargo con una batería extraíble o una batería portátil\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Mapa del accidente de tren en Los Yébenes (Toledo) ¿Dónde ha sido el choque entre un Iryo y un AVE?",
+    "link": "https://www.elperiodico.com/es/sociedad/20261028/sido-choque-trenes-obligado-interrumpir-alta-velocidad-madrid-andalucia-135832517",
+    "pubDate": "2026-10-28 09:57:03",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261028/accidente-tren-los-yebenes-toledo-ultima-hora-directo-135832237\">Accidente de tren en Los Yébenes (Toledo), en directo | Última hora del choque entre un Iryo y un AVE, víctimas y de las afectaciones en las líneas de tren</a></h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "ГУР розкрило історію найманця з Ботсвани, який воював за РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4924045-hur-rozkrylo-istoriui-naimantsia-z-botsvany-yakyi-vouivav-za-rf",
+    "pubDate": "2026-10-28 09:54:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613865.jpg\">Громадянин Ботсвани провів півтора тижня в навчальному центрі армії РФ, після чого його відправили на тимчасово окуповані території України.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Stellantis deja atrás las pérdidas y gana 217 millones de euros en los nueve primeros meses del año",
+    "link": "https://www.elperiodico.com/es/motor/20261028/stellantis-deja-perdidas-gana-217-millones-nueve-primeros-meses-ano-135832507",
+    "pubDate": "2026-10-28 09:50:03",
+    "category": "",
+    "description": "<h2>La multinacional alcanza una facturación de 119.225 millones de euros en los nueve primeros meses del año, un 7% más, y reafirma sus objetivos financieros para 2026</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La huida de Bolsonaro hasta EEUU: Argentina, Ecuador y Miami",
+    "link": "https://www.elperiodico.com/es/internacional/20261028/periplo-bolsonaro-eeuu-argentina-ecuador-miami-huida-135832592",
+    "pubDate": "2026-10-28 09:49:47",
+    "category": "",
+    "description": "<h2>El senador brasileño, que perdió la contienda electoral frente al izquierdista Lula, tenía orden de no salir del país por una investigación por blanqueo de capitales</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Поліція показала наслідки злочинів РФ на Донеччині",
+    "link": "https://ua.korrespondent.net/ukraine/4924042-politsiia-pokazala-naslidky-zlochyniv-rf-na-donechchyni",
+    "pubDate": "2026-10-28 09:49:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613844.jpg\">Унаслідок російських обстрілів Донецької області загинули двоє людей, ще троє дістали поранення. Також пошкоджено 25 цивільних об’єктів, зокрема 12 житлових будинків.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Нафта дорожчає через атаки хуситів",
+    "link": "https://ua.korrespondent.net/business/economics/4924039-nafta-dorozhchaie-cherez-ataky-khusytiv",
+    "pubDate": "2026-10-28 09:43:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613841.jpg\">Хусити заявили, що завдали ракетного удару по найбільшому нафтопереробному заводу Саудівської Аравії – Рас-Танура.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Супутники РФ допомагають союзникам Ірану бити по Саудівській Аравії - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4924035-suputnyky-rf-dopomahauit-souiznykam-iranu-byty-po-saudivskii-aravii-zmi",
+    "pubDate": "2026-10-28 09:35:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613840.jpg\">Росія надає супутникові дані підтримуваним Іраном бойовикам, а саме хуситам та іракським угрупованням, для коригування ударів по СА.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Cocunat celebra Halloween con hasta un 45% de descuento en su sérum antimanchas, su crema antiedad y otros superventas",
+    "link": "https://www.elperiodico.com/es/shopping/20261028/cocunat-productos-black-friday-vips-ofertas-belleza-superventas-descuentos-135747247",
+    "pubDate": "2026-10-28 09:35:00",
+    "category": "",
+    "description": "<h2>Desde su potente vitamina c antimanchas, su sérum v-lifting, su skin booster que reduce más del 25% las arrugas en 3 horas, hasta sus tratamientos para el cabello,  los productos más buscados de Cocunat tienen descuento durante sus ofertas de Halloween</h2>",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Precio de la gasolina y diésel hoy, 28 de octubre en España: consulta el precio de los carburantes",
+    "link": "https://www.elperiodico.com/es/economia/20261028/precio-gasolina-diesel-hoy-28-octubre-dv-135813565",
+    "pubDate": "2026-10-28 09:32:39",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Guerra de EEUU e Israel contra Irán, en directo</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260303/afectara-espana-conflicto-iran-gas-gasolina-luz-inflacion-euribor-127492297\">¿Cómo afectará a España el conflicto con Irán? Gas, gasolina, luz, inflación y euríbor, en el punto de mira</a></h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Meghan Markle prepara su regreso a Australia con sus hijos mientras su padre es investigado por pornografía infantil",
+    "link": "https://www.elperiodico.com/es/gente/20261028/meghan-markle-australia-hijos-padre-pornografia-infantil-135831563",
+    "pubDate": "2026-10-28 09:26:54",
+    "category": "",
+    "description": "<h2>La duquesa de Sussex participará en 'Junior MasterChef Australia' y podría instalarse unas semanas en Melbourne con el príncipe Enrique, Archie y Lilibet, en medio de las graves acusaciones contra Thomas Markle</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20261025/hallan-material-pornografico-infantil-domicilio-padre-meghan-markle-135732681\" target=\"_blank\">Hallan material pornográfico infantil en el domicilio del padre de Meghan Markle</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20261023/meghan-markle-responde-acusaciones-padre-135667987\" target=\"_blank\">Meghan Markle: \"Por eso no permití que tuviera contacto con nuestros hijos: para protegerlos\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Al menos medio centenar de muertos en un accidente ferroviario causado por un \"error humano\" entre un AVE de Renfe y un Iryo en Toledo",
+    "link": "https://www.elperiodico.com/es/economia/20261028/alcance-trenes-interrumple-linea-alta-135831878",
+    "pubDate": "2026-10-28 09:21:12",
+    "category": "",
+    "description": "<h2>Fuentes del Gobierno consultadas por EL PERIÓDICO sitúan en al menos 50 los fallecidos y señalan que las primeras investigaciones apuntan a un posible \"error humano en la reanudación de la marcha\" tras un \"fallo en la señalización\"</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20261028/accidente-tren-los-yebenes-toledo-ultima-hora-directo-135832237\" >Última hora del accidente de trenes en Toledo, hoy en directo: muertos, heridos y rescate de víctimas del choque de un Iryo y un AVE</a></h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Huelga de médicos en Catalunya y resto de España, en directo | Última hora de la manifestación en Barcelona y servicios mínimos en CAP y hospitales",
     "link": "https://www.elperiodico.com/es/sociedad/20261028/huelga-medicos-cataluna-espana-servicios-minimos-ultima-hora-directo-135830579",
     "pubDate": "2026-10-28 09:18:00",
