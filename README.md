@@ -1,8 +1,13 @@
-# News for 2026-10-28 12:21
+# News for 2026-10-28 13:43
 
 Previous day: [2026-10-27](./data/2026-10-27.md)
 
 ## ua.korrespondent.net
+13:14 [Україна тестує важкі дрони для евакуації поранених](https://ua.korrespondent.net/ukraine/4924135-ukraina-testuie-vazhki-drony-dlia-evakuatsii-poranenykh)<br>
+13:10 [Росія вдарила дроном по Харкову: є жетрва та постраждалі](https://ua.korrespondent.net/city/kharkov/4924133-rosiia-vdaryla-dronom-po-kharkovu-ye-zhetrva-ta-postrazhdali)<br>
+12:50 [Посівна озимих в Україні: відомо, скільки гектарів вже засіяно](https://ua.korrespondent.net/business/economics/4924126-posivna-ozymykh-v-ukraini-vidomo-skilky-hektariv-vzhe-zasiiano)<br>
+12:49 [Білл Гейтс назвав чотири професії, які ШІ не зможе замінити](https://ua.korrespondent.net/tech/technews/4924092-bill-heits-nazvav-chotyry-profesii-yaki-shi-ne-zmozhe-zaminyty)<br>
+12:37 [Нідерланди виділили €1,2 млрд допомоги Україні](https://ua.korrespondent.net/world/4924122-niderlandy-vydilyly-12-mlrd-dopomohy-ukraini)<br>
 12:16 [В Росії готуються заблокувати Apple і Microsoft](https://ua.korrespondent.net/world/russia/4924112-v-rosii-hotuuitsia-zablokuvaty-Apple-i-Microsoft)<br>
 12:11 [На Sotheby's за $47,3 млн продали скелет тиранозавра](https://ua.korrespondent.net/tech/science/4924067-na-Sothebys-za-473-mln-prodaly-skelet-tyranozavra)<br>
 12:00 [Чому плачуть вікна](https://ua.korrespondent.net/articles/4924073-chomu-plachut-vikna)<br>
@@ -36,13 +41,33 @@ Previous day: [2026-10-27](./data/2026-10-27.md)
 08:36 [“Doncic es ridículo, tío”: pasen y vean a Luka ‘burreando’ a un defensa](https://as.com/baloncesto/videos/doncic-es-ridiculo-tio-pasen-y-vean-a-luka-burreando-a-un-defensa-f202610-v/)<br>
 
 ## www.elperiodico.com
+13:43 [¿Qué es el sistema LZB y por qué podría haber fallado en el accidente de tren de Toledo?](https://www.elperiodico.com/es/sociedad/20261028/sistema-lzb-haber-fallado-accidente-135843069)<br>
+13:42 [Pablo, superviviente del accidente en Urda: "Tenía asiento en el vagón 7, pero me cambié al 6 porque vi sitios libres"](https://www.elperiodico.com/es/sociedad/20261028/pablo-superviviente-accidente-urda-asiento-vagon-sitios-libres-135845856)<br>
+13:40 [Los médicos catalanes, en el primer día de huelga indefinida: "Esto no tiene parangón. Salut debe sentarse a negociar"](https://www.elperiodico.com/es/sanidad/20261028/medicos-catalanes-primer-dia-huelga-indefinida-govern-sentarse-a-negociar-135841442)<br>
+13:32 [La Policía Nacional recibe seis denuncias en Aragón por cuentas 'curis' que humillan a alumnos y profesores](https://www.elperiodico.com/es/sociedad/20261028/policia-nacional-recibe-seis-denuncias-135832169)<br>
+13:14 [Experta en RRHH:  “Prioriza lo relevante, explica lo que sabes hacer y deja de confundir un currículum completo con un currículum útil”](https://www.elperiodico.com/es/economia/20261028/experta-rrhh-prioriza-relevante-explica-sabes-hacer-deja-confundir-completo-con-curriculum-util-dv-135842002)<br>
+13:10 [El tramo del accidente de tren de Toledo tenía a medio sustituir su sistema de seguridad LZB de origen por el ERTMS europeo](https://www.elperiodico.com/es/sociedad/20261028/tramo-accidente-tren-toledo-tenia-trenes-ave-yebenes-alta-velocidad-mortal-lzb-ertms-135841009)<br>
+13:06 [Iñaki, pasajero de un vagón del Iryo que cayó por el terraplén: "Aquello era dantesco"](https://www.elperiodico.com/es/sociedad/20261028/testimonios-pasajeros-iryo-ave-accidente-ferroviario-urda-toledo-135843656)<br>
+13:00 [Alexia Hartmann, médica aérea y de expedición, sobre el Everest: "Es imposible rescatar a alguien en esas circunstancias"](https://www.elperiodico.com/es/sociedad/20261028/alexia-hartmann-medica-aerea-rescates-everest-helicopteros-no-pueden-volar-dv-et-135635507)<br>
+12:49 [José Coronado (69 años), actor: "Tengo una hectárea de terreno en Toledo y me he hecho mi propio microhábitat"](https://www.elperiodico.com/es/gente/20261028/jose-coronado-69-anos-actor-terreno-toledo-dv-et-135840791)<br>
+12:49 [La exministra Fátima Báñez, entre los desaparecidos del accidente ferroviario en Toledo](https://www.elperiodico.com/es/sociedad/20261028/exministra-fatima-banez-desaparecidos-accidente-135842541)<br>
+12:48 [Así asisten a pasajeros heridos por el choque de trenes en Toledo](https://www.elperiodico.com/es/fotos/sociedad/asisten-heridos-choque-trenes-toledo-fotos-135842388)<br>
+12:45 [El éxito de Cruzcampo en Reino Unido hace crecer un 9,7% la facturación del grupo Heineken en el tercer trimestre](https://www.elperiodico.com/es/economia/20261028/cruzcampo-reino-unido-crecimiento-heineken-tercer-trimestre-2026-135842253)<br>
+12:43 [La perfumera Puig arranca un plan para alcanzar los 8.000 millones en ventas y ser la cuarta mayor empresa de belleza del mundo en 2032](https://www.elperiodico.com/es/economia/20261028/perfumera-puig-plan-crecimiento-2032-8-000-millones-135842208)<br>
+12:35 [Deutsche Bank eleva un 7% su beneficio hasta septiembre, con 5.140 millones de euros](https://www.elperiodico.com/es/economia/20261028/deutsche-bank-eleva-7-beneficio-135841722)<br>
+12:30 [Cinesa se lanza a la conquista de la Generación Z con una plataforma de eventos culturales exclusivos en torno a la gran pantalla](https://www.elperiodico.com/es/ocio-y-cultura/20261028/cinesa-room-apuesta-por-atraer-salas-de-cine-generacion-z-maraton-de-terror-halloween-135818670)<br>
+12:27 [El director general de la OMS, Tedros Adhanom, tras el accidente ferroviario: "Un día desgarrador para España"](https://www.elperiodico.com/es/sanidad/20261028/director-general-oms-tedros-adhanom-accidente-ferroviario-dia-desgarrador-espana-135839416)<br>
+12:25 [Atención a los heridos en el accidente de tren en el pabellón de deportes de Urda](https://www.elperiodico.com/es/videos/sociedad/atencion-heridos-accidente-tren-polideportivo-video/135840950.shtml)<br>
+12:23 [Nueve meses de Adamuz, el precedente de la tragedia ferroviaria de Toledo que mostró la fragilidad de la Alta Velocidad](https://www.elperiodico.com/es/economia/20261028/nueve-meses-adamuz-tragedia-ferroviaria-135840960)<br>
 12:17 [Huelga de médicos en Barcelona este miércoles](https://www.elperiodico.com/es/fotos/en-imagenes/huelga-medicos-barcelona-miercoles-fotos-135839986)<br>
 12:00 [Montse Cespedosa, experta en hipotecas, sobre el ahorro: "No te vayas de vacaciones. No te gastes en un móvil de mil euros, ¿para qué? Hay móviles de 150 euros"](https://www.elperiodico.com/es/economia/20261028/montse-cespedosa-experta-hipotecas-aparentar-demasiado-dv-et-135625611)<br>
 11:59 [El nuevo proyecto musical de Manolo Kabezabolo charra en aragonés: "Las lenguas de cada pueblo se deben defender"](https://www.elperiodico.com/es/ocio-y-cultura/20261028/nuevo-proyecto-musical-manolo-kabezabolo-135831829)<br>
 11:41 [Jennifer Lawrence confiesa su operación de pecho tras ser madre y lanza su propia marca de productos para el pelo: "Quiero ser una madre sexy"](https://www.elperiodico.com/es/gente/20261028/jennifer-lawrence-operacion-pecho-mes-marca-productos-pelo-135836151)<br>
 11:40 [Los médicos llegan a la conselleria de salut](https://www.elperiodico.com/es/videos/salud/medicos-llegan-conselleria-salut/135837980.shtml)<br>
+11:21 [Nuevas imágenes del accidente de tren en Toledo: aumenta el número de fallecido](https://www.elperiodico.com/es/videos/sociedad/nuevas-imagenes-accidente-tren-toledo/135837124.shtml)<br>
 10:45 [Las personas sin techo de Barcelona mueren, de media, 34 años antes que el resto](https://www.elperiodico.com/es/sociedad/20261028/personas-sin-techo-sin-hogar-barcelona-mueren-media-antes-resto-sinhogarismo-135827356)<br>
 10:06 [Los estudiantes urgen a desconvocar el conflicto de las colonias: "Solo estás en el instituto una vez en la vida, no queremos renunciar a las salidas"](https://www.elperiodico.com/es/sociedad/20261028/instituto-vez-vida-queremos-renunciar-colonias-salidas-adolescentes-barcelona-135802330)<br>
+10:00 [Imágenes del accidente de tren en Toledo tomadas desde el interior de un vagón](https://www.elperiodico.com/es/videos/sociedad/imagenes-choque-trenes-toledo-tomadas-interior-vagon-video/135832834.shtml)<br>
 10:00 [Aleix vive aislado en una masía catalana trabajando como cestero: "Estos oficios antiguos y todo lo que es manual se está perdiendo; estamos en un punto en el que vamos un poco justitos"](https://www.elperiodico.com/es/economia/20261028/masia-catalana-500-anos-aislado-vida-autosuficiente-biert-girona-aleix-dv-et-135485367)<br>
 09:26 [Meghan Markle prepara su regreso a Australia con sus hijos mientras su padre es investigado por pornografía infantil](https://www.elperiodico.com/es/gente/20261028/meghan-markle-australia-hijos-padre-pornografia-infantil-135831563)<br>
 09:18 [Huelga de médicos en Catalunya y resto de España, en directo | Última hora de la manifestación en Barcelona y servicios mínimos en CAP y hospitales](https://www.elperiodico.com/es/sociedad/20261028/huelga-medicos-cataluna-espana-servicios-minimos-ultima-hora-directo-135830579)<br>
