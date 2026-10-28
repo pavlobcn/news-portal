@@ -1,5 +1,113 @@
 [
   {
+    "title": "Una gala desde el corral de la pacheca",
+    "link": "https://www.elperiodico.com/es/tele/20261028/gala-corral-pacheca-balon-oro-video-sergi-mas-135815571",
+    "pubDate": "2026-10-28 07:00:45",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Lepas presenta el Aura, un 'concept car' que define su futuro electrificado",
+    "link": "https://www.elperiodico.com/es/motor/20261028/lepas-presenta-aura-primer-concept-car-135793899",
+    "pubDate": "2026-10-28 07:00:42",
+    "category": "",
+    "description": "<h2>El primer prototipo de la firma debuta en el Chery International User Summit 2026 como anticipo de su futura gama electrificada</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La Cultura del Talento reúne a 300 jóvenes para imaginar el futuro a través de la tecnología, el pensamiento crítico y la creatividad",
+    "link": "https://www.elperiodico.com/es/economia/20261028/cultura-talento-reune-300-jovenes-bc-135775909",
+    "pubDate": "2026-10-28 06:59:36",
+    "category": "",
+    "description": "<h2>¿Cómo será el mundo que viene? ¿Qué papel jugarán la inteligencia artificial, la cultura o el talento de las nuevas generaciones? Son preguntas que no tienen una única respuesta, pero que merecen ser compartidas. Con ese espíritu, la Fundación Banco Sabadell reunió el pasado 21 de octubre a cerca de 300 jóvenes en Barcelona para reflexionar, intercambiar ideas y descubrir nuevas formas de mirar el futuro.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У МЮ визначилися, чи залишиться тренер у клубі",
+    "link": "https://ua.korrespondent.net/sport/football/4923998-u-mui-vyznachylysia-chy-zalyshytsia-trener-u-klubi",
+    "pubDate": "2026-10-28 06:55:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613706.jpg\">Керівництво манкуніанців ухвалило рішення щодо довіри Майклу Карріку, встановивши дедлайн для покращення результатів команди.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Трамп готує зустріч Зеленського і Путіна",
+    "link": "https://ua.korrespondent.net/world/4923999-tramp-hotuie-zustrich-zelenskoho-i-putina",
+    "pubDate": "2026-10-28 06:50:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613707.jpg\">Американський президент розраховує на швидку зустріч із лідером України та російським правителем.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Дебютний м’яч українця приніс Жироні перемогу",
+    "link": "https://ua.korrespondent.net/sport/football/4923996-debuitnyi-miach-ukraintsia-prynis-zhyroni-peremohu",
+    "pubDate": "2026-10-28 06:37:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613692.jpg\">Український нападник відзначився першим забитим м'ячем у складі іспанського клубу, зробивши вагомий внесок у вихід команди до наступного раунду турніру.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El sindicato Metges de Catalunya arranca este miércoles la huelga indefinida en la sanidad pública",
+    "link": "https://www.elperiodico.com/es/sanidad/20261028/metges-cataluna-mc-inicia-huelga-medica-indefinida-135814203",
+    "pubDate": "2026-10-28 06:35:00",
+    "category": "",
+    "description": "<h2 class=\"item\">La movilización comenzará a las 9 horas en la avenida Diagonal y finalizará en la sede del departamento de Salut</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20261007/metges-catalunya-mantiene-huelga-indefinida-cataluna-medicos-135090523\" >Metges de Catalunya mantiene la huelga indefinida a partir del 28 de octubre y se desmarca de la desconvocatoria en el resto de España</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Удар по Харкову: кількість постраждалих зросла",
+    "link": "https://ua.korrespondent.net/city/kharkov/4923994-udar-po-kharkovu-kilkist-postrazhdalykh-zrosla",
+    "pubDate": "2026-10-28 06:34:00",
+    "category": "Харків",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613680.jpg\">Унаслідок російського дронового удару постраждали п'ятеро людей, серед них - 4-річна дитина.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los médicos vuelven a la huelga en seis comunidades para \"visibilizar el malestar\" ante el bloqueo de las negociaciones regionales",
+    "link": "https://www.elperiodico.com/es/sanidad/20261028/medicos-vuelven-huelga-seis-comunidades-visibilizar-malestar-negociaciones-regionales-135814008",
+    "pubDate": "2026-10-28 06:33:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El aplazamiento del paro nacional no ha supuesto la suspensión de las movilizaciones en Madrid, Catalunya, Comunidad Valenciana, Canarias, Andalucía o Castilla-La Mancha</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20261027/metges-cataluna-mc-inicia-huelga-medica-indefinida-135814203\">El sindicato Metges de Catalunya arranca este miércoles la huelga indefinida en la sanidad pública</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Турецьке дербі перетворилося на справжнє побоїще",
+    "link": "https://ua.korrespondent.net/sport/football/4923952-turetske-derbi-peretvorylosia-na-spravzhnie-poboische",
+    "pubDate": "2026-10-28 06:18:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613373.jpg\">Шалені емоції та повна втрата контролю: принципове протистояння в Туреччині спалахнуло масовою бійкою після свистка.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Cómo ser Lamine Yamal: un equipo sólido de asesores, actitud de superestrella y unas redes sociales que dirige él mismo",
+    "link": "https://www.elperiodico.com/es/deportes/20261028/lamine-yamal-asesores-actitud-de-superestrella-redes-sociales-135814204",
+    "pubDate": "2026-10-28 06:15:38",
+    "category": "",
+    "description": "<h2>El crack azulgrana regresa a Barcelona sin el premio a mejor jugador que habría disparado aún más su marca. De sus necesidades económicas, jurídicas y de imagen se ocupa una quincena de personas en una oficina de Les Corts</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Генштаб ЗСУ назвав втрати російської армії за добу",
+    "link": "https://ua.korrespondent.net/ukraine/4923991-henshtab-zsu-nazvav-vtraty-rosiiskoi-armii-za-dobu",
+    "pubDate": "2026-10-28 06:15:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613667.jpg\">Минулої доби ЗСУ ліквідували 1510 окупантів. Знищено 21 артсистему, сім НРК, 1543 безпілотника та дві ракети.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Mbappé vive atrapado entre los fantasmas de Ronaldo e Ibrahimovic",
     "link": "https://www.elperiodico.com/es/deportes/20261028/mbappe-vive-atrapado-fantasmas-ronaldo-135827148",
     "pubDate": "2026-10-28 06:01:57",
