@@ -1,8 +1,11 @@
-# News for 2026-10-28 16:14
+# News for 2026-10-28 18:14
 
 Previous day: [2026-10-27](./data/2026-10-27.md)
 
 ## ua.korrespondent.net
+17:28 [Свята 29 жовтня 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4924229-sviata-29-zhovtnia-2026-roku-istoriia-tradytsii)<br>
+17:01 [Атака на потяг із біженцями: у Польщі провели навчання](https://ua.korrespondent.net/world/4924218-ataka-na-potiah-iz-bizhentsiamy-u-polschi-provely-navchannia)<br>
+16:52 [Жінка померла після того, як дослухалася до порад ChatGPT](https://ua.korrespondent.net/tech/technews/4924222-zhinka-pomerla-pislia-toho-yak-doslukhalasia-do-porad-ChatGPT)<br>
 16:11 [В Instagram з'являться відео тривалістю до 90 хвилин](https://ua.korrespondent.net/tech/technews/4924183-v-Instagram-ziavliatsia-video-tryvalistui-do-90-khvylyn)<br>
 15:41 [Зіткнення потягів в Іспанії: кількість загиблих зросла до 64](https://ua.korrespondent.net/world/4924198-zitknennia-potiahiv-v-ispanii-kilkist-zahyblykh-zrosla-do-64)<br>
 15:11 [Місце останнього спочинку Євгена Леонова](https://ua.korrespondent.net/showbiz/culture/4924144-mistse-ostannoho-spochynku-yevhena-leonova)<br>
@@ -47,10 +50,20 @@ Previous day: [2026-10-27](./data/2026-10-27.md)
 03:37 [Військові Польщі загубили свій безпілотник у Балтійському морі](https://ua.korrespondent.net/world/4923980-viiskovi-polschi-zahubyly-svii-bezpilotnyk-u-baltiiskomu-mori)<br>
 
 ## as.com
+18:06 [El Barça echa el ojo a Dwight Powell](https://as.com/baloncesto/acb/el-barca-echa-el-ojo-a-dwight-powell-f202610-n/)<br>
+13:55 [Pitada de indignación al palco en el partido contra el Real Madrid](https://as.com/baloncesto/pitada-inesperada-al-palco-en-el-partido-contra-el-real-madrid-f202610-n/)<br>
 11:37 [Théo Maledon, de señalado a imprescindible](https://as.com/baloncesto/acb/theo-maledon-de-senalado-a-imprescindible-f202610-n/)<br>
 08:36 [“Doncic es ridículo, tío”: pasen y vean a Luka ‘burreando’ a un defensa](https://as.com/baloncesto/videos/doncic-es-ridiculo-tio-pasen-y-vean-a-luka-burreando-a-un-defensa-f202610-v/)<br>
 
 ## www.elperiodico.com
+23:59 [Tiempo en Catalunya mañana jueves: bajan las temperaturas hasta 5 grados y llegan lluvias intensas el fin de semana](https://www.elperiodico.com/es/tiempo/20261028/tiempo-catalunya-hoy-jueves-temperaturas-llegan-lluvias-dv-135852702)<br>
+18:11 [Juanma Lorente, abogado, avisa a los trabajadores que compran online durante su jornada laboral: "Es una razón de despido disciplinario"](https://www.elperiodico.com/es/economia/20261028/abogado-juanma-lorente-avisa-trabajadores-compras-jornada-laboral-dv-129146391)<br>
+17:59 [Estados Unidos afirma que empezará a construir una base en la Luna este diciembre y que lanzará misiones al satélite a "un ritmo casi mensual"](https://www.elperiodico.com/es/sociedad/20261028/estados-unidos-base-lunar-construccion-diciembre-misiones-135852124)<br>
+17:55 [Baja el número de cuerpos no normativos en la ficción española: apenas representan el 9 % de los personajes](https://www.elperiodico.com/es/ocio-y-cultura/20261028/baja-numero-cuerpos-normativos-ficcion-135857735)<br>
+17:48 [El Govern aboga por "prescribir cultura" para el bienestar como se hace con el ejercicio](https://www.elperiodico.com/es/ocio-y-cultura/20261028/govern-aboga-prescribir-cultura-bienestar-135857696)<br>
+17:31 ['Maxxing', elegida como la palabra del año: ¿qué significa y de dónde surge?](https://www.elperiodico.com/es/sociedad/20261028/maxxing-palabra-ano-significado-dv-135819041)<br>
+17:23 [Juan Mayorga pone a dos perros a hablar en el escenario del Romea: "Hay millones de seres humanos que son tratados como animales"](https://www.elperiodico.com/es/ocio-y-cultura/20261028/juan-mayorga-palabra-de-perro-romea-estreno-135854782)<br>
+17:00 [María Cristina Clemente, notaria, sobre las rampas y los ascensores para personas mayores: "La comunidad de propietarios no puede desentenderse"](https://www.elperiodico.com/es/economia/20261028/notaria-rampas-accesibilidad-comunidad-vecinos-obligacion-dv-135848713)<br>
 16:13 [Cronología del accidente de dos trenes en Toledo: En solo una hora de viaje, una de las mayores tragedias ferroviarias de España](https://www.elperiodico.com/es/sociedad/20261028/cronologia-accidente-trenes-ave-iryo-toledo-135851172)<br>
 16:08 [Marc Giró (52 años), sobre la vivienda: "Si tanto te preocupa que tu inquilino no te pueda pagar y se convierta en un okupa, ¿por qué no le bajas el precio al alquiler?"](https://www.elperiodico.com/es/gente/20261028/marc-giro-presentador-pequenos-propietarios-vivienda-subida-alquiler-dv-135838748)<br>
 15:45 [Por qué los trenes no llevan cinturón de seguridad, según los expertos: el accidente de tren de Toledo reabre el debate](https://www.elperiodico.com/es/trafico-y-transportes/20261028/por-que-trenes-no-llevan-cinturon-seguridad-expertos-accidente-toledo-dv-135850352)<br>
@@ -101,6 +114,7 @@ Previous day: [2026-10-27](./data/2026-10-27.md)
 10:06 [Los estudiantes urgen a desconvocar el conflicto de las colonias: "Solo estás en el instituto una vez en la vida, no queremos renunciar a las salidas"](https://www.elperiodico.com/es/sociedad/20261028/instituto-vez-vida-queremos-renunciar-colonias-salidas-adolescentes-barcelona-135802330)<br>
 10:00 [Imágenes del accidente de tren en Toledo tomadas desde el interior de un vagón](https://www.elperiodico.com/es/videos/sociedad/imagenes-choque-trenes-toledo-tomadas-interior-vagon-video/135832834.shtml)<br>
 10:00 [Aleix vive aislado en una masía catalana trabajando como cestero: "Estos oficios antiguos y todo lo que es manual se está perdiendo; estamos en un punto en el que vamos un poco justitos"](https://www.elperiodico.com/es/economia/20261028/masia-catalana-500-anos-aislado-vida-autosuficiente-biert-girona-aleix-dv-et-135485367)<br>
+09:57 [El Ibex 35 cae un 1,45% y pierde los 19.000 puntos, lastrado por el desplome del 5,7% de Santander tras sus resultados](https://www.elperiodico.com/es/economia/20261028/ibex-35-cae-0-5-135832759)<br>
 09:26 [Meghan Markle prepara su regreso a Australia con sus hijos mientras su padre es investigado por pornografía infantil](https://www.elperiodico.com/es/gente/20261028/meghan-markle-australia-hijos-padre-pornografia-infantil-135831563)<br>
 09:18 [Huelga de médicos en Catalunya y resto de España, en directo | Última hora de la manifestación en Barcelona y servicios mínimos en CAP y hospitales](https://www.elperiodico.com/es/sociedad/20261028/huelga-medicos-cataluna-espana-servicios-minimos-ultima-hora-directo-135830579)<br>
 09:15 [Aena sobrevuela la crisis de Oriente Medio y gana 1.774,7 millones de euros hasta septiembre, un 12,4% más](https://www.elperiodico.com/es/economia/20261028/aena-sobrevuela-crisis-oriente-medio-resultados-septiembre-2026-135831798)<br>
