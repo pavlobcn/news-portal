@@ -1,0 +1,20 @@
+[
+  {
+    "title": "В Ізраїлі на виборах зафіксували найбільшу явку за останні 27 років",
+    "link": "https://ua.korrespondent.net/world/4923969-v-izraili-na-vyborakh-zafiksuvaly-naibilshu-yavku-za-ostanni-27-rokiv",
+    "pubDate": "2026-10-28 00:32:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613443.jpg\">Опозиційний блок на чолі з Гаді Айзенкотом має незначну перевагу над коаліцією чинного прем'єра Нетаньягу.",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Коноплю вперше запросили грати в стартовому складі Боруссії",
+    "link": "https://ua.korrespondent.net/sport/football/4923965-konoplui-vpershe-zaprosyly-hraty-v-startovomu-skladi-borussii",
+    "pubDate": "2026-10-28 00:02:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613388.jpg\">Команда Боруссії Менхенгладбах виграла матч Кубка Німеччини за участю українського захисника Юхима Коноплі.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  }
+]
