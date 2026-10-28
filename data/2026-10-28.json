@@ -1,5 +1,293 @@
 [
   {
+    "title": "Mbappé vive atrapado entre los fantasmas de Ronaldo e Ibrahimovic",
+    "link": "https://www.elperiodico.com/es/deportes/20261028/mbappe-vive-atrapado-fantasmas-ronaldo-135827148",
+    "pubDate": "2026-10-28 06:01:57",
+    "category": "",
+    "description": "<h2>A punto de cumplir los 28, el francés no ha ganado nunca el Balón de Oro ni la Champions League y en breve completará dos años sin ganar un título con el Real Madrid </h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Violencia calcada, carteles imitados, consignas similares… las sospechas de las policías en Francia, Italia, Alemania y España sobre los disturbios y saqueos",
+    "link": "https://www.elperiodico.com/es/politica/20261028/violencia-imitada-carteleria-calcada-mensajes-iguales-disturbios-europa-saqueos-135826700",
+    "pubDate": "2026-10-28 06:01:53",
+    "category": "",
+    "description": "<h2 style=\"text-align: justify;\">Los investigadores coinciden en el papel acelerador de las redes sociales y difieren sobre si hay injerencia exterior</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El PSOE vuelve a lanzar una campaña de microcréditos para los gastos electorales: en 2023 recaudó casi seis millones de euros",
+    "link": "https://www.elperiodico.com/es/politica/20261028/psoe-vuelve-lanzar-campana-microcreditos-135825953",
+    "pubDate": "2026-10-28 06:01:51",
+    "category": "",
+    "description": "<h2 class=\"item\">Los socialistas tardaron menos de un año en devolver el dinero hace tres años</h2><h2 class=\"item\">Hoy ofrecen un 3,75% anual, 0,25 puntos más que en los anteriores comicios generales</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Casi 10 millones de horas extra no pagadas cada mes esperan al nuevo registro de jornada",
+    "link": "https://www.elperiodico.com/es/economia/20261028/horas-extra-no-pagadas-evolucion-epa-registro-de-jornada-135821933",
+    "pubDate": "2026-10-28 06:01:49",
+    "category": "",
+    "description": "<h2>La vicepresidenta segunda, Yolanda Díaz, prometió suprimir el control horario a papel y boli antes de las elecciones, pero entre los sindicatos sobrevuelan dudas de que cumpla</h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Disturbios en Barcelona, miedo y oportunismo político",
+    "link": "https://www.elperiodico.com/es/opinion/20261028/disturbios-barcelona-miedo-oportunismo-politico-135823296",
+    "pubDate": "2026-10-28 06:01:47",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "El Tibidabo cumple 125 años: del pionero doctor Andreu a la Cuca de Llum",
+    "link": "https://www.elperiodico.com/es/barcelona/20261028/tibidabo-cumple-125-anos-pionero-135821715",
+    "pubDate": "2026-10-28 06:01:40",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Tibidabo cumple 125 años: del pionero doctor Andreu a la Cuca de Llum",
+    "link": "https://www.elperiodico.com/es/barcelona/tibidabo-125-anos-historia-135821593-rm/index.html",
+    "pubDate": "2026-10-28 06:01:40",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El PP relega a sus miembros de la Mesa del Congreso a segundos y terceros puestos en las listas para el 29N",
+    "link": "https://www.elperiodico.com/es/politica/20261028/pp-relega-miembros-mesa-congreso-135820470",
+    "pubDate": "2026-10-28 06:01:34",
+    "category": "",
+    "description": "<h2>Isaura Leal (PSOE) y Gerardo Pisarello (En Comú Podem), miembros de este órgano, no concurrir a las elecciones por distintos motivos</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "La Audiencia Nacional autoriza la extradición a Marruecos de un integrante de una red de tráfico de personas que operaba cerca de Melilla",
+    "link": "https://www.elperiodico.com/es/politica/20261028/audiencia-nacional-autoriza-extradicion-marruecos-135820098",
+    "pubDate": "2026-10-28 06:01:34",
+    "category": "",
+    "description": "<h2>La Fiscalía General del Rey ante el Tribunal de Apelación de Nador había emitido una orden internacional de búsqueda y captura de este ciudadano marroquí, que fue arrestado en Girona</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Gobierno confía en la colaboración de TikTok para aislar los actos vandálicos de las protestas pacíficas",
+    "link": "https://www.elperiodico.com/es/politica/20261028/gobierno-colaboracion-tiktok-disturbios-protestas-135819464",
+    "pubDate": "2026-10-28 06:01:32",
+    "category": "",
+    "description": "<h2>Desde el Ejecutivo rechazan asociar los disturbios en Barcelona y Bilbao con un clima de “caos”, como aseguran PP y Vox, y aseguran los operativos para evitar réplicas</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Las dos primas que tienen los jugadores del AE Prat por eliminar al Athletic de la Copa el jueves",
+    "link": "https://www.elperiodico.com/es/deportes/20261028/primas-jugadores-ae-prat-eliminar-135815898",
+    "pubDate": "2026-10-28 06:01:32",
+    "category": "",
+    "description": "<h2>El restaurante Gastro Garatxe invitará a toda la plantilla a un menú degustación como premio añadido al que les dará club</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El Supremo estudia si extiende a Chafarinas, Perejil y el resto de islotes la prohibición de las devoluciones en caliente al llegar a nado a Ceuta y Melilla",
+    "link": "https://www.elperiodico.com/es/politica/20261028/supremo-estudia-extiende-chafarinas-perejil-135817825",
+    "pubDate": "2026-10-28 06:01:27",
+    "category": "",
+    "description": "<h2>Una sentencia del TSJ de Andalucía consideró que a una familia siria que llegó a la Isla del Congreso no le era aplicable el rechazo inmediato porque entre \"las Islas Chafarinas y Marruecos no hay puestos fronterizos\"</h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Media docena de ciudades importan el veto de Barcelona a los supermercados 24 h para proteger al comercio de barrio",
+    "link": "https://www.elperiodico.com/es/barcelona/20261028/media-docena-ciudades-importan-veto-barcelona-supercados-24-h-proteger-comercio-de-barrio-135765931",
+    "pubDate": "2026-10-28 06:01:27",
+    "category": "",
+    "description": "<h2>Terrassa, Santa Coloma y Sant Adrià se suman a la suspensión de licencias, mientras Badalona, Sant Cugat y Sabadell estudian restricciones</h2><h2>Los municipios del Llobregat han regulado los horarios de actividad comercial y han puesto límites a horarios nocturnos </h2><h2>CONTEXTO | <a href=\"https://www.elperiodico.com/es/barcelona/20260520/barcelona-suspende-nuevas-licencias-supermercados-24h-130437936\">Barcelona suspende la apertura de nuevos supermercados 24 horas durante un año para regularlos</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "El goteo crónico de cierres empuja a Barcelona a plantearse mecanismos imaginativos para proteger los comercios emblemáticos",
+    "link": "https://www.elperiodico.com/es/barcelona/20261028/goteo-cierres-comercios-plantear-mecanismos-proteger-establecimientos-emblematicos-135791344",
+    "pubDate": "2026-10-28 06:01:26",
+    "category": "",
+    "description": "<h2>El Ayuntamiento ha licitado la revisión del catálogo de tiendas protegidas y confía en impulsar adquisiciones vía tanteo y retracto</h2><h2>CONTEXTO | <a href=\"https://www.elperiodico.com/es/barcelona/20261027/media-docena-ciudades-importan-veto-barcelona-supercados-24-h-proteger-comercio-de-barrio-135765931\" target=\"_blank\">Media docena de ciudades importan el veto de Barcelona a los supermercados 24 h para proteger al comercio de barrio</a></h2>",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Rosa Ortiz: “El mayor problema era cuando decías que trabajabas en el Tibidabo y te preguntaban si estaba abierto”",
+    "link": "https://www.elperiodico.com/es/barcelona/20261028/entrevista-rosa-ortiz-parque-atracciones-tibidabo-barcelona-mayor-problema-gente-pensaba-estaba-cerrado-135572859",
+    "pubDate": "2026-10-28 06:01:24",
+    "category": "",
+    "description": "<h2>La directora del parque de atracciones se jubilará el día 31 de octubre, 48 horas después del 125º aniversario de la instalación, tras 24 años al frente de la nave</h2><h2>CONTEXTO | <a href=\"https://www.elperiodico.com/es/barcelona/20261012/parque-atracciones-tibidabo-celebra-fiesta-125-aniversario-barcelona-135253421\">El parque de atracciones del Tibidabo celebra su 125º aniversario con una fiesta</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Nabiha Syed y Zeina Abi Assy: \"Si la IA solo va a hacerte más fácil escribir correos electrónicos, no merece la pena gastar esa energía\"",
+    "link": "https://www.elperiodico.com/es/tecnologia/20261028/nabiha-syed-mozilla-mozfest-barcelona-ia-tecnologia-135757570",
+    "pubDate": "2026-10-28 06:01:17",
+    "category": "",
+    "description": "<h2>EL PERIÓDICO entrevista a la directora de Mozilla Foundation y a la directora del Mozilla Festival, un encuentro para debatir de forma comunitaria el futuro de internet que se celebra esta semana en Barcelona</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Jungle trae su sensual neosoul al Sant Jordi: “Cada vez es más difícil estar a la altura de lo que se espera de un concierto”",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261028/jungle-trae-sensual-neosoul-sant-135799167",
+    "pubDate": "2026-10-28 06:01:15",
+    "category": "",
+    "description": "<h2 class=\"item\">El grupo británico actúa este miércoles, por primera vez, en el escenario de Montjuïc, donde presentará su quinto álbum, ‘Sunshine’, con cadencias bailables e influencias brasileñas, en un espectáculo que describe como enérgico y participativo</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Francisco Sierra (Monzo): “España es un país muy avanzado en banca digital, pero los clientes no están del todo satisfechos”",
+    "link": "https://www.elperiodico.com/es/economia/20261028/francisco-sierra-monzo-espana-pais-avanzado-banca-digital-clientes-no-satisfechos-135801167",
+    "pubDate": "2026-10-28 06:01:12",
+    "category": "",
+    "description": "<h2>El banco digital británico desembarca en España con cuentas gratuitas, Bizum y una remuneración del 4% para los primeros 5.000 euros durante un año, sin exigir nómina ni recibos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Luz de fallo motor encendida: cuándo puedes seguir circulando y cuándo debes llamar a la grúa",
+    "link": "https://www.elperiodico.com/es/motor/20261028/luz-fallo-motor-encendida-puedes-circular-o-llamar-grua-135794248",
+    "pubDate": "2026-10-28 06:01:08",
+    "category": "",
+    "description": "<h2>También conocido como testigo MIL, este símbolo de color amarillo representa el motor del coche y avisa de varios posibles problemas</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Samanta Villar: \"Soy un bicho raro maravilloso\"",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20261028/samanta-villar-bicho-raro-maravilloso-135132066",
+    "pubDate": "2026-10-28 06:01:02",
+    "category": "",
+    "description": "<h2 class=\"item\">\"Mi motor no es la valentía. La curiosidad, sí\"</h2><h2 class=\"item\">\"Fueron dos años de terapia semanal: aprendí quién soy y por qué. . ¡El gran aprendizaje fue dejar de juzgarme a mí misma y dejar de juzgar a los demás, y eso es maravilloso!\"</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Entrevista 'En confianza' con la periodista Samanta Villar",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/entrevista-confianza-periodista-samanta-villar-video/135136288.shtml",
+    "pubDate": "2026-10-28 05:59:58",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Підсумки 27.10: тиша в Олешках і розмова з Путіним",
+    "link": "https://ua.korrespondent.net/ukraine/4923975-pidsumky-2710-tysha-v-oleshkakh-i-rozmova-z-putinym",
+    "pubDate": "2026-10-28 05:57:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613612.jpg\">У Кремлі розповіли, що Путін сказав європейцям. Зустріч Зеленський-Путін: у Кремлі зробили заяву. \"Режим тиші\" розширили поза Олешки. Кореспондент.net виділяє головні події вчорашнього дня.",
+    "topic": "підсумки (за попередній день, наприклад)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Генсек ООН призначив своїм помічником з розмінувань дипломата РФ",
+    "link": "https://ua.korrespondent.net/world/4923989-hensek-oon-pryznachyv-svoim-pomichnykom-z-rozminuvan-dyplomata-rf",
+    "pubDate": "2026-10-28 05:46:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613653.jpg\">Гліб Десятников \"має більш як 35-річний досвід роботи у сфері міжнародних відносин\", повідомили на сайті Генсека ООН.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Última hora de las elecciones en Israel 2026, en directo | Votación, participación, futuro de Netanyahu y conflicto en Oriente Próximo",
+    "link": "https://www.elperiodico.com/es/internacional/20261028/elecciones-israel-guerra-iran-ultima-hora-directo-130265713",
+    "pubDate": "2026-10-28 05:39:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20260410/guerra-ucrania-rusia-ultima-hora-zelenski-trump-putin-directo-126605559\" >DIRECTO | Guerra Ucrania - Rusia, en directo: última hora</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ni Catar ni MotoGP ven impedimento para que se corra en Doha",
+    "link": "https://www.elperiodico.com/es/deportes/20261028/catar-motogp-ven-impedimento-corra-135826600",
+    "pubDate": "2026-10-28 05:32:28",
+    "category": "",
+    "description": "<h2 class=\"item\">Ya se ha tenido que suspender el Gran Premio de Australia y sería muy llamativo, demasiado preocupante, que se suspenda, por fuerza mayor, bueno, por la Guerra de Irán, el Gran Premio de Catar, que debe disputarse, la semana que viene, en Doha.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "¿A qué sabe el otoño en Lleida? Guía para perderse entre bodegas, olivares centenarios y cocina tradicional",
+    "link": "https://www.elperiodico.com/es/sociedad/20261028/gastronomia-otono-lleida-planes-enoturismo-oleoturismo-bc-135660219",
+    "pubDate": "2026-10-28 05:30:00",
+    "category": "",
+    "description": "<h2>La llegada del otoño transforma la despensa del Pirineo y las Tierras de Lleida en un espectáculo para los sentidos entre viñedos, aceites y ferias</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "США попереджають про нову війну з Іраном - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4923987-ssha-poperedzhauit-pro-novu-viinu-z-iranom-zmi",
+    "pubDate": "2026-10-28 05:24:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613638.jpg\">Американські військові розробляють варіанти нових атак, які мають посилити тиск на Тегеран, пише The Wall Street Journal.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Нетаньягу зробив серію заяв про вибори й Іран",
+    "link": "https://ua.korrespondent.net/world/4923985-netaniahu-zrobyv-seriui-zaiav-pro-vybory-y-iran",
+    "pubDate": "2026-10-28 04:56:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613613.jpg\">Прем'єр Ізраїлю натякнув на нову війну з Іраном і розкритикував екзит-поли за \"погані\" прогнози для його партії.",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "ЗМІ: Путін читав лідерам Північної Європи \"лекцію\"",
+    "link": "https://ua.korrespondent.net/world/worldabus/4923982-zmi-putin-chytav-lideram-pivnichnoi-yevropy-lektsiui",
+    "pubDate": "2026-10-28 04:25:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613599.jpg\">Негайне припинення вогню – головна вимога України – майже не обговорювалася хазяїном Кремля, зазначають джерела.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Військові Польщі загубили свій безпілотник у Балтійському морі",
+    "link": "https://ua.korrespondent.net/world/4923980-viiskovi-polschi-zahubyly-svii-bezpilotnyk-u-baltiiskomu-mori",
+    "pubDate": "2026-10-28 03:37:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613574.jpg\">Інформацію про інцидент оприлюднили лишень через три доби після падіння дрона, що відбулося ще 24 жовтня.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Вибори в Ізраїлі: оприлюднені оновлені екзит-поли",
+    "link": "https://ua.korrespondent.net/world/4923978-vybory-v-izraili-opryluidneni-onovleni-ekzyt-poly",
+    "pubDate": "2026-10-28 02:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613543.jpg\">Оновлені результати цієї ночі показують зовсім іншу картину, яка була після закриття дільниць кілька годин тому.",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Пентагон витратив понад 47 млрд доларів на війну з Іраном",
+    "link": "https://ua.korrespondent.net/world/4923976-pentahon-vytratyv-ponad-47-mlrd-dolariv-na-viinu-z-iranom",
+    "pubDate": "2026-10-28 02:48:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613542.jpg\">Основна частина витрат пов'язана з необхідністю поповнювати запаси озброєння та замінювати військову техніку.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
     "title": "Інцидент зі Starlink віддалив Європу від США - ЗМІ",
     "link": "https://ua.korrespondent.net/world/worldabus/4923973-intsydent-zi-Starlink-viddalyv-yevropu-vid-ssha-zmi",
     "pubDate": "2026-10-28 01:47:00",
