@@ -9,6 +9,60 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Macron pide calma y reabrir los centros educativos tras semanas de protestas",
+    "link": "https://www.elperiodico.com/es/internacional/20261028/macron-pide-calma-reabrir-centros-educativos-semanas-protestas-francia-135869222",
+    "pubDate": "2026-10-28 23:39:37",
+    "category": "",
+    "description": "<h2>\"Lo que quiero, sobre todo, es que puedan volver a las clases, que vuelva la calma\", afirma el mandatario francés</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Підсанкційний Лавров поїде на зустріч G20 у США",
+    "link": "https://ua.korrespondent.net/world/4924301-pidsanktsiinyi-lavrov-poide-na-zustrich-G20-u-ssha",
+    "pubDate": "2026-10-28 23:20:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4614523.jpg\">В МЗС РФ повідомили, що російський диплаомат просуватиме свої ідеї щодо \"багатополярного світу\".",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Манчестер Сіті у Кубку Ліги переміг Брайтон у серії пенальті",
+    "link": "https://ua.korrespondent.net/sport/football/4924305-manchester-siti-u-kubku-lihy-peremih-braiton-u-serii-penalti",
+    "pubDate": "2026-10-28 23:11:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4614522.jpg\">Футболісти Ман Сіті змогли переграти суперника лише тоді, коли настала черга одинадцятиметрових ударів.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Неймовірна помилка. Залізнична аварія в Іспанії",
+    "link": "https://ua.korrespondent.net/world/4924309-neimovirna-pomylka-zaliznychna-avariia-v-ispanii",
+    "pubDate": "2026-10-28 22:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4614551.jpg\">Низка трагедій викликала дискусію щодо безпеки іспанської системи високошвидкісних залізниць, яка донедавна вважалася однією з найкращих у Європі.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Eduarda, la viajera de 17 años que se quedó sujetando la mano de un herido grave del accidente ferroviario de Urda para \"que no se fuera\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261028/eduarda-viajera-agarra-mano-herido-accidente-trenes-urda-135868509",
+    "pubDate": "2026-10-28 22:55:58",
+    "category": "",
+    "description": "<h2>\"He visto cosas que no debería haber visto en mi vida\", aseguraba la joven, que consiguió agarrarse cuando se produjo el coche entre los trenes, lo que evitó que saliera volando</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20261028/accidente-tren-toledo-victimas-reacciones-yebenes-urda-ultima-hora-directo-135832237\" target=\"_blank\">Accidente de trenes en Toledo, última hora en directo | Cifra de muertos, heridos y rescates tras el choque de un Iryo y un AVE</a></h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Сенаті пригрозили перевізникам російського дизпалива",
+    "link": "https://ua.korrespondent.net/world/4924299-u-senati-pryhrozyly-pereviznykam-rosiiskoho-dyzpalyva",
+    "pubDate": "2026-10-28 22:52:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4614521.jpg\">Закон про припинення імпорту російської нафти забороняє ввезення до США російських нафтопродуктів, зокрема дизелю. Цей закон не може односторонньо скасувати жоден президент.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
     "title": "La portada de EL PERIÓDICO del 29 de octubre de 2026",
     "link": "https://www.elperiodico.com/es/sociedad/20261028/portada-periodico-29-octubre-2026-135868439",
     "pubDate": "2026-10-28 22:40:24",
@@ -52,6 +106,15 @@
     "description": "<h2>La concentración, de índole fascista, ha sido convocada por la Falange y Revuelta</h2>",
     "topic": "політика",
     "topic_match_probability": 95
+  },
+  {
+    "title": "Тиша над Дніпром. Як проходить перемир'я в Олешках",
+    "link": "https://ua.korrespondent.net/ukraine/4924304-tysha-nad-dniprom-yak-prokhodyt-peremyria-v-oleshkakh",
+    "pubDate": "2026-10-28 22:01:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4614538.jpg\">Цивільних, які захочуть виїхати з окупованих Олешок на підконтрольну Україні територію, планують спочатку доставити до російської Анапи",
+    "topic": "політика",
+    "topic_match_probability": 85
   },
   {
     "title": "La prensa internacional destaca el accidente de tren de Urda en sus ediciones digitales",
