@@ -1,8 +1,9 @@
-# News for 2026-10-28 20:41
+# News for 2026-10-28 21:18
 
 Previous day: [2026-10-27](./data/2026-10-27.md)
 
 ## ua.korrespondent.net
+20:45 [Росія атакувала цивільне підприємство на Рівненщині: є жертва](https://ua.korrespondent.net/ukraine/4924281-rosiia-atakuvala-tsyvilne-pidpryiemstvo-na-rivnenschyni-ye-zhertva)<br>
 17:28 [Свята 29 жовтня 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4924229-sviata-29-zhovtnia-2026-roku-istoriia-tradytsii)<br>
 17:01 [Атака на потяг із біженцями: у Польщі провели навчання](https://ua.korrespondent.net/world/4924218-ataka-na-potiah-iz-bizhentsiamy-u-polschi-provely-navchannia)<br>
 16:52 [Жінка померла після того, як дослухалася до порад ChatGPT](https://ua.korrespondent.net/tech/technews/4924222-zhinka-pomerla-pislia-toho-yak-doslukhalasia-do-porad-ChatGPT)<br>
@@ -57,6 +58,7 @@ Previous day: [2026-10-27](./data/2026-10-27.md)
 
 ## www.elperiodico.com
 23:59 [Tiempo en Catalunya mañana jueves: bajan las temperaturas hasta 5 grados y llegan lluvias intensas el fin de semana](https://www.elperiodico.com/es/tiempo/20261028/tiempo-catalunya-hoy-jueves-temperaturas-llegan-lluvias-dv-135852702)<br>
+21:00 [La renovación millonaria de la limpieza de grafitis y el mantenimiento de fuentes en Barcelona abre una pugna empresarial](https://www.elperiodico.com/es/barcelona/20261028/renovacion-millonaria-limpieza-grafitis-mantenimiento-fuentes-barcelona-pugna-empresarial-135844121)<br>
 20:13 [La Justicia desestima las alegaciones del MNAC y pide cumplir el cronograma previsto para el retorno de las pinturas murales de Sijena](https://www.elperiodico.com/es/ocio-y-cultura/20261028/justicia-desestima-alegaciones-mnac-pide-sijena-pinturas-135864317)<br>
 19:43 [El Roca City de Viladecans y Gavà estima en 2038 la culminación de su futuro distrito económico](https://www.elperiodico.com/es/barcelona/20261028/proyecto-urbanistico-roca-city-marca-2038-horizonte-completar-desarrollo-135850784)<br>
 19:32 [Los astrónomos recrean el despertar del Universo con la simulación cósmica más completa hasta la fecha](https://www.elperiodico.com/es/tendencias21/20261028/astronomos-recrean-despertar-universo-simulacion-135863041)<br>

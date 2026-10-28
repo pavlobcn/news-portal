@@ -9,6 +9,114 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Зеленський розкрив деталі переговорів у Гаазі",
+    "link": "https://ua.korrespondent.net/ukraine/4924285-zelenskyi-rozkryv-detali-perehovoriv-u-haazi",
+    "pubDate": "2026-10-28 21:17:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4614443.jpeg\">У Гаазі Володимир Зеленський зустрівся з Віллемом-Александром. Президент розповів про російські атаки на Україну, потребу в посиленні ППО та підготовку до переговорів про мир.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Ana busca desesperada a su madre, desaparecida en el accidente de tren de Toledo: \"Venía a verme porque me caso el sábado\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261028/ana-busca-desesperada-madre-desaparecida-135866451",
+    "pubDate": "2026-10-28 21:14:01",
+    "category": "",
+    "description": "<h2>Ana Román es una de las decenas de familiares que buscan a sus seres queridos tras el accidente ferroviario, denunciando las dificultades para obtener datos sobre los pasajeros afectados</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "США ввели санкції проти 10 осіб через схеми КНДР",
+    "link": "https://ua.korrespondent.net/world/4924283-ssha-vvely-sanktsii-proty-10-osib-cherez-skhemy-kndr",
+    "pubDate": "2026-10-28 21:04:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4614441.jpg\">США запровадили санкції проти 10 осіб та однієї організації, які допомагали Північній Кореї заробляти гроші через шахрайські ІТ-схеми.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "La renovación millonaria de la limpieza de grafitis y el mantenimiento de fuentes en Barcelona abre una pugna empresarial",
+    "link": "https://www.elperiodico.com/es/barcelona/20261028/renovacion-millonaria-limpieza-grafitis-mantenimiento-fuentes-barcelona-pugna-empresarial-135844121",
+    "pubDate": "2026-10-28 21:00:41",
+    "category": "",
+    "description": "<h2>Las prórrogas contractuales de importantes servicios urbanos activan el interés de potenciales licitadoras de cara al 2027 </h2><h2>CONTEXTO | <a href=\"https://www.elperiodico.com/es/barcelona/20260802/aigues-acsa-llevan-tribunales-millonaria-contrata-barcelona-mantenimiento-alcantarillado-132951658\" target=\"_blank\">Aigües de Barcelona y Acsa llevan a los tribunales la millonaria contrata de Barcelona para el mantenimiento del alcantarillado</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El PP adopta un perfil más institucional y evita la confrontación como Abascal por el “respeto al dolor de un país\"",
+    "link": "https://www.elperiodico.com/es/politica/20261028/pp-adopta-perfil-institucional-evita-135863735",
+    "pubDate": "2026-10-28 21:00:40",
+    "category": "",
+    "description": "<h2>La dirección del Partido Popular ordena a sus dirigentes autonómicos mantener un perfil sobrio y respetuoso mientras el líder del partido exige transparencia en la investigación del siniestro</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El accidente hunde el ánimo del PSOE: \"No sabemos si en 30 días tendremos tiempo para dar la vuelta a esta tragedia\"",
+    "link": "https://www.elperiodico.com/es/politica/20261028/accidente-hunde-animo-psoe-135864621",
+    "pubDate": "2026-10-28 21:00:40",
+    "category": "",
+    "description": "<h2 class=\"item\">Los socialistas lamentan que el accidente de Toledo \"rompe totalmente una campaña en la que estábamos llevando la iniciativa\"</h2><h2 class=\"item\">Distintos dirigentes anticipan dimisiones, pero fuentes del PSOE descargan al ministro de Transportes de la responsabilidad de lo ocurrido</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261028/ultima-hora-choque-trenes-toledo-135832371\" target=\"_blank\">Última hora del accidente de trenes en Toledo, hoy en directo: muertos, heridos y rescate de víctimas del choque de un Iryo y un AVE</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El horóscopo de mañana, jueves 29 de octubre: amor, trabajo, dinero y salud para todos los signos del zodíaco",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20261028/horoscopo-hoy-jueves-29-octubre-dv-135582183",
+    "pubDate": "2026-10-28 21:00:40",
+    "category": "",
+    "description": "<h2 class=\"item\">Conoce la suerte de tu horóscopo a partir de los signos del zodíaco, según la astrología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/temas/horoscopo-11990\" >Consulta el horóscopo diario de tu signo de ayer, hoy y mañana</a></h2>",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Gobierno y las autonomías decretan tres días de luto por las víctimas del choque de trenes en Toledo",
+    "link": "https://www.elperiodico.com/es/politica/20261028/gobierno-autonomias-decretan-tres-dias-135865978",
+    "pubDate": "2026-10-28 20:59:42",
+    "category": "",
+    "description": "<h2>Minutos de silencio en antes los ayuntamientos o gobiernos autonómicos </h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "El catering que nunca llegó a su destino... para ayudar a las víctimas de la tragedia ferroviaria en Urda: \"La comida estaba mejor aquí que en ningún otro lado\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261028/catering-ayudar-victimas-tragedia-ferroviaria-urda-accidente-comida-abrazos-toledo-135865864",
+    "pubDate": "2026-10-28 20:54:34",
+    "category": "",
+    "description": "<h2>La empresa toledana Deleita Catering decidió llevar todos sus alimentos a la zona cero de la tragedia tras suspenderse el acto oficial al que se dirigían en el Parque Arqueológico de Carranque: \"¿Qué menos que echar una mano aquí?\"</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Máxima consternación en Urda (Toledo): así se vivieron las horas más amargas en el puesto de mando del accidente ferroviario",
+    "link": "https://www.elperiodico.com/es/sociedad/20261028/maxima-consternacion-urda-toledo-horas-amargas-puesto-mando-accidente-ferroviario-135865778",
+    "pubDate": "2026-10-28 20:53:52",
+    "category": "",
+    "description": "<h2>Con el balance oficial rozando los 70 fallecidos, los efectivos de emergencia se preparan para mantener la búsqueda durante toda la madrugada entre murmullos contenidos y lágrimas</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ana Benítez busca a su hermano David, un sevillano que iba en el vagón 8 del AVE accidentado en Toledo: \"No sabemos nada, si estuviera bien habría contactado\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261028/ana-benitez-busca-hermano-david-accidente-tren-toledo-135865675",
+    "pubDate": "2026-10-28 20:50:06",
+    "category": "",
+    "description": "<h2>Su hermano aparece en el historial clínico de Atención Primaria de Castilla-La Mancha pero desconocen a dónde lo han derivado y en qué estado está tras no haberse comunicado</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Росія атакувала цивільне підприємство на Рівненщині: є жертва",
+    "link": "https://ua.korrespondent.net/ukraine/4924281-rosiia-atakuvala-tsyvilne-pidpryiemstvo-na-rivnenschyni-ye-zhertva",
+    "pubDate": "2026-10-28 20:45:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4614440.jpg\">У Сарненському районі Рівненської області внаслідок російської атаки на цивільне підприємство загинув чоловік.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Los Mossos incorporan 183 Cupra Terramar a su flota: así se convierte este SUV en coche patrulla",
     "link": "https://www.elperiodico.com/es/motor/20261028/mossos-incorporan-183-cupra-terramar-135804931",
     "pubDate": "2026-10-28 20:30:40",
