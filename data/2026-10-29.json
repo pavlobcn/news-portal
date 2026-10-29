@@ -1,5 +1,266 @@
 [
   {
+    "title": "Україна вимагає конкретних результатів від URC-2027",
+    "link": "https://ua.korrespondent.net/ukraine/4924371-ukraina-vymahaie-konkretnykh-rezultativ-vid-URC-2027",
+    "pubDate": "2026-10-29 09:20:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4614952.jpg\">Київ і Таллін узгодили підхід до Конференції з відновлення України URC-2027, яка має відбутися в січні в Естонії. Серед пріоритетів - стійкість України перед зимою та практична допомога міжнародних партнерів.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Наказав знищити музей Сковороди: генералу РФ із Харківщини загрожує суд",
+    "link": "https://ua.korrespondent.net/ukraine/4924372-nakazav-znyschyty-muzei-skovorody-heneralu-rf-iz-kharkivschyny-zahrozhuie-sud",
+    "pubDate": "2026-10-29 09:20:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4614951.jpg\">Заочно судитимуть російського генерала, який у 2022 році наказав знищити музей Сковороди на Харківщині.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Naturgy eleva un 5,4% su beneficio hasta septiembre y prevé ganar 2.200 millones en 2026",
+    "link": "https://www.elperiodico.com/es/economia/20261029/naturgy-eleva-5-4-beneficio-135873348",
+    "pubDate": "2026-10-29 09:13:27",
+    "category": "",
+    "description": "<h2>La energética presidida por Francisco Reynés eleva sus proyecciones anuales tras registrar un beneficio neto de 1.758 millones de euros entre enero y septiembre, impulsado por el negocio de redes</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Juan García empezó a consumir drogas con 11 años y ahora es terapeuta: \"Tuve la suerte de sufrir un brote psicótico. Es lo que me ha hecho llegar hasta aquí consciente\"",
+    "link": "https://www.elperiodico.com/es/economia/20261029/cambio-vida-consumicion-drogas-adolescente-recuperacion-terapeuta-dv-135833456",
+    "pubDate": "2026-10-29 09:10:20",
+    "category": "",
+    "description": "<h2>El hombre manda un mensaje para los jóvenes de hoy en día: \"Podéis ser chavales completamente felices y conscientes sin drogaros\"</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261009/masia-reconstruida-montseny-cataluna-hija-autosuficiencia-alex-paula-dv-et-134769611\" >Alex y Paula abandonaron Barcelona para vivir en una masía del Montseny junto a su hija pequeña: \"Confiar nuestra supervivencia a un sistema que se está cayendo para nosotros no tiene sentido\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260803/reforma-masia-anos-300-ruina-hogar-alain-dv-et-132890564\" >Alain vive en una masía abandonada de hace más de 300 años en las montañas de Catalunya: \"Después de una vida llena de sexo, drogas y rock and roll, un día me detectaron un cáncer\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Rodolfo Sancho, la incorporación estrella a la serie 'Entre tierras': \"Mi personaje es un hombre que no se derrumba\"",
+    "link": "https://www.elperiodico.com/es/tele/20261029/rodolfo-sancho-entre-tierras-serie-127819308",
+    "pubDate": "2026-10-29 09:00:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Antena 3 estrena este jueves la segunda temporada de la serie protagonizada por Megan Montaner</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/20261029/megan-montaner-entre-tierras-serie-127735339\">Megan Montaner: \"A día de hoy, si me lo puedo permitir, no volvería a una serie diaria\"</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los expertos advierten: el miedo a perder poder adquisitivo tras la jubilación dispara el estrés emocional",
+    "link": "https://www.elperiodico.com/es/sociedad/20261029/psicologos-coinciden-miedo-perder-adquisitivo-jubilacion-dv-et-135382040",
+    "pubDate": "2026-10-29 09:00:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Los expertos advierten de que esta inquietud puede pasar factura cuando empieza a afectar a las decisiones y a la vida cotidiana</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260511/jovenes-tendran-trabajar-mas-70-anos-mantener-pension-dv-130103933\" target=\"_blank\" rel=\"nofollow\">Los economistas coinciden: muchos jóvenes tendrán que trabajar más allá de los 70 años para mantener su pensión</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Rodalies esquiva el caos en las primeras horas de la huelga de maquinistas del SEMAF",
+    "link": "https://www.elperiodico.com/es/sociedad/20261029/huelga-renfe-rodalies-cataluna-funcionamiento-trenes-servicios-minimos-135871889",
+    "pubDate": "2026-10-29 08:59:41",
+    "category": "",
+    "description": "<h2 class=\"item\">El cumplimiento de los servicios mínimos evita aglomeraciones en las principales estaciones del sistema y deja alguna retención más larga de lo habitual en las carreteras</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261029/accidente-tren-toledo-victimas-reacciones-yebenes-urda-ultima-hora-directo-135832237\" target=\"_blank\">Accidente de trenes en Toledo, última hora en directo | Cifra de muertos, heridos, desaparecidos y rescate tras el choque de un Iryo y un AVE</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Масштабна кібератака на Молдову: Санду скликає Радбез",
+    "link": "https://ua.korrespondent.net/world/4924367-masshtabna-kiberataka-na-moldovu-sandu-sklykaie-radbez",
+    "pubDate": "2026-10-29 08:56:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4614937.jpg\">Після масштабної кібератаки на державні сервіси Молдови президентка Мая Санду скликає Радбез. Хакери могли отримати персональні дані сотень тисяч громадян.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Камалія різко відповіла на критику через відео у військовій формі",
+    "link": "https://ua.korrespondent.net/lifestyle/4924274-kamaliia-rizko-vidpovila-na-krytyku-cherez-video-u-viiskovii-formi",
+    "pubDate": "2026-10-29 08:54:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4614410.jpg\">Українська артистка жорстко звернулася до хейтерів у мережі та розкрила причини, які спонукали її з'явитися у військовій формі.",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Трамп дозволив Венсу встановити контакт із Іраном",
+    "link": "https://ua.korrespondent.net/world/4924365-tramp-dozvolyv-vensu-vstanovyty-kontakt-iz-iranom",
+    "pubDate": "2026-10-29 08:52:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4614935.jpg\">Віцепрезидент США написав листа іранському посадовцю Мохсену Резаї з метою відновлення мирних переговорів.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Huelga de trenes en Catalunya hoy: última hora de Rodalies, AVE y tráfico en Barcelona",
+    "link": "https://www.elperiodico.com/es/barcelona/20261029/huelga-trenes-rodalies-ave-trafico-barcelona-133938712",
+    "pubDate": "2026-10-29 08:51:00",
+    "category": "",
+    "description": "<h2>La huelga de maquinistas de Semaf afecta a los servicios ferroviarios de Renfe en toda España</h2><h2>Directo | <a href=\"https://www.elperiodico.com/es/sociedad/20261029/accidente-tren-toledo-victimas-reacciones-yebenes-urda-ultima-hora-directo-135832237\" target=\"_blank\">Accidente de trenes en Toledo: fallecidos, heridos y desaparecidos tras el choque entre un Iryo y un AVE</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Velocidad normal y marcha a la vista: qué diferencia hay y por qué es clave en el accidente de tren de Toledo",
+    "link": "https://www.elperiodico.com/es/economia/20261029/velocidad-normal-marcha-vista-diferencia-135872892",
+    "pubDate": "2026-10-29 08:50:30",
+    "category": "",
+    "description": "<h2>El accidente ferroviario en Toledo deja 68 fallecidos y más de un centenar de heridos, mientras el Ministerio de Transportes<a href=\"https://www.elperiodico.com/es/sociedad/20261029/ultima-hora-choque-trenes-toledo-135832371\"> investiga los protocolos de seguridad aplicados durante el trayecto</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "На тлі новин про мобілізацію: ексгравець Шахтаря перебрався до Болгарії",
+    "link": "https://ua.korrespondent.net/sport/football/4924363-na-tli-novyn-pro-mobilizatsiui-ekshravets-shakhtaria-perebravsia-do-bolharii",
+    "pubDate": "2026-10-29 08:45:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4614907.jpg\">Український вінгер опинився в складі болгарського клубу Фратрія після появи інформації про отримання повістки та можливу мобілізацію.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Aumenta la inquietud por Fátima Báñez, que sigue sin ser localizada tras el accidente de trenes de Toledo",
+    "link": "https://www.elperiodico.com/es/politica/20261029/fatima-banez-desaparecida-accidente-trenes-toledo-135872242",
+    "pubDate": "2026-10-29 08:35:41",
+    "category": "",
+    "description": "<h2 class=\"item\">El presidente de la Junta, Juanma Moreno, expresa su \"enorme preocupación\" por la falta de noticias de la exdirigente, que viajaba a Sevilla para participar en el Día de la Empresa Andaluza </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261029/accidente-tren-toledo-victimas-reacciones-yebenes-urda-ultima-hora-directo-135832237\">Accidente de trenes en Toledo, última hora en directo | Cifra de muertos, heridos, desaparecidos y rescate tras el choque de un Iryo y un AVE</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Влада Харківщини показала наслідки російських атак",
+    "link": "https://ua.korrespondent.net/ukraine/4924359-vlada-kharkivschyny-pokazala-naslidky-rosiiskykh-atak",
+    "pubDate": "2026-10-29 08:33:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4614911.jpg\">Загалом за добу загинула одна людина, ще восьмеро постраждали. Серед травмованих - 13-річна дівчинка.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ejecución en el hospital Joan XXIII de Tarragona: matan a tiros a un hombre que estaba ingresado por herida de bala",
+    "link": "https://www.elperiodico.com/es/sucesos/20261029/ejecucion-hospital-joan-tarragona-tiroteo-hospital-tarragona-135872539",
+    "pubDate": "2026-10-29 08:30:54",
+    "category": "",
+    "description": "<h2>Los Mossos han establecido un dispositivo para atrapar al pistolero</h2><h2><a href=\"https://www.elperiodico.com/es/sucesos/20261016/herido-bala-salou-tiroteo-135432640\">Un herido de bala en un tiroteo cerca de la plaza Europa de Salou</a></h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Стало відомо, коли доставлять гумвантаж до Олешок",
+    "link": "https://ua.korrespondent.net/ukraine/4924358-stalo-vidomo-koly-dostavliat-humvantazh-do-oleshok",
+    "pubDate": "2026-10-29 08:30:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4614908.png\">Режим тиші триває без порушень, після розмінування маршрутів в Олешки має вирушити гуманітарний вантаж.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La UE y Canadá buscan estrechar su relación, sin ponerle etiquetas, en una cumbre \"histórica\"",
+    "link": "https://www.elperiodico.com/es/internacional/20261029/ue-canada-buscan-estrechar-relacion-miembro-asociado-135872583",
+    "pubDate": "2026-10-29 08:28:05",
+    "category": "",
+    "description": "<h2>La idea de Canadá como el primer \"miembro asociado\" del bloque ha desaparecido de la declaración conjunta que los líderes firmarán tras la reunión</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Зірка українських серіалів вперше стала мамою",
+    "link": "https://ua.korrespondent.net/lifestyle/4924295-zirka-ukrainskykh-serialiv-vpershe-stala-mamoui",
+    "pubDate": "2026-10-29 08:27:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4614495.jpg\">У родині українських акторів Катерини Тишкевич та Валентина Томусяка поповнення: 28 жовтня у пари народився син.",
+    "topic": "телебачення",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "¿Qué falló antes del error humano en el accidente de Toledo?",
+    "link": "https://www.elperiodico.com/es/opinion/20261029/fallo-error-humano-accidente-ave-toledo-135869510",
+    "pubDate": "2026-10-29 08:22:04",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Renault aumenta un 1,5% su facturación trimestral, hasta los 11.596 millones de euros",
+    "link": "https://www.elperiodico.com/es/economia/20261029/renault-aumenta-1-5-facturacion-135872464",
+    "pubDate": "2026-10-29 08:21:46",
+    "category": "",
+    "description": "<h2>La compañía automovilística mantiene sus previsiones financieras para el conjunto del ejercicio tras confirmar un avance del 7,1% en sus ingresos acumulados durante los nueve primeros meses del año</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Гол українця вивів Сандерленд до чвертьфіналу",
+    "link": "https://ua.korrespondent.net/sport/football/4924353-hol-ukraintsia-vyviv-sanderlend-do-chvertfinalu",
+    "pubDate": "2026-10-29 08:21:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4614894.jpg\">Український нападник відзначився другим забитим м'ячем за англійський клуб, зробивши вагомий внесок у кубковий тріумф своєї команди.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Польща віддасть Україні два МіГ-29",
+    "link": "https://ua.korrespondent.net/ukraine/4924354-polscha-viddast-ukraini-dva-mih-29",
+    "pubDate": "2026-10-29 08:14:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4614893.jpg\">Київ отримає від Варшави два винищувачі МіГ-29, артилерійські боєприпаси та ракети для протиповітряної оборони.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Обама звинуватив Трампа у зраді України",
+    "link": "https://ua.korrespondent.net/world/4924352-obama-zvynuvatyv-trampa-u-zradi-ukrainy",
+    "pubDate": "2026-10-29 08:12:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4614892.jpg\">Білий дім зраджує українців, які борються за свою свободу і демократію, вважає експрезидент США.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Reconstruir \"mejor\" y no solo reparar: el reto para no repetir los errores de la dana de 2024",
+    "link": "https://www.elperiodico.com/es/sociedad/20261029/reconstruir-mejor-reparar-reto-repetir-135872230",
+    "pubDate": "2026-10-29 08:11:15",
+    "category": "",
+    "description": "<h2 class=\"item\">Los comisionados de la dana del Gobierno de España, Zulima Pérez, y del Consell, Raúl Mérida, se dan cita dos años después</h2><h2 class=\"item\">\"Estaremos hasta que la reconstrucción haya acabado\", coinciden</h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Maxi Iglesias (35 años), sobre la vivienda: \"Es una realidad muy triste que está a la orden del día. Con un sueldo, hoy en día es imposible pagar un alquiler\"",
+    "link": "https://www.elperiodico.com/es/gente/20261029/maxi-iglesias-actor-vivienda-salario-alquiler-adolescencia-dv-135801315",
+    "pubDate": "2026-10-29 08:10:11",
+    "category": "",
+    "description": "<h2>El actor recuerda las circunstancias en las que vivió cuando era adolescente: \"Hasta los 19 años viví en casa de mi madre y no tenía habitación propia\"</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261026/samantha-hudson-vivienda-casa-accesible-crisis-inmobiliaria-dv-135764878\" >Samantha Hudson (27 años), sobre la vivienda: \"Antes una casa era más accesible y quizás lo que se consideraba un lujo era una televisión o un coche, pero ahora es al revés\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261024/chenoa-cantante-dinero-pisos-alquiler-patrimonio-ahorro-dv-135667801\" >Chenoa (51 años), sobre su patrimonio: \"Vivo en mi casa, pero tengo algunos pisos que están en alquiler\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Última hora de las elecciones generales del 29N, en directo: las listas definitivas, los candidatos y el pulso de las coaliciones",
+    "link": "https://www.elperiodico.com/es/politica/20261029/elecciones-generales-29-noviembre-vivienda-ceuta-ultima-hora-directo-135335688",
+    "pubDate": "2026-10-29 08:10:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20261026/encuestas-elecciones-generales-espana-sondeos-12274406\" target=\"_blank\">Encuestas de las elecciones generales 2026: así están los sondeos</a></h2>",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Indra gana 355 millones hasta septiembre, un 22% más, y dispara su cartera de pedidos a máximos históricos",
+    "link": "https://www.elperiodico.com/es/economia/20261029/indra-gana-355-millones-septiembre-135872088",
+    "pubDate": "2026-10-29 08:09:27",
+    "category": "",
+    "description": "<h2 class=\"item\">El grupo eleva sus ingresos un 28,6%, hasta los 4.645 millones, impulsado por Defensa y Espacio, y mantiene sus previsiones para el conjunto de 2026</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Repsol gana 5.000 millones hasta septiembre, cuatro veces más, por la subida del petróleo tras la guerra de Irán",
+    "link": "https://www.elperiodico.com/es/economia/20261029/repsol-cuadriplica-resultados-septiembre-2026-guerra-iran-petroleo-135872038",
+    "pubDate": "2026-10-29 08:09:01",
+    "category": "",
+    "description": "<h2>La petrolera ha destinado cerca de 3.700 millones de euros entre enero y septiembre a incrementar sus existencias de crudos y productos refinados</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "El barro aún sigue bajo las calles dos años después de la dana de Valencia: la reconstrucción del alcantarillado, la gran asignatura pendiente",
     "link": "https://www.elperiodico.com/es/sociedad/20261029/barro-sigue-calles-anos-despues-135872022",
     "pubDate": "2026-10-29 08:07:24",
@@ -421,6 +682,15 @@
     "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Directo GUERRA DE IRÁN | Última hora</a></h2>",
     "topic": "політика",
     "topic_match_probability": 85
+  },
+  {
+    "title": "Eurovisión 2027 confirma 36 países y da una prórroga a España para decidir su regreso: RTVE tiene hasta diciembre",
+    "link": "https://www.elperiodico.com/es/tele/yotele/20261029/eurovision-2027-confirma-36-paises-prorroga-espana-decidir-regreso-rtve-tiene-diciembre-135838673",
+    "pubDate": "2026-10-29 05:30:50",
+    "category": "",
+    "description": "<h2>La UER concede un plazo extraordinario a las televisiones públicas de España y Eslovenia, que todavía no han decidido si volverán al festival</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
   },
   {
     "title": "Resultados de las elecciones en Israel 2026, en directo: quién ha ganado, reacciones y última hora de Netanyahu",
