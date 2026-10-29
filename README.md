@@ -1,8 +1,14 @@
-# News for 2026-10-29 18:34
+# News for 2026-10-29 20:39
 
 Previous day: [2026-10-28](./data/2026-10-28.md)
 
 ## ua.korrespondent.net
+20:07 [12 днів без допомоги: з окупації врятували п’ятьох українців](https://ua.korrespondent.net/ukraine/4924616-12-dniv-bez-dopomohy-z-okupatsii-vriatuvaly-piatokh-ukraintsiv)<br>
+19:52 [ЗСУ вдарили по пусковій установці Іскандера](https://ua.korrespondent.net/ukraine/4924612-zsu-vdaryly-po-puskovii-ustanovtsi-iskandera)<br>
+19:37 [Запоріжжя пережило рекордну кількість атак FPV-дронів](https://ua.korrespondent.net/city/zaporozhye/4924608-zaporizhzhia-perezhylo-rekordnu-kilkist-atak-FPV-droniv)<br>
+19:26 [Росія готує наступ на Херсон під час перемир’я в Олешках - ЗМІ](https://ua.korrespondent.net/ukraine/4924603-rosiia-hotuie-nastup-na-kherson-pid-chas-peremyria-v-oleshkakh-zmi)<br>
+19:10 [У Дніпрі дрон РФ влучив у гуртожиток: є постраждалі](https://ua.korrespondent.net/city/dnepr/4924604-u-dnipri-dron-rf-vluchyv-u-hurtozhytok-ye-postrazhdali)<br>
+18:54 [Укренерго попередило про відключення на п'ятницю](https://ua.korrespondent.net/ukraine/4924600-ukrenerho-poperedylo-pro-vidkluichennia-na-piatnytsui)<br>
 17:31 [Свята 30 жовтня 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4924561-sviata-30-zhovtnia-2026-roku-istoriia-tradytsii)<br>
 16:15 [Apple представила MacBook Pro із сенсорним OLED-екраном](https://ua.korrespondent.net/lifestyle/gadgets/4924547-Apple-predstavyla-MacBook-Pro-iz-sensornym-OLED-ekranom)<br>
 15:47 [У Камбоджі 200 туристів із круїзного судна залишилися без ночівлі](https://ua.korrespondent.net/world/4924523-u-kambodzhi-200-turystiv-iz-kruiznoho-sudna-zalyshylysia-bez-nochivli)<br>
@@ -39,11 +45,23 @@ Previous day: [2026-10-28](./data/2026-10-28.md)
 00:58 [У США оприлюднили дані розслідування смерті Гайден Панеттьєрі](https://ua.korrespondent.net/world/4924313-u-ssha-opryluidnyly-dani-rozsliduvannia-smerti-haiden-panettieri)<br>
 
 ## as.com
+19:54 [Kevin Knox, de la NBA al Unicaja](https://as.com/baloncesto/kevin-knox-de-la-nba-al-unicaja-f202610-n/)<br>
+19:07 [La enfermería del Barça](https://as.com/baloncesto/euroliga/la-enfermeria-del-barca-f202610-n/)<br>
+18:33 [Sekulic: “El Valencia vendrá con la intención de buscar revancha”](https://as.com/baloncesto/euroliga/sekulic-el-valencia-vendra-con-la-intencion-de-buscar-revancha-f202610-n/)<br>
 14:44 [“Los clubes están abiertos a entrar en la NBA Europa, pero quieren entrar todos”](https://as.com/baloncesto/euroliga/los-clubes-estan-abiertos-a-entrar-en-la-nba-europa-pero-quieren-entrar-todos-f202610-n/)<br>
 12:57 [“Madrid y Valencia son los mejores ataques de la historia en la Euroliga”](https://as.com/baloncesto/nba/madrid-y-valencia-son-los-mejores-ataques-de-la-historia-en-la-euroliga-f202610-n/)<br>
 06:36 [La batalla de los estilos sin Nick Smith](https://as.com/baloncesto/euroliga/la-batalla-de-los-estilos-sin-nick-smith-f202610-n/)<br>
 
 ## www.elperiodico.com
+20:21 [El sindicato Semaf convoca nueva huelga de maquinistas en Renfe el 10 y 12 de noviembre](https://www.elperiodico.com/es/trafico-y-transportes/20261029/sindicato-semaf-convoca-nueva-huelga-renfe-10-12-noviembre-135902584)<br>
+20:14 [El sindicato Semaf convoca dos nuevas jornadas de huelga de maquinistas en Renfe para 10 y 12 de noviembre](https://www.elperiodico.com/es/economia/20261029/semaf-nueva-huelga-renfe-10-12-noviembre-135902503)<br>
+20:00 [La guerra de narcos se recrudece en Catalunya y salta a edificios públicos con un crimen en el hospital de Tarragona](https://www.elperiodico.com/es/sociedad/20261029/guerra-narcos-recrudece-catalunya-edificios-publicos-hospitales-sin-miedo-impunidad-135892561)<br>
+20:00 [Leica apuesta por Barcelona: tienda, galería y academia en un mismo espacio](https://www.elperiodico.com/es/ocio-y-cultura/20261029/leica-apuesta-barcelona-tienda-galeria-135898424)<br>
+19:58 [La carrera contrarreloj de los forenses tras una catástrofe como la de Urda: "Hay que ponerse en el lugar de las familias"](https://www.elperiodico.com/es/sociedad/20261029/carrera-contrarreloj-forenses-catastrofe-urda-135902092)<br>
+19:09 [Enagás cierra la compra a Osaka Gas del 20% de Saggas por 31 millones](https://www.elperiodico.com/es/economia/20261029/enagas-cierra-compra-osaka-gas-135900429)<br>
+19:00 [Alejandro, piloto de avión, explica que deben examinarse cada 6 meses técnica y psicológicamente: "Lo que realmente define esta profesión es todo lo que ocurre detrás"](https://www.elperiodico.com/es/economia/20261029/piloto-avion-formacion-vuelo-alejandro-dv-135596000)<br>
+18:54 [Bruselas no espera un problema de suministro energético pero le preocupa el alza de los precios este invierno](https://www.elperiodico.com/es/internacional/20261029/bruselas-descarta-problema-suministro-energetico-pero-preocupa-alza-precios-invierno-135899737)<br>
+18:38 [Stellantis pone la base a una de cada dos campers en España](https://www.elperiodico.com/es/motor/20261029/stellantis-pro-one-campers-camperizacion-rifter-tinkervan-holidays-ducato-nomade-135878586)<br>
 18:13 [Más de 600 jóvenes se acercan a su futuro laboral de la mano de 30 grandes empresas en Sant Cugat](https://www.elperiodico.com/es/barcelona/20261029/600-jovenes-acercan-futuro-laboral-biva-talentos-sant-cugat-135896884)<br>
 18:11 [El clásico del baloncesto del 2026: el noveno Barça-Valencia](https://www.elperiodico.com/es/deportes/20261029/clasico-baloncesto-2026-noveno-barca-135895806)<br>
 18:04 [El PIB de Barcelona crece al 3% y ya supera en 14 puntos la economía prepandemia](https://www.elperiodico.com/es/barcelona/20261029/pib-barcelona-crece-3-14-puntos-economia-prepandemia-135492374)<br>
