@@ -423,6 +423,15 @@
     "topic_match_probability": 100
   },
   {
+    "title": "Вторгнення Росії в Україну. Онлайн",
+    "link": "https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain",
+    "pubDate": "2026-10-28 19:49:00",
+    "category": "Новини політики",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/2748609.jpg\">Володимир Путін почав повномасштабну війну проти України 24 лютого 2022 року. Не зумівши \"взяти Київ за три дні\", він сконцентрувався на захопленні Донбасу та південних областей України.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Dos horas en coche desde Alcobendas a Urda porque \"había que ayudar\": \"Una compañera mía murió en Adamuz, nos puede pasar a cualquiera\"",
     "link": "https://www.elperiodico.com/es/sociedad/20261028/horas-coche-alcobendas-voluntarias-tragedia-ferroviaria-urda-adamuz-muerte-135863403",
     "pubDate": "2026-10-28 19:46:20",
@@ -979,6 +988,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4614258.jpg\">У Чернігові внаслідок атаки російського безпілотника постраждали четверо людей. Ворожий дрон, за повідомленнями ЗМІ, влучив у комунальний притулок для тварин, пошкодивши його будівлю.",
     "topic": "політика",
     "topic_match_probability": 75
+  },
+  {
+    "title": "Війна на Близькому Сході. Онлайн",
+    "link": "https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain",
+    "pubDate": "2026-10-28 17:17:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473659.jpg\">США та Ізраїль проводять масштабну операцію проти Ірану. Тегеран у відповідь атакує військові об'єкти США майже у всіх країнах Перської затоки.",
+    "topic": "політика",
+    "topic_match_probability": 95
   },
   {
     "title": "Історичне золото здобула збірна України зі спортивної боротьби",
@@ -2529,6 +2547,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Braxton Key, ante el poderío ofensivo taronja",
+    "link": "https://as.com/baloncesto/euroliga/braxton-key-ante-el-poderio-ofensivo-taronja-f202610-n/",
+    "pubDate": "2026-10-28 11:09:46",
+    "category": "Valencia Basket Club",
+    "description": "El exjugador del Valencia Basket regresa al Roig Arena liderando el juego defensivo de Fenerbahçe (20:30 horas, #Vamos).",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Márchense todos del Espanyol",
     "link": "https://www.elperiodico.com/es/deportes/20261028/marchense-espanyol-sergi-135835217",
     "pubDate": "2026-10-28 11:02:03",
@@ -2813,6 +2840,15 @@
     "pubDate": "2026-10-28 09:43:00",
     "category": "Новини економіки",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613841.jpg\">Хусити заявили, що завдали ракетного удару по найбільшому нафтопереробному заводу Саудівської Аравії – Рас-Танура.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Martínez: “No nos creemos superiores a nadie”",
+    "link": "https://as.com/baloncesto/acb/martinez-no-nos-creemos-superiores-a-nadie-f202610-n/",
+    "pubDate": "2026-10-28 09:38:03",
+    "category": "Baloncesto",
+    "description": "El técnico principal del Real Madrid desgranó en la rueda de prensa posterior a la victoria de los suyos en Vitoria ante el Baskonia cómo ve al equipo actualmente.",
     "topic": "",
     "topic_match_probability": 0
   },
@@ -3796,6 +3832,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4613443.jpg\">Опозиційний блок на чолі з Гаді Айзенкотом має незначну перевагу над коаліцією чинного прем'єра Нетаньягу.",
     "topic": "вибори (але не президента України чи США)",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Baskonia - Real Madrid: resumen y resultado, Euroliga (86-104)",
+    "link": "https://as.com/baloncesto/euroliga/baskonia-real-madrid-en-directo-euroliga-202627-hoy-en-vivo-f202610-d/",
+    "pubDate": "2026-10-28 00:11:04",
+    "category": "Baloncesto",
+    "description": "Triunfo masticado del Real Madrid en el Buesa ante el Baskonia, que no se desligó hasta el último cuarto. De nuevo, más de cien puntos en otro recital firmado por los blancos.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Коноплю вперше запросили грати в стартовому складі Боруссії",
