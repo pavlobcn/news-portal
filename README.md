@@ -1,8 +1,10 @@
-# News for 2026-10-29 22:59
+# News for 2026-10-30 00:34
 
 Previous day: [2026-10-28](./data/2026-10-28.md)
 
 ## ua.korrespondent.net
+23:50 [У Києві внаслідок атаки загинула людина](https://ua.korrespondent.net/city/kiev/4924663-u-kyievi-vnaslidok-ataky-zahynula-luidyna)<br>
+23:19 [Частина Дніпра залишилася без світла](https://ua.korrespondent.net/city/dnepr/4924660-chastyna-dnipra-zalyshylasia-bez-svitla)<br>
 22:49 [Трагедія у Дніпрі. Удар росіян по вокзалу](https://ua.korrespondent.net/ukraine/4924650-trahediia-u-dnipri-udar-rosiian-po-vokzalu)<br>
 22:09 [РФ атакувала Київ балістикою, у місті пожежа](https://ua.korrespondent.net/city/kiev/4924645-rf-atakuvala-kyiv-balistykoui-u-misti-pozhezha)<br>
 21:44 [Удари РФ по видавництвах: скільки підручників втратила Україна](https://ua.korrespondent.net/ukraine/4924641-udary-rf-po-vydavnytstvakh-skilky-pidruchnykiv-vtratyla-ukraina)<br>
@@ -52,6 +54,9 @@ Previous day: [2026-10-28](./data/2026-10-28.md)
 00:58 [У США оприлюднили дані розслідування смерті Гайден Панеттьєрі](https://ua.korrespondent.net/world/4924313-u-ssha-opryluidnyly-dani-rozsliduvannia-smerti-haiden-panettieri)<br>
 
 ## as.com
+23:50 [Pedro Martínez enciende las alarmas con Jantunen: “No tiene muy buena pinta”](https://as.com/baloncesto/euroliga/pedro-martinez-enciende-las-alarmas-con-jantunen-no-tiene-muy-buena-pinta-f202610-n/)<br>
+23:19 [Resultados Euroliga, jornada 9: horarios, TV, partidos y clasificación](https://as.com/baloncesto/euroliga/resultados-euroliga-jornada-9-horarios-tv-partidos-y-clasificacion-f202610-n/)<br>
+23:11 [El Madrid tiene estilo](https://as.com/baloncesto/euroliga/el-madrid-tiene-estilo-f202610-n/)<br>
 21:12 [Real Madrid - Fenerbahçe, en directo: Euroliga 2026-27 en vivo hoy](https://as.com/baloncesto/euroliga/real-madrid-fenerbahce-en-directo-euroliga-2026-27-en-vivo-hoy-f202610-d/)<br>
 19:54 [Kevin Knox, de la NBA al Unicaja](https://as.com/baloncesto/kevin-knox-de-la-nba-al-unicaja-f202610-n/)<br>
 19:07 [La enfermería del Barça](https://as.com/baloncesto/euroliga/la-enfermeria-del-barca-f202610-n/)<br>
@@ -61,6 +66,7 @@ Previous day: [2026-10-28](./data/2026-10-28.md)
 06:36 [La batalla de los estilos sin Nick Smith](https://as.com/baloncesto/euroliga/la-batalla-de-los-estilos-sin-nick-smith-f202610-n/)<br>
 
 ## www.elperiodico.com
+23:58 [La reina Sonia de Noruega visita Málaga para inaugurar la exposición que une a Munch y Picasso](https://www.elperiodico.com/es/ocio-y-cultura/20261029/reina-sonia-noruega-malaga-exposicion-picasso-munch-135906422)<br>
 21:41 [Jueves negro en Joaquín Sorolla: El tren averiado en el túnel de Aranjuez y la huelga de maquinistas colapsan la estación de alta velocidad](https://www.elperiodico.com/es/sociedad/20261029/jueves-negro-en-joaquin-sorolla-la-averia-en-aranjuez-y-la-huelga-de-maquinistas-colapsan-la-estacion-de-alta-velocidad-135904393)<br>
 21:09 [Muere Patrick Stewart, estrella de 'Star Trek' y 'X-Men'](https://www.elperiodico.com/es/ocio-y-cultura/20261029/muere-actor-patrick-stewart-star-trek-xmen-135903705)<br>
 21:03 [La ingeniera alicantina Adriana Marroquín Rodríguez, de 27 años, entre las víctimas del accidente de trenes en Toledo](https://www.elperiodico.com/es/sociedad/20261029/ingeniera-alicantina-vagon-8-ave-renfe-victimas-mortales-accidente-trenes-urda-toledo-135903348)<br>

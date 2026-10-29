@@ -1,5 +1,77 @@
 [
   {
+    "title": "La reina Sonia de Noruega visita Málaga para inaugurar la exposición que une a Munch y Picasso",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261029/reina-sonia-noruega-malaga-exposicion-picasso-munch-135906422",
+    "pubDate": "2026-10-29 23:58:10",
+    "category": "",
+    "description": "<h2 class=\"item\">La soberana protagoniza su primer viaje oficial al extranjero tras la muerte de Harald V en un acto más discreto por respeto a las víctimas del accidente de Toledo</h2><h2 class=\"item\">La muestra reúne más de un centenar de obras en el Museo Picasso</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Pedro Martínez enciende las alarmas con Jantunen: “No tiene muy buena pinta”",
+    "link": "https://as.com/baloncesto/euroliga/pedro-martinez-enciende-las-alarmas-con-jantunen-no-tiene-muy-buena-pinta-f202610-n/",
+    "pubDate": "2026-10-29 23:50:49",
+    "category": "Baloncesto",
+    "description": "El entrenador del Madrid analizó la victoria ante Fenerbahçe, pidió cautela pese al resultado y habló sobre la lesión del finlandés.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Києві внаслідок атаки загинула людина",
+    "link": "https://ua.korrespondent.net/city/kiev/4924663-u-kyievi-vnaslidok-ataky-zahynula-luidyna",
+    "pubDate": "2026-10-29 23:50:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4615684.jpg\">У Дніпровському районі був пошкоджений житловий будинок та автомобілі. На іншій локації уламки впали у дворі житлового будинку.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Судаков радує Бенфіку другим голом у сезоні",
+    "link": "https://ua.korrespondent.net/sport/football/4924662-sudakov-raduie-benfiku-druhym-holom-u-sezoni",
+    "pubDate": "2026-10-29 23:32:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4615683.jpg\">Український півзахисник бере участь у матчі Кубка португальської ліги з футболу.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Resultados Euroliga, jornada 9: horarios, TV, partidos y clasificación",
+    "link": "https://as.com/baloncesto/euroliga/resultados-euroliga-jornada-9-horarios-tv-partidos-y-clasificacion-f202610-n/",
+    "pubDate": "2026-10-29 23:19:36",
+    "category": "Baloncesto",
+    "description": "Euroliga 2026-27: resultados de los partidos y clasificación de la temporada en su jornada 9. Real Madrid, Barcelona, Baskonia, Valencia Basket…",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Частина Дніпра залишилася без світла",
+    "link": "https://ua.korrespondent.net/city/dnepr/4924660-chastyna-dnipra-zalyshylasia-bez-svitla",
+    "pubDate": "2026-10-29 23:19:00",
+    "category": "Дніпро",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4615669.jpg\">Після чергового російського удару без світла залишилися понад 350 тисяч абонентів. Енергетики вже працюють над відновленням.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Madrid tiene estilo",
+    "link": "https://as.com/baloncesto/euroliga/el-madrid-tiene-estilo-f202610-n/",
+    "pubDate": "2026-10-29 23:11:13",
+    "category": "Baloncesto",
+    "description": "Los blancos anotan 95 puntos al que puede ser el mejor equipo en defensa de la Euroliga. Preocupante lesión de Jantunen. Entre Maledon y Campazzo, 60 de valoración.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Роналду з хет-триком наближається до мрії про голи",
+    "link": "https://ua.korrespondent.net/sport/football/4924657-ronaldu-z-khet-trykom-nablyzhaietsia-do-mrii-pro-holy",
+    "pubDate": "2026-10-29 23:06:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4615653.jpg\">Португальський гравець забив три м’ячі в минулому матчі і ще більше наблизився до омріяних 1000 голів за кар’єру.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
     "title": "El Athletic no se deja sorprender por el Prat (1-6)",
     "link": "https://www.elperiodico.com/es/deportes/20261029/athletic-deja-sorprender-prat-1-135904667",
     "pubDate": "2026-10-29 22:58:34",
@@ -24,6 +96,15 @@
     "category": "",
     "description": "",
     "topic": "portada de EL PERIÓDICO",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Кінець путінізма в Європі. Поразка Вучича і Орбана",
+    "link": "https://ua.korrespondent.net/world/4924654-kinets-putinizma-v-yevropi-porazka-vuchycha-i-orbana",
+    "pubDate": "2026-10-29 22:51:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4615668.jpg\">Кінець ери Вучича та Орбана доводить виснаження правопопулістського формату, який виник після кризи 2008 року.",
+    "topic": "політика",
     "topic_match_probability": 100
   },
   {
