@@ -1,4 +1,4 @@
-# News for 2026-10-29 16:21
+# News for 2026-10-29 17:15
 
 Previous day: [2026-10-28](./data/2026-10-28.md)
 
@@ -43,6 +43,18 @@ Previous day: [2026-10-28](./data/2026-10-28.md)
 06:36 [La batalla de los estilos sin Nick Smith](https://as.com/baloncesto/euroliga/la-batalla-de-los-estilos-sin-nick-smith-f202610-n/)<br>
 
 ## www.elperiodico.com
+17:10 [El dueño de Google pulveriza 500.000 millones en Bolsa y reaviva el miedo a una burbuja de la IA](https://www.elperiodico.com/es/economia/20261029/dueno-google-pulveriza-500-000-135895164)<br>
+17:00 [Crítica de 'Hope': un cruce excesivo y apabullante de thriller de persecuciones, comedia, cine de monstruos y ciencia ficción](https://www.elperiodico.com/es/ocio-y-cultura/20261029/critica-hope-cruce-excesivo-apabullante-135879843)<br>
+17:00 [José María, pescadero, sobre las pescaderías tradicionales: "Más de la mitad del pescado se vende en el supermercado, y no porque sea mejor"](https://www.elperiodico.com/es/economia/20261029/pescadero-pescado-supermercados-pescaderia-jose-maria-sanchez-dv-135638855)<br>
+17:00 [Tiempo en Catalunya mañana viernes: llegan las lluvias que se intensificarán el fin de semana](https://www.elperiodico.com/es/tiempo/20261029/tiempo-catalunya-hoy-viernes-lluvias-fin-semana-meteocat-dv-135890637)<br>
+16:55 [Un manresano de origen marroquí, sobre las trabas a la hora de encontrar piso: "Si te llamas Joan te preguntan por tu disponibilidad para ir a verlo; si eres Abdul, te dicen que ya te llamarán"](https://www.elperiodico.com/es/sociedad/20261029/manresano-origen-marroqui-trabas-hora-135894541)<br>
+16:53 [La patita blanquecina](https://www.elperiodico.com/es/opinion/20261029/patita-blanquecina-inteligencia-artificial-articulo-josep-maria-fonalleras-135894029)<br>
+16:48 [Renfe tiene todavía pendiente la creación de su propia empresa de autobuses para cubrir incidencias ferroviarias](https://www.elperiodico.com/es/economia/20261029/renfe-pendiente-crear-empresa-autobuses-cubrir-incidencias-ferroviarias-135894264)<br>
+16:45 [La OCU recomienda no usar sangre falsa en menores de 14 años por Halloween: "Puede contener sustancias tóxicas"](https://www.elperiodico.com/es/vida-y-estilo/20261029/ocu-sangre-falsa-halloween-menores-14-anos-dv-135891494)<br>
+16:42 ["Basura", "aburrida" y "sin sentido": la crítica destroza la versión de 'La Odisea' de Elon Musk](https://www.elperiodico.com/es/ocio-y-cultura/20261029/basura-aburrida-critica-destroza-odisea-pelicula-musk-ia-grok-christoper-nolan-homero-135892453)<br>
+16:40 [Crítica de 'Tiempos de ilusión': El tándem Nakache-Toledano presenta el 'coming of age' de un niño parisino que busca su identidad](https://www.elperiodico.com/es/ocio-y-cultura/20261029/critica-tiempos-ilusion-nakache-toledano-135892372)<br>
+16:38 [Nuria, trabajadora de peaje durante 35 años: "La caravana de Pocholo se quedó averiada y fue superdivertido"](https://www.elperiodico.com/es/sociedad/20261029/nuria-trabajadora-peaje-caravana-pocholo-dv-135893035)<br>
+16:32 [Muntaner, 38](https://www.elperiodico.com/es/opinion/20261029/muntaner-38-novela-enrique-vila-matas-articulo-juan-tallon-135893218)<br>
 15:59 [Los piquetes de la huelga del metal cortan el tráfico en la salida hacia la autovía y en los accesos industriales de Cartagena](https://www.elperiodico.com/es/sociedad/20261029/huelga-metal-complica-nuevo-trafico-135892345)<br>
 15:44 [El Premio Impulsa Cultura, que se entregará el 9 de noviembre, pasa de 15.000 a 30.000 euros](https://www.elperiodico.com/es/ocio-y-cultura/20261029/premio-impulsa-cultura-entregara-euros-9-noviembre-135891319)<br>
 15:26 [Damián, el joven de 24 años que lucha por resucitar el pueblo de sus abuelos: "Tiene que venir gente y así evitar que estos lugares queden en el olvido y terminen desapareciendo"](https://www.elperiodico.com/es/economia/20261029/recuperar-pueblo-abuelos-despoblacion-montana-asturias-vivienda-damian-dv-et-134844610)<br>

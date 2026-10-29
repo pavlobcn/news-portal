@@ -1,5 +1,311 @@
 [
   {
+    "title": "Delcy Rodríguez garantiza el \"ejercicio responsable\" de la política y promete elecciones en Venezuela, pero no pone fecha",
+    "link": "https://www.elperiodico.com/es/internacional/20261029/maria-corina-machado-venezuela-delcy-rodriguez-elecciones-represion-policia-135895231",
+    "pubDate": "2026-10-29 17:14:03",
+    "category": "",
+    "description": "<h2>La presidenta encargada emite un mensaje a la nación minutos antes de la rueda de prensa convocada por la opositora María Corina Machado</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Encontrado el perfume de lujo que utiliza Aitana: estas son sus alternativas económicas para oler como ella",
+    "link": "https://www.elperiodico.com/es/shopping/20261029/aitana-perfume-uso-lujo-alternativas-economicas-135733812",
+    "pubDate": "2026-10-29 17:12:56",
+    "category": "",
+    "description": "<h2>Aitana ha compartido con sus seguidores el perfume que utiliza en su gira y hemos buscado las alternativas económicas que más se parecen a su opción</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Укрзалізниця перегляне протокол безпеки після атаки у Дніпрі",
+    "link": "https://ua.korrespondent.net/business/companies/4924574-ukrzaliznytsia-perehliane-protokol-bezpeky-pislia-ataky-u-dnipri",
+    "pubDate": "2026-10-29 17:11:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4615390.jpg\">До моменту удари в УЗ задіяли інформування по вокзалу та станції щодо оголошеної тривоги. При наближенні БпЛА додатково визначили підвищену небезпеку.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "El dueño de Google pulveriza 500.000 millones en Bolsa y reaviva el miedo a una burbuja de la IA",
+    "link": "https://www.elperiodico.com/es/economia/20261029/dueno-google-pulveriza-500-000-135895164",
+    "pubDate": "2026-10-29 17:10:50",
+    "category": "",
+    "description": "<h2>Los títulos de Alphabet se hunden hasta un 12% en una jornada de fuertes caídas en Wall Street </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Crítica de 'Hope': un cruce excesivo y apabullante de thriller de persecuciones, comedia, cine de monstruos y ciencia ficción",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261029/critica-hope-cruce-excesivo-apabullante-135879843",
+    "pubDate": "2026-10-29 17:00:59",
+    "category": "",
+    "description": "<h2 class=\"item\">El surcoreano Na Hong-jin, director de 'El extraño', construye en 'Hope' un espectáculo monumental que hace del exceso, la libertad y el caos controlado sus máximas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "José María, pescadero, sobre las pescaderías tradicionales: \"Más de la mitad del pescado se vende en el supermercado, y no porque sea mejor\"",
+    "link": "https://www.elperiodico.com/es/economia/20261029/pescadero-pescado-supermercados-pescaderia-jose-maria-sanchez-dv-135638855",
+    "pubDate": "2026-10-29 17:00:00",
+    "category": "",
+    "description": "<h2>El sevillano explica que la forma de comprar productos del mar ha cambiado mucho en 30 años: \"Hay cosas que no vienen en una bandeja\"</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20261017/alba-aguilera-pescadora-mas-joven-barcelona-espana-25-anos-sin-renovacion-generacional-135383646\" >Alba Aguilera, pescadora en Barcelona: \"Si con 25 años soy la más joven de España, es que no hay relevo generacional\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20250930/mercados-area-metropolitana-necesitan-jovenes-122126809\" >\"Faltan pescaderos profesionales\": los mercados del área de BCN buscan relevo generacional</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Tiempo en Catalunya mañana viernes: llegan las lluvias que se intensificarán el fin de semana",
+    "link": "https://www.elperiodico.com/es/tiempo/20261029/tiempo-catalunya-hoy-viernes-lluvias-fin-semana-meteocat-dv-135890637",
+    "pubDate": "2026-10-29 17:00:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El viernes estará marcado por la nubosidad, la bajada de temperaturas y la posibilidad de chubascos en el sur del territorio</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/catalunya/20261024/cataluna-tropicalizacion-caribe-tormentas-rodalies-climatologia-javier-martin-dv-et-135527496\" >Javier Martín Vide, catedrático en climatología: \"La temperatura del agua del Mediterráneo es tan alta o incluso más que la del Caribe\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Новий раунд SAFE: які потреби України врахують",
+    "link": "https://ua.korrespondent.net/world/4924567-novyi-raund-SAFE-yaki-potreby-ukrainy-vrakhuuit",
+    "pubDate": "2026-10-29 16:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4615373.jpg\">Єврокомісія оголосила другий раунд фінансування оборонної програми SAFE на €21,3 млрд і закликала країни ЄС передбачити спільні закупівлі озброєння з Україною.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Toyota створила спортивну версію Crown Signia",
+    "link": "https://ua.korrespondent.net/lifestyle/motors/4924569-Toyota-stvoryla-sportyvnu-versiui-Crown-Signia",
+    "pubDate": "2026-10-29 16:58:00",
+    "category": "Автомобілі",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4615365.jpg\">Концепт кросовера-універсала Crown Signia GT-S підготувала команда Toyota Motorsports Garage для виставки SEMA 2026",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Un manresano de origen marroquí, sobre las trabas a la hora de encontrar piso: \"Si te llamas Joan te preguntan por tu disponibilidad para ir a verlo; si eres Abdul, te dicen que ya te llamarán\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261029/manresano-origen-marroqui-trabas-hora-135894541",
+    "pubDate": "2026-10-29 16:55:15",
+    "category": "",
+    "description": "<h2>H. H., que prefiere no revelar su identidad por temor a que este artículo juegue en su contra, denuncia la discriminación que ha vivido a la hora de encontrar piso en la capital del Bages</h2><h2>«Llegué a tal punto de cansancio que cuando llamaba a las inmobiliarias les decía: “Este es mi nombre, ¿hay algún problema con eso?”, porque no quería perder más el tiempo», relata</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Під Волгоградом знищено два Су-34 - соцмережі",
+    "link": "https://ua.korrespondent.net/world/russia/4924571-pid-volhohradom-znyscheno-dva-su-34-sotsmerezhi",
+    "pubDate": "2026-10-29 16:54:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4615374.jpg\">Інформаційна система про пожежі NASA FIRMS фіксує пожежу біля військового аеродрому Маринівка.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "La patita blanquecina",
+    "link": "https://www.elperiodico.com/es/opinion/20261029/patita-blanquecina-inteligencia-artificial-articulo-josep-maria-fonalleras-135894029",
+    "pubDate": "2026-10-29 16:53:18",
+    "category": "",
+    "description": "<h2>¿Qué sentido tiene decir que has escrito algo que no has escrito?</h2><h2><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260929/affaire-orelien-reabre-debate-inteligencia-134763416\">El 'affaire Orélien' reabre el debate sobre el uso de la inteligencia artificial en la literatura francesa</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las claves del conflicto China-Mbappé: por qué un 'meme' se ha convertido en una grave crisis diplomática para Tebas y Florentino",
+    "link": "https://www.elperiodico.com/es/deportes/20261029/claves-conflicto-china-mbappe-meme-real-madrid-laliga-135894401",
+    "pubDate": "2026-10-29 16:52:46",
+    "category": "",
+    "description": "<h2>La televisión pública china mantiene el veto a los dos partidos de LaLiga que emite en abierto, mientras que el delantero ha perdido patrocinios por su comentario sobre Mao Zedong</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Полякову розкритикували за відео в бюстгальтері",
+    "link": "https://ua.korrespondent.net/lifestyle/4924562-poliakovu-rozkrytykuvaly-za-video-v-buisthalteri",
+    "pubDate": "2026-10-29 16:51:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4615309.jpg\">Виконавиця опублікувала кадр у відвертому бюстгальтері, що спровокувало гострі суперечки серед її підписників.",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "La Fiscalía pide ocho años y medio de cárcel a un conductor que mató a dos ciclistas atropellándolos con el coche en Castellbisbal",
+    "link": "https://www.elperiodico.com/es/sucesos/20261029/fiscalia-pide-ocho-anos-medio-matar-dos-ciclistas-castellbisbal-135893855",
+    "pubDate": "2026-10-29 16:50:58",
+    "category": "",
+    "description": "<h2 class=\"item\">El acusado no tenía el permiso de conducir en vigor y dio positivo en cocaína, cannabis, diazepam y alcohol</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20220821/atropello-ciclistas-coche-fuga-castellisbal-barcelona-14320937\">Los Mossos arrestan al conductor fugado que ha matado a dos ciclistas en Castellbisbal</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Renfe tiene todavía pendiente la creación de su propia empresa de autobuses para cubrir incidencias ferroviarias",
+    "link": "https://www.elperiodico.com/es/economia/20261029/renfe-pendiente-crear-empresa-autobuses-cubrir-incidencias-ferroviarias-135894264",
+    "pubDate": "2026-10-29 16:48:54",
+    "category": "",
+    "description": "<h2>La compañía pública decidió este martes, un día antes del accidente de Urda (Toledo), reformular las condiciones del concurso público anunciado en marzo para la creación de la nueva sociedad</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20261029/accidente-trenes-toledo-ave-iryo-victimas-desaparecidos-causa-choque-hoy-ultima-hora-directo-135832237\">Última hora del accidente de trenes en Toledo | muertos, heridos y causas del choque entre un Iryo y un AVE</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "РФ атакувала дві локації у Кременчуці: троє загиблих і 28 постраждалих",
+    "link": "https://ua.korrespondent.net/ukraine/4924563-rf-atakuvala-dvi-lokatsii-u-kremenchutsi-troie-zahyblykh-i-28-postrazhdalykh",
+    "pubDate": "2026-10-29 16:46:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4615363.jpg\">Російські війська пошкодили багатоквартирні та приватні будинки, а також школу-інтернат. Серед постраждалих - троє дітей.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "La OCU recomienda no usar sangre falsa en menores de 14 años por Halloween: \"Puede contener sustancias tóxicas\"",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20261029/ocu-sangre-falsa-halloween-menores-14-anos-dv-135891494",
+    "pubDate": "2026-10-29 16:45:07",
+    "category": "",
+    "description": "<h2 class=\"item\">La organización advierte de las consecuencias nocivas de la ingesta accidental de este tipo de sustancias y recuerda que están formuladas para teatro y efectos especiales</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20261029/halloween-2026-barcelona-son-barrios-regalan-caramelos-135800941\" >Halloween 2026 en Barcelona: estos son los barrios donde regalan caramelos</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261028/cambio-tiempo-castanyada-halloween-lluvias-mediterraneo-prevision-aemet-135843780\" >Un cambio de tiempo en vísperas de la 'castanyada' y Halloween amenaza con dejar \"lluvias intensas\" en el Mediterráneo durante el fin de semana</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "\"Basura\", \"aburrida\" y \"sin sentido\": la crítica destroza la versión de 'La Odisea' de Elon Musk",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261029/basura-aburrida-critica-destroza-odisea-pelicula-musk-ia-grok-christoper-nolan-homero-135892453",
+    "pubDate": "2026-10-29 16:42:36",
+    "category": "",
+    "description": "<h2>El hombre más rico del mundo, obsesionado con que la película de Christopher Nolan no es \"fiel a la realidad histórica\" del mito de Homero, impulsa una nueva obra generada por IA que ha sido tachada de desastre</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Crítica de 'Tiempos de ilusión': El tándem Nakache-Toledano presenta el 'coming of age' de un niño parisino que busca su identidad",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261029/critica-tiempos-ilusion-nakache-toledano-135892372",
+    "pubDate": "2026-10-29 16:40:22",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Легендарний хіт 1977 року виник завдяки скандалу",
+    "link": "https://ua.korrespondent.net/showbiz/music/4923499-lehendarnyi-khit-1977-roku-vynyk-zavdiaky-skandalu",
+    "pubDate": "2026-10-29 16:39:00",
+    "category": "Музика",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4611776.jpg\">Трек Barracuda стрімко завоював популярність, увійшовши до списку головних візитних карток гурту Heart.",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "МЗС розкритикувало призначення росіянина на посаду в ООН",
+    "link": "https://ua.korrespondent.net/ukraine/4924555-mzs-rozkrytykuvalo-pryznachennia-rosiianyna-na-posadu-v-oon",
+    "pubDate": "2026-10-29 16:39:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4615346.jpg\">Доручення протимінної діяльності представнику держави-агресора підриває довіру до ООН, наголосили в українському відомстві.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Nuria, trabajadora de peaje durante 35 años: \"La caravana de Pocholo se quedó averiada y fue superdivertido\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261029/nuria-trabajadora-peaje-caravana-pocholo-dv-135893035",
+    "pubDate": "2026-10-29 16:38:59",
+    "category": "",
+    "description": "<h2>Nuria Viñuales entró en la autopista en 1991 tras dejar los estudios de Delineación. Más de tres décadas después repasa la transformación de este trabajo, marcada por la automatización de las cabinas en 2013</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Боб Арум дає гарантії, що Ломаченко приєднався до Top Rank",
+    "link": "https://ua.korrespondent.net/sport/boks/4924559-bob-arum-daie-harantii-scho-lomachenko-pryiednavsia-do-Top-Rank",
+    "pubDate": "2026-10-29 16:37:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4615348.jpg\">Глава Top Rank ствердно говорить про приєднання Василя Ломаченка до його промоутерської компанії.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Corea del Norte lanza más de 10 misiles balísticos al mar de Japón en plena escalada de tensión regional",
+    "link": "https://www.elperiodico.com/es/internacional/20261029/corea-norte-lanza-10-misiles-balisticos-mar-japon-escalada-tension-regional-135893769",
+    "pubDate": "2026-10-29 16:36:50",
+    "category": "",
+    "description": "<h2>El nuevo episodio tiene lugar después de que hace un mes tres soldados surcoreanos resultaran heridos por la explosión de dos minas en la frontera</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "iCAUR presenta el V25, un SUV ‘All-Way’ de estética retro y 455 CV listo para la aventura",
+    "link": "https://www.elperiodico.com/es/motor/20261029/icaur-presenta-v25-135837455",
+    "pubDate": "2026-10-29 16:35:08",
+    "category": "",
+    "description": "<h2>La nueva propuesta del Grupo Chery completa la familia V-Series combinando versiones REEV y BEV así como tracción inteligente i-AWD </h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Lagarde se despide del BCE y se prepara para participar en asuntos \"más allá de la política monetaria\"",
+    "link": "https://www.elperiodico.com/es/economia/20261029/lagarde-despide-bce-prepara-participar-135893543",
+    "pubDate": "2026-10-29 16:32:43",
+    "category": "",
+    "description": "<h2>La presidenta del BCE afrontará dos reuniones más hasta su salida, pactada para el 7 de febrero, al tiempo que el proceso para decidir a su sucesor se pone en marcha con De Cos y Knot a la cabeza</h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Muntaner, 38",
+    "link": "https://www.elperiodico.com/es/opinion/20261029/muntaner-38-novela-enrique-vila-matas-articulo-juan-tallon-135893218",
+    "pubDate": "2026-10-29 16:32:06",
+    "category": "",
+    "description": "<h2>Hay semanas que levantan un año. Solo tienen que darse dos milagros: un premio nacional y el rescate de un libro desaparecido</h2><h2><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20261027/enrique-vila-matas-gana-premio-135807546\">Enrique Vila-Matas, Premio Nacional de las Letras 2026: \"A la IA le hago preguntas muy difíciles y la vuelvo completamente loca\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un cuento chino en francés",
+    "link": "https://www.elperiodico.com/es/deportes/20261029/cuento-chino-frances-135893079",
+    "pubDate": "2026-10-29 16:29:13",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Jódar se pega un tiro en el pie: pierde en Basilea ante Vacherot y se complica las ATP Finals",
+    "link": "https://www.elperiodico.com/es/deportes/20261029/jodar-pega-tiro-pie-pierde-135891992",
+    "pubDate": "2026-10-29 16:24:50",
+    "category": "",
+    "description": "<h2>El tenista madrileño cae en octavos del ATP 500 por 7-6 (7), 2-6 y 7-6 (7)</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Керманич Ювентуса перебуває на межі звільнення",
+    "link": "https://ua.korrespondent.net/sport/football/4924550-kermanych-yuventusa-perebuvaie-na-mezhi-zvilnennia",
+    "pubDate": "2026-10-29 16:24:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4615310.jpg\">У туринському клубі близькі до відсторонення італійського фахівця Лучано Спаллетті від керівництва командою.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Компанію Медведчука в Росії почали банкрутити",
+    "link": "https://ua.korrespondent.net/business/4924552-kompaniui-medvedchuka-v-rosii-pochaly-bankrutyty",
+    "pubDate": "2026-10-29 16:24:00",
+    "category": "Новини бізнесу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4615347.jpg\">У Росії розпочали процедуру банкрутства компанії кума Путіна Віктора Медведчука. Її кредитор - МКБ, пов’язаний зі структурами Роснефти, яка сама переживає фінансові труднощі.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "La compositora Marisa Manchado, Premio Nacional de Música 2024, desaparecida tras el accidente ferroviario de Urda",
+    "link": "https://www.elperiodico.com/es/sociedad/20261029/compositora-marisa-manchado-desaparecida-accidente-tren-urda-toledo-135892416",
+    "pubDate": "2026-10-29 16:23:01",
+    "category": "",
+    "description": "<h2>\"Deseamos de corazón que aparezca pronto, que se encuentre bien y poder volver a abrazarla\", expresan en la asociación Mujeres en la Música</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20261029/accidente-trenes-toledo-ave-iryo-victimas-desaparecidos-causa-choque-hoy-ultima-hora-directo-135832237\" target=\"_blank\">Última hora del accidente de trenes en Toledo, en directo: muertos, heridos y causas del choque entre un Iryo y un AVE</a></h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Шпигувала під виглядом прибиральниці: агентка РФ отримала 15 років",
+    "link": "https://ua.korrespondent.net/ukraine/4924543-shpyhuvala-pid-vyhliadom-prybyralnytsi-ahentka-rf-otrymala-15-rokiv",
+    "pubDate": "2026-10-29 16:22:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4615328.jpeg\">Жінка пропонувала українським військовим послуги з прибирання, щоб увійти до них у довіру та збирати секретні дані.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
     "title": "El Partido Comunista chino refuerza su lucha contra la corrupción y expulsa a 33 altos cargos",
     "link": "https://www.elperiodico.com/es/internacional/20261029/partido-comunista-chino-refuerza-lucha-corrupcion-expulsa-33-altos-cargos-135892997",
     "pubDate": "2026-10-29 16:19:08",
