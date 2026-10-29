@@ -1,8 +1,9 @@
-# News for 2026-10-29 22:15
+# News for 2026-10-29 22:59
 
 Previous day: [2026-10-28](./data/2026-10-28.md)
 
 ## ua.korrespondent.net
+22:49 [Трагедія у Дніпрі. Удар росіян по вокзалу](https://ua.korrespondent.net/ukraine/4924650-trahediia-u-dnipri-udar-rosiian-po-vokzalu)<br>
 22:09 [РФ атакувала Київ балістикою, у місті пожежа](https://ua.korrespondent.net/city/kiev/4924645-rf-atakuvala-kyiv-balistykoui-u-misti-pozhezha)<br>
 21:44 [Удари РФ по видавництвах: скільки підручників втратила Україна](https://ua.korrespondent.net/ukraine/4924641-udary-rf-po-vydavnytstvakh-skilky-pidruchnykiv-vtratyla-ukraina)<br>
 21:28 [В Іспанії оголосили три дні страйків на залізниці](https://ua.korrespondent.net/world/4924631-v-ispanii-oholosyly-try-dni-straikiv-na-zaliznytsi)<br>

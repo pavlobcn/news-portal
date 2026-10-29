@@ -1,5 +1,59 @@
 [
   {
+    "title": "El Athletic no se deja sorprender por el Prat (1-6)",
+    "link": "https://www.elperiodico.com/es/deportes/20261029/athletic-deja-sorprender-prat-1-135904667",
+    "pubDate": "2026-10-29 22:58:34",
+    "category": "",
+    "description": "<h2>El conjunto catalán resistió con entereza 84 minutos pero se hundió por el cansancio y acabó llevándose una goleada en el tramo final </h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Otra exhibición europea de un Barça letal que arrolla al Koge (0-8)",
+    "link": "https://www.elperiodico.com/es/deportes/20261029/exhibicion-europea-barca-letal-arrolla-135903480",
+    "pubDate": "2026-10-29 22:54:46",
+    "category": "",
+    "description": "<h2>Goleada de época de las culers en Dinamarca, con siete goleadoras diferentes. </h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La portada de EL PERIÓDICO del 30 de octubre de 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20261029/portada-periodico-30-octubre-2026-135905516",
+    "pubDate": "2026-10-29 22:53:41",
+    "category": "",
+    "description": "",
+    "topic": "portada de EL PERIÓDICO",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Трагедія у Дніпрі. Удар росіян по вокзалу",
+    "link": "https://ua.korrespondent.net/ukraine/4924650-trahediia-u-dnipri-udar-rosiian-po-vokzalu",
+    "pubDate": "2026-10-29 22:49:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4615654.jpeg\">Володимир Зеленський висловив співчуття рідним і близьким загиблих та закликав до більш жорстких міжнародних санкцій проти Росії.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Боснії розбився військовий гелікоптер, є жертви",
+    "link": "https://ua.korrespondent.net/world/4924648-u-bosnii-rozbyvsia-viiskovyi-helikopter-ye-zhertvy",
+    "pubDate": "2026-10-29 22:45:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4615652.jpg\">Серед загиблих - двоє військовослужбовців армії Італії та двоє представників Добровольчого військового корпусу Італійського Червоного Хреста.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Israel ante una mayoría imposible",
+    "link": "https://www.elperiodico.com/es/opinion/20261029/israel-mayoria-imposible-editorial-135905090",
+    "pubDate": "2026-10-29 22:23:32",
+    "category": "",
+    "description": "<h2>La oposición no puede desalojar a Netanyahu, por lo que no se pueden descartar unas nuevas elecciones </h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20261029/netanyahu-aviva-acusaciones-injerencia-extranjera-servicio-inteligencia-investigacion-shin-bet-135895973\">Netanyahu aviva las acusaciones de injerencia extranjera en las elecciones y el servicio de inteligencia de Israel inicia una investigación</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 95
+  },
+  {
     "title": "РФ атакувала Київ балістикою, у місті пожежа",
     "link": "https://ua.korrespondent.net/city/kiev/4924645-rf-atakuvala-kyiv-balistykoui-u-misti-pozhezha",
     "pubDate": "2026-10-29 22:09:00",
