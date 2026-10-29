@@ -1,8 +1,9 @@
-# News for 2026-10-29 17:15
+# News for 2026-10-29 18:34
 
 Previous day: [2026-10-28](./data/2026-10-28.md)
 
 ## ua.korrespondent.net
+17:31 [Свята 30 жовтня 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4924561-sviata-30-zhovtnia-2026-roku-istoriia-tradytsii)<br>
 16:15 [Apple представила MacBook Pro із сенсорним OLED-екраном](https://ua.korrespondent.net/lifestyle/gadgets/4924547-Apple-predstavyla-MacBook-Pro-iz-sensornym-OLED-ekranom)<br>
 15:47 [У Камбоджі 200 туристів із круїзного судна залишилися без ночівлі](https://ua.korrespondent.net/world/4924523-u-kambodzhi-200-turystiv-iz-kruiznoho-sudna-zalyshylysia-bez-nochivli)<br>
 15:25 [ГУР оцінило втрати і залишки російських Су-34](https://ua.korrespondent.net/ukraine/4924526-hur-otsinylo-vtraty-i-zalyshky-rosiiskykh-su-34)<br>
@@ -43,6 +44,10 @@ Previous day: [2026-10-28](./data/2026-10-28.md)
 06:36 [La batalla de los estilos sin Nick Smith](https://as.com/baloncesto/euroliga/la-batalla-de-los-estilos-sin-nick-smith-f202610-n/)<br>
 
 ## www.elperiodico.com
+18:13 [Más de 600 jóvenes se acercan a su futuro laboral de la mano de 30 grandes empresas en Sant Cugat](https://www.elperiodico.com/es/barcelona/20261029/600-jovenes-acercan-futuro-laboral-biva-talentos-sant-cugat-135896884)<br>
+18:11 [El clásico del baloncesto del 2026: el noveno Barça-Valencia](https://www.elperiodico.com/es/deportes/20261029/clasico-baloncesto-2026-noveno-barca-135895806)<br>
+18:04 [El PIB de Barcelona crece al 3% y ya supera en 14 puntos la economía prepandemia](https://www.elperiodico.com/es/barcelona/20261029/pib-barcelona-crece-3-14-puntos-economia-prepandemia-135492374)<br>
+18:00 [El Prat expande la "mayor comunidad energética residencial" de Catalunya para abastecer a 1.500 hogares](https://www.elperiodico.com/es/barcelona/20261029/prat-expande-mayor-comunidad-energetica-residencial-catalunya-abastecer-1500-hogares-135894733)<br>
 17:10 [El dueño de Google pulveriza 500.000 millones en Bolsa y reaviva el miedo a una burbuja de la IA](https://www.elperiodico.com/es/economia/20261029/dueno-google-pulveriza-500-000-135895164)<br>
 17:00 [Crítica de 'Hope': un cruce excesivo y apabullante de thriller de persecuciones, comedia, cine de monstruos y ciencia ficción](https://www.elperiodico.com/es/ocio-y-cultura/20261029/critica-hope-cruce-excesivo-apabullante-135879843)<br>
 17:00 [José María, pescadero, sobre las pescaderías tradicionales: "Más de la mitad del pescado se vende en el supermercado, y no porque sea mejor"](https://www.elperiodico.com/es/economia/20261029/pescadero-pescado-supermercados-pescaderia-jose-maria-sanchez-dv-135638855)<br>
