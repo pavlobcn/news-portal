@@ -1,8 +1,11 @@
-# News for 2026-10-29 15:13
+# News for 2026-10-29 16:21
 
 Previous day: [2026-10-28](./data/2026-10-28.md)
 
 ## ua.korrespondent.net
+16:15 [Apple представила MacBook Pro із сенсорним OLED-екраном](https://ua.korrespondent.net/lifestyle/gadgets/4924547-Apple-predstavyla-MacBook-Pro-iz-sensornym-OLED-ekranom)<br>
+15:47 [У Камбоджі 200 туристів із круїзного судна залишилися без ночівлі](https://ua.korrespondent.net/world/4924523-u-kambodzhi-200-turystiv-iz-kruiznoho-sudna-zalyshylysia-bez-nochivli)<br>
+15:25 [ГУР оцінило втрати і залишки російських Су-34](https://ua.korrespondent.net/ukraine/4924526-hur-otsinylo-vtraty-i-zalyshky-rosiiskykh-su-34)<br>
 15:06 [У Міноборони показали, як турелі збивають реактивні дрони](https://ua.korrespondent.net/ukraine/4924518-u-minoborony-pokazaly-yak-tureli-zbyvauit-reaktyvni-drony)<br>
 15:01 [​Актор Гри престолів ночував в укритті Києва](https://ua.korrespondent.net/lifestyle/4924506-aktor-hry-prestoliv-nochuvav-v-ukrytti-kyieva)<br>
 14:58 [РФ ударила по п’ятиповерхівці в Ізюмі: під завалами люди](https://ua.korrespondent.net/city/kharkov/4924520-rf-udaryla-po-piatypoverkhivtsi-v-izuimi-pid-zavalamy-luidy)<br>
@@ -40,6 +43,9 @@ Previous day: [2026-10-28](./data/2026-10-28.md)
 06:36 [La batalla de los estilos sin Nick Smith](https://as.com/baloncesto/euroliga/la-batalla-de-los-estilos-sin-nick-smith-f202610-n/)<br>
 
 ## www.elperiodico.com
+15:59 [Los piquetes de la huelga del metal cortan el tráfico en la salida hacia la autovía y en los accesos industriales de Cartagena](https://www.elperiodico.com/es/sociedad/20261029/huelga-metal-complica-nuevo-trafico-135892345)<br>
+15:44 [El Premio Impulsa Cultura, que se entregará el 9 de noviembre, pasa de 15.000 a 30.000 euros](https://www.elperiodico.com/es/ocio-y-cultura/20261029/premio-impulsa-cultura-entregara-euros-9-noviembre-135891319)<br>
+15:26 [Damián, el joven de 24 años que lucha por resucitar el pueblo de sus abuelos: "Tiene que venir gente y así evitar que estos lugares queden en el olvido y terminen desapareciendo"](https://www.elperiodico.com/es/economia/20261029/recuperar-pueblo-abuelos-despoblacion-montana-asturias-vivienda-damian-dv-et-134844610)<br>
 15:07 [Detectar a tiempo la arritmia cardíaca más frecuente previene el ictus en mujeres de más de 65 años](https://www.elperiodico.com/es/sanidad/20261029/detectar-precozmente-fibrilacion-auricular-mujeres-mas-65-anos-prevenir-ictus-isquemico-135874292)<br>
 15:00 [Un líquido que "viaja" en el tiempo podría ser un nuevo estado de la materia](https://www.elperiodico.com/es/tendencias21/20261029/liquido-viaja-tiempo-nuevo-materia-135890479)<br>
 15:00 [Xavi Abat, abogado: "Puedes cobrar una indemnización por ir como testigo al juzgado y mucha gente no lo sabe"](https://www.elperiodico.com/es/economia/20261029/xavi-abat-abogado-cobrar-indemnizacion-testigo-juzgado-dv-135882063)<br>
