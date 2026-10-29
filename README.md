@@ -1,8 +1,11 @@
-# News for 2026-10-29 21:24
+# News for 2026-10-29 22:15
 
 Previous day: [2026-10-28](./data/2026-10-28.md)
 
 ## ua.korrespondent.net
+22:09 [РФ атакувала Київ балістикою, у місті пожежа](https://ua.korrespondent.net/city/kiev/4924645-rf-atakuvala-kyiv-balistykoui-u-misti-pozhezha)<br>
+21:44 [Удари РФ по видавництвах: скільки підручників втратила Україна](https://ua.korrespondent.net/ukraine/4924641-udary-rf-po-vydavnytstvakh-skilky-pidruchnykiv-vtratyla-ukraina)<br>
+21:28 [В Іспанії оголосили три дні страйків на залізниці](https://ua.korrespondent.net/world/4924631-v-ispanii-oholosyly-try-dni-straikiv-na-zaliznytsi)<br>
 21:11 [Помер актор Патрік Стюарт: легенда Людей Ікс](https://ua.korrespondent.net/lifestyle/4924634-pomer-aktor-patrik-stuiart-lehenda-luidei-iks)<br>
 20:55 [Розмінування в Олешках завершено: що буде далі](https://ua.korrespondent.net/ukraine/4924624-rozminuvannia-v-oleshkakh-zaversheno-scho-bude-dali)<br>
 20:39 [Німецькі роботи GEREON отримають українські бойові модулі](https://ua.korrespondent.net/tech/technews/4924622-nimetski-roboty-GEREON-otrymauit-ukrainski-boiovi-moduli)<br>
@@ -57,6 +60,7 @@ Previous day: [2026-10-28](./data/2026-10-28.md)
 06:36 [La batalla de los estilos sin Nick Smith](https://as.com/baloncesto/euroliga/la-batalla-de-los-estilos-sin-nick-smith-f202610-n/)<br>
 
 ## www.elperiodico.com
+21:41 [Jueves negro en Joaquín Sorolla: El tren averiado en el túnel de Aranjuez y la huelga de maquinistas colapsan la estación de alta velocidad](https://www.elperiodico.com/es/sociedad/20261029/jueves-negro-en-joaquin-sorolla-la-averia-en-aranjuez-y-la-huelga-de-maquinistas-colapsan-la-estacion-de-alta-velocidad-135904393)<br>
 21:09 [Muere Patrick Stewart, estrella de 'Star Trek' y 'X-Men'](https://www.elperiodico.com/es/ocio-y-cultura/20261029/muere-actor-patrick-stewart-star-trek-xmen-135903705)<br>
 21:03 [La ingeniera alicantina Adriana Marroquín Rodríguez, de 27 años, entre las víctimas del accidente de trenes en Toledo](https://www.elperiodico.com/es/sociedad/20261029/ingeniera-alicantina-vagon-8-ave-renfe-victimas-mortales-accidente-trenes-urda-toledo-135903348)<br>
 21:01 [Una marcha de la memoria por los muertos de la dana: “Los dos años pesan, y pesa la falta de responsabilidad política”](https://www.elperiodico.com/es/sociedad/20261029/marcha-memoria-muertos-dana-segundo-aniversario-135903457)<br>
