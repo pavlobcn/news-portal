@@ -1,8 +1,11 @@
-# News for 2026-10-29 20:39
+# News for 2026-10-29 21:24
 
 Previous day: [2026-10-28](./data/2026-10-28.md)
 
 ## ua.korrespondent.net
+21:11 [Помер актор Патрік Стюарт: легенда Людей Ікс](https://ua.korrespondent.net/lifestyle/4924634-pomer-aktor-patrik-stuiart-lehenda-luidei-iks)<br>
+20:55 [Розмінування в Олешках завершено: що буде далі](https://ua.korrespondent.net/ukraine/4924624-rozminuvannia-v-oleshkakh-zaversheno-scho-bude-dali)<br>
+20:39 [Німецькі роботи GEREON отримають українські бойові модулі](https://ua.korrespondent.net/tech/technews/4924622-nimetski-roboty-GEREON-otrymauit-ukrainski-boiovi-moduli)<br>
 20:07 [12 днів без допомоги: з окупації врятували п’ятьох українців](https://ua.korrespondent.net/ukraine/4924616-12-dniv-bez-dopomohy-z-okupatsii-vriatuvaly-piatokh-ukraintsiv)<br>
 19:52 [ЗСУ вдарили по пусковій установці Іскандера](https://ua.korrespondent.net/ukraine/4924612-zsu-vdaryly-po-puskovii-ustanovtsi-iskandera)<br>
 19:37 [Запоріжжя пережило рекордну кількість атак FPV-дронів](https://ua.korrespondent.net/city/zaporozhye/4924608-zaporizhzhia-perezhylo-rekordnu-kilkist-atak-FPV-droniv)<br>
@@ -45,6 +48,7 @@ Previous day: [2026-10-28](./data/2026-10-28.md)
 00:58 [У США оприлюднили дані розслідування смерті Гайден Панеттьєрі](https://ua.korrespondent.net/world/4924313-u-ssha-opryluidnyly-dani-rozsliduvannia-smerti-haiden-panettieri)<br>
 
 ## as.com
+21:12 [Real Madrid - Fenerbahçe, en directo: Euroliga 2026-27 en vivo hoy](https://as.com/baloncesto/euroliga/real-madrid-fenerbahce-en-directo-euroliga-2026-27-en-vivo-hoy-f202610-d/)<br>
 19:54 [Kevin Knox, de la NBA al Unicaja](https://as.com/baloncesto/kevin-knox-de-la-nba-al-unicaja-f202610-n/)<br>
 19:07 [La enfermería del Barça](https://as.com/baloncesto/euroliga/la-enfermeria-del-barca-f202610-n/)<br>
 18:33 [Sekulic: “El Valencia vendrá con la intención de buscar revancha”](https://as.com/baloncesto/euroliga/sekulic-el-valencia-vendra-con-la-intencion-de-buscar-revancha-f202610-n/)<br>
@@ -53,6 +57,9 @@ Previous day: [2026-10-28](./data/2026-10-28.md)
 06:36 [La batalla de los estilos sin Nick Smith](https://as.com/baloncesto/euroliga/la-batalla-de-los-estilos-sin-nick-smith-f202610-n/)<br>
 
 ## www.elperiodico.com
+21:09 [Muere Patrick Stewart, estrella de 'Star Trek' y 'X-Men'](https://www.elperiodico.com/es/ocio-y-cultura/20261029/muere-actor-patrick-stewart-star-trek-xmen-135903705)<br>
+21:03 [La ingeniera alicantina Adriana Marroquín Rodríguez, de 27 años, entre las víctimas del accidente de trenes en Toledo](https://www.elperiodico.com/es/sociedad/20261029/ingeniera-alicantina-vagon-8-ave-renfe-victimas-mortales-accidente-trenes-urda-toledo-135903348)<br>
+21:01 [Una marcha de la memoria por los muertos de la dana: “Los dos años pesan, y pesa la falta de responsabilidad política”](https://www.elperiodico.com/es/sociedad/20261029/marcha-memoria-muertos-dana-segundo-aniversario-135903457)<br>
 20:21 [El sindicato Semaf convoca nueva huelga de maquinistas en Renfe el 10 y 12 de noviembre](https://www.elperiodico.com/es/trafico-y-transportes/20261029/sindicato-semaf-convoca-nueva-huelga-renfe-10-12-noviembre-135902584)<br>
 20:14 [El sindicato Semaf convoca dos nuevas jornadas de huelga de maquinistas en Renfe para 10 y 12 de noviembre](https://www.elperiodico.com/es/economia/20261029/semaf-nueva-huelga-renfe-10-12-noviembre-135902503)<br>
 20:00 [La guerra de narcos se recrudece en Catalunya y salta a edificios públicos con un crimen en el hospital de Tarragona](https://www.elperiodico.com/es/sociedad/20261029/guerra-narcos-recrudece-catalunya-edificios-publicos-hospitales-sin-miedo-impunidad-135892561)<br>
