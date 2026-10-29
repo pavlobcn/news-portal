@@ -1,5 +1,527 @@
 [
   {
+    "title": "Detectar a tiempo la arritmia cardíaca más frecuente previene el ictus en mujeres de más de 65 años",
+    "link": "https://www.elperiodico.com/es/sanidad/20261029/detectar-precozmente-fibrilacion-auricular-mujeres-mas-65-anos-prevenir-ictus-isquemico-135874292",
+    "pubDate": "2026-10-29 15:07:23",
+    "category": "",
+    "description": "<h2 class=\"item\">La fibrilación auricular es una alteración del ritmo cardíaco \"silenciosa\": afecta a una de cada tres personas y multiplica por cinco el riesgo de sufrir un derrame</h2><h2 class=\"item\">Un 20% de las personas con fibrilación auricular están sin diagnosticar y el colectivo femenino es el que más riesgos corre tras estos episodios</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20261027/cuatro-espanoles-sufrira-ictus-vida-secuelas-dependencia-135794685\" >Uno de cada cuatro españoles sufrirá un ictus a lo largo de su vida: más del 30% de los supervivientes quedan con secuelas</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20261026/awake-robot-made-in-barcelona-ensayos-pacientes-rehabilitacion-dura-135758022\" >'Awake', el robot 'made in Barcelona' que ayuda a caminar tras un ictus, suma más de 500 horas de ensayos con pacientes: \"La rehabilitación es dura\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Міноборони показали, як турелі збивають реактивні дрони",
+    "link": "https://ua.korrespondent.net/ukraine/4924518-u-minoborony-pokazaly-yak-tureli-zbyvauit-reaktyvni-drony",
+    "pubDate": "2026-10-29 15:06:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4615254.jpg\">Нині такі системи - невід’ємна частина ППО. Турелі знищили вже понад 60 цілей у межах проєкту Приватне ППО.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "MAPA | Dónde comprar castañas y boniatos en Barcelona este otoño: todos los puestos",
+    "link": "https://www.elperiodico.com/es/barcelona/20261029/mapa-paradas-castanas-boniatos-barcelona-135885680",
+    "pubDate": "2026-10-29 15:04:14",
+    "category": "",
+    "description": "<h2>Consulta el mapa con la ubicación de los puestos de temporada repartidos por Barcelona este otoño-invierno 2026-2027</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260929/nueva-tienda-castanas-productos-montseny-dv-134802607\" target=\"_blank\">Barcelona estrena una tienda dedicada a la castaña y los productos del Montseny</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Pedro Sánchez pospone su entrevista en el programa 'Salvados' este domingo por el accidente de Urda",
+    "link": "https://www.elperiodico.com/es/politica/20261029/pedro-sanchez-pospone-entrevista-programa-salvados-135890560",
+    "pubDate": "2026-10-29 15:03:06",
+    "category": "",
+    "description": "<h2 class=\"item\">El programa de La Sexta iba a grabarse este jueves y no se ha podido realizar por el siniestro</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "​Актор Гри престолів ночував в укритті Києва",
+    "link": "https://ua.korrespondent.net/lifestyle/4924506-aktor-hry-prestoliv-nochuvav-v-ukrytti-kyieva",
+    "pubDate": "2026-10-29 15:01:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4615241.jpg\">Відомий актор Микола Костер-Вальдау продовжує свою гуманітарну місію на посаді посла доброї волі Програми розвитку ООН.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un líquido que \"viaja\" en el tiempo podría ser un nuevo estado de la materia",
+    "link": "https://www.elperiodico.com/es/tendencias21/20261029/liquido-viaja-tiempo-nuevo-materia-135890479",
+    "pubDate": "2026-10-29 15:00:45",
+    "category": "",
+    "description": "<h2>Los físicos plantean una forma de materia que conservaría un ritmo en el tiempo sin mantener el orden perfecto de los cristales temporales</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Xavi Abat, abogado: \"Puedes cobrar una indemnización por ir como testigo al juzgado y mucha gente no lo sabe\"",
+    "link": "https://www.elperiodico.com/es/economia/20261029/xavi-abat-abogado-cobrar-indemnizacion-testigo-juzgado-dv-135882063",
+    "pubDate": "2026-10-29 15:00:12",
+    "category": "",
+    "description": "<h2 class=\"item\">Acudir a declarar puede generar gastos de transporte, manutención y tiempo perdido</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260419/miles-trabajadores-perdida-dinero-accidente-laboral-dv-129131096\" target=\"_blank\">Si has sufrido un accidente laboral, esto es todo lo que puedes reclamar además de la prestación por baja</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "РФ ударила по п’ятиповерхівці в Ізюмі: під завалами люди",
+    "link": "https://ua.korrespondent.net/city/kharkov/4924520-rf-udaryla-po-piatypoverkhivtsi-v-izuimi-pid-zavalamy-luidy",
+    "pubDate": "2026-10-29 14:58:00",
+    "category": "Харків",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4615268.jpg\">Російські війська завдали ракетного удару по Лозовій і вдарили керованою авіабомбою по Ізюму на Харківщині. Є поранені в обох містах.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La UCO informa a Pedraz de que la jueza Biedma autorizó dar a las partes mails personales de Pedro Sánchez y su esposa",
+    "link": "https://www.elperiodico.com/es/politica/20261029/uco-informa-pedraz-jueza-biedma-mails-pedro-sanchez-135890267",
+    "pubDate": "2026-10-29 14:55:48",
+    "category": "",
+    "description": "<h2> La publicación de los datos dio lugar a notas internas y la reacción del DAO de la Guardia Civil: \"No es lo que nos transmitieron, mañana ordenaré una información reservada\"</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Нацбанк визначився щодо облікової ставки",
+    "link": "https://ua.korrespondent.net/business/financial/4924517-natsbank-vyznachyvsia-schodo-oblikovoi-stavky",
+    "pubDate": "2026-10-29 14:50:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4615267.jpg\">Регулятор обіцяє і далі коригувати монетарну політику залежно від фактичного розвитку подій, зокрема впливу російських атак на інфляцію та економічну активність.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "На борту атакованого біля Болгарії судна перебували четверо українців",
+    "link": "https://ua.korrespondent.net/world/4924515-na-bortu-atakovanoho-bilia-bolharii-sudna-perebuvaly-chetvero-ukraintsiv",
+    "pubDate": "2026-10-29 14:46:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4615255.jpg\">На борту контейнеровоза CONTSHIP JET, який атакували морські дрони в Чорному морі, перебували четверо українців. Усі 18 членів екіпажу врятували, однак саме судно затонуло.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "“Los clubes están abiertos a entrar en la NBA Europa, pero quieren entrar todos”",
+    "link": "https://as.com/baloncesto/euroliga/los-clubes-estan-abiertos-a-entrar-en-la-nba-europa-pero-quieren-entrar-todos-f202610-n/",
+    "pubDate": "2026-10-29 14:44:12",
+    "category": "Baloncesto",
+    "description": "Chus Bueno, CEO de la Euroliga, no cierra la puerta a la NBA, pero advierte de que tiene que ser con todos los equipos a los que pertenece la Euroliga.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Трампа висміяли за слова про справу Майка Тайсона",
+    "link": "https://ua.korrespondent.net/lifestyle/4924505-trampa-vysmiialy-za-slova-pro-spravu-maika-taisona",
+    "pubDate": "2026-10-29 14:41:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4615201.jpg\">Дональду Трампу нагадали про його найбільш скандальні історії та резонансні вчинки.",
+    "topic": "політика",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "У Греції вперше публічно показали компоненти системи ППО Щит Ахілла",
+    "link": "https://ua.korrespondent.net/world/4924498-u-hretsii-vpershe-publichno-pokazaly-komponenty-systemy-ppo-schyt-akhilla",
+    "pubDate": "2026-10-29 14:39:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4615219.jpg\">Система має захищати Грецію від літаків, балістичних і крилатих ракет та безпілотників. Її розвиток є частиною програми модернізації збройних сил країни.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росіянина з гранатою та шпигунським обладнанням затримали в Мексиці",
+    "link": "https://ua.korrespondent.net/world/4924513-rosiianyna-z-hranatoui-ta-shpyhunskym-obladnanniam-zatrymaly-v-meksytsi",
+    "pubDate": "2026-10-29 14:33:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4615253.jpg\">У Мексиці затримали громадянина РФ, у якого знайшли гранату та підроблені документи американської розвідки. Федеральна прокуратура встановила, що чоловік є колишнім військовим і його розшукує Інтерпол.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Укртелеком збільшив дохід на 13%: скільки заробив",
+    "link": "https://ua.korrespondent.net/business/companies/4924510-ukrtelekom-zbilshyv-dokhid-na-13-skilky-zarobyv",
+    "pubDate": "2026-10-29 14:29:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4615233.jpg\">Укртелеком за дев’ять місяців 2026 року збільшив дохід майже на 13%, а показник EBITDA зріс на 46%.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Tres años cotizados dan derecho a cobrar un año de paro, pero hay un detalle que debes tener en cuenta",
+    "link": "https://www.elperiodico.com/es/economia/20261029/tres-anos-cotizados-dan-derecho-cobrar-ano-de-paro-pero-hay-detalle-debes-tener-en-cuenta-dv-135884312",
+    "pubDate": "2026-10-29 14:27:03",
+    "category": "",
+    "description": "<h2>El SEPE establece que el período en el que se abonará el paro, dependerá del tiempo cotizado en los seis últimos años</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261018/devolver-cobro-indebido-sepe-paro-venta-vivienda-dv-et-135405482\" target=\"_blank\">Cobra el paro y gana 30.000 euros con la venta de una casa: ahora la justicia la condena a devolverle 7.000 euros al SEPE</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Más desafíos al orden democrático",
+    "link": "https://www.elperiodico.com/es/opinion/20261029/desafios-orden-democratico-135886073",
+    "pubDate": "2026-10-29 14:24:02",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "У Чернігові різко зросла кількість поранених",
+    "link": "https://ua.korrespondent.net/ukraine/4924508-u-chernihovi-rizko-zrosla-kilkist-poranenykh",
+    "pubDate": "2026-10-29 14:21:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4615232.jpg\">До 23 осіб збільшилася кількість постраждалих через російський удар по центру міста, серед них зокрема четверо дітей.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Manolo se despide con una carta amable y sin rencor: \"Gracias pericos, siempre querré lo mejor para el Espanyol\"",
+    "link": "https://www.elperiodico.com/es/deportes/20261029/manolo-despide-carta-amable-rencor-135887823",
+    "pubDate": "2026-10-29 14:20:17",
+    "category": "",
+    "description": "<h2 class=\"item\">El preparador agradece el \"cariño de la afición\", lamenta su triste final y recuerda a jugadores y empleados que le acompañaron en el camino desde el filial al primer equipo.</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20261029/monchi-justifica-formas-despido-manolo-135883835\" target=\"_blank\">Monchi justifica las formas del despido de Manolo en plena crisis del Espanyol</a>: \"Hice lo más correcto, lo contrario era engañarlo y reírme de él\"</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El BCE opta por la cautela ante la salida de Lagarde en febrero y mantiene los tipos en el 2,5%",
+    "link": "https://www.elperiodico.com/es/economia/20261029/bce-opta-cautela-salida-lagarde-135888394",
+    "pubDate": "2026-10-29 14:16:12",
+    "category": "",
+    "description": "<h2>El Eurobanco gana así algo de tiempo para evaluar los efectos que ha tenido en la economía la subida de septiembre, con la inflación de la Eurozona en el 3,8%</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Filipe Henriques, presidente de GASIB: “El AutoGas es la solución de transición limpia para democratizar la Etiqueta ECO”",
+    "link": "https://www.elperiodico.com/es/motor/20261029/entrevista-filipe-henriques-presidente-gasib-135764626",
+    "pubDate": "2026-10-29 14:15:40",
+    "category": "",
+    "description": "<h2>Analizamos con el máximo responsable de la compañía el papel del GLP y el BioGLP para reducir emisiones sin arruinar al conductor</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Шевченко відзначив 22-річчя сина сімейним фото",
+    "link": "https://ua.korrespondent.net/sport/football/4924462-shevchenko-vidznachyv-22-richchia-syna-simeinym-foto",
+    "pubDate": "2026-10-29 14:15:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4615162.jpg\">Легендарний український футболіст разом із дружиною опублікували зворушливі привітання на честь дня народження свого старшого сина.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Колишня Потапа порушила тему зрад репера з Каменських",
+    "link": "https://ua.korrespondent.net/lifestyle/4924474-kolyshnia-potapa-porushyla-temu-zrad-repera-z-kamenskykh",
+    "pubDate": "2026-10-29 14:10:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4615072.jpg\">Ірина Горова розповіла, що від початку передбачала роман Потапа та Насті Каменських.",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "L’Hospitalet comprará dos solares para construir vivienda pública en la ciudad",
+    "link": "https://www.elperiodico.com/es/barcelona/20261029/hospitalet-comprara-solares-construir-vivienda-publica-ciudad-135876919",
+    "pubDate": "2026-10-29 14:08:46",
+    "category": "",
+    "description": "<h2>El consistorio adquirirá dos terrenos ubicados en los barrios de Sant Josep y la Torrassa</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20261001/lhospitalet-comprara-148-pisos-ciudad-evitar-caigan-manos-fondo-inversion-134874678\" target=\"_blank\">L'Hospitalet comprará 148 pisos de la ciudad para evitar que caigan en manos de un fondo de inversión</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "В Одесі юнаків судитимуть за катування безхатька, яке знімали на відео",
+    "link": "https://ua.korrespondent.net/city/odessa/4924502-v-odesi-yunakiv-sudytymut-za-katuvannia-bezkhatka-yake-znimaly-na-video",
+    "pubDate": "2026-10-29 14:07:00",
+    "category": "Одеса",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4615220.jpg\">За версією слідства, знущання тривали понад пів години, а відео один із фігурантів опублікував у месенджері.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los Mossos identifican al seguidor que intentó agredir a Camavinga durante el clásico",
+    "link": "https://www.elperiodico.com/es/deportes/20261029/mossos-identifican-seguidor-agresion-camavinga-clasico-135886623",
+    "pubDate": "2026-10-29 14:06:57",
+    "category": "",
+    "description": "<h2>El seguidor del Barça podría recibir una multa de hasta 60.000 euros</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Julio Iglesias tilda de \"injusticia\" el accidente de Urda y critica la \"falta de cuidado\" de infraestructuras",
+    "link": "https://www.elperiodico.com/es/gente/20261029/julio-iglesias-accidente-tren-urda-toledo-injusticia-dv-135887138",
+    "pubDate": "2026-10-29 14:04:23",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261029/accidente-trenes-toledo-ave-iryo-victimas-desaparecidos-causa-choque-hoy-ultima-hora-directo-135832237\" >DIRECTO | Accidente de trenes en Toledo, en directo | Última hora de las causas, muertos, heridos y desaparecidos tras el choque</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20261029/kiko-rivera-accidente-tren-toledo-dv-135885666\" >Kiko Rivera, consternado por la tragedia ferroviaria de Toledo: \"Es un tren que he cogido muchísimas veces y la verdad que me ha removido muchísimo\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20261029/ana-obregon-nieta-anita-accidente-tren-urda-dv-135884268\" >Ana Obregón, \"indignada, consternada y triste\" por el dramático accidente de tren de Urda (Toledo): \"¿Dónde va nuestro dinero? A infraestructuras no\"</a></h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Талант трирічного футболіста спричинив переполох",
+    "link": "https://ua.korrespondent.net/strange/4924486-talant-tryrichnoho-futbolista-sprychynyv-perepolokh",
+    "pubDate": "2026-10-29 14:02:00",
+    "category": "Чудасії",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4615187.jpg\">Правоохоронці прибули на виклик через конфлікт, який спровокувала надто майстерна гра трирічного хлопчика.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "La Fundació Joan Miró amplía su depósito con 37 nuevas obras de la Colección Katsuta",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261029/fundacio-joan-miro-coleccion-katsuta-135879382",
+    "pubDate": "2026-10-29 13:57:23",
+    "category": "",
+    "description": "<h2 class=\"item\">Las incorporaciones muestran a un artista \"especialmente experimentador\" durante los años 30 y 50</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Kiko Rivera, consternado por la tragedia ferroviaria de Toledo: \"Es un tren que he cogido muchísimas veces y la verdad que me ha removido muchísimo\"",
+    "link": "https://www.elperiodico.com/es/gente/20261029/kiko-rivera-accidente-tren-toledo-dv-135885666",
+    "pubDate": "2026-10-29 13:54:26",
+    "category": "",
+    "description": "<h2 class=\"item\">El DJ ha decidido aplazar el lanzamiento del primer single del que será su primer disco después de 15 años</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261029/accidente-trenes-toledo-ave-iryo-victimas-desaparecidos-causa-choque-hoy-ultima-hora-directo-135832237\" >Accidente de trenes en Toledo, en directo | Última hora de las causas, muertos, heridos y desaparecidos tras el choque</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20261029/ana-obregon-nieta-anita-accidente-tren-urda-dv-135884268\" >Ana Obregón, \"indignada, consternada y triste\" por el dramático accidente de tren de Urda (Toledo): \"¿Dónde va nuestro dinero? A infraestructuras no\"</a></h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Сили оборони уразили \"шахедну інфраструктуру\" в РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4924497-syly-oborony-urazyly-shakhednu-infrastrukturu-v-rf",
+    "pubDate": "2026-10-29 13:54:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4615218.jpg\">Лише в районі Навлі на Брянщині уражено склад \"шахедів\", дронопорт і склад паливно-мастильних матеріалів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Зірковий форвард МЮ вибув на тривалий термін",
+    "link": "https://ua.korrespondent.net/sport/football/4924495-zirkovyi-forvard-mui-vybuv-na-tryvalyi-termin",
+    "pubDate": "2026-10-29 13:51:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4615205.jpg\">Форвард не зможе допомогти своїй команді в офіційних матчах, що залишилися до кінця поточного року.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Antonio Acedo, el maquinista del AVE que murió intentando evitar el accidente de Urda: 36 años, militante de Izquierda Española y \"un hombre bueno\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261029/antonio-acedo-maquinista-mostoleno-murio-accidente-tren-urda-izquierda-espanola-fotografia-buena-persona-135886528",
+    "pubDate": "2026-10-29 13:50:32",
+    "category": "",
+    "description": "<h2>Criado en Fuenlabrada, había participado en la elaboración del programa de transportes de la formación política, que le despidió asegurando que \"era de esas personas que mejoran aquellos lugares por los que transitan\"</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20261029/accidente-trenes-toledo-ave-iryo-victimas-desaparecidos-causa-choque-hoy-ultima-hora-directo-135832237\">DIRECTO | Última hora de las causas, muertos, heridos y desaparecidos tras el accidente de tren de Toledo</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "ЄК відмовилася виділити країнам Балтії €500 млн на захист від дронів",
+    "link": "https://ua.korrespondent.net/world/4924491-yek-vidmovylasia-vydilyty-krainam-baltii-500-mln-na-zakhyst-vid-droniv",
+    "pubDate": "2026-10-29 13:49:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4615206.jpg\">Коштів у бюджеті Євросоюзу немає, оскільки поточний бюджетний період підходить до завершення.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Muere la exministra de Trabajo Fátima Báñez a los 59 años en el accidente de trenes de Toledo",
+    "link": "https://www.elperiodico.com/es/economia/20261029/muere-exministra-trabajo-fatima-banez-135886217",
+    "pubDate": "2026-10-29 13:47:18",
+    "category": "",
+    "description": "<h2>La onubense viajaba en el AVE accidentado con dirección a Sevilla para participar en un evento organizado por la Confederación de Empresarios de Andalucía (CEA)</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261029/fatima-banez-muere-arquitecta-controvertida-reforma-laboral-pp-135886050\" >Fátima Báñez, ministra de Trabajo en las dos legislaturas de Rajoy y la primera mujer en ocupar esta cartera</a></h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20261029/accidente-trenes-toledo-ave-iryo-victimas-desaparecidos-causa-choque-hoy-ultima-hora-directo-135832237\" >Accidente de trenes en Toledo, en directo | Última hora de las causas, muertos, heridos y desaparecidos tras el choque</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Азербайджан скерував Україні партію енергообладнання на $1,5 млн",
+    "link": "https://ua.korrespondent.net/ukraine/4924488-azerbaidzhan-skeruvav-ukraini-partiui-enerhoobladnannia-na-15-mln",
+    "pubDate": "2026-10-29 13:46:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4615203.jpg\">З початку повномасштабного вторгнення Україна вже отримала 159 гуманітарних вантажів з Азербайджану з обладнанням загальною вагою понад 2 432,4 тонн.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Fátima Báñez, ministra de Trabajo en las dos legislaturas de Rajoy y la primera mujer en ocupar esta cartera",
+    "link": "https://www.elperiodico.com/es/economia/20261029/fatima-banez-muere-arquitecta-controvertida-reforma-laboral-pp-135886050",
+    "pubDate": "2026-10-29 13:44:37",
+    "category": "",
+    "description": "<h2>La presidenta de la Fundación CEOE se encuentra entre las víctimas del choque de dos trenes de alta velocidad en el termino municipal de Urda </h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261029/muere-exministra-trabajo-fatima-banez-135886217\" >Muere la exministra de Trabajo Fátima Báñez a los 59 años en el accidente de trenes de Toledo</a></h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20261029/accidente-trenes-toledo-ave-iryo-victimas-desaparecidos-causa-choque-hoy-ultima-hora-directo-135832237\">Accidente de trenes en Toledo, en directo | Última hora de las causas, muertos, heridos y desaparecidos tras el choque</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Інцидент із ТЦК у Луцьку перевіряє омбудсман",
+    "link": "https://ua.korrespondent.net/ukraine/4924492-intsydent-iz-ttsk-u-lutsku-pereviriaie-ombudsman",
+    "pubDate": "2026-10-29 13:42:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4615204.jpg\">У соцмережах поширили відео затримання чоловіка біля ЦУМу в Луцьку, на якому, за оцінкою представництва омбудсмана, видно застосування фізичної сили. Обставини інциденту та дії ТЦК перевіряють.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "La Guardia Civil se centra en la recogida de centenares de restos humanos en el punto del choque de trenes de Urda",
+    "link": "https://www.elperiodico.com/es/politica/20261029/guardia-civil-centra-recogida-centenares-restos-humanos-accidente-trenes-urda-135885418",
+    "pubDate": "2026-10-29 13:39:58",
+    "category": "",
+    "description": "<h2>La investigación técnica de policía judicial busca detalles para explicar por qué, además del sistema primario de frenado LZB, falló el secundario ASFA.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ana Obregón, \"indignada, consternada y triste\" por el dramático accidente de tren de Urda (Toledo): \"¿Dónde va nuestro dinero? A infraestructuras no\"",
+    "link": "https://www.elperiodico.com/es/gente/20261029/ana-obregon-nieta-anita-accidente-tren-urda-dv-135884268",
+    "pubDate": "2026-10-29 13:37:27",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261029/accidente-trenes-toledo-ave-iryo-victimas-desaparecidos-causa-choque-hoy-ultima-hora-directo-135832237\" >Accidente de trenes en Toledo, en directo | Última hora de las causas, muertos, heridos y desaparecidos tras el choque</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/yotele/20261028/accidente-urda-maxima-preocupacion-raul-trigueros-reportero-de-viernes-135865136\" >Un reportero de '¡De viernes!' que viajaba a Sevilla para entrevistar a Amador Mohedano, entre los desaparecidos en el accidente de Toledo</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Драма наприкінці матчу: Епіцентр дотиснув Чернігів",
+    "link": "https://ua.korrespondent.net/sport/football/4924487-drama-naprykintsi-matchu-epitsentr-dotysnuv-chernihiv",
+    "pubDate": "2026-10-29 13:35:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4615202.jpg\">Пізній гол вирішив долю виходу до наступного раунду: Епіцентр святкує важку перемогу над Черніговом.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Feijóo pide a Sánchez que sea \"consecuente\": \"Las responsabilidades políticas no son opcionales”",
+    "link": "https://www.elperiodico.com/es/politica/20261029/feijoo-pide-sanchez-sea-consecuente-135884831",
+    "pubDate": "2026-10-29 13:33:50",
+    "category": "",
+    "description": "<h2>Tras visitar el puesto de mando en Urda, Alberto Núñez Feijóo ha señalado la gestión del Gobierno de Pedro Sánchez y ha pedido profesionalidad para evitar futuras tragedias en el transporte ferroviario</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20261029/accidente-trenes-toledo-ave-iryo-victimas-desaparecidos-causa-choque-hoy-ultima-hora-directo-135832237\">DIRECTO | Última hora de las causas, muertos, heridos y desaparecidos tras el accidente de tren de Toledo</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Monchi justifica las formas del despido de Manolo en plena crisis del Espanyol: \"Hice lo más correcto, lo contrario era engañarlo y reírme de él\"",
+    "link": "https://www.elperiodico.com/es/deportes/20261029/monchi-justifica-formas-despido-manolo-135883835",
+    "pubDate": "2026-10-29 13:33:28",
+    "category": "",
+    "description": "<h2 class=\"item\">El director general deportivo asegura que Sarabia es el \"técnico idóneo\" para \"apagar el fuego\" y revertir la situación. \"No estamos desahuciados, ni mucho menos\", proclama.</h2><h2 class=\"item\">Opinión | <a href=\"https://www.elperiodico.com/es/deportes/20261028/despides-manolo-subir-autocar-135829700\" target=\"_blank\">Cuando despides a Manolo antes de subir al autocar</a></h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La ANC apuesta por el \"bloqueo\" tras el 29-N y exige condicionar los pactos a la autodeterminación",
+    "link": "https://www.elperiodico.com/es/politica/20261029/anc-elecciones-generales-29n-partidos-independentistas-bloqueo-independencia-autodeterminacion-135881081",
+    "pubDate": "2026-10-29 13:33:03",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260908/josep-vila-anc-puigdemont-entrevista-133958002\">Josep Vila: \"Si Puigdemont regresa como presidente de un partido, la ANC no debe prepararlo. No seremos muleta de nadie\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261001/anc-independentismo-referendum-nuevo-embate-134387936\">El \"nuevo embate\" al Estado de la ANC no genera en el independentismo el entusiasmo de otros tiempos</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Eloi Vila (53 años), sobre su infancia en Barcelona: \"No sé si comparto el camino que sigue Barcelona\"",
+    "link": "https://www.elperiodico.com/es/barcelona/20261029/barcelona-eloi-vila-infancia-dictadura-gentrificacion-dv-loc-et-135815646",
+    "pubDate": "2026-10-29 13:31:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El escritor estudió en la Escola Heidi, fundada por su madre en 1964 en el barrio de Gràcia durante la dictadura franquista</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20261018/barcelona-secun-de-la-rosa-actor-peliculas-entrevista-dv-loc-135285197\" >Secun de la Rosa (56 años): \"Soy de una Barcelona que, si bajaba por las Ramblas, en una esquina del Palau Reial estaba Serrat cantando y en la otra esquina estaba Antonio Gades bailando flamenco\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20261014/barcelona-aina-clotet-actriz-dv-loc-134803879\" >Aina Clotet (44 años) señala uno de los problemas que más le entristecen de Barcelona: \"El olor a orina es horroroso\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "'Gerrymandering': Los republicanos ganan la 'guerra civil' de la manipulación de los distritos para las elecciones de medio mandato",
+    "link": "https://www.elperiodico.com/es/internacional/20261029/republicanos-ganan-guerra-civil-manipulacion-distritos-electorales-midterm-eeuu-gerrymandering-135884228",
+    "pubDate": "2026-10-29 13:24:21",
+    "category": "",
+    "description": "<h2>\"Los republicanos han obtenido así una ventaja neta de unos nueve escaños\", dice Nicholas Stephanopoulos, profesor de derecho de la Harvard Law School</h2><h2>Donald Trump pidió a Texas que redibujara los distritos para conseguir cinco escaños extra para los republicanos, y el gobernador de California, Gavin Newson, hizo lo propio para contrarrestar</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Salut califica de \"inusual\" el tiroteo ocurrido en el hospital Joan XXIII de Tarragona y revisará los protocolos de seguridad",
+    "link": "https://www.elperiodico.com/es/sanidad/20261029/salut-revisara-protocolos-seguridad-incidente-inusual-extraordinario-hospital-joan-xxiii-tarragona-135881365",
+    "pubDate": "2026-10-29 13:20:28",
+    "category": "",
+    "description": "<h2 class=\"item\">La consellera asegura que el agresor entró por las Urgencias y accedió a la planta de hospitalización, donde pegó tres tiros y mató a su víctima</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sucesos/20261029/ejecucion-hospital-joan-tarragona-tiroteo-hospital-tarragona-135872539\" >Ejecución en el hospital Joan XXIII de Tarragona: matan a tiros a un hombre que estaba ingresado por herida de bala</a></h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Литві двом чоловікам оголосили підозри через спробу підпалу Starlink",
+    "link": "https://ua.korrespondent.net/world/4924481-u-lytvi-dvom-cholovikam-oholosyly-pidozry-cherez-sprobu-pidpalu-Starlink",
+    "pubDate": "2026-10-29 13:19:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4615186.jpg\">Нині чоловіки перебувають під вартою в Німеччині. Питання про екстрадицію розглядатимуть на наступному етапі розслідування.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Ватажка банди рекетирів, яка тероризувала Чернігівщину, повернули з Польщі",
+    "link": "https://ua.korrespondent.net/world/4924477-vatazhka-bandy-reketyriv-yaka-teroryzuvala-chernihivschynu-povernuly-z-polschi",
+    "pubDate": "2026-10-29 13:18:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4615171.jpg\">Учасники банди вимагали гроші з громадян за неіснуючі борги, погрожуючи фізичною розправою та застосовуючи до них насильство.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Хвороби, катування і ненадання допомоги: у РФ загинули 69 політв’язнів",
+    "link": "https://ua.korrespondent.net/world/russia/4924480-khvoroby-katuvannia-i-nenadannia-dopomohy-u-rf-zahynuly-69-politviazniv",
+    "pubDate": "2026-10-29 13:13:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4615185.jpg\">Серед 20 загиблих унаслідок побиттів і катувань - 12 громадян України, переважно жителів окупованих територій і військовополонених. Доповідь не охоплює українців, яких утримують у РФ поза межами кримінального переслідування.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Qué es la moviola ferroviaria y cómo puede ayudar a esclarecer el accidente de tren en Toledo",
+    "link": "https://www.elperiodico.com/es/economia/20261029/moviola-ferroviaria-ayudar-esclarecer-accidente-tren-toledo-ave-iryo-135883560",
+    "pubDate": "2026-10-29 13:09:43",
+    "category": "",
+    "description": "<h2>La herramienta permite reconstruir los movimientos y las comunicaciones registrados antes del choque entre el AVE y el Iryo, aunque sus datos deben contrastarse para determinar qué ocurrió</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20261029/accidente-trenes-toledo-ave-iryo-victimas-desaparecidos-causa-choque-hoy-ultima-hora-directo-135832237\" target=\"_blank\">ÚLTIMA HORA | Accidente de trenes en Toledo, en directo</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Лагард оголосила про відставку з посади глави ЄЦБ",
+    "link": "https://ua.korrespondent.net/business/financial/4924475-lahard-oholosyla-pro-vidstavku-z-posady-hlavy-yetsb",
+    "pubDate": "2026-10-29 13:03:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4615172.jpg\">Крістін Лагард залишить свою посаду приблизно за дев'ять місяців до закінчення восьмирічного терміну повноважень.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Crítica de 'Nocturno' (Apple TV): una sólida revisión de 'El silencio de los corderos' con reparto de superlujo",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261029/critica-nocturno-apple-stephen-graham-135876039",
+    "pubDate": "2026-10-29 13:01:01",
+    "category": "",
+    "description": "<h2 class=\"item\">Stephen Graham, Liev Schreiber y Zazie Beetz protagonizan esta sólida adaptación de 'El hombre de arena', cuarto libro de la saga del inspector Joona Linna </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20261027/matthew-perry-documental-netflix-testimonios-intimos-135762252\" target=\"_blank\">'El de Matthew Perry' (Netflix): una historia de éxito, adicción y vulnerabilidad contada por familiares y amigos</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20261023/steven-moffat-creador-sherlock-doctor-who-entrevista-135672665\" target=\"_blank\">Steven Moffat, creador de 'Sherlock': \"Que la serie vuelva no es imposible; nunca hemos dicho que se haya acabado\"</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "De la madre de internet al padre de PlayStation: los grandes nombres del Talent Arena 2027",
+    "link": "https://www.elperiodico.com/es/tecnologia/20261029/madre-internet-playstation-talent-arena-mwc-congreso-tecnologia-barcelona-135857255",
+    "pubDate": "2026-10-29 13:01:01",
+    "category": "",
+    "description": "<h2>El evento satélite del MWC dedicado al talento digital anuncia un cartel en el que también destacan el cofundador de Pixar y empresas emergentes como Hugging Face, Mistral AI o Perplexity</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "“Madrid y Valencia son los mejores ataques de la historia en la Euroliga”",
+    "link": "https://as.com/baloncesto/nba/madrid-y-valencia-son-los-mejores-ataques-de-la-historia-en-la-euroliga-f202610-n/",
+    "pubDate": "2026-10-29 12:57:44",
+    "category": "El mejor era Magic",
+    "description": "El tercer programa de ‘El Mejor Era Magic’ analiza el gran rendimiento en Euroliga de Real Madrid y Valencia Basket, y el pobre estado del Baskonia.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "15 abogados más del turno de oficio de refuerzo este sábado en Barcelona por si se producen nuevos disturbios",
+    "link": "https://www.elperiodico.com/es/sociedad/20261029/abogados-turno-de-oficio-sabado-disturbios-barcelona-blocus-135880185",
+    "pubDate": "2026-10-29 12:51:44",
+    "category": "",
+    "description": "<h2 class=\"item\">La Conselleria de Justícia también aplicará si es necesario los equipos técnicos de menores, que son los encargados de evaluar la situación personas y psicológica de los arrestados en edades comprendidas entre los 14 y 17 años</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261027/blocus-prepara-nueva-oleada-disturbios-barcelona-fin-de-semana-135805481\">Blocus prepara una nueva oleada de disturbios en Barcelona: \"Poneos ropa negra y máscaras de Halloween\"</a></h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "На Прикарпатті викрили схему поборів у Держпраці",
+    "link": "https://ua.korrespondent.net/ukraine/4924465-na-prykarpatti-vykryly-skhemu-poboriv-u-derzhpratsi",
+    "pubDate": "2026-10-29 12:44:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4615134.png\">Ділки вимагали гроші за дозволи на роботи з підвищеною небезпекою, фіктивне навчання, ігнорування порушень законодавства та \"потрібні\" результати розслідування нещасних випадків.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Los niños y niñas que aprendieron a vigilar el cielo",
     "link": "https://www.elperiodico.com/es/sociedad/20261029/ninos-ninas-aprendieron-vigilar-cielo-135878445",
     "pubDate": "2026-10-29 12:43:00",
@@ -1251,6 +1773,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "\"El pueblo salva al pueblo, una vez más\"",
+    "link": "https://www.elperiodico.com/es/entre-todos/participacion/accidente-ferroviario-ave-iryo-toledo-urda-carta-lector-laura-gibert-135853882",
+    "pubDate": "2026-10-29 07:01:12",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Siempre, la radio",
     "link": "https://www.elperiodico.com/es/tele/20261029/poder-radio-accidente-tren-justo-molinero-video-sergi-mas-135861076",
     "pubDate": "2026-10-29 07:01:11",
@@ -1305,6 +1836,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "\"¿Cuántas tragedias más tendremos que ver para que algo cambie?\"",
+    "link": "https://www.elperiodico.com/es/entre-todos/participacion/tragedias-accidente-ferroviario-ave-iryo-toledo-urda-carta-lector-alba-arevalo-135849064",
+    "pubDate": "2026-10-29 06:45:19",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "La batalla de los estilos sin Nick Smith",
     "link": "https://as.com/baloncesto/euroliga/la-batalla-de-los-estilos-sin-nick-smith-f202610-n/",
     "pubDate": "2026-10-29 06:36:00",
@@ -1321,6 +1861,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4614824.jpg\">Після виснажливих 120 хвилин боротьби на межі можливостей доля путівки вирішилася у нервовій лотереї з одинадцятиметрових.",
     "topic": "спорт",
     "topic_match_probability": 98
+  },
+  {
+    "title": "\"L’autobús del Montseny: un perill anunciat\"",
+    "link": "https://www.elperiodico.com/es/entre-todos/participacion/autobus-montseny-accident-fogars-de-montclus-carta-lector-mariona-campa-135788152",
+    "pubDate": "2026-10-29 06:30:29",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Генштаб оновив дані про втрати армії Росії",
@@ -1348,6 +1897,15 @@
     "description": "<h2 class=\"item\">Ganase quien ganase, el béisbol de Estados Unidos, es decir, el béisbol, hubiese tenido un campeón inédito. Se trataba de una final entre modestos, de la que han salido ganadores los Milwaukee Brewers (4-1) frente a los Tampa Bay Rays.</h2>",
     "topic": "спорт",
     "topic_match_probability": 93
+  },
+  {
+    "title": "\"Primero Adamuz, ahora Urda\"",
+    "link": "https://www.elperiodico.com/es/entre-todos/participacion/adamuz-urda-accidente-ferroviario-ave-carta-lector-victoriano-sanchez-135847452",
+    "pubDate": "2026-10-29 06:15:42",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "La Guardia Civil centra la investigación penal en el puesto de control de Adif que permitió circular al AVE contra el IRYO en Urda",
