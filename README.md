@@ -1,8 +1,9 @@
-# News for 2026-10-30 17:00
+# News for 2026-10-30 18:15
 
 Previous day: [2026-10-29](./data/2026-10-29.md)
 
 ## ua.korrespondent.net
+17:45 [Банк Січ остаточно ліквідували: що буде з виплатами](https://ua.korrespondent.net/business/companies/4924908-bank-sich-ostatochno-likviduvaly-scho-bude-z-vyplatamy)<br>
 16:59 [Відомий український актор розповів про невиліковну хворобу](https://ua.korrespondent.net/lifestyle/4924890-vidomyi-ukrainskyi-aktor-rozpoviv-pro-nevylikovnu-khvorobu)<br>
 16:45 [Ощадбанк втратив мільярди прибутку: деталі за квартал](https://ua.korrespondent.net/business/companies/4924899-oschadbank-vtratyv-miliardy-prybutku-detali-za-kvartal)<br>
 16:31 [Тишкевич влаштувала ніжний танець з чоловіком](https://ua.korrespondent.net/lifestyle/4924874-tyshkevych-vlashtuvala-nizhnyi-tanets-z-cholovikom)<br>
@@ -48,6 +49,9 @@ Previous day: [2026-10-29](./data/2026-10-29.md)
 03:49 [У Німеччині вибух зруйнував будинок, є жертви](https://ua.korrespondent.net/world/4924676-u-nimechchyni-vybukh-zruinuvav-budynok-ye-zhertvy)<br>
 
 ## as.com
+17:51 [Debacle en el Olympiacos: Jean Montero, seis meses de baja](https://as.com/baloncesto/euroliga/debacle-en-el-olympiacos-jean-montero-seis-meses-de-baja-f202610-n/)<br>
+17:45 [Nikola Radicevic, refuerzo temporal para Asisa Joventut](https://as.com/baloncesto/acb/nikola-radicevic-refuerzo-temporal-para-asisa-joventut-f202610-n/)<br>
+17:02 [En Vitoria se da por hecho que Querejeta seguirá al frente del club](https://as.com/baloncesto/en-vitoria-se-da-por-hecho-que-querejeta-seguira-al-frente-del-club-f202610-n/)<br>
 15:33 [Ponsarnau avisa del peligro de “generación y ejecución” de Ricky y Laprovittola](https://as.com/baloncesto/ponsarnau-avisa-del-peligro-de-generacion-y-ejecucion-de-ricky-y-laprovittola-f202610-n/)<br>
 13:31 [Dos golpes a la vez en el Real Madrid: Jantunen y Maledon, lesionados](https://as.com/baloncesto/euroliga/dos-golpes-a-la-vez-en-el-madrid-jantunen-y-maledon-lesionados-f202610-n/)<br>
 13:20 [Vidorreta analiza al Barça: “Un equipo físico y atlético”](https://as.com/baloncesto/vidorreta-analiza-al-barca-un-equipo-fisico-y-atletico-f202610-n/)<br>
@@ -61,6 +65,12 @@ Previous day: [2026-10-29](./data/2026-10-29.md)
 00:05 [Resumen del Real Madrid vs. Fenerbahce de Euroliga](https://as.com/videos/euroliga/resumen-del-real-madrid-vs-fenerbahce-de-euroliga-f202610-v/)<br>
 
 ## www.elperiodico.com
+18:12 [Más de 65.000 personas reciben la prestación de la Renta Garantizada de Ciudadanía hasta julio de este año](https://www.elperiodico.com/es/sociedad/20261030/renta-garantizada-ciudadania-llega-65-000-personas-135935337)<br>
+17:47 [Apropa Cultura celebra 20 años de integración de personas 'im-pa-ra-bles': "Tenemos que pensar en el envejecimiento activo"](https://www.elperiodico.com/es/ocio-y-cultura/20261030/apropa-cultura-celebra-20-anos-135928574)<br>
+17:34 [Influencer, gordofobia, antiedad o basuraleza, nuevas palabras del diccionario de la RAE](https://www.elperiodico.com/es/ocio-y-cultura/20261030/influencer-gordofobia-antiedad-o-basuraleza-135935218)<br>
+17:21 [Christa Pike habla por primera vez desde su ejecución fallida en EEUU](https://www.elperiodico.com/es/videos/internacional/christa-pike-habla-primera-vez/135935328.shtml)<br>
+17:10 [La escapada perfecta a media hora de Viladecans: un pueblo rodeado de naturaleza](https://www.elperiodico.com/es/barcelona/viladecans/20261030/barcelona-torrelles-de-llobregat-pueblo-30-minutos-viladecans-cataluna-en-miniatura-dv-loc-116643725)<br>
+17:06 [Los comercios de diferentes ciudades se protegen para este sábado](https://www.elperiodico.com/es/fotos/sucesos/comercios-diferentes-ciudades-protegen-sabado-135934677)<br>
 16:54 [Dejar de trabajar](https://www.elperiodico.com/es/deportes/20261030/trabajar-135933761)<br>
 16:50 [Entrevista a Manolo Velasco, convivió 13 años con Copito de nieve](https://www.elperiodico.com/es/videos/barcelona/entrevista-manolo-velasco-convivio-13/135924330.shtml)<br>
 16:39 [El base serbio Nikola Radicevic firma con el Joventut por dos meses](https://www.elperiodico.com/es/deportes/20261030/base-serbio-nikola-radicevic-firma-135933181)<br>

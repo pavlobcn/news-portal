@@ -1,5 +1,284 @@
 [
   {
+    "title": "Más de 65.000 personas reciben la prestación de la Renta Garantizada de Ciudadanía hasta julio de este año",
+    "link": "https://www.elperiodico.com/es/sociedad/20261030/renta-garantizada-ciudadania-llega-65-000-personas-135935337",
+    "pubDate": "2026-10-30 18:12:22",
+    "category": "",
+    "description": "<h2 class=\"item\">Los menores de 23 años representan el 34,07% (22.346 personas), la franja de edad con más beneficiarios</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260217/una-de-cada-10-familias-catalanas-derecho-ayuda-infancia-ingreso-minimo-vital-perciben-la-prestacion-126952588\">Solo una de cada 10 familias catalanas con derecho cobra la ayuda a la infancia del Ingreso Mínimo Vital</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Nacho Abad expulsa a Andrea Levy de 'En boca de todos' tras una encendida bronca con un manifestante de Sol",
+    "link": "https://www.elperiodico.com/es/videos/tele/nacho-abad-expulsa-andrea-levy/135937172.shtml",
+    "pubDate": "2026-10-30 18:11:32",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Bruselas crea un grupo de expertos para reforzar la preparación y respuesta de la UE ante incendios y desastres naturales",
+    "link": "https://www.elperiodico.com/es/medio-ambiente/20261030/bruselas-crea-grupo-expertos-reforzar-desastres-naturales-135935351",
+    "pubDate": "2026-10-30 18:09:37",
+    "category": "",
+    "description": "<h2 class=\"item\">El grupo estará integrado por once expertos en protección civil y gestión de crisis y seis científicos procedentes de distintos Estados miembros</h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Росатом просуває АЕС в Африці: які країни зацікавилися",
+    "link": "https://ua.korrespondent.net/world/russia/4924915-rosatom-prosuvaie-aes-v-afrytsi-yaki-krainy-zatsikavylysia",
+    "pubDate": "2026-10-30 18:09:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4616654.jpg\">Росія веде переговори з чотирма африканськими країнами щодо будівництва потужних атомних електростанцій.",
+    "topic": "політика",
+    "topic_match_probability": 82
+  },
+  {
+    "title": "La era dorada de Pere Romeu en el Barça: 100 victorias en 109 partidos",
+    "link": "https://www.elperiodico.com/es/deportes/20261030/dorada-pere-romeu-barca-100-135935863",
+    "pubDate": "2026-10-30 18:06:19",
+    "category": "",
+    "description": "<h2>El técnico de Barcelona consumó su centenar de victorias con la goleada ante el Koge en la Champions</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Page alerta de que la cifra de muertos del accidente de tren de Urda podría aumentar: \"La identificación es muy compleja\"",
+    "link": "https://www.elperiodico.com/es/videos/politica/page-alerta-cifra-muertos-accidente-tren-urda-aumentar/135936994.shtml",
+    "pubDate": "2026-10-30 18:04:05",
+    "category": "",
+    "description": "\"Cuando hablamos de fallecidos, estamos hablando de cuerpos completos\"",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "BYD Dolphin G",
+    "link": "https://www.elperiodico.com/es/motor/20261030/byd-dolphin-g-135923905",
+    "pubDate": "2026-10-30 18:00:53",
+    "category": "",
+    "description": "<h2>PHEV</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Літній австрієць застряг на ЛЕП та знеструмив сотні будинків",
+    "link": "https://ua.korrespondent.net/world/4924911-litnii-avstriiets-zastriah-na-lep-ta-znestrumyv-sotni-budynkiv",
+    "pubDate": "2026-10-30 17:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4616652.jpg\">73-річний парапланерист зачепився за високовольтну лінію електропередачі, що призвело до аварійного відключення світла в сотнях помешкань.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "La aspirante de Die Linke a la alcaldía de Berlín teme al radicalismo propalestino de su partido",
+    "link": "https://www.elperiodico.com/es/internacional/20261030/aspirante-die-linke-alcaldia-berlin-teme-radicalismo-propalestino-partido-135936727",
+    "pubDate": "2026-10-30 17:57:43",
+    "category": "",
+    "description": "<h2>Un desliz del equipo de la candidata izquierdista ha permitido a 'Der Spiegel' revelar sus miedos por su seguridad y la de su familia</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "У Туреччині анонсували візит Зеленського",
+    "link": "https://ua.korrespondent.net/ukraine/4924912-u-turechchyni-anonsuvaly-vizyt-zelenskoho",
+    "pubDate": "2026-10-30 17:53:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4616653.jpg\">Володимир Зеленський і Реджеп Таїп Ердоган обговорять російсько-українську війну та ситуацію з безпекою в Чорному морі.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Debacle en el Olympiacos: Jean Montero, seis meses de baja",
+    "link": "https://as.com/baloncesto/euroliga/debacle-en-el-olympiacos-jean-montero-seis-meses-de-baja-f202610-n/",
+    "pubDate": "2026-10-30 17:51:06",
+    "category": "Baloncesto",
+    "description": "El club griego anunció la lesión de su flamante fichaje, que ha pasado por quirófano para reparar el menisco lateral de su rodilla izquierda. Noticia horrible para el jugador y el equipo.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "De Fátima Báñez al reportero Raúl Triguero: el listado de los 18 fallecidos confirmados en el accidente de trenes",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/fatima-banez-reportero-raul-triguero/135936303.shtml",
+    "pubDate": "2026-10-30 17:48:05",
+    "category": "",
+    "description": "",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Apropa Cultura celebra 20 años de integración de personas 'im-pa-ra-bles': \"Tenemos que pensar en el envejecimiento activo\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261030/apropa-cultura-celebra-20-anos-135928574",
+    "pubDate": "2026-10-30 17:47:33",
+    "category": "",
+    "description": "<h2 class=\"item\">Una emotiva gala con testimonios y actuaciones realizada en L'Auditori, donde comenzó esta maravillosa aventura, ha puesto de relieve el crecimiento y potencial de este proyecto pionero en derechos culturales que se ha expandido a las Islas Baleares, País Vasco y Madrid</h2><h2 class=\"item\">La plataforma lleva organizadas 914.392 actividades y experiencias destinadas a incluir a personas vulnerables o con discapacidad a través de la cultura</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Nikola Radicevic, refuerzo temporal para Asisa Joventut",
+    "link": "https://as.com/baloncesto/acb/nikola-radicevic-refuerzo-temporal-para-asisa-joventut-f202610-n/",
+    "pubDate": "2026-10-30 17:45:06",
+    "category": "Nikola Radicevic",
+    "description": "Asisa Joventut ha confirmado la contratación con un acuerdo temporal, al menos para dos meses, del serbio Nikola Radicevic, con pasado en la Liga Endesa.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Банк Січ остаточно ліквідували: що буде з виплатами",
+    "link": "https://ua.korrespondent.net/business/companies/4924908-bank-sich-ostatochno-likviduvaly-scho-bude-z-vyplatamy",
+    "pubDate": "2026-10-30 17:45:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4616636.jpg\">Фонд гарантування вкладів фізичних осіб завершив ліквідацію АТ Банк Січ. Із 29 жовтня виплати гарантованого відшкодування вкладникам припинено.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El dolor de Sheila, la hija de Toñi Barba Soler, fallecida en el siniestro: \"No sé qué hacer con todos los días que nos quedaban juntas\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261030/dolor-sheila-hija-toni-barba-fallecida-siniestro-hacer-dias-juntas-135934187",
+    "pubDate": "2026-10-30 17:41:12",
+    "category": "",
+    "description": "<h2 class=\"item\">Durante horas, sin descanso, Sheila buscó a su madre Toñi Barba Soler mientras su padre permanecía en la UCI de Toledo</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261030/accidente-trenes-toledo-urda-ave-iryo-hoy-ultima-hora-directo-135890234\">DIRECTO Accidente de trenes en Toledo | Última hora de la investigación, muertos, heridos y declaraciones de Óscar Puente</a></h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Óscar Puente, dimisión o resistencia",
+    "link": "https://www.elperiodico.com/es/opinion/20261030/oscar-puente-dimision-o-resistencia-articulo-josep-cuni-135935766",
+    "pubDate": "2026-10-30 17:40:42",
+    "category": "",
+    "description": "<h2>En la mayoría de países democráticos, lo primero que hace un responsable público cuando una situación parecida se cruza en su camino es presentar su renuncia, sin esperar a que su superior se lo pida</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261030/sanchez-confianza-puente-elecciones-accidente-135899968\">Sánchez mantiene la confianza en Puente a un mes del 29N entre dudas de los socios y dirigentes socialistas</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Influencer, gordofobia, antiedad o basuraleza, nuevas palabras del diccionario de la RAE",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261030/influencer-gordofobia-antiedad-o-basuraleza-135935218",
+    "pubDate": "2026-10-30 17:34:01",
+    "category": "",
+    "description": "<h2 class=\"item\">Entre las nuevas entradas, más de 6.000 en total, figuran acrónimos como AOVE y ceo, adjetivos como edadista, trans o performativo y verbos como atrezar, esferificar o racializar </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Empleados del Hospital de Bellvitge denuncian el hallazgo de un libro contra el aborto en la sala de culto del centro público",
+    "link": "https://www.elperiodico.com/es/barcelona/20261030/empleados-hospital-bellvitge-denuncian-hallazgo-libro-contra-aborto-sala-culto-centro-publico-135931376",
+    "pubDate": "2026-10-30 17:33:18",
+    "category": "",
+    "description": "<h2>El sindicato CGT exige la neutralidad del espacio tras localizar  una obra editada por la Conferencia Episcopal Española con postulados antiabortistas</h2><h2><a href=\"https://www.elperiodico.com/es/sanidad/20221010/abortar-catalunya-desigualdad-territorial-77079059\" target=\"_blank\">Abortar en Catalunya: la desigualdad territorial obliga a muchas mujeres a desplazarse</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Росія знову атакувала вокзал у Дніпрі",
+    "link": "https://ua.korrespondent.net/city/dnepr/4924907-rosiia-znovu-atakuvala-vokzal-u-dnipri",
+    "pubDate": "2026-10-30 17:33:00",
+    "category": "Дніпро",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4616621.jpg\">Також росіяни вдарили по обʼєкту критичної інфраструктури. Сталося займання. В результаті у Дніпрі та Дніпропетровському районі застосовані екстрені відключення.",
+    "topic": "політика",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "Capitalismo con prisas",
+    "link": "https://www.elperiodico.com/es/opinion/20261030/capitalismo-prisas-accidente-ave-articulo-ernest-folch-135935295",
+    "pubDate": "2026-10-30 17:26:54",
+    "category": "",
+    "description": "<h2>Pocos titulares explican mejor lo que ha sucedido con la alta velocidad, que ha pasado en un tiempo récord de ser la joya de la corona a convertirse en una máquina de destruir vidas</h2><h2><a href=\"https://www.elperiodico.com/es/videos/sociedad/tragedia-urda-guardia-civil-investiga-freno-ave/135913700.shtml\">Tragedia de Urda: la Guardia Civil investiga por qué no frenó el AVE</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Tres muertos y cinco heridos en Turquía al desplomarse una formación rocosa en Capadocia",
+    "link": "https://www.elperiodico.com/es/internacional/20261030/tres-muertos-cinco-heridos-turquia-capadocia-135935578",
+    "pubDate": "2026-10-30 17:24:55",
+    "category": "",
+    "description": "",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Christa Pike habla por primera vez desde su ejecución fallida en EEUU",
+    "link": "https://www.elperiodico.com/es/videos/internacional/christa-pike-habla-primera-vez/135935328.shtml",
+    "pubDate": "2026-10-30 17:21:27",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Хотів знеструмити Кропивницький: зрадника засудили до 15 років",
+    "link": "https://ua.korrespondent.net/ukraine/4924905-khotiv-znestrumyty-kropyvnytskyi-zradnyka-zasudyly-do-15-rokiv",
+    "pubDate": "2026-10-30 17:15:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4616606.jpeg\">Житель Кропивницького працював на російські спецслужби, збирав дані про енергетичні об’єкти та готував теракт на одній із ключових електропідстанцій міста.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Manosear el exilio",
+    "link": "https://www.elperiodico.com/es/opinion/20261030/manosear-exilio-toni-comin-articulo-andreu-claret-135934697",
+    "pubDate": "2026-10-30 17:13:30",
+    "category": "",
+    "description": "<h2>No es de recibo es organizar un 'show' para las televisiones volviendo por donde salieron miles de republicanos</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261025/toni-comin-amnistia-regreso-cataluna-frontera-francia-135663229\">Toni Comín regresa a Catalunya tres días después de recoger su acta de eurodiputado en el Congreso</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "La escapada perfecta a media hora de Viladecans: un pueblo rodeado de naturaleza",
+    "link": "https://www.elperiodico.com/es/barcelona/viladecans/20261030/barcelona-torrelles-de-llobregat-pueblo-30-minutos-viladecans-cataluna-en-miniatura-dv-loc-116643725",
+    "pubDate": "2026-10-30 17:10:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El territorio está rodeado de bosques y campos donde se cultivan cerezas</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/viladecans/20250414/viladecans-bar-las-palmeras-bravas-barcelona-video-dv-116046451\" >\"Manjar de dioses\": el bar de Viladecans aclamado por sus patatas bravas y anchoas del Cantábrico</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/cata-mayor/20250301/viladecans-mejores-restaurantes-tripadvisor-dv-114758139\" >Estos son los 5 mejores restaurantes de Viladecans según Tripadvisor</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Óscar Puente reconstruye los 22 minutos previos al siniestro de Toledo: \"El centro recibió el mensaje, pero no tomó ninguna acción\"",
+    "link": "https://www.elperiodico.com/es/economia/20261030/oscar-puente-reconstruye-22-minutos-135934734",
+    "pubDate": "2026-10-30 17:09:08",
+    "category": "",
+    "description": "<h2 class=\"item\">El siniestro deja, al menos, una cifra de 69 fallecidos y más de dos centenares de heridos y se convierte en una de las mayores tragedias ferroviarias que ha vivido el país </h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los comercios de diferentes ciudades se protegen para este sábado",
+    "link": "https://www.elperiodico.com/es/fotos/sucesos/comercios-diferentes-ciudades-protegen-sabado-135934677",
+    "pubDate": "2026-10-30 17:06:05",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Мілан підписав Пулишича до 2031 року",
+    "link": "https://ua.korrespondent.net/sport/football/4924902-milan-pidpysav-pulyshycha-do-2031-roku",
+    "pubDate": "2026-10-30 17:04:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4616603.jpg\">Крістіан Пулишич отримав новий контракт, який дозволить гравцю виступати у складі міланської команди до 2031 року.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Евакуйовані мешканці Олешків покинули місто",
+    "link": "https://ua.korrespondent.net/ukraine/4924901-evakuiovani-meshkantsi-oleshkiv-pokynuly-misto",
+    "pubDate": "2026-10-30 17:03:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4616605.jpg\">Автобусів з мешканцями Олешок, які евакуюються в Україну, в чотири рази більше, ніж з людьми, які побажали вирушити до РФ, стверджуютьросійські так звані \"воєнкори\".",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "En Vitoria se da por hecho que Querejeta seguirá al frente del club",
+    "link": "https://as.com/baloncesto/en-vitoria-se-da-por-hecho-que-querejeta-seguira-al-frente-del-club-f202610-n/",
+    "pubDate": "2026-10-30 17:02:40",
+    "category": "Baskonia",
+    "description": "Se comprende su estado de ánimo pero hay muchos proyectos en marcha que él lidera y lo normal es que siga en el puesto",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Los Mossos desmantelan una plantación de 656 plantas de marihuana delante de un colegio en Gavà",
     "link": "https://www.elperiodico.com/es/sucesos/20261030/mossos-desmantelan-plantacion-656-plantas-marihuana-enfrente-colegio-135931135",
     "pubDate": "2026-10-30 16:59:24",
@@ -178,6 +457,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4616553.jpg\">Ранкова атака російських військ на Ніжинський район Чернігівської області призвела до пожеж і травмування трьох людей.",
     "topic": "політика",
     "topic_match_probability": 95
+  },
+  {
+    "title": "El CE Llançà denuncia un ataque homófobo del extrabajador de mantenimiento a dos miembros de su junta directiva",
+    "link": "https://www.elperiodico.com/es/sociedad/20261030/ce-llanca-denuncia-ataque-homofobo-135932886",
+    "pubDate": "2026-10-30 16:20:10",
+    "category": "",
+    "description": "<h2 class=\"item\">El caso está en manos de la justicia y, según el club, se suma a otras agresiones a trabajadores de la entidad</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 92
   },
   {
     "title": "Castanyada y Halloween: los mejores planes para celebrar este 'Castaween' en Barcelona",
