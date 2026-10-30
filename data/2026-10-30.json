@@ -1,5 +1,86 @@
 [
   {
+    "title": "La portada de EL PERIÓDICO del 31 de octubre de 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20261030/portada-periodico-31-octubre-2026-135943748",
+    "pubDate": "2026-10-30 22:33:22",
+    "category": "",
+    "description": "",
+    "topic": "portada de EL PERIÓDICO",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Efes de Laso muestra las costuras del Panathinaikos",
+    "link": "https://as.com/baloncesto/euroliga/el-efes-de-laso-muestra-las-costuras-del-panathinaikos-f202610-n/",
+    "pubDate": "2026-10-30 22:05:25",
+    "category": "Anadolu Efes",
+    "description": "El gigante verde encaja su segunda derrota de la temporada ante un Efes que se impuso en todos los cuartos. Payne, Saric y Bruno Fernando, referentes.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La empresa que ha tapiado los comercios de lujo de la milla de Oro de Madrid por el miedo a Blocus: \"Hemos protegido 15 ó 20 escaparates: Gucci, Celine...\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261030/empresa-tapiado-comercios-lujo-madrid-vandalismo-saqueos-blocus-135943322",
+    "pubDate": "2026-10-30 22:04:53",
+    "category": "",
+    "description": "<h2>Abarca Vidrios España, una compañía de cristalería 24 horas de Madrid, ha salido al paso para proteger las tiendas ante el \"miedo\" a convocatorias similares en la capital a las que provocaron los disturbios del pasado fin de semana en Barcelona</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Nueva derrota del Baskonia ante el Asvel Villeurbanne",
+    "link": "https://as.com/baloncesto/nueva-derrota-del-baskonia-ante-el-asvel-villeurbanne-f202610-n/",
+    "pubDate": "2026-10-30 21:59:05",
+    "category": "Baskonia",
+    "description": "Balance de seis derrotas y cero victorias en la era Velimir Perasovic. El domingo se recibe en liga al Manresa con Querejeta en momentos de crisis personal",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Україна отримає 500 млн євро від Канади: куди спрямують кошти",
+    "link": "https://ua.korrespondent.net/business/financial/4924954-ukraina-otrymaie-500-mln-yevro-vid-kanady-kudy-spriamuuit-koshty",
+    "pubDate": "2026-10-30 21:59:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4616805.jpg\">Канада долучиться до масштабної фінансової підтримки України від Євросоюзу. Країна виділить 500 млн євро як початковий внесок у запланований кредит обсягом 90 млрд євро.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Las incineraciones siguen creciendo y ya se acercan al 60% de los servicios funerarios en Catalunya",
+    "link": "https://www.elperiodico.com/es/sociedad/20261030/incineraciones-siguen-creciendo-superan-60-135942579",
+    "pubDate": "2026-10-30 21:53:37",
+    "category": "",
+    "description": "<h2 class=\"item\">Casi una de cada tres ceremonias fúnebres en Catalunya son civiles, el doble que la media española</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261017/entierros-naturales-en-tierra-hueco-espana-ley-permite-cementerios-sin-oferta-134596341\">Los entierros naturales buscan hacerse un hueco en España: la ley los permite, pero casi ningún cementerio los ofrece</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Kane ganó a Mbappé por solo 28 puntos en la votación del Balón de Oro",
+    "link": "https://www.elperiodico.com/es/deportes/futbol/20261030/kane-gano-mbappe-28-puntos-135942896",
+    "pubDate": "2026-10-30 21:51:10",
+    "category": "",
+    "description": "<h2>La revista France Football ha publicado el desglose detallado de las votaciones</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Польські МіГ-29 для України вичерпали свій ресурс",
+    "link": "https://ua.korrespondent.net/ukraine/4924946-polski-mih-29-dlia-ukrainy-vycherpaly-svii-resurs",
+    "pubDate": "2026-10-30 21:45:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4616771.jpg\">Польща передає Україні два винищувачі МіГ-29, які вже завершили термін експлуатації у польській армії. Натомість польське військо робитиме ставку на безпілотні системи.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Último adiós a Fátima Báñez: emotivo funeral en Huelva de la exministra fallecida en el accidente de tren de Urda",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/ultimo-adios-fatima-banez-emotivo-funeral-huelva/135942915.shtml",
+    "pubDate": "2026-10-30 21:44:00",
+    "category": "",
+    "description": "Bonilla, Rajoy y Saénz de Santamaría asisten a la misa funeral por la exministra fallecida en el accidente de tren de Urda (Toledo)",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Un bebé de cuatro meses con síndrome de Down y cardiopatía vive con sus padres en el Hospital de Alicante tras quedarse sin casa",
     "link": "https://www.elperiodico.com/es/sucesos/20261030/hospitalizan-alicante-bebe-cuatro-meses-sindrome-de-down-cardiopatia-ingreso-social-sanidad-135942735",
     "pubDate": "2026-10-30 21:30:45",
@@ -25,6 +106,15 @@
     "description": "<h2>Los agentes de tráfico recuerdan que las vestimentas o complementos que reduzcan la visibilidad o la movilidad conllevan sanción, al igual que el uso del teléfono móvil</h2>",
     "topic": "автомобілі",
     "topic_match_probability": 95
+  },
+  {
+    "title": "Тисячі туристів змінили плани: у Греції зупинилися пороми",
+    "link": "https://ua.korrespondent.net/world/4924936-tysiachi-turystiv-zminyly-plany-u-hretsii-zupynylysia-poromy",
+    "pubDate": "2026-10-30 21:30:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4616751.jpg\">Острови без аеропортів на цілий день втратили морське сполучення з материком, а туристам довелося терміново змінювати плани.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "La Junta de Andalucía se rebela contra el \"déficit de mantenimiento\" y la \"inseguridad\" de la red de alta velocidad: \"La inversión por kilómetro y tren ha caído un 26%\"",

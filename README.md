@@ -1,8 +1,9 @@
-# News for 2026-10-30 21:32
+# News for 2026-10-30 22:35
 
 Previous day: [2026-10-29](./data/2026-10-29.md)
 
 ## ua.korrespondent.net
+21:30 [Тисячі туристів змінили плани: у Греції зупинилися пороми](https://ua.korrespondent.net/world/4924936-tysiachi-turystiv-zminyly-plany-u-hretsii-zupynylysia-poromy)<br>
 20:46 [Евакуація з Олешек. Люди вирушили до України](https://ua.korrespondent.net/ukraine/4924948-evakuatsiia-z-oleshek-luidy-vyrushyly-do-ukrainy)<br>
 20:26 [Акції Google обвалилися більш ніж на 10%](https://ua.korrespondent.net/business/companies/4924940-aktsii-Google-obvalylysia-bilsh-nizh-na-10)<br>
 19:32 [Лев XIV став першим Папою, який проголосував на виборах у США](https://ua.korrespondent.net/world/4924928-lev-XIV-stav-pershym-papoui-yakyi-proholosuvav-na-vyborakh-u-ssha)<br>
@@ -52,6 +53,8 @@ Previous day: [2026-10-29](./data/2026-10-29.md)
 03:49 [У Німеччині вибух зруйнував будинок, є жертви](https://ua.korrespondent.net/world/4924676-u-nimechchyni-vybukh-zruinuvav-budynok-ye-zhertvy)<br>
 
 ## as.com
+22:05 [El Efes de Laso muestra las costuras del Panathinaikos](https://as.com/baloncesto/euroliga/el-efes-de-laso-muestra-las-costuras-del-panathinaikos-f202610-n/)<br>
+21:59 [Nueva derrota del Baskonia ante el Asvel Villeurbanne](https://as.com/baloncesto/nueva-derrota-del-baskonia-ante-el-asvel-villeurbanne-f202610-n/)<br>
 20:58 [Un Madrid nuevo tras el descanso](https://as.com/baloncesto/mas_baloncesto/el-real-madrid-mejora-tras-el-descanso-f202610-n/)<br>
 20:33 [Sigue en directo el Casademont Zaragoza - Barça Atlètic, jornada 6 de la Liga U](https://as.com/baloncesto/videos/sigue-en-directo-el-casademont-zaragoza-barca-atletic-jornada-5-de-la-liga-u-f202610-v/)<br>
 20:11 [Asvel Basket - Baskonia, en directo: Euroliga, hoy en vivo](https://as.com/baloncesto/euroliga/asvel-basket-baskonia-en-directo-euroliga-hoy-en-vivo-f202610-n/)<br>
@@ -72,6 +75,8 @@ Previous day: [2026-10-29](./data/2026-10-29.md)
 00:05 [Resumen del Real Madrid vs. Fenerbahce de Euroliga](https://as.com/videos/euroliga/resumen-del-real-madrid-vs-fenerbahce-de-euroliga-f202610-v/)<br>
 
 ## www.elperiodico.com
+21:53 [Las incineraciones siguen creciendo y ya se acercan al 60% de los servicios funerarios en Catalunya](https://www.elperiodico.com/es/sociedad/20261030/incineraciones-siguen-creciendo-superan-60-135942579)<br>
+21:44 [Último adiós a Fátima Báñez: emotivo funeral en Huelva de la exministra fallecida en el accidente de tren de Urda](https://www.elperiodico.com/es/videos/sociedad/ultimo-adios-fatima-banez-emotivo-funeral-huelva/135942915.shtml)<br>
 21:30 [Un bebé de cuatro meses con síndrome de Down y cardiopatía vive con sus padres en el Hospital de Alicante tras quedarse sin casa](https://www.elperiodico.com/es/sucesos/20261030/hospitalizan-alicante-bebe-cuatro-meses-sindrome-de-down-cardiopatia-ingreso-social-sanidad-135942735)<br>
 21:12 [Telefónica e Indra blindarán juntas la seguridad de las comunicaciones del euro digital para el BCE](https://www.elperiodico.com/es/economia/20261030/telefonica-indra-blindaran-juntas-seguridad-135942356)<br>
 21:07 [Hallada sin vida Alexandra, la abulense desaparecida en el terrible accidente ferroviario en Urda (Toledo)](https://www.elperiodico.com/es/sociedad/20261030/fallece-alexandra-accidente-urda-trenes-toledo-135942314)<br>
