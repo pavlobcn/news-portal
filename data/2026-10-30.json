@@ -1,5 +1,41 @@
 [
   {
+    "title": "У Німеччині вибух зруйнував будинок, є жертви",
+    "link": "https://ua.korrespondent.net/world/4924676-u-nimechchyni-vybukh-zruinuvav-budynok-ye-zhertvy",
+    "pubDate": "2026-10-30 03:49:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4615820.jpeg\">Через загрозу обвалу рятувальники змогли проникнути всередину будівлі лише наступного дня.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "РФ атакувала підприємство у Кременчуцькому районі",
+    "link": "https://ua.korrespondent.net/ukraine/4924678-rf-atakuvala-pidpryiemstvo-u-kremenchutskomu-raioni",
+    "pubDate": "2026-10-30 03:10:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4615834.jpg\">Повітряні сили попереджали про кілька балістичних ракет, що рухалися в напрямку Кременчука.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Підбадьорений Трампом Путін планує ескалацію війни - Le Monde",
+    "link": "https://ua.korrespondent.net/world/4924674-pidbadorenyi-trampom-putin-planuie-eskalatsiui-viiny-Le-Monde",
+    "pubDate": "2026-10-30 02:50:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4615793.jpg\">США та Росія обговорюють цілу низку економічних угод, через що перспектива мирних переговорів між Києвом і Москвою згасає.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "В Ізраїлі завершили підрахунок голосів: переможця немає",
+    "link": "https://ua.korrespondent.net/world/4924672-v-izraili-zavershyly-pidrakhunok-holosiv-peremozhtsia-nemaie",
+    "pubDate": "2026-10-30 02:23:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4615779.jpg\">Жодному з блоків не вдалося отримати більшості для формування коаліції. Якщо блок Нетаньягу або опозиціонери не стануть домовлятися з арабськими партіями, країну чекатимуть нові вибори.",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
     "title": "До США прямують сім танкерів з дизелем з РФ, їх доля непевна",
     "link": "https://ua.korrespondent.net/world/4924670-do-ssha-priamuuit-sim-tankeriv-z-dyzelem-z-rf-yikh-dolia-nepevna",
     "pubDate": "2026-10-30 01:53:00",
