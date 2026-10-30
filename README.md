@@ -1,8 +1,10 @@
-# News for 2026-10-30 20:19
+# News for 2026-10-30 21:32
 
 Previous day: [2026-10-29](./data/2026-10-29.md)
 
 ## ua.korrespondent.net
+20:46 [Евакуація з Олешек. Люди вирушили до України](https://ua.korrespondent.net/ukraine/4924948-evakuatsiia-z-oleshek-luidy-vyrushyly-do-ukrainy)<br>
+20:26 [Акції Google обвалилися більш ніж на 10%](https://ua.korrespondent.net/business/companies/4924940-aktsii-Google-obvalylysia-bilsh-nizh-na-10)<br>
 19:32 [Лев XIV став першим Папою, який проголосував на виборах у США](https://ua.korrespondent.net/world/4924928-lev-XIV-stav-pershym-papoui-yakyi-proholosuvav-na-vyborakh-u-ssha)<br>
 17:45 [Банк Січ остаточно ліквідували: що буде з виплатами](https://ua.korrespondent.net/business/companies/4924908-bank-sich-ostatochno-likviduvaly-scho-bude-z-vyplatamy)<br>
 16:59 [Відомий український актор розповів про невиліковну хворобу](https://ua.korrespondent.net/lifestyle/4924890-vidomyi-ukrainskyi-aktor-rozpoviv-pro-nevylikovnu-khvorobu)<br>
@@ -50,6 +52,8 @@ Previous day: [2026-10-29](./data/2026-10-29.md)
 03:49 [У Німеччині вибух зруйнував будинок, є жертви](https://ua.korrespondent.net/world/4924676-u-nimechchyni-vybukh-zruinuvav-budynok-ye-zhertvy)<br>
 
 ## as.com
+20:58 [Un Madrid nuevo tras el descanso](https://as.com/baloncesto/mas_baloncesto/el-real-madrid-mejora-tras-el-descanso-f202610-n/)<br>
+20:33 [Sigue en directo el Casademont Zaragoza - Barça Atlètic, jornada 6 de la Liga U](https://as.com/baloncesto/videos/sigue-en-directo-el-casademont-zaragoza-barca-atletic-jornada-5-de-la-liga-u-f202610-v/)<br>
 20:11 [Asvel Basket - Baskonia, en directo: Euroliga, hoy en vivo](https://as.com/baloncesto/euroliga/asvel-basket-baskonia-en-directo-euroliga-hoy-en-vivo-f202610-n/)<br>
 20:11 [Barcelona - Valencia, en directo: Euroliga 2026-27 en vivo hoy](https://as.com/baloncesto/euroliga/barcelona-valencia-en-directo-euroliga-2026-27-en-vivo-hoy-f202610-d/)<br>
 17:51 [Debacle en el Olympiacos: Jean Montero, seis meses de baja](https://as.com/baloncesto/euroliga/debacle-en-el-olympiacos-jean-montero-seis-meses-de-baja-f202610-n/)<br>
@@ -68,6 +72,12 @@ Previous day: [2026-10-29](./data/2026-10-29.md)
 00:05 [Resumen del Real Madrid vs. Fenerbahce de Euroliga](https://as.com/videos/euroliga/resumen-del-real-madrid-vs-fenerbahce-de-euroliga-f202610-v/)<br>
 
 ## www.elperiodico.com
+21:30 [Un bebé de cuatro meses con síndrome de Down y cardiopatía vive con sus padres en el Hospital de Alicante tras quedarse sin casa](https://www.elperiodico.com/es/sucesos/20261030/hospitalizan-alicante-bebe-cuatro-meses-sindrome-de-down-cardiopatia-ingreso-social-sanidad-135942735)<br>
+21:12 [Telefónica e Indra blindarán juntas la seguridad de las comunicaciones del euro digital para el BCE](https://www.elperiodico.com/es/economia/20261030/telefonica-indra-blindaran-juntas-seguridad-135942356)<br>
+21:07 [Hallada sin vida Alexandra, la abulense desaparecida en el terrible accidente ferroviario en Urda (Toledo)](https://www.elperiodico.com/es/sociedad/20261030/fallece-alexandra-accidente-urda-trenes-toledo-135942314)<br>
+20:50 [Barcelona exige a la Casa Batlló reubicar las colas de visitantes tras una multa por ocupar la acera en paseo de Gràcia](https://www.elperiodico.com/es/videos/barcelona/barcelona-exige-casa-batllo-reubicar/135941899.shtml)<br>
+20:33 [El marido de una víctima del accidente de tren de Urda carga contra el capitalismo: "Tenemos que cambiar este mundo"](https://www.elperiodico.com/es/videos/sociedad/marido-victima-accidente-tren-urda-carga-contra-capitalismo/135941397.shtml)<br>
+20:23 [Desaparecida una mujer de 54 años en Barcelona que los Mossos buscan desde el miércoles](https://www.elperiodico.com/es/barcelona/20261030/desaparecida-mujer-54-anos-barcelona-135940968)<br>
 20:00 [Joan Cruz, doctor en Neurociencias y profesor: "No cambiaría nada, estoy orgulloso de ser disléxico"](https://www.elperiodico.com/es/sociedad/20261030/joan-cruz-neurociencias-dislexia-135875638)<br>
 20:00 [Barcelona exige a la Casa Batlló reubicar las colas de visitantes tras una multa por ocupar la acera en paseo de Gràcia](https://www.elperiodico.com/es/barcelona/20261030/barcelona-casa-batllo-colas-entrada-multa-cambios-135900088)<br>
 19:00 [Las 10 películas destacadas de noviembre en salas y plataformas: del nuevo Godzilla a la continuación de ‘Érase una vez en… Hollywood’](https://www.elperiodico.com/es/ocio-y-cultura/20261030/10-peliculas-noviembre-destacadas-estrenos-cine-plataformas-135926335)<br>
