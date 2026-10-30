@@ -1,8 +1,12 @@
-# News for 2026-10-30 08:06
+# News for 2026-10-30 08:43
 
 Previous day: [2026-10-29](./data/2026-10-29.md)
 
 ## ua.korrespondent.net
+08:35 [У Москві обмежили роботу всіх чотирьох аеропортів](https://ua.korrespondent.net/world/russia/4924714-u-moskvi-obmezhyly-robotu-vsikh-chotyrokh-aeroportiv)<br>
+08:31 [В одній з областей України стався землетрус](https://ua.korrespondent.net/ukraine/4924713-v-odnii-z-oblastei-ukrainy-stavsia-zemletrus)<br>
+08:15 [В Ізюмі з-під завалів дістали чотирьох загиблих](https://ua.korrespondent.net/ukraine/4924708-v-izuimi-z-pid-zavaliv-distaly-chotyrokh-zahyblykh)<br>
+07:59 [Нічний удар РФ по Києву: з'явилися фото наслідків](https://ua.korrespondent.net/city/kiev/4924704-nichnyi-udar-rf-po-kyievu-ziavylysia-foto-naslidkiv)<br>
 06:54 [У Києві відновлюють рух Південним мостом на правий берег](https://ua.korrespondent.net/city/kiev/4924693-u-kyievi-vidnovluiuit-rukh-pivdennym-mostom-na-pravyi-bereh)<br>
 05:27 [У США в повітрі зіткнулися два гелікоптери, є жертви](https://ua.korrespondent.net/world/4924684-u-ssha-v-povitri-zitknulysia-dva-helikoptery-ye-zhertvy)<br>
 03:49 [У Німеччині вибух зруйнував будинок, є жертви](https://ua.korrespondent.net/world/4924676-u-nimechchyni-vybukh-zruinuvav-budynok-ye-zhertvy)<br>
@@ -15,6 +19,9 @@ Previous day: [2026-10-29](./data/2026-10-29.md)
 00:05 [Resumen del Real Madrid vs. Fenerbahce de Euroliga](https://as.com/videos/euroliga/resumen-del-real-madrid-vs-fenerbahce-de-euroliga-f202610-v/)<br>
 
 ## www.elperiodico.com
+08:41 [Cuatro muertos al estrellarse en Bosnia un helicóptero de la misión de paz de la UE](https://www.elperiodico.com/es/internacional/20261030/cuatro-muertos-estrellarse-bosnia-helicoptero-mision-paz-ue-135911711)<br>
+08:30 [Antonio González (47 años), especialista en reformas: "No puedes decir que la obra va a costar tanto sin haber visto qué vas a hacer, cómo lo vas a hacer y cómo está su casa"](https://www.elperiodico.com/es/economia/20261030/antonio-gonzalez-47-anos-especialista-reformas-obras-dv-135896281)<br>
+08:24 [Amancio Ortega financiará la construcción de un gran complejo asistencial en Zaragoza](https://www.elperiodico.com/es/economia/20261030/amancio-ortega-financiara-construccion-gran-135911503)<br>
 07:45 [El calor extremo reduce la eficacia del arbolado para refrescar las ciudades, alerta un estudio](https://www.elperiodico.com/es/medio-ambiente/20261030/calor-extremo-reduce-eficacia-arbolado-135910855)<br>
 07:37 [CaixaBank gana 4.962 millones hasta septiembre, un 12,9% más](https://www.elperiodico.com/es/economia/20261030/caixabank-gana-4-962-millones-135910562)<br>
 07:32 [Unicaja eleva un 8,1% su beneficio hasta septiembre, con 543 millones, y repartirá otro dividendo de 6,42 céntimos por acción](https://www.elperiodico.com/es/economia/20261030/unicaja-eleva-8-1-beneficio-135910519)<br>
@@ -32,4 +39,5 @@ Previous day: [2026-10-29](./data/2026-10-29.md)
 06:00 [Ni cremas ni suplementos: las claves científicas para envejecer con salud y autonomía](https://www.elperiodico.com/es/sociedad/20261030/como-envejecer-con-salud-autonomia-dieta-mediterranea-ejercicio-fuerza-jubilacion-135628539)<br>
 06:00 [Diez consejos de expertos para preparar la jubilación a partir de los 55 años: del ahorro hasta la vivienda o la salud](https://www.elperiodico.com/es/sociedad/20261030/diez-consejos-expertos-colegios-profesionales-prepara-jubilacion-135505569)<br>
 06:00 [Claves de los psicólogos para envejecer con salud emocional: mantener la mente activa, cultivar las relaciones y moverse](https://www.elperiodico.com/es/ser-feliz/20261030/claves-psicologos-salud-emocional-envejecimiento-longevidad-135536139)<br>
+05:02 [Odile Antonio-Baez de Pecado Films y Suculenta: "Canarias ofrece mucho talento y oportunidades de financiación"](https://www.elperiodico.com/es/economia/20261030/odile-antonio-baez-pecado-films-bc-135909655)<br>
 01:01 [Ricard Penas, presidente del COACB: «La tecnología detecta oportunidades, pero las personas crean el negocio»](https://www.elperiodico.com/es/sociedad/20261030/ricard-penas-presidente-coacb-tecnologia-bc-135126048)<br>
