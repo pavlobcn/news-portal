@@ -1,5 +1,473 @@
 [
   {
+    "title": "Los Mossos desmantelan una plantación de 656 plantas de marihuana delante de un colegio en Gavà",
+    "link": "https://www.elperiodico.com/es/sucesos/20261030/mossos-desmantelan-plantacion-656-plantas-marihuana-enfrente-colegio-135931135",
+    "pubDate": "2026-10-30 16:59:24",
+    "category": "",
+    "description": "<h2 class=\"item\"> Los responsables, una pareja de 24 y 22 años, residían en la planta baja del inmueble con sus dos hijos menores de edad, uno de ellos de tan solo un mes de vida</h2>",
+    "topic": "марихуана",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Відомий український актор розповів про невиліковну хворобу",
+    "link": "https://ua.korrespondent.net/lifestyle/4924890-vidomyi-ukrainskyi-aktor-rozpoviv-pro-nevylikovnu-khvorobu",
+    "pubDate": "2026-10-30 16:59:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4616517.jpg\">Відомий український актор Володимир Гладкий відверто розповів про свій багаторічний досвід життя з тяжким автоімунним захворюванням суглобів та хребта - хворобою Бехтерєва.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Dejar de trabajar",
+    "link": "https://www.elperiodico.com/es/deportes/20261030/trabajar-135933761",
+    "pubDate": "2026-10-30 16:54:04",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Майже 16 млн грн збитків на ремонтах: посадовці НМУ отримали підозри",
+    "link": "https://ua.korrespondent.net/ukraine/4924897-maizhe-16-mln-hrn-zbytkiv-na-remontakh-posadovtsi-nmu-otrymaly-pidozry",
+    "pubDate": "2026-10-30 16:54:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4616587.jpg\">Правоохоронці заявляють про два епізоди ймовірної розтрати під час ремонтів у медуніверситеті Богомольця: завищення вартості робіт із оновлення фасаду та повторний ремонт покрівлі. Підозри отримали ректор і проректор вишу.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Los negocios de Passeig de Gràcia se preparan para el sábado",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/negocios-passeig-gracia-preparan-sabado-video/135933805.shtml",
+    "pubDate": "2026-10-30 16:53:45",
+    "category": "",
+    "description": "",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Entrevista a Manolo Velasco, convivió 13 años con Copito de nieve",
+    "link": "https://www.elperiodico.com/es/videos/barcelona/entrevista-manolo-velasco-convivio-13/135924330.shtml",
+    "pubDate": "2026-10-30 16:50:12",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Copito en Barcelona, el antropólogo Andrés Antebi y el trasfondo del expolio colonial",
+    "link": "https://www.elperiodico.com/es/videos/barcelona/copito-barcelona-antropologo-andres-antebi-trasfondo-expolio-colonial-video/135889870.shtml",
+    "pubDate": "2026-10-30 16:50:12",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "Muere Raúl Triguero, reportero de '¡De viernes!' y 'Sálvame', en el accidente de tren de Toledo",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/muere-raul-triguero-reportero-viernes/135933844.shtml",
+    "pubDate": "2026-10-30 16:49:29",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Tiempo de elecciones",
+    "link": "https://www.elperiodico.com/es/opinion/20261030/tiempo-elecciones-israel-serbia-eeuu-articulo-josep-borrell-135933134",
+    "pubDate": "2026-10-30 16:46:44",
+    "category": "",
+    "description": "<h2>Después de las buenas noticias de Brasil, Serbia e incluso Israel, esperemos que los electores pongan coto a la triste dinámica de la democracia estadounidense</h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20261029/netanyahu-aviva-acusaciones-injerencia-extranjera-servicio-inteligencia-investigacion-shin-bet-135895973\">Netanyahu aviva las acusaciones de injerencia extranjera en las elecciones y el servicio de inteligencia de Israel inicia una investigación</a></h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20261025/movimiento-estudiantes-logra-victoria-elecciones-135749630\">Histórico vuelco político en Serbia: el movimiento estudiantil desaloja del poder al populista Vučić</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Ощадбанк втратив мільярди прибутку: деталі за квартал",
+    "link": "https://ua.korrespondent.net/business/companies/4924899-oschadbank-vtratyv-miliardy-prybutku-detali-za-kvartal",
+    "pubDate": "2026-10-30 16:45:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4616602.jpg\">Ощадбанк за підсумками третього кварталу 2026 року отримав у 7,2 раза менший чистий прибуток, ніж за аналогічний період торік.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Rybakina se retira de Tokio por molestias un día después de asegurar el número uno",
+    "link": "https://www.elperiodico.com/es/deportes/20261030/rybakina-retira-tokio-molestias-dia-135933258",
+    "pubDate": "2026-10-30 16:44:14",
+    "category": "",
+    "description": "<h2>La tenista kazaja no pudo concluir su partido frente a Leylah Fernandez</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El Supremo decidirá si suspende también el voto de los hijos de los nacionalizados por la 'ley de nietos' tras escuchar a las partes",
+    "link": "https://www.elperiodico.com/es/politica/20261030/supremo-extender-hijos-suspension-voto-ley-de-nietos-nacionalizados-135933646",
+    "pubDate": "2026-10-30 16:43:13",
+    "category": "",
+    "description": "<h2>El alto tribunal rechaza extender la medida cautelar que estableció en septiembre a los descendientes sin escuchar a las partes</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "El base serbio Nikola Radicevic firma con el Joventut por dos meses",
+    "link": "https://www.elperiodico.com/es/deportes/20261030/base-serbio-nikola-radicevic-firma-135933181",
+    "pubDate": "2026-10-30 16:39:14",
+    "category": "",
+    "description": "<h2>El director de juego de 32 años suplirá al lesionado Lude Hakanson en el equipo verdinegro</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Mazda CX-5 ya entiende lo que le dices gracias a Gemini",
+    "link": "https://www.elperiodico.com/es/motor/20261030/mazda-cx-5-gemini-inteligencia-artificial-asistente-voz-natural-135926571",
+    "pubDate": "2026-10-30 16:34:44",
+    "category": "",
+    "description": "<h2>El SUV incorpora el asistente de inteligencia artificial de Google para controlar la climatización, buscar destinos, gestionar mensajes y utilizar aplicaciones mediante una conversación natural</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Rubí congela los impuestos municipales de 2027 y aprueba un plan contra el sinhogarismo",
+    "link": "https://www.elperiodico.com/es/barcelona/20261030/rubi-impuestos-municipales-2027-congela-pleno-sinhogarismo-135931156",
+    "pubDate": "2026-10-30 16:31:24",
+    "category": "",
+    "description": "<h2>El pleno municipal da luz verde a las nuevas ordenanzas fiscales, que mantienen sin cambios las tasas y tributos, y aprueba por unanimidad una hoja de ruta para abordar el sinhogarismo hasta 2030</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260812/excepcion-legal-evita-multas-zbe-miles-residentes-area-barcelona-al-menos-2029-133091491\">Una excepción legal evita multas por ZBE a miles de residentes del área de Barcelona al menos hasta 2029</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Тишкевич влаштувала ніжний танець з чоловіком",
+    "link": "https://ua.korrespondent.net/lifestyle/4924874-tyshkevych-vlashtuvala-nizhnyi-tanets-z-cholovikom",
+    "pubDate": "2026-10-30 16:31:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4616494.jpg\">Актори Катерина Тишкевич і Валентин Томусяк показали зворушливі фото з новонародженим малюком.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Засновник OstUpChuk Сергій Остапчук: гарантія доходу в трейдингу - перший сигнал обману",
+    "link": "https://ua.korrespondent.net/business/4924854-zasnovnyk-OstUpChuk-serhii-ostapchuk-harantiia-dokhodu-v-treidynhu-pershyi-syhnal-obmanu",
+    "pubDate": "2026-10-30 16:30:00",
+    "category": "Новини бізнесу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4616466.jpeg\">\r\n\r\n\r\nРеклама курсів з трейдингу в соцмережах обіцяє стабільний заробіток уже після кількох тижнів навчання, і новачкові складно перевірити ці обіцянки до оплати.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Загинув очільник створеної окупантами \"Донецької залізниці\"",
+    "link": "https://ua.korrespondent.net/world/russia/4924895-zahynuv-ochilnyk-stvorenoi-okupantamy-donetskoi-zaliznytsi",
+    "pubDate": "2026-10-30 16:29:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4616572.jpg\">У Донецькій області загинув Ігор Лебезнєв - керівник створеного Росією підприємства \"Донецька залізниця\". Він став жертвою атаки українського безпілотника.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Nelson Bernardino, empleado portugués de Iryo, entre los fallecidos en el siniestro: \"Se marchó demasiado pronto\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261030/nelson-bernardino-empleado-portugues-iryo-fallecidos-siniestro-marcho-demasiado-pronto-135931463",
+    "pubDate": "2026-10-30 16:28:01",
+    "category": "",
+    "description": "<h2 class=\"item\">El Gobierno de Portugal ha confirmado la muerte de uno de sus nacionales en el accidente ferroviario registrado el miércoles</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261030/accidente-trenes-toledo-urda-ave-iryo-hoy-ultima-hora-directo-135890234\">DIRECTO Accidente de trenes en Toledo | Última hora de la investigación, muertos, heridos y declaraciones de Óscar Puente</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "На Чернігівщині внаслідок атаки РФ постраждали троє людей",
+    "link": "https://ua.korrespondent.net/ukraine/4924888-na-chernihivschyni-vnaslidok-ataky-rf-postrazhdaly-troie-luidei",
+    "pubDate": "2026-10-30 16:23:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4616553.jpg\">Ранкова атака російських військ на Ніжинський район Чернігівської області призвела до пожеж і травмування трьох людей.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Castanyada y Halloween: los mejores planes para celebrar este 'Castaween' en Barcelona",
+    "link": "https://www.elperiodico.com/es/que-hacer/planes/20261030/castanyada-halloween-barcelona-mejores-planes-castaween-dia-muertos-135652600",
+    "pubDate": "2026-10-30 16:20:00",
+    "category": "",
+    "description": "<h2>Se avecinan fiestas con castañas ilimitadas  y caldos caseros. Elige: celebra Halloween, Castanyada, el Día de Muertos e incluso Halloqueer, el Halloween de la diversidad</h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ruta entre fantasmas por Barcelona: 'tour' siniestro por las calles más misteriosas",
+    "link": "https://www.elperiodico.com/es/que-hacer/planes/20261030/ruta-fantasmas-calles-encantadas-barcelona-halloween-2025-8178773",
+    "pubDate": "2026-10-30 16:19:00",
+    "category": "",
+    "description": "<h2>Preparaos para lidiar con brujos, almas en pena y seres de ultratumba. No es el Congreso de los Diputados, son calles encantadas. La ruta más macabra de Barcelona </h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20261023/cine-viral-barcelona-comes-platos-iconicos-peliculas-morfilm-135620374\" target=\"_blank\">El cine viral de Barcelona donde comes lo que están comiendo en las películas</a></h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La presa Christa Pike habla por primera vez desde su ejecución fallida en EEUU: \"Siento dolor en la mente y en el alma\"",
+    "link": "https://www.elperiodico.com/es/internacional/20261030/presa-christa-pike-habla-primera-135932808",
+    "pubDate": "2026-10-30 16:17:10",
+    "category": "",
+    "description": "<h2>La condenada a muerte, de 50 años, sobrevivió milagrosamente a dos inyecciones de pentobarbital el mes pasado, un hecho sin precedentes que dio la vuelta al mundo</h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Un sistema desquiciado",
+    "link": "https://www.elperiodico.com/es/opinion/20261030/sistema-desquiciado-adif-gobierno-articulo-marti-saballs-pons-135926678",
+    "pubDate": "2026-10-30 16:15:12",
+    "category": "",
+    "description": "<h2>Urge agilizar -será un milagro si ocurre- la investigación que detecte qué está ocurriendo en la alta velocidad</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261030/puente-redobla-senalamiento-tecnicos-adif-135923393\">Puente redobla su señalamiento a los técnicos de Adif por el accidente: \"Tenían a la vista lo que estaba sucediendo\"</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Ibai Llanos (31 años), sobre la vivienda en España: \"Ahora mismo el sueño de mucha gente es poder comprarse una casa\"",
+    "link": "https://www.elperiodico.com/es/gente/20261030/ibai-llanos-31-anos-vivienda-dv-135759620",
+    "pubDate": "2026-10-30 16:15:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El 'streamer' recuerda a sus compañeros de la LVP, con carrera, máster y trabajo, que solo podían alquilar una habitación compartida</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20261026/susanna-griso-vivienda-barcelona-espejo-publico-dv-et-135557526?mrfhud=true\" >Susanna Griso (57 años), sobre la vivienda en Barcelona: \"Yo, que se supone que tengo una nómina y garantías, no he encontrado un piso en alquiler\"</a></h2>",
+    "topic": "блогери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Україна \"ігнорує\" Трампа - Кремль",
+    "link": "https://ua.korrespondent.net/world/russia/4924886-ukraina-ihnoruie-trampa-kreml",
+    "pubDate": "2026-10-30 16:14:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4616552.jpg\">В Москві заявили про атаки на чотири російські заводи – три нафтопереробні та один газохімічний комплекс.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Український нападник претендує на звання гравця місяця в Сегунді",
+    "link": "https://ua.korrespondent.net/sport/football/4924883-ukrainskyi-napadnyk-pretenduie-na-zvannia-hravtsia-misiatsia-v-sehundi",
+    "pubDate": "2026-10-30 16:08:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4616519.jpg\">Гравець Жирони Владислав Ванат дуже результативно грав протягом жовтня і став претендентом на звання кращого гравця місяця.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "На Буковині підліток дістав поранення біля місця стрільб",
+    "link": "https://ua.korrespondent.net/ukraine/4924882-na-bukovyni-pidlitok-distav-poranennia-bilia-mistsia-strilb",
+    "pubDate": "2026-10-30 16:07:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4616535.jpg\">15-річного хлопця госпіталізували з вогнепальним пораненням, якого він дістав поблизу місця навчальних стрільб. Стан підлітка стабільний, загрози життю немає.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Grandes cadenas comerciales del centro de Barcelona tapian sus tiendas ante posibles disturbios: \"Tenemos un plan por si nos quedamos atrapados\"",
+    "link": "https://www.elperiodico.com/es/barcelona/20261030/grandes-cadenas-comerciales-centro-barcelona-tapian-tiendas-disturbios-135931753",
+    "pubDate": "2026-10-30 16:06:46",
+    "category": "",
+    "description": "<h2>Marcas como Inditex, Marina Rinaldi, Women'secret, MediaMarkt o Diesel cierran sus locales e incrementan la seguridad ante la convocatoria de Blocus</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20261030/blocus-detenido-joven-barcelona-disturbios-saqueos-135924583\">Un detenido vinculado a Blocus en Barcelona eleva a tres los arrestos en Catalunya en las últimas 24 horas</a></h2>",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "La jueza Ortiz se dedicará en exclusiva a investigar el accidente de trenes en Urda",
+    "link": "https://www.elperiodico.com/es/politica/20261030/jueza-ortiz-decicara-exclusiva-investigar-catastrofe-urda-135932253",
+    "pubDate": "2026-10-30 16:06:16",
+    "category": "",
+    "description": "<h2>Contará con el refuerzo de otra jueza experta en gestión de emergencias mientras que el resto de asuntos de su juzgado en Orgaz los llevará un tercer juez</h2>",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "El espectacular pueblo de cuento a solo 30 minutos de Manresa",
+    "link": "https://www.elperiodico.com/es/catalunya/20261030/catalunya-pueblo-cuento-manresa-bages-mura-dv-loc-109027763",
+    "pubDate": "2026-10-30 16:05:00",
+    "category": "",
+    "description": "<h2 class=\"item\">La comarca del Bages tiene la suerte de contar con una de las localidades más encantadoras de todo el territorio catalán </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/cata-mayor/20241004/5-mejores-restaurantes-manresa-tripadvisor-dv-loc-108916606\" >Estos son los 5 mejores restaurantes de Manresa según Tripadvisor</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20240927/manresa-lugares-que-visitar-historia-cine-television-dv-loc-108633214\" >Los rincones de Manresa que ya están en la historia del cine y la televisión</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los comercios de Paseo de Gràcia se protegen para este sábado",
+    "link": "https://www.elperiodico.com/es/fotos/en-imagenes/comercios-paseo-gracia-protegen-sabado-fotos-135932112",
+    "pubDate": "2026-10-30 16:02:14",
+    "category": "",
+    "description": "",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Ірина Білик скасувала концерт в Олександрії",
+    "link": "https://ua.korrespondent.net/lifestyle/4924868-iryna-bilyk-skasuvala-kontsert-v-oleksandrii",
+    "pubDate": "2026-10-30 16:01:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4616465.jpg\">Українська співачка Ірина Білик оголосила про скасування свого виступу в Олександрії, який мав відбутися 30 жовтня, та звернулася до шанувальників із роз'ясненнями.",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Estrés, turnos exigentes y jubilaciones aceleradas en los centros de control de Adif: \"A veces no puedes levantarte ni a mear\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261030/centro-control-adif-atocha-controladores-ferroviarios-falta-personal-accidente-tren-urda-toledo-135915640",
+    "pubDate": "2026-10-30 16:00:13",
+    "category": "",
+    "description": "<h2 class=\"item\">Los operadores entran por oposición, trabajan en turnos rotatorios de ocho horas sin apenas descansos y cobran al entrar entre 35.000 y 40.000 euros </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261030/accidente-trenes-toledo-urda-ave-iryo-hoy-ultima-hora-directo-135890234\" target=\"_blank\">Accidente de trenes en Toledo, en directo: última hora de las causas del choque, muertos y heridos</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La 'castanyada' resiste al tirón de Halloween: \"No está perdida. Se pueden celebrar las dos a la vez\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261030/castanyada-resiste-tiron-halloween-disfraces-panellets-cataluna-135892131",
+    "pubDate": "2026-10-30 16:00:13",
+    "category": "",
+    "description": "<h2 class=\"item\">La tradición se mantiene con 84 puestos de castañas en la ciudad de Barcelona y cada vez son más los catalanes que apuestan por combinarla con disfraces de Halloween</h2><h2 class=\"item\">MAPA | <a href=\"https://www.elperiodico.com/es/barcelona/20261029/mapa-paradas-castanas-boniatos-barcelona-135885680\" target=\"_blank\">Dónde comprar castañas y boniatos en Barcelona este otoño: todos los puestos</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Halloween o Castanyada: ¿cómo se disfrazan los barceloneses?",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/halloween-o-castanyada-disfrazan-barceloneses/135912177.shtml",
+    "pubDate": "2026-10-30 16:00:13",
+    "category": "",
+    "description": "",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Ігор Стаковиченко: додана вартість та нова географія – головні вектори українського експорту.",
+    "link": "https://ua.korrespondent.net/business/4924876-ihor-stakovychenko-dodana-vartist-ta-nova-heohrafiia-holovni-vektory-ukrainskoho-eksportu",
+    "pubDate": "2026-10-30 16:00:00",
+    "category": "Новини бізнесу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4616516.png\">\r\nУкраїнський експорт стоїть перед стратегічним вибором: залишатися постачальником переважно сировини чи перетворитися на конкурентоспроможного виробника продукції з високою доданою вартістю.",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Rajoy, sobre Fátima Báñez: “Jamás le hizo daño a nadie”",
+    "link": "https://www.elperiodico.com/es/videos/politica/rajoy-fatima-banez-hizo-dano/135931984.shtml",
+    "pubDate": "2026-10-30 15:55:19",
+    "category": "",
+    "description": "Báñez formó parte del Gobierno de Rajoy durante los más de 6 años que este duró",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Feijóo pide el cese de Puente y Sánchez: \"Si no dimiten, les dimitiremos en las urnas”",
+    "link": "https://www.elperiodico.com/es/videos/politica/feijoo-pide-cese-puente-sanchez/135931833.shtml",
+    "pubDate": "2026-10-30 15:52:39",
+    "category": "",
+    "description": "\"La seguridad no se proclama, se acredita\"",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Дунайські порти втричі наростили перевалку на тлі загроз у Чорному морі",
+    "link": "https://ua.korrespondent.net/business/4924880-dunaiski-porty-vtrychi-narostyly-perevalku-na-tli-zahroz-u-chornomu-mori",
+    "pubDate": "2026-10-30 15:49:00",
+    "category": "Новини бізнесу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4616520.jpg\">Через погіршення безпекової ситуації в Чорному морі українська морська логістика зазнала серйозних змін. Порти Дунайського кластера збільшили обсяги перевалки вантажів утричі.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Заповіт зниклого академіка підробили: на Київщині судитимуть п’ятьох",
+    "link": "https://ua.korrespondent.net/ukraine/4924875-zapovit-znykloho-akademika-pidrobyly-na-kyivschyni-sudytymut-piatokh",
+    "pubDate": "2026-10-30 15:40:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4616509.jpg\">Переконували близьких, що викрадений росіянами академік перебуває спочатку в полоні в Білорусі, а потім лікується в Австрії. Тим часом п’ятеро осіб підробили його заповіт, щоб привласнити нерухомість на понад 18 млн грн.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Опалювальний сезон у Києві: коли тепло подадуть у будинки",
+    "link": "https://ua.korrespondent.net/city/kiev/4924870-opaluivalnyi-sezon-u-kyievi-koly-teplo-podadut-u-budynky",
+    "pubDate": "2026-10-30 15:37:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4616495.jpg\">У столиці розпочинають підключення житлових будинків до централізованого опалення. Перші квартири почнуть отримувати тепло вже з 2 листопада.",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Detenido un hombre por la muerte violenta de una mujer en el Hospital Can Misses de Ibiza",
+    "link": "https://www.elperiodico.com/es/sucesos/20261030/detenido-hombre-muerte-violenta-mujer-fq-hospital-ibiza-135931342",
+    "pubDate": "2026-10-30 15:35:02",
+    "category": "",
+    "description": "<h2>Los hechos se remontan al mes de septiembre cuando falleció una paciente de 64 años \"en extrañas circunstancias\"</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ponsarnau avisa del peligro de “generación y ejecución” de Ricky y Laprovittola",
+    "link": "https://as.com/baloncesto/ponsarnau-avisa-del-peligro-de-generacion-y-ejecucion-de-ricky-y-laprovittola-f202610-n/",
+    "pubDate": "2026-10-30 15:33:26",
+    "category": "Bilbao basket",
+    "description": "“Estamos en el bueno camino”, sostiene el técnico del Bilbao Basket antes de visitar al Joventut.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La exposición sobre el primer diccionario de Medicina en catalán llega a la Clínica Corachan: \"Se publicó hace 90 años\"",
+    "link": "https://www.elperiodico.com/es/sanidad/20261030/exposicion-primer-diccionario-medicina-catalan-llega-clinica-corachan-90-anos-manuel-corachan-135921039",
+    "pubDate": "2026-10-30 15:30:03",
+    "category": "",
+    "description": "<h2 class=\"item\">El vestíbulo del centro acoge la muestra '90 años del Diccionari de Medicina de Manuel Corachan: L'evolució del llenguatge científic català', que explica cómo una lengua también se construye desde la ciencia</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260225/ferran-sabate-medico-historiador-diccionari-medicina-manuel-corachan-aniversario-exposicion-collegi-metges-barcelona-127221309\" >Ferran Sabaté, médico e historiador: \"El primer diccionario técnico en catalán fue el de Medicina de Manuel Corachan\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Анонс одиннадцятого туру Ла Ліги: Барселона спробує почати нову переможну серію, баскське дербі",
+    "link": "https://ua.korrespondent.net/sport/4924834-anons-odynnadtsiatoho-turu-la-lihy-barselona-sprobuie-pochaty-novu-peremozhnu-seriui-baskske-derbi",
+    "pubDate": "2026-10-30 15:30:00",
+    "category": "Новини спорту",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4616410.jpg\">\r\nПропонуємо вашій увазі разом із BETKING, офіційним беттинг-партнером Ла Ліги в Україні, анонс матчів десятого туру чемпіонату Іспанії.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Принц Вільям зробив несподіване зізнання",
+    "link": "https://ua.korrespondent.net/lifestyle/4924849-prynts-viliam-zrobyv-nespodivane-ziznannia",
+    "pubDate": "2026-10-30 15:29:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4616097.jpg\">Попри те, що принц Вільям із дитинства усвідомлював свою майбутню роль на британському престолі, з'ясувалося, що він також розглядав для себе зовсім інші кар'єрні шляхи.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Війна США з Іраном коштувала Європі €100 млрд - Мерц",
+    "link": "https://ua.korrespondent.net/world/4924869-viina-ssha-z-iranom-koshtuvala-yevropi-100-mlrd-merts",
+    "pubDate": "2026-10-30 15:29:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/0.jpg\">Німеччина разом із партнерами працює через численні канали, аби координувати та активізувати дипломатичні зусилля щодо Ірану, запевнив канцлер.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Sabadell refuerza la presencia policial en las calles para prevenir posibles altercados durante el fin de semana",
+    "link": "https://www.elperiodico.com/es/barcelona/20261030/sabadell-refuerza-presencia-policial-calles-disturbios-135930988",
+    "pubDate": "2026-10-30 15:25:09",
+    "category": "",
+    "description": "<h2>El dispositivo, coordinado entre Mossos d'Esquadra y Policía Municipal, incluirá más patrullas, agentes de paisano y vigilancia en las zonas de mayor afluencia</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20261030/blocus-detenido-joven-barcelona-disturbios-saqueos-135924583\">Un detenido vinculado a Blocus en Barcelona eleva a tres los arrestos en Catalunya en las últimas 24 horas</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "9 фігурантів і 11 га плантацій: викрито тютюнову схему",
+    "link": "https://ua.korrespondent.net/ukraine/4924866-9-fihurantiv-i-11-ha-plantatsii-vykryto-tuituinovu-skhemu",
+    "pubDate": "2026-10-30 15:25:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4616491.png\">На Тернопільщині викрили незаконне вирощування тютюну на площі 11 гектарів, а в Одесі - мережу його збуту.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Іран обходить санкції через 5 тисяч фірм: серед постачальників РФ та Китай",
+    "link": "https://ua.korrespondent.net/world/4924862-iran-obkhodyt-sanktsii-cherez-5-tysiach-firm-sered-postachalnykiv-rf-ta-kytai",
+    "pubDate": "2026-10-30 15:16:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4616492.jpg\">Росія з січня 2025 року здійснила щонайменше п'ять поставок детонаторів до Ірану на загальну суму 7,6 млн доларів. Закупівлі проводили через мережу компаній, створену для обходу санкцій, ідеться в розслідуванні Reuters.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "РФ втратила новітній винищувач Су-57 - соцмережі",
+    "link": "https://ua.korrespondent.net/world/russia/4924858-rf-vtratyla-novitnii-vynyschuvach-su-57-sotsmerezhi",
+    "pubDate": "2026-10-30 15:05:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4616472.jpg\">Російський багатоцільовий винищувач п'ятого покоління Су-57 повністю згорів  в результаті нештатної ситуації при запуску двигунів.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "El plástico podría delatar a las armas impresas en 3D: una nueva pista para la policía",
     "link": "https://www.elperiodico.com/es/tendencias21/20261030/plastico-delatar-armas-impresas-3d-135930403",
     "pubDate": "2026-10-30 15:03:18",
@@ -234,6 +702,15 @@
     "topic_match_probability": 100
   },
   {
+    "title": "La Guardia Civil detiene al fundador de Blocus en España: provocó los disturbios de Barcelona y movía los de Valencia para este sábado",
+    "link": "https://www.elperiodico.com/es/sociedad/20261030/guardia-civil-detiene-fundador-blocus-135926511",
+    "pubDate": "2026-10-30 13:50:51",
+    "category": "",
+    "description": "<h2 class=\"item\">Se trata de un joven de 25 años, español de origen pakistaní</h2><h2 class=\"item\">Los agentes consideran que es el cerebro de los disturbios ocurridos en Barcelona</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 90
+  },
+  {
     "title": "Викрито сім нових схем ухилення від мобілізації",
     "link": "https://ua.korrespondent.net/ukraine/4924824-vykryto-sim-novykh-skhem-ukhylennia-vid-mobilizatsii",
     "pubDate": "2026-10-30 13:49:00",
@@ -338,6 +815,15 @@
     "pubDate": "2026-10-30 13:20:44",
     "category": "",
     "description": "<h2>El Vallés Oriental alberga una villa donde brota el agua más caliente de la península Ibérica y en la que destaca la conservación del legado romano</h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20261020/ruinas-iberas-grandes-exclusivas-catalunya-gratis-128375770\" >Así son las ruinas íberas más grandes y exclusivas de Catalunya: solo se pueden visitar ocho veces al año</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Vidorreta analiza al Barça: “Un equipo físico y atlético”",
+    "link": "https://as.com/baloncesto/vidorreta-analiza-al-barca-un-equipo-fisico-y-atletico-f202610-n/",
+    "pubDate": "2026-10-30 13:20:43",
+    "category": "Baloncesto",
+    "description": "El técnico del Unicaja destaca el enorme potencial físico del conjunto azulgrana y confía en prolongar la buena dinámica de su equipo en el duelo del domingo en el Carpena (19:00 horas, DAZN).",
     "topic": "",
     "topic_match_probability": 0
   },
