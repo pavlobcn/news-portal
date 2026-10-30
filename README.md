@@ -1,8 +1,9 @@
-# News for 2026-10-30 18:15
+# News for 2026-10-30 20:19
 
 Previous day: [2026-10-29](./data/2026-10-29.md)
 
 ## ua.korrespondent.net
+19:32 [Лев XIV став першим Папою, який проголосував на виборах у США](https://ua.korrespondent.net/world/4924928-lev-XIV-stav-pershym-papoui-yakyi-proholosuvav-na-vyborakh-u-ssha)<br>
 17:45 [Банк Січ остаточно ліквідували: що буде з виплатами](https://ua.korrespondent.net/business/companies/4924908-bank-sich-ostatochno-likviduvaly-scho-bude-z-vyplatamy)<br>
 16:59 [Відомий український актор розповів про невиліковну хворобу](https://ua.korrespondent.net/lifestyle/4924890-vidomyi-ukrainskyi-aktor-rozpoviv-pro-nevylikovnu-khvorobu)<br>
 16:45 [Ощадбанк втратив мільярди прибутку: деталі за квартал](https://ua.korrespondent.net/business/companies/4924899-oschadbank-vtratyv-miliardy-prybutku-detali-za-kvartal)<br>
@@ -49,6 +50,8 @@ Previous day: [2026-10-29](./data/2026-10-29.md)
 03:49 [У Німеччині вибух зруйнував будинок, є жертви](https://ua.korrespondent.net/world/4924676-u-nimechchyni-vybukh-zruinuvav-budynok-ye-zhertvy)<br>
 
 ## as.com
+20:11 [Asvel Basket - Baskonia, en directo: Euroliga, hoy en vivo](https://as.com/baloncesto/euroliga/asvel-basket-baskonia-en-directo-euroliga-hoy-en-vivo-f202610-n/)<br>
+20:11 [Barcelona - Valencia, en directo: Euroliga 2026-27 en vivo hoy](https://as.com/baloncesto/euroliga/barcelona-valencia-en-directo-euroliga-2026-27-en-vivo-hoy-f202610-d/)<br>
 17:51 [Debacle en el Olympiacos: Jean Montero, seis meses de baja](https://as.com/baloncesto/euroliga/debacle-en-el-olympiacos-jean-montero-seis-meses-de-baja-f202610-n/)<br>
 17:45 [Nikola Radicevic, refuerzo temporal para Asisa Joventut](https://as.com/baloncesto/acb/nikola-radicevic-refuerzo-temporal-para-asisa-joventut-f202610-n/)<br>
 17:02 [En Vitoria se da por hecho que Querejeta seguirá al frente del club](https://as.com/baloncesto/en-vitoria-se-da-por-hecho-que-querejeta-seguira-al-frente-del-club-f202610-n/)<br>
@@ -65,6 +68,11 @@ Previous day: [2026-10-29](./data/2026-10-29.md)
 00:05 [Resumen del Real Madrid vs. Fenerbahce de Euroliga](https://as.com/videos/euroliga/resumen-del-real-madrid-vs-fenerbahce-de-euroliga-f202610-v/)<br>
 
 ## www.elperiodico.com
+20:00 [Joan Cruz, doctor en Neurociencias y profesor: "No cambiaría nada, estoy orgulloso de ser disléxico"](https://www.elperiodico.com/es/sociedad/20261030/joan-cruz-neurociencias-dislexia-135875638)<br>
+20:00 [Barcelona exige a la Casa Batlló reubicar las colas de visitantes tras una multa por ocupar la acera en paseo de Gràcia](https://www.elperiodico.com/es/barcelona/20261030/barcelona-casa-batllo-colas-entrada-multa-cambios-135900088)<br>
+19:00 [Las 10 películas destacadas de noviembre en salas y plataformas: del nuevo Godzilla a la continuación de ‘Érase una vez en… Hollywood’](https://www.elperiodico.com/es/ocio-y-cultura/20261030/10-peliculas-noviembre-destacadas-estrenos-cine-plataformas-135926335)<br>
+18:59 [Las arañas saltadoras también duermen: incluso podrían soñar](https://www.elperiodico.com/es/tendencias21/20261030/aranas-saltadoras-duermen-sonar-135939087)<br>
+18:20 [Tiempo en Catalunya mañana sábado: vuelven las lluvias intensas al territorio durante el fin de semana de Halloween](https://www.elperiodico.com/es/tiempo/20261030/tiempo-cataluna-manana-sabado-31-octubre-lluvia-temperaturas-dv-loc-135935424)<br>
 18:12 [Más de 65.000 personas reciben la prestación de la Renta Garantizada de Ciudadanía hasta julio de este año](https://www.elperiodico.com/es/sociedad/20261030/renta-garantizada-ciudadania-llega-65-000-personas-135935337)<br>
 17:47 [Apropa Cultura celebra 20 años de integración de personas 'im-pa-ra-bles': "Tenemos que pensar en el envejecimiento activo"](https://www.elperiodico.com/es/ocio-y-cultura/20261030/apropa-cultura-celebra-20-anos-135928574)<br>
 17:34 [Influencer, gordofobia, antiedad o basuraleza, nuevas palabras del diccionario de la RAE](https://www.elperiodico.com/es/ocio-y-cultura/20261030/influencer-gordofobia-antiedad-o-basuraleza-135935218)<br>

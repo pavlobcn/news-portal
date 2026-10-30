@@ -1,5 +1,329 @@
 [
   {
+    "title": "La Policía de Polonia rodea el Constitucional en el estallido de una crisis sobre la cúpula de la corte",
+    "link": "https://www.elperiodico.com/es/internacional/20261030/policia-polonia-rodea-constitucional-estallido-135941086",
+    "pubDate": "2026-10-30 20:15:37",
+    "category": "",
+    "description": "<h2>El presidente del Constitucional, Bogdan Swieczkowski, declinó permitir que los jueces elegidos por la actual mayoría parlamentaria asumieran sus funciones</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Asvel Basket - Baskonia, en directo: Euroliga, hoy en vivo",
+    "link": "https://as.com/baloncesto/euroliga/asvel-basket-baskonia-en-directo-euroliga-hoy-en-vivo-f202610-n/",
+    "pubDate": "2026-10-30 20:11:44",
+    "category": "Deportes",
+    "description": "Asvel Basket - Baskonia, en directo: Euroliga, hoy en vivo",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Barcelona - Valencia, en directo: Euroliga 2026-27 en vivo hoy",
+    "link": "https://as.com/baloncesto/euroliga/barcelona-valencia-en-directo-euroliga-2026-27-en-vivo-hoy-f202610-d/",
+    "pubDate": "2026-10-30 20:11:00",
+    "category": "Baloncesto",
+    "description": "Sigue la retransmisión en directo de la novena jornada de la Euroliga, entre el Barcelona y el Valencia hoy, a las 20:30, en As.com.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Зеленський: Росія продовжує бити по енергетиці",
+    "link": "https://ua.korrespondent.net/ukraine/4924934-zelenskyi-rosiia-prodovzhuie-byty-po-enerhetytsi",
+    "pubDate": "2026-10-30 20:08:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4616735.jpg\">Росія не демонструє жодних ознак деескалації ударів по українській енергетиці. Лише за минулу ніч окупанти випустили по Україні 17 балістичних ракет, повідомив Володимир Зеленський.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Volkswagen зафіксував найбільший квартальний збиток з часів дизельгейту",
+    "link": "https://ua.korrespondent.net/business/auto/4924938-Volkswagen-zafiksuvav-naibilshyi-kvartalnyi-zbytok-z-chasiv-dyzelheitu",
+    "pubDate": "2026-10-30 20:05:00",
+    "category": "Авто новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4616752.jpg\">Німецький автоконцерн завершив третій квартал зі збитком €5,9 млрд через списання вартості частки в Porsche та проблеми на китайському ринку.",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Joan Cruz, doctor en Neurociencias y profesor: \"No cambiaría nada, estoy orgulloso de ser disléxico\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261030/joan-cruz-neurociencias-dislexia-135875638",
+    "pubDate": "2026-10-30 20:00:34",
+    "category": "",
+    "description": "<h2 class=\"item\">Recibir un diagnósico de dislexia a los 9 años no fue un obstáculo para la carrera formativa de Cruz, que trabajó con la herramienta digital Dytective para mejorar sus habilidades de lectura y escritura: \"Quise demostrarme a mí mismo que una limitación no iba a impedirme conseguir lo que quisiera\"</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260116/luz-rello-dytective-dislexia-125756744\" target=\"_blank\">Luz Rello, creadora de Dytective: \"Esta herramienta gratuita puede cambiar la vida de los alumnos con dislexia\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Barcelona exige a la Casa Batlló reubicar las colas de visitantes tras una multa por ocupar la acera en paseo de Gràcia",
+    "link": "https://www.elperiodico.com/es/barcelona/20261030/barcelona-casa-batllo-colas-entrada-multa-cambios-135900088",
+    "pubDate": "2026-10-30 20:00:33",
+    "category": "",
+    "description": "<h2 class=\"item\">El ayuntamiento ha impuesto una sanción de 1.500 euros por ocupación indebida del espacio público al edificio modernista, que trabaja una alternativa para cambiar el sistema de acceso al inmueble</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20261030/grandes-cadenas-comerciales-centro-barcelona-tapian-tiendas-disturbios-135931753\">Grandes cadenas comerciales del centro de Barcelona tapian sus tiendas ante posibles disturbios: \"Tenemos un plan por si nos quedamos atrapados\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El perfil de los jóvenes movilizados por Blocus: activos en redes, sin ideología definida ni estructura organizada",
+    "link": "https://www.elperiodico.com/es/sociedad/20261030/perfil-jovenes-disturbios-barcelona-blocus-sin-ideologia-redes-sociales-135935808",
+    "pubDate": "2026-10-30 20:00:33",
+    "category": "",
+    "description": "<h2 class=\"item\">Los Mossos perfilan a los más de 700 sospechosos; un 90% de los cuales son hombres de entre 16 y 22 años</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261030/blocus-dispositivo-policia-barcelona-cataluna-convocatorias-disturbios-maxima-alerta-135926276\">Mossos y Guardia Urbana desplegarán un dispositivo de máximos para blindar Barcelona ante la convocatoria de Blocus</a></h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Blocus y la prevención",
+    "link": "https://www.elperiodico.com/es/opinion/20261030/blocus-prevencion-barcelona-protesta-editorial-135940536",
+    "pubDate": "2026-10-30 20:00:22",
+    "category": "",
+    "description": "<h2>Las reivindicaciones tienen cabida en el debate público, pero no pueden servir de coartada para saqueos o agresiones</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20261030/blocus-dispositivo-policia-barcelona-cataluna-convocatorias-disturbios-maxima-alerta-135926276\">Mossos y Guardia Urbana desplegarán un dispositivo de máximos para blindar Barcelona ante la convocatoria de Blocus</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Carney abre la puerta a que Canadá se convierta en el primer 'miembro asociado' de la UE",
+    "link": "https://www.elperiodico.com/es/internacional/20261030/carney-abre-puerta-canada-convierta-primer-miembro-asociado-ue-135940594",
+    "pubDate": "2026-10-30 19:53:24",
+    "category": "",
+    "description": "<h2>Los líderes de la Unión Europea y Canadá se dan hasta junio para definir qué implica tener una alianza \"lo más profunda posible\", sin llegar a la adhesión</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Понад мільярд гривень збитків: викрито схему на експорті зброї",
+    "link": "https://ua.korrespondent.net/ukraine/4924931-ponad-miliard-hryven-zbytkiv-vykryto-skhemu-na-eksporti-zbroi",
+    "pubDate": "2026-10-30 19:49:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4616734.jpg\">Понад 43 млн доларів державних коштів могли привласнити під виглядом оплати посередницьких послуг під час продажу української військової продукції.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Шахтар переконливо перемагає Оболонь: 2:0",
+    "link": "https://ua.korrespondent.net/sport/football/4924930-shakhtar-perekonlyvo-peremahaie-obolon-20",
+    "pubDate": "2026-10-30 19:36:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4616717.jpg\">У матчі української Прем'єр-ліги між донецьким Шахтарем і київською Оболонню свою високу майстерність продемонстрував Аліссон, забивши киянам два м’ячі, що залишилися без відповіді.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Лев XIV став першим Папою, який проголосував на виборах у США",
+    "link": "https://ua.korrespondent.net/world/4924928-lev-XIV-stav-pershym-papoui-yakyi-proholosuvav-na-vyborakh-u-ssha",
+    "pubDate": "2026-10-30 19:32:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4616718.jpg\">Папа Римський Лев XIV, який народився у Чикаго, взяв участь у проміжних виборах у США. Його голосування поштою може стати першим подібним випадком в історії папства.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El actor que interpreta a Jaime Lannister en ‘Juego de tronos’ se refugia de los bombardeos rusos en el metro de Kiev",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/actor-jaime-lannister-juego-tronos-bombardeos-metro-kiev/135940096.shtml",
+    "pubDate": "2026-10-30 19:31:03",
+    "category": "",
+    "description": "El intérprete, de 56 años, ha compartido imágenes de su noche en una estación convertida en refugio antiaéreo durante su visita a Ucrania como embajador de buena voluntad de la ONU, que también le ha llevado hasta Chernóbil",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "El mensaje de los demócratas para ganar en las 'midterm': corrupción, inflación y una Casa Blanca digna de Sadam Husein",
+    "link": "https://www.elperiodico.com/es/internacional/20261030/estrategia-democratas-ganar-midterm-mensajes-corrupcion-inflacion-trump-135940028",
+    "pubDate": "2026-10-30 19:30:18",
+    "category": "",
+    "description": "<h2>El partido de la oposición centra su estrategia en los problemas de cada día más que en los asuntos de la guerra cultural y confía en que se mantengan las proyecciones de los sondeos para recuperar el Congreso </h2>",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "David Jiménez Gil, bioquímico salmantino fallecido en el siniestro: un \"hombre de microscopios por oficio\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261030/david-jimenez-gil-bioquimico-salmantino-fallecido-siniestro-hombre-microscopios-oficio-135927927",
+    "pubDate": "2026-10-30 19:18:56",
+    "category": "",
+    "description": "<h2 class=\"item\">Empezó en Barcelona y era experto en microscopía electrónica en Carl Zeiss MicroImaging, una empresa alemana líder en los campos de la óptica y la optoelectrónica</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261030/accidente-trenes-toledo-urda-ave-iryo-hoy-ultima-hora-directo-135890234\">DIRECTO Accidente de trenes en Toledo | Última hora de la investigación, muertos, heridos y desaparecidos</a></h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "В Укренерго розповіли про відключення на суботу",
+    "link": "https://ua.korrespondent.net/ukraine/4924919-v-ukrenerho-rozpovily-pro-vidkluichennia-na-subotu",
+    "pubDate": "2026-10-30 19:15:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4616671.jpg\">Енергетики закликали споживати електроенергію ощадливо, коли вона з’являється за графіком.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Videos aportados por la Policía a la jueza",
+    "link": "https://www.elperiodico.com/es/videos/politica/videos-aportados-policia-jueza/135939477.shtml",
+    "pubDate": "2026-10-30 19:07:39",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Videos aportados por la Policía a la jueza",
+    "link": "https://www.elperiodico.com/es/videos/politica/videos-aportados-policia-jueza/135939424.shtml",
+    "pubDate": "2026-10-30 19:07:00",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Videos aportados por la Policía a la jueza",
+    "link": "https://www.elperiodico.com/es/videos/politica/videos-aportados-policia-jueza/135939400.shtml",
+    "pubDate": "2026-10-30 19:06:16",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Gavà penalizará los pisos vacíos y turísticos en las ordenanzas municipales de 2027 y aprueba una tasa turística local",
+    "link": "https://www.elperiodico.com/es/barcelona/20261030/gava-penalizara-pisos-vacios-turisticos-ordenanzas-municipales-2027-aprueba-una-tasa-turistica-local-135938602",
+    "pubDate": "2026-10-30 19:01:05",
+    "category": "",
+    "description": "<h2>La nueva normativa municipal de Gavà aplicará recargos en el IBI de hasta el 150% a viviendas desocupadas y alojamientos turísticos</h2>",
+    "topic": "туристичні квартири",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El pequeño comercio de Barcelona abrirá con recelo en Halloween ante la convocatoria de Blocus: \"No son protestas, son gamberradas\"",
+    "link": "https://www.elperiodico.com/es/barcelona/20261030/comercio-barcelona-abrira-sabado-llamada-blocus-saqueo-protestas-gamberradas-135891178",
+    "pubDate": "2026-10-30 19:00:15",
+    "category": "",
+    "description": "<h2>Barcelona Oberta llama a seguir con la actividad \"con la máxima normalidad\" y asegura que \"nadie tiene interés en que esto se desmadre\", mientras las grandes cadenas comienzan a tapiar sus tiendas</h2><h2>CONTEXTO | <a href=\"https://www.elperiodico.com/es/sociedad/20261027/blocus-prepara-nueva-oleada-disturbios-barcelona-fin-de-semana-135805481\">Blocus prepara una nueva oleada de disturbios en Barcelona: \"Poneos ropa negra y máscaras de Halloween\"</a></h2>",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Las 10 películas destacadas de noviembre en salas y plataformas: del nuevo Godzilla a la continuación de ‘Érase una vez en… Hollywood’",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261030/10-peliculas-noviembre-destacadas-estrenos-cine-plataformas-135926335",
+    "pubDate": "2026-10-30 19:00:14",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las arañas saltadoras también duermen: incluso podrían soñar",
+    "link": "https://www.elperiodico.com/es/tendencias21/20261030/aranas-saltadoras-duermen-sonar-135939087",
+    "pubDate": "2026-10-30 18:59:29",
+    "category": "",
+    "description": "<h2>Un estudio confirma que estos arácnidos duermen y presentan un estado similar al sueño REM, con movimientos rápidos de ojos y sacudidas de patas: que tengan sueños sigue siendo una incógnita</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Alcaraz se lleva el duelo de magos y se cita con Medvedev en Viena",
+    "link": "https://www.elperiodico.com/es/deportes/tenis/20261030/alcaraz-lleva-duelo-magos-cita-135936482",
+    "pubDate": "2026-10-30 18:59:25",
+    "category": "",
+    "description": "<h2 class=\"item\">El astro murciano supera en dos sets a Tommy Paul y accede a las semifinales.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Евакуація з Олешок: Лубінець повідомив про завершення місії",
+    "link": "https://ua.korrespondent.net/ukraine/4924925-evakuatsiia-z-oleshok-lubinets-povidomyv-pro-zavershennia-misii",
+    "pubDate": "2026-10-30 18:57:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4616688.jpg\">Жителі тимчасово окупованих Олешок на Херсонщині, які хотіли виїхати на підконтрольну Україні територію, отримали таку можливість.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Brasil pide explicaciones a Argentina por su papel en la fuga de Bolsonaro a EEUU",
+    "link": "https://www.elperiodico.com/es/internacional/20261030/brasil-pide-explicaciones-argentina-papel-fuga-bolsonaro-135938828",
+    "pubDate": "2026-10-30 18:52:37",
+    "category": "",
+    "description": "<h2>El ultraderechista cruzó la frontera la noche del martes con el apoyo del Gobierno de Milei</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La ACCO pide preservar la oferta de 'bicisharing' privado en Barcelona",
+    "link": "https://www.elperiodico.com/es/barcelona/20261030/barcelona-bicicletas-compartidas-privadas-competencia-135936083",
+    "pubDate": "2026-10-30 18:47:46",
+    "category": "",
+    "description": "<h2 class=\"item\">El regulador catalán cuestiona los planes de Collboni y alerta del impacto que tendría la desaparición de los operadores en la calidad, los precios y la innovación</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260927/bicisharing-privado-barcelona-fin-licencias-2027-134553801\" >El 'bicisharing' privado se defiende ante su adiós de Barcelona: \"Va en contra de los objetivos de la ciudad\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260927/sanciones-bicisharing-privado-barcelona-bicicleta-sancionada-dos-veces-134525949\" >Récord de sanciones para el 'bicisharing' privado de Barcelona: cada bicicleta ha sido sancionada al menos dos veces</a></h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Захисник Реала знову цікавий англійським грандам",
+    "link": "https://ua.korrespondent.net/sport/football/4924923-zakhysnyk-reala-znovu-tsikavyi-anhliiskym-hrandam",
+    "pubDate": "2026-10-30 18:47:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4616672.jpg\">Топклуби англійської Прем'єр-ліги мають намір повернути гравця до чемпіонату Англії, споглядаючи ступінь його незалученості до ігор мадридського Реала.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Queens of the Stone Age, menos imperiales pero magnéticos en 'Perfecth'",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261030/queens-of-the-stone-age-nuevo-disco-perfecth-135932791",
+    "pubDate": "2026-10-30 18:46:44",
+    "category": "",
+    "description": "<h2 class=\"item\">La banda californiana matiza su rock de herencia 'stoner' en un álbum abierto a las sonoridades más introspectivas, incluyendo cuerdas y fibras acústicas, que refleja las adversidades afrontadas por Josh Homme en su esfera personal</h2><h2 class=\"item\">Los nuevos elepés de Olivia Tremor Control y L'Arannà, también reseñados</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Vandalizan con pintura roja un McDonald's de la Rambla de Badal de Barcelona",
+    "link": "https://www.elperiodico.com/es/barcelona/20261030/vandalizan-pintura-pintura-roja-mcdonalds-barcelona-mossos-free-palestine-135938283",
+    "pubDate": "2026-10-30 18:46:18",
+    "category": "",
+    "description": "<h2>El establecimiento ha sufrido otros dos ataques similares en el último mes, y la policía habla de mensajes relacionados con Free Palestine </h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Confirman la muerte de Mari Carmen García, la joven mallorquina desaparecida en el accidente de Toledo",
+    "link": "https://www.elperiodico.com/es/sociedad/20261030/confirman-muerte-mari-carmen-garcia-135936315",
+    "pubDate": "2026-10-30 18:45:02",
+    "category": "",
+    "description": "<h2 class=\"item\">La joven de Inca, de 26 años, viajaba a Sevilla por motivos de trabajo cuando se produjo el siniestro ferroviario del pasado miércoles</h2><h2 class=\"item\">Sus padres llevaban dos días buscándola en hospitales de la zona y habían denunciado su desaparición ante la Guardia Civil</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "El regreso de Machado a Venezuela descoloca a Rodríguez y cambia la velocidad de la transición institucional",
+    "link": "https://www.elperiodico.com/es/internacional/20261030/regreso-machado-venezuela-descoloca-rodriguez-cambia-velocidad-transicion-135938115",
+    "pubDate": "2026-10-30 18:32:14",
+    "category": "",
+    "description": "<h2>La \"presidenta encargada\" confía en ser la garante de ese proceso sobre la base de sus vínculos con Trump</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Іран заявив про знищення підводного апарата біля Ормузу",
+    "link": "https://ua.korrespondent.net/world/4924921-iran-zaiavyv-pro-znyschennia-pidvodnoho-aparata-bilia-ormuzu",
+    "pubDate": "2026-10-30 18:32:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4616687.jpg\">Іранські військові заявили про знищення ворожого підводного апарата поблизу Ормузької протоки. Тим часом у цьому районі загорівся ще один нафтовий танкер із понад 2 млн барелів нафти.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Tiempo en Catalunya mañana sábado: vuelven las lluvias intensas al territorio durante el fin de semana de Halloween",
+    "link": "https://www.elperiodico.com/es/tiempo/20261030/tiempo-cataluna-manana-sabado-31-octubre-lluvia-temperaturas-dv-loc-135935424",
+    "pubDate": "2026-10-30 18:20:37",
+    "category": "",
+    "description": "<h2 class=\"item\">El Meteocat anuncia un día de inestabilidad en distintos puntos del mapa</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261030/aemet-cambio-tiempo-lluvias-mediterraneo-bajada-temperaturas-135916098\" >La Aemet advierte de un cambio de tiempo que dejará lluvias en el Mediterráneo y una bajada general de las temperaturas</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261028/cambio-tiempo-castanyada-halloween-lluvias-mediterraneo-prevision-aemet-135843780\" >Un cambio de tiempo en vísperas de la 'castanyada' y Halloween amenaza con dejar \"lluvias intensas\" en el Mediterráneo durante el fin de semana</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Зеленський окреслив лінію дипстрайків у Росії",
+    "link": "https://ua.korrespondent.net/ukraine/4924917-zelenskyi-okreslyv-liniui-dypstraikiv-u-rosii",
+    "pubDate": "2026-10-30 18:15:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4616670.jpg\">Будуть масштабуватись підрозділи дипстрайків – як на основі спроможностей СБУ так і на основі розвідок та інших складових Сил оборони.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Más de 65.000 personas reciben la prestación de la Renta Garantizada de Ciudadanía hasta julio de este año",
     "link": "https://www.elperiodico.com/es/sociedad/20261030/renta-garantizada-ciudadania-llega-65-000-personas-135935337",
     "pubDate": "2026-10-30 18:12:22",
@@ -1123,6 +1447,15 @@
     "description": "<h2 class=\"item\">El joven, de 18 años, haría participado en los destrozos y saqueos del pasado sábado en la ciudad</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261030/blocus-mososs-detienen-sant-sadurni-anoia-menor-disturbios-barcelona-saqueos-17-anos-135912970\" target=\"_blank\">Los Mossos detienen en Sant Sadurní d'Anoia a un menor vinculado con los disturbios de Barcelona</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sucesos/20261029/mossos-detienen-administrador-canal-blocus-lleida-135903245\">Los Mossos detienen al administrador de un canal de Blocus por incitar a saquear comercios en Lleida</a></h2>",
     "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
     "topic_match_probability": 96
+  },
+  {
+    "title": "Puente valora cortar la alta velocidad entre Madrid y Barcelona en su próxima renovación",
+    "link": "https://www.elperiodico.com/es/economia/20261030/puente-valora-cortar-alta-velocidad-madrid-barcelona-proxima-renovacion-135924696",
+    "pubDate": "2026-10-30 13:19:18",
+    "category": "",
+    "description": "<h2>El ministro asegura que esta decisión podría reducir de cinco años a entre 12 y 24 meses el periodo en obras</h2>",
+    "topic": "політика",
+    "topic_match_probability": 65
   },
   {
     "title": "Detenido el fundador de Blocus España en Picanya (Valencia)",
