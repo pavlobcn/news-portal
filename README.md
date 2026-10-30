@@ -1,8 +1,16 @@
-# News for 2026-10-30 10:17
+# News for 2026-10-30 12:41
 
 Previous day: [2026-10-29](./data/2026-10-29.md)
 
 ## ua.korrespondent.net
+12:38 [Нафта дорожчає через атаку на танкер в Ормузі](https://ua.korrespondent.net/business/economics/4924802-nafta-dorozhchaie-cherez-ataku-na-tanker-v-ormuzi)<br>
+12:23 [В Україні назвали середню ціну гектара землі у 2026 році](https://ua.korrespondent.net/business/economics/4924797-v-ukraini-nazvaly-serednui-tsinu-hektara-zemli-u-2026-rotsi)<br>
+12:07 [Вдова творця Playboy розповіла про витівки зірок у маєтку](https://ua.korrespondent.net/lifestyle/4924781-vdova-tvortsia-Playboy-rozpovila-pro-vytivky-zirok-u-maietku)<br>
+12:01 [Сили оборони спалили Іскандер на Курщині](https://ua.korrespondent.net/ukraine/4924792-syly-oborony-spalyly-iskander-na-kurschyni)<br>
+11:13 [Гривня зміцніла в обмінниках наприкінці тижня](https://ua.korrespondent.net/business/financial/4924774-hryvnia-zmitsnila-v-obminnykakh-naprykintsi-tyzhnia)<br>
+10:55 [Гелловін на екрані - 10 історій, у яких свято йде не за планом](https://ua.korrespondent.net/articles/4924758-hellovin-na-ekrani-10-istorii-u-yakykh-sviato-yde-ne-za-planom)<br>
+10:45 [Трамп вручив подарунок дитині в радянській формі](https://ua.korrespondent.net/lifestyle/4924750-tramp-vruchyv-podarunok-dytyni-v-radianskii-formi)<br>
+10:29 [Нові знеструмлення у Києві і чотирьох областях](https://ua.korrespondent.net/ukraine/4924752-novi-znestrumlennia-u-kyievi-i-chotyrokh-oblastiakh)<br>
 10:15 [Молдова купила український газ за цінами нижче європейських](https://ua.korrespondent.net/business/economics/4924746-moldova-kupyla-ukrainskyi-haz-za-tsinamy-nyzhche-yevropeiskykh)<br>
 10:11 [Гелловін 2026: історія і атрибути свята](https://ua.korrespondent.net/lifestyle/4924733-hellovin-2026-istoriia-i-atrybuty-sviata)<br>
 10:08 [У ЗСУ посилять перевірки рішень військово-лікарських комісій](https://ua.korrespondent.net/ukraine/4924745-u-zsu-posyliat-perevirky-rishen-viiskovo-likarskykh-komisii)<br>
@@ -22,6 +30,9 @@ Previous day: [2026-10-29](./data/2026-10-29.md)
 03:49 [У Німеччині вибух зруйнував будинок, є жертви](https://ua.korrespondent.net/world/4924676-u-nimechchyni-vybukh-zruinuvav-budynok-ye-zhertvy)<br>
 
 ## as.com
+12:21 [Méndez da la primera lista tras el Mundial: se estrenará Marta Suárez](https://as.com/baloncesto/mas_baloncesto/mendez-da-la-primera-lista-tras-el-mundial-se-estrenara-marta-suarez-f202610-n/)<br>
+11:53 [El Movistar Estudiantes se suma a la solidaridad tras el accidente ferroviario](https://as.com/baloncesto/mas_baloncesto/el-movistar-estudiantes-se-suma-a-la-solidaridad-tras-el-accidente-ferroviario-f202610-n/)<br>
+11:20 [El Fenerbahçe se lleva la puja por Dwight Powell](https://as.com/baloncesto/euroliga/el-fenerbahce-se-lleva-la-puja-por-dwight-powell-f202610-n/)<br>
 07:07 [Jasikevicius: “No tenemos una identidad como equipo”](https://as.com/baloncesto/euroliga/jasikevicius-no-tenemos-una-identidad-como-equipo-f202610-n/)<br>
 05:21 [Barcelona - Valencia: horario, TV, cómo y dónde ver la Euroliga 2026-27](https://as.com/baloncesto/euroliga/barcelona-valencia-horario-tv-como-y-donde-ver-la-euroliga-2026-27-f202610-n/)<br>
 05:19 [Joel Parra, el hombre para todo](https://as.com/baloncesto/euroliga/joel-parra-el-hombre-para-todo-f202610-n/)<br>
@@ -29,6 +40,22 @@ Previous day: [2026-10-29](./data/2026-10-29.md)
 00:05 [Resumen del Real Madrid vs. Fenerbahce de Euroliga](https://as.com/videos/euroliga/resumen-del-real-madrid-vs-fenerbahce-de-euroliga-f202610-v/)<br>
 
 ## www.elperiodico.com
+12:34 [La figuerense Andrea Olmos muere en el trágico accidente de tren de Urda, en Toledo](https://www.elperiodico.com/es/sociedad/20261030/figuerense-andrea-olmos-muere-tragico-135921965)<br>
+12:28 [María de los Ángeles, una vecina de Cuevas de San Marcos, entre los fallecidos por el accidente ferroviario](https://www.elperiodico.com/es/sociedad/20261030/maria-angeles-vecina-cuevas-san-135921409)<br>
+12:28 [El precio del euríbor hoy, 30 de octubre: el mes baja el telón con una última concesión a los titulares de una hipoteca](https://www.elperiodico.com/es/economia/20261030/precio-euribor-hoy-30-octubre-dv-135919714)<br>
+12:19 [El cofundador de la marca Esenzia, Alessandro Ridolfi:  "Nosotros empezamos con 30 euros de inversión cada uno, 60 en total. Así empezamos este proyecto"](https://www.elperiodico.com/es/economia/20261030/cofundador-marca-esenzia-alessandro-ridolfi-nosotros-30-euros-inversion-cada-uno-60-total-asi-empezamos-proyecto-dv-135915938)<br>
+12:15 [Àgata Roca, actriz, sobre la vivienda en Barcelona: "Hombres o mujeres separados se han visto obligados a volver con sus padres”](https://www.elperiodico.com/es/vivienda/20261030/agata-roca-actriz-vivienda-crisis-divorciados-jovenes-dv-135623122)<br>
+12:00 [Se hizo una vasectomía y su mujer se quedó embarazada: ahora el Supremo les otorga una indemnización de 70.000 euros](https://www.elperiodico.com/es/economia/20261030/vasectomia-mujer-embarazada-indemnizacion-dv-135893291)<br>
+11:50 [Torito revela que estuvo a punto de coger los trenes de Adamuz y Urda: "Los dos graves accidentes ferroviarios me pillaron que tenía billete"](https://www.elperiodico.com/es/gente/20261030/torito-tren-adamuz-urda-toledo-billete-accidente-dv-135918381)<br>
+11:43 [Europa avanza a diferentes velocidades en la implantación del sistema de seguridad ERTMS para los trenes](https://www.elperiodico.com/es/internacional/20261030/europa-avanza-diferentes-velocidades-implantacion-sistema-seguridad-trenes-ertms-135918689)<br>
+11:33 [Agustín Randazzo, el argentino de Buenos Aires que llevaba 25 años en España: "Descansa en paz, mi amor"](https://www.elperiodico.com/es/sociedad/20261030/agustin-randazzo-argentino-buenos-aires-llevaba-espana-descansa-pareja-135915843)<br>
+11:29 [Cal Carré, la editorial que nació en una carnicería, cumple cinco años: "Nunca daremos gato por liebre"](https://www.elperiodico.com/es/ocio-y-cultura/20261030/cal-carre-carniceria-quinto-aniversario-135680162)<br>
+11:28 [Una investigación destapa abusos, impagos y condiciones peligrosas en la construcción de centros de datos en Europa](https://www.elperiodico.com/es/tecnologia/20261030/investigacion-destapa-abusos-impagos-condiciones-obras-centros-datos-europa-google-microsoft-135913943)<br>
+11:21 [La Aemet advierte de un cambio de tiempo que dejará lluvias en el Mediterráneo y una bajada general de las temperaturas](https://www.elperiodico.com/es/sociedad/20261030/aemet-cambio-tiempo-lluvias-mediterraneo-bajada-temperaturas-135916098)<br>
+10:58 [Halle Berry podrá volver a acercarse a su hijo, pero no dormir con él: la decisión judicial que favorece también a Olivier Martinez](https://www.elperiodico.com/es/gente/20261030/halle-berry-olivier-martinez-custodia-hijo-jueza-135915644)<br>
+10:51 [Moeve multiplica por seis su beneficio hasta los 1.430 millones por el alza del petróleo](https://www.elperiodico.com/es/economia/20261030/moeve-multiplica-seis-beneficio-alza-petroleo-135915959)<br>
+10:41 [Holaluz dispara su rentabilidad en el primer semestre](https://www.elperiodico.com/es/economia/20261030/holaluz-dispara-rentabilidad-primer-semestre-135912043)<br>
+10:39 [El operario de Adif que dio la instrucción de continuar al AVE se acoge a su derecho a no declarar ante la Guardia Civil](https://www.elperiodico.com/es/economia/20261030/operario-adif-dio-instruccion-continuar-135915465)<br>
 10:13 [César Vicente Sanz, el querido profesor sevillano que hablaba con su hijo actor "de la pureza del ser humano"](https://www.elperiodico.com/es/sociedad/20261030/cesar-vicente-sanz-querido-profesor-sevillano-hablaba-hijo-actor-pureza-ser-humano-135912124)<br>
 10:10 [Pablo (51 años) convirtió un autobús escolar en una casa sobre ruedas junto a su mujer: "No hay que tener miedo porque si esperas, te vas a morir esperando. Sin darte cuenta, se te fue la vida y nunca lo hiciste"](https://www.elperiodico.com/es/economia/20261030/caravaning-vivienda-autobus-escolar-libertad-jubilacion-argentina-pablo-dv-et-135662186)<br>
 10:08 [La gran banca dispara sus beneficios un 10% y gana más de 28.000 millones hasta septiembre](https://www.elperiodico.com/es/economia/20261030/gran-banca-dispara-beneficios-10-135914165)<br>
