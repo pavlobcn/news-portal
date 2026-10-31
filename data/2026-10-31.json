@@ -1,5 +1,104 @@
 [
   {
+    "title": "EEUU en un minuto: ¿Qué vota Estados Unidos el 3 de noviembre y qué está en juego?",
+    "link": "https://www.elperiodico.com/es/videos/internacional/eeuu-minuto-vota-estados-unidos/135817055.shtml",
+    "pubDate": "2026-10-31 07:55:08",
+    "category": "",
+    "description": "",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "\"Шахеди\" з шести напрямків: як відпрацювала ППО",
+    "link": "https://ua.korrespondent.net/ukraine/4924998-shakhedy-z-shesty-napriamkiv-yak-vidpratsuivala-ppo",
+    "pubDate": "2026-10-31 07:55:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4617319.jpg\">Зафіксовано влучання засобів повітряного нападу противника на 20 локаціях. Ще у 10 місцях впали уламки збитих цілей.",
+    "topic": "підсумки (за попередній день, наприклад)",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Este es el ‘mapa de la muerte’ de El Niño: 2.500 víctimas en España desde junio de 2026 a marzo de 2027",
+    "link": "https://www.elperiodico.com/es/medio-ambiente/20261031/mapa-muerte-nino-2-500-135946209",
+    "pubDate": "2026-10-31 07:45:46",
+    "category": "",
+    "description": "<h2>Una herramienta impulsada por Climate Impact Lab especifica el número de fallecimientos atribuibles en cada país a este fenómeno natural, incluyendo un pronóstico hasta el nuevo año</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Британії схвалили масштабний проєкт прокладання підводних електрокабелів",
+    "link": "https://ua.korrespondent.net/world/4924996-u-brytanii-skhvalyly-masshtabnyi-proiekt-prokladannia-pidvodnykh-elektrokabeliv",
+    "pubDate": "2026-10-31 07:26:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4617303.jpg\">Цей проєкт допоможе зміцнити енергетичну безпеку країни, зробивши енергомережу стійкішою та зменшивши витрати.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Найвищий перевал України закривають на пів року",
+    "link": "https://ua.korrespondent.net/ukraine/4924994-naivyschyi-pereval-ukrainy-zakryvauit-na-piv-roku",
+    "pubDate": "2026-10-31 07:05:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4617287.jpg\">Обмеження діятиме до завершення зимового періоду. Відкрити рух через перевал Шурдин планують 30 квітня 2027 року.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Disonancias",
+    "link": "https://www.elperiodico.com/es/opinion/20261031/disonancias-135944812",
+    "pubDate": "2026-10-31 07:00:59",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La amenaza fantasma",
+    "link": "https://www.elperiodico.com/es/opinion/20261031/amenaza-fantasma-135933331",
+    "pubDate": "2026-10-31 07:00:48",
+    "category": "",
+    "description": "<h2>El fenómeno de movilización de jóvenes hacia el vandalismo obliga a las autoridades a redoblar esfuerzos ante el uso perverso de las redes para edulcorar actos delictivos como diversión</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Crece la brecha patrimonial entre generaciones: la riqueza de los hogares jóvenes cae un 75% pese al ahorro",
+    "link": "https://www.elperiodico.com/es/economia/20261031/dia-mundial-ahorro-brecha-patrimonial-generaciones-riqueza-hogares-jovenes-cae-75-por-ciento-135932119",
+    "pubDate": "2026-10-31 07:00:48",
+    "category": "",
+    "description": "<h2>Los expertos advierten de que los salarios, el encarecimiento de la vivienda y la falta de renta disponible dificultan convertir el ahorro en patrimonio, pese a que los jóvenes mantienen el hábito de reservar dinero</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Estos pueblos medievales catalanes acogerán ferias de brujería para Halloween y Todos los Santos",
+    "link": "https://www.elperiodico.com/es/que-hacer/planes/20261031/pueblos-medievales-catalanes-acogeran-ferias-brujeria-halloween-tots-els-sants-135821698",
+    "pubDate": "2026-10-31 07:00:47",
+    "category": "",
+    "description": "<h2>Este fin de semana, a una hora de Barcelona, espectáculos callejeros que recrean las cacerías de brujería que acontecieron en el medievo catalán. Y, como es habitual, vienen acompañados de mercadillo</h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20261030/salir-fiesta-disfrazado-tardeos-ocio-135867385\" target=\"_blank\">Dónde salir de fiesta disfrazado en Barcelona: 'tardeos' y ocio nocturno para Halloween</a></h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Генштаб назвав втрати Росії станом на 31 жовтня",
+    "link": "https://ua.korrespondent.net/ukraine/4924992-henshtab-nazvav-vtraty-rosii-stanom-na-31-zhovtnia",
+    "pubDate": "2026-10-31 06:47:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4617270.jpg\">Українські військові знищили близько 2000 одиниць російської техніки, серед якої 19 гармат, одна РСЗВ і два засоби ППО.",
+    "topic": "підсумки (за попередній день, наприклад)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "На Хмельниччині троє підлітків загинули в ДТП",
+    "link": "https://ua.korrespondent.net/ukraine/4924990-na-khmelnychchyni-troie-pidlitkiv-zahynuly-v-dtp",
+    "pubDate": "2026-10-31 06:29:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4617254.jpg\">Підлітки їхали автомобілем ВАЗ 21099. Поліцейські виявили цю машину в річці. Усередині були тіла всіх трьох дітей.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
     "title": "El cannabis medicinal ya viaja desde Alicante a los hospitales españoles",
     "link": "https://www.elperiodico.com/es/economia/20261031/cannabis-medicinal-viaja-alicante-hospitales-135945527",
     "pubDate": "2026-10-31 06:01:44",
@@ -126,6 +225,15 @@
     "topic_match_probability": 90
   },
   {
+    "title": "El Gobierno da poderes a Competencia para vigilar que los centros de datos cumplan las nuevas obligaciones verdes y de seguridad",
+    "link": "https://www.elperiodico.com/es/economia/20261031/centros-de-datos-gobierno-poderes-competencia-cnmc-vigilancia-135922555",
+    "pubDate": "2026-10-31 06:00:51",
+    "category": "",
+    "description": "<h2 class=\"item\">La CNMC supervisará cada seis meses que los ‘data centers’ acatan las exigencias del nuevo real decreto que prepara el Ejecutivo. Y cada dos años el supervisor, Red Eléctrica y el Gobierno evaluarán conjuntamente la aplicación y la eficacia de los requisitos</h2>",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
     "title": "Los casos de discriminación por islamofobia se disparan un 80% en Barcelona",
     "link": "https://www.elperiodico.com/es/sociedad/20261031/discriminacion-islamofobia-aumento-barcelona-datos-fiscalia-2025-135894915",
     "pubDate": "2026-10-31 06:00:46",
@@ -178,6 +286,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4617189.jpg\">Поліцейські кордони перекрили вхід у будівлю, а також попередили, що можуть застосувати силу.",
     "topic": "політика",
     "topic_match_probability": 70
+  },
+  {
+    "title": "Estados Unidos, otra vez ante el espejo",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20261031/estados-unidos-elecciones-medio-mandato-135795374",
+    "pubDate": "2026-10-31 04:50:48",
+    "category": "",
+    "description": "<h2>El 3 de noviembre, los estadounidenses votarán para definir el equilibrio de fuerzas en el Congreso</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
   },
   {
     "title": "Франція заборонила маски на протестах у день Гелловіну",
