@@ -1,5 +1,104 @@
 [
   {
+    "title": "Hamilton y Ferrari se estrenan en la pole en México, con nuevo drama de Alonso",
+    "link": "https://www.elperiodico.com/es/deportes/20261031/hamilton-ferrari-estrenan-pole-mexico-135964648",
+    "pubDate": "2026-10-31 23:45:54",
+    "category": "",
+    "description": "<h2>Carlos Sainz saldrá 16º tras 'colarse' en Q2 con Williams y Fernando Alonso, lastrado por una avería, en su Aston Martin, partirá 18º</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Jorge Drexler, un baile ilustrado para celebrar la vida en el Palau Sant Jordi",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261031/jorge-drexler-baile-ilustrado-celebrar-vida-barcelona-articulo-jordi-bianciotto-135964740",
+    "pubDate": "2026-10-31 23:44:24",
+    "category": "",
+    "description": "<h2 style=\"text-align: justify;\">El músico uruguayo ofreció un concierto refinado y exuberante en el que presentó ‘Taracá’, álbum asentado en el ritmo de géneros populares como el candombe</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Зеленський оголосив план щодо ракет для Patriot",
+    "link": "https://ua.korrespondent.net/ukraine/4925120-zelenskyi-oholosyv-plan-schodo-raket-dlia-Patriot",
+    "pubDate": "2026-10-31 23:39:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4618287.jpg\">Темпи надання Україні зброї сьогодні недостатні для того, щоб належно захищати українців, наголосив президент.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Alonzo Verge culmina una heroica remontada del Leyma",
+    "link": "https://as.com/baloncesto/acb/alonzo-verge-culmina-una-heroica-remontada-del-leyma-f202610-n/",
+    "pubDate": "2026-10-31 23:29:36",
+    "category": "Baloncesto",
+    "description": "Da la vuelta a un partido que fue ganando siempre La Laguna Tenerife. Papel clave de Silins. Kyle Guy no fue suficiente para los canarios, que rompen su racha de cuatro victorias seguidas",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El gol de todos, por Juan Cruz Ruiz",
+    "link": "https://www.elperiodico.com/es/deportes/20261031/gol-juan-cruz-ruiz-135964401",
+    "pubDate": "2026-10-31 23:21:34",
+    "category": "",
+    "description": "<h2 class=\"item\">LA CRÓNICA: <a href=\"https://www.elperiodico.com/es/deportes/20261031/alaves-paga-rabia-barca-135961233\" target=\"_blank\">El Alavés paga la rabia del Barça</a></h2><h2 class=\"item\">LA CONTRACRÓNICA: <a href=\"https://www.elperiodico.com/es/deportes/20261031/raphinha-motor-incombustible-barca-amenaza-135962011\" target=\"_blank\">Raphinha, el motor incombustible del Barça que amenaza los récords de Messi y Cristiano</a></h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Identificadas 56 de las 69 víctimas del accidente de Urda",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/identificadas-56-69-victimas-accidente/135964410.shtml",
+    "pubDate": "2026-10-31 23:17:36",
+    "category": "",
+    "description": "",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "El japonés Toshisuke Kanazawa , con 90 años,  deslumbra en Barcelona en el campeonato mundial de culturismo",
+    "link": "https://www.elperiodico.com/es/videos/deportes/japones-toshisuke-kanazawa-90-anos/135964049.shtml",
+    "pubDate": "2026-10-31 23:11:08",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Атлетік Футзал уперше в історії зіграє у 1/8 фіналу Ліги чемпіонів",
+    "link": "https://ua.korrespondent.net/sport/4925116-atletik-futzal-upershe-v-istorii-zihraie-u-18-finalu-lihy-chempioniv",
+    "pubDate": "2026-10-31 23:03:00",
+    "category": "Новини спорту",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4618224.jpg\">Українська футзальна команда з Дніпра успішно пройшла відбір у дебютному для себе сезоні в Лізі чемпіонів і дійшла до 1/8 фіналу турніру.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Alavés paga la rabia del Barça",
+    "link": "https://www.elperiodico.com/es/deportes/20261031/alaves-paga-rabia-barca-135961233",
+    "pubDate": "2026-10-31 22:59:49",
+    "category": "",
+    "description": "<h2>Después de los dos malditos días ante el PSG y el Madrid, reaparece el Barça devorador con dos dobletes de Raphinha y Lamine Yamal </h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Raphinha, el motor incombustible del Barça que amenaza los récords de Messi y Cristiano",
+    "link": "https://www.elperiodico.com/es/deportes/20261031/raphinha-motor-incombustible-barca-amenaza-135962011",
+    "pubDate": "2026-10-31 22:57:55",
+    "category": "",
+    "description": "<h2>El delantero brasileño volvió a firmar un doblete, esta vez contra el Alavés, e igualó cifras del astro argentino y portugués. </h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "В ЄС розкритикували повернення Путіна на саміт G20",
+    "link": "https://ua.korrespondent.net/world/worldabus/4925118-v-yes-rozkrytykuvaly-povernennia-putina-na-samit-G20",
+    "pubDate": "2026-10-31 22:57:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4618245.jpg\">Повернення Росії на такі міжнародні майданчики - пряма легітимізація воєнних злочинів в Україні, наголосила єврочиновниця.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Manifestación en València por el segundo aniversario de la dana del 29 de octubre de 2024",
     "link": "https://www.elperiodico.com/es/videos/sociedad/manifestacion-valencia-segundo-aniversario-dana/135963790.shtml",
     "pubDate": "2026-10-31 22:38:06",
