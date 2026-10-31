@@ -1,5 +1,14 @@
 [
   {
+    "title": "Політична криза в Польщі: посол Варшави в КНР подав у відставку",
+    "link": "https://ua.korrespondent.net/world/4924964-politychna-kryza-v-polschi-posol-varshavy-v-knr-podav-u-vidstavku",
+    "pubDate": "2026-10-30 23:58:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4616953.jpg\">Посол Польщі у Китаї Якуб Кумох подав заяву про відставку та попросив про своє звільнення.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
     "title": "‘Omega’, invencible 30 años después: noche de belleza y apocalipsis con Kiki Morente y Lagartija Nick en el Palau",
     "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261030/omega-invencible-30-anos-despues-kiki-morente-lagartija-nick-barcelona-135944555",
     "pubDate": "2026-10-30 23:51:12",
@@ -50,6 +59,15 @@
     "pubDate": "2026-10-30 22:48:59",
     "category": "Baloncesto",
     "description": "Los azulgranas consiguen su tercer triunfo de la temporada ante el Valencia. Retorno mágico de Parra, bien Punter, excelente Robinson y otro final de infarto. Balcerowski, enésima lesión. Los taronjas tuvieron opciones hasta el final.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Resultados Euroliga, jornada 9: horarios, TV, partidos y clasificación",
+    "link": "https://as.com/baloncesto/euroliga/resultados-euroliga-jornada-9-horarios-tv-partidos-y-clasificacion-f202610-n/",
+    "pubDate": "2026-10-30 22:47:40",
+    "category": "Baloncesto",
+    "description": "Euroliga 2026-27: resultados de los partidos y clasificación de la temporada en su jornada 9. Real Madrid, Barcelona, Baskonia, Valencia Basket…",
     "topic": "",
     "topic_match_probability": 0
   },
@@ -657,6 +675,15 @@
     "topic_match_probability": 70
   },
   {
+    "title": "Вторгнення Росії в Україну. Онлайн",
+    "link": "https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain",
+    "pubDate": "2026-10-30 18:40:00",
+    "category": "Новини політики",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/2748609.jpg\">Володимир Путін почав повномасштабну війну проти України 24 лютого 2022 року. Не зумівши \"взяти Київ за три дні\", він сконцентрувався на захопленні Донбасу та південних областей України.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
     "title": "El regreso de Machado a Venezuela descoloca a Rodríguez y cambia la velocidad de la transición institucional",
     "link": "https://www.elperiodico.com/es/internacional/20261030/regreso-machado-venezuela-descoloca-rodriguez-cambia-velocidad-transicion-135938115",
     "pubDate": "2026-10-30 18:32:14",
@@ -934,6 +961,15 @@
     "description": "<h2 class=\"item\">El siniestro deja, al menos, una cifra de 69 fallecidos y más de dos centenares de heridos y se convierte en una de las mayores tragedias ferroviarias que ha vivido el país </h2>",
     "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Війна на Близькому Сході. Онлайн",
+    "link": "https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain",
+    "pubDate": "2026-10-30 17:08:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473659.jpg\">США та Ізраїль проводять масштабну операцію проти Ірану. Тегеран у відповідь атакує військові об'єкти США майже у всіх країнах Перської затоки.",
+    "topic": "політика",
+    "topic_match_probability": 90
   },
   {
     "title": "Los comercios de diferentes ciudades se protegen para este sábado",
