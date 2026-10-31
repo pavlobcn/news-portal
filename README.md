@@ -1,8 +1,9 @@
-# News for 2026-10-31 16:55
+# News for 2026-10-31 18:55
 
 Previous day: [2026-10-30](./data/2026-10-30.md)
 
 ## ua.korrespondent.net
+18:46 [У Києві уламки БПЛА впали біля торговельного центру: постраждала дитина](https://ua.korrespondent.net/city/kiev/4925085-u-kyievi-ulamky-bpla-vpaly-bilia-torhovelnoho-tsentru-postrazhdala-dytyna)<br>
 16:46 [РФ атакувала Павлоград: пошкоджені багатоповерхівки, є поранені діти](https://ua.korrespondent.net/ukraine/4925067-rf-atakuvala-pavlohrad-poshkodzheni-bahatopoverkhivky-ye-poraneni-dity)<br>
 16:21 [Посольство США попередило про можливий теракт у Москві](https://ua.korrespondent.net/world/russia/4925061-posolstvo-ssha-poperedylo-pro-mozhlyvyi-terakt-u-moskvi)<br>
 15:31 [Лубінець розкрив деталі евакуації жителів Олешок](https://ua.korrespondent.net/ukraine/4925054-lubinets-rozkryv-detali-evakuatsii-zhyteliv-oleshok)<br>
@@ -29,6 +30,13 @@ Previous day: [2026-10-30](./data/2026-10-30.md)
 00:07 [Resumen del Barcelona vs. Valencia Basket de Euroliga](https://as.com/videos/euroliga/resumen-del-barcelona-vs-valencia-basket-de-euroliga-f202610-v/)<br>
 
 ## www.elperiodico.com
+18:54 [Los negocios del Portal de l’Àngel han cerrado sus puertas ante la amenaza de otra protesta de Blocus.](https://www.elperiodico.com/es/videos/sociedad/negocios-portal-l-angel-han/135958983.shtml)<br>
+18:42 [Diversos cuerpos de seguridad a la espera de posibles disturbios por la llamada del grupo Blocus  en Barcelona](https://www.elperiodico.com/es/videos/sociedad/diversos-cuerpos-seguridad-espera-posibles/135958818.shtml)<br>
+18:33 [Despliegue  de los mossos d'esquadra  en Barcelona](https://www.elperiodico.com/es/videos/sociedad/despliegue-mossos-desquadra-barcelona/135958596.shtml)<br>
+18:33 [Salvamento Marítimo rescata a 151 migrantes a 26 kilómetros de El Hierro](https://www.elperiodico.com/es/videos/sociedad/salvamento-maritimo-rescata-151-migrantes/135958608.shtml)<br>
+18:01 [La Policía realiza registros a los ciudadanos que pasean por el centro de València ante la convocatoria de disturbios del grupo Blocus](https://www.elperiodico.com/es/sociedad/20261031/policia-realiza-registros-ciudadanos-pasean-blocus-centro-de-valencia-135957930)<br>
+17:42 [Rusia recibe información de EE. UU. sobre un intento de atentado en Moscú](https://www.elperiodico.com/es/internacional/20261031/rusia-recibe-informacion-eeuu-atentado-135957566)<br>
+17:00 [La llegada del gorila albino Copito de Nieve a Barcelona cumple 60 años: del icono pop al trasfondo del "expolio colonial"](https://www.elperiodico.com/es/barcelona/20261031/60-anos-llegada-gorila-albino-copito-barcelona-colonialismo-135932485)<br>
 16:39 [Tiempo en Catalunya mañana domingo: repunte de las temperaturas en Barcelona y ambiente más cálido el día de Todos los Santos](https://www.elperiodico.com/es/tiempo/20261031/tiempo-cataluna-manana-domingo-1-de-noviembre-todos-los-santos-temperaturas-lluvias-dv-loc-135954778)<br>
 16:29 [Salvamento Marítimo rescata a 151 migrantes a 26 kilómetros de El Hierro](https://www.elperiodico.com/es/sociedad/20261031/salvamento-maritimo-rescata-151-migrantes-135956251)<br>
 16:00 [La historia de Youssef: llegó en patera desde Marruecos a Roses para salvar su corazón y ahora no tiene un hogar digno donde vivir](https://www.elperiodico.com/es/sociedad/20261031/historia-youssef-llego-patera-marruecos-roses-hogar-digno-dv-135925988)<br>
