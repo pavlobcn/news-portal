@@ -1,8 +1,10 @@
-# News for 2026-10-31 19:48
+# News for 2026-10-31 20:39
 
 Previous day: [2026-10-30](./data/2026-10-30.md)
 
 ## ua.korrespondent.net
+20:24 [У неділю українцям обмежать споживання світла](https://ua.korrespondent.net/ukraine/4925098-u-nedilui-ukraintsiam-obmezhat-spozhyvannia-svitla)<br>
+20:01 [Повітряні сили озвучили наслідки денної атаки РФ](https://ua.korrespondent.net/ukraine/4925094-povitriani-syly-ozvuchyly-naslidky-dennoi-ataky-rf)<br>
 19:11 [РФ посилювала позиції під час тиші в Олешках - ЗСУ](https://ua.korrespondent.net/ukraine/4925088-rf-posyluivala-pozytsii-pid-chas-tyshi-v-oleshkakh-zsu)<br>
 18:46 [У Києві уламки БПЛА впали біля торговельного центру: постраждала дитина](https://ua.korrespondent.net/city/kiev/4925085-u-kyievi-ulamky-bpla-vpaly-bilia-torhovelnoho-tsentru-postrazhdala-dytyna)<br>
 16:46 [РФ атакувала Павлоград: пошкоджені багатоповерхівки, є поранені діти](https://ua.korrespondent.net/ukraine/4925067-rf-atakuvala-pavlohrad-poshkodzheni-bahatopoverkhivky-ye-poraneni-dity)<br>
