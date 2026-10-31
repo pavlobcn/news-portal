@@ -1,8 +1,9 @@
-# News for 2026-10-31 20:39
+# News for 2026-10-31 22:03
 
 Previous day: [2026-10-30](./data/2026-10-30.md)
 
 ## ua.korrespondent.net
+21:11 [DeepState зафіксував нові просування окупантів](https://ua.korrespondent.net/ukraine/4925106-DeepState-zafiksuvav-novi-prosuvannia-okupantiv)<br>
 20:24 [У неділю українцям обмежать споживання світла](https://ua.korrespondent.net/ukraine/4925098-u-nedilui-ukraintsiam-obmezhat-spozhyvannia-svitla)<br>
 20:01 [Повітряні сили озвучили наслідки денної атаки РФ](https://ua.korrespondent.net/ukraine/4925094-povitriani-syly-ozvuchyly-naslidky-dennoi-ataky-rf)<br>
 19:11 [РФ посилювала позиції під час тиші в Олешках - ЗСУ](https://ua.korrespondent.net/ukraine/4925088-rf-posyluivala-pozytsii-pid-chas-tyshi-v-oleshkakh-zsu)<br>
@@ -28,11 +29,13 @@ Previous day: [2026-10-30](./data/2026-10-30.md)
 00:59 [Шахед атакував Харків: поранено трьох людей](https://ua.korrespondent.net/city/kharkov/4924968-shakhed-atakuvav-kharkiv-poraneno-trokh-luidei)<br>
 
 ## as.com
+20:55 [Triunfo arrollador para el Casademont](https://as.com/baloncesto/acb/triunfo-arrollador-para-el-casademont-f202610-n/)<br>
 13:28 [El espíritu del Palacio para recibir al ogro canario](https://as.com/baloncesto/mas_baloncesto/el-espiritu-del-palacio-para-recibir-al-ogro-canario-f202610-n/)<br>
 09:16 [Habemus jugada del año: lo que le hizo Curry a Doncic se va a recordar mucho tiempo](https://as.com/baloncesto/videos/habemus-jugada-del-ano-lo-que-le-hizo-curry-a-doncic-se-va-a-recordar-mucho-tiempo-f202610-v/)<br>
 00:07 [Resumen del Barcelona vs. Valencia Basket de Euroliga](https://as.com/videos/euroliga/resumen-del-barcelona-vs-valencia-basket-de-euroliga-f202610-v/)<br>
 
 ## www.elperiodico.com
+20:46 [El FIATC Girona se estrella en Zaragoza (107-78)](https://www.elperiodico.com/es/deportes/20261031/fiatc-girona-estrella-zaragoza-107-135961480)<br>
 19:05 [Confirmada la muerte de Manuel Castrillo Tambay, director médico de Nueva Mutua Sanitaria, en el accidente de Urda](https://www.elperiodico.com/es/sociedad/20261031/confirmada-muerte-manuel-castrillo-tambay-director-nueva-mutua-sanitaria-accidente-tren-urda-135958999)<br>
 18:54 [Los negocios del Portal de l’Àngel han cerrado sus puertas ante la amenaza de otra protesta de Blocus.](https://www.elperiodico.com/es/videos/sociedad/negocios-portal-l-angel-han/135958983.shtml)<br>
 18:42 [Diversos cuerpos de seguridad a la espera de posibles disturbios por la llamada del grupo Blocus  en Barcelona](https://www.elperiodico.com/es/videos/sociedad/diversos-cuerpos-seguridad-espera-posibles/135958818.shtml)<br>
