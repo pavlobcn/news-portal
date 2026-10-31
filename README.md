@@ -1,8 +1,10 @@
-# News for 2026-10-31 02:02
+# News for 2026-10-31 03:18
 
 Previous day: [2026-10-30](./data/2026-10-30.md)
 
 ## ua.korrespondent.net
+02:58 [РФ атакувала дронами Суми: спалахнули пожежі](https://ua.korrespondent.net/ukraine/4924978-rf-atakuvala-dronamy-sumy-spalakhnuly-pozhezhi)<br>
+02:46 [У російському Калінінграді масштабний блекаут](https://ua.korrespondent.net/world/russia/4924976-u-rosiiskomu-kalininhradi-masshtabnyi-blekaut)<br>
 00:59 [Шахед атакував Харків: поранено трьох людей](https://ua.korrespondent.net/city/kharkov/4924968-shakhed-atakuvav-kharkiv-poraneno-trokh-luidei)<br>
 
 ## as.com

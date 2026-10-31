@@ -1,5 +1,41 @@
 [
   {
+    "title": "Bolsonaro dice ahora que quiere pelear por las elecciones brasileñas ante de 2030",
+    "link": "https://www.elperiodico.com/es/internacional/20261031/bolsonaro-dice-ahora-quiere-pelear-135945125",
+    "pubDate": "2026-10-31 03:09:48",
+    "category": "",
+    "description": "<h2>El senador justificó su fuga de Brasil y reclamó nuevos comicios pese a ser derrotado por más de cuatro millones de votos por Lula</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "РФ атакувала дронами Суми: спалахнули пожежі",
+    "link": "https://ua.korrespondent.net/ukraine/4924978-rf-atakuvala-dronamy-sumy-spalakhnuly-pozhezhi",
+    "pubDate": "2026-10-31 02:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4617095.jpg\">Підрозділи ДСНС тепер ліквідовують займання; на місцях влучань працюють усі відповідні служби.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У російському Калінінграді масштабний блекаут",
+    "link": "https://ua.korrespondent.net/world/russia/4924976-u-rosiiskomu-kalininhradi-masshtabnyi-blekaut",
+    "pubDate": "2026-10-31 02:46:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4617079.jpg\">Проблеми також виникли і з мобільним інтернетом в цьому есклаві РФ, зазначають місцеві жителі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "РФ уперше відклала грудневі виплати армії через \"дірку\" в бюджеті",
+    "link": "https://ua.korrespondent.net/business/economics/4924972-rf-upershe-vidklala-hrudnevi-vyplaty-armii-cherez-dirku-v-buidzheti",
+    "pubDate": "2026-10-31 01:57:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4617047.jpg\">Поправки до чинного наказу МО РФ, що регулює порядок виплат військових, запроваджують нові правила.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
     "title": "ЄС та Канада зробили заяву про підтримку України",
     "link": "https://ua.korrespondent.net/world/worldabus/4924970-yes-ta-kanada-zrobyly-zaiavu-pro-pidtrymku-ukrainy",
     "pubDate": "2026-10-31 01:35:00",
