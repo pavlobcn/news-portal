@@ -1,8 +1,10 @@
-# News for 2026-10-31 15:44
+# News for 2026-10-31 16:55
 
 Previous day: [2026-10-30](./data/2026-10-30.md)
 
 ## ua.korrespondent.net
+16:46 [РФ атакувала Павлоград: пошкоджені багатоповерхівки, є поранені діти](https://ua.korrespondent.net/ukraine/4925067-rf-atakuvala-pavlohrad-poshkodzheni-bahatopoverkhivky-ye-poraneni-dity)<br>
+16:21 [Посольство США попередило про можливий теракт у Москві](https://ua.korrespondent.net/world/russia/4925061-posolstvo-ssha-poperedylo-pro-mozhlyvyi-terakt-u-moskvi)<br>
 15:31 [Лубінець розкрив деталі евакуації жителів Олешок](https://ua.korrespondent.net/ukraine/4925054-lubinets-rozkryv-detali-evakuatsii-zhyteliv-oleshok)<br>
 14:27 [Кубок NBA: перемоги Філадельфії і Голден Стейт](https://ua.korrespondent.net/sport/basketball/4925041-kubok-NBA-peremohy-filadelfii-i-holden-steit)<br>
 14:00 [НБУ оновив історичний рекорд з продажу валюти](https://ua.korrespondent.net/business/financial/4925037-nbu-onovyv-istorychnyi-rekord-z-prodazhu-valuity)<br>
@@ -27,6 +29,9 @@ Previous day: [2026-10-30](./data/2026-10-30.md)
 00:07 [Resumen del Barcelona vs. Valencia Basket de Euroliga](https://as.com/videos/euroliga/resumen-del-barcelona-vs-valencia-basket-de-euroliga-f202610-v/)<br>
 
 ## www.elperiodico.com
+16:39 [Tiempo en Catalunya mañana domingo: repunte de las temperaturas en Barcelona y ambiente más cálido el día de Todos los Santos](https://www.elperiodico.com/es/tiempo/20261031/tiempo-cataluna-manana-domingo-1-de-noviembre-todos-los-santos-temperaturas-lluvias-dv-loc-135954778)<br>
+16:29 [Salvamento Marítimo rescata a 151 migrantes a 26 kilómetros de El Hierro](https://www.elperiodico.com/es/sociedad/20261031/salvamento-maritimo-rescata-151-migrantes-135956251)<br>
+16:00 [La historia de Youssef: llegó en patera desde Marruecos a Roses para salvar su corazón y ahora no tiene un hogar digno donde vivir](https://www.elperiodico.com/es/sociedad/20261031/historia-youssef-llego-patera-marruecos-roses-hogar-digno-dv-135925988)<br>
 15:10 [El rincón de Sant Boi de Llobregat que ya está en la historia del cine](https://www.elperiodico.com/es/barcelona/sant-boi/20261031/rincon-sant-boi-llobregat-historia-cine-dv-loc-110185207)<br>
 15:01 [La terminal C del Port de Barcelona afronta su última operativa antes de su derribo](https://www.elperiodico.com/es/barcelona/20261031/terminal-c-port-barcelona-afronta-inversion-cruceros-135925443)<br>
 15:01 [Todo lo que Patrick Criado, el actor de moda, aprendió gracias a 'Karateka'](https://www.elperiodico.com/es/ocio-y-cultura/20261031/patrick-criado-actor-moda-karateka-135891892)<br>
