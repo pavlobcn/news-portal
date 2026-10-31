@@ -1,4 +1,4 @@
-# News for 2026-10-31 22:03
+# News for 2026-10-31 22:55
 
 Previous day: [2026-10-30](./data/2026-10-30.md)
 
@@ -29,6 +29,7 @@ Previous day: [2026-10-30](./data/2026-10-30.md)
 00:59 [Шахед атакував Харків: поранено трьох людей](https://ua.korrespondent.net/city/kharkov/4924968-shakhed-atakuvav-kharkiv-poraneno-trokh-luidei)<br>
 
 ## as.com
+22:19 [Un UCAM Murcia de récord](https://as.com/baloncesto/acb/un-ucam-murcia-de-record-f202610-n/)<br>
 20:55 [Triunfo arrollador para el Casademont](https://as.com/baloncesto/acb/triunfo-arrollador-para-el-casademont-f202610-n/)<br>
 13:28 [El espíritu del Palacio para recibir al ogro canario](https://as.com/baloncesto/mas_baloncesto/el-espiritu-del-palacio-para-recibir-al-ogro-canario-f202610-n/)<br>
 09:16 [Habemus jugada del año: lo que le hizo Curry a Doncic se va a recordar mucho tiempo](https://as.com/baloncesto/videos/habemus-jugada-del-ano-lo-que-le-hizo-curry-a-doncic-se-va-a-recordar-mucho-tiempo-f202610-v/)<br>
