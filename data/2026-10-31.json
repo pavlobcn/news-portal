@@ -1,5 +1,86 @@
 [
   {
+    "title": "Рубіо пояснив присутність Лаврова на зустрічі G20",
+    "link": "https://ua.korrespondent.net/world/4925091-rubio-poiasnyv-prysutnist-lavrova-na-zustrichi-G20",
+    "pubDate": "2026-10-31 19:35:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4618003.jpg\">Участь російських представників у міжнародних зустрічах не означає легітимізації дій Москви чи підтримки її позиції, заявив Марко Рубіо.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Prisión provisional sin fianza para el líder de Blocus detenido en Valencia, horas antes de la convocatoria de saqueos",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/prision-provisional-fianza-lider-blocus/135959707.shtml",
+    "pubDate": "2026-10-31 19:24:25",
+    "category": "",
+    "description": "",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Las protestas juveniles alcanzan Alemania, con disturbios en Colonia, Hamburgo y Berlín",
+    "link": "https://www.elperiodico.com/es/internacional/20261031/protestas-juveniles-alcanzan-alemania-disturbios-135959737",
+    "pubDate": "2026-10-31 19:23:57",
+    "category": "",
+    "description": "<h2>La llamada \"Generación Z\" había convocado una treintena de manifestaciones en las principales ciudades alemanas</h2>",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Detenido otro joven, de 21 años, vinculado a Blocus y a los disturbios de Barcelona",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/detenido-joven-21-anos-vinculado/135959555.shtml",
+    "pubDate": "2026-10-31 19:17:34",
+    "category": "",
+    "description": "",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "РФ посилювала позиції під час тиші в Олешках - ЗСУ",
+    "link": "https://ua.korrespondent.net/ukraine/4925088-rf-posyluivala-pozytsii-pid-chas-tyshi-v-oleshkakh-zsu",
+    "pubDate": "2026-10-31 19:11:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4617981.jpg\">Поки в Олешках тривала гуманітарна операція, російські війська проводили ротацію, посилювали логістику та облаштовували антидроновий захист. ЗСУ фіксували польоти розвідувальних БпЛА і провокації противника.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Detenido otro joven, de 21 años, vinculado a Blocus y a los disturbios de Barcelona",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/detenido-joven-21-anos-vinculado/135959349.shtml",
+    "pubDate": "2026-10-31 19:10:00",
+    "category": "",
+    "description": "El detenido era el administrador de uno de los grupos de comunicación utilizados para promover y coordinar las acciones violentas",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Confirmada la muerte de Manuel Castrillo Tambay, director médico de Nueva Mutua Sanitaria, en el accidente de Urda",
+    "link": "https://www.elperiodico.com/es/sociedad/20261031/confirmada-muerte-manuel-castrillo-tambay-director-nueva-mutua-sanitaria-accidente-tren-urda-135958999",
+    "pubDate": "2026-10-31 19:05:02",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Болонья з Довбиком виграла матч у Монци в Серії А",
+    "link": "https://ua.korrespondent.net/sport/football/4925087-bolonia-z-dovbykom-vyhrala-match-u-montsy-v-serii-a",
+    "pubDate": "2026-10-31 19:01:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4617938.jpg\">Команда Болоньї в домашньому матчі зусиллям волі змогла перевершити свого суперника на полі в рамках чемпіонату Італії.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Un Rayo desatado recupera la sonrisa ante el Celta",
+    "link": "https://www.elperiodico.com/es/deportes/20261031/rayo-desatado-recupera-sonrisa-celta-135958467",
+    "pubDate": "2026-10-31 18:57:28",
+    "category": "",
+    "description": "<h2>Los vigueses no lograron romper su mala dinámica histórica en el Estadio de Vallecas y sucumbió ante un rival que controló el juego de principio a fin.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Los negocios del Portal de l’Àngel han cerrado sus puertas ante la amenaza de otra protesta de Blocus.",
     "link": "https://www.elperiodico.com/es/videos/sociedad/negocios-portal-l-angel-han/135958983.shtml",
     "pubDate": "2026-10-31 18:54:28",
