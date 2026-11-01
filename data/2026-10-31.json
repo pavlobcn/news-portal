@@ -1,5 +1,23 @@
 [
   {
+    "title": "Росія авіаударом знищила будівлю виконкому в Краматорську",
+    "link": "https://ua.korrespondent.net/ukraine/4925122-rosiia-aviaudarom-znyschyla-budivlui-vykonkomu-v-kramatorsku",
+    "pubDate": "2026-10-31 23:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4618308.jpg\">Будівля виконкому свого часу пережила тимчасову окупацію Краматорська у 2014 році, нагадали в МВА.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La movilización cae en el tercer sábado consecutivo de protestas en Francia",
+    "link": "https://www.elperiodico.com/es/videos/internacional/movilizacion-cae-tercer-sabado-consecutivo/135964767.shtml",
+    "pubDate": "2026-10-31 23:52:07",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
     "title": "Hamilton y Ferrari se estrenan en la pole en México, con nuevo drama de Alonso",
     "link": "https://www.elperiodico.com/es/deportes/20261031/hamilton-ferrari-estrenan-pole-mexico-135964648",
     "pubDate": "2026-10-31 23:45:54",
@@ -268,6 +286,15 @@
     "description": "<h2>Las movilizaciones estudiantiles continúan reuniendo a miles de personas por tercer fin de semana consecutivo, mientras la amenaza de disturbios obligan a desplegar a 70.000 agentes en todo el país.</h2>",
     "topic": "політика",
     "topic_match_probability": 75
+  },
+  {
+    "title": "Вторгнення Росії в Україну. Онлайн",
+    "link": "https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain",
+    "pubDate": "2026-10-31 20:48:00",
+    "category": "Новини політики",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/2748609.jpg\">Володимир Путін почав повномасштабну війну проти України 24 лютого 2022 року. Не зумівши \"взяти Київ за три дні\", він сконцентрувався на захопленні Донбасу та південних областей України.",
+    "topic": "політика",
+    "topic_match_probability": 100
   },
   {
     "title": "El FIATC Girona se estrella en Zaragoza (107-78)",
@@ -799,6 +826,15 @@
     "description": "El santísimo Cristo de la Vera Cruz ha sido testigo de esta multitudinaria cita llena de dolor",
     "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
     "topic_match_probability": 85
+  },
+  {
+    "title": "Війна на Близькому Сході. Онлайн",
+    "link": "https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain",
+    "pubDate": "2026-10-31 16:01:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473659.jpg\">США та Ізраїль проводять масштабну операцію проти Ірану. Тегеран у відповідь атакує військові об'єкти США майже у всіх країнах Перської затоки.",
+    "topic": "політика",
+    "topic_match_probability": 90
   },
   {
     "title": "La historia de Youssef: llegó en patera desde Marruecos a Roses para salvar su corazón y ahora no tiene un hogar digno donde vivir",
