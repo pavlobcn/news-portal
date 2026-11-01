@@ -45,6 +45,15 @@
     "topic_match_probability": 85
   },
   {
+    "title": "Los controles policiales frustran la convocatoria de Blocus en Barcelona",
+    "link": "https://www.elperiodico.com/es/fotos/sociedad/controles-policiales-frustran-convocatoria-blocus-135964714",
+    "pubDate": "2026-10-31 23:38:03",
+    "category": "",
+    "description": "",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 80
+  },
+  {
     "title": "Alonzo Verge culmina una heroica remontada del Leyma",
     "link": "https://as.com/baloncesto/acb/alonzo-verge-culmina-una-heroica-remontada-del-leyma-f202610-n/",
     "pubDate": "2026-10-31 23:29:36",
@@ -70,6 +79,15 @@
     "description": "",
     "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
     "topic_match_probability": 60
+  },
+  {
+    "title": "Las mejores imágenes del FC Barcelona - Deportivo Alavés",
+    "link": "https://www.elperiodico.com/es/fotos/en-imagenes/mejores-imagenes-fc-barcelona-deportivo-135964337",
+    "pubDate": "2026-10-31 23:13:24",
+    "category": "",
+    "description": "<h2>Los culés se reivindican tras las derrotas ante PSG y Real Madrid</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
   },
   {
     "title": "El japonés Toshisuke Kanazawa , con 90 años,  deslumbra en Barcelona en el campeonato mundial de culturismo",
@@ -682,6 +700,15 @@
     "description": "",
     "topic": "політика",
     "topic_match_probability": 85
+  },
+  {
+    "title": "Ibon Navarro ya tiene su talismán",
+    "link": "https://as.com/baloncesto/euroliga/ibon-navarro-ya-tiene-su-talisman-f202610-n/",
+    "pubDate": "2026-10-31 17:45:26",
+    "category": "Baloncesto",
+    "description": "Christian Koloko cuajó una actuación maravillosa en su segundo partido en Euroliga: 12 puntos y 5 tapones... en menos de 14 minutos.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Rusia recibe información de EE. UU. sobre un intento de atentado en Moscú",

@@ -1,8 +1,17 @@
-# News for 2026-11-01 09:06
+# News for 2026-11-01 13:44
 
 Previous day: [2026-10-31](./data/2026-10-31.md)
 
 ## ua.korrespondent.net
+13:34 [Росія атакувала Чернівці: відомо про наслідки](https://ua.korrespondent.net/ukraine/4925192-rosiia-atakuvala-chernivtsi-vidomo-pro-naslidky)<br>
+13:13 [Далекобійні санкції: знищено ППО росіян на $70 млн](https://ua.korrespondent.net/ukraine/4925190-dalekobiini-sanktsii-znyscheno-ppo-rosiian-na-70-mln)<br>
+12:50 [Активність російських ДРГ на північному кордоні суттєво зменшилася - ДПСУ](https://ua.korrespondent.net/ukraine/4925187-aktyvnist-rosiiskykh-drh-na-pivnichnomu-kordoni-suttievo-zmenshylasia-dpsu)<br>
+11:59 [Країна НАТО підняла чотири винищувачі через два дрони](https://ua.korrespondent.net/world/4925182-kraina-nato-pidniala-chotyry-vynyschuvachi-cherez-dva-drony)<br>
+11:35 [Росія атакувала дронами Рівненщину: є постраждалі](https://ua.korrespondent.net/ukraine/4925180-rosiia-atakuvala-dronamy-rivnenschynu-ye-postrazhdali)<br>
+11:22 [РФ атакувала енергетику 4 областей - Зеленський](https://ua.korrespondent.net/ukraine/4925176-rf-atakuvala-enerhetyku-4-oblastei-zelenskyi)<br>
+10:47 [Атака РФ на Львівщину: з'явилися фото наслідків](https://ua.korrespondent.net/ukraine/4925174-ataka-rf-na-lvivschynu-ziavylysia-foto-naslidkiv)<br>
+10:19 ["Мадяр" назвав рекордні результати СБС у жовтні](https://ua.korrespondent.net/ukraine/4925172-madiar-nazvav-rekordni-rezultaty-sbs-u-zhovtni)<br>
+09:24 [Стало відомо, де найскладніша ситуація зі світлом](https://ua.korrespondent.net/ukraine/4925164-stalo-vidomo-de-naiskladnisha-sytuatsiia-zi-svitlom)<br>
 08:16 [Атака на Вінниччину: пошкоджено енергооб'єкти, вежу зв'язку](https://ua.korrespondent.net/ukraine/4925158-ataka-na-vinnychchynu-poshkodzheno-enerhoobiekty-vezhu-zviazku)<br>
 07:37 [Генштаб назвав найгарячіший напрямок фронту](https://ua.korrespondent.net/ukraine/4925154-henshtab-nazvav-naihariachishyi-napriamok-frontu)<br>
 07:15 [Через нічні атаки на Дніпропетровщині без світла майже 100 тисяч людей](https://ua.korrespondent.net/ukraine/4925152-cherez-nichni-ataky-na-dnipropetrovschyni-bez-svitla-maizhe-100-tysiach-luidei)<br>
@@ -12,12 +21,21 @@ Previous day: [2026-10-31](./data/2026-10-31.md)
 04:37 [Дрони атакували один з найбільший НПЗ Росії](https://ua.korrespondent.net/world/russia/4925140-drony-atakuvaly-odyn-z-naibilshyi-npz-rosii)<br>
 
 ## as.com
+13:42 [Real Madrid - Burgos, en directo: ACB (Liga Endesa) 2026/27 hoy en vivo](https://as.com/baloncesto/acb/real-madrid-burgos-en-directo-acb-liga-endesa-202627-hoy-en-vivo-f202611-n/)<br>
+11:39 [Aday Mara es ‘posterizado’ y aparece en el vídeo más visto del día: “Bienvenido a la NBA”](https://as.com/baloncesto/videos/aday-mara-es-posterizado-y-aparece-en-el-video-mas-visto-del-dia-bienvenido-a-la-nba-f202611-v/)<br>
 05:40 [Real Madrid - Burgos: horario, TV y dónde ver la ACB 2026-27](https://as.com/baloncesto/acb/real-madrid-burgos-horario-tv-y-donde-ver-la-acb-2026-27-f202611-n/)<br>
 05:39 [Unicaja - Barcelona: horario, TV y dónde ver la ACB 2026-27](https://as.com/baloncesto/acb/unicaja-barcelona-horario-tv-y-donde-ver-la-acb-2026-27-f202611-n/)<br>
 05:38 [Willy, morbo total](https://as.com/baloncesto/willy-morbo-total-f202611-n/)<br>
 05:38 [Estudiantes y Granca: de la élite a la reconstrucción](https://as.com/baloncesto/mas_baloncesto/estudiantes-y-granca-de-la-elite-a-la-reconstruccion-f202611-n/)<br>
 
 ## www.elperiodico.com
+13:12 [Muere a los 81 años el escultor y pintor Miquel Navarro](https://www.elperiodico.com/es/ocio-y-cultura/20261101/muere-81-anos-escultor-pintor-135974143)<br>
+12:32 [La segunda rave del año en Llardecans](https://www.elperiodico.com/es/videos/sociedad/segunda-rave-ano-llardecans-video/135972505.shtml)<br>
+12:21 [Segunda rave del año en Llardecans, en una finca a unos dos kilómetros del núcleo urbano, que reúne unos 300 vehículos](https://www.elperiodico.com/es/sociedad/20261101/segunda-rave-ano-llardecans-finca-135972280)<br>
+12:17 [El Barcelona Cybersecurity Congress celebrará su séptima edición del 3 al 5 de noviembre en Gran Via](https://www.elperiodico.com/es/barcelona/20261101/barcelona-cybersecurity-congress-celebrara-septima-edicion-gran-via-3-al-5-noviembre-135972427)<br>
+12:09 [La famosa modelo Heidi Klum sorprende en Halloween con un disfraz de mano amputada de gran realismo](https://www.elperiodico.com/es/vida-y-estilo/20261101/famosa-modelo-heidi-klum-sorprende-disfraz-halloween-135971793)<br>
+10:00 [Los temblores del miedo](https://www.elperiodico.com/es/opinion/20261101/temblores-miedo-alta-velocidad-volcan-la-palma-articulo-juan-cruz-ruiz-135943371)<br>
+09:54 [La UE aplicará desde este domingo una tasa de dos euros por gestión aduanera a los paquetes de Shein, Temu y AliExpress](https://www.elperiodico.com/es/economia/20261101/ue-aplicara-domingo-tasa-dos-euros-paquetes-shein-temu-aliexpress-135969183)<br>
 08:59 [Sobre (vivir) a la crianza - Familias de acogida](https://www.elperiodico.com/es/videos/podcast/vivir-crianza-familias-acogida/135768080.shtml)<br>
 08:36 [El boicot docente a las colonias escolares amenaza a alojamientos y empresas de ocio del Pirineo ante la temporada de nieve](https://www.elperiodico.com/es/sociedad/20261101/boicot-docente-colonias-escolares-amenaza-empresas-ocio-pirineo-temporada-nieve-135967527)<br>
 08:35 [Laura y Xavi dejaron la ciudad para vivir en una masía 1.000 años sin luz ni agua corriente: "Esto te da una libertad muy grande. No dependes de compañías ni de precios"](https://www.elperiodico.com/es/economia/20261101/vida-autosuficiente-masia-luz-agua-libertad-naturaleza-caballos-laura-xavi-dv-135766419)<br>
