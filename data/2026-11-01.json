@@ -1,5 +1,194 @@
 [
   {
+    "title": "У Мінцифри пояснили, як дізнаватися про повітряну тривогу у своєму місті",
+    "link": "https://ua.korrespondent.net/ukraine/4925257-u-mintsyfry-poiasnyly-yak-diznavatysia-pro-povitrianu-tryvohu-u-svoiemu-misti",
+    "pubDate": "2026-11-01 22:54:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4619806.jpg\">Поки сервіс не працює, українцям радять увімкнути екстрені сповіщення на смартфонах, стежити за сиренами та користуватися офіційними каналами Повітряних сил.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "В Олешках завершився режим тиші",
+    "link": "https://ua.korrespondent.net/ukraine/4925255-v-oleshkakh-zavershyvsia-rezhym-tyshi",
+    "pubDate": "2026-11-01 22:37:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4619785.jpg\">Перемир’я діяло з 27 жовтня до 1 листопада та дозволило доставити гуманітарну допомогу й допомогти цивільним евакуюватися.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Concierto de Melendi en el Palau Sant Jordi",
+    "link": "https://www.elperiodico.com/es/fotos/ocio-y-cultura/concierto-melendi-palau-sant-jordi-135985919",
+    "pubDate": "2026-11-01 22:28:28",
+    "category": "",
+    "description": "",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Un avión privado con nueve personas a bordo se estrella en una zona residencial de Florida",
+    "link": "https://www.elperiodico.com/es/internacional/20261101/avion-privado-nueve-personas-bordo-135985456",
+    "pubDate": "2026-11-01 22:16:46",
+    "category": "",
+    "description": "<h2>La Administración Federal de Aviación confirma que el aparato siniestrado partió del Aeropuerto Internacional Austin-Bergstrom con nueve personas a bordo antes de estrellarse en una zona residencial</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Росіяни, ймовірно, зламали застосунок Тривога",
+    "link": "https://ua.korrespondent.net/ukraine/4925253-rosiiany-ymovirno-zlamaly-zastosunok-tryvoha",
+    "pubDate": "2026-11-01 22:11:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4619764.jpg\">Наразі інформація, що поширюється щодо рівнів загроз, не відповідає дійсності.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Resumen del Unicaja vs Barcelona, jornada 6 de la Liga Endesa",
+    "link": "https://as.com/videos/acb/resumen-del-unicaja-vs-barcelona-jornada-6-de-la-liga-endesa-f202611-v/",
+    "pubDate": "2026-11-01 22:01:01",
+    "category": "Liga ACB",
+    "description": "Un triple decisivo de Brizuela resuelve un partidazo ante el Unicaja (89-92) y pone el broche a una semana de tres victorias de enorme mérito para los de Sekulic.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Київ поки не отримав запрошення на саміт G20",
+    "link": "https://ua.korrespondent.net/ukraine/4925250-kyiv-poky-ne-otrymav-zaproshennia-na-samit-G20",
+    "pubDate": "2026-11-01 21:49:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4619718.jpg\">Україна готова прийняти запрошення, якщо його офіційно надішле Дональд Трамп.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El Barça se curte en el Carpena",
+    "link": "https://as.com/baloncesto/el-barca-se-curte-en-el-carpena-f202611-n/",
+    "pubDate": "2026-11-01 21:31:54",
+    "category": "Baloncesto",
+    "description": "Un triple decisivo de Brizuela resuelve un partidazo ante el Unicaja (89-92) y pone el broche a una semana de tres victorias de enorme mérito para los de Sekulic.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sadiq alivia al Valencia y devuelve las dudas al Elche",
+    "link": "https://www.elperiodico.com/es/deportes/20261101/0-1-sadiq-alivia-valencia-135984089",
+    "pubDate": "2026-11-01 21:31:40",
+    "category": "",
+    "description": "<h2>El conjunto ilicitano fue de más a menos en el derbi disputado en el Martínez Valero y terminó cediendo los puntos ante el equipo de Javier Aguirre tras un contraataque letal</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El senador estadounidense Chris Murphy es hospitalizado por un derrame cerebral",
+    "link": "https://www.elperiodico.com/es/internacional/20261101/senador-estadounidense-chris-murphy-hospitalizado-135984831",
+    "pubDate": "2026-11-01 21:28:16",
+    "category": "",
+    "description": "<h2>Los médicos muestran optimismo ante la evolución del senador, quien permanece despierto y lúcido en un hospital local después de experimentar entumecimiento en una de sus extremidades</h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Zarpazo del Movistar Estudiantes a la Primera FEB",
+    "link": "https://as.com/baloncesto/mas_baloncesto/zarpazo-del-movistar-estudiantes-a-la-primera-feb-f202611-n/",
+    "pubDate": "2026-11-01 21:28:00",
+    "category": "Baloncesto",
+    "description": "Los colegiales abrasan con una segunda parte excelsa al Cajasiete Gran Canaria. Su balance de 6-0 es el mejor inicio desde que está en la categoría.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Удар РФ по Вінниччині: кількість постраждалих зросла",
+    "link": "https://ua.korrespondent.net/ukraine/4925247-udar-rf-po-vinnychchyni-kilkist-postrazhdalykh-zrosla",
+    "pubDate": "2026-11-01 21:24:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4619697.jpg\">Вже понад добу Вінниччина перебуває під масованою російською атакою.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "El Barça alarga la racha asaltando la cancha del Unicaja",
+    "link": "https://www.elperiodico.com/es/deportes/20261101/barca-alarga-racha-asaltando-cancha-135981741",
+    "pubDate": "2026-11-01 21:16:00",
+    "category": "",
+    "description": "<h2>Parra ofrece otra actuación estelar para que los azulgranas sumen su quinta victoria seguida, la primera como visitantes en la ACB</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Satriano lidera la remontada del Getafe ante el Sevilla",
+    "link": "https://www.elperiodico.com/es/deportes/20261101/satriano-lidera-remontada-getafe-sevilla-135978025",
+    "pubDate": "2026-11-01 21:11:19",
+    "category": "",
+    "description": "<h2>La capacidad de reacción del Getafe tras el descanso resultó decisiva para superar al cuadro andaluz, que terminó encajando un tercer tanto de Orel Mangala en los instantes finales</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El horóscopo de mañana, lunes 2 de noviembre: amor, trabajo, dinero y salud para todos los signos del zodíaco",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20261101/horoscopo-hoy-lunes-2-noviembre-dv-135842389",
+    "pubDate": "2026-11-01 21:01:05",
+    "category": "",
+    "description": "<h2 class=\"item\">Conoce la suerte de tu horóscopo a partir de los signos del zodíaco, según la astrología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/temas/horoscopo-11990\" >Consulta el horóscopo diario de tu signo de ayer, hoy y mañana</a></h2>",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "\"Шахед\" влучив у багатоповерхівку на Харківщині",
+    "link": "https://ua.korrespondent.net/ukraine/4925245-shakhed-vluchyv-u-bahatopoverkhivku-na-kharkivschyni",
+    "pubDate": "2026-11-01 20:57:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4619675.jpg\">Внаслідок обстрілу постраждали 18-річний хлопець та 48-річна, 67-річна, 33-річна і 71-річна жінки.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "El Valencia, sin piedad ante el Andorra",
+    "link": "https://as.com/baloncesto/acb/el-valencia-sin-piedad-ante-el-andorra-f202611-n/",
+    "pubDate": "2026-11-01 20:47:17",
+    "category": "Baloncesto",
+    "description": "El conjunto taronja pasa por encima de un rival que desapareció en el último cuarto. Cuarta victoria de los valencianos en la Liga Endesa.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Baskonia suma su primera victoria de la era Perasovic",
+    "link": "https://as.com/baloncesto/el-baskonia-suma-su-primera-victoria-de-la-era-perasovic-f202611-n/",
+    "pubDate": "2026-11-01 20:37:30",
+    "category": "Baskonia",
+    "description": "La semana entrante se completa con las visitas al Fenerbahçe y al Lleida, donde juega el pretendido Zach Perrin.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Pedro Piqueras (71 años), sobre su patrimonio: tiene más de 10 casas en España y una en Budapest, \"una ciudad hermosa donde te puedes tumbar en un parque y nadie te conoce\"",
+    "link": "https://www.elperiodico.com/es/gente/20261101/pedro-piqueras-patrimonio-casa-sierra-madrilena-dv-135815164",
+    "pubDate": "2026-11-01 20:34:00",
+    "category": "",
+    "description": "<h2>El periodista reside en una casa en la sierra madrileña: \"Tengo gallinas y huerta\"</h2><h2><a href=\"https://www.elperiodico.com/es/tele/yotele/20260730/pedro-piqueras-advierte-tve-golpe-puede-sufrir-ayuso-atico-chamberi-llamativo-132939158\" >Pedro Piqueras advierte en TVE del golpe que puede sufrir Ayuso por el ático de Chamberí: “Es muy llamativo”</a></h2><h2><a href=\"https://www.elperiodico.com/es/tele/yotele/20250409/pedro-piqueras-sorprende-mayor-aprieto-sufrido-television-desvela-fin-motivo-nunca-conte-verdad-116205629\" >Pedro Piqueras sorprende con el mayor aprieto que ha sufrido en televisión y desvela al fin el motivo: \"Nunca conté la verdad\"</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "Проросійська Йотова лідирує на виборах у Болгарії",
+    "link": "https://ua.korrespondent.net/world/4925241-prorosiiska-yotova-lidyruie-na-vyborakh-u-bolharii",
+    "pubDate": "2026-11-01 20:31:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4619653.jpg\">За даними екзитполу, суперник проросійської Йотової, прозахідний політик Андрей Гюров, набирає 44,7%.",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Toni Cruanyes (52 años), sobre la conciliación familiar: \"No estar por las tardes implica levantarnos antes por las mañanas y los fines de semana para pasar tiempo juntos\"",
+    "link": "https://www.elperiodico.com/es/gente/20261101/toni-cruanyes-telenoticies-tv3-periodista-conciliacion-familiar-dv-135876027",
+    "pubDate": "2026-11-01 20:25:36",
+    "category": "",
+    "description": "<h2>El presentador del telediario de noches recuerda sus complicados inicios en el periodismo y explica cómo vive su trabajo en TV3 // “<strong>Fue muy complicado encontrar trabajo </strong>en Catalunya. Estuve <strong>trabajando sin cobrar </strong>en diferentes <strong>revistas </strong>y<strong> televisiones locales</strong>”.</h2><h2><a href=\"https://www.elperiodico.com/es/tele/20261029/toni-alba-crackovia-135873194\" >Toni Albà explica por qué no está en el nuevo 'Crackòvia' con un dardo a TV3: \"No lo necesito\"</a> </h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 85
+  },
+  {
     "title": "La ruptura entre Haley Stevens y Abdul El-Sayed evidencia la fractura interna demócrata en la decisiva carrera al Senado en Míchigan",
     "link": "https://www.elperiodico.com/es/internacional/20261101/ruptura-democrata-haley-stevens-abdul-elsayed-michigan-135983260",
     "pubDate": "2026-11-01 20:09:37",
@@ -245,6 +434,15 @@
   {
     "title": "Києву загрожує спалах холери - МОЗ",
     "link": "https://ua.korrespondent.net/city/kiev/4925222-kyievu-zahrozhuie-spalakh-kholery-moz",
+    "pubDate": "2026-11-01 17:37:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4619462.jpg\">Погіршення епідемічної ситуації можливе вже за сім днів, попередили у Київському міському центрі контролю та профілактики хвороб.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Києву загрожує можливий спалах холери - МОЗ",
+    "link": "https://ua.korrespondent.net/city/kiev/4925222-kyievu-zahrozhuie-mozhlyvyi-spalakh-kholery-moz",
     "pubDate": "2026-11-01 17:37:00",
     "category": "Київ",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4619462.jpg\">Погіршення епідемічної ситуації можливе вже за сім днів, попередили у Київському міському центрі контролю та профілактики хвороб.",
