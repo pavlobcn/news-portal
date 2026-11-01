@@ -1,5 +1,50 @@
 [
   {
+    "title": "Росія запровадить візи для громадян Чорногорії",
+    "link": "https://ua.korrespondent.net/world/4925210-rosiia-zaprovadyt-vizy-dlia-hromadian-chornohorii",
+    "pubDate": "2026-11-01 15:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4619324.jpg\">Рішення Москви набуде чинності 30 грудня 2026 року у відповідь на скасування безвізу для росіян.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Гороскоп на 2 листопада 2026 року для всіх знаків зодіаку",
+    "link": "https://ua.korrespondent.net/lifestyle/4925200-horoskop-na-2-lystopada-2026-roku-dlia-vsikh-znakiv-zodiaku",
+    "pubDate": "2026-11-01 15:55:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4619251.jpg\">Понеділок може розпочатися з бажання швидко взятися за справи й показати конкретний результат.",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El país en el que nadie dimite",
+    "link": "https://www.elperiodico.com/es/opinion/20261101/pais-nadie-dimite-135976840",
+    "pubDate": "2026-11-01 15:52:38",
+    "category": "",
+    "description": "<h2 class=\"item\">La responsabilidad política no comienza donde termina la responsabilidad penal. Comienza cuando se quiebra la confianza de los ciudadanos</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Alcaraz arrolla a De Miñaur y se corona en Viena sin ceder ni un set",
+    "link": "https://www.elperiodico.com/es/deportes/20261101/alcaraz-arrolla-minaur-corona-viena-135977294",
+    "pubDate": "2026-11-01 15:49:18",
+    "category": "",
+    "description": "<h2 class=\"item\">El astro murciano conquista su 28º título, el cuarto del año, en un tramo final de temporada con retos apasionantes como las ATP Finals y la Copa Davis.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "США обмежили роботу китайських лабораторій",
+    "link": "https://ua.korrespondent.net/world/4925206-ssha-obmezhyly-robotu-kytaiskykh-laboratorii",
+    "pubDate": "2026-11-01 15:31:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4619301.jpg\">Нові правила США заборонять китайським лабораторіям тестувати та сертифікувати телекомунікаційне обладнання для FCC із грудня 2028 року.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
     "title": "Confirmada la muerte de Juan Ignacio López Espinosa, arquitecto de 63 años, en el accidente ferroviario en Urda",
     "link": "https://www.elperiodico.com/es/sociedad/20261101/confirmada-muerte-juan-ignacio-lopez-accidente-tren-135976659",
     "pubDate": "2026-11-01 15:22:20",
