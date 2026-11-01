@@ -1,8 +1,11 @@
-# News for 2026-11-01 16:01
+# News for 2026-11-01 19:10
 
 Previous day: [2026-10-31](./data/2026-10-31.md)
 
 ## ua.korrespondent.net
+19:02 [Українців попередили про відключення на понеділок](https://ua.korrespondent.net/ukraine/4925231-ukraintsiv-poperedyly-pro-vidkluichennia-na-ponedilok)<br>
+17:37 [Києву загрожує спалах холери - МОЗ](https://ua.korrespondent.net/city/kiev/4925222-kyievu-zahrozhuie-spalakh-kholery-moz)<br>
+16:31 [Свята 2 листопада 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4925213-sviata-2-lystopada-2026-roku-istoriia-tradytsii)<br>
 15:17 [У Франківську врятували сову з димаря](https://ua.korrespondent.net/ukraine/4925203-u-frankivsku-vriatuvaly-sovu-z-dymaria)<br>
 13:34 [Росія атакувала Чернівці: відомо про наслідки](https://ua.korrespondent.net/ukraine/4925192-rosiia-atakuvala-chernivtsi-vidomo-pro-naslidky)<br>
 13:13 [Далекобійні санкції: знищено ППО росіян на $70 млн](https://ua.korrespondent.net/ukraine/4925190-dalekobiini-sanktsii-znyscheno-ppo-rosiian-na-70-mln)<br>
@@ -22,6 +25,9 @@ Previous day: [2026-10-31](./data/2026-10-31.md)
 04:37 [Дрони атакували один з найбільший НПЗ Росії](https://ua.korrespondent.net/world/russia/4925140-drony-atakuvaly-odyn-z-naibilshyi-npz-rosii)<br>
 
 ## as.com
+18:40 [Unicaja - Barcelona, en directo: Liga Endesa de baloncesto 2026-27 en vivo hoy](https://as.com/baloncesto/acb/unicaja-barcelona-en-directo-liga-endesa-de-baloncesto-2026-27-en-vivo-hoy-f202611-d/)<br>
+16:38 [Martínez: “No hay nadie que conozca a Tavares que no se alegre”](https://as.com/baloncesto/acb/martinez-no-hay-nadie-que-conozca-a-tavares-que-no-se-alegre-f202611-n/)<br>
+15:59 [El Madrid valora recuperar a Ndiaye](https://as.com/baloncesto/acb/el-madrid-valora-recuperar-a-ndiaye-f202611-n/)<br>
 14:50 [El Bilbao Basket ya gana a domicilio](https://as.com/baloncesto/el-bilbao-basket-ya-gana-a-domicilio-f202611-n/)<br>
 14:47 [El derbi gallego es para Río Breogán](https://as.com/baloncesto/acb/el-derbi-gallego-es-para-rio-breogan-f202611-n/)<br>
 14:45 [Resumen del Real Madrid vs. San Pablo Burgos, jornada 6 de la Liga Endesa](https://as.com/videos/acb/resumen-del-real-madrid-vs-san-pablo-burgos-jornada-6-de-la-liga-endesa-f202611-v/)<br>
@@ -35,6 +41,9 @@ Previous day: [2026-10-31](./data/2026-10-31.md)
 05:38 [Estudiantes y Granca: de la élite a la reconstrucción](https://as.com/baloncesto/mas_baloncesto/estudiantes-y-granca-de-la-elite-a-la-reconstruccion-f202611-n/)<br>
 
 ## www.elperiodico.com
+17:15 [José Coronado (69 años), actor: "Tengo una hectárea de terreno en Toledo, me he hecho mi propio microhábitat"](https://www.elperiodico.com/es/gente/20261101/jose-coronado-69-anos-actor-terreno-toledo-dv-et-135840791)<br>
+17:00 [Alexandra Chacón, psicóloga: "En el corazón de los niños y las niñas caben dos mamás y caben dos papás"](https://www.elperiodico.com/es/sociedad/20261101/familias-acogida-alexandra-chacon-psicologa-135913542)<br>
+16:32 [Tiempo en Catalunya mañana lunes: caen las temperaturas y llegan las primeras lluvias al litoral](https://www.elperiodico.com/es/tiempo/20261101/tiempo-cataluna-hoy-lunes-2-de-noviembre-lluvias-temperaturas-dv-loc-135976916)<br>
 15:00 [Un estudio revela que el 83% de los jabalíes contabilizados durante el brote de peste porcina en Collserola no estaban infectados](https://www.elperiodico.com/es/barcelona/20261101/estudio-revela-83-jabalies-contabilizados-peste-porcina-135932076)<br>
 14:41 [Los familiares recuerdan a sus difuntos por el día de Todos los Santos](https://www.elperiodico.com/es/fotos/en-imagenes/familiares-recuerdan-difuntos-dia-santos-fotos-135976163)<br>
 14:34 [Renfe trabaja en nuevas consignas para sus maquinistas con medidas de seguridad reforzadas](https://www.elperiodico.com/es/economia/20261101/renfe-trabaja-nuevas-consignas-maquinistas-135976107)<br>
