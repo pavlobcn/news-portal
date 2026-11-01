@@ -1,5 +1,104 @@
 [
   {
+    "title": "Solo propaganda",
+    "link": "https://www.elperiodico.com/es/opinion/20261101/propaganda-alta-velocidad-informacion-jose-manuel-perez-tornero-135943046",
+    "pubDate": "2026-11-01 09:01:05",
+    "category": "",
+    "description": "<h2>La pregunta debería ser qué ha sucedido, pero el sectarismo la sustituye por otra: a quién beneficia y a quién perjudica lo sucedido</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261028/reanude-marcha-normalidad-audio-orden-135867087\">\"Reanude la marcha con normalidad\": el audio de la orden de Adif al AVE minutos antes del accidente ferroviario</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Republicanos y demócratas, intercambio de identidades",
+    "link": "https://www.elperiodico.com/es/internacional/20261101/republicanos-democratas-intercambio-identidades-eeuu-elecciones-medio-mandato-midterm-135927241",
+    "pubDate": "2026-11-01 09:01:04",
+    "category": "",
+    "description": "",
+    "topic": "вибори",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Dos emprendedores de Arbúcies crean una aplicación para encontrar aparcamiento",
+    "link": "https://www.elperiodico.com/es/sociedad/20261101/dos-emprendedores-arbucies-crean-aplicacion-encontrar-aparcamiento-dv-135929553",
+    "pubDate": "2026-11-01 09:01:03",
+    "category": "",
+    "description": "<h2 class=\"item\">Jordi Carós y Queralt Zamora han impulsado Spot, que calcula en qué calles hay más probabilidades de estacionar y ya cuenta con unos 1.500 usuarios en Girona</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tecnologia/20260312/joven-estudiante-barcelona-crea-app-encontrar-aparcamiento-calle-dv-127689359\" target=\"_blank\" rel=\"nofollow\">Un joven crea una 'app' para encontrar aparcamiento en la calle: \"Podemos ahorrar 15 o 20 minutos a la gente\"</a></h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Ángel Martín: \"Tras el brote psicótico, tenía la certeza de que no iba a poder volver a escribir comedia jamás\"",
+    "link": "https://www.elperiodico.com/es/tele/20261101/angel-martin-novela-libro-nuevo-dia-fuimos-todo-135842956",
+    "pubDate": "2026-11-01 09:01:03",
+    "category": "",
+    "description": "<h2 class=\"item\">El cómico publica su primera novela, 'El día que lo fuimos todo', después del éxito de 'Por si las voces vuelven' y 'Detrás del ruido'</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/20260921/movistar-series-carles-porta-buenafuente-angel-martin-134505558\">Nuevas series de Carles Porta y Buenafuente y el regreso de Ángel Martín, entre los nuevos proyectos de Movistar Plus</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "La campaña de Trump en 5 frases: \"Imaginen que votan por mí\"",
+    "link": "https://www.elperiodico.com/es/internacional/20261101/la-campana-de-trump-en-5-frases-135833158",
+    "pubDate": "2026-11-01 09:01:03",
+    "category": "",
+    "description": "<h2>El presidente ha llegado a prometer 5.000 dólares a todos los estadounidenses adultos si los republicanos ganan las elecciones legislativas</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Sobre (vivir) a la crianza - Familias de acogida",
+    "link": "https://www.elperiodico.com/es/videos/podcast/vivir-crianza-familias-acogida/135768080.shtml",
+    "pubDate": "2026-11-01 08:59:57",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Конституційна криза в Польщі: ЄК зробила заяву",
+    "link": "https://ua.korrespondent.net/world/4925162-konstytutsiina-kryza-v-polschi-yek-zrobyla-zaiavu",
+    "pubDate": "2026-11-01 08:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4618878.jpg\">У Європейській комісії закликали владу Польщі забезпечити належне функціонування Конституційного трибуналу.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Embalses hoy, 1 de noviembre en Catalunya: consulta el estado de Sau, Foix, Susqueda y el resto de pantanos",
+    "link": "https://www.elperiodico.com/es/sociedad/20261101/embalses-hoy-1-noviembre-catalunya-dv-135967941",
+    "pubDate": "2026-11-01 08:47:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Consulta el nivel de los pantanos catalanes, según los últimos datos de la Agència Catalana de l'Aigua</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20250922/noticias-google-discover-el-periodico-121841727\">Configura las noticias de Google para no perderte nada de EL PERIÓDICO</a></h2>",
+    "topic": "estado de los embalses",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El boicot docente a las colonias escolares amenaza a alojamientos y empresas de ocio del Pirineo ante la temporada de nieve",
+    "link": "https://www.elperiodico.com/es/sociedad/20261101/boicot-docente-colonias-escolares-amenaza-empresas-ocio-pirineo-temporada-nieve-135967527",
+    "pubDate": "2026-11-01 08:36:46",
+    "category": "",
+    "description": "<h2>En la Cerdanya, las reservas caen hasta un 80% y las agencias de turismo escolar se plantean cerrar o aplicar un ERTE</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20261028/instituto-vez-vida-queremos-renunciar-colonias-salidas-adolescentes-barcelona-135802330\">Los estudiantes urgen a desbloquear el conflicto de las colonias: \"Solo estás en el instituto una vez en la vida, no queremos renunciar a las salidas\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20261019/abraham-fuente-profesor-director-angeleta-ferrer-barcelona-autonomia-centros-escuela-inclusiva-colonias-escolares-educacion-cataluna-135404242\" >Abraham de la Fuente, profesor: \"Las familias vemos el fin de las colonias escolares como una pérdida, pero eran un privilegio\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Laura y Xavi dejaron la ciudad para vivir en una masía 1.000 años sin luz ni agua corriente: \"Esto te da una libertad muy grande. No dependes de compañías ni de precios\"",
+    "link": "https://www.elperiodico.com/es/economia/20261101/vida-autosuficiente-masia-luz-agua-libertad-naturaleza-caballos-laura-xavi-dv-135766419",
+    "pubDate": "2026-11-01 08:35:00",
+    "category": "",
+    "description": "<h2>La pareja ha iniciado un proyecto con caballos en plena naturaleza: \"Es muy bonito con niños porque aprenden muchas cosas y ven otra forma de estar con los caballos, no solo encima\"</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261009/masia-reconstruida-montseny-cataluna-hija-autosuficiencia-alex-paula-dv-et-134769611\" >Alex y Paula abandonaron Barcelona para vivir en una masía del Montseny junto a su hija pequeña: \"Confiar nuestra supervivencia a un sistema que se está cayendo para nosotros no tiene sentido\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261024/masia-catalana-500-anos-aislado-vida-autosuficiente-biert-girona-aleix-dv-et-135485367\" >Aleix vive aislado en una masía catalana de hace más de 500 años trabajando como cestero: \"Si tú haces una cesta muy bien hecha, alguien te la compra y ya no volverá, porque le va a durar toda la vida\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Болгарії розпочався другий тур президентських виборів",
+    "link": "https://ua.korrespondent.net/world/4925160-u-bolharii-rozpochavsia-druhyi-tur-prezydentskykh-vyboriv",
+    "pubDate": "2026-11-01 08:34:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4618837.jpg\">За посаду глави держави змагаються виконувачка президентських повноважень Іліяна Йотова та експрем'єр Андрій Гюров.",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
     "title": "El abogado Juan Motera, de estar a punto de perder una pierna por una negligencia a ayudar a un joven a volver a caminar: \"He cerrado mi propio círculo\"",
     "link": "https://www.elperiodico.com/es/sociedad/20261101/abogado-juan-motera-perder-pierna-negligencia-medica-ayudar-joven-caminar-135967427",
     "pubDate": "2026-11-01 08:28:43",
@@ -61,6 +160,15 @@
     "description": "<h2>El profesional recuerda que los hábitos alimentarios de los padres también influyen en los de sus hijos</h2><h2><a href=\"https://www.elperiodico.com/es/educacion/20261030/carlos-gonzalez-pediatra-rabietas-ninos-135916477\">Carlos González, pediatra, sobre las rabietas de los niños: \"Tú eres el adulto, el que tiene que ser un poco más responsable y maduro\"</a></h2>",
     "topic": "ресторани, їжа",
     "topic_match_probability": 85
+  },
+  {
+    "title": "Última hora del choque de trenes de Toledo, en directo | 56 de los 69 fallecidos ya han sido identificados",
+    "link": "https://www.elperiodico.com/es/sociedad/20261101/ultima-hora-choque-trenes-toledo-135832371",
+    "pubDate": "2026-11-01 08:05:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Puente esquiva las peticiones de dimisión: \"Mi forma de asumir responsabilidades es dar la cara\"</h2><h2 class=\"item\">Feijóo señala a Sánchez y a Puente como responsables: \"Si no dimiten ellos, les dimitiremos en las urnas\" </h2>",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Seis coches lucharán por ser el Coche del Año de los Lectores 2026",
