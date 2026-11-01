@@ -1,5 +1,113 @@
 [
   {
+    "title": "Генштаб назвав найгарячіший напрямок фронту",
+    "link": "https://ua.korrespondent.net/ukraine/4925154-henshtab-nazvav-naihariachishyi-napriamok-frontu",
+    "pubDate": "2026-11-01 07:37:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4618791.jpg\">Найбільшу кількість штурмових дій зафіксовано на Покровському напрямку, де українські воїни зупинили 55 атак.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Через нічні атаки на Дніпропетровщині без світла майже 100 тисяч людей",
+    "link": "https://ua.korrespondent.net/ukraine/4925152-cherez-nichni-ataky-na-dnipropetrovschyni-bez-svitla-maizhe-100-tysiach-luidei",
+    "pubDate": "2026-11-01 07:15:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4618770.jpg\">Росіяни продовжують бити по енергетиці області. Нові удари спричинили повторні знеструмлення.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "150 hoteles donde quedarse a comer",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20261101/150-hoteles-quedarse-comer-135521998",
+    "pubDate": "2026-11-01 07:02:07",
+    "category": "",
+    "description": "<h2>De los grandes hoteles de lujo a las pequeñas casas rurales, una geografía de Catalunya y Andorra escrita a través de sus cocinas y de las muchas formas de entender la hospitalidad</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Accidente de trenes en Toledo: ¿Hasta quién llegará el tsunami de Urda?",
+    "link": "https://www.elperiodico.com/es/opinion/20261101/accidente-trenes-toledo-llegara-tsunami-135949581",
+    "pubDate": "2026-11-01 07:00:38",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Seguridad Social eleva a 2.442 euros el mínimo de las pensiones extraordinarias por terrorismo",
+    "link": "https://www.elperiodico.com/es/economia/20261101/seguridad-social-eleva-2442-euros-minimo-pensiones-extraordinarias-terrorismo-dv-135918791",
+    "pubDate": "2026-11-01 07:00:32",
+    "category": "",
+    "description": "<h2>La medida entra en vigor este 1 de noviembre y eleva en 642 euros la cuantía mínima mensual, al sustituir el triple del IPREM por el doble del salario mínimo</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "The Social Hub Barcelona Poblenou: Del pasado industrial al cóctel de autor con vistas al barrio",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20261101/the-social-hub-150-hoteles-gastronomicos-cataluna-andorra-135236354",
+    "pubDate": "2026-11-01 07:00:31",
+    "category": "",
+    "description": "<h2>Dormir, trabajar y acabar cenando sobre los tejados de Poblenou, entre cocinas viajeras, cócteles y nuevas formas de entender la vida de hotel</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Yurbban Passage Hotel & Spa: Un pasaje con historia que vuelve a conectar la vida del barrio",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20261101/yurbban-passage-hotel-spa-pasaje-135209740",
+    "pubDate": "2026-11-01 06:58:21",
+    "category": "",
+    "description": "<h2>Un antiguo edificio textil recupera su relación con el barrio a través de la gastronomía, el té y el bienestar</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "ME Sitges Terramar: Las grandes fiestas se mudan al paseo marítimo de Sitges",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20261101/me-sitges-terramar-150-hoteles-gastronomicos-cataluna-andorra-135217224",
+    "pubDate": "2026-11-01 06:57:17",
+    "category": "",
+    "description": "<h2>El hotel lleva las fiestas hasta BESO Sitges con menús de Nochebuena, Navidad y Fin de Año, además de un gran brunch para empezar enero</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Alma Barcelona: Un jardín recuperado en el Eixample para comer entre árboles",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20261101/alma-barcelona-150-hoteles-gastronomicos-cataluna-andorra-135208140",
+    "pubDate": "2026-11-01 06:56:13",
+    "category": "",
+    "description": "<h2>El hotel convierte un interior de manzana de la calle Mallorca en el centro de su vida gastronómica</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Angelats Hotel: Una casa entre bosques para comer el Pirineo con curiosidad",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20261101/angelats-hotel-150-hoteles-gastronomicos-cataluna-andorra-135236142",
+    "pubDate": "2026-11-01 06:55:09",
+    "category": "",
+    "description": "<h2>Una residencia de veraneo de 1890, 18 habitaciones y una cocina que parte del territorio sin quedarse encerrada en él</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Nobu Hotel Barcelona: 23 plantas para celebrar a lo grande con las mejores vistas de la ciudad",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20261101/nobu-barcelona-nobu-matsuhisa-mejores-hoteles-gastronomicos-cataluna-andorra-135202960",
+    "pubDate": "2026-11-01 06:54:02",
+    "category": "",
+    "description": "<h2>La cocina de Nobu Matsuhisa ocupa el centro de un hotel que celebra la Navidad y la Nochevieja con 'omakase', champán y Barcelona a sus pies</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Hotel La Ferreria: Una antigua herrería convertida en refugio entre los bosques y volcanes de la Garrotxa",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20261101/hotel-mas-la-ferreria-mejores-hoteles-gastronomicos-cataluna-andorra-135182067",
+    "pubDate": "2026-11-01 06:54:01",
+    "category": "",
+    "description": "<h2>El establecimiento permite a los viajeros disfrutar de un entorno privilegiado en el Pirineo catalán, con servicios adaptados para ciclistas y una cocina centrada en productos locales</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Нічна атака дронів: є влучання на 16 локаціях",
     "link": "https://ua.korrespondent.net/ukraine/4925150-nichna-ataka-droniv-ye-vluchannia-na-16-lokatsiiakh",
     "pubDate": "2026-11-01 06:52:00",
@@ -90,6 +198,15 @@
     "topic_match_probability": 100
   },
   {
+    "title": "El PP resetea la campaña reuniendo a la plana mayor del partido en Génova",
+    "link": "https://www.elperiodico.com/es/politica/20261101/pp-resetea-campana-reuniendo-plana-135940877",
+    "pubDate": "2026-11-01 06:01:30",
+    "category": "",
+    "description": "<h2>Alberto Núñez Feijóo promete auditar el estado de las infraestructuras ferroviarias y priorizar su conservación tras cuestionar la actuación del Gobierno frente al reciente accidente ocurrido en Urda</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20261031/accidente-trenes-toledo-urda-ave-iryo-hoy-ultima-hora-directo-135890234\" target=\"_blank\">DIRECTO Accidente de trenes en Toledo | Última hora de la investigación, muertos, heridos y desaparecidos</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 95
+  },
+  {
     "title": "El PSOE reiniciará la campaña tras el accidente bajando el tono y con más perfil presidencial",
     "link": "https://www.elperiodico.com/es/politica/20261101/psoe-reiniciara-campana-accidente-bajando-tono-135938961",
     "pubDate": "2026-11-01 06:01:29",
@@ -106,6 +223,15 @@
     "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261030/edad-media-candidatos-partidos-catalanes-elecciones-29-noviembre-comuns-mas-jovenes-135813096\" target=\"_blank\">Los Comuns presentan las listas más jóvenes de Catalunya para las elecciones generales con una media de 41 años</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261029/accidente-trenes-vuelco-campana-seguridad-135857954\">La nueva tragedia del AVE da un vuelco a la campaña electoral: la seguridad en el centro y tensiones dentro de los bloques</a></h2>",
     "topic": "вибори (але не президента України чи США)",
     "topic_match_probability": 100
+  },
+  {
+    "title": "El Gobierno exige al Consejo de Estado que tenga el informe sobre el decreto de centros de datos esta misma semana",
+    "link": "https://www.elperiodico.com/es/economia/20261101/centros-de-datos-gobierno-exige-consejo-de-estado-informe-urgente-135937469",
+    "pubDate": "2026-11-01 06:01:29",
+    "category": "",
+    "description": "<h2 class=\"item\">El Consejo de Ministros aprobó la solicitud al órgano consultivo que emita el dictamen con carácter urgente y que lo tenga listo antes de este jueves 5 de noviembre</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
   },
   {
     "title": "Expertos piden revisar los protocolos y reforzar la gestión ferroviaria tras el accidente de Urda",
@@ -142,6 +268,42 @@
     "description": "<h2 class=\"item\">Los jóvenes que logran emanciparse sin apoyo familiar reducen drásticamente su capacidad de ahorro; quienes pueden, deciden quedarse en casa para acumular más patrimonio</h2><h2 class=\"item\"><a>Ni por Netflix ni por Bad Bunny: por qué los jóvenes de hoy son un 80% menos ricos que hace 20 años</a></h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Un veterano de Vox con 40 años en las Cortes, un  joven del PP de 22 y el pintor de la Familia Real: las apuestas más llamativas para el 29-N",
+    "link": "https://www.elperiodico.com/es/politica/20261101/veterano-vox-joven-pp-listas-elecciones-generales-135927604",
+    "pubDate": "2026-11-01 06:01:25",
+    "category": "",
+    "description": "<h2>Los partidos presentan cerca de 4.000 candidatos a los comicios, unas listas que esconden nombres sorprendentes, trayectorias insólitas, fichajes inesperados y dirigentes que han cambiado varias veces de siglas</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La investigación de la AITAT se centrará en la organización y los procedimientos del Centro de Control de Atocha",
+    "link": "https://www.elperiodico.com/es/economia/20261101/investigacion-aitat-centrara-organizacion-procedimientos-135965794",
+    "pubDate": "2026-11-01 06:01:24",
+    "category": "",
+    "description": "<h2>El informe de los investigadores que trabajan en el accidente de Urda resalta que \"la cadena de averías, instrucciones y acciones eventualmente habrían conducido a la colisión\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "De Ucrania a los aranceles: cómo afecta a España y Europa el resultado de las elecciones 'midterm' en Estados Unidos",
+    "link": "https://www.elperiodico.com/es/internacional/20261101/impacto-espana-europa-elecciones-midterm-eeuu-135965805",
+    "pubDate": "2026-11-01 06:01:24",
+    "category": "",
+    "description": "<h2>Si logran controlar el Congreso, los demócratas aumentarán el coste político de las guerras y podrán limitar la política exterior agresiva de Trump, que está elevando la inflación en nuestro país por el combustible</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Rufián enfría una tregua con Colau en la disputa por los escaños de Barcelona y Tarragona",
+    "link": "https://www.elperiodico.com/es/politica/20261101/gabriel-rufian-ada-colau-irene-montero-tregua-disputa-elecciones-generales-135854777",
+    "pubDate": "2026-11-01 06:01:19",
+    "category": "",
+    "description": "<h2 class=\"item\">Irene Montero también carga recurrentemente contra el Frente Amplio en la batalla por los diputados de Madrid</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261024/rufian-montero-alianza-frente-izquierdas-ada-colau-elecciones-generales-135710037\" target=\"_blank\">Rufián y Montero exhiben su alianza en Nou Barris y desafían a Colau: \"El Frente somos nosotros\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261015/rufian-colau-encuestas-sondeos-elecciones-generales-135338725\" target=\"_blank\">¿Cómo van Rufián y Colau en las encuestas? ¿Quién va mejor en los sondeos de las elecciones generales?</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261016/gabriel-rufian-frente-izquierdas-elecciones-generales-erc-junqueras-135397175\" target=\"_blank\">Rufián asume que no habrá frente de izquierdas unitario y pide disculpas: \"He fracasado\"</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
   },
   {
     "title": "Sandra Sánchez, campeona olímpica de kárate: \"Nunca he sentido la felicidad plena cuando he ganado; siento mucho el dolor ajeno\"",
