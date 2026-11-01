@@ -1,5 +1,284 @@
 [
   {
+    "title": "Нічна атака дронів: є влучання на 16 локаціях",
+    "link": "https://ua.korrespondent.net/ukraine/4925150-nichna-ataka-droniv-ye-vluchannia-na-16-lokatsiiakh",
+    "pubDate": "2026-11-01 06:52:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4618729.jpg\">Сили ППО знешкодили 371 зі 433 безпілотників, якими російські військові атакували Україну.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Втрати армії Росії за добу склали 2100 військових",
+    "link": "https://ua.korrespondent.net/ukraine/4925148-vtraty-armii-rosii-za-dobu-sklaly-2100-viiskovykh",
+    "pubDate": "2026-11-01 06:21:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4618707.jpg\">Минулої доби ЗСУ знищили танк, дві бронемашини, 16 артсистем, дві РСЗВ, дев'ять НРК і 944 безпілотника.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Hombre, máquina o novelista? La IA irrumpe como nuevo VAR de la literatura",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261101/hombre-maquina-o-novelista-ia-135880759",
+    "pubDate": "2026-11-01 06:02:41",
+    "category": "",
+    "description": "<h2 class=\"item\">La aparición de Pangram, detector de texto producido por máquinas que ya ha abortado grandes lanzamientos y contratos editoriales millonarios, reabre el uso de la inteligencia artificial entre escritores y editores </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261027/texto-escrito-ia-estrategias-deteccion-135794162\">¿Podemos saber si un texto lo ha escrito una IA? Estrategias de detección y maniobras de camuflaje</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Así funciona el Centro de Control de Mando de Adif, el 'Gran Hermano' del tráfico ferroviario",
+    "link": "https://www.elperiodico.com/es/sociedad/20261101/centro-control-mando-adif-accidente-ferroviario-urda-135943047",
+    "pubDate": "2026-11-01 06:01:48",
+    "category": "",
+    "description": "<h2>Los coordinadores de seguridad vigilan aquí el trayecto de los trenes, controlan la señalización y coordinan movimientos gracias a enormes pantallas donde se muestran vídeográficas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Estados Unidos mide en las urnas el trumpismo sin Trump",
+    "link": "https://www.elperiodico.com/es/opinion/20261101/estados-unidos-mide-trumpismo-sin-trump-elecciones-legislativas-135956897",
+    "pubDate": "2026-11-01 06:01:42",
+    "category": "",
+    "description": "",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El minuto a minuto de Puente",
+    "link": "https://www.elperiodico.com/es/opinion/20261101/minuto-minuto-puente-editorial-135951850",
+    "pubDate": "2026-11-01 06:01:37",
+    "category": "",
+    "description": "<h2 class=\"item\">El deterioro de la seguridad en la alta velocidad española centra la polémica política tras el siniestro de Urda, que eleva a más de cien las víctimas mortales en 2026</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261031/accidente-trenes-toledo-urda-ave-iryo-hoy-ultima-hora-directo-135890234\" target=\"_blank\" rel=\"nofollow\">DIRECTO | Accidente de trenes en Toledo | Última hora de la investigación, muertos, heridos y desaparecidos</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Suavina, el bálsamo labial de 150 años que triunfa en Corea",
+    "link": "https://www.elperiodico.com/es/economia/20261101/suavina-balsamo-labial-150-anos-135965977",
+    "pubDate": "2026-11-01 06:01:34",
+    "category": "",
+    "description": "<h2>Laboratorios Calduch factura más de un millón de euros, exporta la mitad de su producción y levanta una nueva planta en Castellón para seguir creciendo</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "1996-2026: salario, +96%; vivienda, +249%",
+    "link": "https://www.elperiodico.com/es/economia/20261101/1996-2026-salario-96-vivienda-135965969",
+    "pubDate": "2026-11-01 06:01:34",
+    "category": "",
+    "description": "<h2>Salvo que los padres ayuden a pagar la entrada, la compra del primer piso por parte de un joven es casi imposible. Esto implica un cambio de hábitos, de ahorro y gasto</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las 'midterm' en EEUU: un referéndum sobre Trump",
+    "link": "https://www.elperiodico.com/es/internacional/20261101/elecciones-midterm-estados-unidos-referendum-sobre-trump-135965985",
+    "pubDate": "2026-11-01 06:01:31",
+    "category": "",
+    "description": "<h2>El presidente no estará en las papeletas, pero sí sus políticas y su gestión que, en menos de dos años de mandato, han logrado alienar a millones de estadounidenses, también entre el electorado republicano</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los Comuns presentan las listas más jóvenes de Catalunya para las elecciones generales con una media de 41 años",
+    "link": "https://www.elperiodico.com/es/politica/20261101/edad-media-candidatos-partidos-catalanes-elecciones-29-noviembre-comuns-mas-jovenes-135813096",
+    "pubDate": "2026-11-01 06:01:30",
+    "category": "",
+    "description": "<h2 class=\"item\">El PPC reúne el mayor número de candidatos menores de 30 años y presenta los cabezas de lista con menos edad, mientras que medio siglo separa al aspirante más pequeño (19 años) del más veterano (69)</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261030/renovacion-listas-electorales-elecciones-generales-29-noviembre-catalunya-psc-erc-junts-comuns-frente-amplio-pp-vox-135837754\" target=\"_blank\">Renovación o continuidad: los partidos catalanes cambian más de la mitad de sus puestos de salida para el 29-N</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El PSOE reiniciará la campaña tras el accidente bajando el tono y con más perfil presidencial",
+    "link": "https://www.elperiodico.com/es/politica/20261101/psoe-reiniciara-campana-accidente-bajando-tono-135938961",
+    "pubDate": "2026-11-01 06:01:29",
+    "category": "",
+    "description": "<h2 class=\"item\">La Cumbre Iberoamericana de Madrid, a la que ha confirmado que asistirá Javier Milei, marcará los próximos días</h2><h2 class=\"item\">Los socialistas esperan que la ilusión que se ha frenado en seco con el siniestro se pueda recuperar paulatinamente</h2><h2 class=\"item\">Ferraz no prevé retomar los actos electorales al menos hasta el sábado 7 de noviembre</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Renovación o continuidad: los partidos catalanes cambian más de la mitad de sus puestos de salida para el 29-N",
+    "link": "https://www.elperiodico.com/es/politica/20261101/renovacion-listas-electorales-elecciones-generales-29-noviembre-catalunya-psc-erc-junts-comuns-frente-amplio-pp-vox-135837754",
+    "pubDate": "2026-11-01 06:01:29",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261030/edad-media-candidatos-partidos-catalanes-elecciones-29-noviembre-comuns-mas-jovenes-135813096\" target=\"_blank\">Los Comuns presentan las listas más jóvenes de Catalunya para las elecciones generales con una media de 41 años</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261029/accidente-trenes-vuelco-campana-seguridad-135857954\">La nueva tragedia del AVE da un vuelco a la campaña electoral: la seguridad en el centro y tensiones dentro de los bloques</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Expertos piden revisar los protocolos y reforzar la gestión ferroviaria tras el accidente de Urda",
+    "link": "https://www.elperiodico.com/es/economia/20261101/expertos-ingenieros-piden-revisar-protocolos-reforzar-gestion-ferroviaria-despues-accidente-toledo-135934680",
+    "pubDate": "2026-11-01 06:01:28",
+    "category": "",
+    "description": "<h2>Los ingenieros reclaman más supervisión, formación y mantenimiento de las infraestructuras para evitar que se repitan fallos como los que precedieron a la tragedia de Toledo </h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261030/personal-adif-linea-madrid-sevilla-mas-trenes-centro-regulacion-circulacion-liberalizacion-135886621\" target=\"_blank\">Cada controlador de Adif de la línea Madrid-Sevilla ha pasado de gestionar simultáneamente 15 trenes de alta velocidad a 40 en seis años</a></h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20261031/accidente-trenes-toledo-urda-ave-iryo-hoy-ultima-hora-directo-135890234\" target=\"_blank\">DIRECTO Accidente de trenes en Toledo | Última hora de la investigación, muertos, heridos y desaparecidos</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Una posible ruptura del vórtice polar podría provocar un cambio en la circulación atmosférica y dejar más lluvias sobre España",
+    "link": "https://www.elperiodico.com/es/sociedad/20261101/posible-ruptura-vortice-polar-lluvias-espana-modelos-135931354",
+    "pubDate": "2026-11-01 06:01:28",
+    "category": "",
+    "description": "<h2 class=\"item\">El modelo meteorológico europeo detecta una inestabilidad inusual en la estratosfera que podría favorecer la llegada de borrascas y precipitaciones más frecuentes a España durante el próximo mes</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261030/aemet-cambio-tiempo-lluvias-mediterraneo-bajada-temperaturas-135916098\">La Aemet advierte de un cambio de tiempo que dejará lluvias en el Mediterráneo y una bajada general de las temperaturas</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ni por Netflix ni por Bad Bunny: por qué los jóvenes de hoy son un 80% menos ricos que hace 20 años",
+    "link": "https://www.elperiodico.com/es/economia/20261101/borrador-publicar-netflix-bad-bunny-135904126",
+    "pubDate": "2026-11-01 06:01:26",
+    "category": "",
+    "description": "<h2 class=\"item\">La riqueza mediana de los hogares encabezados por menores de 35 años ha caído un 75% desde 2002</h2><h2 class=\"item\">En euros reales, gastan hoy un 35% menos en bares y restaurantes que hace dos décadas</h2><h2 class=\"item\"><a>5 jóvenes muestran sus presupuestos: ¿se puede ahorrar cuando el gasto en vivienda se ha duplicado en 20 años?  </a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cinco jóvenes, cinco presupuestos: \"Con el sueldo de mi abuelo vivían cinco; nosotros dos casi no podemos ahorrar\"",
+    "link": "https://www.elperiodico.com/es/economia/20261101/borrador-publicar-cinco-jovenes-cinco-135904153",
+    "pubDate": "2026-11-01 06:01:25",
+    "category": "",
+    "description": "<h2 class=\"item\">Los jóvenes que logran emanciparse sin apoyo familiar reducen drásticamente su capacidad de ahorro; quienes pueden, deciden quedarse en casa para acumular más patrimonio</h2><h2 class=\"item\"><a>Ni por Netflix ni por Bad Bunny: por qué los jóvenes de hoy son un 80% menos ricos que hace 20 años</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sandra Sánchez, campeona olímpica de kárate: \"Nunca he sentido la felicidad plena cuando he ganado; siento mucho el dolor ajeno\"",
+    "link": "https://www.elperiodico.com/es/deportes/20261101/sandra-sanchez-campeona-olimpica-karate-135860057",
+    "pubDate": "2026-11-01 06:01:15",
+    "category": "",
+    "description": "<h2>Desde este viernes, la vida de la única campeona olímpica de katas de la historia puede verse en los cines en 'Karateka', una película interpretada por Andrea Ros y con Patrick Criado interpretando a su entrenador y pareja, Jesús del Moral.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Teresa Ballesté, la única mujer al frente de una camisería artesanal en España: \"Empecé siendo una chica tatuada y un poco punky para mi gremio\"",
+    "link": "https://www.elperiodico.com/es/gente/20261101/teresa-balleste-unica-mujer-al-frente-camiseria-artesanal-espana-taller-barcelona-entrevista-135244121",
+    "pubDate": "2026-11-01 06:01:09",
+    "category": "",
+    "description": "<h2>Desde su taller en Barcelona, esta artesana miembro de la junta directiva de la Asociación Española de Sastrería, confecciona unas 30 camisas a medida al mes y recibe encargos insólitos: \"Un hombre me pidió que bordara el escudo del Betis en la camisa con la que quería ser enterrado\" </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Підсумки 31.10: місія в Олешках, пропозиція Сибіги",
+    "link": "https://ua.korrespondent.net/ukraine/4925132-pidsumky-3110-misiia-v-oleshkakh-propozytsiia-sybihy",
+    "pubDate": "2026-11-01 05:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4618535.jpg\">У Росії арештували командира бази ВМФ. Зеленський підсумував гуманітарну місію в Олешках. Сибіга зробив Росії пропозицію щодо фронту. Кореспондент.net виділяє головні події вчорашнього дня.",
+    "topic": "підсумки (за попередній день, наприклад)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Teresa Ballesté, la única mujer al frente de una camisería artesanal en España",
+    "link": "https://www.elperiodico.com/es/videos/gente/teresa-balleste-unica-mujer-frente-camiseria-video/135854962.shtml",
+    "pubDate": "2026-11-01 05:55:37",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "\"Аналог Starlink\": Росія втратила черговий супутник Рассвет-3",
+    "link": "https://ua.korrespondent.net/world/russia/4925146-analoh-Starlink-rosiia-vtratyla-cherhovyi-suputnyk-rassvet-3",
+    "pubDate": "2026-11-01 05:47:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4618665.jpg\">Росія вже вдруге втратила серійний супутник зі свого угруповання Рассвет після запуску, пише Defence Express.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Real Madrid - Burgos: horario, TV y dónde ver la ACB 2026-27",
+    "link": "https://as.com/baloncesto/acb/real-madrid-burgos-horario-tv-y-donde-ver-la-acb-2026-27-f202611-n/",
+    "pubDate": "2026-11-01 05:40:37",
+    "category": "Baloncesto",
+    "description": "Conoce el horario y cómo ver el partido de la jornada 6 de la Liga Endesa 2026-27 entre Real Madrid y San Pablo Burgos. Este domingo, 1 de noviembre, a las 12:30 horas.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Unicaja - Barcelona: horario, TV y dónde ver la ACB 2026-27",
+    "link": "https://as.com/baloncesto/acb/unicaja-barcelona-horario-tv-y-donde-ver-la-acb-2026-27-f202611-n/",
+    "pubDate": "2026-11-01 05:39:35",
+    "category": "Baloncesto",
+    "description": "Conoce el horario y cómo ver el partido de la jornada 6 de la Liga Endesa 2026-27 entre Unicaja y Barça. Este domingo, 1 de noviembre, a las 19:00 horas.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Willy, morbo total",
+    "link": "https://as.com/baloncesto/willy-morbo-total-f202611-n/",
+    "pubDate": "2026-11-01 05:38:59",
+    "category": "Baloncesto",
+    "description": "El pívot se reencuentra con el Barça con las heridas deportivas de su paso por el Palau todavía frescas, en una cita de altos vuelos en el Carpena (19:00 horas, DAZN).",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Estudiantes y Granca: de la élite a la reconstrucción",
+    "link": "https://as.com/baloncesto/mas_baloncesto/estudiantes-y-granca-de-la-elite-a-la-reconstruccion-f202611-n/",
+    "pubDate": "2026-11-01 05:38:10",
+    "category": "Baloncesto",
+    "description": "El Movistar Estudiantes y el Gran Canaria se miden este domingo en el Movistar Arena (18:30, Baloncesto TV) en pleno proceso de reordenamiento interno.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Трамп пообіцяв \"подбати\" про залишки ядерної енергетики Ірану",
+    "link": "https://ua.korrespondent.net/world/4925144-tramp-poobitsiav-podbaty-pro-zalyshky-yadernoi-enerhetyky-iranu",
+    "pubDate": "2026-11-01 05:26:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4618644.jpg\">США \"вивели з ладу ядерну енергетику\" Ірану, але є ще кілька об'єктів про які слід \"подбати\", заявив президент.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Пограбування Binance: Трамп заперечив заяву ФБР про хакерів КНДР",
+    "link": "https://ua.korrespondent.net/world/4925142-pohrabuvannia-Binance-tramp-zaperechyv-zaiavu-fbr-pro-khakeriv-kndr",
+    "pubDate": "2026-11-01 04:57:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4618623.jpg\">Американський президент пообіцяв \"обговорити це питання з Північною Кореєю\", якщо це все ж таки її провина.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Дрони атакували один з найбільший НПЗ Росії",
+    "link": "https://ua.korrespondent.net/world/russia/4925140-drony-atakuvaly-odyn-z-naibilshyi-npz-rosii",
+    "pubDate": "2026-11-01 04:37:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4618578.jpeg\">Безпілотники змогли дістатися до нафтопереробного заводу, попри російську протиповітряну оборону.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "ЗМІ: Білий дім лякає сильним ударом Трампа по Ірану",
+    "link": "https://ua.korrespondent.net/world/4925138-zmi-bilyi-dim-liakaie-sylnym-udarom-trampa-po-iranu",
+    "pubDate": "2026-11-01 03:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4618557.jpg\">Президент США може \"вдатися до рішучих дій\", якщо відчує себе \"приниженим\" через результати голосування, заявили джерела.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Трамп поговорив з Нетаньягу на тлі підготовки ударів по Ірану - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4925136-tramp-pohovoryv-z-netaniahu-na-tli-pidhotovky-udariv-po-iranu-zmi",
+    "pubDate": "2026-11-01 03:42:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4618536.jpg\">Лідер США раніше провів нараду зі своїми головними воєначальниками з питань відновлення великих бойових дій у регіоні.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Саміт G20: Трамп сказав, чи запросить Зеленського",
+    "link": "https://ua.korrespondent.net/world/4925133-samit-G20-tramp-skazav-chy-zaprosyt-zelenskoho",
+    "pubDate": "2026-11-01 02:47:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4618494.jpg\">Лідер США не бачить проблеми в запрошенні для українського колеги, і \"зробить це з задоволенням\".",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Політична криза в Польщі: Туск назвав винуватців",
     "link": "https://ua.korrespondent.net/world/4925130-politychna-kryza-v-polschi-tusk-nazvav-vynuvattsiv",
     "pubDate": "2026-11-01 01:59:00",
