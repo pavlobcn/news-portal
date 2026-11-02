@@ -1809,6 +1809,15 @@
     "topic_match_probability": 100
   },
   {
+    "title": "SLS Barcelona: Una Navidad entre escudella, una nueva piscina climatizada y fiesta hasta la madrugada",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20261101/sls-barcelona-150-hoteles-gastronomicos-cataluna-andorra-135457946",
+    "pubDate": "2026-11-01 06:52:58",
+    "category": "",
+    "description": "<h2>El hotel de Port Fòrum celebra las fiestas con cocina mediterránea, una gran cena de Fin de Año y una piscina exterior que no cierra por invierno</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 97
+  },
+  {
     "title": "Нічна атака дронів: є влучання на 16 локаціях",
     "link": "https://ua.korrespondent.net/ukraine/4925150-nichna-ataka-droniv-ye-vluchannia-na-16-lokatsiiakh",
     "pubDate": "2026-11-01 06:52:00",
@@ -1816,6 +1825,24 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4618729.jpg\">Сили ППО знешкодили 371 зі 433 безпілотників, якими російські військові атакували Україну.",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Cotton House Hotel: Un palacete textil con cócteles, escudella y un bosque nevado",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20261101/cotton-house-hotel-150-hoteles-gastronomicos-cataluna-andorra-135490145",
+    "pubDate": "2026-11-01 06:51:53",
+    "category": "",
+    "description": "<h2>Una antigua sede de la industria textil barcelonesa reúne arquitectura del siglo XIX, coctelería y una Navidad con acento gastronómico</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 97
+  },
+  {
+    "title": "Grand Hotel Central: la antigua casa de Cambó se viste de fiesta para despedir el año",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20261101/gran-hotel-central-mejores-hoteles-gastronomicos-cataluna-andorra-135187242",
+    "pubDate": "2026-11-01 06:50:46",
+    "category": "",
+    "description": "<h2>El hotel convierte Via Laietana en el escenario de una Navidad con cocina, vistas y fiesta</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 95
   },
   {
     "title": "Втрати армії Росії за добу склали 2100 військових",
