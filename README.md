@@ -1,8 +1,13 @@
-# News for 2026-11-02 19:26
+# News for 2026-11-02 20:39
 
 Previous day: [2026-11-01](./data/2026-11-01.md)
 
 ## ua.korrespondent.net
+20:35 [У Комишувасі вже 26 жертв: на Запоріжжі день жалоби](https://ua.korrespondent.net/ukraine/4925553-u-komyshuvasi-vzhe-26-zhertv-na-zaporizhzhi-den-zhaloby)<br>
+20:11 [Що трапилося у Петропавлівській Борщагівці: версія Нацгвардії](https://ua.korrespondent.net/ukraine/4925545-scho-trapylosia-u-petropavlivskii-borschahivtsi-versiia-natshvardii)<br>
+20:04 [Нова вразливість Android виводить смартфони з ладу SMS-повідомленнями](https://ua.korrespondent.net/lifestyle/gadgets/4925542-nova-vrazlyvist-Android-vyvodyt-smartfony-z-ladu-SMS-povidomlenniamy)<br>
+19:45 [Новий радар РФ може відстежувати повітряні цілі над Європою](https://ua.korrespondent.net/world/russia/4925536-novyi-radar-rf-mozhe-vidstezhuvaty-povitriani-tsili-nad-yevropoui)<br>
+19:34 [Удар по Комишувасі: зросла кількість жертв](https://ua.korrespondent.net/city/zaporozhye/4925534-udar-po-komyshuvasi-zrosla-kilkist-zhertv)<br>
 19:20 [Над Києвом створили захисний купол із РЕБів - Флеш](https://ua.korrespondent.net/kyiv/4925529-nad-kyievom-stvoryly-zakhysnyi-kupol-iz-rebiv-flesh)<br>
 19:19 [Денна атака на Україну: ППО знешкодила 139 дронів і 8 ракет](https://ua.korrespondent.net/ukraine/4925527-denna-ataka-na-ukrainu-ppo-zneshkodyla-139-droniv-i-8-raket)<br>
 19:10 [Світла буде менше: Укренерго посилює відключення](https://ua.korrespondent.net/ukraine/4925523-svitla-bude-menshe-ukrenerho-posyluiie-vidkluichennia)<br>
@@ -55,6 +60,7 @@ Previous day: [2026-11-01](./data/2026-11-01.md)
 
 ## www.elperiodico.com
 23:53 [La Línea 2 de metro se quedará sin servicio entre La Pau y Gorg desde este lunes al 3 de diciembre](https://www.elperiodico.com/es/barcelona/20261102/metro-linea-2-corte-gorg-la-pau-incidencia-sant-adria-sant-roc-135877516)<br>
+20:01 [Sube a 24 el número de muertos en un ataque ruso contra una escuela en Ucrania](https://www.elperiodico.com/es/internacional/20261102/18-muertos-ataque-ruso-escuela-136010360)<br>
 19:07 [Carla Simón: "Estamos en una época en la que a todos nos hace falta bailar un poco más"](https://www.elperiodico.com/es/ocio-y-cultura/20261102/carla-simon-epoca-falta-bailar-136008348)<br>
 19:06 [Crean un perro robot impulsado por neuronas humanas cultivadas en laboratorio](https://www.elperiodico.com/es/tendencias21/20261102/crean-perro-robot-impulsado-neuronas-136008916)<br>
 19:05 [Entropía, Midterm y tipos de interés](https://www.elperiodico.com/es/opinion/20261102/entropia-midterm-tipos-interes-136008891)<br>
