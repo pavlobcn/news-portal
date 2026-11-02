@@ -1,8 +1,31 @@
-# News for 2026-11-02 10:25
+# News for 2026-11-02 19:26
 
 Previous day: [2026-11-01](./data/2026-11-01.md)
 
 ## ua.korrespondent.net
+19:20 [Над Києвом створили захисний купол із РЕБів - Флеш](https://ua.korrespondent.net/kyiv/4925529-nad-kyievom-stvoryly-zakhysnyi-kupol-iz-rebiv-flesh)<br>
+19:19 [Денна атака на Україну: ППО знешкодила 139 дронів і 8 ракет](https://ua.korrespondent.net/ukraine/4925527-denna-ataka-na-ukrainu-ppo-zneshkodyla-139-droniv-i-8-raket)<br>
+19:10 [Світла буде менше: Укренерго посилює відключення](https://ua.korrespondent.net/ukraine/4925523-svitla-bude-menshe-ukrenerho-posyluiie-vidkluichennia)<br>
+18:57 [На Закарпатті собаку підвісили за шию і забили до смерті, знущання знімали](https://ua.korrespondent.net/ukraine/4925519-na-zakarpatti-sobaku-pidvisyly-za-shyui-i-zabyly-do-smerti-znuschannia-znimaly)<br>
+18:29 [Свята 3 листопада 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4925477-sviata-3-lystopada-2026-roku-istoriia-tradytsii)<br>
+18:24 [РФ обстріляла укриття в Комишувасі: 18 загиблих](https://ua.korrespondent.net/ukraine/4925513-rf-obstriliala-ukryttia-v-komyshuvasi-18-zahyblykh)<br>
+18:10 [Офіційний курс гривні впав на початку листопада](https://ua.korrespondent.net/business/financial/4925509-ofitsiinyi-kurs-hryvni-vpav-na-pochatku-lystopada)<br>
+18:08 [В Угорщині знайдено понад 700 монет часів Римської імперії](https://ua.korrespondent.net/tech/science/4925453-v-uhorschyni-znaideno-ponad-700-monet-chasiv-rymskoi-imperii)<br>
+17:50 [Слід РФ у бізнесі: кому належать торговельні марки в Україні](https://ua.korrespondent.net/business/4925503-slid-rf-u-biznesi-komu-nalezhat-torhovelni-marky-v-ukraini)<br>
+17:23 [Польська мова в українських школах: скільки дітей її вивчають](https://ua.korrespondent.net/ukraine/4925495-polska-mova-v-ukrainskykh-shkolakh-skilky-ditei-yii-vyvchauit)<br>
+17:05 [Загибла і руїни: наслідки авіаудару по Слов’янську](https://ua.korrespondent.net/ukraine/4925490-zahybla-i-ruiny-naslidky-aviaudaru-po-sloviansku)<br>
+16:39 [У Нікополі через обстріл РФ постраждали двоє хлопчиків](https://ua.korrespondent.net/ukraine/4925484-u-nikopoli-cherez-obstril-rf-postrazhdaly-dvoie-khlopchykiv)<br>
+16:09 [Названа кількість знищених "шахедів" у жовтні](https://ua.korrespondent.net/ukraine/4925472-nazvana-kilkist-znyschenykh-shakhediv-u-zhovtni)<br>
+15:50 [Біля Шотландії російський корабель стежив за навчаннями НАТО](https://ua.korrespondent.net/world/4925464-bilia-shotlandii-rosiiskyi-korabel-stezhyv-za-navchanniamy-nato)<br>
+14:57 [Біля Саудівської Аравії під обстріл потрапив нафтовий танкер](https://ua.korrespondent.net/world/4925450-bilia-saudivskoi-aravii-pid-obstril-potrapyv-naftovyi-tanker)<br>
+14:45 [Порожні полиці та збитки: хакери атакували супермаркети Європи](https://ua.korrespondent.net/world/4925446-porozhni-polytsi-ta-zbytky-khakery-atakuvaly-supermarkety-yevropy)<br>
+14:10 [В Україні похолодає: де прогнозують мокрий сніг](https://ua.korrespondent.net/ukraine/4925433-v-ukraini-pokholodaie-de-prohnozuuit-mokryi-snih)<br>
+13:57 [На Харківщині десятки поранених через атаки Росії](https://ua.korrespondent.net/ukraine/4925435-na-kharkivschyni-desiatky-poranenykh-cherez-ataky-rosii)<br>
+13:02 [ПС назвали число реактивних "шахедів" за жовтень](https://ua.korrespondent.net/ukraine/4925409-ps-nazvaly-chyslo-reaktyvnykh-shakhediv-za-zhovten)<br>
+12:03 [Армія РФ просунулись на Запоріжжі - DeepState](https://ua.korrespondent.net/ukraine/4925388-armiia-rf-prosunulys-na-zaporizhzhi-DeepState)<br>
+11:43 [Гривня дешевшає в обмінниках на початку листопада](https://ua.korrespondent.net/business/financial/4925381-hryvnia-deshevshaie-v-obminnykakh-na-pochatku-lystopada)<br>
+10:48 [Нові знеструмлення у дев'яти областях - Укренерго](https://ua.korrespondent.net/ukraine/4925358-novi-znestrumlennia-u-deviaty-oblastiakh-ukrenerho)<br>
+10:33 [Дрони атакували найбільший нафтовий хаб в Росії](https://ua.korrespondent.net/world/russia/4925354-drony-atakuvaly-naibilshyi-naftovyi-khab-v-rosii)<br>
 10:23 [У Росії стався збій у роботі одного з найбільших хостинг-провайдерів](https://ua.korrespondent.net/world/russia/4925348-u-rosii-stavsia-zbii-u-roboti-odnoho-z-naibilshykh-khostynh-provaideriv)<br>
 10:09 [НБА: зірка Лейкерс став героєм матчу з Торонто](https://ua.korrespondent.net/sport/basketball/4925346-nba-zirka-leikers-stav-heroiem-matchu-z-toronto)<br>
 10:00 [Колишній моряк коригував російські удари по Одесі](https://ua.korrespondent.net/city/odessa/4925342-kolyshnii-moriak-koryhuvav-rosiiski-udary-po-odesi)<br>
@@ -25,8 +48,30 @@ Previous day: [2026-11-01](./data/2026-11-01.md)
 00:33 [ОПЕК+ призупинила нарощування видобутку до кінця року](https://ua.korrespondent.net/business/economics/4925266-opek-pryzupynyla-naroschuvannia-vydobutku-do-kintsia-roku)<br>
 00:12 [Росіяни вдарили КАБами по Ізюму](https://ua.korrespondent.net/ukraine/4925264-rosiiany-vdaryly-kabamy-po-izuimu)<br>
 
+## as.com
+17:20 [“Los aficionados no elegirían la cancha del Madrid para ver un partido”](https://as.com/baloncesto/euroliga/los-aficionados-no-elegirian-la-cancha-del-madrid-para-ver-un-partido-f202611-n/)<br>
+16:14 [Poirier y el Madrid: “No es tan sencillo… pero podría serlo”](https://as.com/baloncesto/euroliga/poirier-y-el-madrid-no-es-tan-sencillo-pero-podria-serlo-f202611-n/)<br>
+13:48 [Cautela en el Movistar Estudiantes](https://as.com/baloncesto/mas_baloncesto/cautela-en-el-movistar-estudiantes-f202611-n/)<br>
+
 ## www.elperiodico.com
 23:53 [La Línea 2 de metro se quedará sin servicio entre La Pau y Gorg desde este lunes al 3 de diciembre](https://www.elperiodico.com/es/barcelona/20261102/metro-linea-2-corte-gorg-la-pau-incidencia-sant-adria-sant-roc-135877516)<br>
+19:07 [Carla Simón: "Estamos en una época en la que a todos nos hace falta bailar un poco más"](https://www.elperiodico.com/es/ocio-y-cultura/20261102/carla-simon-epoca-falta-bailar-136008348)<br>
+19:06 [Crean un perro robot impulsado por neuronas humanas cultivadas en laboratorio](https://www.elperiodico.com/es/tendencias21/20261102/crean-perro-robot-impulsado-neuronas-136008916)<br>
+19:05 [Entropía, Midterm y tipos de interés](https://www.elperiodico.com/es/opinion/20261102/entropia-midterm-tipos-interes-136008891)<br>
+18:57 [El Hospital Arnau de Vilanova de Lleida reabrirá este martes los quirófanos cerrados por una fuga de agua](https://www.elperiodico.com/es/sanidad/20261102/hospital-arnau-reabre-quirofanos-136008354)<br>
+18:19 [Tiempo en Catalunya mañana martes: el Meteocat activa el aviso naranja por lluvias en Barcelona y Tarragona](https://www.elperiodico.com/es/tiempo/20261102/tiempo-cataluna-hoy-martes-3-de-noviembre-lluvias-temperaturas-dv-loc-136005085)<br>
+18:15 [El petróleo se hunde un 6% por la esperanza de una reapertura de Ormuz](https://www.elperiodico.com/es/economia/20261102/petroleo-hunde-6-esperanza-reapertura-136007248)<br>
+17:53 [Grifols supera las previsiones en el tercer trimestre y baja su deuda de cuatro veces el ebitda](https://www.elperiodico.com/es/economia/20261102/grifols-supera-previsiones-tercer-trimestre-136006580)<br>
+17:23 [Dos años de retraso en Barcelona para entregar un piso a una familia desalojada por la aluminosis: “Estamos lejos de casa”](https://www.elperiodico.com/es/barcelona/20261102/barcelona-besos-maresme-rehabilitacion-pisos-aluminosis-realojo-135956143)<br>
+17:22 [Desalojado un bloque de 15 pisos ocupado desde hacía más de cinco años en la Seu d'Urgell (Lleida)](https://www.elperiodico.com/es/sucesos/20261102/desalojado-bloque-quince-pisos-ocupado-136005036)<br>
+17:22 [El precio de los alquileres cae en nueve de los 10 distritos de Barcelona desde el tope de los contratos aplicado en Catalunya](https://www.elperiodico.com/es/barcelona/20261102/alquileres-caen-nueve-10-distritos-desde-tope-contratos-aplicado-catalunya-135999376)<br>
+17:03 [Ferran Torrent, una vida entre libros, dominó y calamidades olvidadas: "Cuando me pongo a escribir, el mundo real no existe"](https://www.elperiodico.com/es/ocio-y-cultura/20261102/ferran-torrent-vida-libros-domino-136004580)<br>
+15:18 [Las empresas de ciberseguridad facturan más de 1.700 millones de euros en Catalunya](https://www.elperiodico.com/es/tecnologia/20261102/empresas-ciberseguridad-facturan-millones-catalunya-ia-ciberataques-empleo-136001554)<br>
+14:24 [Los camiones de la basura de Barcelona harán una recogida especial en Ciutat Vella para paliar el abandono de residuos en las calles](https://www.elperiodico.com/es/barcelona/20261102/camiones-basura-barcelona-recogida-especial-ciutat-vella-paliar-abandono-residuos-calles-135992755)<br>
+14:20 [La escritora Eva Baltasar gana el prestigioso premio Médicis Étranger por 'Ocàs i Fascinació'](https://www.elperiodico.com/es/ocio-y-cultura/20261102/escritora-eva-baltasar-gana-medicis-etranger-135998670)<br>
+11:45 [El testimono de Francesc Augé a un mes de su eutanasia](https://www.elperiodico.com/es/videos/sociedad/testimono-francesc-auge-mes-eutanasia-video/135852211.shtml)<br>
+11:45 [Francesc Augé, a tres semanas de su eutanasia: "No tengo calidad de vida; yo ya no soy yo"](https://www.elperiodico.com/es/sanidad/20261102/francesc-auge-eutanasia-entrevista-muerte-digna-135809603)<br>
+11:45 [Catalunya activa la fase de alerta de su plan frente a inundaciones ante las intensas lluvias previstas en la costa de Barcelona y Tarragona](https://www.elperiodico.com/es/sociedad/20261102/costa-barcelona-tarragona-aviso-lluvias-meteocat-aemet-135993530)<br>
 10:20 [Cero energético en La Palma tras el paso de una tormenta](https://www.elperiodico.com/es/videos/sociedad/cero-energetico-palma-paso-tormenta/135992077.shtml)<br>
 10:18 [Eres cuidador o cuidadora? Conoce los recursos y servicios municipales](https://www.elperiodico.com/es/mas-barcelona/20261102/cuidador-cuidadora-conoce-recursos-servicios-municipales-barcelona-bc-135917784)<br>
 10:11 [El precio de los alquileres se contiene en Catalunya tras dos años de regulación y se sitúa en 877 euros de media](https://www.elperiodico.com/es/vivienda/20261102/precio-alquileres-contiene-catalunya-anos-regulacion-situa-877-euros-media-135991448)<br>
@@ -42,6 +87,7 @@ Previous day: [2026-11-01](./data/2026-11-01.md)
 08:00 [¿Es festivo hoy lunes 2 de noviembre en Catalunya? La lista de localidades con puente](https://www.elperiodico.com/es/economia/20261102/cataluna-2-de-noviembre-festivo-lunes-todos-los-santos-castanyada-dv-loc-135410714)<br>
 07:00 [Dos reflexiones tras la catástrofe](https://www.elperiodico.com/es/tele/20261102/reflexiones-catastrofe-sergi-mas-accidente-urda-trenes-135976933)<br>
 06:59 [Mucho más que agua y residuos: las infraestructuras invisibles que mejoran nuestra vida](https://www.elperiodico.com/es/economia/20261102/agua-residuos-infraestructuras-invisibles-mejoran-bc-135988751)<br>
+06:30 ["Una nueva sabidur(IA)"](https://www.elperiodico.com/es/entre-todos/participacion/nueva-sabidur-ia-inteligencia-artificial-carta-lector-javier-gonzalez-135783976)<br>
 06:00 [El Gobierno admite un año de retraso en la renovación total del sistema de seguridad de la línea Madrid-Sevilla pero lo desvincula del accidente](https://www.elperiodico.com/es/economia/20261102/accidente-trenes-adif-gobierno-contrato-sistema-seguridad-retraso-lzb-ermts-135960101)<br>
 06:00 [Tarragona liderará un proyecto europeo de cuatro millones de euros para convertir residuos industriales en combustibles y materiales de alto valor](https://www.elperiodico.com/es/sociedad/20261102/tarragona-proyecto-europeo-convertir-residuos-industriales-productos-valor-iciq-135932095)<br>
 06:00 [Tengo prisa por vivir con calma. ¿Quién se suma?](https://www.elperiodico.com/es/economia/20261102/asuntos-cotidianos-tengo-prisa-vivir-calma-135939381)<br>
