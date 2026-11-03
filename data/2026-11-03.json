@@ -1,5 +1,563 @@
 [
   {
+    "title": "Los dos principales cargos institucionales de Vox en Baleares, ante la Justicia: Le Senne irá a juicio y la Fiscalía se querella contra Bestard",
+    "link": "https://www.elperiodico.com/es/politica/20261103/principales-cargos-institucionales-vox-baleares-136017601",
+    "pubDate": "2026-11-03 08:51:36",
+    "category": "",
+    "description": "<h2>El presidente del Parlament será juzgado en octubre de 2027 por un presunto delito de odio, mientras que el vicepresidente del Consell de Mallorca afronta una querella por supuesta malversación en el uso de coches oficiales</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Un turista muerto y otro herido en Nepal tras chocar dos helicópteros en el Everest",
+    "link": "https://www.elperiodico.com/es/internacional/20261103/turista-muerto-herido-nepal-chocar-136016662",
+    "pubDate": "2026-11-03 08:51:02",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tendencias21/20261009/300-000-personas-viven-zonas-135181621\">Casi 300.000 personas viven en zonas expuestas a inundaciones en el Himalaya</a></h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Комбінований удар по Україні: відомо, що збила ППО",
+    "link": "https://ua.korrespondent.net/ukraine/4925637-kombinovanyi-udar-po-ukraini-vidomo-scho-zbyla-ppo",
+    "pubDate": "2026-11-03 08:51:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4622155.jpg\">Сили протиповітряної оборони знешкодили три балістичні ракети, 49 крилатих ракет і 257 безпілотників, якими росіяни атакували Україну.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Detenido en Barcelona un fugitivo buscado en Bosnia-Herzogovina por un homicidio en 2016",
+    "link": "https://www.elperiodico.com/es/sucesos/20261103/detenido-barcelona-fugitivo-buscado-bosnia-homicidio-136017176",
+    "pubDate": "2026-11-03 08:50:06",
+    "category": "",
+    "description": "<h2>En otra actuación, la Guardia Urbana arrestó a un sospechoso reclamado por Croacia por falsedad documental</h2><h2><a href=\"https://www.elperiodico.com/es/sucesos/20260319/mossos-incrementaron-62-detenciones-fugitivos-catalunya-128163023\">Los Mossos incrementaron un 62% las detenciones de fugitivos nacionales e internacionales</a></h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Los derechos de las víctimas y familiares tras el accidente de trenes de Urda: \"Tienen que comunicar y plantear sus reclamaciones\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261103/derechos-victimas-familiares-accidente-trenes-136017514",
+    "pubDate": "2026-11-03 08:50:03",
+    "category": "",
+    "description": "<h2>El Ministerio de Transportes recoge indemnizaciones que van desde los 84.000 euros para las víctimas y de 72.000 euros para los familiares de los fallecidos</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "La entrada de Marruecos en los puertos canarios enciende las alarmas del Estado",
+    "link": "https://www.elperiodico.com/es/economia/20261103/entrada-marruecos-puertos-canarios-enciende-136017466",
+    "pubDate": "2026-11-03 08:50:01",
+    "category": "",
+    "description": "<h2 class=\"item\">Marsa Maroc, controlada por el Gobierno marroquí, da por hecha la compra del 45% de Boluda e incluye ya las cinco terminales del Archipiélago en su red, pese a no contar con autorización española</h2><h2 class=\"item\">La competencia con África amenaza con restar tráfico a las rutas marítimas de las Islas, lo que podría encarecer el transporte de mercancías y poner en riesgo el abastecimiento</h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Inestabilidad en Oriente Medio | Efectos de la guerra en Irán",
+    "link": "https://www.elperiodico.com/es/internacional/20261103/elecciones-israel-guerra-iran-ultima-hora-directo-130265713",
+    "pubDate": "2026-11-03 08:49:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20260410/guerra-ucrania-rusia-ultima-hora-zelenski-trump-putin-directo-126605559\" >DIRECTO | Guerra Ucrania - Rusia, en directo: última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El Gobierno restringe los alimentos precocinados y las frituras en los hospitales y las residencias",
+    "link": "https://www.elperiodico.com/es/sociedad/20261103/alimentos-precocinados-frituras-hospitales-residencias-escuelas-136016093",
+    "pubDate": "2026-11-03 08:40:37",
+    "category": "",
+    "description": "<h2 class=\"item\">El Consejo de Ministros aprobará este martes el real decreto que obliga a las máquinas expendedoras de estos centros, así como en universidades, museos y bibliotecas, a ofrecer productos saludables</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260903/nuevos-requisitos-comedores-escolares-menus-saludables-133909850\" target=\"_blank\">Los comedores escolares afrontan su primer curso completo con la nueva normativa: adiós ultraprocesados y frituras</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Ya está en vigor la nueva tasa en compras fuera de la UE: \"Encarecerá especialmente los pedidos pequeños y variados\"",
+    "link": "https://www.elperiodico.com/es/economia/20261103/tasa-aduana-compras-fuera-ue-dv-135913918",
+    "pubDate": "2026-11-03 08:40:00",
+    "category": "",
+    "description": "<h2 class=\"item\">La nueva tasa aduanera de 2 euros se suma al arancel de 3 euros y se cobra por cada categoría de producto del pedido</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20261019/mitad-tiendas-online-no-prepararon-black-friday-perdio-pedidos-135495935\" >La mitad de las tiendas online que no se prepararon para el Black Friday perdió más del 20% de sus pedidos</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Зірковий футболіст Шахтаря чекає на первістка",
+    "link": "https://ua.korrespondent.net/sport/football/4925615-zirkovyi-futbolist-shakhtaria-chekaie-na-pervistka",
+    "pubDate": "2026-11-03 08:35:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4622015.jpg\">Зірковий легіонер разом із коханою оголосили про очікування малюка, виклавши ніжні фотографії.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Accidente de trenes en Toledo, en directo | Última hora de la investigación del choque en Urda, víctimas mortales y heridos",
+    "link": "https://www.elperiodico.com/es/sociedad/20261103/accidente-trenes-toledo-urda-ave-iryo-hoy-ultima-hora-directo-135890234",
+    "pubDate": "2026-11-03 08:35:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/sociedad/20261031/muertos-accidente-tren-fatima-banez-maquinista-135895586\">Lista de fallecidos en la tragedia ferroviaria de Toledo: de Fátima Báñez y la saltadora Julieta a dos reconocidas científicas</a></h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20261028/sido-choque-trenes-obligado-interrumpir-alta-velocidad-madrid-andalucia-135832517\" >Mapa del accidente de tren en Los Yébenes (Toledo) ¿Dónde ha sido el choque entre un Iryo y un AVE?</a></h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Удар по лікарні у Харкові: понад 70 постраждалих",
+    "link": "https://ua.korrespondent.net/city/kharkov/4925633-udar-po-likarni-u-kharkovi-ponad-70-postrazhdalykh",
+    "pubDate": "2026-11-03 08:30:00",
+    "category": "Харків",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4622119.jpg\">Постраждали 73 людини, серед яких пацієнти лікарні, медичні працівники та мешканці прилеглих будинків.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Ведучого Поле чудес внесли у чорний список України",
+    "link": "https://ua.korrespondent.net/lifestyle/4925506-veduchoho-pole-chudes-vnesly-u-chornyi-spysok-ukrainy",
+    "pubDate": "2026-11-03 08:29:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4620886.jpg\">Російського телеведучого, зірку програми Поле чудес Леоніда Якубовича внесли до бази даних Головного управління розвідки Міністерства оборони України.",
+    "topic": "телебачення",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Última hora de las elecciones generales del 29N, en directo: las listas definitivas, los candidatos y el pulso de las coaliciones",
+    "link": "https://www.elperiodico.com/es/politica/20261103/elecciones-generales-29-noviembre-vivienda-ceuta-ultima-hora-directo-135335688",
+    "pubDate": "2026-11-03 08:25:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20261103/encuestas-elecciones-generales-espana-sondeos-12274406\" target=\"_blank\">Encuestas de las elecciones generales 2026: así están los sondeos</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El pediatra Carlos González explica cómo evitar las rabietas de los niños con un sencillo cambio: \"Tenemos que acostumbrarnos a intentar decir las cosas por las buenas\"",
+    "link": "https://www.elperiodico.com/es/educacion/20261103/carlos-gonzalez-pediatra-rabietas-ninos-dv-135916477",
+    "pubDate": "2026-11-03 08:25:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El profesional expone que la forma de dirigirse a los hijos puede ayudar a prevenir algunos conflictos cotidianos </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ser-feliz/20251027/lara-ferreiro-psicologa-ninos-pantallas-movil-ipad-septiembre-rutina-dv-121705725\" >Lara Ferreiro, psicóloga: “Los niños se vuelven más tontos con las pantallas, está científicamente demostrado”</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Fernando Romay (66 años), exjugador de baloncesto: \"Me puedo jubilar, pero no puedo cobrar el 100% de lo que me correspondería\"",
+    "link": "https://www.elperiodico.com/es/gente/20261103/fernando-romay-baloncesto-olimpico-jubilacion-cotizacion-deportistas-dv-135997511",
+    "pubDate": "2026-11-03 08:20:55",
+    "category": "",
+    "description": "<h2>El gallego, ganador de la medalla de plata en Los Ángeles'84, explica la vulnerabilidad y la falta de apoyo institucional que sufren numerosos atletas olímpicos cuando se retiran</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261014/seguridad-social-reconocera-anos-cotizacion-antiguos-deportistas-25-diciembre-dv-135320329\"><a href=\"https://www.elperiodico.com/es/deportes/20260318/fernando-romay-deportistas-pudieron-cotizar-119826475\" >La Seguridad Social reconocerá años de cotización a antiguos deportistas profesionales desde el próximo 25 de diciembre</a></a></h2><h2><a href=\"https://www.elperiodico.com/es/deportes/20260318/fernando-romay-deportistas-pudieron-cotizar-119826475\">Fernando Romay y los deportistas que no pudieron cotizar: \"Si tenía que llevar a mi hijo al hospital público, sabía que me llegaría una factura\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Midterms 2026, elecciones en Estados Unidos, en directo: encuestas, sondeos y última hora de las votaciones y Trump",
+    "link": "https://www.elperiodico.com/es/internacional/20261103/midterms-2026-elecciones-estados-unidos-ultima-hora-directo-136000005",
+    "pubDate": "2026-11-03 08:20:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20261103/encuestas-elecciones-estados-unidos-2026-sondeos-eeuu-129673684\" target=\"_blank\">Encuestas de las elecciones en Estados Unidos 2026: así están los sondeos sobre Trump y las Midterm</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Dos niños de 6 años prueban el nuevo menú infantil japonés de Nomo: esto es lo que ha pasado",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20261103/nomo-kids-menu-infantil-135761565",
+    "pubDate": "2026-11-03 08:14:19",
+    "category": "",
+    "description": "<h2 class=\"item\">El restaurante nipón estrena Nomo Kids, una propuesta que convierte la gastronomía del país oriental en un juego</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/20230601/ninos-restaurantes-gastronomicos-117863758\" target=\"_blank\">¿Tienen sitio los niños en los restaurantes gastronómicos?</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20261007/restaurante-nimi-barcelona-street-food-japones-135094031\" target=\"_blank\">Grupo Nomo crece con Nimi, el 'hermano pequeño' de la familia</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Атака на Дніпро: кількість поранених зросла до 15",
+    "link": "https://ua.korrespondent.net/city/dnepr/4925630-ataka-na-dnipro-kilkist-poranenykh-zrosla-do-15",
+    "pubDate": "2026-11-03 08:13:00",
+    "category": "Дніпро",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4622093.jpg\">Троє людей перебувають у важкому стан. Пошуково-рятувальну операцію ускладнює постійна загроза повторних ударів.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Barcelona cierra 11 supermercados 24 horas por fraude eléctrico y plagas en una macroinspección en Gràcia: \"Expulsan al comercio tradicional\"",
+    "link": "https://www.elperiodico.com/es/barcelona/20261103/barcelona-cierra-11-supermercados-24-horas-fraude-electrico-plagas-macroinspeccion-gracia-espulsan-comercio-tradicional-136002600",
+    "pubDate": "2026-11-03 08:00:32",
+    "category": "",
+    "description": "<h2>El Ayuntamiento procede a ceses cautelares tras detectar 242 infracciones en un operativo de Guardia Urbana, Inspecció del Treball, Hacienda, Endesa y la Policía Nacional</h2><h2>CONTEXTO | <a href=\"https://www.elperiodico.com/es/barcelona/20260520/barcelona-suspende-nuevas-licencias-supermercados-24h-130437936\">Barcelona suspende la apertura de nuevos supermercados 24 horas durante un año para regularlos</a></h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Зустріли оваціями: Баварія привітала Кейна із ЗМ",
+    "link": "https://ua.korrespondent.net/sport/football/4925558-zustrily-ovatsiiamy-bavariia-pryvitala-keina-iz-zm",
+    "pubDate": "2026-11-03 07:59:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4621363.jpg\">Заповнена трибуна Альянц Арени гучними оплесками зустріла зіркового форварда Баварії після церемонії вручення нагороди.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "На Рівненщині росіяни пошкодили підстанцію Укренерго",
+    "link": "https://ua.korrespondent.net/ukraine/4925627-na-rivnenschyni-rosiiany-poshkodyly-pidstantsiui-ukrenerho",
+    "pubDate": "2026-11-03 07:56:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4622072.jpg\">У ніч проти 3 листопада російська армія атакувала Рівненську область і пошкодила там підстанцію.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Tráfico y transporte público en Barcelona y Catalunya, en directo: retenciones, accidentes e incidencias en Rodalies",
+    "link": "https://www.elperiodico.com/es/barcelona/20261103/trafico-barcelona-cataluna-hoy-directo-rodalies-133938712",
+    "pubDate": "2026-11-03 07:55:00",
+    "category": "",
+    "description": "<h2>Directo | <a href=\"https://www.elperiodico.com/es/sociedad/20261029/accidente-tren-toledo-victimas-reacciones-yebenes-urda-ultima-hora-directo-135832237\" target=\"_blank\">Accidente de trenes en Toledo: fallecidos, heridos y desaparecidos tras el choque entre un Iryo y un AVE</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Becca Levy, psicóloga, sobre aceptar las canas: \"Cuando las personas internalizan imágenes positivas sobre el envejecimiento, tienden a vivir más y en mejor estado\"",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20261103/psicologos-coinciden-no-tenirse-canas-mejor-salud-mental-dv-135913366",
+    "pubDate": "2026-11-03 07:55:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Aliviar la presión de mantener una imagen fija puede conllevar una reducción del estrés y una mejora en la salud mental</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/salud/20260910/psicologos-levantar-voz-dominante-discusion-seguridad-dv-131066028\">Gritar no es sinónimo de poder: Esto es lo que realmente revela la psicología sobre quienes elevan el tono</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "РФ атакувала об'єкти енергетики на Житомирщині",
+    "link": "https://ua.korrespondent.net/ukraine/4925621-rf-atakuvala-obiekty-enerhetyky-na-zhytomyrschyni",
+    "pubDate": "2026-11-03 07:42:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4622038.jpg\">Через нічний російський удар по енергетиці знеструмлено близько 130 населених пунктів області.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Vídeo | El futbolista del Tenerife Jesús de Miguel empeora neurológicamente tras chocar con el portero del Andorra Owono",
+    "link": "https://www.elperiodico.com/es/deportes/20261103/futbolista-tenerife-jesus-miguel-empeora-136015456",
+    "pubDate": "2026-11-03 07:41:53",
+    "category": "",
+    "description": "<h2>El delantero está ingresado en la UCI del Hospital Universitario Nuestra Señora de Candelaria de Santa Cruz de Tenerife</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Тренер Шахтаря оцінив суперника та шанси команди на перемогу",
+    "link": "https://ua.korrespondent.net/sport/football/4925619-trener-shakhtaria-otsinyv-supernyka-ta-shansy-komandy-na-peremohu",
+    "pubDate": "2026-11-03 07:33:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4622037.jpg\">Наставник налаштований максимально рішуче та обіцяє безкомпромісну боротьбу проти португальського гранда.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los chefs de Madrid nos dan calabazas: platos que muestran lo versátil que es esta hortaliza",
+    "link": "https://www.elperiodico.com/es/gastronomia/20261103/mejores-platos-calabaza-madrid-136014477",
+    "pubDate": "2026-11-03 07:30:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Desde estrellas Michelin a restaurantes exóticos: el naranja está de moda</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/20221025/tres-recetas-calabaza-perfectas-otono-77644360\">3 recetas con calabaza perfectas para este otoño</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/recetas/20211026/recetas-calabaza-divertidas-halloween-alain-guiard-12387237\">Qué hacer con una calabaza en la cocina</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Події у будинку під Києвом: Буданов зробив заяву",
+    "link": "https://ua.korrespondent.net/ukraine/4925617-podii-u-budynku-pid-kyievom-budanov-zrobyv-zaiavu",
+    "pubDate": "2026-11-03 07:18:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4622016.jpg\">Очільник Офісу президента  заявив про підготовку рішень після подій у Петропавлівській Борщагівці на Київщині.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Ексзірка АПЛ підкорив Нью-Йоркський марафон",
+    "link": "https://ua.korrespondent.net/sport/football/4925551-ekszirka-apl-pidkoryv-nui-yorkskyi-marafon",
+    "pubDate": "2026-11-03 07:14:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4621339.jpg\">Відомий футболіст випробував свої сили на марафонській дистанції в США, отримавши потужну підтримку від уболівальників під час забігу.",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La Policía desaloja de madrugada la acampada de Sol tras más de un mes de 'sentada': dos detenidos por resistencia",
+    "link": "https://www.elperiodico.com/es/sociedad/20261103/policia-desaloja-acampada-sol-detenidos-136015077",
+    "pubDate": "2026-11-03 07:13:00",
+    "category": "",
+    "description": "<h2>Unos 300 acampados se encontraban en la plaza cuando los agentes han intervenido: los manifestantes denuncian golpes, mientras que la Delegación del Gobierno defiende que el operativo se ha desarrollado \"sin violencia\"</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Гороскоп на 3 листопада 2026 року для всіх знаків зодіаку",
+    "link": "https://ua.korrespondent.net/lifestyle/4925460-horoskop-na-3-lystopada-2026-roku-dlia-vsikh-znakiv-zodiaku",
+    "pubDate": "2026-11-03 07:06:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4620961.jpg\">Вівторок, 3 листопада 2026 року, вимагатиме уважності до деталей і вміння поєднувати рішучість із розсудливістю.",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La voz",
+    "link": "https://www.elperiodico.com/es/tele/20261103/voz-sergi-mas-136006499",
+    "pubDate": "2026-11-03 07:00:14",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ford imagina un coche que se mueve solo para dejar a los ladrones con las manos vacías",
+    "link": "https://www.elperiodico.com/es/motor/20261103/ford-imagina-coche-mueve-ladrones-135921753",
+    "pubDate": "2026-11-03 07:00:05",
+    "category": "",
+    "description": "<h2>Una patente de la marca plantea que el vehículo pueda cambiar de aparcamiento e incluso modificar su posición para ponérselo más difícil a los delincuentes</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los mejores restaurantes para saborear los mercados de Barcelona",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20261103/mejores-restaurantes-mercados-barcelona-93142786",
+    "pubDate": "2026-11-03 07:00:00",
+    "category": "",
+    "description": "<h2 class=\"item\">En estos sitios trabajan con los productos de la mejor calidad que venden los puestos vecinos</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/cata-mayor/restaurantes/20230601/buenos-restaurantes-mercado-boqueria-barcelona-83158027\" >Buenos restaurantes de la Boqueria donde reponer fuerzas</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/cata-mayor/restaurantes/20230628/buenos-restaurantes-cocina-catalana-barcelona-83016258\" >Grandes restaurantes para 'descubrir' la cocina catalana</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Нецензурна лайка Ярмоленка потрапила на камери",
+    "link": "https://ua.korrespondent.net/sport/football/4925611-netsenzurna-laika-yarmolenka-potrapyla-na-kamery",
+    "pubDate": "2026-11-03 06:58:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4621992.jpg\">Ярмоленко не лише переписав історію українського футболу, а й опинився в центрі гучного епізоду, потрапивши в об'єктиви камер із нецензурною лексикою.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Авіаудари РФ по Комишувасі: зросла кількість загиблих",
+    "link": "https://ua.korrespondent.net/ukraine/4925612-aviaudary-rf-po-komyshuvasi-zrosla-kilkist-zahyblykh",
+    "pubDate": "2026-11-03 06:55:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4621993.jpg\">Продовжуються пошуково-рятувальні роботи. Рятувальники намагаються знайти людей, які досі вважаються зниклими безвісти.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "El tráfico y el transporte público, en directo",
+    "link": "https://www.elperiodico.com/es/trafico-y-transportes/20261103/trafico-transporte-publico-directo-cortes-134053870",
+    "pubDate": "2026-11-03 06:40:00",
+    "category": "",
+    "description": "",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Carlo Pernat: “Márquez viene de Marte y ustedes aún no lo saben”",
+    "link": "https://www.elperiodico.com/es/deportes/20261103/carlo-pernat-marquez-viene-marte-136013185",
+    "pubDate": "2026-11-03 06:31:35",
+    "category": "",
+    "description": "<h2 class=\"item\">A Marc Márquez (Ducati) únicamente le resta poner el broche de oro a otra, una más, temporada apoteósica. Puede que lo haga este mismo fin de semana en la noche de Doha, Catar, o puede que sea en Portimao (Portugal). Es evidente que, a Valencia, llegará ya con diez títulos mundiales en su bolsillo. Se los ha trabajado y los merece.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Скандал у Франції: поліція розслідує підозрілі ставки на Золотий м'яч",
+    "link": "https://ua.korrespondent.net/sport/football/4925538-skandal-u-frantsii-politsiia-rozsliduie-pidozrili-stavky-na-zolotyi-miach",
+    "pubDate": "2026-11-03 06:31:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4621111.jpg\">Правоохоронні органи Франції розпочали розслідування через аномальні ставки на точну першу п’ятірку номінантів Золотого м'яча.",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El día en que Hamilton y Verstappen levantaron a hombros al niño Antonelli",
+    "link": "https://www.elperiodico.com/es/deportes/20261103/dia-hamilton-verstappen-levantaron-hombros-136012906",
+    "pubDate": "2026-11-03 06:30:33",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Росіяни вдруге за день вдарили по Дніпру: є поранені",
+    "link": "https://ua.korrespondent.net/city/dnepr/4925607-rosiiany-vdruhe-za-den-vdaryly-po-dnipru-ye-poraneni",
+    "pubDate": "2026-11-03 06:25:00",
+    "category": "Дніпро",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4621946.jpg\">Війська РФ завдали ударів по місту, внаслідок чого пошкоджені будинки та є поранені серед населення.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Генштаб назвав втрати Росії станом на 3 листопада",
+    "link": "https://ua.korrespondent.net/ukraine/4925605-henshtab-nazvav-vtraty-rosii-stanom-na-3-lystopada",
+    "pubDate": "2026-11-03 06:15:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4621941.jpg\">Минулої доби ЗСУ ліквідували 2060 окупантів. Знищено чотири бронемашини, 39 артсистем, одну РСЗВ, чотири НРК і 1413 дронів.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "EEUU decide en las urnas si pone límites a Trump o alarga dos años más su 'presidencia imperial'",
+    "link": "https://www.elperiodico.com/es/internacional/20261103/eeuu-decide-urnas-pone-limites-trump-alarga-2-anos-mas-presidencia-imperial-136014710",
+    "pubDate": "2026-11-03 06:01:05",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20261103/midterms-2026-elecciones-estados-unidos-ultima-hora-directo-136000005\" >Midterms 2026, elecciones en Estados Unidos, en directo: encuestas, sondeos y última hora de las votaciones y Trump</a></h2><h2>El Partido Demócrata sueña con una ola azul para recuperar el control del Congreso y modificar el rumbo del país</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Flick sostiene que tiene en sus manos un Barça \"para hacer historia\"",
+    "link": "https://www.elperiodico.com/es/deportes/20261103/flick-sostiene-manos-barca-historia-136007112",
+    "pubDate": "2026-11-03 06:00:59",
+    "category": "",
+    "description": "<h2 class=\"item\">El Barça reaccionó con una goleada en la Liga y ahora espera reparar la derrota de París ante el Aston Villa, que ha ganado los tres partidos europeos</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20261102/anthony-gordon-futbolista-lee-relajarse-135999793\">Anthony Gordon, el futbolista que lee para relajarse</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El PP potencia la \"experiencia\" como \"gestor\" de Feijóo: \"En eso no nos van a adelantar ni Sánchez ni Abascal\"",
+    "link": "https://www.elperiodico.com/es/politica/20261103/pp-potencia-experiencia-gestor-feijoo-136008377",
+    "pubDate": "2026-11-03 06:00:54",
+    "category": "",
+    "description": "<h2>La dirección del Partido Popular retoma la precampaña con una intensa agenda mediática de Feijóo, que tira de su currículum como gobernante como reclamo electoral </h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Unai Emery, el nuevo rey de Birmingham que hizo llorar al Príncipe de Gales",
+    "link": "https://www.elperiodico.com/es/deportes/20261103/unai-emery-nuevo-rey-aston-villa-barcelona-136008333",
+    "pubDate": "2026-11-03 06:00:54",
+    "category": "",
+    "description": "<h2 class=\"item\">El técnico guipuzcoano dirige a un Aston Villa que la temporada pasada ganó su primer gran título en 44 años, la Europa League</h2><h2 class=\"item\">El heredero de la corona británica es un ferviente aficionado del equipo que visita esta noche el Camp Nou</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Gobierno prepara medidas de seguridad ferroviaria y 10 millones en ayudas a las víctimas del accidente de Urda",
+    "link": "https://www.elperiodico.com/es/politica/20261103/gobierno-medidas-seguridad-ferroviaria-ayudas-136006884",
+    "pubDate": "2026-11-03 06:00:47",
+    "category": "",
+    "description": "<h2>Los sindicatos de maquinistas exigen nuevos protocolos y regular los sistemas de seguridad, mientras socios parlamentarios presionan para elevar la inversión</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20261103/accidente-trenes-toledo-urda-ave-iryo-hoy-ultima-hora-directo-135890234\" target=\"_blank\">Accidente de trenes en Toledo, hoy en directo | Última hora y noticias de la investigación, muertos y heridos</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Los chubascos más intensos llegan a Catalunya, obligan a reactivar los planes frente a inundaciones y provocan un desplome en los termómetros",
+    "link": "https://www.elperiodico.com/es/sociedad/20261103/martes-cataluna-avisos-lluvia-inundaciones-bajada-temperaturas-136004112",
+    "pubDate": "2026-11-03 06:00:46",
+    "category": "",
+    "description": "<h2 class=\"item\">El Servei Meteorològic de Catalunya mantiene activados avisos naranja por chubascos torrenciales en la zona de Garraf, Baix Penedès y Tarragonès como mínimo hasta el mediodía, aunque todo apunta a que las lluvias seguirán también de cara a la tarde </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261102/costa-barcelona-tarragona-aviso-lluvias-meteocat-aemet-135993530\">Catalunya activa la fase de alerta de su plan frente a inundaciones ante las intensas lluvias previstas en la costa de Barcelona y Tarragona</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Millones en influencia política y amenazas de fuga: los magnates tecnológicos maniobran para hacer descarrilar un nuevo impuesto para los ultrarricos en California",
+    "link": "https://www.elperiodico.com/es/internacional/20261103/california-impuesto-ricos-zuckerberg-facebook-instagram-135613476",
+    "pubDate": "2026-11-03 06:00:29",
+    "category": "",
+    "description": "<h2>El estado vota este martes una iniciativa impulsada por un sindicato sanitario que plantea una tasa única del 5% a las grandes fortunas para recaudar hasta 100.000 millones que se destinarán a financiar los servicios públicos</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Anna Catalan, psiquiatra: \"Los errores en la medicación provocan que personas mayores acaben en la UCI\"",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20261103/anna-catalan-psiquiatra-errores-medicacion-135544533",
+    "pubDate": "2026-11-03 06:00:26",
+    "category": "",
+    "description": "<h2 class=\"item\">\"Las farmacéuticas no investigan con personas de esta edad, quieren que el fármaco no dé problemas\"</h2><h2 class=\"item\">\"Los médicos de primaria van desbordados y no coordinan la medicación\"</h2><h2 class=\"item\">\"Entre lo que les han prescrito a las personas mayores y lo que toman va un mundo\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Aparcar un coche y una moto en la misma plaza no es ilegal por sí mismo: esto es lo que dice la Ley de Propiedad Horizontal",
+    "link": "https://www.elperiodico.com/es/motor/20261103/aparcar-coche-moto-plaza-ilegal-135916256",
+    "pubDate": "2026-11-03 06:00:22",
+    "category": "",
+    "description": "<h2>Compartir una plaza de garaje entre un coche y una moto puede ser posible, pero hay algunas condiciones que conviene conocer antes de tener problemas con los vecinos</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Gobierno despliega un escudo jurídico para blindar el decreto de centros de datos frente a la ofensiva de las tecnológicas",
+    "link": "https://www.elperiodico.com/es/economia/20261103/centros-de-datos-gobierno-despliega-escudo-juridico-tecnologicas-decreto-135927662",
+    "pubDate": "2026-11-03 06:00:21",
+    "category": "",
+    "description": "<h2 class=\"item\">El Ejecutivo refuerza al máximo los argumentos jurídicos en la documentación oficial de la nueva versión de la normativa para tumbar las dudas sobre su legalidad que denuncian los gigantes de los ‘data centers’ para tumbarla</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Encuestas de las elecciones generales en España 2026: así están los sondeos",
+    "link": "https://www.elperiodico.com/es/politica/20261103/encuestas-elecciones-generales-espana-sondeos-12274406",
+    "pubDate": "2026-11-03 06:00:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20261004/encuestas-elecciones-cataluna-sondeos-catalunya-124137879\" target=\"_blank\">Encuestas de las elecciones en Catalunya: así están los sondeos</a></h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20261103/encuestas-elecciones-estados-unidos-2026-sondeos-eeuu-129673684\" target=\"_blank\">Encuestas de las elecciones en Estados Unidos 2026: así están los sondeos sobre Trump y las 'midterm'</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Encuestas de las elecciones en Estados Unidos 2026: así están los sondeos sobre Trump y las 'midterm'",
+    "link": "https://www.elperiodico.com/es/internacional/20261103/encuestas-elecciones-estados-unidos-2026-sondeos-eeuu-129673684",
+    "pubDate": "2026-11-03 06:00:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20261103/midterms-2026-elecciones-estados-unidos-ultima-hora-directo-136000005\" >Midterms 2026, elecciones en Estados Unidos, en directo: encuestas, sondeos y última hora de las votaciones y Trump</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261103/encuestas-elecciones-generales-espana-sondeos-12274406\" target=\"_blank\">Encuestas de las elecciones generales en España: así están los sondeos</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261004/encuestas-elecciones-cataluna-sondeos-catalunya-124137879\" target=\"_blank\">Encuestas de las elecciones en Catalunya: así están los sondeos</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Підсумки 2.11:удар по Комишувасі, події під Києвом",
+    "link": "https://ua.korrespondent.net/ukraine/4925590-pidsumky-211udar-po-komyshuvasi-podii-pid-kyievom",
+    "pubDate": "2026-11-03 05:56:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4621720.jpg\">РФ обстріляла укриття в Комишувасі: 18 загиблих. Події в Петропавлівській Борщагівці: заява Азова. Кореспондент.net виділяє головні події вчорашнього дня.",
+    "topic": "підсумки (за попередній день, наприклад)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "РФ атакувала медзаклад Харкова: понад 60 поранених",
+    "link": "https://ua.korrespondent.net/city/kharkov/4925602-rf-atakuvala-medzaklad-kharkova-ponad-60-poranenykh",
+    "pubDate": "2026-11-03 05:49:00",
+    "category": "Харків",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4621912.jpg\">Російський удар пошкодив будівлю одного з медвідділень та вікна чотирьох сусідніх багатоповерхівок.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Зеленський: Україна зламала систему оповіщення РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4925600-zelenskyi-ukraina-zlamala-systemu-opovischennia-rf",
+    "pubDate": "2026-11-03 05:24:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4621888.jpg\">Атака на російську систему стала відповіддю на дії росіян: кібератаку на застосунок Тривога, зауважив президент.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "В РФ атаковано один з п'яти найбільших НПЗ",
+    "link": "https://ua.korrespondent.net/world/russia/4925598-v-rf-atakovano-odyn-z-piaty-naibilshykh-npz",
+    "pubDate": "2026-11-03 04:59:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4621864.jpg\"> Славнєфть-ЯНОС на Московському проспекті загорівся під час атаки безпілотників на Ярославську область.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Трамп розглядає три сценарії щодо Ірану - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4925596-tramp-rozghliadaie-try-stsenarii-schodo-iranu-zmi",
+    "pubDate": "2026-11-03 04:38:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4621843.jpg\">Урядовці з адміністрації президента США розділилися в поглядах на те, чи слід продовжувати конфлікт із Тегераном.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "РФ атакувала Дніпро, Вінничину й Харків балістикою",
+    "link": "https://ua.korrespondent.net/ukraine/4925594-rf-atakuvala-dnipro-vinnychynu-y-kharkiv-balistykoui",
+    "pubDate": "2026-11-03 03:34:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4621782.jpg\">Російські агресори вдарили по Харкову разом балістичними ракетами та керованими авіабомбами.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Медіа: США звернуться до НАТО щодо зброї для Києва",
+    "link": "https://ua.korrespondent.net/world/worldabus/4925592-media-ssha-zvernutsia-do-nato-schodo-zbroi-dlia-kyieva",
+    "pubDate": "2026-11-03 02:47:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4621741.jpg\">Прохання про додаткове фінансування в рамках Альянсу може надійти вже цього місяця, заявили джерела Bloomberg.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
     "title": "Antoni López: «Un actuario ayuda a que las promesas de hoy puedan cumplirse mañana»",
     "link": "https://www.elperiodico.com/es/sociedad/20261103/antoni-lopez-actuario-ayuda-promesas-bc-135636477",
     "pubDate": "2026-11-03 01:59:14",
