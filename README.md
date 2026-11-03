@@ -1,8 +1,13 @@
-# News for 2026-11-03 17:31
+# News for 2026-11-03 22:15
 
 Previous day: [2026-11-02](./data/2026-11-02.md)
 
 ## ua.korrespondent.net
+21:31 [Нацбанк прокоментував рекордний курс долара](https://ua.korrespondent.net/business/financial/4925867-natsbank-prokomentuvav-rekordnyi-kurs-dolara)<br>
+20:20 [РФ атакувала важливий для Хмельницької АЕС об’єкт](https://ua.korrespondent.net/ukraine/4925850-rf-atakuvala-vazhlyvyi-dlia-khmelnytskoi-aes-obiekt)<br>
+19:57 [Масштабний злам Beget: хмарну інфраструктуру стерто](https://ua.korrespondent.net/world/russia/4925844-masshtabnyi-zlam-Beget-khmarnu-infrastrukturu-sterto)<br>
+19:33 [У ПС відзвітували про відбиття денної атаки Росії](https://ua.korrespondent.net/ukraine/4925835-u-ps-vidzvituvaly-pro-vidbyttia-dennoi-ataky-rosii)<br>
+18:20 [Федоров пояснив руйнування підземної школи в Комишувасі](https://ua.korrespondent.net/ukraine/4925817-fedorov-poiasnyv-ruinuvannia-pidzemnoi-shkoly-v-komyshuvasi)<br>
 17:01 [Словник Collins обрав найважливіше слово року](https://ua.korrespondent.net/world/4925781-slovnyk-Collins-obrav-naivazhlyvishe-slovo-roku)<br>
 16:53 [Доньки Бреда Пітта остаточно розірвали зв'язки з батьком](https://ua.korrespondent.net/lifestyle/4925777-donky-breda-pitta-ostatochno-rozirvaly-zviazky-z-batkom)<br>
 16:49 [Промисловість України у вересні просіла на 9,2%](https://ua.korrespondent.net/business/economics/4925798-promyslovist-ukrainy-u-veresni-prosila-na-92)<br>
@@ -37,6 +42,13 @@ Previous day: [2026-11-02](./data/2026-11-02.md)
 14:07 [Pedro Martínez lo confirma: Campazzo se cae, vuelve Smith Jr](https://as.com/baloncesto/euroliga/pedro-martinez-lo-confirma-campazzo-se-cae-vuelve-smith-jr-f202611-n/)<br>
 
 ## www.elperiodico.com
+20:28 [Llegan a España las primeras pastillas de la 'familia Ozempic' para perder peso](https://www.elperiodico.com/es/sanidad/20261103/wegovy-primeras-pastillas-perder-peso-familia-ozempic-llegan-espana-136053794)<br>
+20:02 [La medusa china de agua dulce y 400 tentáculos reaparece en un embalse de Catalunya](https://www.elperiodico.com/es/sociedad/20261103/medusa-china-agua-dulce-tentaculos-cataluna-embalse-136051763)<br>
+19:18 [Cristina Fernández Cubas, maestra del cuento contemporáneo, gana el Premio Cervantes 2026](https://www.elperiodico.com/es/ocio-y-cultura/20261103/cristina-fernandez-cubas-gana-cervantes-136048071)<br>
+19:16 [Imágenes del clima esta tarde en Barcelona](https://www.elperiodico.com/es/fotos/sociedad/imagenes-clima-tarde-barcelona-136052247)<br>
+19:01 [El francés Philippe Jaenada gana el Goncourt con la historia real de una modelo asesinada junto al Sena en 1949](https://www.elperiodico.com/es/ocio-y-cultura/20261103/frances-philippe-jaenada-gana-goncourt-136051350)<br>
+17:51 [Tiempo en Catalunya mañana miércoles: tregua de las lluvias y ligero repunte térmico antes de la nueva borrasca](https://www.elperiodico.com/es/tiempo/20261103/tiempo-cataluna-manana-miercoles-4-noviembre-vortice-polar-lluvia-dv-loc-136044627)<br>
+17:33 [La cadena del frío](https://www.elperiodico.com/es/opinion/20261103/cadena-frio-congeladores-ciberataques-articulo-josep-maria-fonalleras-136045149)<br>
 17:06 [El MNAC propone a Aragón empezar a trasladar las pinturas profanas de Sijena el 17 de noviembre](https://www.elperiodico.com/es/ocio-y-cultura/20261103/mnac-traslado-sijena-pinturas-profanas-136044090)<br>
 17:05 [Francia y España frente al espejo](https://www.elperiodico.com/es/opinion/20261103/francia-espana-frente-espejo-economia-articulo-carme-poveda-136044311)<br>
 17:00 [Deutsche Bank no ve una “eliminación generalizada de empleos” por la IA, pero advierte de un cambio en la demanda laboral](https://www.elperiodico.com/es/economia/20261103/deutsche-bank-descarta-eliminacion-empleo-ia-136042243)<br>
