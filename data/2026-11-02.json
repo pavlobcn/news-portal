@@ -1,5 +1,32 @@
 [
   {
+    "title": "¿Cómo es tu relación con el dinero, más allá de cuánto tienes?",
+    "link": "https://www.elperiodico.com/es/economia/20261102/relacion-dinero-tienes-bc-136013490",
+    "pubDate": "2026-11-02 23:59:31",
+    "category": "",
+    "description": "<h2>La riqueza no depende solo de una cifra. También tiene que ver con la tranquilidad para mirar al futuro, la libertad para elegir y la capacidad de poner el patrimonio al servicio de la vida que queremos disfrutar</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Apple cierra su ejercicio fiscal con beneficio de 132.175 millones, un 18 % más interanual",
+    "link": "https://www.elperiodico.com/es/economia/20261102/apple-cierra-ejercicio-fiscal-beneficio-136013414",
+    "pubDate": "2026-11-02 23:58:55",
+    "category": "",
+    "description": "<h2>El director ejecutivo, John Ternus, califica este periodo como el mejor de la historia de la empresa, destacando el lanzamiento de nuevos dispositivos y la integración de Siri AI</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Києві впали уламки безпілотника: сталася пожежа",
+    "link": "https://ua.korrespondent.net/city/kiev/4925580-u-kyievi-vpaly-ulamky-bezpilotnyka-stalasia-pozhezha",
+    "pubDate": "2026-11-02 23:57:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4621553.jpeg\">Уламки безпілотника впали на відкритій території в Дарницькому районі, повідомив київський міський голова.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
     "title": "La Línea 2 de metro se quedará sin servicio entre La Pau y Gorg desde este lunes al 3 de diciembre",
     "link": "https://www.elperiodico.com/es/barcelona/20261102/metro-linea-2-corte-gorg-la-pau-incidencia-sant-adria-sant-roc-135877516",
     "pubDate": "2026-11-02 23:53:00",
@@ -9,11 +36,209 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Командувач Азову зробив заяву про події під Києвом",
+    "link": "https://ua.korrespondent.net/ukraine/4925578-komanduvach-azovu-zrobyv-zaiavu-pro-podii-pid-kyievom",
+    "pubDate": "2026-11-02 23:35:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4621532.jpg\">Підрозділи корпусу перебувають на передовій і цілодобово виконують бойові завдання, наголосив Денис Прокопенко.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Un toro y un burro macho de Etiopía mantienen una relación afectiva y sexual inédita: \"más que una monta\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261102/toro-burro-macho-etiopia-mantienen-136012784",
+    "pubDate": "2026-11-02 23:18:50",
+    "category": "",
+    "description": "<h2 class=\"item\">Un estudio publicado en 'Current Biology' documenta 51 episodios de monta entre ambos animales en Etiopía y destaca el vínculo afectivo que mantienen, pese a disponer de otras parejas potenciales</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Німеччина й Британія шукають для України ракети до Patriot",
+    "link": "https://ua.korrespondent.net/world/worldabus/4925574-nimechchyna-y-brytaniia-shukauit-dlia-ukrainy-rakety-do-Patriot",
+    "pubDate": "2026-11-02 22:59:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4621490.jpg\">Обидві країни прагнуть розробити план для інших партнерів до засідання Рамштайн 17 листопада в Брюсселі.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Сутички та двовладдя. Політична криза в Польщі",
+    "link": "https://ua.korrespondent.net/world/4925575-sutychky-ta-dvovladdia-politychna-kryza-v-polschi",
+    "pubDate": "2026-11-02 22:57:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4621491.jpg\">Протистояння навколо трибуналу є відображенням ширшої політичної війни між правоцентристською Громадянською платформою Туска та консервативною ПіС Ярослава Качинського.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Un pacto económico entre familias evita que se investigue la difusión de fotos íntimas de una menor",
+    "link": "https://www.elperiodico.com/es/sucesos/20261102/pacto-economico-familias-evita-investigue-136007094",
+    "pubDate": "2026-11-02 22:50:15",
+    "category": "",
+    "description": "<h2 class=\"item\">La chica y sus padres no querían acudir a los tribunales y una abogada ha conseguido alcanzar un acuerdo con el entorno de los chicos que redistribuyeron el material sin consentimiento</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "В МВС оголосили розслідування скандалу під Києвом",
+    "link": "https://ua.korrespondent.net/ukraine/4925570-v-mvs-oholosyly-rozsliduvannia-skandalu-pid-kyievom",
+    "pubDate": "2026-11-02 22:38:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4621468.jpg\">Будівля, де були виявлені люди, використовувалася військовослужбовцями одного з підрозділів Національної гвардії України.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La portada de EL PERIÓDICO del 3 de noviembre de 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20261102/portada-periodico-2-noviembre-2026-135986239",
+    "pubDate": "2026-11-02 22:33:00",
+    "category": "",
+    "description": "",
+    "topic": "portada de EL PERIÓDICO",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Миколенко в АПЛ зіграв найбільше матчів серед українців",
+    "link": "https://ua.korrespondent.net/sport/football/4925568-mykolenko-v-apl-zihrav-naibilshe-matchiv-sered-ukraintsiv",
+    "pubDate": "2026-11-02 22:17:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4621427.jpg\">Український гравець обійшов всіх інших українців, які будь-коли виступали або нині виступають у чемпіонаті Англії.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Проміжні вибори в США. Розклади перед стартом",
+    "link": "https://ua.korrespondent.net/world/4925571-promizhni-vybory-v-ssha-rozklady-pered-startom",
+    "pubDate": "2026-11-02 22:04:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4621469.jpg\">Головним чинником невдоволення американських виборців залишається зростання вартості життя та стрімке подорожчання пального на тлі військових дій США та Ізраїлю проти Ірану.",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los grupos de animación vuelven al Camp Nou para el partido ante Aston Villa",
+    "link": "https://www.elperiodico.com/es/deportes/20261102/grada-animacio-fc-barcelona-camp-nou-aston-villa-136004519",
+    "pubDate": "2026-11-02 22:02:40",
+    "category": "",
+    "description": "<h2>El FC Barcelona levanta la suspensión temporal, pero advierte de que mantendrá la vigilancia sobre el comportamiento de los seguidores más ruidosos del campo</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Guerra fría en el hockey sobre hielo contra Rusia: Suecia, Finlandia, Canadá, Chequia y Alemania se plantan tras su readmisión en el Mundial",
+    "link": "https://www.elperiodico.com/es/deportes/20261102/programada-guerra-fria-hockey-hielo-136012317",
+    "pubDate": "2026-11-02 22:01:18",
+    "category": "",
+    "description": "<h2>Los teutones se plantean no organizar el torneo y los demás bloquearán la entrada de atletas rusos a sus países</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Події в Петропавлівській Борщагівці: заява Азова",
+    "link": "https://ua.korrespondent.net/ukraine/4925564-podii-v-petropavlivskii-borschahivtsi-zaiava-azova",
+    "pubDate": "2026-11-02 21:54:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4621405.jpg\">У корпусі засудили будь-які неправомірні дії щодо військовослужбовців Нацгвардії та заявили, що життя і здоров’я особового складу є пріоритетом як на фронті, так і в тилу.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Hansi Flick, Judit Subirachs y la Granja Viader reciben el premio Ramblistes d'Honor",
+    "link": "https://www.elperiodico.com/es/fotos/sociedad/hansi-flick-judit-subirachs-granja-136012105",
+    "pubDate": "2026-11-02 21:39:40",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Полісся офіційно не відпускає свого легіонера до збірної на матч із ворогом",
+    "link": "https://ua.korrespondent.net/sport/football/4925562-polissia-ofitsiino-ne-vidpuskaie-svoho-lehionera-do-zbirnoi-na-match-iz-vorohom",
+    "pubDate": "2026-11-02 21:31:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4621362.jpg\">Житомирський клуб ужив жорстких заходів протидії можливій участі Андрусва Араухо у складі збірної Венесуели в матчі з росіянами.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "¿Qué puede pasar si Trump pierde el control del Congreso en los dos últimos años de su mandato?",
+    "link": "https://www.elperiodico.com/es/internacional/20261102/que-pasara-trump-pierde-control-congreso-elecciones-midterm-2026-136012007",
+    "pubDate": "2026-11-02 21:30:16",
+    "category": "",
+    "description": "<h2>Los demócratas preparan una ambiciosa agenda con iniciativas legislativas y potenciales investigaciones contra el presidente y su entorno en caso de que recuperen el control del Senado y la Cámara de Representantes</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ni cabina ni conductor, así es el camión autónomo que ya lleva mercancías a Lidl",
+    "link": "https://www.elperiodico.com/es/motor/20261102/cabina-conductor-camion-autonomo-lleva-135884734",
+    "pubDate": "2026-11-02 21:30:15",
+    "category": "",
+    "description": "<h2>Un vehículo eléctrico sin cabina convencional empieza a repartir mercancías en Alemania sin conductor a bordo</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "На Київщині після обстрілу РФ госпіталізували підлітка",
+    "link": "https://ua.korrespondent.net/ukraine/4925560-na-kyivschyni-pislia-obstrilu-rf-hospitalizuvaly-pidlitka",
+    "pubDate": "2026-11-02 21:27:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4621384.jpg\">Під час російської атаки на Київщину постраждав 15-річний житель Бучанського району. Його доправили до лікарні з пораненням лівої кисті.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Letizia lleva la lucha contra la explotación sexual a la cumbre iberoamericana con la asistencia de Begoña Gómez por confirmar",
+    "link": "https://www.elperiodico.com/es/politica/20261102/reina-letizia-explotacion-sexual-begona-gomez-saunas-cumbre-iberoamericana-136011861",
+    "pubDate": "2026-11-02 21:22:08",
+    "category": "",
+    "description": "<h2 class=\"item\">La Reina decide centrar en esa lacra social el encuentro que ha preparado para las parejas de los mandatarios y mandatarias que acudirán a Madrid a la reunión internacional</h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Hallada por primera vez sangre de dinosaurio: científicos encuentran glóbulos rojos fosilizados hace 115 millones de años",
+    "link": "https://www.elperiodico.com/es/sociedad/20261102/sangre-dinosaurio-hallazgo-globulos-rojos-fosilizados-estudio-136007834",
+    "pubDate": "2026-11-02 21:00:11",
+    "category": "",
+    "description": "<h2 class=\"item\">El hallazgo desafía la creencia de que estos compuestos orgánicos no pueden sobrevivir durante millones de años</h2><h2 class=\"item\">Los expertos afirman que este descubrimiento no solo revolucionará el estudio de los dinosaurios: también podría usarse para acelerar la búsqueda de vida extraterrestre</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20250918/ambar-112-millones-ecuador-sudamerica-estudio-ub-121708123\">Un tesoro de ámbar de 112 millones de años desvela cómo era el mundo cuando los continentes se desgajaban y los dinosaurios reinaban en la Tierra</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El horóscopo de hoy, martes 3 de noviembre: amor, trabajo, dinero y salud para todos los signos del zodíaco",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20261102/horoscopo-hoy-martes-3-noviembre-dv-135842864",
+    "pubDate": "2026-11-02 21:00:11",
+    "category": "",
+    "description": "<h2 class=\"item\">Conoce la suerte de tu horóscopo a partir de los signos del zodíaco, según la astrología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/temas/horoscopo-11990\" >Consulta el horóscopo diario de tu signo de ayer, hoy y mañana</a></h2>",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Новий масований удар: Зеленський назвав цілі РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4925556-novyi-masovanyi-udar-zelenskyi-nazvav-tsili-rf",
+    "pubDate": "2026-11-02 21:00:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4621361.jpg\">Росія готує нову атаку по енергетичній інфраструктурі та логістиці. Водночас уряд готує програму додаткової підтримки для ремонтних бригад, які цілодобово відновлюють пошкоджені об’єкти.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
     "title": "Normalidad anómala",
     "link": "https://www.elperiodico.com/es/opinion/20261102/normalidad-anomala-oscar-puente-articulo-luis-m-alonso-136010865",
     "pubDate": "2026-11-02 20:38:49",
     "category": "",
     "description": "<h2>Puente no se considera un problema, de modo que no tiene motivos para marcharse. El razonamiento es impecable si uno acepta que la permanencia en el cargo depende exclusivamente de la opinión que el titular tenga de sí mismo</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261102/accidente-tren-urda-toledo-dimision-oscar-puente-frente-amplio-junts-135996618\">El Frente Amplio y Junts presionan por la dimisión de Puente y ERC reparte culpas entre PSOE y PP</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Вторгнення Росії в Україну. Онлайн",
+    "link": "https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain",
+    "pubDate": "2026-11-02 20:37:00",
+    "category": "Новини політики",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/2748609.jpg\">Володимир Путін почав повномасштабну війну проти України 24 лютого 2022 року. Не зумівши \"взяти Київ за три дні\", він сконцентрувався на захопленні Донбасу та південних областей України.",
     "topic": "політика",
     "topic_match_probability": 95
   },
@@ -33,6 +258,15 @@
     "category": "",
     "description": "<h2>El hasta ahora secretario de governs locals, Xavier Amor, asumirá este cargo de confianza del president de la Generalitat</h2>",
     "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Карпати виграли у Кудрівки 5:0",
+    "link": "https://ua.korrespondent.net/sport/football/4925552-karpaty-vyhraly-u-kudrivky-50",
+    "pubDate": "2026-11-02 20:33:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4621255.jpg\">Аутсайдер української Прем'єр-ліги протримався весь перший тайм, однак розсипався у другому, дозволивши супернику з вищих позицій забити п’ять голів без відповіді.",
+    "topic": "спорт",
     "topic_match_probability": 100
   },
   {
@@ -142,6 +376,15 @@
     "description": "<h2>Los progresistas aspiran a asestar un duro golpe a Trump en unos comicios legislativos que servirán para renovar los 435 escaños de la Cámara de Representantes y un tercio del Senado, donde se presentan y acuerdan las leyes</h2>",
     "topic": "вибори (але не президента України чи США)",
     "topic_match_probability": 100
+  },
+  {
+    "title": "El Madrid reclama la vuelta de Ndiaye y apuesta por Shulga",
+    "link": "https://as.com/baloncesto/acb/el-madrid-reclama-la-vuelta-de-ndiaye-y-apuesta-por-shulga-f202611-n/",
+    "pubDate": "2026-11-02 19:27:29",
+    "category": "Baloncesto",
+    "description": "El club blanco acaba de pedir oficialmente al Joventut el regreso del ala-pívot, según adelanta el periodista Xavi Ballesteros.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "El Gobierno de Sánchez vuelve a la carga con las pensiones: \"La revalorización será una realidad\"",
@@ -266,6 +509,15 @@
     "pubDate": "2026-11-02 18:56:18",
     "category": "",
     "description": "<h2>El Gastronomic Forum, que se traslada por primera vez a las instalaciones de la Gran Via, muestra las últimas tendencias en cocina y en alimentación</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La jornada del Gastronomic Forum Barcelona en imágenes",
+    "link": "https://www.elperiodico.com/es/fotos/economia/jornada-gastronomic-forum-barcelona-imagenes-136008592",
+    "pubDate": "2026-11-02 18:53:30",
+    "category": "",
+    "description": "",
     "topic": "ресторани, їжа",
     "topic_match_probability": 100
   },
@@ -448,6 +700,15 @@
     "description": "",
     "topic": "спорт",
     "topic_match_probability": 90
+  },
+  {
+    "title": "Війна на Близькому Сході. Онлайн",
+    "link": "https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain",
+    "pubDate": "2026-11-02 17:41:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473659.jpg\">США та Ізраїль проводять масштабну операцію проти Ірану. Тегеран у відповідь атакує військові об'єкти США майже у всіх країнах Перської затоки.",
+    "topic": "політика",
+    "topic_match_probability": 95
   },
   {
     "title": "Поліція повідомила, чи були заручники в Петропавлівській Борщагівці",
@@ -952,6 +1213,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4620792.jpg\">Естонія депортувала громадянина РФ Леоніда Карабєшкіна та заборонила йому в’їзд до Шенгенської зони. Причиною стали його контакти з російськими розвідувальними структурами та мережами впливу.",
     "topic": "політика",
     "topic_match_probability": 80
+  },
+  {
+    "title": "El Baskonia, cerca de fichar a Zach Perrin",
+    "link": "https://as.com/baloncesto/el-baskonia-cerca-de-fichar-a-zach-perrin-f202611-n/",
+    "pubDate": "2026-11-02 13:22:51",
+    "category": "Baskonia",
+    "description": "Otro jugador que suena es Brazdeikis, del Unicaja. Perasovic deslizó ayer que esta semana será fructífera en ese sentido",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Моніторингу в'язнів більше не буде: РФ вийшла з конвенції проти катувань",

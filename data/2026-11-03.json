@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Antoni López: «Un actuario ayuda a que las promesas de hoy puedan cumplirse mañana»",
+    "link": "https://www.elperiodico.com/es/sociedad/20261103/antoni-lopez-actuario-ayuda-promesas-bc-135636477",
+    "pubDate": "2026-11-03 01:59:14",
+    "category": "",
+    "description": "<h2>El presidente reivindica el papel esencial de la profesión y destaca su contribución a la protección de las familias, la planificación de la jubilación y la estabilidad de las empresas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Атака дронів паралізувала всі аеропорти Москви",
+    "link": "https://ua.korrespondent.net/world/russia/4925588-ataka-droniv-paralizuvala-vsi-aeroporty-moskvy",
+    "pubDate": "2026-11-03 01:59:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4621679.jpg\">Обмеження торкнулися всього московського авіавузла: аеропортів Внуково, Домодєдово, Шереметьєво і Жуковського.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "В Ірані на острові Кешм пролунали вибухи - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4925586-v-irani-na-ostrovi-keshm-prolunaly-vybukhy-zmi",
+    "pubDate": "2026-11-03 01:37:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4621658.jpg\">Удари могли бути завдані по об’єктах, розташованих на острові, припускають іранські медіа.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Віткофф назвав дату переговорів між Україною й РФ",
+    "link": "https://ua.korrespondent.net/world/worldabus/4925584-vitkoff-nazvav-datu-perehovoriv-mizh-ukrainoui-y-rf",
+    "pubDate": "2026-11-03 00:58:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4621617.jpg\">Перемови в ОАЕ пройдуть на робочому рівні в період з 10 по 11 листопада, заявив спецпредставник президента США.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Росія поцілила по житлових будинках в Запоріжжі: є потерпіла",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4925582-rosiia-potsilyla-po-zhytlovykh-budynkakh-v-zaporizhzhi-ye-poterpila",
+    "pubDate": "2026-11-03 00:33:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4621574.jpg\">Кілька будинків та два автомобілі були пошкоджені вибуховою хвилею й уламками, зазначили в Запорізькій ОВА.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  }
+]
