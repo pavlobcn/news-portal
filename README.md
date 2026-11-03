@@ -1,8 +1,11 @@
-# News for 2026-11-03 16:39
+# News for 2026-11-03 17:31
 
 Previous day: [2026-11-02](./data/2026-11-02.md)
 
 ## ua.korrespondent.net
+17:01 [Словник Collins обрав найважливіше слово року](https://ua.korrespondent.net/world/4925781-slovnyk-Collins-obrav-naivazhlyvishe-slovo-roku)<br>
+16:53 [Доньки Бреда Пітта остаточно розірвали зв'язки з батьком](https://ua.korrespondent.net/lifestyle/4925777-donky-breda-pitta-ostatochno-rozirvaly-zviazky-z-batkom)<br>
+16:49 [Промисловість України у вересні просіла на 9,2%](https://ua.korrespondent.net/business/economics/4925798-promyslovist-ukrainy-u-veresni-prosila-na-92)<br>
 16:22 [Суд покарав учасника конфлікту з ТЦК у Львові](https://ua.korrespondent.net/ukraine/4925787-sud-pokarav-uchasnyka-konfliktu-z-ttsk-u-lvovi)<br>
 16:17 [Дім пішов під землю: відомий актор став безхатьком](https://ua.korrespondent.net/lifestyle/4925764-dim-pishov-pid-zemlui-vidomyi-aktor-stav-bezkhatkom)<br>
 16:11 [Ситуація в енергосистемі ускладнилася - Укренерго](https://ua.korrespondent.net/ukraine/4925784-sytuatsiia-v-enerhosystemi-uskladnylasia-ukrenerho)<br>
@@ -34,6 +37,10 @@ Previous day: [2026-11-02](./data/2026-11-02.md)
 14:07 [Pedro Martínez lo confirma: Campazzo se cae, vuelve Smith Jr](https://as.com/baloncesto/euroliga/pedro-martinez-lo-confirma-campazzo-se-cae-vuelve-smith-jr-f202611-n/)<br>
 
 ## www.elperiodico.com
+17:06 [El MNAC propone a Aragón empezar a trasladar las pinturas profanas de Sijena el 17 de noviembre](https://www.elperiodico.com/es/ocio-y-cultura/20261103/mnac-traslado-sijena-pinturas-profanas-136044090)<br>
+17:05 [Francia y España frente al espejo](https://www.elperiodico.com/es/opinion/20261103/francia-espana-frente-espejo-economia-articulo-carme-poveda-136044311)<br>
+17:00 [Deutsche Bank no ve una “eliminación generalizada de empleos” por la IA, pero advierte de un cambio en la demanda laboral](https://www.elperiodico.com/es/economia/20261103/deutsche-bank-descarta-eliminacion-empleo-ia-136042243)<br>
+16:53 [Leroy Merlin, UP Spain y Amper, premiadas por sus medidas de conciliación laboral en Madrid](https://www.elperiodico.com/es/economia/20261103/leroy-merlin-up-spain-amper-136044442)<br>
 16:30 [El FMI instalará en Valencia su primera sede tecnológica fuera de EEUU](https://www.elperiodico.com/es/economia/20261103/fmi-instalara-valencia-primera-sede-136043469)<br>
 16:28 [La gran banca se despide de un octubre negro y pulveriza 85.000 millones en Bolsa](https://www.elperiodico.com/es/economia/20261103/gran-banca-despide-octubre-negro-136043312)<br>
 16:25 [El comité de empresa de Adif convoca una huelga para el próximo 17 de noviembre](https://www.elperiodico.com/es/economia/20261103/comite-empresa-adif-convoca-huelga-136043148)<br>
