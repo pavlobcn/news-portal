@@ -1,5 +1,95 @@
 [
   {
+    "title": "Le Normand boicotea el clínic de supervivencia del Atlético ante un excelso Bayern",
+    "link": "https://www.elperiodico.com/es/deportes/20261103/atletico-bayern-champions-goles-resultado-resumen-136059438",
+    "pubDate": "2026-11-03 22:55:01",
+    "category": "",
+    "description": "<h2>El campeón alemán exhibe su superioridad en el Metropolitano, donde se impone con goles de Karl y Laimer</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Міністр транспорту Іспанії подав у відставку",
+    "link": "https://ua.korrespondent.net/world/4925882-ministr-transportu-ispanii-podav-u-vidstavku",
+    "pubDate": "2026-11-03 22:54:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4623078.jpg\">Відповідне рішення очільник відомства оголосив після чергової залізничної катастрофи, в якій загинули 69 людей.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El Asisa Joventut logra su primer triunfo a domicilio de la temporada en Oporto (64-81)",
+    "link": "https://www.elperiodico.com/es/deportes/20261103/asisa-joventut-logra-primer-triunfo-136058592",
+    "pubDate": "2026-11-03 22:48:14",
+    "category": "",
+    "description": "<h2 class=\"item\">El conjunto de Dani Miret desarboló al cuadro luso con una gran actuación de Laprovittola, que aportó 23 puntos. </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Jódar se estrella contra Ruud en París Bercy y se complica las ATP Finals",
+    "link": "https://www.elperiodico.com/es/deportes/20261103/jodar-estrella-ruud-paris-bercy-136057435",
+    "pubDate": "2026-11-03 22:36:40",
+    "category": "",
+    "description": "<h2 class=\"item\">El joven madrileño cayó ante el noruego (6-3, 6-4) en los octavos del Masters 1.000 y queda a expensas de lo que hagan otros rivales para saber si entrará o no en el torneo de Maestros. </h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El proyecto de la Fundación Gasol contra la obesidad infantil llega a seis escuelas de Girona",
+    "link": "https://www.elperiodico.com/es/sociedad/20261103/proyecto-fundacion-gasol-obesidad-infantil-136050364",
+    "pubDate": "2026-11-03 22:35:14",
+    "category": "",
+    "description": "<h2 class=\"item\">Marc Gasol y Miquel Noguer firman el convenio, que se fija como objetivo llegar a dieciséis centros en situación de vulnerabilidad</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Качка оцінив перспективи вступу України до ЄС",
+    "link": "https://ua.korrespondent.net/world/4925877-kachka-otsinyv-perspektyvy-vstupu-ukrainy-do-yes",
+    "pubDate": "2026-11-03 22:34:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4623077.jpg\">Київ розраховує завершити переговори про вступ до Євросоюзу у 2027–2028 роках і відкидає альтернативу повноправному членству.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Colau, sobre la dimisión del ministro de Transportes: \"Hoy lo que toca es agradecer a Puente su gesto, porque no es fácil\"",
+    "link": "https://www.elperiodico.com/es/politica/20261103/colau-dimision-ministro-transportes-hoy-136057979",
+    "pubDate": "2026-11-03 22:32:10",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Sorpresa mayúscula y alivio en el PSOE tras la dimisión de Puente: \"Nadie puede decir que este Gobierno no asume responsabilidades\"'",
+    "link": "https://www.elperiodico.com/es/politica/20261103/sorpresa-mayuscula-alivio-psoe-dimision-136057264",
+    "pubDate": "2026-11-03 22:20:19",
+    "category": "",
+    "description": "<h2 class=\"item\">Numerosos dirigentes socialistas reivindican la \"impecable altura humana y política\" y la \"diferencia sideral\" con el PP</h2><h2 class=\"item\">Un dirigente autonómico destaca que \"era una salida muy necesaria, justa y positiva para España y para el PSOE\"</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Трагедія в Комишувасі. Військове значення селища",
+    "link": "https://ua.korrespondent.net/ukraine/4925879-trahediia-v-komyshuvasi-viiskove-znachennia-selyscha",
+    "pubDate": "2026-11-03 22:19:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4623079.jpeg\">Комишуваха зазнає систематичних авіаційних та артилерійських атак, лише протягом 2026 року зафіксовано щонайменше п'ять потужних повітряних ударів по населеному пункту.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Las incógnitas del accidente de Urda que Puente deja sin despejar en su última comparecencia como ministro",
+    "link": "https://www.elperiodico.com/es/economia/20261103/incognitas-accidente-urda-puente-deja-136057158",
+    "pubDate": "2026-11-03 22:18:32",
+    "category": "",
+    "description": "<h2>El ministro abandona el Gobierno sin aclarar por qué Adif autorizó al AVE a circular hacia un tren detenido, por qué los controladores no reaccionaron al último aviso del Iryo y qué falló en los sistemas de seguridad</h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
     "title": "PP y Vox señalan ahora a Sánchez: \"El responsable de que el sistema ferroviario haya estado en manos de Ábalos y Puente sigue\"",
     "link": "https://www.elperiodico.com/es/politica/20261103/pp-vox-senalan-ahora-sanchez-136056988",
     "pubDate": "2026-11-03 22:14:13",
