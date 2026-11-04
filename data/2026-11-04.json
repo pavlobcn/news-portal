@@ -1,5 +1,95 @@
 [
   {
+    "title": "У Берліні знайшли мертвим віцепрем’єра Баварії",
+    "link": "https://ua.korrespondent.net/world/4926176-u-berlini-znaishly-mertvym-vitsepremiera-bavarii",
+    "pubDate": "2026-11-04 23:37:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4624651.jpg\">Політик скасував участь у партійному заході через погане самопочуття, а згодом перестав виходити на зв’язок.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Un Madrid con casta",
+    "link": "https://as.com/opinion/un-madrid-con-casta-f202611-n/",
+    "pubDate": "2026-11-04 23:32:38",
+    "category": "Real Madrid baloncesto",
+    "description": "Con cinco lesionados, y un solo base al timón, el equipo de Pedro Martínez fue capaz de remontar 15 puntos y llevar al poderoso Panathinaikos a la prórroga.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росіяни вдарили по приватному будинку на Сумщині",
+    "link": "https://ua.korrespondent.net/ukraine/4926174-rosiiany-vdaryly-po-pryvatnomu-budynku-na-sumschyni",
+    "pubDate": "2026-11-04 23:31:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4624650.jpg\">Унаслідок удару загинула жінка, ще одного постраждалого вдалося деблокувати з-під завалів.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Memorable derrota",
+    "link": "https://as.com/baloncesto/euroliga/memorable-derrota-f202611-n/",
+    "pubDate": "2026-11-04 23:29:24",
+    "category": "Baloncesto",
+    "description": "El Madrid se sobrepone a las lesiones y lleva al límite al Panathinaikos. El líder rompe la racha en el Palacio. Nunn, 33 puntos; Feliz, 27; Abalde, 23.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Betis cae en Dortmund pese a la reacción del gol de Ruibal",
+    "link": "https://www.elperiodico.com/es/deportes/20261104/betis-sufre-borussia-dortmund-primera-derrota-champions-136097579",
+    "pubDate": "2026-11-04 23:27:59",
+    "category": "",
+    "description": "<h2>Más de seis mil béticos arroparon a su equipo en el Signal Iduna Park en una fría noche alemana en la que los de Manuel Pellegrini no encontraron abrigo tras conseguir empatar en el segundo tiempo</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Росії заявили про наближення НАТО до кордонів",
+    "link": "https://ua.korrespondent.net/world/4926172-u-rosii-zaiavyly-pro-nablyzhennia-nato-do-kordoniv",
+    "pubDate": "2026-11-04 23:27:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4624628.jpg\">У Москві звинуватили Альянс у розширенні на схід і заявили про наміри залучити до нього Україну, Молдову та Вірменію.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "В Ірані зреагували на результати виборів у США",
+    "link": "https://ua.korrespondent.net/world/4926169-v-irani-zreahuvaly-na-rezultaty-vyboriv-u-ssha",
+    "pubDate": "2026-11-04 23:14:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4624605.jpg\">Тегеран трактує результати проміжних виборів як відмову американців підтримувати війну, однак побоюється, що Трамп відповість на політичну поразку новими атаками.",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Pitbull resucita la fiesta dosmilera: nostalgia, calvas postizas y ‘hits’ avasalladores en el Palau Sant Jordi",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261104/pitbull-barcelona-palau-sant-jordi-concierto-nostalgia-fiesta-dosmilera-136099642",
+    "pubDate": "2026-11-04 23:08:08",
+    "category": "",
+    "description": "<h2>El rapero y cantante de Miami desató pasiones en su regreso a Barcelona, tras 13 años de ausencia, con el espectáculo de su gira ‘I’m back’</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Resultados Euroliga, jornada 10: horarios, TV, partidos y clasificación",
+    "link": "https://as.com/baloncesto/euroliga/resultados-euroliga-jornada-10-horarios-tv-partidos-y-clasificacion-f202611-n/",
+    "pubDate": "2026-11-04 23:03:04",
+    "category": "Baloncesto",
+    "description": "Euroliga 2026-27: resultados de los partidos y clasificación de la temporada en su jornada 10. Real Madrid, Barcelona, Baskonia, Valencia Basket…",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Майже 5 тисяч військових візьме участь у навчаннях Коаліції охочих",
+    "link": "https://ua.korrespondent.net/world/4926166-maizhe-5-tysiach-viiskovykh-vizme-uchast-u-navchanniakh-koalitsii-okhochykh",
+    "pubDate": "2026-11-04 22:54:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4624604.jpg\">Польща стане основним майданчиком навчань і відповідатиме за логістичне забезпечення союзників.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
     "title": "Поразка республіканців обвалила акції тюремних операторів",
     "link": "https://ua.korrespondent.net/business/4926164-porazka-respublikantsiv-obvalyla-aktsii-tuiremnykh-operatoriv",
     "pubDate": "2026-11-04 22:33:00",
@@ -81,6 +171,15 @@
     "topic_match_probability": 70
   },
   {
+    "title": "Concierto del cantante Pitbull esta noche en el Palau Sant Jordi.",
+    "link": "https://www.elperiodico.com/es/fotos/ocio-y-cultura/concierto-cantante-pitbull-noche-palau-136098280",
+    "pubDate": "2026-11-04 21:40:23",
+    "category": "",
+    "description": "",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Un estudio alerta que no desdoblar la C-55 entre Abrera y Manresa generaría pérdidas de 3.700 millones de euros en 20 años",
     "link": "https://www.elperiodico.com/es/sociedad/20261104/estudio-alerta-desdoblar-c-55-136095442",
     "pubDate": "2026-11-04 21:35:48",
@@ -153,6 +252,15 @@
     "topic_match_probability": 95
   },
   {
+    "title": "“El mejor jugador del Madrid es Maledon, pero el que mejor juega es Campazzo”",
+    "link": "https://as.com/baloncesto/nba/el-mejor-jugador-del-madrid-es-maledon-pero-el-que-mejor-juega-es-campazzo-f202611-n/",
+    "pubDate": "2026-11-04 21:09:19",
+    "category": "El mejor era Magic",
+    "description": "La amplia nómina de líderes en el equipo griego y la plaga de lesiones en el Real Madrid protagonizan este programa sobre Euroliga.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "El horóscopo de mañana, jueves 5 de noviembre: amor, trabajo, dinero y salud para todos los signos del zodíaco",
     "link": "https://www.elperiodico.com/es/vida-y-estilo/20261104/horoscopo-hoy-jueves-5-noviembre-dv-135843674",
     "pubDate": "2026-11-04 21:00:27",
@@ -223,6 +331,15 @@
     "description": "<h2 class=\"item\">La sonda europea ExoMars capta señales que indican la presencia de gases filtrándose por las grietas volcánicas del planeta rojo, algo que apuntaría a la existencia de zonas activas en el subsuelo marciano </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260420/europa-primera-mision-marte-2028-esa-nasa-spacex-129299101\">Europa ultima el desarrollo de su primera misión a Marte con vistas a lanzarla en 2028: \"Buscaremos signos de vida en el planeta rojo\"</a></h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Las 24 horas previas a la dimisión de Puente: al despiste, con los suyos y mensajes a Sánchez",
+    "link": "https://www.elperiodico.com/es/politica/20261104/horas-dimision-puente-mensaje-sanchez-136091401",
+    "pubDate": "2026-11-04 20:00:51",
+    "category": "",
+    "description": "<h2>El ministro de Transportes fraguó su dimisión en secreto, <a href=\"https://www.elperiodico.com/es/politica/20261104/pedro-sanchez-trato-convencer-puente-136090669\" target=\"_blank\">ante la negativa del jefe del Ejecutivo de aceptar su renuncia</a>. Un paso a un lado para dar aire al PSOE entre la presión política, social y de sindicatos ferroviarios</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261104/pedro-sanchez-trato-convencer-puente-136090669\" target=\"_blank\">Pedro Sánchez trató de convencer a Puente de que no dimitiera minutos antes de anunciarlo</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
   },
   {
     "title": "La desconfianza ferroviaria incrementa la afluencia al puente aéreo Barcelona-Madrid: \"Mi empresa me dejó elegir y escogí el avión al 100%\"",
