@@ -1,8 +1,23 @@
-# News for 2026-11-04 10:43
+# News for 2026-11-04 16:49
 
 Previous day: [2026-11-03](./data/2026-11-03.md)
 
 ## ua.korrespondent.net
+16:42 [ВВП України пішов у "мінус" - Держстат](https://ua.korrespondent.net/business/economics/4926096-vvp-ukrainy-pishov-u-minus-derzhstat)<br>
+16:07 [Туреччина депортує десятки російських повій після нічних рейдів](https://ua.korrespondent.net/world/4926085-turechchyna-deportuie-desiatky-rosiiskykh-povii-pislia-nichnykh-reidiv)<br>
+15:12 [Крим і Севастополь залишилися без стабільного світла](https://ua.korrespondent.net/ukraine/4926073-krym-i-sevastopol-zalyshylysia-bez-stabilnoho-svitla)<br>
+14:43 [З’явилося відео повторного удару РФ по Комишувасі](https://ua.korrespondent.net/ukraine/4926063-ziavylosia-video-povtornoho-udaru-rf-po-komyshuvasi)<br>
+14:31 [Український актор несподівано заявив про паузу в кінокар’єрі](https://ua.korrespondent.net/lifestyle/4926034-ukrainskyi-aktor-nespodivano-zaiavyv-pro-pauzu-v-kinokarieri)<br>
+13:56 [Стало відомо, скільки українців в Німеччині цікавляться поверненням додому](https://ua.korrespondent.net/world/4926052-stalo-vidomo-skilky-ukraintsiv-v-nimechchyni-tsikavliatsia-povernenniam-dodomu)<br>
+13:14 [Сили оборони уразили два Панцирі у Криму](https://ua.korrespondent.net/ukraine/4926039-syly-oborony-urazyly-dva-pantsyri-u-krymu)<br>
+12:54 [АЕС знизили потужність через російські атаки](https://ua.korrespondent.net/ukraine/4926032-aes-znyzyly-potuzhnist-cherez-rosiiski-ataky)<br>
+12:34 [Укренерго заявило про стабілізацію в енергосистемі](https://ua.korrespondent.net/ukraine/4926028-ukrenerho-zaiavylo-pro-stabilizatsiui-v-enerhosystemi)<br>
+12:06 [У Комишувасі під завалами знайшли ще шість жертв](https://ua.korrespondent.net/ukraine/4926018-u-komyshuvasi-pid-zavalamy-znaishly-sche-shist-zhertv)<br>
+11:47 [НМТ-2027 можуть скоротити до трьох предметів: що зміниться](https://ua.korrespondent.net/ukraine/4926007-nmt-2027-mozhut-skorotyty-do-trokh-predmetiv-scho-zminytsia)<br>
+11:29 [Тисячі життів і сотні знищених вагонів: втрати Укрзалізниці за час війни](https://ua.korrespondent.net/business/companies/4925995-tysiachi-zhyttiv-i-sotni-znyschenykh-vahoniv-vtraty-ukrzaliznytsi-za-chas-viiny)<br>
+11:10 [Гривня зростає в обмінниках після обвалу](https://ua.korrespondent.net/business/financial/4925990-hryvnia-zrostaie-v-obminnykakh-pislia-obvalu)<br>
+10:58 [Волинська трагедія: у Пужниках почали новий етап пошукових робіт](https://ua.korrespondent.net/ukraine/4925985-volynska-trahediia-u-puzhnykakh-pochaly-novyi-etap-poshukovykh-robit)<br>
+10:46 [ГУР оцінило поточні запаси ракет у Росії](https://ua.korrespondent.net/ukraine/4925982-hur-otsinylo-potochni-zapasy-raket-u-rosii)<br>
 10:34 [Росія вдарила по Вільнянську на Запоріжжі: двоє загиблих](https://ua.korrespondent.net/ukraine/4925979-rosiia-vdaryla-po-vilniansku-na-zaporizhzhi-dvoie-zahyblykh)<br>
 10:19 [Федінчик заговорив про можливий новий роман](https://ua.korrespondent.net/lifestyle/4925966-fedinchyk-zahovoryv-pro-mozhlyvyi-novyi-roman)<br>
 10:12 [Дрони атакували Рівненщину та Волинь: відомо про наслідки](https://ua.korrespondent.net/ukraine/4925972-drony-atakuvaly-rivnenschynu-ta-volyn-vidomo-pro-naslidky)<br>
@@ -31,6 +46,30 @@ Previous day: [2026-11-03](./data/2026-11-03.md)
 06:41 [Real Madrid - Panathinaikos: horario, TV, cómo y dónde ver la Euroliga 2026-27](https://as.com/baloncesto/euroliga/real-madrid-panathinaikos-horario-tv-como-y-donde-ver-la-euroliga-2026-27-f202611-n/)<br>
 
 ## www.elperiodico.com
+16:41 [La periodista y escritora Maruja Torres, Premio Feroz de Honor 2027](https://www.elperiodico.com/es/ocio-y-cultura/20261104/periodista-escritora-maruja-torres-premio-136086300)<br>
+16:36 [Sergio Hernández, finalista del Premio Planeta: "Espero que la censura nunca llegue a las escuelas"](https://www.elperiodico.com/es/ocio-y-cultura/20261104/sergio-hernandez-finalista-premio-planeta-136086139)<br>
+16:35 [El Consorci d'Aigües Costa Brava planea construir una planta de regeneración de agua para rellenar los acuíferos en Llançà (Alt Empordà)](https://www.elperiodico.com/es/sociedad/20261104/consorci-daigues-costa-brava-planea-136084097)<br>
+16:32 [Muere Tinto Brass, el director de cine que filmó el eros italiano](https://www.elperiodico.com/es/ocio-y-cultura/20261104/muere-tinto-brass-director-cine-136084700)<br>
+16:27 [Francia vuelve a ser víctima de ciberataques, esta vez contra varios bancos de sangre](https://www.elperiodico.com/es/internacional/20261104/francia-victima-ciberataques-bancos-sangre-136085682)<br>
+16:21 [El truco de Joan, fontanero, para ahorrar en calefacción: "Deja que entre el sol por las mañanas y cierra las persianas por la noche"](https://www.elperiodico.com/es/economia/20261104/calefaccion-ahorro-energetico-calor-joan-pascual-fontanero-dv-136051236)<br>
+15:59 [Uno de cada tres pacientes con migraña recurre a la sanidad privada para tratar la enfermedad por las demoras en la sanidad pública](https://www.elperiodico.com/es/sanidad/20261104/pacientes-migrana-recurre-privada-espera-sanidad-publica-136069376)<br>
+15:59 [Bruselas cree que Ucrania tiene que acelerar las reformas si quiere cerrar las negociaciones de adhesión en 2028](https://www.elperiodico.com/es/internacional/20261104/bruselas-cree-ucrania-acelerar-reformas-adhesion-2028-136084587)<br>
+15:59 [Relevo a la vista en la dirección de la Casa Vicenç de Gaudí](https://www.elperiodico.com/es/ocio-y-cultura/20261104/relevo-vista-direccion-casa-vicenc-136084173)<br>
+15:56 [Elon Musk, el otro gran perdedor de las 'midterms': ni sus 474 millones han podido con los demócratas](https://www.elperiodico.com/es/internacional/20261104/elon-musk-gran-perdedor-midterms-elecciones-eeuu-texas-talarico-millones-136072946)<br>
+15:43 [El lobo se reproduce de nuevo en Catalunya y consolida su expansión](https://www.elperiodico.com/es/sociedad/20261104/manada-lobo-cria-cataluna-emporda-garrotxa-cinco-cachorros-136083113)<br>
+15:09 [Tres empresas optan a reformar el monasterio de Sant Feliu de Guíxols para convertirlo en el futuro Museo Thyssen](https://www.elperiodico.com/es/ocio-y-cultura/20261104/tres-empresas-optan-reformar-monasterio-136079832)<br>
+15:07 [Tuli Márquez: "Durruti nos pegaría un tiro por hacerle un musical, y yo se lo aceptaría"](https://www.elperiodico.com/es/ocio-y-cultura/20261104/tuli-marquez-durruti-pegaria-tiro-136082340)<br>
+15:00 [La decepción de un catalán con cáncer por el "capitalismo oncológico" de China: "Me he gastado el triple de lo previsto, quiero volver a casa"](https://www.elperiodico.com/es/sociedad/20261104/decepcion-catalan-cancer-capitalismo-oncologico-china-dv-136074229)<br>
+14:54 [Muere a los 95 años 'Janosch', célebre autor de literatura infantil](https://www.elperiodico.com/es/ocio-y-cultura/20261104/muere-95-anos-janosch-celebre-136081921)<br>
+14:13 [El economista Gonzalo Bernardos pronostica un descenso del precio de venta de la vivienda en las "mejores zonas de Barcelona"](https://www.elperiodico.com/es/barcelona/20261104/gonzalo-bernardos-pronostica-descenso-precio-vivienda-mejores-zonas-barcelona-este-ano-136074572)<br>
+14:04 [Red Eléctrica amplía las horas en que podrá parar fábricas tras disparar las desconexiones forzosas este año](https://www.elperiodico.com/es/economia/20261104/red-electrica-paradas-fabricas-horas-subasta-srad-136079795)<br>
+13:45 [Mapa | ¿Dónde ha ganado y perdido Trump? Los estados con victoria demócrata y republicana en las 'midterms'](https://www.elperiodico.com/es/internacional/20261104/donde-ha-ganado-perdido-trump-midterms-elecciones-estados-unidos-mapa-136072047)<br>
+13:35 [Silvia Vidal, psicóloga, sobre la ansiedad social: "Hay una sintomatología que puede ser adaptativa"](https://www.elperiodico.com/es/ser-feliz/20261104/ansiedad-social-biologico-psicologa-silvia-vidal-dv-et-135298543)<br>
+13:01 [Pere Soler, profesor de la UdG: "Los jóvenes hacen muchísimas cosas extraordinarias, pero casi nunca son noticia"](https://www.elperiodico.com/es/sociedad/20261104/pere-soler-profesor-udg-jovenes-monitores-esplai-referentes-positivos-ninos-prejuicios-136034075)<br>
+12:52 [Uno de cada tres inquilinos necesita recurrir a familiares o pedir financiación para entrar en un alquiler](https://www.elperiodico.com/es/economia/20261104/uno-cada-tres-inquilinos-necesita-ayuda-pagar-gastos-iniciales-alquiler-dv-136074656)<br>
+12:30 [Las familias salen en defensa de la escuela inclusiva: "El problema no es el modelo, sino la falta de recursos, coordinación y formación"](https://www.elperiodico.com/es/sociedad/20261104/familias-salen-defensa-escuela-inclusiva-135994442)<br>
+12:02 [La AIReF alerta de que España incumplirá las reglas de gasto europeas desde este año hasta 2028](https://www.elperiodico.com/es/economia/20261104/airef-alerta-espana-incumplira-reglas-136072582)<br>
+11:03 [Las hipotecas variables pueden encarecerse hasta 86 euros al mes a quienes les toque revisión ahora](https://www.elperiodico.com/es/economia/20261104/hipotecas-variables-encarecerse-86-euros-mes-dv-136068812)<br>
 10:30 [En el mundo se comercializan 107.000 especies diferentes de animales y plantas, el doble de lo que se creía](https://www.elperiodico.com/es/medio-ambiente/20261104/mundo-comercializan-107-000-especies-136068250)<br>
 10:30 [Más aviones, seis veces más de viajes en autobús y Uber a precio fijo: se buscan alternativas al tren para viajar de Madrid a Andalucía](https://www.elperiodico.com/es/sociedad/20261104/aviones-seis-veces-viajes-autobus-136064263)<br>
 09:50 [Moeve da un paso histórico y abandona por completo el negocio de búsqueda y producción de petróleo y gas](https://www.elperiodico.com/es/economia/20261104/moeve-da-paso-historico-abandona-136066462)<br>
@@ -45,10 +84,12 @@ Previous day: [2026-11-03](./data/2026-11-03.md)
 07:59 [Dos buenas noticias](https://www.elperiodico.com/es/opinion/20261104/buenas-noticias-136063307)<br>
 07:00 [Miki Esparbé, listo para su primer monólogo: "Ir al teatro es algo revolucionario"](https://www.elperiodico.com/es/ocio-y-cultura/20261104/miki-esparbe-listo-primer-monologo-136032362)<br>
 07:00 ['La hora antes del alba', el Premio Planeta de Isabel Allende: emoción anestesiada](https://www.elperiodico.com/es/ocio-y-cultura/libros/20261104/isabel-allende-critica-premio-planeta-136021501)<br>
+06:45 ["Pensando en el pasado y el futuro nos perdemos lo que de verdad importa"](https://www.elperiodico.com/es/entre-todos/participacion/pensando-pasado-futuro-perdemos-vida-carta-lector-clara-dallares-135998770)<br>
 06:01 [Las 5 empresas de placas solares que ha matado recientemente (o casi) el mal momento que vive el sector](https://www.elperiodico.com/es/economia/20261104/cinco-empresas-placas-solares-matado-mal-momento-sector-135820555)<br>
 06:01 ['Temps fugit', un retrato íntimo de Jordi Savall y su imparable ritmo](https://www.elperiodico.com/es/ocio-y-cultura/20261104/temps-fugit-retrato-intimo-jordi-savall-136051883)<br>
 06:01 [SMLXL, el estudio de diseño detrás de las luces virales de Navidad de la calle Aragó: "Queremos ir a contracorriente y explorar caminos diferentes"](https://www.elperiodico.com/es/ocio-y-cultura/20261104/smlxl-estudio-diseno-detras-luces-135329157)<br>
 06:01 [Barcelona-Madrid, sin alternativa al tren de alta velocidad](https://www.elperiodico.com/es/opinion/20261104/barcelona-madrid-alta-velocidad-sin-plan-b-136053882)<br>
 06:01 [La falta de demanda y los precios amenazan el negocio de la energía solar](https://www.elperiodico.com/es/economia/20261104/falta-demanda-precios-amenazan-negocio-energia-solar-136048505)<br>
 06:01 [La empresa EYSA gestionará el sistema de ZBE de la segunda corona metropolitana de BCN en 2028](https://www.elperiodico.com/es/barcelona/20261104/empresa-eysa-gestionra-sistema-zbe-segunda-corona-metropolitana-barcelona-2028-135595107)<br>
+06:00 ["Aquí estamos 90 años después, dispuestos a dejar que prevalezca el miedo sobre el amor"](https://www.elperiodico.com/es/entre-todos/participacion/la-bola-negra-amor-miedo-carta-lector-lena-gonzalez-135986694)<br>
 01:59 [Javier Segura Zariquiey: «Una Justicia efectiva no termina cuando se dicta una sentencia, sino cuando se cumple»](https://www.elperiodico.com/es/sociedad/20261104/javier-segura-zariquiey-justicia-efectiva-bc-135633507)<br>
