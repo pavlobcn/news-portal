@@ -1,5 +1,356 @@
 [
   {
+    "title": "Cuatro detenidos por el secuestro de un hombre en Burgos",
+    "link": "https://www.elperiodico.com/es/sociedad/20261104/cuatro-detenidos-secuestro-hombre-burgos-136091670",
+    "pubDate": "2026-11-04 18:29:38",
+    "category": "",
+    "description": "<h2>El caso se encuentra bajo investigación y, si bien no se descarta ninguna hipótesis, fuentes de la Guardia Civil han indicado que la que toma más fuerza es que lo ocurrido responda a un ajuste de cuentas</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Експерт заперечив заяви рашистів про \"ударне просування\" на Донбасі",
+    "link": "https://ua.korrespondent.net/ukraine/4926115-ekspert-zaperechyv-zaiavy-rashystiv-pro-udarne-prosuvannia-na-donbasi",
+    "pubDate": "2026-11-04 18:19:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4624384.jpg\">Наразі у ворога залишилось три-чотири основні напрямки на фронті, бо не вистачає людей, констатував Олексій Гетьман.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Especial elecciones en EEUU: ¿El principio del fin del trumpismo?",
+    "link": "https://www.elperiodico.com/es/internacional/20261104/especial-elecciones-eeuu-principio-fin-trumpismo-videopodcast-bienvenidos-a-eeuu-irene-benedicto-136089951",
+    "pubDate": "2026-11-04 18:18:01",
+    "category": "",
+    "description": "<h2>El exsubsecretario adjunto del Departamento de Estado con Biden analiza los resultados electorales en 'Bienvenidos a EEUU', el videopodcast de EL PERIÓDICO</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Кров і плазма під загрозою: хакери атакували сховища у Франції",
+    "link": "https://ua.korrespondent.net/world/4926116-krov-i-plazma-pid-zahrozoui-khakery-atakuvaly-skhovyscha-u-frantsii",
+    "pubDate": "2026-11-04 18:18:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4624385.jpg\">У Франції хакери зламали системи охолодження трьох сховищ донорської плазми та змінили температуру з −30 до +110 градусів. Запаси крові вдалося врятувати завдяки системі оповіщення та оперативній реакції працівників.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El comité del Liceu acude a Inspecció de Treball por reprogramar funciones por la huelga",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261104/comite-liceu-acude-inspeccio-treball-huelga-reprogramar-136090453",
+    "pubDate": "2026-11-04 18:15:39",
+    "category": "",
+    "description": "<h2 class=\"item\">La entidad alega que la decisión responde a \"motivos preventivos de seguridad\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Pedro Sánchez trató de convencer a Óscar Puente de que no dimitiera minutos antes de anunciarlo",
+    "link": "https://www.elperiodico.com/es/politica/20261104/pedro-sanchez-trato-convencer-puente-136090669",
+    "pubDate": "2026-11-04 18:11:14",
+    "category": "",
+    "description": "<h2 class=\"item\">El ministro de Transportes le avisó de su inminente renuncia poco antes de pronunciarla en la Diputación Permanente</h2><h2 class=\"item\">El presidente del Gobierno trató de persuadirle con un largo mensaje que el ministro no pudo leer hasta después de su dimisión</h2><h2 class=\"item\">El también exalcalde de Valladolid se encuentra \"muy bien\" y \"muy satisfecho con su decisión\"</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El metro de Barcelona prevé tener un 'tren auscultador' que analice anomalías de la infraestructura en todas sus líneas",
+    "link": "https://www.elperiodico.com/es/barcelona/20261104/tmb-tren-auscultador-detectar-averias-metro-barcelona-136074094",
+    "pubDate": "2026-11-04 18:09:54",
+    "category": "",
+    "description": "<h2 class=\"item\">El nuevo sistema de auscultación digital ya opera en las líneas L1 y L5 con el objetivo de prevenir incidencias y anticipar el mantenimiento antes de afectar al servicio comercial</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20261102/corte-l2-metro-barcelona-colas-buses-saturados-135991497\" >Largas colas y buses saturados el primer día del corte en la L2 del metro de Barcelona: \"Voy a llegar con un retraso horrible\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Зеленський прибув з візитом у Мадрид",
+    "link": "https://ua.korrespondent.net/ukraine/4926112-zelenskyi-prybuv-z-vizytom-u-madryd",
+    "pubDate": "2026-11-04 18:09:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4624381.jpg\">Перший пріоритет на переговорах – посилення ППО для України, розвиток оборонної співпраці та виробництв, зазначив президент.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "La plataforma Mercaderies per l'interior convoca una manifestación este sábado en Tarragona contra las pantallas acústicas",
+    "link": "https://www.elperiodico.com/es/sociedad/20261104/plataforma-mercaderies-per-linterior-convoca-136088982",
+    "pubDate": "2026-11-04 18:07:18",
+    "category": "",
+    "description": "<h2 class=\"item\">La organización advierte de que las barreras dificultarían el acceso de los servicios de emergencias en caso de accidente ferroviario</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tarragona/20250801/roda-bera-rechaza-instalacion-pantallas-120275905\">Roda de Berà rechaza la instalación de pantallas acústicas en el trazado ferroviario</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "JD Vance culpa a la guerra en Irán de la derrota republicana en las 'midterms': \"Es la razón obvia\"",
+    "link": "https://www.elperiodico.com/es/internacional/20261104/jd-vance-culpa-guerra-iran-derrota-republicana-midterms-136090364",
+    "pubDate": "2026-11-04 18:05:40",
+    "category": "",
+    "description": "<h2>El vicepresidente de Estados Unidos atribuye la pérdida de las mayorías legislativas al desgaste político provocado por el conflicto armado con Teherán emprendido por Trump</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "\"Шахед\" із сюрпризом: РФ додала до бойової частини агітаційні листівки",
+    "link": "https://ua.korrespondent.net/ukraine/4926111-shakhed-iz-suirpryzom-rf-dodala-do-boiovoi-chastyny-ahitatsiini-lystivky",
+    "pubDate": "2026-11-04 18:01:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4624380.jpg\">Збитий 4 листопада російський \"шахед\" перевозив агітлистівки для Києва. Військові закликають українців не сканувати QR-коди з таких матеріалів.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Núria Burgada (66 años), madre de Kilian Jornet: \"Tenía un año y medio y ya era capaz de caminar siete u ocho horas. Aquello no era normal y sé de qué hablo: he sido maestra”",
+    "link": "https://www.elperiodico.com/es/gente/20261104/nuria-burgada-66-anos-madre-kilian-jornet-dv-136076172",
+    "pubDate": "2026-11-04 18:00:51",
+    "category": "",
+    "description": "<h2 class=\"item\">La madre del deportista catalán recuerda las aventuras de infancia del mejor corredor de montaña y la angustia que vivió durante sus ascensiones al Everest</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20261005/kilian-jornet-38-anos-riesgo-limites-exito-dv-et-134890576\" target=\"_blank\" rel=\"nofollow\">Kilian Jornet (38 años), sobre el riesgo y los límites: \"Lo que me hizo tener éxito es también lo que hace que me tenga más miedo a mí mismo\"</a></h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Los autónomos que cuidan de hijos con cáncer u otra enfermedad grave no tendrán que ajustar sus bases de cotización en 2027",
+    "link": "https://www.elperiodico.com/es/economia/20261104/autonomos-cuidan-hijos-cancer-bases-cotizacion-2027-136071423",
+    "pubDate": "2026-11-04 18:00:50",
+    "category": "",
+    "description": "<h2>La Seguridad Social incorpora los periodos en los que perciben esta prestación a los supuestos cuyas bases quedan excluidas de la regularización anual por ingresos reales</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cinco días al volante del Jaecoo 8 SHS en busca del mejor jamón ibérico de España",
+    "link": "https://www.elperiodico.com/es/motor/20261104/cinco-dias-volante-jaecoo-8-136021121",
+    "pubDate": "2026-11-04 18:00:50",
+    "category": "",
+    "description": "<h2>El Jaecoo 8 SHS nos ha acompañado en una ruta por las cuatro denominaciones de origen del jamón ibérico en un viaje que combina carretera y tradición gastronómica.</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La Fiscalía detecta que el exgerente de la fundación investigada en la causa de Eduard Rivas se enriqueció con fondos de la entidad",
+    "link": "https://www.elperiodico.com/es/politica/20261104/eduard-rivas-jefe-gabinete-illa-esparreguera-alcalde-investigacion-judicial-enriquecimiento-fundacion-136060846",
+    "pubDate": "2026-11-04 18:00:49",
+    "category": "",
+    "description": "<h2 class=\"item\">Los Mossos empezaron a indagar al recibir una denuncia anónima en 2024 y la fiscal sostiene que el exalcalde fue informado de que dos trabajadores alertaron de irregularidades en la gestión del exjefe de la FIL </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261103/eduard-rivas-investigado-mensajes-jefe-gabinete-salvador-illa-alcalde-esparreguera-136030629\">El exjefe de gabinete de Illa, investigado por su etapa como alcalde: \"Hemos escrito las bases [del concurso] pensando en vosotros\"</a></h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El Gobierno empezará \"en los próximos días\" a desmantelar algunos campamentos de Ceuta",
+    "link": "https://www.elperiodico.com/es/politica/20261104/gobierno-empezara-proximos-dias-desmantelar-algunos-campamentos-ceuta-136089592",
+    "pubDate": "2026-11-04 17:48:37",
+    "category": "",
+    "description": "<h2>El ministro de Política Territorial, Ángel Víctor Torres, confirma que el proceso comenzará en breve tras registrarse el retorno voluntario de más de 15.000 personas a su país de origen</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El alquiler necesita algo más que viviendas: confianza y visión de futuro",
+    "link": "https://www.elperiodico.com/es/opinion/20261104/alquiler-necesita-viviendas-confianza-vision-futuro-136088886",
+    "pubDate": "2026-11-04 17:38:22",
+    "category": "",
+    "description": "<h2>Conviene ampliar la mirada y plantearnos otras preguntas: qué viviendas necesitamos, a qué demanda queremos responder y qué condiciones deben darse para que el alquiler funcione a largo plazo</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Свята 5 листопада 2026 року: історія, традиції",
+    "link": "https://ua.korrespondent.net/lifestyle/4926095-sviata-5-lystopada-2026-roku-istoriia-tradytsii",
+    "pubDate": "2026-11-04 17:35:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4624323.jpg\">Вважається, що редька на столі 5 листопада принесе родині здоров'я і ситість на всю зиму.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Польща будує завод із виробництва ракет",
+    "link": "https://ua.korrespondent.net/world/4926108-polscha-buduie-zavod-iz-vyrobnytstva-raket",
+    "pubDate": "2026-11-04 17:35:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4624356.jpg\">Польща та Південна Корея розпочали реалізацію проєкту вартістю близько 14 млрд злотих. Новий завод має забезпечити польську армію ракетами власного виробництва та боєприпасами нового покоління.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Названо наступну мету України на шляху до ЄС",
+    "link": "https://ua.korrespondent.net/ukraine/4926107-nazvano-nastupnu-metu-ukrainy-na-shliakhu-do-yes",
+    "pubDate": "2026-11-04 17:34:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4624355.jpg\">Уряд узяв до уваги і працюватиме над усіма рекомендаціями Єврокомісії, які були надані у щорічному звіті щодо України в межах Пакета розширення ЄС, запевнив Сергій Корецький.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Collboni saca pecho de la regulación de alquileres en Barcelona ante alcaldes internacionales: \"Le hemos dicho 'adiós' a los fondos especulativos\"",
+    "link": "https://www.elperiodico.com/es/barcelona/20261104/collboni-saca-pecho-regulacion-alquileres-barcelona-alcaldes-internacionales-adios-grandes-fondos-especulativos-136071321",
+    "pubDate": "2026-11-04 17:27:13",
+    "category": "",
+    "description": "<h2>El edil socialista ha destacado en su intervención en la mesa redonda de alcaldes del Housing World Summit que si la ciudad no hubiese aplicado la regulación, los alquileres serían de media 360 euros más caros</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20261103/barcelona-defiende-derecho-quedarse-ciudad-inauguracion-congreso-hows-vivienda-para-vivir-no-activo-economico-136023000\">Barcelona defiende el 'derecho a quedarse' en la ciudad en la inauguración del congreso HOWS: \"La vivienda es para vivir, no es un activo económico\"</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Los Mossos deberán avisar de que lanzarán gas pimienta y no se usará en casos de resistencia pasiva",
+    "link": "https://www.elperiodico.com/es/sociedad/20261104/mossos-deberan-avisar-lanzaran-gas-pimienta-avisar-136088015",
+    "pubDate": "2026-11-04 17:26:59",
+    "category": "",
+    "description": "<h2>El nuevo protocolo establece que se puede lanzar para restablecer el orden público y garantizar la seguridad ciudadana</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260513/gas-pimienta-mossos-esquadra-audiencia-barcelona-ordena-investigar-manifestacion-palestina-gaza-130178266\">La Audiencia de Barcelona ordena investigar el uso de gas pimienta en una protesta propalestina</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Загиблі журналісти та погрози: що було зі свободою слова в жовтні",
+    "link": "https://ua.korrespondent.net/ukraine/4926105-zahybli-zhurnalisty-ta-pohrozy-scho-bulo-zi-svobodoui-slova-v-zhovtni",
+    "pubDate": "2026-11-04 17:25:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4624350.jpg\">У жовтні в Україні зафіксували 14 випадків порушення свободи слова. Серед них - російські атаки на медіа, загибель п’ятьох медійників на фронті та перешкоджання роботі журналістів з боку українських громадян і установ.",
+    "topic": "підсумки (за попередній день, наприклад)",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "El mundo ante la derrota de Trump en las 'midterms': cautela en Europa y China, desolación entre aliados y alivio en la izquierda",
+    "link": "https://www.elperiodico.com/es/internacional/20261104/reacciones-mundo-derrota-trump-midterms-china-rusia-europa-136088501",
+    "pubDate": "2026-11-04 17:23:52",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20261102/midterms-2026-elecciones-estados-unidos-ultima-hora-directo-136000005\" target=\"_blank\">Directo | Última hora de los resultados de las elecciones en EEUU</a></h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20261104/midterms-2026-quien-ha-ganado-elecciones-estados-unidos-136043970\" target=\"_blank\">¿Quién ha ganado las 'midterms' 2026 en Estados Unidos? Votos a los demócratas y republicanos en tiempo real y situación de Trump</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los dentistas coinciden: beber con pajita puede favorecer las caries, deteriorar el esmalte y provocar problemas en la mandíbula",
+    "link": "https://www.elperiodico.com/es/salud/20261104/odontologa-beber-pajita-dana-dientes-caries-arrugas-dv-129631486",
+    "pubDate": "2026-11-04 17:15:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Además, advierte de las consecuencias de fumar y usar pastas de dientes blanqueantes</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260428/ejercitadores-mandibula-enjuague-aceite-dentistas-alertan-vendehumos-promocionan-modas-virales-129607519\">De los ejercitadores de mandíbula al enjuague de aceite: los dentistas alertan de los \"vendehúmos\" que promocionan peligrosas modas virales</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/salud/20260504/otorrinos-coinciden-dormir-boca-abierta-dv-129222586\">El hábito nocturno que muchos ignoran y que los otorrinos relacionan con peor calidad del sueño</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Rey afirma que los gobiernos deben \"garantizar infraestructuras de calidad\" en un acto con empresarios en el que recuerda a Fátima Báñez",
+    "link": "https://www.elperiodico.com/es/politica/20261104/rey-gobiernos-garantizar-infraestructuras-calidad-fatima-banez-empresarios-ceoe-136087833",
+    "pubDate": "2026-11-04 17:14:07",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "СБУ викрила організаторів провокації у Борщагівці",
+    "link": "https://ua.korrespondent.net/ukraine/4926103-sbu-vykryla-orhanizatoriv-provokatsii-u-borschahivtsi",
+    "pubDate": "2026-11-04 17:14:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4624324.jpg\">Трьом фігурантам справи про заворушення в Петропавлівській Борщагівці повідомили про підозру. Їм інкримінують перешкоджання діяльності військових формувань і поширення інформації про їхнє розміщення.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "Las primeras palabras de Owono tras la muerte de Jesús de Miguel: \"Siento un dolor enorme\"",
+    "link": "https://www.elperiodico.com/es/deportes/20261104/primeras-palabras-portero-owondo-muerte-jesus-de-miguel-136086849",
+    "pubDate": "2026-11-04 17:11:41",
+    "category": "",
+    "description": "<h2 class=\"item\">El FC Andorra emite un comunicado con una declaración de su portero en el que confiesa que le cuesta \"asimilar nada de lo que ha pasado\"</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20261103/jesus-owono-portero-guinea-ecuatorial-136021548\">¿Quién es Jesús Owono, el portero de Guinea Ecuatorial que vive el momento más complicado de su vida?</a></h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Eunice, de 111 años, revela el secreto de su longevidad: \"Me acuesto y me levanto temprano y bebo mucha leche\"",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20261104/mujer-vieja-mundo-brasil-eunice-111-anos-leche-dv-136048151",
+    "pubDate": "2026-11-04 17:11:10",
+    "category": "",
+    "description": "<h2>La mujer brasileña tiene 9 hijos vivos, 50 nietos, 88 bisnietos y 52 tataranietos</h2><h2><a href=\"https://www.elperiodico.com/es/gente/20251215/teresa-fernandez-persona-longeva-espana-112-anos-hijo-dv-124672639\">Teresa Fernández, la más longeva de España con 112 años, con un hijo de 93: \"Solo tomo una pastilla para el colesterol\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260821/persona-anciana-mundo-ethel-caterham-117-anos-abuela-secreto-longevidad-133550787\">La persona más anciana del mundo, Ethel Caterham, cumple 117 años: \"Nunca discuto con nadie, pero luego hago lo que quiero\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "No es solo por mirar el móvil: los científicos descubren una nueva pista sobre la miopía, que podría afectar al 70% de los adolescentes en 2030",
+    "link": "https://www.elperiodico.com/es/salud/20261104/aumento-miopia-habito-diario-poca-luminosidad-dv-127269680",
+    "pubDate": "2026-11-04 17:09:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Según este estudio, la cantidad de luz que llega a nuestra retina es clave para evitar la progresión de la miopía</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20251025/epidemia-miopia-adolescentes-cinco-anos-dispositivos-moviles-tablets-122697595\">Hasta el 70% de los adolescentes serán miopes en cinco años: \"Los dispositivos están provocando una epidemia\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20250813/nuevas-gotas-presbicia-prometen-acabar-gafas-lentillas-vista-cansada-dv-120489149\">Las nuevas gotas contra la presbicia que prometen acabar con las gafas y lentillas</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Гороскоп на 5 листопада 2026 року для всіх знаків зодіаку",
+    "link": "https://ua.korrespondent.net/lifestyle/4926064-horoskop-na-5-lystopada-2026-roku-dlia-vsikh-znakiv-zodiaku",
+    "pubDate": "2026-11-04 17:05:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4624159.jpg\">Четвер, 5 листопада 2026 року, поєднає прагнення до порядку з потребою знаходити спільну мову.",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Zelenski aterriza por sorpresa en Madrid para reunirse con Sánchez y líderes presentes en la cumbre iberoamericana",
+    "link": "https://www.elperiodico.com/es/internacional/20261104/zelenski-suma-sorpresa-cumbre-iberoamericana-espana-visita-136087416",
+    "pubDate": "2026-11-04 17:02:40",
+    "category": "",
+    "description": "<h2>El presidente ucraniano será recibido por Pedro Sánchez en los márgenes de la cumbre y prevé dialogar sobre la situación de la invasión rusa a gran escala con líderes latinoamericanos por especificar</h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Dos ratas peleando por un churro: un curioso experimento muestra cómo ver escenas violentas activa las\"neuronas espejo\" de la agresión",
+    "link": "https://www.elperiodico.com/es/sociedad/20261104/ratas-peleandose-experimento-neuronas-espejo-agresion-estudio-136073220",
+    "pubDate": "2026-11-04 17:00:48",
+    "category": "",
+    "description": "<h2 class=\"item\">Un experimento de la Universidad de Princeton desvela que observar enfrentamientos cambia la actividad cerebral de los roedores y activa los mismos circuitos neuronales que se disparan durante el combate físico real</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ciencia/20240214/bromas-sentido-humor-orangutanes-chimpances-bonobos-gorilas-simios-primates-98097349\">Los simios también hacen bromas de 'cuñado': \"Solo se ríe el que la hace\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Macba inaugura una retrospectiva sobre la obra textil de la artista catalana Aurèlia Muñoz",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261104/macba-inaugura-retrospectiva-obra-textil-136086765",
+    "pubDate": "2026-11-04 17:00:42",
+    "category": "",
+    "description": "<h2>El Museu d'Art Contemporani de Barcelona reúne cerca de 300 piezas de la creadora en una retrospectiva que conmemora el centenario de su nacimiento </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Antonia Dell'Atte, tras las disculpas públicas de Ana Obregón: \"La verdad triunfa\"",
+    "link": "https://www.elperiodico.com/es/gente/20261104/antonia-dell-atte-disculpas-ana-obregon-mamarazzis-136071782",
+    "pubDate": "2026-11-04 16:59:40",
+    "category": "",
+    "description": "<h2 class=\"item\">Todos los detalles sobre el altercado de Lamine Yamal con dos trabajadoras en el aeropuerto de Barcelona</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20261030/mamarazzis-operacion-triunfo-aniversario-sin-reencuentro-lorena-vazquez-135913920\" >'Operación Triunfo', un aniversario sin reencuentro, por Lorena Vázquez</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20261029/mamarazzis-retratan-miguel-bose-antiga-135686902\" >Las Mamarazzis retratan a Miguel Bosé en la Antiga Fàbrica Damm</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Українських дітей у Британії змушували вчити російську",
+    "link": "https://ua.korrespondent.net/world/4926100-ukrainskykh-ditei-u-brytanii-zmushuvaly-vchyty-rosiisku",
+    "pubDate": "2026-11-04 16:58:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4624299.jpg\">У Великій Британії визнали проблему, з якою зіткнулися українські діти-біженці в місцевих школах. Тепер для них готують окрему програму та іспит із рідної мови.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El MWC 2027 prevé volver a superar los 100.000 asistentes en la edición más alejada de la telefonía móvil de su historia",
+    "link": "https://www.elperiodico.com/es/economia/20261104/mwc27-preve-superar-nuevo-100-136084138",
+    "pubDate": "2026-11-04 16:52:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El próximo Mobile incorporará la aviación, la salud y la automoción como verticales vinculados a la conectividad</h2><h2 class=\"item\">Entre los primeros ponentes figura el consejero delegado de Kalshi, la plataforma de apuestas que Consumo bloqueó junto a Polymarket por operar sin licencia de juego</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tecnologia/20260611/john-hoffman-presidente-gsma-barcelona-mwc-mobile-world-congress-impacto-congreso-ia-tecnologia-5g-131179636\">John Hoffman defiende el impacto del MWC en Barcelona: \"¿Vale la pena convivir una semana por 600 millones? No es un mal intercambio\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Трамп відповів, чи готові США застосувати ядерну зброю проти Ірану",
+    "link": "https://ua.korrespondent.net/world/4926098-tramp-vidpoviv-chy-hotovi-ssha-zastosuvaty-yadernu-zbroui-proty-iranu",
+    "pubDate": "2026-11-04 16:49:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4624300.jpg\">Президент США заявив, що Вашингтону не потрібно застосовувати ядерну зброю проти Ірану. За його словами, країна вже зазнала значних втрат від попередніх американських ударів.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Каменських шокувала зізнанням про алкоголь і сигарети",
+    "link": "https://ua.korrespondent.net/lifestyle/4926089-kamenskykh-shokuvala-ziznanniam-pro-alkohol-i-syharety",
+    "pubDate": "2026-11-04 16:47:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4624109.jpg\">Настя Каменських зробила відверте зізнання та вперше публічно розповіла про свою боротьбу з палінням і шкідливою звичкою вживати алкоголь.",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
     "title": "La peor derrota desde el Watergate",
     "link": "https://www.elperiodico.com/es/opinion/20261104/peor-derrota-watergate-donald-trump-editorial-136085870",
     "pubDate": "2026-11-04 16:44:12",
@@ -700,6 +1051,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4623966.jpg\">Літак Air Serbia, який прямував із Белграда до Москви, несподівано змінив курс над Литвою та повернувся до Сербії.",
     "topic": "політика",
     "topic_match_probability": 80
+  },
+  {
+    "title": "Uno de cada diez hombres adultos en España reconoce haber mantenido conductas sexuales contra niños o adolescentes",
+    "link": "https://www.elperiodico.com/es/sociedad/20261104/diez-hombres-adultos-espana-reconoce-conducta-sexual-menores-de-edad-universitat-de-barcelona-hombres-adultos-espana-grevia-ub-violencia-sexual-delitos-sexual-menores-de-16-anos-136069224",
+    "pubDate": "2026-11-04 12:13:21",
+    "category": "",
+    "description": "<h2 class=\"item\">El informe de la Universitat de Barcelona recoge agresiones que van desde acoso 'online' hasta tocamientos y penetración</h2><h2 class=\"item\">Más de la mitad de casos se dan con adolescentes de 16 y 17 años en los que el varón adulto tiene 10 años más como mínimo</h2><h2 class=\"item\"> <a href=\"https://www.elperiodico.com/es/sociedad/20251009/mitad-espanoles-jovenes-violencia-infancia-adolescencia-122437892\" target=\"_blank\">La mitad de españoles menores de 30 años sufrió violencia en la infancia y la adolescencia</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20251119/vicki-bernadet-campana-violencia-sexual-infancia-familia-123887136\" target=\"_blank\">Uno de cada tres jóvenes ha sufrido violencia sexual en la infancia: el 85% no lo explica hasta la edad adulta</a></h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 90
   },
   {
     "title": "У Комишувасі під завалами знайшли ще шість жертв",
@@ -1798,6 +2158,15 @@
     "description": "<h2>La Intervención General del Estado apuntó que en tres obras adjudicadas a Acciona los criterios determinantes fueron los juicios de valor sobre los criterios técnicos</h2>",
     "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
     "topic_match_probability": 70
+  },
+  {
+    "title": "Shlomo Ben Ami, diplomático israelí: \"Netanyahu espera instrucciones de Trump para reanudar la guerra en Irán\"",
+    "link": "https://www.elperiodico.com/es/internacional/20261104/entrevista-shlomo-ben-ami-netanyahu-espera-instrucciones-trump-reanudar-guerra-iran-136061880",
+    "pubDate": "2026-11-04 06:01:10",
+    "category": "",
+    "description": "<h2>El historiado y exministro de Exteriores asegura en una entrevista a EL PERIÓDICO que Israel ha afianzado su dominio militar en la región con las guerras de los últimos años, pero ha perdido a importantes aliados por el camino </h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
   },
   {
     "title": "La falta de demanda y los precios amenazan el negocio de la energía solar",
