@@ -1,5 +1,104 @@
 [
   {
+    "title": "Зеленський попередив Європу про амбіції Путіна",
+    "link": "https://ua.korrespondent.net/world/4925888-zelenskyi-poperedyv-yevropu-pro-ambitsii-putina",
+    "pubDate": "2026-11-03 23:49:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4623123.jpg\">Український президент закликав європейські уряди активніше використовувати власні оборонні можливості на тлі змін у політиці США.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Resultados de las elecciones de Estados Unidos 2026: quién controla el Congreso y qué cambia para Trump",
+    "link": "https://www.elperiodico.com/es/internacional/20261103/resultados-midterms-2026-elecciones-estados-unidos-congreso-senado-trump-136043263",
+    "pubDate": "2026-11-03 23:45:28",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20261104/midterms-2026-elecciones-estados-unidos-ultima-hora-directo-136000005\" target=\"_blank\">DIRECTO | Midterms 2026, elecciones en Estados Unidos, última hora en directo: resultados, recuento de votos y quién va ganando</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "¿Quién ha ganado las elecciones 'midterms' en Estados Unidos?",
+    "link": "https://www.elperiodico.com/es/internacional/20261103/midterms-2026-quien-ha-ganado-elecciones-estados-unidos-136043970",
+    "pubDate": "2026-11-03 23:45:27",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20261104/midterms-2026-elecciones-estados-unidos-ultima-hora-directo-136000005\" target=\"_blank\">DIRECTO | Midterms 2026, elecciones en Estados Unidos, última hora en directo: resultados, recuento de votos y quién va ganando</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Raphinha guarda el luto por Jesús de Miguel: \"No es un buen día para hablar de fútbol\"",
+    "link": "https://www.elperiodico.com/es/deportes/20261103/raphinha-guarda-luto-jesus-medina-136059638",
+    "pubDate": "2026-11-03 23:32:43",
+    "category": "",
+    "description": "<h2>El cambio de Rodri obedeció a molestias musculares, admite Hansi Flick</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El fútbol llora, por Juan Cruz Ruiz",
+    "link": "https://www.elperiodico.com/es/deportes/20261103/futbol-llora-juan-cruz-ruiz-136059834",
+    "pubDate": "2026-11-03 23:27:01",
+    "category": "",
+    "description": "<h2 class=\"item\">LA CRÓNICA: <a href=\"https://www.elperiodico.com/es/deportes/20261103/barcelona-aston-villa-champions-goles-resumen-cronica-136055040\" target=\"_blank\">Un Barça opresivo se recompone en Europa ante el asustadizo Aston Villa</a></h2><h2 class=\"item\">LA CONTRACRÓNICA: <a href=\"https://www.elperiodico.com/es/deportes/20261103/principe-guillermo-descubre-barca-136056504\" target=\"_blank\">El Príncipe Guillermo descubre al Barça</a></h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Disney готується до нової хвилі скорочень",
+    "link": "https://ua.korrespondent.net/business/companies/4925884-Disney-hotuietsia-do-novoi-khvyli-skorochen",
+    "pubDate": "2026-11-03 23:21:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4623101.jpg\">Скорочення можуть торкнутися тематичних парків, телеканалів і кіностудії. Скільки працівників втратять роботу, поки невідомо.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El París Saint-Germain muestra su grandeza ante un frágil Villarreal",
+    "link": "https://www.elperiodico.com/es/deportes/20261103/paris-saint-germain-muestra-grandeza-136059630",
+    "pubDate": "2026-11-03 23:17:18",
+    "category": "",
+    "description": "<h2 class=\"item\">El campeón de Europa, que ya ganaba por 0-4 a los 16 minutos, se dio un homenaje en La Cerámica con doblete incluido de Fabián.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Príncipe Guillermo descubre al Barça",
+    "link": "https://www.elperiodico.com/es/deportes/20261103/principe-guillermo-descubre-barca-136056504",
+    "pubDate": "2026-11-03 23:03:28",
+    "category": "",
+    "description": "<h2 class=\"item\">El heredero al trono británico protagoniza la primera visita de un miembro de la realeza al Camp Nou.</h2><h2 class=\"item\">Vino a ver al Aston Villa, del que es fan, pero se llevó dos camisetas azulgranas, para él y su hijo Jorge.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Росіяни вдарили по торговельному центру в Одесі",
+    "link": "https://ua.korrespondent.net/city/odessa/4925886-rosiiany-vdaryly-po-torhovelnomu-tsentru-v-odesi",
+    "pubDate": "2026-11-03 23:01:00",
+    "category": "Одеса",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4623102.jpg\">Станом на зараз інформації щодо поранених не надходило, заявив голова ОВА.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Підозра Мендель. СБУ знайшла держзраду",
+    "link": "https://ua.korrespondent.net/ukraine/4925881-pidozra-mendel-sbu-znaishla-derzhzradu",
+    "pubDate": "2026-11-03 22:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4623080.jpg\">Юлія Мендель обіймала посаду прессекретарки Володимира Зеленського з червня 2019 по липень 2021 року.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Un Barça opresivo se recompone en Europa ante el asustadizo Aston Villa",
+    "link": "https://www.elperiodico.com/es/deportes/20261103/barcelona-aston-villa-champions-goles-resumen-cronica-136055040",
+    "pubDate": "2026-11-03 22:55:47",
+    "category": "",
+    "description": "<h2>Un gol de Lamine y dos más de Raphinha conceden un solvente triunfo al equipo de Flick, mejorado tras un competido primer acto</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Le Normand boicotea el clínic de supervivencia del Atlético ante un excelso Bayern",
     "link": "https://www.elperiodico.com/es/deportes/20261103/atletico-bayern-champions-goles-resultado-resumen-136059438",
     "pubDate": "2026-11-03 22:55:01",
@@ -18,11 +117,29 @@
     "topic_match_probability": 95
   },
   {
+    "title": "El Unicaja se permite jugar con fuego",
+    "link": "https://as.com/baloncesto/el-unicaja-se-permite-jugar-con-fuego-f202611-n/",
+    "pubDate": "2026-11-03 22:52:46",
+    "category": "Baloncesto",
+    "description": "Los malagueños superan a la Reggiana (99-94) entre arreones de buen baloncesto y una desconexión final que empaña su tercera victoria europea.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "El Asisa Joventut logra su primer triunfo a domicilio de la temporada en Oporto (64-81)",
     "link": "https://www.elperiodico.com/es/deportes/20261103/asisa-joventut-logra-primer-triunfo-136058592",
     "pubDate": "2026-11-03 22:48:14",
     "category": "",
     "description": "<h2 class=\"item\">El conjunto de Dani Miret desarboló al cuadro luso con una gran actuación de Laprovittola, que aportó 23 puntos. </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Asisa Joventut sigue invicto en Europa",
+    "link": "https://as.com/baloncesto/mas_baloncesto/el-asisa-joventut-sigue-invicto-en-europa-f202611-n/",
+    "pubDate": "2026-11-03 22:42:39",
+    "category": "Baloncesto",
+    "description": "Los de Dani Miret sumaron en Oporto la tercera victoria en la Champions. Un parcial de 6-26 en el segundo cuarto fue suficiente.",
     "topic": "",
     "topic_match_probability": 0
   },
@@ -582,6 +699,15 @@
     "category": "",
     "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261103/llarena-anula-procesamiento-puigdemont-cierra-sumario-proces-136039397\">Llarena anula el procesamiento de Puigdemont y cierra el sumario del 'procés' para que se le aplique la amnistía</a></h2>",
     "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Elecciones 'midterms' en Estados Unidos: ¿Cómo se cuentan los votos y cuándo se sabrán los resultados?",
+    "link": "https://www.elperiodico.com/es/internacional/20261103/elecciones-midterms-eeuu-cuentan-votos-resultados-trump-136042081",
+    "pubDate": "2026-11-03 18:04:50",
+    "category": "",
+    "description": "<h2 class=\"item\">En esta guía te explicamos cómo se cuentan los votos, cómo se proclaman los ganadores y cuánto habrá que esperar para conocer el resultado definitivo de las elecciones legislativas que determinarán el futuro político de Trump</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20261103/midterms-2026-elecciones-estados-unidos-ultima-hora-directo-136000005\" target=\"_blank\">Midterms 2026, elecciones en Estados Unidos, en directo: encuestas, sondeos y última hora de las votaciones y Trump</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
     "topic_match_probability": 100
   },
   {
