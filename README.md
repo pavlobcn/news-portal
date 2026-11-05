@@ -1,8 +1,9 @@
-# News for 2026-11-05 04:03
+# News for 2026-11-05 09:33
 
 Previous day: [2026-11-04](./data/2026-11-04.md)
 
 ## ua.korrespondent.net
+08:59 [Хлопчик, якого відшив Едді Мерфі, через 45 років став зіркою](https://ua.korrespondent.net/lifestyle/4926149-khlopchyk-yakoho-vidshyv-eddi-merfi-cherez-45-rokiv-stav-zirkoui)<br>
 01:29 [Росія побила свій же рекорд із розпродажу золота](https://ua.korrespondent.net/business/economics/4926184-rosiia-pobyla-svii-zhe-rekord-iz-rozprodazhu-zolota)<br>
 00:01 [На Київщині спалахнула масштабна пожежа після атаки РФ](https://ua.korrespondent.net/ukraine/4926178-na-kyivschyni-spalakhnula-masshtabna-pozhezha-pislia-ataky-rf)<br>
 
@@ -10,5 +11,10 @@ Previous day: [2026-11-04](./data/2026-11-04.md)
 00:31 [Resumen del Real Madrid vs. Panathinaikos de Euroliga](https://as.com/videos/euroliga/resumen-del-real-madrid-vs-panathinaikos-de-euroliga-f202611-v/)<br>
 
 ## www.elperiodico.com
+09:16 [Precio del petróleo hoy, 5 de noviembre por la Guerra en Irán: consulta el precio del barril de Brent](https://www.elperiodico.com/es/economia/20261105/precio-petroleo-hoy-5-noviembre-dv-136088148)<br>
+08:58 [Los restos del antiguo telescopio espacial Swift caen sobre el norte de la isla de Sumatra, en Indonesia](https://www.elperiodico.com/es/sociedad/20261105/telescopio-espacial-swift-cae-indonesia-sumatra-136103474)<br>
+06:02 [Activistas en primera persona lideran un grupo de ayuda mutua con pacientes ingresados: "Sienten que hay esperanza"](https://www.elperiodico.com/es/ser-feliz/20261105/activistas-primera-persona-lideran-grupo-134430851)<br>
+06:01 [El 'turismo de residuos' agota a los vecinos del Vallès: "Vienen de otros pueblos y los contenedores están hasta arriba"](https://www.elperiodico.com/es/barcelona/20261105/turismo-residuos-agota-vecinos-valles-basuras-testimonios-135890753)<br>
+06:01 [Los riñones de donantes mayores de 75 años pueden alcanzar una supervivencia a medio plazo comparable a la de órganos más jóvenes](https://www.elperiodico.com/es/sanidad/20261105/rinones-donantes-mayores-anos-supervivencia-plazo-organos-jovenes-136085518)<br>
 01:59 [M. Victòria Serés: «La pedagogía es clave en la escuela, las organizaciones y la acción comunitaria»](https://www.elperiodico.com/es/sociedad/20261105/m-victoria-seres-pedagogia-clave-bc-135840192)<br>
 00:01 [La demanda para estudiar en la universidad pública se dispara un 27%, pero las plazas apenas crecen un 0,7%](https://www.elperiodico.com/es/sociedad/20261105/estudios-universidad-mejor-insercion-laboral-aumento-demanda-publica-poca-oferta-136083292)<br>

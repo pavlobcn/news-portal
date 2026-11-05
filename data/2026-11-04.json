@@ -1593,6 +1593,15 @@
     "topic_match_probability": 100
   },
   {
+    "title": "Shakira viaja de urgencia a Colombia por la delicada salud de su padre, William Mebarak, de 95 años",
+    "link": "https://www.elperiodico.com/es/gente/20261104/shakira-viaja-colombia-salud-padre-william-mebarak-136071968",
+    "pubDate": "2026-11-04 12:04:12",
+    "category": "",
+    "description": "<h2>La cantante habría aterrizado en Barranquilla en un avión privado para reunirse con su familia</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
     "title": "La AIReF alerta de que España incumplirá las reglas de gasto europeas desde este año hasta 2028",
     "link": "https://www.elperiodico.com/es/economia/20261104/airef-alerta-espana-incumplira-reglas-136072582",
     "pubDate": "2026-11-04 12:02:01",
@@ -1616,6 +1625,15 @@
     "pubDate": "2026-11-04 11:47:00",
     "category": "Новини України",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4623914.jpeg\">НМТ у 2027 році можуть складатися лише з трьох обов’язкових предметів. У Верховній Раді пропонують скасувати дисципліну на вибір, але залишити математику обов’язковою для всіх вступників.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un ciclo inversor histórico para impulsar el progreso económico del país",
+    "link": "https://www.elperiodico.com/es/economia/20261104/ciclo-inversor-historico-impulsar-progreso-bc-136071549",
+    "pubDate": "2026-11-04 11:42:41",
+    "category": "",
+    "description": "<h2>Redeia afronta el mayor ciclo inversor de su historia para reforzar la red de transporte de electricidad, integrar más energías renovables, responder al crecimiento de la demanda y convertir la electrificación en una palanca de competitividad, autonomía estratégica y cohesión territorial</h2>",
     "topic": "",
     "topic_match_probability": 0
   },
