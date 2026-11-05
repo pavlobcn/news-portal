@@ -1,8 +1,23 @@
-# News for 2026-11-05 11:47
+# News for 2026-11-05 17:46
 
 Previous day: [2026-11-04](./data/2026-11-04.md)
 
 ## ua.korrespondent.net
+17:31 [Свята 6 листопада 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4926399-sviata-6-lystopada-2026-roku-istoriia-tradytsii)<br>
+17:08 [У Тузлівських лиманах знову знайшли забруднення олією](https://ua.korrespondent.net/ukraine/4926411-u-tuzlivskykh-lymanakh-znovu-znaishly-zabrudnennia-oliieui)<br>
+17:05 [ЗПЕК уперше увійшла до п’ятірки найбільших імпортерів дизелю в Україну](https://ua.korrespondent.net/business/companies/4926414-zpek-upershe-uviishla-do-piatirky-naibilshykh-importeriv-dyzelui-v-ukrainu)<br>
+16:59 [Висоцька зробила нову заяву про здоров’я своєї доньки](https://ua.korrespondent.net/lifestyle/4926406-vysotska-zrobyla-novu-zaiavu-pro-zdorovia-svoiei-donky)<br>
+16:50 [Міжнародні резерви України відновили зростання](https://ua.korrespondent.net/business/financial/4926409-mizhnarodni-rezervy-ukrainy-vidnovyly-zrostannia)<br>
+16:34 [Учені встановили точне місце хрещення Ісуса Христа](https://ua.korrespondent.net/tech/science/4926126-ucheni-vstanovyly-tochne-mistse-khreschennia-isusa-khrysta)<br>
+16:10 [У Сибіру вибухнув магістральний газопровід](https://ua.korrespondent.net/world/russia/4926391-u-sybiru-vybukhnuv-mahistralnyi-hazoprovid)<br>
+16:03 [ШІ самостійно керував Gripen E: Saab провела випробування](https://ua.korrespondent.net/business/companies/4926388-shi-samostiino-keruvav-Gripen-E-Saab-provela-vyprobuvannia)<br>
+15:25 [Чому генератори не рятують? Київ без води](https://ua.korrespondent.net/kyiv/4926372-chomu-heneratory-ne-riatuuit-kyiv-bez-vody)<br>
+14:12 [Турецький Bayraktar TB2 навчився запускати рій дронів](https://ua.korrespondent.net/world/4926340-turetskyi-Bayraktar-TB2-navchyvsia-zapuskaty-rii-droniv)<br>
+13:56 [Європу накрила хвиля мінувань літаків](https://ua.korrespondent.net/world/4926335-yevropu-nakryla-khvylia-minuvan-litakiv)<br>
+13:36 [У Києві знову виникли перебої з водопостачанням](https://ua.korrespondent.net/city/kiev/4926330-u-kyievi-znovu-vynykly-pereboi-z-vodopostachanniam)<br>
+13:12 [Австралієць випадково став мільйонером під час риболовлі](https://ua.korrespondent.net/world/4926315-avstraliiets-vypadkovo-stav-milionerom-pid-chas-rybolovli)<br>
+13:03 [Ціни на нафту та газ у Європі впали майже на 20%](https://ua.korrespondent.net/business/economics/4926321-tsiny-na-naftu-ta-haz-u-yevropi-vpaly-maizhe-na-20)<br>
+11:55 [Долар дорожчає в обмінниках, євро подешевшав](https://ua.korrespondent.net/business/financial/4926291-dolar-dorozhchaie-v-obminnykakh-yevro-podeshevshav)<br>
 11:38 [Водопостачання Києва посилять: уряд виділив нові генератори](https://ua.korrespondent.net/city/kiev/4926282-vodopostachannia-kyieva-posyliat-uriad-vydilyv-novi-heneratory)<br>
 11:29 [В Італії листоноша зібрав 2,7 тонни монет номіналом один цент](https://ua.korrespondent.net/world/4926276-v-italii-lystonosha-zibrav-27-tonny-monet-nominalom-odyn-tsent)<br>
 11:23 [Аварійні відключення у Києві і чотирьох областях](https://ua.korrespondent.net/ukraine/4926280-avariini-vidkluichennia-u-kyievi-i-chotyrokh-oblastiakh)<br>
@@ -20,12 +35,33 @@ Previous day: [2026-11-04](./data/2026-11-04.md)
 00:01 [На Київщині спалахнула масштабна пожежа після атаки РФ](https://ua.korrespondent.net/ukraine/4926178-na-kyivschyni-spalakhnula-masshtabna-pozhezha-pislia-ataky-rf)<br>
 
 ## as.com
+15:42 [Damian Jones, una bendición para el Madrid](https://as.com/baloncesto/euroliga/damian-jones-una-bendicion-para-el-madrid-f202611-n/)<br>
+12:01 [Kevin Knox, un robo del Unicaja a la Euroliga](https://as.com/baloncesto/kevin-knox-un-robo-del-unicaja-a-la-euroliga-f202611-n/)<br>
 08:38 [Las claves del nuevo Barça](https://as.com/baloncesto/euroliga/las-claves-del-nuevo-barca-f202611-n/)<br>
 08:36 [El mejor Brooks vuelve a su casa](https://as.com/baloncesto/euroliga/el-mejor-brooks-vuelve-a-su-casa-f202611-n/)<br>
 08:36 [Chris Duarte regresa ante el Fenerbahçe](https://as.com/baloncesto/euroliga/chris-duarte-regresa-ante-el-fenerbahce-f202611-n/)<br>
 00:31 [Resumen del Real Madrid vs. Panathinaikos de Euroliga](https://as.com/videos/euroliga/resumen-del-real-madrid-vs-panathinaikos-de-euroliga-f202611-v/)<br>
 
 ## www.elperiodico.com
+17:38 [Las mujeres tienen peor salud mental, duermen menos y hacen menos ejercicio por el reparto desigual de las tareas familiares: 28% frente a 19%](https://www.elperiodico.com/es/sociedad/20261105/mujeres-salud-mental-dormir-deporte-peor-que-hombres-pobreza-tiempo-136119296)<br>
+17:36 [Los ganaderos de Girona alertan de que están "desprotegidos" ante el lobo y exigen el pago por los animales muertos](https://www.elperiodico.com/es/sociedad/20261105/ganaderos-girona-alertan-desprotegidos-lobo-136126211)<br>
+17:18 [Trabajo investiga al Departamento de Cultura de la Generalitat de Catalunya por las tareas de 207 becarios](https://www.elperiodico.com/es/economia/20261105/trabajo-investiga-departamento-cultura-generalitat-catalunya-tareas-becarios-136129028)<br>
+17:05 [¿Dónde vas a estar mejor?](https://www.elperiodico.com/es/opinion/20261105/vas-mejor-casa-escritores-articulo-juan-tallon-136127494)<br>
+17:02 [Tiempo en Catalunya mañana viernes: jornada soleada y temperaturas de hasta 20 grados](https://www.elperiodico.com/es/tiempo/20261105/tiempo-catalunya-hoy-viernes-sol-meteocat-dv-136125308)<br>
+16:56 [Evocación de la figura de Sacamantecas, uno de los primeros asesinos en serie de la historia española](https://www.elperiodico.com/es/ocio-y-cultura/20261105/evocacion-figura-sacamantecas-primeros-asesinos-136127242)<br>
+16:53 [Crítica de 'Los miserables': un ejercicio tan aparatoso como vacío de postureo anticapitalista](https://www.elperiodico.com/es/ocio-y-cultura/20261105/critica-los-miserables-fred-cavaye-vincent-lindon-136126499)<br>
+16:47 [Godzilla ha vuelto, para quedarse, a la cinematografía de la que surgió en los años 50, enfrentado ahora a otra criatura mutante de gigantescas proporciones](https://www.elperiodico.com/es/ocio-y-cultura/20261105/godzilla-vuelto-quedarse-cinematografia-surgio-136126560)<br>
+16:34 [Prévert y el huevo duro](https://www.elperiodico.com/es/opinion/20261105/prevert-huevo-duro-articulo-josep-maria-fonalleras-136095439)<br>
+16:25 [Campo Astur, Premio Empresa del Año Banco Sabadell La Nueva España](https://www.elperiodico.com/es/sociedad/20261105/campo-astur-premio-empresa-ano-bc-136125892)<br>
+16:18 [La Met Gala 2027 ya tiene temática tras la cancelación de Galliano: de los vaqueros a las camisetas, la moda cotidiana se elevará a los altares del arte](https://www.elperiodico.com/es/gente/20261105/met-gala-2027-tematica-fecha-exposicion-john-galliano-136124956)<br>
+16:10 [El Nasdaq se desploma casi un 6% tras el triunfo demócrata y agua la fiesta en las Bolsas europeas](https://www.elperiodico.com/es/economia/20261105/nasdaq-desploma-4-triunfo-democrata-136125266)<br>
+16:02 [Los empresarios asturianos rinden un cálido homenaje al sector primario](https://www.elperiodico.com/es/sociedad/20261105/empresarios-asturianos-rinden-calido-homenaje-bc-136124963)<br>
+16:00 [Bàrbara Mitats, Salut Mental Catalunya: "Cuidar es sostener la vida"](https://www.elperiodico.com/es/ser-feliz/20261105/barbara-mitats-salut-mental-catalunya-136105099)<br>
+15:30 [La Aemet advierte de la llegada de una borrasca que dejará lluvias "muy fuertes y persistentes" en el oeste e interior peninsular y Canarias](https://www.elperiodico.com/es/sociedad/20261105/aemet-borrasca-advierte-atlantica-peninsula-canarias-prevision-136122308)<br>
+15:20 [El miedo a viajar en tren empuja a los usuarios hacia autobuses cada vez más llenos: "Mi vida vale más que 15 minutos de pie"](https://www.elperiodico.com/es/barcelona/20261105/miedo-tren-rodalies-autobuses-interurbanos-saturados-136105268)<br>
+14:36 [El World Press Photo 2026 vuelve a Barcelona con 3 ganadores españoles](https://www.elperiodico.com/es/ocio-y-cultura/20261105/world-press-photo-2026-vuelve-136120181)<br>
+13:08 [El hallazgo de 280 grabados rupestres en una cueva catalana convierte el lugar en uno de los mayores tesoros del arte paleolítico del Mediterráneo](https://www.elperiodico.com/es/sociedad/20261105/hallazgo-grabados-rupestres-cueva-espluga-francoli-estudio-136111012)<br>
+12:40 [El sector de la salud será protagonista en el próximo Mobile World Congress con el programa 'Connect Health'](https://www.elperiodico.com/es/sanidad/20261105/sector-salud-sera-protagonista-proximo-mobile-world-congress-barcelona-connect-health-136111749)<br>
 11:45 [Los usuarios de los buses del Maresme reclaman al Parlament más frecuencias y que se prohíba viajar de pie](https://www.elperiodico.com/es/barcelona/mataro/20261105/usuarios-buses-maresme-reclaman-parlament-136106958)<br>
 11:43 [El Niño 2026-2027: científicos piden a Madrid reservas de alimentos y un comité de expertos](https://www.elperiodico.com/es/tendencias21/20261105/nino-2026-2027-cientificos-piden-136111183)<br>
 11:41 [Más de 12.000 euros de diferencia: la OCU calcula el ahorro que puede suponer el cambio de una hipoteca variable a fija](https://www.elperiodico.com/es/vivienda/20261105/hipoteca-variable-fija-ahorro-ocu-renegociar-dv-136105749)<br>
@@ -41,6 +77,9 @@ Previous day: [2026-11-04](./data/2026-11-04.md)
 09:59 [Primeras impresiones de 'Dungeons & Dragons: World of Warcraft'](https://www.elperiodico.com/es/videojuegos/20261105/primeras-impresiones-dungeons-dragons-world-warcraft-136082790)<br>
 09:16 [Precio del petróleo hoy, 5 de noviembre por la Guerra en Irán: consulta el precio del barril de Brent](https://www.elperiodico.com/es/economia/20261105/precio-petroleo-hoy-5-noviembre-dv-136088148)<br>
 08:58 [Los restos del antiguo telescopio espacial Swift caen sobre el norte de la isla de Sumatra, en Indonesia](https://www.elperiodico.com/es/sociedad/20261105/telescopio-espacial-swift-cae-indonesia-sumatra-136103474)<br>
+07:00 ["La nit del 31 d'octubre tot era 'truco o trato' y no se sentia parlar català enlloc"](https://www.elperiodico.com/es/entre-todos/participacion/31-octubre-halloween-castanyada-catala-carta-lector-montse-riverola-136044066)<br>
+06:30 ["Hace dos semanas que se acabó el triatlón en Sant Martí y las vallas siguen allí"](https://www.elperiodico.com/es/entre-todos/participacion/acabo-triatlon-sant-marti-vallas-carta-lector-raul-larcada-136036278)<br>
+06:15 ["Es pretén deslliurar l'enllumenat de Nadal del sentit religiós"](https://www.elperiodico.com/es/entre-todos/participacion/enllumenat-nadal-religio-carta-lector-marius-pla-135957458)<br>
 06:02 [Activistas en primera persona lideran un grupo de ayuda mutua con pacientes ingresados: "Sienten que hay esperanza"](https://www.elperiodico.com/es/ser-feliz/20261105/activistas-primera-persona-lideran-grupo-134430851)<br>
 06:01 [El 'turismo de residuos' agota a los vecinos del Vallès: "Vienen de otros pueblos y los contenedores están hasta arriba"](https://www.elperiodico.com/es/barcelona/20261105/turismo-residuos-agota-vecinos-valles-basuras-testimonios-135890753)<br>
 06:01 [Los riñones de donantes mayores de 75 años pueden alcanzar una supervivencia a medio plazo comparable a la de órganos más jóvenes](https://www.elperiodico.com/es/sanidad/20261105/rinones-donantes-mayores-anos-supervivencia-plazo-organos-jovenes-136085518)<br>
