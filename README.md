@@ -1,8 +1,11 @@
-# News for 2026-11-05 19:23
+# News for 2026-11-05 23:22
 
 Previous day: [2026-11-04](./data/2026-11-04.md)
 
 ## ua.korrespondent.net
+21:33 [У Словаччині в готелі зарізали українця: що відомо](https://ua.korrespondent.net/world/4926478-u-slovachchyni-v-hoteli-zarizaly-ukraintsia-scho-vidomo)<br>
+19:58 [На Тернопільщині викрили "тютюновий бізнес"](https://ua.korrespondent.net/ukraine/4926459-na-ternopilschyni-vykryly-tuituinovyi-biznes)<br>
+19:45 [В Україну насувається похолодання: де чекати мокрого снігу](https://ua.korrespondent.net/ukraine/4926454-v-ukrainu-nasuvaietsia-pokholodannia-de-chekaty-mokroho-snihu)<br>
 19:15 [Долар і євро пішли вниз: курс НБУ на п'ятницю](https://ua.korrespondent.net/business/financial/4926445-dolar-i-yevro-pishly-vnyz-kurs-nbu-na-piatnytsui)<br>
 17:31 [Свята 6 листопада 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4926399-sviata-6-lystopada-2026-roku-istoriia-tradytsii)<br>
 17:08 [У Тузлівських лиманах знову знайшли забруднення олією](https://ua.korrespondent.net/ukraine/4926411-u-tuzlivskykh-lymanakh-znovu-znaishly-zabrudnennia-oliieui)<br>
@@ -36,6 +39,13 @@ Previous day: [2026-11-04](./data/2026-11-04.md)
 00:01 [На Київщині спалахнула масштабна пожежа після атаки РФ](https://ua.korrespondent.net/ukraine/4926178-na-kyivschyni-spalakhnula-masshtabna-pozhezha-pislia-ataky-rf)<br>
 
 ## as.com
+23:03 [Resumen del Hapoel IBI Tel Aviv vs. FC Barcelona de Euroliga](https://as.com/videos/euroliga/resumen-del-hapoel-ibi-tel-aviv-vs-fc-barcelona-de-euroliga-f202611-v/)<br>
+22:59 [Brooks silencia su antigua casa](https://as.com/baloncesto/euroliga/brooks-silencia-su-antigua-casa-f202611-n/)<br>
+22:38 [Sekulic: “Fue un buen trabajo colectivo”](https://as.com/baloncesto/euroliga/sekulic-fue-un-buen-trabajo-colectivo-f202611-n/)<br>
+22:30 [Olimpia Milano-Valencia Basket, en directo: Euroliga, hoy en vivo](https://as.com/baloncesto/euroliga/olimpia-milano-valencia-basket-en-directo-euroliga-hoy-en-vivo-f202611-n/)<br>
+22:11 [Resumen del Fenerbahçe vs. Baskonia de Euroliga](https://as.com/videos/euroliga/resumen-del-fenerbahce-vs-baskonia-de-euroliga-f202611-v/)<br>
+22:05 [Brizuela ya es líder en el Barça de Sekulic](https://as.com/baloncesto/euroliga/brizuela-ya-es-lider-en-el-barca-de-sekulic-f202611-n/)<br>
+20:57 [Nueva sopapo en Euroliga para un limitado Baskonia](https://as.com/baloncesto/nueva-sopapo-en-euroliga-para-un-limitado-baskonia-f202611-n/)<br>
 19:11 [Fenerbahçe-Baskonia, en directo: Euroliga, hoy en vivo](https://as.com/baloncesto/euroliga/fenerbahce-baskonia-en-directo-euroliga-hoy-en-vivo-f202611-n/)<br>
 19:08 [Hapoel - Barça, en directo: Euroliga 2026-27 en vivo hoy](https://as.com/baloncesto/euroliga/hapoel-barca-en-directo-euroliga-2026-27-en-vivo-hoy-f202611-d/)<br>
 15:42 [Damian Jones, una bendición para el Madrid](https://as.com/baloncesto/euroliga/damian-jones-una-bendicion-para-el-madrid-f202611-n/)<br>
@@ -46,8 +56,16 @@ Previous day: [2026-11-04](./data/2026-11-04.md)
 00:31 [Resumen del Real Madrid vs. Panathinaikos de Euroliga](https://as.com/videos/euroliga/resumen-del-real-madrid-vs-panathinaikos-de-euroliga-f202611-v/)<br>
 
 ## www.elperiodico.com
+23:02 [Detenido en Málaga un informático con miles de archivos de pornografía infantil tras llevar su ordenador al servicio técnico](https://www.elperiodico.com/es/sucesos/20261105/detenido-malaga-tenencia-distribucion-pornografia-infantil-136141031)<br>
+22:55 [Los vecinos de la detenida en Montijo (Badajoz) por vender a sus hijos aseguran que en la casa había un trasiego constante de personas](https://www.elperiodico.com/es/sucesos/20261105/vecinos-detenida-montijo-badajoz-vender-hijos-aseguran-casa-habia-trasiego-136140880)<br>
+22:27 [Cuerpo asegura que "no hay ninguna previsión de cerrar" el AVE entre Madrid y Barcelona](https://www.elperiodico.com/es/economia/20261105/cuerpo-asegura-hay-prevision-cerrar-ave-madrid-barcelona-136140441)<br>
+22:02 [Brizuela construye una gran victoria del Barça sobre el Hapoel](https://www.elperiodico.com/es/deportes/20261105/brizuela-construye-gran-victoria-barca-136136213)<br>
+21:32 [CaixaBank prevé dos subidas más de tipos del BCE hasta el 3% y no descarta una tercera](https://www.elperiodico.com/es/economia/20261105/caixabank-preve-subidas-tipos-bce-136139485)<br>
+20:07 [Dia abandona Argentina: acuerda la venta de su negocio por 48 millones](https://www.elperiodico.com/es/economia/20261105/dia-abandona-argentina-acuerda-venta-136137399)<br>
+19:36 [El fiscal pide 52 años de cárcel para el sospechoso del doble crimen del pantano de Susqueda (Girona)](https://www.elperiodico.com/es/sucesos/20261105/crimen-pantano-susqueda-peticion-carcel-jordi-magenti-136135749)<br>
 19:19 [El viaje secreto de las mariposas monarca: pequeños rastreadores descubren rutas migratorias desconocidas](https://www.elperiodico.com/es/tendencias21/20261105/viaje-secreto-mariposas-monarca-pequenos-136135651)<br>
 18:51 [La candidata española a liderar la OMS avisa de la posible llegada de nuevas pandemias porque "estamos destrozando los ecosistemas"](https://www.elperiodico.com/es/sociedad/20261105/candidata-liderar-oms-neira-pandemia-virus-enfermedades-136129441)<br>
+18:40 [Agotados en apenas 15h los 20.000 bonos culturales de Barcelona, abiertos a vecinos de toda Catalunya](https://www.elperiodico.com/es/barcelona/20261105/agotados-en-apenas-15h-los-20-000-bonos-culturales-de-barcelona-abiertos-a-vecinos-toda-catalunya-136132235)<br>
 18:38 [La Casa de la Arquitectura Técnica de Barcelona reabre tras una profunda renovación](https://www.elperiodico.com/es/barcelona/20261105/casa-arquitectura-tecnica-barcelona-reabre-profunda-renovacion-136127347)<br>
 18:21 [Barcelona concede a título póstumo la Medalla de Oro de la Ciudad a Lluís Permanyer](https://www.elperiodico.com/es/barcelona/20261105/barcelona-concede-postumo-medalla-oro-titulo-postum-lluis-permanyer-pilar-malla-136132153)<br>
 18:15 [Así es el kratom, el opiáceo que asusta a EEUU por su "potencia adictiva" y que en España se vende como si fuera incienso](https://www.elperiodico.com/es/sociedad/20261105/kratom-opiaceo-droga-alerta-sanitaria-estados-unidos-adiccion-sobredosis-136079935)<br>
