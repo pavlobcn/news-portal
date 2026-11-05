@@ -1,8 +1,9 @@
-# News for 2026-11-05 18:36
+# News for 2026-11-05 19:23
 
 Previous day: [2026-11-04](./data/2026-11-04.md)
 
 ## ua.korrespondent.net
+19:15 [Долар і євро пішли вниз: курс НБУ на п'ятницю](https://ua.korrespondent.net/business/financial/4926445-dolar-i-yevro-pishly-vnyz-kurs-nbu-na-piatnytsui)<br>
 17:31 [Свята 6 листопада 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4926399-sviata-6-lystopada-2026-roku-istoriia-tradytsii)<br>
 17:08 [У Тузлівських лиманах знову знайшли забруднення олією](https://ua.korrespondent.net/ukraine/4926411-u-tuzlivskykh-lymanakh-znovu-znaishly-zabrudnennia-oliieui)<br>
 17:05 [ЗПЕК уперше увійшла до п’ятірки найбільших імпортерів дизелю в Україну](https://ua.korrespondent.net/business/companies/4926414-zpek-upershe-uviishla-do-piatirky-naibilshykh-importeriv-dyzelui-v-ukrainu)<br>
@@ -35,6 +36,8 @@ Previous day: [2026-11-04](./data/2026-11-04.md)
 00:01 [На Київщині спалахнула масштабна пожежа після атаки РФ](https://ua.korrespondent.net/ukraine/4926178-na-kyivschyni-spalakhnula-masshtabna-pozhezha-pislia-ataky-rf)<br>
 
 ## as.com
+19:11 [Fenerbahçe-Baskonia, en directo: Euroliga, hoy en vivo](https://as.com/baloncesto/euroliga/fenerbahce-baskonia-en-directo-euroliga-hoy-en-vivo-f202611-n/)<br>
+19:08 [Hapoel - Barça, en directo: Euroliga 2026-27 en vivo hoy](https://as.com/baloncesto/euroliga/hapoel-barca-en-directo-euroliga-2026-27-en-vivo-hoy-f202611-d/)<br>
 15:42 [Damian Jones, una bendición para el Madrid](https://as.com/baloncesto/euroliga/damian-jones-una-bendicion-para-el-madrid-f202611-n/)<br>
 12:01 [Kevin Knox, un robo del Unicaja a la Euroliga](https://as.com/baloncesto/kevin-knox-un-robo-del-unicaja-a-la-euroliga-f202611-n/)<br>
 08:38 [Las claves del nuevo Barça](https://as.com/baloncesto/euroliga/las-claves-del-nuevo-barca-f202611-n/)<br>
@@ -43,6 +46,9 @@ Previous day: [2026-11-04](./data/2026-11-04.md)
 00:31 [Resumen del Real Madrid vs. Panathinaikos de Euroliga](https://as.com/videos/euroliga/resumen-del-real-madrid-vs-panathinaikos-de-euroliga-f202611-v/)<br>
 
 ## www.elperiodico.com
+19:19 [El viaje secreto de las mariposas monarca: pequeños rastreadores descubren rutas migratorias desconocidas](https://www.elperiodico.com/es/tendencias21/20261105/viaje-secreto-mariposas-monarca-pequenos-136135651)<br>
+18:51 [La candidata española a liderar la OMS avisa de la posible llegada de nuevas pandemias porque "estamos destrozando los ecosistemas"](https://www.elperiodico.com/es/sociedad/20261105/candidata-liderar-oms-neira-pandemia-virus-enfermedades-136129441)<br>
+18:38 [La Casa de la Arquitectura Técnica de Barcelona reabre tras una profunda renovación](https://www.elperiodico.com/es/barcelona/20261105/casa-arquitectura-tecnica-barcelona-reabre-profunda-renovacion-136127347)<br>
 18:21 [Barcelona concede a título póstumo la Medalla de Oro de la Ciudad a Lluís Permanyer](https://www.elperiodico.com/es/barcelona/20261105/barcelona-concede-postumo-medalla-oro-titulo-postum-lluis-permanyer-pilar-malla-136132153)<br>
 18:15 [Así es el kratom, el opiáceo que asusta a EEUU por su "potencia adictiva" y que en España se vende como si fuera incienso](https://www.elperiodico.com/es/sociedad/20261105/kratom-opiaceo-droga-alerta-sanitaria-estados-unidos-adiccion-sobredosis-136079935)<br>
 18:01 [La literatura catalana exhibe músculo internacional y reúne en Barcelona a más de 150 traductores: "Son nuestros embajadores culturales"](https://www.elperiodico.com/es/ocio-y-cultura/20261105/literatura-catalana-exhibe-musculo-internacional-136126213)<br>
