@@ -1,5 +1,194 @@
 [
   {
+    "title": "Cuerpo se reúne con los sindicatos ferroviarios en plena escalada de tensión por la seguridad y las huelgas",
+    "link": "https://www.elperiodico.com/es/economia/20261105/cuerpo-reune-sindicatos-ferroviarios-plena-136106635",
+    "pubDate": "2026-11-05 10:25:58",
+    "category": "",
+    "description": "<h2>El ministro afronta su primera reunión con los representantes de los trabajadores tras asumir Transportes, con varias jornadas de paro convocadas para noviembre y la reciente dimisión del presidente de Adif como telón de fondo</h2>",
+    "topic": "політика",
+    "topic_match_probability": 58
+  },
+  {
+    "title": "Ana Obregón sentencia a Alessandro Lequio tras su perdón a Antonia Dell'Atte: \"Bendito seas, pero yo me voy a vivir en paz y dedicarme a la fundación de mi hijo\"",
+    "link": "https://www.elperiodico.com/es/gente/20261105/ana-obregon-sentencia-alessandro-lequio-perdon-antonia-dell-atte-dv-136106024",
+    "pubDate": "2026-11-05 10:22:06",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/yotele/20261103/ana-obregon-pide-perdon-publicamente-antonia-dell-atte-denuncia-malos-tratos-136048754\" >Ana Obregón pide perdón públicamente a Antonia Dell’Atte por acusarla de falsificar su denuncia por malos tratos</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20261104/antonia-dell-atte-disculpas-ana-obregon-mamarazzis-136071782\" >Antonia Dell'Atte, tras las disculpas públicas de Ana Obregón: \"La verdad triunfa\"</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "El PSOE activa los trámites para borrar a Óscar Puente de la papeleta “sin garantías” de conseguirlo",
+    "link": "https://www.elperiodico.com/es/politica/20261105/psoe-tramites-borrar-puente-papeleta-136106480",
+    "pubDate": "2026-11-05 10:21:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El envío de las papeletas a los domicilios de los solicitantes del voto por correo se iniciará el próximo lunes, pero en el caso de los residentes en el extranjero comenzó este mismo jueves</h2><h2 class=\"item\">A mediodía de este miércoles, el exministro formalizó un escrito de renuncia ante la Junta Electoral Provincial de Valladolid. La cabeza de lista pasará a ser la ministra de Igualdad, Ana Redondo</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ada Colau propone una \"Tasa Rich\" para gravar los patrimonios superiores al millón de euros y recaudar 10.000 millones",
+    "link": "https://www.elperiodico.com/es/politica/20261105/ada-colau-impuesto-grandes-fortunas-136106335",
+    "pubDate": "2026-11-05 10:17:27",
+    "category": "",
+    "description": "<h2>La candidata del Frente Amplio asegura que es necesario que los beneficios de las grandes empresas sirvan para mejorar los servicios públicos</h2>",
+    "topic": "політика",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "Mel, Víctor y Gael, la familia que dejó Catalunya para irse a una aldea rural en Galicia: \"No sabíamos realmente dónde nos metíamos\"",
+    "link": "https://www.elperiodico.com/es/economia/20261105/vida-rural-familia-cataluna-aldea-galicia-mel-victor-dv-136072435",
+    "pubDate": "2026-11-05 10:12:20",
+    "category": "",
+    "description": "<h2>A pesar de las dificultades, la pareja tiene claro que su decisión fue acertada: \"Hace poco fuimos a Barcelona a visitar a la familia y estuvimos cuatro o cinco días, pero fue horrible\"</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260825/abandonaron-catalunya-bebe-galicia-reformar-pajar-jorge-alba-dv-et-133487142\">Jorge y Alba abandonaron Catalunya con su bebé para empezar de cero en el bosque de Galicia: \"A nosotros nos gusta el ambiente rural y tranquilo, pero en Catalunya hay muchísima gente\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261102/reforma-casa-rural-aldea-galicia-cataluna-aurora-miqueas-dv-135913778\">Aurora y Miqueas dejan Catalunya y compran su segunda vivienda en una aldea gallega por 30.000 euros: \"Son casas que mueren. Esta llevaba desde 2017 cerrada y en venta y no tenía ni visitas\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La UCO requiere nuevos documentos sobre la trama Koldo por una nueva pieza secreta abierta por el juez de la Audiencia Nacional",
+    "link": "https://www.elperiodico.com/es/politica/20261105/operacion-uco-secreta-orden-juez-caso-koldo-136106039",
+    "pubDate": "2026-11-05 10:12:06",
+    "category": "",
+    "description": "<h2>El juez Moreno abrió el martes una nueva pieza separada tras recibir un nuevo informe de la UCO</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "НХЛ: Лос-Анджелес і Сіетл видали видовищні матчі",
+    "link": "https://ua.korrespondent.net/sport/hokey/4926252-nkhl-los-andzheles-i-sietl-vydaly-vydovyschni-matchi",
+    "pubDate": "2026-11-05 10:07:00",
+    "category": "Новини хокею",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4625354.jpg\">Чинні чемпіони продовжують набирати хід, а в інших матчах дня вболівальники побачили голеві феєрії та напружені розв’язки.",
+    "topic": "спорт",
+    "topic_match_probability": 92
+  },
+  {
+    "title": "Понад дві третини британців вважають США загрозою миру у світі",
+    "link": "https://ua.korrespondent.net/world/4926253-ponad-dvi-tretyny-brytantsiv-vvazhauit-ssha-zahrozoui-myru-u-sviti",
+    "pubDate": "2026-11-05 10:02:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4625355.jpg\">Загрозою для світового миру Китай вважають 62% респондентів, Росію - 89%. Ізраїль так сприймають 78% опитаних, Іран - 75%.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Sancionado con 24 días sin empleo y sueldo un guardia urbano de Barcelona tras negarse a hablar en catalán",
+    "link": "https://www.elperiodico.com/es/barcelona/20261105/sancionado-24-dias-empleo-sueldo-136104603",
+    "pubDate": "2026-11-05 10:01:20",
+    "category": "",
+    "description": "<h2>El ayuntamiento sanciona al agente por el trato \"inadecuado\" dispensado a la ciudadana durante una actuación policial</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260921/barcelona-rambla-multas-negocios-catalan-134486878\" target=\"_blank\"><a href=\"https://www.elperiodico.com/es/barcelona/20261017/uso-jovenes-catalan-barcelona-descenso-30-por-ciento-desde-1995-135173582\" >Barcelona empezará por la Rambla a multar a los negocios que no rotulen en catalán</a></a></h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20261017/uso-jovenes-catalan-barcelona-descenso-30-por-ciento-desde-1995-135173582\" >El uso del catalán entre los jóvenes de Barcelona ha descendido más de un 30% en tres décadas</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 63
+  },
+  {
+    "title": "З орбіти на Землю впав телескоп NASA вагою 1500 кг - NASA",
+    "link": "https://ua.korrespondent.net/tech/space/4926246-z-orbity-na-zemlui-vpav-teleskop-NASA-vahoui-1500-kh-NASA",
+    "pubDate": "2026-11-05 10:01:00",
+    "category": "Космос",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4625312.jpg\">Американська космічна обсерваторія Swift остаточно припинила своє існування, увійшовши в атмосферу Землі та згорівши над територією Індонезії.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Дві хвилі проти Трампа: як вибори у США можуть допомогти Україні",
+    "link": "https://ua.korrespondent.net/articles/4926257-dvi-khvyli-proty-trampa-yak-vybory-u-ssha-mozhut-dopomohty-ukraini",
+    "pubDate": "2026-11-05 10:01:00",
+    "category": "Статті",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4625356.jpg\">Демократи перехопили ініціативу в Конгресі, а американці дякують українцям за протидію втручанню РФ у вибори. Чи перетвориться це на нову військову допомогу Києву?",
+    "topic": "політика",
+    "topic_match_probability": 94
+  },
+  {
+    "title": "Los jubilados anticipados afectados por un error de la Seguridad Social tienen derecho a una revisión de su pensión, según la OCU",
+    "link": "https://www.elperiodico.com/es/economia/20261105/ocu-jubilados-anticipados-afectados-error-seguridad-social-derecho-revision-pension-dv-136085177",
+    "pubDate": "2026-11-05 10:00:35",
+    "category": "",
+    "description": "<h2>La rectificación afecta a quienes se jubilaron anticipadamente de forma voluntaria en 2026 y tenían una pensión teórica superior a la máxima, tras aplicarse coeficientes reductores más elevados de lo previsto</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Una moto abandonada, unas sandalias en la montaña y una pregunta sin respuesta: ¿dónde está Sara María Serra?",
+    "link": "https://www.elperiodico.com/es/sucesos/20261105/desaparecida-sara-maria-serra-moto-montana-badalona-paradero-desconocido-videpodcast-136105608",
+    "pubDate": "2026-11-05 10:00:35",
+    "category": "",
+    "description": "<h2 class=\"item\">El primer capítulo de la segunda temporada de 'En Paradero Desconocido', presentado por la periodista Tamara Morillo, reconstruye los últimos movimientos conocidos de la mujer, de 55 años, a través del testimonio de sus amigas y de la portavoz de su familia.</h2><h2 class=\"item\">El videpódcast podrá verse en todos los periódicos de Prensa Ibérica y en las principales plataformas de audio apartir del 5 de noviembre.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Puente dejar de 'mazonear'",
+    "link": "https://www.elperiodico.com/es/opinion/20261105/puente-mazonear-articulo-pilar-garces-136089889",
+    "pubDate": "2026-11-05 10:00:34",
+    "category": "",
+    "description": "<h2>Si Puente hubiera dejado el ministerio de Transportes en enero, tras el descarrilamiento y choque de Adamuz, quién sabe dónde estaríamos ahora</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261104/oscar-puente-ministro-descarrilado-obras-136064210\">Óscar Puente, un ministro descarrilado entre las obras y las crisis</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 92
+  },
+  {
+    "title": "Primeras impresiones de 'Dungeons & Dragons: World of Warcraft'",
+    "link": "https://www.elperiodico.com/es/videojuegos/20261105/primeras-impresiones-dungeons-dragons-world-warcraft-136082790",
+    "pubDate": "2026-11-05 09:59:26",
+    "category": "",
+    "description": "<h2>Hemos puesto a prueba las reglas del nuevo libro y algunas de sus mazmorras para comprobar cómo plantea las aventuras y qué libertad ofrece a los participantes</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Дизельна угода Трампа і Путіна на межі зриву - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4926251-dyzelna-uhoda-trampa-i-putina-na-mezhi-zryvu-zmi",
+    "pubDate": "2026-11-05 09:58:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4625334.jpg\">Американські компанії \"не наважуються\" купувати російський дизель через юридичні ризики та санкції, вважають аналітики ринку.",
+    "topic": "політика",
+    "topic_match_probability": 78
+  },
+  {
+    "title": "Пенелопа Крус змінила імідж заради нової фотозйомки",
+    "link": "https://ua.korrespondent.net/lifestyle/4926151-penelopa-krus-zminyla-imidzh-zarady-novoi-fotoziomky",
+    "pubDate": "2026-11-05 09:53:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4624494.jpg\">52-річна Пенелопа Крус вразила кардинальною зміною іміджу на обкладинці свіжого глянцю V Magazine.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cambios en los canales de TDT hoy 5 de noviembre: cómo resintonizar tu TV para ver La Séptima y la UHD",
+    "link": "https://www.elperiodico.com/es/tele/20261105/cambios-tdt-hoy-resintonizacion-canales-emisoras-uhd-laseptima-dv-135488299",
+    "pubDate": "2026-11-05 09:50:00",
+    "category": "",
+    "description": "<h2 class=\"item\">La televisión digital terrestre se actualiza para emitir en ultra alta definición y sumar una nueva cadena</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/20261104/guia-la-septima-television-programas-horarios-presentadores-135882852\">Guía de La Séptima, la nueva cadena de televisión: todos los programas, horarios y presentadores</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Померли двоє поліцейських, поранених дроном поблизу Комишувахи",
+    "link": "https://ua.korrespondent.net/ukraine/4926247-pomerly-dvoie-politseiskykh-poranenykh-dronom-poblyzu-komyshuvakhy",
+    "pubDate": "2026-11-05 09:45:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4625332.jpg\">Олег Дубецький та Сергій Бережко отримали тяжкі поранення внаслідок атаки російського безпілотника.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "НБА: Михайлюк зазнав поразки з Ютою",
+    "link": "https://ua.korrespondent.net/sport/basketball/4926241-nba-mykhailuik-zaznav-porazky-z-yutoui",
+    "pubDate": "2026-11-05 09:35:00",
+    "category": "Новини баскетболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4625310.jpg\">Український форвард Святослав Михайлюк взяв участь у поєдинку проти Нью-Орлеана, а топклуби ліги порадували вболівальників яскравими перемогами.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Мумії дітей в Андах розкрили правду про давні жертвопринесення",
+    "link": "https://ua.korrespondent.net/tech/science/4925854-mumii-ditei-v-andakh-rozkryly-pravdu-pro-davni-zhertvoprynesennia",
+    "pubDate": "2026-11-05 09:31:00",
+    "category": "Новини науки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4622940.jpg\">У муміях інків знайшли психоактивні речовини, вжиті перед ритуальним жертвоприношенням.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Arranca la cumbre iberoamericana con un frío saludo de Milei a Sánchez y petición de diálogo del Rey",
     "link": "https://www.elperiodico.com/es/internacional/20261105/abre-cumbre-iberoamericana-madrid-rey-sanchez-milei-136104596",
     "pubDate": "2026-11-05 09:30:42",
@@ -97,6 +286,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4624471.jpg\">Зустріч із дитячим кумиром - це не завжди омріяне фото чи бажаний автограф: іноді реальність готує зовсім інший сценарій.",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Entrenamientos cortos y comidas saludables: así es la revolución de ISN Virtual Gym x Paufeel",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20261105/entrenamientos-cortos-comidas-saludables-revolucion-bc-136103734",
+    "pubDate": "2026-11-05 08:58:18",
+    "category": "",
+    "description": "",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 76
   },
   {
     "title": "Los restos del antiguo telescopio espacial Swift caen sobre el norte de la isla de Sumatra, en Indonesia",
@@ -405,6 +603,15 @@
     "topic_match_probability": 45
   },
   {
+    "title": "Catalunya lanzará una prueba piloto europea en dos municipios para sacar viviendas vacías al mercado del alquiler",
+    "link": "https://www.elperiodico.com/es/economia/20261105/programada-cataluna-lanzara-prueba-piloto-136087021",
+    "pubDate": "2026-11-05 06:01:38",
+    "category": "",
+    "description": "<h2>El prevé movilizar 10,6 millones de euros para rehabilitar más de 378 viviendas vacías y destinarlas al alquiler asequible antes de 2029</h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
     "title": "\"Riesgo permitido\", la doctrina del Tribunal Supremo que puede librar de un proceso penal al portero Jesús Owono",
     "link": "https://www.elperiodico.com/es/deportes/futbol/20261105/riesgo-permitido-doctrina-tribunal-supremo-librara-portero-andorra-causa-penal-136095655",
     "pubDate": "2026-11-05 06:01:37",
@@ -421,6 +628,15 @@
     "description": "<h2>Interior prevé desplegar un plan para renovar los equipos de protección, incorporar maquinaria especializada y mejorar los parques</h2><h2>Los bomberos denuncian que los medios actuales son insuficientes para eliminar los este tipo de contaminantes</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20261105/catalunya-investigara-primera-vez-cancer-bombers-generalitat-jubilados-expuestos-toxicos-135800497\">Catalunya investigará por primera vez el cáncer entre los bomberos, incluidos los jubilados: \"Llevamos 20 o 30 años expuestos a tóxicos sin saberlo\"</a></h2>",
     "topic": "політика",
     "topic_match_probability": 50
+  },
+  {
+    "title": "Las nuevas tasas de basura incrementan el riesgo del 'turismo de residuos' y otros fraudes en los municipios",
+    "link": "https://www.elperiodico.com/es/barcelona/20261105/nuevas-tasas-basura-abren-veda-reciclaje-pagar-menos-no-tributar-135944315",
+    "pubDate": "2026-11-05 06:01:33",
+    "category": "",
+    "description": "<h2>Una exhaustiva guía de la Fundació ENT detalla las pillerías más frecuentes para burlar las ordenanzas municipales</h2><h2>La más habitual es el 'turismo de residuos': vecinos con 'puerta a puerta' que se 'fugan' a pueblos con contenedores abiertos</h2><h2>REPORTAJE | <a href=\"https://www.elperiodico.com/es/barcelona/20261104/turismo-residuos-agota-vecinos-valles-basuras-testimonios-135890753\" target=\"_blank\">El 'turismo de residuos' agota a los vecinos del Vallès: \"Vienen de otros pueblos y los contenedores están hasta arriba\"</a></h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 72
   },
   {
     "title": "El 'turismo de residuos' agota a los vecinos del Vallès: \"Vienen de otros pueblos y los contenedores están hasta arriba\"",
