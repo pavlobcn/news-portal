@@ -1,5 +1,365 @@
 [
   {
+    "title": "El Gobierno británico obligará a publicar los sueldos en las ofertas de trabajo",
+    "link": "https://www.elperiodico.com/es/internacional/20261106/gobierno-britanico-obligara-publicar-sueldos-ofertas-trabajo-136160378",
+    "pubDate": "2026-11-06 12:59:57",
+    "category": "",
+    "description": "<h2>La medida, que ahora no aplica más de la mitad de las empresas, forma parte de la estrategia de \"pequeños arreglos\" de Burnham</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Ayuso apunta al Gobierno por el accidente de Urda: \"La corrupción mata. Se podía haber evitado\"",
+    "link": "https://www.elperiodico.com/es/politica/20261106/ayuso-apunta-gobierno-accidente-urda-136160315",
+    "pubDate": "2026-11-06 12:58:55",
+    "category": "",
+    "description": "<h2>La presidenta madrileña critica que Sánchez ha elegido al vicepresidente Carlos Cuerpo para reemplazar a Óscar Puente por ser \"el mejor valorado\" en las encuestas</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El 47% de los catalanes prohibiría las redes sociales a menores de 16 años y el 35% los teléfonos móviles",
+    "link": "https://www.elperiodico.com/es/sociedad/20261106/prohibicion-redes-sociales-moviles-internet-136155494",
+    "pubDate": "2026-11-06 12:58:11",
+    "category": "",
+    "description": "<h2 class=\"item\">Siete de cada diez catalanes creen que la FP es más útil que la universidad para encontrar empleo, según el último barómetro del CEO</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261106/barometro-ceo-catalanes-creen-no-inundaciones-preparados-136155707\" target=\"_blank\">El 66% de los catalanes cree que se está poco o nada preparados ante el riesgo de inundaciones o incendios</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "El Rey admite las dificultades para mantener vivas las cumbres iberoamericanas en el actual contexto geopolítico",
+    "link": "https://www.elperiodico.com/es/politica/20261106/rey-admite-dificultades-mantener-vivas-cumbres-iberoamericanas-136160004",
+    "pubDate": "2026-11-06 12:53:54",
+    "category": "",
+    "description": "<h2 class=\"item\">El jefe de Estado celebra que a pesar de las dificultades se mantenga \"la llama\" y se alcancen consensos</h2><h2 class=\"item\">Rebeca Grynspan, candidata a dirigir la ONU, alerta de la crisis del multilateralismo durante la entrega del Premio Fórum Europa a la SEGIB</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El juez Calama rechaza imputar malversación a Zapatero por las joyas porque en 2007 no era obligatorio entregar regalos al Estado",
+    "link": "https://www.elperiodico.com/es/politica/20261106/juez-calama-rechaza-imputar-malversacion-zapatero-joyas-136159967",
+    "pubDate": "2026-11-06 12:53:23",
+    "category": "",
+    "description": "<h2>La pieza se abrió por presuntos delitos fiscal y de contrabando tras el hallazgo de las piezas en su despacho profesional</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Seis de cada 10 catalanes hablan en castellano cuando se dirigen a una persona no conocida",
+    "link": "https://www.elperiodico.com/es/sociedad/20261106/seis-10-catalanes-hablan-castellano-persona-no-conocida-136155225",
+    "pubDate": "2026-11-06 12:52:41",
+    "category": "",
+    "description": "<h2 class=\"item\">Según el último estudio del CEO, el castellano impera en un 53% de las conversaciones, mientras que el 30% de los encuestados nunca empieza a hablar en catalán</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20261017/uso-jovenes-catalan-barcelona-descenso-30-por-ciento-desde-1995-135173582\">El uso del catalán entre los jóvenes de Barcelona ha descendido más de un 30% en tres décadas</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Parlamento Europeo propondrá 'salvar' a los coches de combustión más allá de 2035",
+    "link": "https://www.elperiodico.com/es/motor/20261106/parlamento-europeo-propondra-salvar-coches-combustion-2035-136156566",
+    "pubDate": "2026-11-06 12:51:39",
+    "category": "",
+    "description": "<h2>La Comisión de Medio Ambiente aprueba por 48 votos a 30 (y 2 abstenciones) su propuesta de revisión de los objetivos de emisiones de CO₂ para alargar la vida de los vehículos gasolina y diésel, que se votará en diciembre.</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Jorge Ponce inaugura la nueva etapa de 'Cine de barrio' en La 2",
+    "link": "https://www.elperiodico.com/es/tele/20261106/cine-barrio-jorge-ponce-inaugura-nueva-etapa-136158570",
+    "pubDate": "2026-11-06 12:50:16",
+    "category": "",
+    "description": "<h2 class=\"item\">El programa llevaba 31 años de emisión en La 1 de TVE</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La misión del Papa en Latinoamérica: reivindicar la \"justicia social\" frente a los desmanes del anarcocapitalismo de Milei",
+    "link": "https://www.elperiodico.com/es/internacional/20261106/mision-papa-latinoamerica-reivindicar-justicia-social-frente-desmanes-anarcocapitalismo-milei-136159663",
+    "pubDate": "2026-11-06 12:47:56",
+    "category": "",
+    "description": "<h2>León visitará Uruguay, Argentina y Perú, donde están previstas multitudinarias misas e intervenciones de alto calibre</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Померла заслужена артистка України",
+    "link": "https://ua.korrespondent.net/showbiz/culture/4926609-pomerla-zasluzhena-artystka-ukrainy",
+    "pubDate": "2026-11-06 12:46:00",
+    "category": "Новини культури",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4626910.jpg\">На 65-му році життя відійшла у вічність заслужена артистка України Ольга Черсак, яка присвятила чотири десятиліття музиці та викладацтву.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Затримано ухилянта, який вбив посадовця в Дніпрі",
+    "link": "https://ua.korrespondent.net/city/dnepr/4926621-zatrymano-ukhylianta-yakyi-vbyv-posadovtsia-v-dnipri",
+    "pubDate": "2026-11-06 12:42:00",
+    "category": "Дніпро",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4626958.jpg\">Російський агент підірвав авто керівника Лівобережної адміністрації Дніпровської міськради Юрія Федька і \"заліг на дно\".",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "Lecciones para la UE de la derrota de Trump",
+    "link": "https://www.elperiodico.com/es/opinion/20261106/lecciones-ue-derrota-trump-136157548",
+    "pubDate": "2026-11-06 12:34:35",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Pau Sabaté, estilista, sobre Javier Ruiz (53 años): \"Su marca personal se ha constituido alrededor de una manera muy reconocible de hacer periodismo\"",
+    "link": "https://www.elperiodico.com/es/gente/20261106/javier-ruiz-la-septima-nuevo-canal-television-estilista-pau-sabate-dv-136152593",
+    "pubDate": "2026-11-06 12:30:46",
+    "category": "",
+    "description": "<h2>El experto en imagen y marca personal analiza la nueva etapa profesional del periodista en La Séptima: \"Cuando pasas a dirigir editorialmente una cadena, tus decisiones pasan a formar parte de tu propia reputación\"</h2><h2><a href=\"https://www.elperiodico.com/es/tele/20261104/javier-ruiz-la-septima-director-editorial-presentador-cadena-tdt-135929831\">Javier Ruiz, director editorial y presentador de La Séptima: \"Nunca he visto una operación de sabotaje contra una televisión como esta\"</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Jordi Pons (93 años), alpinista: \"Como más pescado que carne, todo a la plancha y cada día pan con tomate y jamón. Además, el alcohol no va conmigo\"",
+    "link": "https://www.elperiodico.com/es/gente/20261106/jordi-pons-93-anos-alpinista-vida-saludable-estilo-de-vida-dv-136137536",
+    "pubDate": "2026-11-06 12:30:01",
+    "category": "",
+    "description": "<h2 class=\"item\">Este hombre mantiene una rutina sencilla basada en el pescado, los alimentos a la plancha y la actividad física</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/salud/20260712/joan-vaello-100-anos-levanto-7-desayuno-agua-dulce-dv-132224490\" target=\"_blank\" rel=\"nofollow\">Joan Vaello (100 años): \"Cada día me levanto a las 7, tomo un vaso de agua, me miro al espejo y desayuno un pastelito, pero con control\"</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Un ascenso estratégico",
+    "link": "https://as.com/baloncesto/mas_baloncesto/un-ascenso-estrategico-f202611-n/",
+    "pubDate": "2026-11-06 12:28:07",
+    "category": "Baloncesto",
+    "description": "El filial del Movistar Estudiantes disputa por primera vez en su historia la Segunda FEB tras la apuesta de la nueva propiedad en el proyecto deportivo.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Наркокартель Хімпром планував підкупити Клименка через його оточення - НАБУ",
+    "link": "https://ua.korrespondent.net/ukraine/4926619-narkokartel-khimprom-planuvav-pidkupyty-klymenka-cherez-yoho-otochennia-nabu",
+    "pubDate": "2026-11-06 12:28:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4626934.jpg\">Детективи з'ясовують, ким є ці люди, які були готові отримувати частку ресурсів у наркобізнесі, та мали здатність впливати на рішення міністра.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Принципова позиція: Світоліна порушила багаторічну традицію WTA",
+    "link": "https://ua.korrespondent.net/sport/tenis/4926612-pryntsypova-pozytsiia-svitolina-porushyla-bahatorichnu-tradytsiui-WTA",
+    "pubDate": "2026-11-06 12:25:00",
+    "category": "Новини тенісу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4626911.jpg\">Українка категорично відмовилася ставати поруч із росіянками та білорусками, змусивши організаторів скасувати фотосесію.",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El Gobierno lanza una nueva convocatoria de 442 pisos 'baratos', menos de un tercio de los 1.500 prometidos por Sánchez",
+    "link": "https://www.elperiodico.com/es/economia/20261106/gobierno-lanzara-nueva-convocatoria-pisos-136157710",
+    "pubDate": "2026-11-06 12:23:54",
+    "category": "",
+    "description": "<h2>Vivienda asegura que cumplirá su calendario y anuncia otros 1.000 pisos antes de acabar el año. Los inmuebles anunciados se ubican en Murcia (109), Galicia (104), Comunidad Valenciana (86), Cataluña (73), Castilla-La Mancha (63) y Asturias (7)</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El 66% de los catalanes cree que se está poco o nada preparados ante el riesgo de inundaciones o incendios",
+    "link": "https://www.elperiodico.com/es/sociedad/20261106/barometro-ceo-catalanes-creen-no-inundaciones-preparados-136155707",
+    "pubDate": "2026-11-06 12:17:10",
+    "category": "",
+    "description": "<h2>El último barómetro del CEO también refleja que el 91% de los ciudadanos considera que las alertas de Protecció Civil son útiles</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20261103/catalunya-apuesta-enviar-menos-alertas-movil-lluvias-torrenciales-136004440\" target=\"_blank\">Catalunya estudia enviar menos alertas al móvil por lluvias torrenciales</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Киянин викрав 1,6 млн грн у доньки загиблого військового",
+    "link": "https://ua.korrespondent.net/city/kiev/4926616-kyianyn-vykrav-16-mln-hrn-u-donky-zahybloho-viiskovoho",
+    "pubDate": "2026-11-06 12:16:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4626915.jpg\">Дівчина наживо ніколи не бачила зловмисника. А на фото, які він надсилав, насправді була інша людина.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los participantes de la Vueling Cursa de Bombers reciben sus dorsales y camisetas",
+    "link": "https://www.elperiodico.com/es/fotos/en-imagenes/participantes-cursa-bombers-reciben-dorsales-fotos-136157140",
+    "pubDate": "2026-11-06 12:15:25",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Ponemos a prueba los deportivos de Volkswagen en la Driving Experience de Valencia",
+    "link": "https://www.elperiodico.com/es/motor/20261106/volkswagen-driving-experience-valencia-golf-id-polo-gtx-136156765",
+    "pubDate": "2026-11-06 12:13:03",
+    "category": "",
+    "description": "<h2>El Aspar Circuit acogió una nueva edición de los cursos de conducción de Volkswagen, donde comprobamos la agilidad del ID. Polo, y las prestaciones de los Golf más potentes</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "В Україні повертають медичну авіацію",
+    "link": "https://ua.korrespondent.net/ukraine/4926613-v-ukraini-povertauit-medychnu-aviatsiui",
+    "pubDate": "2026-11-06 12:11:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4626916.jpg\">Це дозволить швидше доправляти важких пацієнтів до лікарень в Україні та за кордоном, а також перевозити донорські органи для трансплантації.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Aurora y Miqueas dejan Catalunya para vivir en una aldea gallega por 30.000 euros: \"Son casas que mueren. Esta llevaba desde 2017 cerrada y en venta y no tenía ni visitas\"",
+    "link": "https://www.elperiodico.com/es/economia/20261106/reforma-casa-rural-aldea-galicia-cataluna-aurora-miqueas-dv-135913778",
+    "pubDate": "2026-11-06 12:10:00",
+    "category": "",
+    "description": "<h2>La pareja buscaba una construcción para usar de garaje, pero empezaron a hacer números y optaron por comprar una segunda residencia: \"Por un poco más tienes una vivienda con garaje\"</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260825/abandonaron-catalunya-bebe-galicia-reformar-pajar-jorge-alba-dv-et-133487142\" >Jorge y Alba abandonaron Catalunya con su bebé para empezar de cero en el bosque de Galicia: \"A nosotros nos gusta el ambiente rural y tranquilo, pero en Catalunya hay muchísima gente\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261029/pueblo-aislado-montana-leon-vida-rural-autosuficiente-infancia-dura-irina-dv-et-135489053\" >Irina vive aislada en la montaña desde los 15 años tras irse de casa: \"Yo llegué a este pueblo desde un lugar aún más precario; para mí es un lujo tener agua del grifo\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Foment del Treball reclama limitar las reducciones de jornada para cuidar a hijos",
+    "link": "https://www.elperiodico.com/es/economia/20261106/foment-treball-reclama-limitar-reduccion-jornada-cuidado-hijos-136155129",
+    "pubDate": "2026-11-06 12:08:00",
+    "category": "",
+    "description": "<h2>La histórica patronal catalana presenta sus demandas al ganador de las elecciones del 29 de noviembre y plantea una reducción generalizada de impuestos, mantener las centrales nucleares e invertir más en infraestructuras</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260929/baja-laboral-foment-del-treball-reclama-despedir-trabajadores-varias-ausencias-134791382\">Foment reclama poder despedir a los trabajadores si encadenan varias bajas o una larga</a></h2>",
+    "topic": "вибори",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "“Tiene un motor increíble”: Jasikevicius, feliz con su nuevo pívot NBA",
+    "link": "https://as.com/baloncesto/tiene-un-motor-increible-jasikevicius-feliz-con-su-nuevo-pivot-nba-f202611-n/",
+    "pubDate": "2026-11-06 12:07:57",
+    "category": "Baloncesto",
+    "description": "Buen debut de Dwight Powell en la paliza del Fenerbahçe al Baskonia. El canadiense demostró que aportará dureza en defensa y mucho trabajo en el rebote.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Comisión Europea acusa a TikTok de fomentar la adicción de los usuarios y perjudicar su salud mental",
+    "link": "https://www.elperiodico.com/es/internacional/20261106/comision-europea-acusa-tiktok-fomentar-adiccion-usuarios-salud-mental-menores-scroll-moviles-136153890",
+    "pubDate": "2026-11-06 12:00:06",
+    "category": "",
+    "description": "<h2>Bruselas acusa a la plataforma propiedad de la china ByteDance de impulsar contenidos personalizados potencialmente nocivos, exige una modificación de su diseño y amenaza con una multa millonaria</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Вчені здивували новою теорією будівництва пірамід",
+    "link": "https://ua.korrespondent.net/tech/science/4926466-vcheni-zdyvuvaly-novoui-teoriieui-budivnytstva-piramid",
+    "pubDate": "2026-11-06 12:00:00",
+    "category": "Новини науки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4626034.jpg\">Фізики та матеріалознавці припускають, що блоки Великої піраміди Гізи могли не витесувати в кар'єрах, а виготовляти прямо на будівництві з вапнякової суміші.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Японія вимагає від Путіна скасувати рішення щодо Japan Tobacco",
+    "link": "https://ua.korrespondent.net/business/4926608-yaponiia-vymahaie-vid-putina-skasuvaty-rishennia-schodo-Japan-Tobacco",
+    "pubDate": "2026-11-06 12:00:00",
+    "category": "Новини бізнесу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4626891.jpg\">Японський уряд офіційно висловив протест Москві через передачу російських активів Japan Tobacco International у тимчасове управління.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Jordi Graupera busca entrar en las instituciones por tercera vez con Alhora: \"Si hay una oportunidad, es esta\"",
+    "link": "https://www.elperiodico.com/es/politica/20261106/jordi-graupera-alhora-elecciones-generales-136023165",
+    "pubDate": "2026-11-06 11:59:19",
+    "category": "",
+    "description": "<h2 class=\"item\">Tras fracasar en las elecciones municipales y catalanas, el periodista y filósofo intenta dar el salto al Congreso </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261101/renovacion-listas-electorales-elecciones-generales-29-noviembre-catalunya-psc-erc-junts-comuns-frente-amplio-pp-vox-135837754\">Renovación o continuidad: los partidos catalanes cambian más de la mitad de sus puestos de salida para el 29-N</a></h2>",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "¿Qué pasa con el aceite de oliva? Por qué España va a retirar miles de toneladas y cómo puede afectar al precio en el supermercado",
+    "link": "https://www.elperiodico.com/es/economia/20261106/aceite-oliva-por-que-espana-almacenara-miles-toneladas-como-afecta-precio-136156145",
+    "pubDate": "2026-11-06 11:55:26",
+    "category": "",
+    "description": "<h2>La buena cosecha y el elevado volumen de existencias han activado un mecanismo que obliga a las almazaras a inmovilizar temporalmente el 12% de su producción</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ikea y Lidl se suben al regreso de C. Tangana para sus nuevas campañas: \"El padre del rap. Literalmente.\"",
+    "link": "https://www.elperiodico.com/es/gente/20261106/c-tangana-lidl-ikea-anuncio-dv-136153913",
+    "pubDate": "2026-11-06 11:54:38",
+    "category": "",
+    "description": "<h2 class=\"item\">La cadena de supermercados promociona una mochila portabebé con un plano modificado del videoclip, e Ikea hace lo propio con una trona</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20261104/c-tangana-milko-freestyle-homenaje-muerte-bebe-disco-136064748\" >C. Tangana vuelve tres años después con 'Milko Freestyle': rap, muerte, paternidad y \"otro disco\"</a></h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Cursa de Bombers 2026: todas las calles cortadas en Barcelona este domingo y los cambios en el transporte público",
+    "link": "https://www.elperiodico.com/es/barcelona/20261106/cursa-bombers-2026-calles-cortadas-transporte-publico-136152837",
+    "pubDate": "2026-11-06 11:53:53",
+    "category": "",
+    "description": "<h2>La carrera reunirá a 20.000 corredores y provocará cortes de tráfico desde primera hora, desvíos en 31 líneas de autobús y restricciones de aparcamiento que comenzarán antes del domingo</h2><h2>Directo | <a href=\"https://www.elperiodico.com/es/barcelona/20261106/trafico-barcelona-hoy-directo-rondas-rodalies-metro-133938712\" target=\"_blank\">Tráfico y transporte público en Barcelona: última hora de las retenciones, accidentes, Rodalies y metro</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Guerra de informes entre el Gobierno y los gigantes de los centros de datos sobre su impacto en el precio de la luz durante años",
+    "link": "https://www.elperiodico.com/es/economia/20261106/centros-de-datos-precio-luz-guerra-informes-gobierno-tecnologicas-136155948",
+    "pubDate": "2026-11-06 11:53:13",
+    "category": "",
+    "description": "<h2 class=\"item\">El Ejecutivo alerta de una gran subida del coste de la electricidad si hay un despliegue masivo y descontrolado de ‘data centers’ hasta 2030 y la patronal SpainDC anticipa un impacto mínimo en los precios si se cumplen las previsiones más realistas de entrada en funcionamiento de nuevas instalaciones</h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "У Франції фанати дотепно висміяли власну команду",
+    "link": "https://ua.korrespondent.net/sport/football/4926581-u-frantsii-fanaty-dotepno-vysmiialy-vlasnu-komandu",
+    "pubDate": "2026-11-06 11:53:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4626814.jpg\">Уболівальники французького клубу влаштували незвичайну акцію протесту проти незадовільних результатів команди, увімкнувши циркову музику.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La nueva versión de ‘La Regenta’ vuelve a toparse con la iglesia asturiana: por qué una novela de 1884 sigue incomodando",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261106/nueva-version-regenta-vuelve-toparse-136151630",
+    "pubDate": "2026-11-06 11:51:12",
+    "category": "",
+    "description": "<h2>Esta nueva adaptación de la obra de Clarín, tras el filme de Gonzalo Suárez de 1974 y la miniserie de Fernando Méndez-Leite de 1995, no podrá rodarse en la catedral de Oviedo ni en la ciudad donde transcurre la acción</h2><h2><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20261106/millon-pesetas-secreto-mendez-leite-136155103\" target=\"_blank\">Un millón de pesetas, el secreto de Méndez-Leite para rodar 'La Regenta' en la Catedral de Oviedo</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "УПЛ, анонс 12 туру: Друге “класичне” за кілька тижнів, Харків зіграє з Карпатами.",
+    "link": "https://ua.korrespondent.net/sport/4926587-upl-anons-12-turu-druhe-klasychne-za-kilka-tyzhniv-kharkiv-zihraie-z-karpatamy",
+    "pubDate": "2026-11-06 11:50:00",
+    "category": "Новини спорту",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4626839.jpg\"> BETKING, стратегічним партнером УПЛ, пропонує анонс матчів чемпіонату України.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "ЗСУ уразили два склади боєприпасів на Запоріжжі",
+    "link": "https://ua.korrespondent.net/ukraine/4926604-zsu-urazyly-dva-sklady-boieprypasiv-na-zaporizhzhi",
+    "pubDate": "2026-11-06 11:50:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4626890.jpg\">Також під удари потрапили пункт управління БпЛА та склад паливно-мастильних матеріалів у Донецькій області.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Військова знімалась у МастерШеф замість лікування у шпиталі",
+    "link": "https://ua.korrespondent.net/ukraine/4926601-viiskova-znimalas-u-mastershef-zamist-likuvannia-u-shpytali",
+    "pubDate": "2026-11-06 11:48:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4626869.jpeg\">Під час \"лікування\" вона отримувала грошове забезпечення. Державі завдано збитків на майже 250 тисяч гривень.",
+    "topic": "телебачення",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La electrolinera de la Ronda de Dalt de Barcelona comenzará a operar en diciembre con el doble de capacidad de carga",
+    "link": "https://www.elperiodico.com/es/barcelona/20261106/ronda-de-dalt-electrolinera-publica-recarga-ultrarrapida-autonomia-400-km-15-minutos-136046074",
+    "pubDate": "2026-11-06 11:47:31",
+    "category": "",
+    "description": "<h2>La infraestructura reforzará la red Endolla Barcelona con 12 plazas de alta potencia</h2><h2>CONTEXTO | <a href=\"https://www.elperiodico.com/es/economia/20261013/gobierno-autoriza-licitar-ocho-areas-135290100\" target=\"_blank\">El Gobierno licitará ocho electrolineras ultrarrápidas en seis autopistas por 612 millones de euros</a></h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 90
+  },
+  {
     "title": "Un millón de pesetas, el secreto de Méndez-Leite para rodar \"La Regenta\" en la Catedral de Oviedo",
     "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261106/millon-pesetas-secreto-mendez-leite-136155103",
     "pubDate": "2026-11-06 11:41:00",
@@ -16,6 +376,15 @@
     "description": "<h2>España se medirá a la República Checa y a Inglaterra en el Metropolitano en los partidos de la Nations League</h2>",
     "topic": "спорт",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Понад 300 виробників зброї об’єдналися із СБУ: що зміниться",
+    "link": "https://ua.korrespondent.net/ukraine/4926600-ponad-300-vyrobnykiv-zbroi-obiednalysia-iz-sbu-scho-zminytsia",
+    "pubDate": "2026-11-06 11:39:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4626868.jpg\">СБУ та понад 300 українських виробників озброєння посилюють співпрацю, щоб захистити оборонні підприємства від російських агентів, витоку секретної інформації та кібератак.",
+    "topic": "політика",
+    "topic_match_probability": 75
   },
   {
     "title": "Norman Foster diseña el Duomo del fútbol, la nueva casa del Inter y del AC Milan",
