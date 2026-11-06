@@ -1,5 +1,212 @@
 [
   {
+    "title": "Кількість студентів 25+ різко зросла: у вишах готують нові перевірки",
+    "link": "https://ua.korrespondent.net/ukraine/4926732-kilkist-studentiv-25-rizko-zrosla-u-vyshakh-hotuuit-novi-perevirky",
+    "pubDate": "2026-11-06 20:13:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4627382.jpg\">У деяких українських університетах студенти віком від 25 років становлять до 98% від загальної кількості здобувачів освіти. У січні 2027 року Держслужба якості освіти планує повторно перевірити організацію їхнього навчання.",
+    "topic": "політика",
+    "topic_match_probability": 35
+  },
+  {
+    "title": "Dos detenidos por la oleada de robos en coches en La Bisbal d'Empordà (Girona)",
+    "link": "https://www.elperiodico.com/es/sucesos/20261106/dos-detenidos-oleada-robos-coches-bisbal-emporda-136173502",
+    "pubDate": "2026-11-06 20:12:04",
+    "category": "",
+    "description": "<h2 class=\"item\">Los sospechosos, de 27 y 21 años, han sido arrestados durante un operativo contra la multirreincidencia en el que también se ha desalojado la antigua Casa Cultural de Andalucía</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El padre de Neymar entra a trabajar en el Santos",
+    "link": "https://www.elperiodico.com/es/deportes/20261106/padre-neymar-entra-trabajar-santos-136180494",
+    "pubDate": "2026-11-06 20:03:26",
+    "category": "",
+    "description": "<h2>El representante será el nuevo director ejecutivo del club paulista hasta diciembre</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La Vueling Cursa de Bombers convertirá este domingo las calles de Barcelona en la fiesta del atletismo popular",
+    "link": "https://www.elperiodico.com/es/deportes/20261106/vueling-cursa-bombers-fiesta-atletismo-popular-barcelona-136132688",
+    "pubDate": "2026-11-06 20:00:49",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/deportes/20261104/vueling-cursa-bombers-vuelve-calles-barcelona-136072711\" >La Vueling Cursa de Bombers tomará las calles este domingo con 16.000 participantes: \"Es la carrera de Barcelona\"</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Україна отримає від Польщі нову допомогу перед зимою",
+    "link": "https://ua.korrespondent.net/ukraine/4926730-ukraina-otrymaie-vid-polschi-novu-dopomohu-pered-zymoui",
+    "pubDate": "2026-11-06 19:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4627364.jpg\">Польща додатково виділить близько 1,8 млн євро на закупівлю генераторів для України. Допомога має посилити стійкість української енергетики напередодні зими.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Las fábulas que iluminan la noche en Gaza: \"Todos los niños merecen crecer rodeados de cuentos, amor y esperanza\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261106/fabulas-iluminan-noche-gaza-ninos-136179990",
+    "pubDate": "2026-11-06 19:58:42",
+    "category": "",
+    "description": "<h2 class=\"item\">La escritora María Isabel Sánchez Vegara presenta en Barcelona 'Bajo la luna del olivo', libro que reúne algunas historias que una madre palestina cuenta sus hijas para mantener viva la imaginación en medio de la devastación</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20261024/escribir-ucrania-drones-bombas-cultura-135512118\">Escribir en Ucrania bajo los drones y las bombas: \"La cultura puede salvar vidas, da sentido a la existencia\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Así afectará la borrasca Bruna a Catalunya: vuelven las lluvias, pero suben las temperaturas",
+    "link": "https://www.elperiodico.com/es/tiempo/20261106/borrasca-bruna-tiempo-cataluna-lluvias-temperatura-dv-loc-136176954",
+    "pubDate": "2026-11-06 19:52:37",
+    "category": "",
+    "description": "<h2 class=\"item\">El acusado ascenso térmico marcará el nuevo episodio meteorológico y lo diferenciará de los anteriores</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261105/aemet-borrasca-advierte-atlantica-peninsula-canarias-prevision-136122308\" >La Aemet anuncia la llegada de la borrasca Bruna, que dejará lluvias \"muy fuertes y persistentes\" en el oeste e interior peninsular y Canarias</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Una subida del alquiler obliga a una entidad de ocio para niños con discapacidad de Sabadell a abandonar su emblemática sede",
+    "link": "https://www.elperiodico.com/es/barcelona/20261106/entidad-ocio-ninos-discapacidad-marcha-artaneu-sabadell-136124844",
+    "pubDate": "2026-11-06 19:50:27",
+    "category": "",
+    "description": "<h2>\"No podemos permitir que el coste del espacio acabe condicionando el proyecto\", advierte Eloi Moya, impulsor de Arteneu, que busca una nueva sede tras cinco años en la Casa Taulé</h2><h2><a href=\"https://www.elperiodico.com/es/vivienda/20261102/precio-alquileres-contiene-catalunya-anos-regulacion-situa-877-euros-media-135991448\">El precio de los alquileres se contiene en Catalunya tras dos años de regulación y se sitúa en 877 euros de media</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Каллас: Путін не має права вето щодо безпеки ЄС",
+    "link": "https://ua.korrespondent.net/world/4926728-kallas-putin-ne-maie-prava-veto-schodo-bezpeky-yes",
+    "pubDate": "2026-11-06 19:44:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4627363.jpg\">ЄС не виконуватиме домовленостей щодо України та безпеки Європи, якщо не буде їхньою стороною. Про це заявила Кая Каллас, коментуючи можливу велику угоду між США та Росією.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La victoria demócrata en EEUU anticipa un cambio histórico en la relación con Israel",
+    "link": "https://www.elperiodico.com/es/internacional/20261106/victoria-democrata-eeuu-anticipa-cambio-relacion-israel-136180297",
+    "pubDate": "2026-11-06 19:43:27",
+    "category": "",
+    "description": "<h2>El cambio de actitud en el partido, donde muchos defienden medidas punitivas contra el Estado sionista, es un reflejo de lo que reclama la opinión pública, entre la que el apoyo al país se ha desmoronado</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Infantilismo político",
+    "link": "https://www.elperiodico.com/es/opinion/20261106/infantilismo-politico-136180160",
+    "pubDate": "2026-11-06 19:42:01",
+    "category": "",
+    "description": "<h2>La desconfianza en quienes nos gobiernan y nos informan puede llevarnos a dar más autoridad a algoritmos que deciden qué vemos y cuyo criterio apenas conocemos</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Netflix prepara una precuela del fenómeno 'Stranger Things'",
+    "link": "https://www.elperiodico.com/es/tele/20261106/netflix-prepara-precuela-fenomeno-stranger-136179976",
+    "pubDate": "2026-11-06 19:39:49",
+    "category": "",
+    "description": "<h2 class=\"item\">El servicio de 'streaming' sitúa la historia de su próxima precuela titulada 'Other Worlds: A Stranger Things Adventure' en la década de 1950, antes de la trama original en Hawkins</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Un Espanyol animado recibe al Depor con Sarabia en la grada: \"Es un reto bonito volver a conseguir una buena victoria en casa\"",
+    "link": "https://www.elperiodico.com/es/deportes/20261106/espanyol-animado-recibe-depor-sarabia-136179677",
+    "pubDate": "2026-11-06 19:35:02",
+    "category": "",
+    "description": "<h2 class=\"item\">El técnico vasco cumplirá este sábado su último partido de sanción pendiente en un duelo clave en Cornellà, donde los pericos no ganan desde la primera jornada.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Muere el cineasta chileno Sebastián Lelio, ganador de un Oscar por 'Una mujer fantástica'",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261106/muere-cineasta-chileno-sebastian-lelio-136179769",
+    "pubDate": "2026-11-06 19:33:53",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Переговори в Абу-Дабі: Україна передала США свої пропозиції",
+    "link": "https://ua.korrespondent.net/ukraine/4926725-perehovory-v-abu-dabi-ukraina-peredala-ssha-svoi-propozytsii",
+    "pubDate": "2026-11-06 19:27:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4627329.jpg\">Володимир Зеленський обговорив із лідерами восьми країн Північної Європи та Балтії підготовку до тристоронніх переговорів в Абу-Дабі.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El exconseller de la Generalitat Joaquim Forn se incorpora a la estructura del Barça",
+    "link": "https://www.elperiodico.com/es/deportes/20261106/exconseller-generalitat-joaquim-forn-incorpora-fc-barcelona-136178696",
+    "pubDate": "2026-11-06 19:21:36",
+    "category": "",
+    "description": "<h2>El exdirigente político, que estuvo en la cárcel por el 'procès', formó parte de la plataforma Suma Barça, un movimiento que promovía una forma distinta a la actual de dirigir el club azulgrana</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Мала Токмачка під контролем ЗСУ: навіщо РФ поширює фейки",
+    "link": "https://ua.korrespondent.net/ukraine/4926723-mala-tokmachka-pid-kontrolem-zsu-navischo-rf-poshyruiie-feiky",
+    "pubDate": "2026-11-06 19:15:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4627328.jpg\">Російське командування систематично звітує про нібито захоплення Малої Токмачки, однак село залишається під контролем українських військових.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Ф’юрі побачив знос у намірі Вайлдера провести бій з Опетаєю",
+    "link": "https://ua.korrespondent.net/sport/boks/4926721-fuiri-pobachyv-znos-u-namiri-vaildera-provesty-bii-z-opetaieui",
+    "pubDate": "2026-11-06 19:06:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4627293.jpg\">Британський боксер чітко побачив біду передпенсійного становища американця, який має вийти на ринг у рамках шоу за участю Ф’юрі.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "España y Argentina se citan este sábado en una doble batalla por el Mundial de pádel",
+    "link": "https://www.elperiodico.com/es/deportes/20261106/espana-argentina-citan-sabado-doble-136177560",
+    "pubDate": "2026-11-06 19:05:53",
+    "category": "",
+    "description": "<h2 class=\"item\">La selección española femenina busca su séptimo título consecutivo tras arrollar a Francia mientras la masculina persigue la venganza del año pasado después de superar a Portugal.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Reabre la AP-7 en Subirats en dirección a Barcelona con un carril cortado tras un accidente múltiple",
+    "link": "https://www.elperiodico.com/es/sucesos/20261106/cortada-ap-7-accidente-multiple-136178153",
+    "pubDate": "2026-11-06 18:55:58",
+    "category": "",
+    "description": "<h2 class=\"item\">La autopista registra retenciones de unos ocho kilómetros desde Vilafranca del Penedès</h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Una mujer rescata a una cría de koala de las garras de una pitón y consigue reunirla con su madre",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20261106/mujer-rescata-cria-koala-garras-australia-dv-136177001",
+    "pubDate": "2026-11-06 18:55:43",
+    "category": "",
+    "description": "<h2 class=\"item\">La serpiente medía aproximadamente un metro y medio, por lo que podría haber matado al animal</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261106/julia-zorro-perdido-miedo-humanos-vivir-zoo-pirineu-136148064\" >Julià, el zorro que ha perdido el miedo a los humanos y tendrá que vivir para siempre en el Zoo del Pirineu</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "ДТП із військовими у Фінляндії: постраждали 14 людей",
+    "link": "https://ua.korrespondent.net/world/4926719-dtp-iz-viiskovymy-u-finliandii-postrazhdaly-14-luidei",
+    "pubDate": "2026-11-06 18:54:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4627295.jpg\">Унаслідок аварії травмувалися 14 людей, а причиною зіткнення могла стати сильна ожеледиця.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "El líder de una secta en Kenia, condenado a 200 años de cárcel por matar de hambre a 190 niños",
+    "link": "https://www.elperiodico.com/es/internacional/20261106/lider-secta-kenia-condenado-ninos-muertos-136177892",
+    "pubDate": "2026-11-06 18:44:51",
+    "category": "",
+    "description": "<h2>Paul Mackenzie incitó a los miembros de su iglesia apocalíptica a dejar morir de hambre a sus hijos para que pudieran \"encontrarse con Jesús\", en un caso que conmocionó al país</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Detenido un menor de 14 años vinculado Blocus por promover disturbios en Barcelona dos sábados seguidos",
     "link": "https://www.elperiodico.com/es/sucesos/20261106/detenido-menor-14-vinculado-blocus-disturbios-barcelona-136177563",
     "pubDate": "2026-11-06 18:42:36",
