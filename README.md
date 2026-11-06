@@ -1,8 +1,11 @@
-# News for 2026-11-06 03:39
+# News for 2026-11-06 04:58
 
 Previous day: [2026-11-05](./data/2026-11-05.md)
 
 ## www.elperiodico.com
+04:50 [No es otra tribuna sobre Oscar Wilde, es una mejor](https://www.elperiodico.com/es/ocio-y-cultura/libros/20261106/tribuna-oscar-wilde-mejor-135797152)<br>
+04:50 [Una piedrecita y la punta de un zapato](https://www.elperiodico.com/es/opinion/20261106/rosa-montero-nuevo-libro-ines-martin-rodrigo-articulo-136073590)<br>
+04:50 [‘Mary’, de Mary Wollstonecraft: una mujer que se adelantó a su tiempo](https://www.elperiodico.com/es/ocio-y-cultura/libros/20261106/mary-wollstonecraft-critica-libro-mary-135759482)<br>
 01:59 [Laura Morro: «Sin trabajo social no hay derechos, y sin derechos no existe una sociedad justa»](https://www.elperiodico.com/es/sociedad/20261106/laura-morro-trabajo-social-hay-bc-135769176)<br>
 01:59 [El Programa Proveedores Sostenibles del Pacto Mundial de la ONU España, Fundación ICO e ICEX forma a más de 9.500 profesionales desde su lanzamiento](https://www.elperiodico.com/es/economia/20261106/programa-proveedores-sostenibles-pacto-mundial-bc-136143928)<br>
 00:02 [Una caja para guardar "lo que duele": las víctimas de la dana protagonizan un ritual para reconciliarse con el Poyo dos años después](https://www.elperiodico.com/es/sociedad/20261106/caja-guardar-duele-victimas-dana-136141685)<br>
