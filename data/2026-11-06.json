@@ -1,5 +1,41 @@
 [
   {
+    "title": "Barcelona desaloja un gran asentamiento de chabolas para construir el Parc Central de Vallcarca",
+    "link": "https://www.elperiodico.com/es/barcelona/20261106/desalojo-vallcarca-parc-central-barcelona-115259451",
+    "pubDate": "2026-11-06 23:59:38",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/barcelona/20240208/chabolistas-vallcarca-salen-calle-desalojo-barcelona-97924390\" target=\"_blank\">Chabolistas de Vallcarca salen a la calle ante su posible desalojo: \"Queremos un futuro mejor\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20231220/incierto-futuro-barraquistas-vallcarca-complica-transformacion-barrio-barcelona-96019743\" >La reactivación de la reforma de Vallcarca amenaza un gran asentamiento chabolista</a></h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20231220/ellis-nino-activista-11-anos-barracas-vallcarca-barcelona-95893236\" >Ellis, el niño 'activista' de 11 años que defiende a los chabolistas de Vallcarca</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "ЄС дав оцінку новій безпековій угоді Трампа - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/worldabus/4926769-yes-dav-otsinku-novii-bezpekovii-uhodi-trampa-zmi",
+    "pubDate": "2026-11-06 23:57:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4627579.jpg\">Союзники в НАТО не були перед цим поінформовані про плани США, зазначають дипломати в коментарі Politico.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La Oreja de Van Gogh, un acto de desagravio con himnos pop que unen generaciones en el Palau Sant Jordi",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261106/la-oreja-de-van-gogh-amaia-montero-barcelona-palau-sant-jordi-concierto-136186444",
+    "pubDate": "2026-11-06 23:36:25",
+    "category": "",
+    "description": "<h2>El grupo donostiarra recorrió sus hitos con una Amaia Montero eficiente, agasajada por el público, en el primero de sus cuatro conciertos en Barcelona</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "На Київщині через атаку РФ постраждали дві людини",
+    "link": "https://ua.korrespondent.net/ukraine/4926767-na-kyivschyni-cherez-ataku-rf-postrazhdaly-dvi-luidyny",
+    "pubDate": "2026-11-06 23:28:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4627562.jpg\">Російські загарбники ударними дронами Броварський район в Київській області; виникла пожежа, є потерпілі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Ábalos ve una \"evidente coincidencia temporal\" entre el registro de la UCO en su casa y las declaraciones de Koldo sobre el PP",
     "link": "https://www.elperiodico.com/es/politica/20261106/abalos-ve-evidente-coincidencia-temporal-registro-uco-casa-declaraciones-koldo-pp-136185809",
     "pubDate": "2026-11-06 22:50:25",

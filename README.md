@@ -1,8 +1,9 @@
-# News for 2026-11-06 22:57
+# News for 2026-11-07 00:46
 
 Previous day: [2026-11-05](./data/2026-11-05.md)
 
 ## ua.korrespondent.net
+23:28 [На Київщині через атаку РФ постраждали дві людини](https://ua.korrespondent.net/ukraine/4926767-na-kyivschyni-cherez-ataku-rf-postrazhdaly-dvi-luidyny)<br>
 22:22 [Росіяни атакували Київ балістичними ракетами](https://ua.korrespondent.net/city/kiev/4926758-rosiiany-atakuvaly-kyiv-balistychnymy-raketamy)<br>
 21:01 [Розвідка попередила про нову атаку РФ - Зеленський](https://ua.korrespondent.net/ukraine/4926747-rozvidka-poperedyla-pro-novu-ataku-rf-zelenskyi)<br>
 20:38 [Удар РФ по енергетиці Житомира вплинув і на Київ](https://ua.korrespondent.net/ukraine/4926741-udar-rf-po-enerhetytsi-zhytomyra-vplynuv-i-na-kyiv)<br>
@@ -66,6 +67,7 @@ Previous day: [2026-11-05](./data/2026-11-05.md)
 10:24 [Abalde, constante entre cambios](https://as.com/baloncesto/euroliga/abalde-constante-entre-cambios-f202611-n/)<br>
 
 ## www.elperiodico.com
+23:59 [Barcelona desaloja un gran asentamiento de chabolas para construir el Parc Central de Vallcarca](https://www.elperiodico.com/es/barcelona/20261106/desalojo-vallcarca-parc-central-barcelona-115259451)<br>
 22:41 [Cabrils (Maresme) suspende el turno de noche de la Policía Local por falta de efectivos](https://www.elperiodico.com/es/sociedad/20261106/cabrils-suspende-turno-noche-policia-local-falta-de-efectivos-136184914)<br>
 21:28 [El 45% de los usuarios habituales de Rodalies se plantea usar menos el tren tras el accidente de Gelida](https://www.elperiodico.com/es/sociedad/20261106/45-usuarios-habituales-rodalies-plantea-usar-menos-tren-accidente-de-gelida-136172587)<br>
 21:03 [León XIV aterriza en Uruguay para iniciar su gira sudamericana de 12 días](https://www.elperiodico.com/es/internacional/20261106/leon-xiv-inicia-uruguay-primera-gira-latinoamericana-argentina-peru-136182502)<br>
