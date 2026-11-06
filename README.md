@@ -1,8 +1,30 @@
-# News for 2026-11-06 13:00
+# News for 2026-11-06 17:59
 
 Previous day: [2026-11-05](./data/2026-11-05.md)
 
 ## ua.korrespondent.net
+17:52 [Укренерго назвало обсяги відключень в суботу](https://ua.korrespondent.net/ukraine/4926705-ukrenerho-nazvalo-obsiahy-vidkluichen-v-subotu)<br>
+17:26 [РФ готує новий обстріл: які області стануть ціллю](https://ua.korrespondent.net/ukraine/4926685-rf-hotuie-novyi-obstril-yaki-oblasti-stanut-tsillui)<br>
+17:20 [ПриватБанк тимчасово призупинить платежі та операції з картками](https://ua.korrespondent.net/business/companies/4926697-pryvatbank-tymchasovo-pryzupynyt-platezhi-ta-operatsii-z-kartkamy)<br>
+17:13 [В Естонії засудили українця за перевезення нелегалів](https://ua.korrespondent.net/world/4926692-v-estonii-zasudyly-ukraintsia-za-perevezennia-nelehaliv)<br>
+17:04 [У Фінляндії зупинили арешт майна РФ на понад 40 млн євро](https://ua.korrespondent.net/business/economics/4926690-u-finliandii-zupynyly-aresht-maina-rf-na-ponad-40-mln-yevro)<br>
+16:56 [На ринку нафти найбільший за шість років обвал цін](https://ua.korrespondent.net/business/economics/4926687-na-rynku-nafty-naibilshyi-za-shist-rokiv-obval-tsin)<br>
+16:47 [В Італії в етруських гробницях виявили кам'яні трони та фрески](https://ua.korrespondent.net/tech/science/4926458-v-italii-v-etruskykh-hrobnytsiakh-vyiavyly-kamiani-trony-ta-fresky)<br>
+16:28 [Лев XIV відвідає Уругвай: що відомо про візит Папи](https://ua.korrespondent.net/world/4926680-lev-XIV-vidvidaie-uruhvai-scho-vidomo-pro-vizyt-papy)<br>
+16:15 [Відомий український режисер готується до операції](https://ua.korrespondent.net/lifestyle/4926669-vidomyi-ukrainskyi-rezhyser-hotuietsia-do-operatsii)<br>
+16:09 [СБУ викрила очільника катівні в окупованому Луганську](https://ua.korrespondent.net/ukraine/4926677-sbu-vykryla-ochilnyka-kativni-v-okupovanomu-luhansku)<br>
+15:56 [У РФ страх перед мобілізацією на рекордному рівні](https://ua.korrespondent.net/world/russia/4926674-u-rf-strakh-pered-mobilizatsiieui-na-rekordnomu-rivni)<br>
+15:49 [У ДПСУ повідомили, чи є ажіотаж на виїзд з України напередодні зими](https://ua.korrespondent.net/ukraine/4926672-u-dpsu-povidomyly-chy-ye-azhiotazh-na-vyizd-z-ukrainy-naperedodni-zymy)<br>
+15:44 [Донька Джолі та Пітта опинилася в лікарні](https://ua.korrespondent.net/lifestyle/4926663-donka-dzholi-ta-pitta-opynylasia-v-likarni)<br>
+15:43 [У Краматорську дрон РФ влучив у багатоповерхівку: є загибла](https://ua.korrespondent.net/ukraine/4926670-u-kramatorsku-dron-rf-vluchyv-u-bahatopoverkhivku-ye-zahybla)<br>
+15:32 [Індія успішно випробувала квазібалістичну ракету](https://ua.korrespondent.net/world/4926667-indiia-uspishno-vyprobuvala-kvazibalistychnu-raketu)<br>
+14:59 [На пляжі в Болгарії знайшли безпілотник із написом Shahed](https://ua.korrespondent.net/world/4926658-na-pliazhi-v-bolharii-znaishly-bezpilotnyk-iz-napysom-Shahed)<br>
+14:36 [До інцидентів про "мінування" літаків у Європі прив’язують російський рух](https://ua.korrespondent.net/world/4926655-do-intsydentiv-pro-minuvannia-litakiv-u-yevropi-pryviazuuit-rosiiskyi-rukh)<br>
+14:13 [В Україні змінюють порядок ідентифікації загиблих](https://ua.korrespondent.net/ukraine/4926649-v-ukraini-zminuiuit-poriadok-identyfikatsii-zahyblykh)<br>
+14:01 [Вчені зафіксували історичний максимум температур у жовтні](https://ua.korrespondent.net/world/4926636-vcheni-zafiksuvaly-istorychnyi-maksymum-temperatur-u-zhovtni)<br>
+13:59 [Нацбанк оцінив наслідки ударів РФ по складам](https://ua.korrespondent.net/business/economics/4926645-natsbank-otsinyv-naslidky-udariv-rf-po-skladam)<br>
+13:51 [В Естонію прибула нова ротація американських солдатів](https://ua.korrespondent.net/world/4926641-v-estoniui-prybula-nova-rotatsiia-amerykanskykh-soldativ)<br>
+13:17 [Киргизстан вимагає від РФ повернути завербованих на війну людей](https://ua.korrespondent.net/world/4926628-kyrhyzstan-vymahaie-vid-rf-povernuty-zaverbovanykh-na-viinu-luidei)<br>
 12:46 [Померла заслужена артистка України](https://ua.korrespondent.net/showbiz/culture/4926609-pomerla-zasluzhena-artystka-ukrainy)<br>
 12:28 [Наркокартель Хімпром планував підкупити Клименка через його оточення - НАБУ](https://ua.korrespondent.net/ukraine/4926619-narkokartel-khimprom-planuvav-pidkupyty-klymenka-cherez-yoho-otochennia-nabu)<br>
 12:11 [В Україні повертають медичну авіацію](https://ua.korrespondent.net/ukraine/4926613-v-ukraini-povertauit-medychnu-aviatsiui)<br>
@@ -10,6 +32,7 @@ Previous day: [2026-11-05](./data/2026-11-05.md)
 11:50 [ЗСУ уразили два склади боєприпасів на Запоріжжі](https://ua.korrespondent.net/ukraine/4926604-zsu-urazyly-dva-sklady-boieprypasiv-na-zaporizhzhi)<br>
 11:30 [Курс гривні відновив зростання наприкінці тижня](https://ua.korrespondent.net/business/financial/4926596-kurs-hryvni-vidnovyv-zrostannia-naprykintsi-tyzhnia)<br>
 11:06 [Нафтогазові доходи бюджету РФ сягнули рекорду за півтора року](https://ua.korrespondent.net/business/economics/4926590-naftohazovi-dokhody-buidzhetu-rf-siahnuly-rekordu-za-pivtora-roku)<br>
+11:06 [Нафтогазові доходи РФ сягнули рекорду за півтора року](https://ua.korrespondent.net/business/economics/4926590-naftohazovi-dokhody-rf-siahnuly-rekordu-za-pivtora-roku)<br>
 10:45 [Удар по Комишувасі: знайдено тіла понад 50 жертв](https://ua.korrespondent.net/ukraine/4926577-udar-po-komyshuvasi-znaideno-tila-ponad-50-zhertv)<br>
 10:28 [Полігони замість парків: ГУР розповіло, як окупанти нищать екосистему](https://ua.korrespondent.net/ukraine/4926574-polihony-zamist-parkiv-hur-rozpovilo-yak-okupanty-nyschat-ekosystemu)<br>
 10:22 [У Києві і чотирьох областях аварійні знеструмлення](https://ua.korrespondent.net/ukraine/4926572-u-kyievi-i-chotyrokh-oblastiakh-avariini-znestrumlennia)<br>
@@ -28,12 +51,25 @@ Previous day: [2026-11-05](./data/2026-11-05.md)
 05:42 [Дрони вчергове підпалили один з найбільших НПЗ РФ](https://ua.korrespondent.net/world/russia/4926517-drony-vcherhove-pidpalyly-odyn-z-naibilshykh-npz-rf)<br>
 
 ## as.com
+17:09 [Los jugadores de la Liga U llaman a la puerta de la Liga Endesa: 200 partidos y contando](https://as.com/baloncesto/mas_baloncesto/los-jugadores-de-la-liga-u-llaman-a-la-puerta-de-la-liga-endesa-200-partidos-y-contando-f202611-n/)<br>
+13:43 [Los imprescindibles de Pablo Laso](https://as.com/baloncesto/euroliga/los-imprescindibles-de-pablo-laso-f202611-n/)<br>
 12:28 [Un ascenso estratégico](https://as.com/baloncesto/mas_baloncesto/un-ascenso-estrategico-f202611-n/)<br>
 12:07 [“Tiene un motor increíble”: Jasikevicius, feliz con su nuevo pívot NBA](https://as.com/baloncesto/tiene-un-motor-increible-jasikevicius-feliz-con-su-nuevo-pivot-nba-f202611-n/)<br>
 10:55 [“¿D’Angelo? Algunos jugadores solo piensan en el dinero..."](https://as.com/baloncesto/nba/dangelo-algunos-jugadores-solo-piensan-en-el-dinero-f202611-n/)<br>
 10:24 [Abalde, constante entre cambios](https://as.com/baloncesto/euroliga/abalde-constante-entre-cambios-f202611-n/)<br>
 
 ## www.elperiodico.com
+17:27 [El malestar contra la IA estalla en Europa: un centenar de manifestantes asalta un centro de datos de Microsoft en Ámsterdam](https://www.elperiodico.com/es/internacional/20261106/malestar-ia-estalla-europa-centenar-asalto-centro-datos-microsoft-amsterdam-136174553)<br>
+17:11 [Territori y Adif planean construir un nuevo puente de Rodalies sobre el Besòs capaz de resistir grandes riadas](https://www.elperiodico.com/es/barcelona/20261106/territori-adif-planean-construir-nuevo-puente-rodalies-sobre-besos-capaz-resistir-grandes-riadas-136172192)<br>
+17:08 [Smart Cities y la ciudad de las personas](https://www.elperiodico.com/es/opinion/20261106/smart-cities-ciudad-personas-articulo-miquel-barcelo-roca-136172151)<br>
+17:00 [Jorge Volpi, Agustín Fernández Mallo y Genís Roca debaten sobre la IA como "nueva religión": "Simula bastante bien la parte eléctrica del cerebro, pero no sabe cómo imitar la parte química"](https://www.elperiodico.com/es/ocio-y-cultura/20261106/ia-ciencia-ficcion-ficcion-festival-42-136136272)<br>
+16:44 [Pimec reclama ampliar los periodos de prueba en las pequeñas empresas](https://www.elperiodico.com/es/economia/20261106/pimec-reclama-ampliar-periodos-prueba-empresas-25-trabajadores-136171394)<br>
+16:28 [La Comisión considera que España está "bajo presión migratoria" tras el incidente en Ceuta este verano](https://www.elperiodico.com/es/internacional/20261106/comision-considera-espana-presion-migratoria-ceuta-136171886)<br>
+16:24 [La vanidad del actor](https://www.elperiodico.com/es/opinion/20261106/vanidad-actor-articulo-carles-sans-136054982)<br>
+16:11 ['The New York Times' sopesa comprar la red social de cinéfilos Letterboxd por 300 millones de euros](https://www.elperiodico.com/es/ocio-y-cultura/20261106/the-new-york-times-baraja-136171114)<br>
+15:40 [El DFactory Barcelona terminará su ampliación en febrero y casi cuadruplicará su superficie](https://www.elperiodico.com/es/barcelona/20261106/dfactory-barcelona-ampliacion-febrero-2027-136168344)<br>
+13:36 [La OBC anula sus conciertos en Madrid por la huelga de trabajadores de L'Auditori](https://www.elperiodico.com/es/ocio-y-cultura/20261106/obc-anula-conciertos-madrid-huelga-136156455)<br>
+13:17 [El precio del euríbor hoy, 6 de noviembre: otra caída pone la guinda a una buena semana para los titulares de una hipoteca variable](https://www.elperiodico.com/es/economia/20261106/precio-euribor-hoy-6-noviembre-dv-136160785)<br>
 12:52 [Seis de cada 10 catalanes hablan en castellano cuando se dirigen a una persona no conocida](https://www.elperiodico.com/es/sociedad/20261106/seis-10-catalanes-hablan-castellano-persona-no-conocida-136155225)<br>
 12:10 [Aurora y Miqueas dejan Catalunya para vivir en una aldea gallega por 30.000 euros: "Son casas que mueren. Esta llevaba desde 2017 cerrada y en venta y no tenía ni visitas"](https://www.elperiodico.com/es/economia/20261106/reforma-casa-rural-aldea-galicia-cataluna-aurora-miqueas-dv-135913778)<br>
 11:21 [La prestigiosa revista ‘The New Yorker’ hace sangre de ‘La bola negra’](https://www.elperiodico.com/es/ocio-y-cultura/20261106/prestigiosa-revista-the-new-yorker-136152903)<br>
@@ -45,6 +81,7 @@ Previous day: [2026-11-05](./data/2026-11-05.md)
 10:19 [Antonia Dell'Atte responde al perdón de Ana Obregón con un comunicado implacable: "Te he salvado de una condena y de ir a la cárcel"](https://www.elperiodico.com/es/gente/20261106/antonia-dellatte-responde-perdon-ana-obregon-dv-136149938)<br>
 10:15 [Pierpaolo Piccioli deja Balenciaga tras solo 16 meses y le sucederá Martine Rose: vuelve el baile de sillas en las firmas de lujo](https://www.elperiodico.com/es/gente/20261106/pierpaolo-piccioli-deja-balenciaga-martine-rose-sustituta-136147596)<br>
 10:15 [Javier Bardem (57 años): “Necesitamos aumentar la masa muscular para tenir una vejez más saludable”](https://www.elperiodico.com/es/gente/20261106/javier-bardem-envejecimiento-fuerza-entrenamiento-vejez-sarcopenia-dv-135993340)<br>
+10:15 [Urbanismo aprueba el planeamiento para construir el Centro de Descarbonización de la Industria en La Canonja (Tarragona)](https://www.elperiodico.com/es/tarragona/20261106/urbanismo-planeamiento-centro-descarbonizacion-industria-tarragona-136159514)<br>
 10:11 [Planeta adquiere la editorial Juventud y se queda con Tintín](https://www.elperiodico.com/es/ocio-y-cultura/20261106/planeta-adquiere-editorial-juventud-queda-136148034)<br>
 09:54 [Observan por primera vez en España un ruiseñor calíope, ave que solo vive en Asia: "Se ha desviado muchísimo"](https://www.elperiodico.com/es/medio-ambiente/20261106/observan-primera-vez-espana-ruisenor-136149535)<br>
 09:50 [El MARQ de Alicante descubre los secretos del oro y los saberes indígenas de Colombia en una exposición única](https://www.elperiodico.com/es/sociedad/20261106/marq-alicante-descubre-secretos-oro-bc-136149416)<br>
@@ -53,6 +90,9 @@ Previous day: [2026-11-05](./data/2026-11-05.md)
 09:34 [Carmen Mola, en el videopódcast del suplemento ABRIL: "La gente solo reconoce a Pérez-Reverte, es increíblemente modesta la fama de un escritor"](https://www.elperiodico.com/es/ocio-y-cultura/libros/20261106/carmen-mola-videopodcast-suplemento-abril-136039884)<br>
 09:30 [El amor secreto de Jackie Kennedy con el arquitecto que diseñó la tumba de JFK: "El romance nunca terminó"](https://www.elperiodico.com/es/gente/20261106/jackie-kennedy-amor-secreto-jack-warnecke-tumba-jfk-136146923)<br>
 09:30 [Pedro Ruiz, sobre su infancia en Barcelona: "Las ventanas y puertas estaban abiertas y no robaba nadie; ahora tienen alarma hasta las bicicletas. Yo añoro aquello, no sé vosotros"](https://www.elperiodico.com/es/gente/20261106/pedro-ruiz-infancia-barcelona-casa-entresuelo-caballo-dv-loc-135993636)<br>
+06:45 ["Per a qui són les botigues del meu carrer?"](https://www.elperiodico.com/es/entre-todos/participacion/barcelona-comercios-supermrcados-24-horas-turistas-carta-lector-aina-casas-136056817)<br>
+06:30 ["¿Cómo exigir civismo si quienes deberían inspirarnos hacen lo contrario?"](https://www.elperiodico.com/es/entre-todos/participacion/exigir-civismo-educacion-comportamiento-metro-carta-lector-jordi-esteve-135968595)<br>
+06:15 ["Mentre l’Administració tramita, les famílies cuidem"](https://www.elperiodico.com/es/entre-todos/participacion/dependencia-temps-espera-tramitacio-carta-lector-magda-casamitjana-136002322)<br>
 06:01 [John Hoffman (GSMA): "Si hiciésemos un MWC en EEUU, los chinos no vendrían; en Barcelona viene todo el mundo"](https://www.elperiodico.com/es/economia/20261106/john-hoffman-gsma-hiciesemos-mwc-136129103)<br>
 06:00 [Energía circular en el Liceu: crear escenografías pensando en el planeta](https://www.elperiodico.com/es/ocio-y-cultura/20261106/energia-circular-liceu-crear-escenografias-136114959)<br>
 06:00 [Daniel Monzón estrena 'Ruega por nosotras': “Mientras yo me divertía con mis amigos, chicas de mi edad sufrían al lado de casa las torturas del Patronato de Protección"](https://www.elperiodico.com/es/ocio-y-cultura/20261106/daniel-monzon-ruega-por-nosotras-patronato-de-proteccion-mujer-136049751)<br>
@@ -60,6 +100,7 @@ Previous day: [2026-11-05](./data/2026-11-05.md)
 06:00 [‘La bola negra’ inicia hoy el asalto definitivo al mercado estadounidense](https://www.elperiodico.com/es/ocio-y-cultura/20261106/bola-negra-inicia-hoy-asalto-136127649)<br>
 06:00 [Prada, Dior y Loewe dan la espalda a la IA en sus campañas navideñas y convierten el dibujo a mano en el nuevo símbolo de exclusividad](https://www.elperiodico.com/es/gente/20261106/prada-dior-loewe-ia-animacion-mano-campanas-navidad-2026-136111552)<br>
 06:00 [Jesús Cobo, psiquiatra: "El grupo de ayuda mutua permite decirle a los pacientes que entrarán en otra fase, de recuperación"](https://www.elperiodico.com/es/ser-feliz/20261106/jesus-cobo-psiquiatra-grupo-ayuda-134433978)<br>
+06:00 ["Lo hicieron porque así es la vida"](https://www.elperiodico.com/es/entre-todos/participacion/accidente-tren-ave-iryo-urda-carta-lector-pablo-corral-136016704)<br>
 05:27 [El 43% de ‘startups’ que BBVA Spark acompaña en España son catalanas](https://www.elperiodico.com/es/sostenibilidad-ahorro/20261106/startups-bbva-spark-catalunya-bc-136123408)<br>
 04:50 [No es otra tribuna sobre Oscar Wilde, es una mejor](https://www.elperiodico.com/es/ocio-y-cultura/libros/20261106/tribuna-oscar-wilde-mejor-135797152)<br>
 04:50 [Una piedrecita y la punta de un zapato](https://www.elperiodico.com/es/opinion/20261106/rosa-montero-nuevo-libro-ines-martin-rodrigo-articulo-136073590)<br>
