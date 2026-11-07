@@ -1,8 +1,9 @@
-# News for 2026-11-07 16:19
+# News for 2026-11-07 17:38
 
 Previous day: [2026-11-06](./data/2026-11-06.md)
 
 ## ua.korrespondent.net
+16:30 [У Запоріжжі попрощалися з шістьма поліцейськими, що загинули в Комишувасі](https://ua.korrespondent.net/city/zaporozhye/4926867-u-zaporizhzhi-poproschalysia-z-shistma-politseiskymy-scho-zahynuly-v-komyshuvasi)<br>
 15:15 [Росіяни вдарили по Харкову: двоє поранених](https://ua.korrespondent.net/city/kharkov/4926854-rosiiany-vdaryly-po-kharkovu-dvoie-poranenykh)<br>
 14:50 [Зеленський: Маємо дефіцит ракет для "петріотів"](https://ua.korrespondent.net/ukraine/4926852-zelenskyi-maiemo-defitsyt-raket-dlia-petriotiv)<br>
 14:25 [Вночі росіяни атакували Вінниччину, поранено одну людину](https://ua.korrespondent.net/ukraine/4926850-vnochi-rosiiany-atakuvaly-vinnychchynu-poraneno-odnu-luidynu)<br>
@@ -34,6 +35,9 @@ Previous day: [2026-11-06](./data/2026-11-06.md)
 06:21 [Caicedo: “Aunque perdamos, seguimos remando”](https://as.com/baloncesto/mas_baloncesto/caicedo-aunque-perdamos-seguimos-remando-f202611-n/)<br>
 
 ## www.elperiodico.com
+17:31 [Muere Josep Tarradellas i Macià, hijo del expresidente de la Generalitat](https://www.elperiodico.com/es/politica/20261107/muere-josep-tarradellas-macia-hijo-expresident-suiza-136202575)<br>
+16:30 [Elisabeth Clapés, psicóloga: "Cuando tu pareja te pregunta constantemente si la quieres o si estás enfadado, lo que está haciendo realmente es regularse"](https://www.elperiodico.com/es/ser-feliz/20261107/elisabeth-clapes-psicologa-pareja-relacion-pareja-regularse-dv-136117951)<br>
+16:26 [Tiempo en Catalunya mañana domingo: llegan las primeras lluvias causadas por la borrasca Bruna](https://www.elperiodico.com/es/tiempo/20261107/tiempo-cataluna-manana-domingo-8-noviembre-temperaturas-lluvia-dv-loc-136199083)<br>
 16:07 [Accidente de trenes en Toledo, en directo | Investigación de la Fiscalía Europa por fraude, ayudas a los familiares de las víctimas y última hora](https://www.elperiodico.com/es/sociedad/20261107/accidente-trenes-toledo-urda-ave-iryo-hoy-ultima-hora-directo-135890234)<br>
 16:00 [Vida y asesinato de Ramon Balcells, el rector de Santa Anna que fomentó el ahorro de las obreras de la Sagrada Família](https://www.elperiodico.com/es/barcelona/20261107/vida-asesinato-ramon-balcells-rector-136113799)<br>
 15:59 [El Ayuntamiento de Barcelona da luz verde inicial a la construcción de más de 50 pisos en la masía y el jardín de Can Raventós](https://www.elperiodico.com/es/barcelona/20261107/ayuntamiento-barcelona-da-luz-verde-inicial-construccion-55-pisos-masia-jardin-can-raventos-136169794)<br>

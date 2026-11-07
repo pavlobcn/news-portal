@@ -1,5 +1,158 @@
 [
   {
+    "title": "Muere Josep Tarradellas i Macià, hijo del expresidente de la Generalitat",
+    "link": "https://www.elperiodico.com/es/politica/20261107/muere-josep-tarradellas-macia-hijo-expresident-suiza-136202575",
+    "pubDate": "2026-11-07 17:31:59",
+    "category": "",
+    "description": "<h2 class=\"item\">Fue profesor, doctor, ingeniero en ecotoxicología, pionero y referente mundial en química medioambiental</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/opinion/20261107/josep-tarradellas-macia-obituario-salvador-illa-memoria-legado-pais-136197831\">Josep Tarradellas i Macià: memoria, legado, país</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260907/govern-reunira-expresidents-debatir-autogovern-50-anos-retorno-exilio-tarradellas-restauracion-generalitat-134023242\" target=\"_blank\">El Govern reunirá a los expresidents para debatir sobre el autogobierno 50 años después del retorno de Tarradellas</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Зеленський хоче повернути декларування для СБУ",
+    "link": "https://ua.korrespondent.net/ukraine/4926877-zelenskyi-khoche-povernuty-deklaruvannia-dlia-sbu",
+    "pubDate": "2026-11-07 17:20:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4628466.jpg\">Президент затвердив законопроєкт про декларування для всіх працівників СБУ, щоб їхній спосіб життя та все, що є, були доступні для перевірок та відповідальності.",
+    "topic": "політика",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "España gana el Mundial femenino de pádel por décima vez tras superar a Argentina en Doha",
+    "link": "https://www.elperiodico.com/es/deportes/20261107/espana-gana-mundial-femenino-padel-136202655",
+    "pubDate": "2026-11-07 17:11:49",
+    "category": "",
+    "description": "<h2>El equipo español superó al combinado argentino (2-0) en Qatar con triunfos de las parejas Sánchez-Ustero y Josemaría-Triay</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "Última hora del tiroteo mortal en Cracovia: datos de la investigación, estado de las víctimas y perfil de los atacantes",
+    "link": "https://www.elperiodico.com/es/internacional/20261107/ultima-hora-tiroteo-mortal-cracovia-136202401",
+    "pubDate": "2026-11-07 17:10:55",
+    "category": "",
+    "description": "",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El Racing remonta en la Rosaleda y hunde al Málaga (1-2)",
+    "link": "https://www.elperiodico.com/es/deportes/futbol/20261107/racing-remonta-rosaleda-hunde-malaga-136202298",
+    "pubDate": "2026-11-07 17:02:29",
+    "category": "",
+    "description": "<h2>Los goles de Iker Luque y Yassir Zabiri le dieron la vuelta al tanto inicial de Carlos Dotor</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Manuel Neuer recae de su lesión en el pie ante el Mainz",
+    "link": "https://www.elperiodico.com/es/deportes/20261107/manuel-neuer-recae-lesion-pie-136202536",
+    "pubDate": "2026-11-07 17:02:10",
+    "category": "",
+    "description": "<h2>El guardameta del Bayern, de 40 años, tuvo que ser sustituido</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Cuándo es el Black Friday 2026 en España: fecha y cuándo arrancan las primeras ofertas",
+    "link": "https://www.elperiodico.com/es/sociedad/20261107/black-friday-2026-espana-fecha-primeras-ofertas-compras-antes-navidad-dv-136128696",
+    "pubDate": "2026-11-07 17:00:25",
+    "category": "",
+    "description": "<h2 class=\"item\">El Corte Inglés, MediaMarkt y otras cadenas diversifican sus ofertas en tecnología, hogar y moda buscando atraer a los compradores que intentan distribuir sus gastos antes de las fiestas navideñas</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20261105/adelantate-black-friday-vuelve-mayor-festival-outlets-europa-barcelona-136010887\" target=\"_blank\" rel=\"nofollow\">Adelántate al ‘Black Friday’: vuelve el mayor festival de ‘outlets’ de Europa a una hora de Barcelona</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20261019/mitad-tiendas-online-no-prepararon-black-friday-perdio-pedidos-135495935\" target=\"_blank\" rel=\"nofollow\">La mitad de las tiendas online que no se prepararon para el Black Friday perdió más del 20% de sus pedidos</a></h2>",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У центрі Кракова сталася стрілянина, є загиблі й поранені",
+    "link": "https://ua.korrespondent.net/world/4926872-u-tsentri-krakova-stalasia-strilianyna-ye-zahybli-y-poraneni",
+    "pubDate": "2026-11-07 16:55:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4628449.jpg\">Поліція застосувала зброю проти нападника, після чого його доправили до лікарні. Серед постраждалих, за попередньою інформацією, є правоохоронець.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Карпати і Харків не дограли матч через повітряну тривогу",
+    "link": "https://ua.korrespondent.net/sport/football/4926875-karpaty-i-kharkiv-ne-dohraly-match-cherez-povitrianu-tryvohu",
+    "pubDate": "2026-11-07 16:53:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4628406.jpg\">Матч між Харковом і Карпатами був перенесений відповідно до регламенту української Прем'єр-ліги.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Yangwang lanza el Rolls-Royce chino y no se preocupa en absoluto por disimularlo",
+    "link": "https://www.elperiodico.com/es/motor/20261107/yangwang-lanza-rolls-royce-chino-altior-136195579",
+    "pubDate": "2026-11-07 16:46:25",
+    "category": "",
+    "description": "<h2>El Altior tendrá cuatro motores eléctricos y una autonomía de 1.000 km según el optimista ciclo chino.</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Inspeccionan cuatro bares de Figueres por quejas vecinales y presentan 30 denuncias",
+    "link": "https://www.elperiodico.com/es/sucesos/20261107/dispositivo-policial-detecta-27-infracciones-dos-barrios-figueres-136201842",
+    "pubDate": "2026-11-07 16:46:11",
+    "category": "",
+    "description": "<h2 class=\"item\">El operativo policial en el Sector Oeste y la Marca de l'Ham termina con un detenido por cuestiones de extranjería, tres denuncias por drogas y 60 personas identificadas</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Al menos cinco muertos y una docena de heridos tras un tiroteo en el centro de Cracovia",
+    "link": "https://www.elperiodico.com/es/internacional/20261107/cinco-muertos-10-heridos-tiroteo-cracovia-136202118",
+    "pubDate": "2026-11-07 16:44:32",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20261107/ultima-hora-tiroteo-mortal-cracovia-136202401\">Última hora del tiroteo mortal en Cracovia: datos de la investigación, estado de las víctimas y perfil del atacante</a></h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Кудрівка обіграла Чорноморець 1:0 у Рівному",
+    "link": "https://ua.korrespondent.net/sport/football/4926871-kudrivka-obihrala-chornomorets-10-u-rivnomu",
+    "pubDate": "2026-11-07 16:42:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4628405.jpg\">Команди провели матч у Рівному на стадіоні Авангард, завершивши зустріч мінімальною перемогою господарів поля.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Elisabeth Clapés, psicóloga: \"Cuando tu pareja te pregunta constantemente si la quieres o si estás enfadado, lo que está haciendo realmente es regularse\"",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20261107/elisabeth-clapes-psicologa-pareja-relacion-pareja-regularse-dv-136117951",
+    "pubDate": "2026-11-07 16:30:59",
+    "category": "",
+    "description": "<h2>La psicóloga explica que la necesidad de recibir constantes muestras de afecto puede ser consecuencia de haber vivido relaciones inestables o abusivas</h2><h2><a href=\"https://www.elperiodico.com/es/ser-feliz/20261103/psicologos-coinciden-no-tenirse-canas-mejor-salud-mental-dv-135913366\">Becca Levy, psicóloga, sobre aceptar las canas: \"Cuando las personas internalizan imágenes positivas sobre el envejecimiento, tienden a vivir más y en mejor estado\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Запоріжжі попрощалися з шістьма поліцейськими, що загинули в Комишувасі",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4926867-u-zaporizhzhi-poproschalysia-z-shistma-politseiskymy-scho-zahynuly-v-komyshuvasi",
+    "pubDate": "2026-11-07 16:30:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4628423.jpg\">Двоє поліцейських померли після и тяжких поранень 1 листопада, коли ворожий безпілотник атакував їхній службовий автомобіль поблизу Комишувахи.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "В Англії зробили з Інфантіно іграшку та спалили",
+    "link": "https://ua.korrespondent.net/sport/football/4926869-v-anhlii-zrobyly-z-infantino-ihrashku-ta-spalyly",
+    "pubDate": "2026-11-07 16:29:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4628320.jpg\">В Англії у Ніч вогнів вогнем спалили дуту фігуру президента ФІФА Інфантіно, у такий спосіб подбавши про чистоту футболу.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Tiempo en Catalunya mañana domingo: llegan las primeras lluvias causadas por la borrasca Bruna",
+    "link": "https://www.elperiodico.com/es/tiempo/20261107/tiempo-cataluna-manana-domingo-8-noviembre-temperaturas-lluvia-dv-loc-136199083",
+    "pubDate": "2026-11-07 16:26:49",
+    "category": "",
+    "description": "<h2 class=\"item\">Las temperaturas subirán hasta superar los 20ºC el martes y el miércoles</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tiempo/20261106/borrasca-bruna-tiempo-cataluna-lluvias-temperatura-dv-loc-136176954\" >Así afectará la borrasca Bruna a Catalunya: vuelven las lluvias, pero suben las temperaturas</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261105/aemet-borrasca-advierte-atlantica-peninsula-canarias-prevision-136122308\" >La Aemet anuncia la llegada de la borrasca Bruna, que dejará lluvias \"muy fuertes y persistentes\" en el oeste e interior peninsular y Canarias</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Accidente de trenes en Toledo, en directo | Investigación de la Fiscalía Europa por fraude, ayudas a los familiares de las víctimas y última hora",
     "link": "https://www.elperiodico.com/es/sociedad/20261107/accidente-trenes-toledo-urda-ave-iryo-hoy-ultima-hora-directo-135890234",
     "pubDate": "2026-11-07 16:07:00",
