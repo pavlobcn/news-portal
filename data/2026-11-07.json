@@ -1,5 +1,95 @@
 [
   {
+    "title": "LaLiga: Valencia - Real Madrid, en directo",
+    "link": "https://www.elperiodico.com/es/deportes/futbol/20261107/laliga-valencia-real-madrid-directo-136208108",
+    "pubDate": "2026-11-07 21:22:11",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Amigos y vecinos recuerdan a Maricarmen en su calle de Madrid",
+    "link": "https://www.elperiodico.com/es/sociedad/20261107/amigos-vecinos-recuerdan-maricarmen-un-mes-muerte-136209216",
+    "pubDate": "2026-11-07 21:15:09",
+    "category": "",
+    "description": "<h2>Los asistentes han aprovechado para reivindicar el derecho a la vivienda y cargar contra \"la falta de escrúpulos\" del sistema</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "'Broken English' y 'Kiro' premiados en el Festival In-Edit",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261107/broken-english-kiro-premiados-in-136207649",
+    "pubDate": "2026-11-07 21:13:44",
+    "category": "",
+    "description": "<h2>El documental sobre Mariane Faihtful protagonizado por Tilda Swinton y el filme sobre la cantante gallega triunfan en la 24 edición del festival. 'Celtic utopia' se ha llevado la Mención honorífica.</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 88
+  },
+  {
+    "title": "El presidente de Israel encarga a Eisenkot la tarea de formar gobierno",
+    "link": "https://www.elperiodico.com/es/internacional/20261107/presidente-israel-encarga-eisenkot-tarea-formar-gobierno-136209070",
+    "pubDate": "2026-11-07 21:12:21",
+    "category": "",
+    "description": "<h2>Aunque ninguno de los dos bloques cuentan con suficientes apoyos para lograr una mayoría, el líder de Yashar consiguió las recomendaciones de 67 diputados respecto a los 46 de Netanyahu</h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20261025/quien-es-gadi-eisenkot-candidato-israel-principal-rival-netanyahu-135730303\" target=\"_blank\">Gadi Eisenkot, el rival más serio de Netanyahu que perdió a un hijo en la guerra de Gaza</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "Rodalies tendrá un servicio mínimo del 25% en hora punta y sin trenes el resto del día durante la huelga general del miércoles",
+    "link": "https://www.elperiodico.com/es/trafico-y-transportes/20261107/rodalies-renfe-huelga-general-servicios-minimos-horarios-136208871",
+    "pubDate": "2026-11-07 21:08:52",
+    "category": "",
+    "description": "<h2 class=\"item\">La Generalitat fija una cobertura de entre el 33% y el 66% durante los dos días de huelga de maquinistas del martes y jueves</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "На Чернігівщині під час російської атаки поранено жінку",
+    "link": "https://ua.korrespondent.net/ukraine/4926899-na-chernihivschyni-pid-chas-rosiiskoi-ataky-poraneno-zhinku",
+    "pubDate": "2026-11-07 21:05:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4628656.jpg\">У Чернігівському районі внаслідок ворожого удару виникла пожежа в житловому будинку. 34-річну жінка дістала поранення ноги.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El horóscopo de mañana, domingo 8 de noviembre: amor, trabajo, dinero y salud para todos los signos del zodíaco",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20261107/horoscopo-hoy-domingo-8-noviembre-dv-135845563",
+    "pubDate": "2026-11-07 21:00:02",
+    "category": "",
+    "description": "<h2 class=\"item\">Conoce la suerte de tu horóscopo a partir de los signos del zodíaco, según la astrología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/temas/horoscopo-11990\" >Consulta el horóscopo diario de tu signo de ayer, hoy y mañana</a></h2>",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Afectados por el edificio desalojado en Badalona reclaman un techo más allá de la solución que ha ofrecido el ayuntamiento",
+    "link": "https://www.elperiodico.com/es/barcelona/badalona/20261107/badalona-san-roque-edificio-covadonga-desalojado-ayuntamiento-albiol-136207827",
+    "pubDate": "2026-11-07 20:50:36",
+    "category": "",
+    "description": "<h2 class=\"item\">Varios vecinos denuncian que los albergues municipales son \"de mala muerte\" y muchos rechazan utilizarlos</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20261104/desalojan-edificio-cinco-plantas-badalona-al-detectar-un-vecino-una-grieta-sospechosa-136091766\" >Desalojan un edificio de cinco plantas de Badalona al detectar un vecino una grieta sospechosa</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El City cae ante el Nottingham Forest y permite al Arsenal alejarse en la cabeza de la clasificación de la Premier",
+    "link": "https://www.elperiodico.com/es/deportes/20261107/city-tropieza-nottingham-forest-aleja-liderato-arsenal-136208072",
+    "pubDate": "2026-11-07 20:42:10",
+    "category": "",
+    "description": "<h2>El equipo de Arteta solventó con un gol de Odergaard la vista del Hull y toma seis puntos de ventaja sobre el segundo clasificado</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Удари по Харківщині: є загибла і постраждалі",
+    "link": "https://ua.korrespondent.net/ukraine/4926897-udary-po-kharkivschyni-ye-zahybla-i-postrazhdali",
+    "pubDate": "2026-11-07 20:40:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4628638.jpg\">У Дергачівській громаді неподалік села Безруки FPV-дрон влучив в автомобіль, який рухався дорогою. Внаслідок влучання загинула пасажирка.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Trump ofrece a Dana White, presidente de la UFC, el puesto de portavoz de la Casa Blanca",
     "link": "https://www.elperiodico.com/es/internacional/20261107/trump-ofrece-dana-white-ufc-portavoz-casa-blanca-136207996",
     "pubDate": "2026-11-07 20:22:54",
@@ -115,6 +205,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4628567.jpeg\">Омбудсман вимагає всебічно перевірити обставини події, встановити маршрут чоловіка, з’ясувати дії причетних посадовців та надати їм правову оцінку.",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Amazon derrumba sus precios: las ofertas más impactantes de HOY que no querrás dejar escapar",
+    "link": "https://www.elperiodico.com/es/shopping/20261107/amazon-derrumba-precios-ofertas-dia-impactantes-135814723",
+    "pubDate": "2026-11-07 19:00:00",
+    "category": "",
+    "description": "<h2>Del gadget tecnológico que llevábamos tiempo fichando a los básicos que siempre merece la pena tener en el radar: Amazon sorprende hoy con descuentos de hasta el 70 % en algunos de esos hallazgos que, sencillamente, no dejaríamos escapar</h2>",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 98
   },
   {
     "title": "Márquez sigue ganando pero Martín resiste como un héroe",
