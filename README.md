@@ -1,8 +1,12 @@
-# News for 2026-11-07 21:33
+# News for 2026-11-07 23:27
 
 Previous day: [2026-11-06](./data/2026-11-06.md)
 
 ## ua.korrespondent.net
+22:34 [Укренерго підтвердило цілодобові відключення](https://ua.korrespondent.net/ukraine/4926910-ukrenerho-pidtverdylo-tsilodobovi-vidkluichennia)<br>
+22:17 [На Житомирщині закликали дотримуватись світломаскування](https://ua.korrespondent.net/ukraine/4926908-na-zhytomyrschyni-zaklykaly-dotrymuvatys-svitlomaskuvannia)<br>
+21:58 [Від початку доби відбулося 187 боєзіткнень](https://ua.korrespondent.net/ukraine/4926905-vid-pochatku-doby-vidbulosia-187-boiezitknen)<br>
+21:35 [Посмертно стали Героями України бійці, що підірвали міст біля Ірпеня](https://ua.korrespondent.net/ukraine/4926901-posmertno-staly-heroiamy-ukrainy-biitsi-scho-pidirvaly-mist-bilia-irpenia)<br>
 21:05 [На Чернігівщині під час російської атаки поранено жінку](https://ua.korrespondent.net/ukraine/4926899-na-chernihivschyni-pid-chas-rosiiskoi-ataky-poraneno-zhinku)<br>
 20:40 [Удари по Харківщині: є загибла і постраждалі](https://ua.korrespondent.net/ukraine/4926897-udary-po-kharkivschyni-ye-zahybla-i-postrazhdali)<br>
 19:50 [У Дніпрі через російську атаку понад 60 тисяч споживачів - без світла](https://ua.korrespondent.net/city/dnepr/4926891-u-dnipri-cherez-rosiisku-ataku-ponad-60-tysiach-spozhyvachiv-bez-svitla)<br>
@@ -35,12 +39,20 @@ Previous day: [2026-11-06](./data/2026-11-06.md)
 00:23 [Росія повторно атакувала Київ балістикою](https://ua.korrespondent.net/city/kiev/4926771-rosiia-povtorno-atakuvala-kyiv-balistykoui)<br>
 
 ## as.com
+22:22 [El Girona sigue intratable en casa](https://as.com/baloncesto/el-girona-sigue-intratable-en-casa-f202611-n/)<br>
+21:49 [Primer tropiezo del Movistar Estudiantes](https://as.com/baloncesto/mas_baloncesto/primer-tropiezo-del-movistar-estudiantes-f202611-n/)<br>
+21:34 [A la séptima, la vencida: el Manresa gana tras dos prórrogas](https://as.com/baloncesto/acb/a-la-septima-la-vencida-el-manresa-gana-tras-dos-prorrogas-f202611-n/)<br>
+21:24 [El Tenerife-Joventut, a puerta cerrada por la borrasca Bruna](https://as.com/baloncesto/acb/el-tenerife-joventut-a-puerta-cerrada-por-la-borrasca-bruna-f202611-n/)<br>
+17:35 [Justin Robinson, un tipo especial](https://as.com/baloncesto/euroliga/justin-robinson-un-tipo-especial-f202611-n/)<br>
 11:50 [En directo, Valencia Basket - Bàsquet Girona de la Jornada 7 de la Liga U 2026-27](https://as.com/baloncesto/en-directo-valencia-basket-basquet-girona-de-la-jornada-7-de-la-liga-u-2026-27-f202611-v/)<br>
 09:01 [Sobre la bocina, desde ahí y para firmar una exhibición antológica: vean lo de Doncic y alucinen](https://as.com/baloncesto/videos/va-a-ritmo-de-mvp-y-la-nba-no-da-credito-con-su-temporada-la-enesima-maravilla-de-doncic-para-poner-al-pabellon-en-pie-f202611-v/)<br>
 06:23 [La atracción del 7](https://as.com/baloncesto/mas_baloncesto/la-atraccion-del-7-f202611-r/)<br>
 06:21 [Caicedo: “Aunque perdamos, seguimos remando”](https://as.com/baloncesto/mas_baloncesto/caicedo-aunque-perdamos-seguimos-remando-f202611-n/)<br>
 
 ## www.elperiodico.com
+23:00 [Joe Bonamassa, guitarrista de etiqueta en una exhibición de poderío blues-rock en el Sant Jordi Club](https://www.elperiodico.com/es/ocio-y-cultura/20261107/joe-bonamassa-guitarrista-etiqueta-exhibicion-poderio-blues-rock-sant-jordi-club-136211089)<br>
+22:47 [¿Será Robert Pattison ser el nuevo 007?](https://www.elperiodico.com/es/ocio-y-cultura/20261107/sera-robert-pattison-nuevo-007-136209741)<br>
+22:07 [Gran Canaria suspende todos los eventos desde este domingo por la borrasca Bruna](https://www.elperiodico.com/es/sociedad/20261107/gran-canaria-suspende-eventos-domingo-borrasca-bruna-136210166)<br>
 21:15 [Amigos y vecinos recuerdan a Maricarmen en su calle de Madrid](https://www.elperiodico.com/es/sociedad/20261107/amigos-vecinos-recuerdan-maricarmen-un-mes-muerte-136209216)<br>
 21:08 [Rodalies tendrá un servicio mínimo del 25% en hora punta y sin trenes el resto del día durante la huelga general del miércoles](https://www.elperiodico.com/es/trafico-y-transportes/20261107/rodalies-renfe-huelga-general-servicios-minimos-horarios-136208871)<br>
 20:50 [Afectados por el edificio desalojado en Badalona reclaman un techo más allá de la solución que ha ofrecido el ayuntamiento](https://www.elperiodico.com/es/barcelona/badalona/20261107/badalona-san-roque-edificio-covadonga-desalojado-ayuntamiento-albiol-136207827)<br>
