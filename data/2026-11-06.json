@@ -54,6 +54,15 @@
     "topic_match_probability": 65
   },
   {
+    "title": "Resultados Euroliga, jornada 10: horarios, TV, partidos y clasificación",
+    "link": "https://as.com/baloncesto/euroliga/resultados-euroliga-jornada-10-horarios-tv-partidos-y-clasificacion-f202611-n/",
+    "pubDate": "2026-11-06 22:42:51",
+    "category": "Baloncesto",
+    "description": "Euroliga 2026-27: resultados de los partidos y clasificación de la temporada en su jornada 10. Real Madrid, Barcelona, Baskonia, Valencia Basket…",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Cabrils (Maresme) suspende el turno de noche de la Policía Local por falta de efectivos",
     "link": "https://www.elperiodico.com/es/sociedad/20261106/cabrils-suspende-turno-noche-policia-local-falta-de-efectivos-136184914",
     "pubDate": "2026-11-06 22:41:06",
@@ -241,6 +250,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4627402.jpg\">Китайський електрокар став першим серійним автомобілем у світі, якому вдалося перевищити швидкість 500 км/год. Рекорд встановили на дорозі в Абу-Дабі.",
     "topic": "автомобілі",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Вторгнення Росії в Україну. Онлайн",
+    "link": "https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain",
+    "pubDate": "2026-11-06 20:40:00",
+    "category": "Новини політики",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/2748609.jpg\">Володимир Путін почав повномасштабну війну проти України 24 лютого 2022 року. Не зумівши \"взяти Київ за три дні\", він сконцентрувався на захопленні Донбасу та південних областей України.",
+    "topic": "політика",
+    "topic_match_probability": 90
   },
   {
     "title": "Удар РФ по енергетиці Житомира вплинув і на Київ",
@@ -637,6 +655,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4627256.jpg\">У Києві змінили організацію руху на Південному мосту. Тепер автомобілі, які прямують із лівого на правий берег, можуть їхати двома смугами замість однієї.",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Війна на Близькому Сході. Онлайн",
+    "link": "https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain",
+    "pubDate": "2026-11-06 18:02:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473659.jpg\">США та Ізраїль проводять масштабну операцію проти Ірану. Тегеран у відповідь атакує військові об'єкти США майже у всіх країнах Перської затоки.",
+    "topic": "політика",
+    "topic_match_probability": 80
   },
   {
     "title": "Josep Oriol Pujol, 40 años en la Fundació Pere Tarrés: \"Hay monitores de comedor que pasan más horas con los niños que sus propios tutores\"",
