@@ -1,4 +1,4 @@
-# News for 2026-11-07 08:35
+# News for 2026-11-07 09:52
 
 Previous day: [2026-11-06](./data/2026-11-06.md)
 
@@ -19,10 +19,17 @@ Previous day: [2026-11-06](./data/2026-11-06.md)
 00:23 [Росія повторно атакувала Київ балістикою](https://ua.korrespondent.net/city/kiev/4926771-rosiia-povtorno-atakuvala-kyiv-balistykoui)<br>
 
 ## as.com
+09:01 [Sobre la bocina, desde ahí y para firmar una exhibición antológica: vean lo de Doncic y alucinen](https://as.com/baloncesto/videos/va-a-ritmo-de-mvp-y-la-nba-no-da-credito-con-su-temporada-la-enesima-maravilla-de-doncic-para-poner-al-pabellon-en-pie-f202611-v/)<br>
 06:23 [La atracción del 7](https://as.com/baloncesto/mas_baloncesto/la-atraccion-del-7-f202611-r/)<br>
 06:21 [Caicedo: “Aunque perdamos, seguimos remando”](https://as.com/baloncesto/mas_baloncesto/caicedo-aunque-perdamos-seguimos-remando-f202611-n/)<br>
 
 ## www.elperiodico.com
+09:49 [Nélida, jubilada de 72 años, explica el drama del alquiler: "Me cuelgan el teléfono cuando digo mi edad"](https://www.elperiodico.com/es/economia/20261107/nelida-jubilada-72-anos-drama-alquiler-edad-136191376)<br>
+09:45 [Fluir](https://www.elperiodico.com/es/opinion/20261107/fluir-articulo-agnes-marques-136191288)<br>
+09:15 [Montse Cespedosa, experta en hipotecas: "Antes, el poder lo tenía el vendedor, pero ahora la situación está cambiando y es el comprador quien empieza a tenerlo"](https://www.elperiodico.com/es/vivienda/20261107/montse-cespedosa-experta-hipotecas-vivienda-mercado-inmobiliario-poder-comprador-dv-136172127)<br>
+09:10 [Pablo Alles, psicólogo experto en tabaquismo: "Una persona que ha sido fumadora, si fuma en ocasiones especiales, sigue teniendo un problema"](https://www.elperiodico.com/es/sociedad/20261107/fumar-tabaco-tabaquismo-adiccion-psicologo-pablo-alles-dv-136006948)<br>
+09:06 [Carme Artigas: "Quien gane la supremacía de la IA va a conseguir la supremacía económica y militar"](https://www.elperiodico.com/es/sociedad/20261107/carme-artigas-gane-supremacia-ia-136190887)<br>
+09:02 [Dos pandas gigantes de China hacen su debut en un zoológico de Atlanta](https://www.elperiodico.com/es/sociedad/20261107/pandas-gigantes-china-debut-zoologico-estados-unidos-136190586)<br>
 08:10 [Maribel Verdú (56 años), sobre la vivienda: "Tengo tres pisos, sí, pero es que llevo trabajando treinta años. No he robado a nadie y todo lo he declarado a Hacienda"](https://www.elperiodico.com/es/gente/20261107/maribel-verdu-casas-salario-viviendas-patrimonio-inmobiliario-dv-136112213)<br>
 08:05 [Paloma (46 años), fontanera: "Mi segundo mes trabajando gané 4.000 € sin experiencia"](https://www.elperiodico.com/es/economia/20261107/paloma-46-anos-fontanera-trabajo-4000-euros-sin-experiencia-dv-136148703)<br>
 08:01 [Una sanción de cierre por exceso de aforo aboca al antiguo Sotavento Club de Barcelona a 1,8 millones de pérdidas](https://www.elperiodico.com/es/barcelona/20261107/sancion-cierre-exceso-aforo-aboca-antiguo-sotavento-club-barcelona-perdidas-1-8-millones-135986474)<br>
@@ -46,3 +53,5 @@ Previous day: [2026-11-06](./data/2026-11-06.md)
 06:01 [Cómo preparar la jubilación: consejos de los profesionales para anticipar riesgos y oportunidades](https://www.elperiodico.com/es/sociedad/preparar-jubilacion-consejos-expertos-136122320-rm/index.html)<br>
 06:01 [Cómo preparar la jubilación: consejos de los profesionales para anticipar riesgos y oportunidades](https://www.elperiodico.com/es/sociedad/20261107/preparar-jubilacion-consejos-profesionales-anticipar-136122492)<br>
 04:51 [Vicente Luis Mora, escritor: "La incomodidad es el estado natural de la literatura"](https://www.elperiodico.com/es/ocio-y-cultura/libros/20261107/vicente-luis-mora-entrevista-national-book-award-136018714)<br>
+04:51 [Ahora que se acerca el final, una conciencia tranquila](https://www.elperiodico.com/es/ocio-y-cultura/libros/20261107/ahora-acerca-final-conciencia-tranquila-136029372)<br>
+04:51 [La IA detiene a la IA, y los editores miran](https://www.elperiodico.com/es/ocio-y-cultura/libros/20261107/ia-detiene-ia-editores-miran-136072725)<br>

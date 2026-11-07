@@ -1,5 +1,176 @@
 [
   {
+    "title": "Feijóo promete que ninguna CCAA tendrá una financiación singular como la pactada para Cataluña entre Sánchez y ERC",
+    "link": "https://www.elperiodico.com/es/politica/20261107/feijoo-promete-ccaa-tendra-financiacion-136191506",
+    "pubDate": "2026-11-07 09:50:40",
+    "category": "",
+    "description": "<h2>En su programa, garantiza que habrá un \"tratamiento específico\" en caso de emergencias o catástrofes, como ocurrió en Ceuta o Valencia</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Flávio Bolsonaro dice que no repetirá el \"error\" de su padre de regresar a Brasil",
+    "link": "https://www.elperiodico.com/es/internacional/20261107/flavio-bolsonaro-dice-repetira-error-136191432",
+    "pubDate": "2026-11-07 09:50:05",
+    "category": "",
+    "description": "<h2 class=\"item\">Su progenitor fue condenado a veintisiete años de prisión acusado de liderar un golpe de Estado</h2><h2 class=\"item\">\"Aprendo con los errores y aciertos del presidente Bolsonaro y no voy a cometer el mismo error\", argumenta</h2>",
+    "topic": "політика",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "Nélida, jubilada de 72 años, explica el drama del alquiler: \"Me cuelgan el teléfono cuando digo mi edad\"",
+    "link": "https://www.elperiodico.com/es/economia/20261107/nelida-jubilada-72-anos-drama-alquiler-edad-136191376",
+    "pubDate": "2026-11-07 09:49:50",
+    "category": "",
+    "description": "<h2>Tres meses buscando una habitación, una noche durmiendo al raso y ninguna solución por parte de los servicios sociales: ahora ha encontrado refugio provisional en un albergue</h2><h2>Cobra una pensión y es autónoma, pero el mercado inmobiliario le cierra las puertas: \"Me siento abandonada por la sociedad\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Fluir",
+    "link": "https://www.elperiodico.com/es/opinion/20261107/fluir-articulo-agnes-marques-136191288",
+    "pubDate": "2026-11-07 09:45:00",
+    "category": "",
+    "description": "<h2> Creo que con un poco de disciplina puedo alcanzar un estado de conciencia en el que ya no tenga que dar la cara por nada</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Manuel Marchena: \"El indulto se ha convertido en una instancia del poder político\"",
+    "link": "https://www.elperiodico.com/es/politica/20261107/manuel-marchena-indulto-convertido-instancia-136187149",
+    "pubDate": "2026-11-07 09:42:20",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 96
+  },
+  {
+    "title": "La NFL, a escena un año después: ¿se ha consolidado el fútbol americano en España?",
+    "link": "https://www.elperiodico.com/es/deportes/20261107/nfl-escena-ano-despues-consolidado-136190959",
+    "pubDate": "2026-11-07 09:41:27",
+    "category": "",
+    "description": "<h2>Varios meses después del primer partido oficial en el Bernabéu, medimos la apuesta por el mercado español con nuevos programas escolares, acuerdos comerciales y una presencia estable en Madrid</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 96
+  },
+  {
+    "title": "Embalses hoy, 7 de noviembre en Catalunya: consulta el estado de Sau, Foix, Susqueda y el resto de pantanos",
+    "link": "https://www.elperiodico.com/es/sociedad/20261107/embalses-hoy-7-noviembre-catalunya-dv-136191324",
+    "pubDate": "2026-11-07 09:41:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Consulta el nivel de los pantanos catalanes, según los últimos datos de la Agència Catalana de l'Aigua</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20250922/noticias-google-discover-el-periodico-121841727\">Configura las noticias de Google para no perderte nada de EL PERIÓDICO</a></h2>",
+    "topic": "estado de los embalses",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Precio de la gasolina y diésel hoy, 7 de noviembre en España: consulta el precio de los carburantes",
+    "link": "https://www.elperiodico.com/es/economia/20261107/precio-gasolina-diesel-hoy-7-noviembre-dv-136191203",
+    "pubDate": "2026-11-07 09:34:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Guerra de EEUU e Israel contra Irán, en directo</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260303/afectara-espana-conflicto-iran-gas-gasolina-luz-inflacion-euribor-127492297\">¿Cómo afectará a España el conflicto con Irán? Gas, gasolina, luz, inflación y euríbor, en el punto de mira</a></h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 72
+  },
+  {
+    "title": "Ракети Нептун уразили завод Протон у Росії",
+    "link": "https://ua.korrespondent.net/ukraine/4926811-rakety-neptun-urazyly-zavod-proton-u-rosii",
+    "pubDate": "2026-11-07 09:31:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4628050.jpg\">Ураження підприємства ускладнює виробництво комплектуючих для крилатих і балістичних ракет, якими армія РФ б'є по українських містах, заявили в Генштабі.",
+    "topic": "політика",
+    "topic_match_probability": 82
+  },
+  {
+    "title": "Montse Cespedosa, experta en hipotecas: \"Antes, el poder lo tenía el vendedor, pero ahora la situación está cambiando y es el comprador quien empieza a tenerlo\"",
+    "link": "https://www.elperiodico.com/es/vivienda/20261107/montse-cespedosa-experta-hipotecas-vivienda-mercado-inmobiliario-poder-comprador-dv-136172127",
+    "pubDate": "2026-11-07 09:15:42",
+    "category": "",
+    "description": "<h2 class=\"item\">La especialista anuncia un final de ciclo en el mercado de la vivienda y anticipa cambios de tendencia</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20261028/montse-cespedosa-experta-hipotecas-aparentar-demasiado-dv-et-135625611\" >Montse Cespedosa, experta en hipotecas, sobre el ahorro: \"No te vayas de vacaciones. No te gastes en un móvil de mil euros, ¿para qué? Hay móviles de 150 euros\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Pablo Alles, psicólogo experto en tabaquismo: \"Una persona que ha sido fumadora, si fuma en ocasiones especiales, sigue teniendo un problema\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261107/fumar-tabaco-tabaquismo-adiccion-psicologo-pablo-alles-dv-136006948",
+    "pubDate": "2026-11-07 09:10:29",
+    "category": "",
+    "description": "<h2>El experto considera que dejar el tabaco mejora la salud física de una persona y supone un ahorro importante, pero cree que \"el gran beneficio es salir de la cárcel de la adicción\"</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260509/consejo-diego-gonzalez-rivas-ayudarte-dejar-de-fumar-tabaco-dv-129952079\">El consejo de Diego González Rivas que puede ayudarte a dejar de fumar: \"No ves el problema hasta que lo tienes\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/sanidad/20251022/entrevista-karl-fagerstrom-psicologo-adiccion-nicotina-tabaco-122737815\">Karl Fagerström, experto en adicción al tabaco: \"No es fácil dejar de fumar, por eso hay que permitir alternativas a los cigarros como las bolsas de nicotina\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Carme Artigas: \"Quien gane la supremacía de la IA va a conseguir la supremacía económica y militar\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261107/carme-artigas-gane-supremacia-ia-136190887",
+    "pubDate": "2026-11-07 09:06:32",
+    "category": "",
+    "description": "<h2>La ex secretaria de Estado de Digitalización e Inteligencia Artificial considera que estamos ante \"un cambio de era\"\", cree que el ser humano tiene que \"delegar en la tecnología, pero no abdicar\" en ella y advierte que el ser humano ha de limitar los usos que erosionen derechos fundamentales</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "На Житомирщині уражено енергетичну і паливну інфраструктуру - ОВА",
+    "link": "https://ua.korrespondent.net/ukraine/4926809-na-zhytomyrschyni-urazheno-enerhetychnu-i-palyvnu-infrastrukturu-ova",
+    "pubDate": "2026-11-07 09:04:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4628033.jpg\">У Житомирській області сталося масштабне знеструмлення внаслідок російської атаки на енергетику.",
+    "topic": "політика",
+    "topic_match_probability": 78
+  },
+  {
+    "title": "Dos pandas gigantes de China hacen su debut en un zoológico de Atlanta",
+    "link": "https://www.elperiodico.com/es/sociedad/20261107/pandas-gigantes-china-debut-zoologico-estados-unidos-136190586",
+    "pubDate": "2026-11-07 09:02:12",
+    "category": "",
+    "description": "<h2>Un macho llamado Ping Ping y una hembra llamada Fu Shuang llegaron a Estados Unidos desde Chengdu en septiembre en un vuelo de FedEx apodado el \"Panda Express\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sobre la bocina, desde ahí y para firmar una exhibición antológica: vean lo de Doncic y alucinen",
+    "link": "https://as.com/baloncesto/videos/va-a-ritmo-de-mvp-y-la-nba-no-da-credito-con-su-temporada-la-enesima-maravilla-de-doncic-para-poner-al-pabellon-en-pie-f202611-v/",
+    "pubDate": "2026-11-07 09:01:34",
+    "category": "Luka Doncic",
+    "description": "El esloveno de los Lakers volvió a firmar un partido de +50 puntos y ha comenzado la temporada en un nivel estratosférico.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "José Yélamo destapa engaños en 'Timadores': \"A mí mismo, hace poco, me intentaron estafar\"",
+    "link": "https://www.elperiodico.com/es/tele/20261107/jose-yelamo-timadores-136150051",
+    "pubDate": "2026-11-07 09:00:55",
+    "category": "",
+    "description": "<h2 class=\"item\">El nuevo 'true crime' de Atresplayer es una creación de una de las productoras del exitoso 'Crims' de Carles Porta </h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "'Tradwives' y elecciones",
+    "link": "https://www.elperiodico.com/es/opinion/20261107/tradwives-elecciones-estados-unidos-articulo-ana-bernal-trivino-136181325",
+    "pubDate": "2026-11-07 09:00:54",
+    "category": "",
+    "description": "<h2>Las mujeres han sido las que han votado más por los demócratas en estos comicios. Conviene que esta lección llegue también a España</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20251019/trad-wife-arrepentidas-farsa-vida-domestica-carcel-122714683\">Llegan las 'tradwives' arrepentidas: “Yo solo mostraba las bondades de la vida doméstica, pero aquello era una cárcel\"</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Irán, entre la espada y la bomba atómica: la guerra contra EEUU e Israel empuja a Teherán a reconsiderar su estrategia nuclear",
+    "link": "https://www.elperiodico.com/es/internacional/20261107/iran-espada-bomba-atomica-guerra-eeuu-israel-empuja-teheran-reconsiderar-estrategia-nuclear-136190749",
+    "pubDate": "2026-11-07 09:00:54",
+    "category": "",
+    "description": "<h2>Con el anterior líder supremo, Alí Jameneí, muerto en febrero a manos de Washington y Tel Aviv, cada vez más voces en la República Islámica apuntan a la necesidad del arma nuclear para evitar ser atacados de nuevo</h2>",
+    "topic": "політика",
+    "topic_match_probability": 94
+  },
+  {
+    "title": "Летіли балістика і \"шахеди\": як відпрацювала ППО",
+    "link": "https://ua.korrespondent.net/ukraine/4926807-letily-balistyka-i-shakhedy-yak-vidpratsuivala-ppo",
+    "pubDate": "2026-11-07 08:45:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4628016.jpg\">Зафіксовано влучання засобів повітряного нападу противника на 24 локаціях. Ще у 10 місцях впали уламки збитих цілей.",
+    "topic": "політика",
+    "topic_match_probability": 78
+  },
+  {
     "title": "Las amenazas de bomba se extienden a varios medios de comunicación europeos con Rusia bajo sospecha",
     "link": "https://www.elperiodico.com/es/internacional/20261107/amenazas-bomba-medios-comunicacion-europa-rusia-136189546",
     "pubDate": "2026-11-07 08:28:57",
@@ -25,6 +196,15 @@
     "description": "<h2 class=\"item\">\"Hay que erradicar las listas de espera de Dependencia en año y medio; Asturias ha tenido un problema con ellas, pero está en camino de solucionarse\"</h2><h2 class=\"item\">\"No doy ningún paso atrás al no ser candidato: estoy donde puedo aportar más\"</h2>",
     "topic": "політика",
     "topic_match_probability": 94
+  },
+  {
+    "title": "Última hora del choque de trenes de Toledo, en directo | Desciende a 11 el número de heridos ingresados en hospitales de Castilla-La Mancha",
+    "link": "https://www.elperiodico.com/es/sociedad/20261107/ultima-hora-choque-trenes-toledo-135832371",
+    "pubDate": "2026-11-07 08:15:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Sánchez alaba a Puente por haber \"dado la cara\" y asumir su \"responsabilidad política\"</h2><h2 class=\"item\">Los Reyes asistirán al funeral por las víctimas en la Catedral de Toledo el 12 de noviembre</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 92
   },
   {
     "title": "Maribel Verdú (56 años), sobre la vivienda: \"Tengo tres pisos, sí, pero es que llevo trabajando treinta años. No he robado a nadie y todo lo he declarado a Hacienda\"",
@@ -527,6 +707,24 @@
     "pubDate": "2026-11-07 04:51:03",
     "category": "",
     "description": "<h2>Es el primer español finalista del National Book Award de Literatura Traducida por 'Centroeuropa', donde a su pesar presagió que los soldados muertos volverían a cubrir las nieves del continente</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ahora que se acerca el final, una conciencia tranquila",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20261107/ahora-acerca-final-conciencia-tranquila-136029372",
+    "pubDate": "2026-11-07 04:51:02",
+    "category": "",
+    "description": "<h2>Si la vida ha merecido la pena y podemos dar gracias es porque en ella han existido los otros y porque nuestra relación con ellos ha sido justa </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La IA detiene a la IA, y los editores miran",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20261107/ia-detiene-ia-editores-miran-136072725",
+    "pubDate": "2026-11-07 04:51:01",
+    "category": "",
+    "description": "<h2>Puestos a decidir, prefiero el criterio de un editor o de un escritor a la hora de valorar si un texto creativo está construido por una mente humana o una ficticia a que sea una máquina la que detenga al escritor infractor</h2>",
     "topic": "",
     "topic_match_probability": 0
   },
