@@ -1,4 +1,4 @@
-# News for 2026-11-07 15:20
+# News for 2026-11-07 16:19
 
 Previous day: [2026-11-06](./data/2026-11-06.md)
 
@@ -34,6 +34,10 @@ Previous day: [2026-11-06](./data/2026-11-06.md)
 06:21 [Caicedo: “Aunque perdamos, seguimos remando”](https://as.com/baloncesto/mas_baloncesto/caicedo-aunque-perdamos-seguimos-remando-f202611-n/)<br>
 
 ## www.elperiodico.com
+16:07 [Accidente de trenes en Toledo, en directo | Investigación de la Fiscalía Europa por fraude, ayudas a los familiares de las víctimas y última hora](https://www.elperiodico.com/es/sociedad/20261107/accidente-trenes-toledo-urda-ave-iryo-hoy-ultima-hora-directo-135890234)<br>
+16:00 [Vida y asesinato de Ramon Balcells, el rector de Santa Anna que fomentó el ahorro de las obreras de la Sagrada Família](https://www.elperiodico.com/es/barcelona/20261107/vida-asesinato-ramon-balcells-rector-136113799)<br>
+15:59 [El Ayuntamiento de Barcelona da luz verde inicial a la construcción de más de 50 pisos en la masía y el jardín de Can Raventós](https://www.elperiodico.com/es/barcelona/20261107/ayuntamiento-barcelona-da-luz-verde-inicial-construccion-55-pisos-masia-jardin-can-raventos-136169794)<br>
+15:30 [Aurelio Rojas, cardiólogo, sobre el colesterol: "Es un error culpar solo a la grasa de la dieta, estos factores tienen un papel igual o más importante"](https://www.elperiodico.com/es/vida-y-estilo/20261107/aurelio-rojas-colesterol-grasa-dieta-dv-136023205)<br>
 15:10 [El rincón de Rubí que está ya en la historia del cine](https://www.elperiodico.com/es/barcelona/rubi/20261107/rincon-rubi-historia-cine-dv-loc-111402057)<br>
 15:05 [Los Agents Rurals localizan un camaleón en el espacio natural protegido de les Gavarres](https://www.elperiodico.com/es/sociedad/20261107/agents-rurals-capturan-ejemplar-camaleon-gavarres-136198907)<br>
 15:00 [La Generalitat valenciana señala trece bolsas de "suelo seguro" en el área metropolitana de València para construir "cerca de 131.500 viviendas"](https://www.elperiodico.com/es/sociedad/20261107/generalitat-valenciana-senala-trece-bolsas-136192296)<br>
