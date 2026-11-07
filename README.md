@@ -1,8 +1,9 @@
-# News for 2026-11-07 23:27
+# News for 2026-11-07 23:58
 
 Previous day: [2026-11-06](./data/2026-11-06.md)
 
 ## ua.korrespondent.net
+23:31 [Росіяни вдарили по Одесі](https://ua.korrespondent.net/city/odessa/4926918-rosiiany-vdaryly-po-odesi)<br>
 22:34 [Укренерго підтвердило цілодобові відключення](https://ua.korrespondent.net/ukraine/4926910-ukrenerho-pidtverdylo-tsilodobovi-vidkluichennia)<br>
 22:17 [На Житомирщині закликали дотримуватись світломаскування](https://ua.korrespondent.net/ukraine/4926908-na-zhytomyrschyni-zaklykaly-dotrymuvatys-svitlomaskuvannia)<br>
 21:58 [Від початку доби відбулося 187 боєзіткнень](https://ua.korrespondent.net/ukraine/4926905-vid-pochatku-doby-vidbulosia-187-boiezitknen)<br>
@@ -39,6 +40,7 @@ Previous day: [2026-11-06](./data/2026-11-06.md)
 00:23 [Росія повторно атакувала Київ балістикою](https://ua.korrespondent.net/city/kiev/4926771-rosiia-povtorno-atakuvala-kyiv-balistykoui)<br>
 
 ## as.com
+23:38 [Segunda victoria consecutiva liguera del Baskonia de Peras](https://as.com/baloncesto/segunda-victoria-consecutiva-liguera-del-baskonia-de-peras-f202611-n/)<br>
 22:22 [El Girona sigue intratable en casa](https://as.com/baloncesto/el-girona-sigue-intratable-en-casa-f202611-n/)<br>
 21:49 [Primer tropiezo del Movistar Estudiantes](https://as.com/baloncesto/mas_baloncesto/primer-tropiezo-del-movistar-estudiantes-f202611-n/)<br>
 21:34 [A la séptima, la vencida: el Manresa gana tras dos prórrogas](https://as.com/baloncesto/acb/a-la-septima-la-vencida-el-manresa-gana-tras-dos-prorrogas-f202611-n/)<br>
