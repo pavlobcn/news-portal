@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Tres soldados fallecen tras un ataque con drones contra una unidad militar colombiana",
+    "link": "https://www.elperiodico.com/es/internacional/20261108/tres-soldados-fallecen-ataque-drones-136212303",
+    "pubDate": "2026-11-08 02:36:16",
+    "category": "",
+    "description": "<h2>\"Los vamos a perseguir con toda la fuerza del Estado\", dijo el presidente De la Espriella. El Gobierno acusa a la guerrilla del ELN. </h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "У Франкфурті встановили громадянство підозрюваних у заворушеннях",
+    "link": "https://ua.korrespondent.net/world/4926937-u-frankfurti-vstanovyly-hromadianstvo-pidozruivanykh-u-zavorushenniakh",
+    "pubDate": "2026-11-08 02:33:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4628930.jpg\">Лише близько чверті підозрюваних мають виключно німецьке громадянство, повідомила поліція.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Німеччини придбає 50% акцій виробника танків Leopard 2",
+    "link": "https://ua.korrespondent.net/business/economics/4926934-nimechchyny-prydbaie-50-aktsii-vyrobnyka-tankiv-Leopard-2",
+    "pubDate": "2026-11-08 02:09:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4628912.png\">Після угоди Німеччина та Франція володітимуть концерном на паритетних засадах.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Vuelven los juguetes de ALDI que compran 4 de cada 10 familias catalanas: más de 500 opciones por menos de 10 euros",
+    "link": "https://www.elperiodico.com/es/sociedad/20261108/vuelven-juguetes-aldi-compran-4-bc-136030086",
+    "pubDate": "2026-11-08 01:59:07",
+    "category": "",
+    "description": "<h2 class=\"item\">Casi 4 de cada 10 hogares en Catalunya ya compran juguetes en ALDI y 7 de cada 10 adelantan sus compras para ahorrar</h2><h2 class=\"item\">El <u><a href=\"https://www.aldi.es/folleto/juguetes-navidad.html?page=1\"  rel=\"nofollow\">catálogo</a></u> de la cadena reúne más de 680 referencias, con opciones para todas las edades y para disfrutar en familia</h2><h2 class=\"item\">Las primeras propuestas de la colección de juguetes de ALDI de este año ya están en tienda, con referencias tan esperadas como la cocinita de madera 360º </h2>",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Фінляндія планує закрити кордон із РФ протитанковими ровами",
+    "link": "https://ua.korrespondent.net/world/4926932-finliandiia-planuie-zakryty-kordon-iz-rf-protytankovymy-rovamy",
+    "pubDate": "2026-11-08 01:48:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4628895.jpg\">Протяжність кордону Фінляндії з Росією становить 1340 км - приблизно половина всієї сухопутної ділянки кордону НАТО з РФ.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Вторгнення Росії в Україну. Онлайн",
+    "link": "https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain",
+    "pubDate": "2026-11-08 01:33:00",
+    "category": "Новини політики",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/2748609.jpg\">Володимир Путін почав повномасштабну війну проти України 24 лютого 2022 року. Не зумівши \"взяти Київ за три дні\", він сконцентрувався на захопленні Донбасу та південних областей України.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Іран скасував обмеження на дальність своїх ракет",
+    "link": "https://ua.korrespondent.net/world/4926930-iran-skasuvav-obmezhennia-na-dalnist-svoikh-raket",
+    "pubDate": "2026-11-08 01:29:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4628878.jpg\">Корпус вартових ісламської революції пояснив це необхідністю вести \"асиметричну війну\".",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Війна на Близькому Сході. Онлайн",
+    "link": "https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain",
+    "pubDate": "2026-11-08 01:19:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473659.jpg\">США та Ізраїль проводять масштабну операцію проти Ірану. Тегеран у відповідь атакує військові об'єкти США майже у всіх країнах Перської затоки.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Литва витратить €5,5 млн на нову систему оповіщення",
+    "link": "https://ua.korrespondent.net/world/4926928-lytva-vytratyt-55-mln-na-novu-systemu-opovischennia",
+    "pubDate": "2026-11-08 01:11:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4628861.jpg\">У країні готують нову багатоканальну систему оповіщення населення про надзвичайні ситуації та загрози безпеці.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Китай нарощує золоті резерви два роки поспіль",
+    "link": "https://ua.korrespondent.net/business/economics/4926926-kytai-naroschuie-zoloti-rezervy-dva-roky-pospil",
+    "pubDate": "2026-11-08 00:56:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4628844.jpg\">Запаси злитків у Народному банку Китаю в жовтні зросли на 830 000 унцій, або приблизно на 25,8 тонн.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Зеленський зреагував на стрілянину у Кракові",
+    "link": "https://ua.korrespondent.net/world/4926924-zelenskyi-zreahuvav-na-strilianynu-u-krakovi",
+    "pubDate": "2026-11-08 00:34:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4628843.jpg\">Від імені Українського народу та від себе особисто президент висловив щирі співчуття родинам і близьким загиблих.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Росія оголосила склад делегації на переговори в Абу-Дабі",
+    "link": "https://ua.korrespondent.net/world/4926922-rosiia-oholosyla-sklad-delehatsii-na-perehovory-v-abu-dabi",
+    "pubDate": "2026-11-08 00:16:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4628826.jpg\">Російську делегацію очолить Володимир Мединський. До складу також увійдуть представники міністерств закордонних справ, оборони та ГРУ.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  }
+]
