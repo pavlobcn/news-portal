@@ -1,8 +1,10 @@
-# News for 2026-11-08 18:56
+# News for 2026-11-08 20:12
 
 Previous day: [2026-11-07](./data/2026-11-07.md)
 
 ## ua.korrespondent.net
+19:29 [Мости Києва працюватимуть за новими схемами](https://ua.korrespondent.net/city/kiev/4927056-mosty-kyieva-pratsuivatymut-za-novymy-skhemamy)<br>
+18:36 [Енергетики відновили живлення Запорізької АЕС](https://ua.korrespondent.net/business/companies/4927049-enerhetyky-vidnovyly-zhyvlennia-zaporizkoi-aes)<br>
 18:15 [РФ майже 40 разів атакували Дніпропетровщину](https://ua.korrespondent.net/ukraine/4927046-rf-maizhe-40-raziv-atakuvaly-dnipropetrovschynu)<br>
 17:38 [У Києві можуть скасувати оплату за проїзд](https://ua.korrespondent.net/city/kiev/4927038-u-kyievi-mozhut-skasuvaty-oplatu-za-proizd)<br>
 15:55 [У Києві відновлюють рух Північним мостом: які обмеження](https://ua.korrespondent.net/city/kiev/4927026-u-kyievi-vidnovluiuit-rukh-pivnichnym-mostom-yaki-obmezhennia)<br>
@@ -19,6 +21,7 @@ Previous day: [2026-11-07](./data/2026-11-07.md)
 00:56 [Китай нарощує золоті резерви два роки поспіль](https://ua.korrespondent.net/business/economics/4926926-kytai-naroschuie-zoloti-rezervy-dva-roky-pospil)<br>
 
 ## as.com
+19:45 [El Casademont Zaragoza apaga el efecto Knox](https://as.com/baloncesto/el-casademont-zaragoza-apaga-el-efecto-knox-f202611-n/)<br>
 18:39 [Real Madrid – UCAM Murcia, en directo: Liga Endesa 2026-27 en vivo hoy](https://as.com/baloncesto/acb/real-madrid-ucam-murcia-en-directo-liga-endesa-2026-27-en-vivo-hoy-f202611-d/)<br>
 17:14 [La Laguna Tenerife firma su quinta victoria](https://as.com/baloncesto/acb/la-laguna-tenerife-firma-su-quinta-victoria-f202611-n/)<br>
 15:37 [Remontada de carácter del Valencia](https://as.com/baloncesto/acb/remontada-de-caracter-del-valencia-f202611-n/)<br>
@@ -28,6 +31,8 @@ Previous day: [2026-11-07](./data/2026-11-07.md)
 07:45 [Cate: “En Murcia voy con una sonrisa a entrenar”](https://as.com/baloncesto/acb/cate-en-murcia-voy-con-una-sonrisa-a-entrenar-f202611-n/)<br>
 
 ## www.elperiodico.com
+19:25 [José Mijares, español viviendo en Noruega: "A partir del 20 de noviembre, el sol no volverá a salir hasta el día 21 de enero"](https://www.elperiodico.com/es/economia/20261108/noche-polar-sol-noruega-espanol-jose-mijares-dv-136077766)<br>
+19:00 [Dos inventos estudiantiles ganan el James Dyson Award 2026 por detectar riesgos ocultos en edificios y conmociones cerebrales](https://www.elperiodico.com/es/tecnologia/20261108/inventos-estudiantiles-ganan-james-dyson-136228264)<br>
 18:20 [Los psicólogos advierten: "Dejarse las canas refleja autenticidad, pero también puede exponer a las mujeres al edadismo"](https://www.elperiodico.com/es/ser-feliz/20261108/canas-mujer-autenticidad-aceptacion-profesional-psicologos-dv-135769051)<br>
 18:20 [Nuki incorpora a su oferta un módulo de acceso inteligente que se oculta en la puerta](https://www.elperiodico.com/es/tecnologia/20261108/nuki-incorpora-oferta-modulo-acceso-136227653)<br>
 17:25 [Ramón Vallés, piloto, sobre la seguridad aérea: "Se me ponen los pelos de punta solo con pensar que lo que está sucediendo en el mundo ferroviario pueda pasar al mundo de la aviación"](https://www.elperiodico.com/es/economia/20261108/seguridad-avion-trenes-accidente-urda-piloto-ramon-valles-dv-136117672)<br>
