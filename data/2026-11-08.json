@@ -1,5 +1,266 @@
 [
   {
+    "title": "РФ атакувала Хмельницький, пошкоджені будинки",
+    "link": "https://ua.korrespondent.net/ukraine/4926951-rf-atakuvala-khmelnytskyi-poshkodzheni-budynky",
+    "pubDate": "2026-11-08 06:20:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4629129.jpg\">У Хмельницькому російський безпілотник пошкодив приватні та багатоповерхові будинки. Одна людина травмована.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Martín: \"Pelearé con todas mis fuerzas para que el Mundial llegue vivo a Portugal\"",
+    "link": "https://www.elperiodico.com/es/deportes/20261108/martin-peleare-fuerzas-mundial-llegue-136211098",
+    "pubDate": "2026-11-08 06:12:42",
+    "category": "",
+    "description": "<h2 class=\"item\">Marc Márquez (Ducati) dijo ayer, después de ganar su 10ª esprint de esta temporada ¡y eso que odia los sábados!, que hoy no tocaba ganar su 10º cetro mundial. Lo dijo con la boca pequeña, pero Jorge Martín (Aprilia) está dispuesto a forzarle a ganarlo en Portimao (Portugal), dentro de 15 días, no hoy.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El Atlético es lo más cercano a la bestia negra de Flick y hoy amenaza el liderato del Barça",
+    "link": "https://www.elperiodico.com/es/deportes/20261108/liderato-metropolitano-atletico-barcelona-bestia-negra-simeone-136206195",
+    "pubDate": "2026-11-08 06:10:08",
+    "category": "",
+    "description": "<h2 class=\"item\">El equipo de Simeone apeó al equipo azulgrana en Champions y en Copa la temporada pasada</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20261107/paz-palco-enterrada-hacha-guerra-atletico-barcelona-julian-alvarez-136180554\">Paz en el palco: una comida de directivas para escenificar el fin de las hostilidades entre Atlético y Barça por Julián Álvarez</a></h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El partido de Julián Álvarez: del órdago fallido rumbo al Barça a la reconciliación interesada con el Atlético",
+    "link": "https://www.elperiodico.com/es/deportes/20261108/partido-julian-alvarez-ordago-fallido-136193813",
+    "pubDate": "2026-11-08 06:02:02",
+    "category": "",
+    "description": "<h2>El delantero argentino trata de cerrar la herida abierta con la afición colchonera tras sus escarceos con el conjunto azulgrana, al que hoy se enfrenta con la necesidad de que los goles hablen por él</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La rebelión de los 'no sabo': el voto latino impulsó el castigo a Trump y restó 14 puntos a los republicanos",
+    "link": "https://www.elperiodico.com/es/internacional/20261108/voto-latino-elecciones-estados-unidos-2026-trump-136203723",
+    "pubDate": "2026-11-08 06:01:47",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20261104/resultados-midterms-2026-elecciones-estados-unidos-congreso-senado-trump-136043263\" target=\"_blank\">Resultados de las 'midterms', las elecciones de Estados Unidos 2026: votos al partido demócrata y republicano</a></h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20261104/donde-ha-ganado-perdido-trump-midterms-elecciones-estados-unidos-mapa-136072047\" target=\"_blank\">MAPA | ¿Dónde ha ganado y perdido Trump? Los estados con victoria demócrata y republicana en las 'midterms'</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Santiago Abascal: \"Antes del acuerdo, habrá que ver números y saber si Feijóo quiere acuerdo con Vox. No lo veo tan claro\"",
+    "link": "https://www.elperiodico.com/es/politica/20261108/santiago-abascal-acuerdo-habra-ver-136195764",
+    "pubDate": "2026-11-08 06:01:05",
+    "category": "",
+    "description": "<h2>El candidato de Vos dice que el sistema autonómico es \"injusto y desigual\", que el Gobierno pretende convertir Canarias \"en una nueva Lampedusa\" y que hay que terminar con la \"sobrerregulación\" en el campo</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Santiago Abascal: \"Me da igual el sistema, lo que me importa es que las pensiones se paguen\"",
+    "link": "https://www.elperiodico.com/es/politica/20261108/santiago-abascal-da-igual-sistema-136186308",
+    "pubDate": "2026-11-08 06:01:02",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Josep Ametller: \"En 2027 facturaremos 1.000 millones y todos nuestros empleados tendrán ya dos días seguidos de descanso\"",
+    "link": "https://www.elperiodico.com/es/economia/20261108/entrevista-josep-ametller-facturacion-1000-millones-2027-empleados-dias-descanso-136011334",
+    "pubDate": "2026-11-08 06:01:01",
+    "category": "",
+    "description": "<h2 class=\"item\">La cadena especializada en productos frescos cumple 25 años con la ambición de seguir creciendo a doble dígito y el firme propósito de \"impactar positivamente en la sociedad\"</h2><h2 class=\"item\">Con una red de más de 150 tiendas y récords anuales de inversión, la empresa descarta dar entrada a socios y apuesta por abrir establecimientos de gran formato, de más de mil metros cuadrados </h2><h2 class=\"item\"> <atarget=\"_blank\">\"¿Naranjas de Sudáfrica? Promovemos siempre el producto local, pero no limitamos la libertad del consumidor\"</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Santiago Abascal: \"Con los menores migrantes, lo primero que hay que hacer es ponerlos en la frontera\"",
+    "link": "https://www.elperiodico.com/es/politica/20261108/santiago-abascal-menores-migrantes-hay-136185845",
+    "pubDate": "2026-11-08 06:01:00",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Incertidumbre y angustia",
+    "link": "https://www.elperiodico.com/es/opinion/20261108/incertidumbre-angustia-reflexion-articulo-francesc-torralba-136184948",
+    "pubDate": "2026-11-08 06:01:00",
+    "category": "",
+    "description": "<h2>La ciencia es un saber que tiene capacidad de predicción, pero los fenómenos humanos no entran fácilmente dentro de esta categoría, aunque nos gustaría</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Juegos de la guerra de Ucrania en los bosques de Castilla",
+    "link": "https://www.elperiodico.com/es/internacional/20261108/juegos-guerra-ucrania-bosques-castilla-136212742",
+    "pubDate": "2026-11-08 06:01:00",
+    "category": "",
+    "description": "<h2>Decenas de individuos vestidos con uniformes inspirados en controvertidas unidades militares prorrusas imitan durante los fines de semana célebres batallas del conflicto ucraniano</h2><h2>Los participantes aseguran que se trata solo de un ejercicio lúdico y que cuentan con los permisos necesarios de los ayuntamientos o los propietarios de los terrenos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los líderes políticos pugnan por ganar la batalla en las redes: el campo de juego para captar a los nuevos votantes",
+    "link": "https://www.elperiodico.com/es/politica/20261108/lideres-pugnan-ganar-batalla-redes-136179546",
+    "pubDate": "2026-11-08 06:01:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Más de un millón y medio de jóvenes que votan por primera vez se informan exclusivamente en las redes sociales</h2><h2 class=\"item\">Pedro Sánchez y Santiago Abascal despuntan en seguidores, 'likes' y en viralidad en casi todas las plataformas</h2><h2 class=\"item\">Los partidos luchan por abrirse paso en TikTok e Instagram, donde se fija la agenda entre los más jóvenes</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261107/elecciones-generales-29-noviembre-vivienda-ceuta-ultima-hora-directo-135335688\" target=\"_blank\">Elecciones 29N, en directo</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "\"Son chavales que han quemado todas las naves\": el colegio que rescata a adolescentes atrapados en el fracaso escolar y vital",
+    "link": "https://www.elperiodico.com/es/sociedad/20261108/centro-educativo-la-ribera-navarra-segunda-oportunidad-estudiantes-fracaso-escolar-135883228",
+    "pubDate": "2026-11-08 06:00:58",
+    "category": "",
+    "description": "<h2 class=\"item\">El centro educativo La Ribera, en un pequeño pueblo de Navarra, ofrece una segunda oportunidad a jóvenes de 14 y 15 años en riesgo de exclusión mediante un programa que combina talleres prácticos y proyectos</h2><h2 class=\"item\">La mayoría logra romper la espiral de rechazo al instituto y se matriculan en un ciclo de FP básica para aprender un oficio</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Terrassa recuperará la construcción directa de vivienda pública después de 15 años",
+    "link": "https://www.elperiodico.com/es/barcelona/20261108/terrassa-recuperara-construccion-directa-de-vivienda-publica-despues-15-anos-136174816",
+    "pubDate": "2026-11-08 06:00:58",
+    "category": "",
+    "description": "<h2>El Ayuntamiento también prevé invertir 3,7 millones en rehabilitar 300 viviendas y mejorar la eficiencia energética de otras 500</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20261003/caeran-trozos-haran-dano-alguien-terrassa-proteccion-oficial-134844946\">\"Caerán más trozos y harán daño a alguien\": un centenar de vecinos de Terrassa temen los desprendimientos de la fachada de sus pisos protegidos</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Josep Ametller: \"¿Naranjas de Sudáfrica? Promovemos siempre el producto local, pero no limitamos la libertad del consumidor\"",
+    "link": "https://www.elperiodico.com/es/economia/20261108/josep-ametller-promovemos-producto-local-no-limitamos-libertad-consumidor-136122362",
+    "pubDate": "2026-11-08 06:00:58",
+    "category": "",
+    "description": "<h2 class=\"item\">El empresario defiende la venta de naranjas todo el año importadas de Sudáfrica y frente a las críticas que recibe denuncia excesos de demagogia y desinformación, además de recordar que Catalunya está muy lejos de alcanzar la soberanía alimentaria </h2><h2 class=\"item\"> \"En 2027 facturaremos 1.000 millones y todos nuestros empleados disfrutarán de dos días seguidos de descanso\"</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Cristina Silva Feliu, atleta: \"Vivo en Barcelona, pero me siento mucho más de Llançà\"",
+    "link": "https://www.elperiodico.com/es/gente/20261108/cristina-silva-feliu-atleta-cursa-de-bombers-barcelona-2026-dv-136173111",
+    "pubDate": "2026-11-08 06:00:56",
+    "category": "",
+    "description": "<h2 class=\"item\">Ganadora habitual de carreras populares catalanas, acaba de ser reconocida con el premio a Llançanenca del Año 2026</h2><h2 class=\"item\">Hoy correrá la Cursa dels Bombers, una de las pocas pruebas barcelonesas que todavía se le resisten</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20261106/cursa-bombers-2026-calles-cortadas-transporte-publico-136152837\" target=\"_blank\" rel=\"nofollow\">Cursa de Bombers 2026: todas las calles cortadas en Barcelona este domingo y los cambios en el transporte público</a></h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Lola Moreno: \"La filtración de audios del accidente ferroviario es inadmisible e ilegal\"",
+    "link": "https://www.elperiodico.com/es/economia/20261108/lola-moreno-filtracion-audios-accidente-136212721",
+    "pubDate": "2026-11-08 06:00:55",
+    "category": "",
+    "description": "<h2>Lola Moreno, al frente de la Unión Sindical de Controladores Aéreos, reclama un aumento urgente de la plantilla para hacer frente a la saturación de los aeropuertos españoles</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las cuentas 'curis' de TikTok llevan al límite la convivencia en el aula: \"Un meme contra ti con 3.000 'likes' te destruye\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261108/fenomeno-cuentas-curis-agravan-tension-institutos-convivencia-acoso-136077194",
+    "pubDate": "2026-11-08 06:00:54",
+    "category": "",
+    "description": "<h2 class=\"item\">Las direcciones escolares ya han comenzado a imponer expulsiones temporales ante la proliferación de estos perfiles anónimos, utilizados para humillar y acosar a alumnos y profesores</h2><h2 class=\"item\">Los expertos alertan de que los adolescentes no son conscientes del daño que causan y constatan \"el fracaso de la educación digital\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un \"tsunami legislativo\" obligará a reformar todas las depuradoras de España",
+    "link": "https://www.elperiodico.com/es/sociedad/20261108/tsunami-legislativo-obligara-reformar-depuradoras-135868028",
+    "pubDate": "2026-11-08 06:00:53",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260322/fabricas-de-agua-consumo-agua-regenerada-normativa-sequia-cataluna-128065593\" target=\"_blank\">Catalunya busca cambiar la normativa para beber agua residual reutilizada aunque no haya sequía</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "El 25% de las tuberías de España llegan al final de su vida útil: \"Se deben invertir unos 4.400 millones al año\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261108/redes-agua-espana-final-vida-util-135851846",
+    "pubDate": "2026-11-08 06:00:53",
+    "category": "",
+    "description": "<h2 class=\"item\">Expertos del sector reclaman invertir más en renovación para evitar que el sistema pierda una eficiencia que hoy se acerca al 80%</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260322/fabricas-de-agua-consumo-agua-regenerada-normativa-sequia-cataluna-128065593\" target=\"_blank\">Catalunya busca cambiar la normativa para beber agua residual reutilizada aunque no haya sequía</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "¿Existió el fútbol fascista en España y Portugal?",
+    "link": "https://www.elperiodico.com/es/deportes/20261108/existio-futbol-fascista-espana-portugal-135490368",
+    "pubDate": "2026-11-08 06:00:49",
+    "category": "",
+    "description": "<h2>Los investigadores Daniele Serapiglia y Juan Antonio Simón comparan en un libro cómo Franco y Salazar sometieron el fútbol y convirtieron a futbolistas extranjeros en héroes nacionales</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Las bodas ya no son solo cosa de dos: el 80% de las parejas españolas prioriza que sus invitados se lo pasen en grande",
+    "link": "https://www.elperiodico.com/es/gente/20261108/bodas-tendencias-invitados-diversion-135923001",
+    "pubDate": "2026-11-08 06:00:47",
+    "category": "",
+    "description": "<h2>Fotomatones, tatuajes en directo, barras de purpurina y hasta cuidadores de perros: los enlaces se convierten en pequeños festivales donde la diversión manda. Y los novios de la generación Z están llevando la tendencia todavía más lejos</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20261105/trajes-novio-2027-tendencias-moda-nupcial-masculina-136119109\" target=\"_blank\">Ni chaqué ni traje azul de siempre: las 7 tendencias que cambiarán la forma de vestir de los novios en 2027</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ni chaqué ni traje azul de siempre: las 7 tendencias que cambiarán la forma de vestir de los novios en 2027",
+    "link": "https://www.elperiodico.com/es/gente/20261108/trajes-novio-2027-tendencias-moda-nupcial-masculina-136119109",
+    "pubDate": "2026-11-08 06:00:45",
+    "category": "",
+    "description": "<h2>Los colores inesperados, los tejidos con personalidad, las joyas y los accesorios que antes parecían reservados a ellas revolucionan la moda nupcial masculina</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20261105/bodas-tendencias-invitados-diversion-135923001\" target=\"_blank\">Las bodas ya no son solo cosa de dos: el 80% de las parejas españolas prioriza que sus invitados se lo pasen en grande</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Підсумки 7.11: ураження Іскандерів й пілоти РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4926936-pidsumky-711-urazhennia-iskanderiv-y-piloty-rf",
+    "pubDate": "2026-11-08 05:56:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4628913.jpg\">Сили оборони України уразили на Брянщині дві пускові установки ОТРК Іскандер. Атаку на навчальний заклад у Комишувасі спланував полковник Зубаков. Кореспондент.net виділяє головні події вчорашнього дня.",
+    "topic": "підсумки (за попередній день, наприклад)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Іран розраховує отримати від Росії комплекси С-400",
+    "link": "https://ua.korrespondent.net/world/4926950-iran-rozrakhovuie-otrymaty-vid-rosii-kompleksy-s-400",
+    "pubDate": "2026-11-08 05:33:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4629016.jpg\">Новий запит Тегерана надійшов на тлі підготовки США до можливого відновлення масштабних бойових дій.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Путін погрожує знищити інфраструктуру України",
+    "link": "https://ua.korrespondent.net/world/4926947-putin-pohrozhuie-znyschyty-infrastrukturu-ukrainy",
+    "pubDate": "2026-11-08 05:16:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4629015.jpg\">Російський диктатор розраховує послабити Україну зимовими ударами та змусити її погодитися на територіальні поступки.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "У центрі Москви затримали сотні осіб",
+    "link": "https://ua.korrespondent.net/world/russia/4926945-u-tsentri-moskvy-zatrymaly-sotni-osib",
+    "pubDate": "2026-11-08 04:31:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4628982.jpg\">Затриманим вручали повістки до армії, агітували підписати контракт із Міноборони РФ.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Іран роздає йод жителям районів поблизу ядерних об'єктів - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4926943-iran-rozdaie-yod-zhyteliam-raioniv-poblyzu-yadernykh-obiektiv-zmi",
+    "pubDate": "2026-11-08 04:02:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4628965.jpg\">Під час кожної війни препарат розповсюджують у радіусі 2-3 км від ядерних об'єктів, інформує джерело.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "В Альпах зникає останній льодовик Алльгойських гір",
+    "link": "https://ua.korrespondent.net/world/4926941-v-alpakh-znykaie-ostannii-lodovyk-allhoiskykh-hir",
+    "pubDate": "2026-11-08 03:34:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4628964.png\">За кілька теплих місяців льодовик втратив понад чотири метри товщини та приблизно половину об’єму.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "У РФ визнали ризик бюджетного провалу - розвідка",
     "link": "https://ua.korrespondent.net/world/russia/4926939-u-rf-vyznaly-ryzyk-buidzhetnoho-provalu-rozvidka",
     "pubDate": "2026-11-08 03:01:00",
