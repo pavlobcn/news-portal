@@ -1,8 +1,9 @@
-# News for 2026-11-08 22:48
+# News for 2026-11-08 23:56
 
 Previous day: [2026-11-07](./data/2026-11-07.md)
 
 ## ua.korrespondent.net
+22:58 [З'явилися супутникові знімки НПС Самара після ударів дронів](https://ua.korrespondent.net/world/russia/4927087-ziavylysia-suputnykovi-znimky-nps-samara-pislia-udariv-droniv)<br>
 21:59 [Hubble показав зоряне скупчення, якому мільярди років](https://ua.korrespondent.net/tech/space/4927076-Hubble-pokazav-zoriane-skupchennia-yakomu-miliardy-rokiv)<br>
 21:24 [Відключення світла: Укренерго посилює обмеження](https://ua.korrespondent.net/ukraine/4927070-vidkluichennia-svitla-ukrenerho-posyluiie-obmezhennia)<br>
 21:05 [Росіяни вдарили по Кременчуку: є поранені](https://ua.korrespondent.net/ukraine/4927068-rosiiany-vdaryly-po-kremenchuku-ye-poraneni)<br>

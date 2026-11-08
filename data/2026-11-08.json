@@ -1,5 +1,86 @@
 [
   {
+    "title": "Трамп назвав \"малоймовірною\" нову війну з Іраном",
+    "link": "https://ua.korrespondent.net/world/4927091-tramp-nazvav-maloimovirnoui-novu-viinu-z-iranom",
+    "pubDate": "2026-11-08 23:39:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4630206.jpg\">Подальший розвиток подій залежить від домовленостей щодо ядерної програми Ірану та судноплавства в Ормузькій протоці.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El estilo es el hambre, por Juan Cruz",
+    "link": "https://www.elperiodico.com/es/deportes/20261108/juan-cruz-estilo-hambre-atletico-barcelona-136233868",
+    "pubDate": "2026-11-08 23:34:31",
+    "category": "",
+    "description": "<h2 class=\"item\">La crónica: <a href=\"https://www.elperiodico.com/es/deportes/20261108/atletico-barcelona-goles-resumen-cronica-partido-136231105\">Fermín y Lamine castigan a Simeone en el gran levantamiento del Barça en el Metropolitano y afianzan el liderato</a></h2><h2 class=\"item\">La contracrónica: <a href=\"https://www.elperiodico.com/es/deportes/20261108/contracronica-atletico-barcelona-136232782\">Experimento en el Metropolitano: De Jong, un lateral derecho muy solvente</a></h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Кубок конструкторів достроково дістався Мерседесу",
+    "link": "https://ua.korrespondent.net/sport/formula/4927078-kubok-konstruktoriv-dostrokovo-distavsia-mersedesu",
+    "pubDate": "2026-11-08 23:20:00",
+    "category": "Новини Формули-1",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4630085.jpg\">Німецька команда за кілька етапів до завершення чемпіонату гарантувала собі перемогу в заліку Кубка конструкторів сезону-2026.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "У Туреччині створюють \"сталевий купол\" для цензури ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4927089-u-turechchyni-stvoruiuit-stalevyi-kupol-dlia-tsenzury-zmi",
+    "pubDate": "2026-11-08 23:17:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4630185.jpg\">Система на основі ШІ автоматично виявлятиме можливі порушення законодавства та готуватиме звіти для фахівців.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Ni gol ni perdón para Julián Álvarez frente al Barcelona",
+    "link": "https://www.elperiodico.com/es/deportes/20261108/gol-perdon-julian-alvarez-atletico-barcelona-136231065",
+    "pubDate": "2026-11-08 23:06:56",
+    "category": "",
+    "description": "<h2 class=\"item\">En su primer enfrentamiento del curso ante el Barcelona, el delantero argentino machacó a, desubicado y tierno Fariñas y dio la asistencia del tanto de Giuliano, pero falló dos claras ocasiones de mano a mano.</h2><h2 class=\"item\">El Metropolitano le pitó antes del partido y tras el segundo de sus errores de bulto.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Experimento en el Metropolitano: De Jong, un lateral derecho muy solvente",
+    "link": "https://www.elperiodico.com/es/deportes/20261108/contracronica-atletico-barcelona-136232782",
+    "pubDate": "2026-11-08 23:04:55",
+    "category": "",
+    "description": "<h2 class=\"item\">El jugador neerlandés cumplió la mar de bien en una inédita posición defensiva, invento de Flick para reparar las grietas en los costados</h2><h2 class=\"item\">La crónica: <a href=\"https://www.elperiodico.com/es/deportes/20261108/atletico-barcelona-goles-resumen-cronica-partido-136231105\">Fermín y Lamine castigan a Simeone en el gran levantamiento del Barça en el Metropolitano y afianzan el liderato (1-2)</a></h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Перемога над Комо підняла Інтер на друге місце в Серії А",
+    "link": "https://ua.korrespondent.net/sport/football/4927072-peremoha-nad-komo-pidniala-inter-na-druhe-mistse-v-serii-a",
+    "pubDate": "2026-11-08 23:03:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4630064.jpg\">\"Нерадзуррі\" не залишили шансів супернику в домашньому протистоянні 11-го туру та суттєво покращили свої позиції у чемпіонській гонці.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "З'явилися супутникові знімки НПС Самара після ударів дронів",
+    "link": "https://ua.korrespondent.net/world/russia/4927087-ziavylysia-suputnykovi-znimky-nps-samara-pislia-udariv-droniv",
+    "pubDate": "2026-11-08 22:58:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4630166.png\">Супутникові знімки зафіксували який вигляд має нафтоперекачувальна станція Самара після п’яти українських ударів за жовтень і листопаді.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Fermín y Lamine castigan a Simeone en el gran levantamiento del Barça en el Metropolitano y afianzan el liderato",
+    "link": "https://www.elperiodico.com/es/deportes/20261108/atletico-barcelona-goles-resumen-cronica-partido-136231105",
+    "pubDate": "2026-11-08 22:55:44",
+    "category": "",
+    "description": "<h2>Los dos goles del centrocampista andaluz y la exhibición del delantero propician la extraordinaria remontada azulgrana frente a un Atlético que echó a perder su buen comienzo</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
     "title": "США планують перекрити шляхи постачання зброї до Ірану",
     "link": "https://ua.korrespondent.net/world/4927084-ssha-planuuit-perekryty-shliakhy-postachannia-zbroi-do-iranu",
     "pubDate": "2026-11-08 22:39:00",
