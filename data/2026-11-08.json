@@ -1,5 +1,77 @@
 [
   {
+    "title": "США планують перекрити шляхи постачання зброї до Ірану",
+    "link": "https://ua.korrespondent.net/world/4927084-ssha-planuuit-perekryty-shliakhy-postachannia-zbroi-do-iranu",
+    "pubDate": "2026-11-08 22:39:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4630144.jpg\">Вашингтон розширює обмеження проти Ірану за межі морської блокади. Нова ініціатива охопить сухопутні кордони країни та Каспійське море.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El Real Madrid tiene una nueva joya de 16 años: ¡ojo a Pablo Mera!",
+    "link": "https://as.com/baloncesto/videos/el-real-madrid-tiene-una-nueva-joya-de-16-anos-ojo-a-pablo-mera-f202611-v/",
+    "pubDate": "2026-11-08 22:26:28",
+    "category": "Real Madrid baloncesto",
+    "description": "En el conjunto blanco ha debutado hoy uno de los diamantes de la cantera del Madrid. Así han sido sus primeros tres puntos ante el UCAM.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Польщі стартували перші навчання Коаліції охочих",
+    "link": "https://ua.korrespondent.net/world/4927081-u-polschi-startuvaly-pershi-navchannia-koalitsii-okhochykh",
+    "pubDate": "2026-11-08 22:23:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4630124.jpg\">Маневри триватимуть до 22 листопада. Учасники відпрацюють розгортання, логістику та взаємодію сил, які можуть залучити до підтримки України після завершення бойових дій.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Hubble показав зоряне скупчення, якому мільярди років",
+    "link": "https://ua.korrespondent.net/tech/space/4927076-Hubble-pokazav-zoriane-skupchennia-yakomu-miliardy-rokiv",
+    "pubDate": "2026-11-08 21:59:00",
+    "category": "Космос",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4630086.jpg\">Космічний телескоп Hubble зафіксував кулясте зоряне скупчення Мессьє 30 у сузір’ї Козерога. Воно може розповісти астрономам, якою була наша галактика мільярди років тому.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La 2Cat celebra el primer debate de precampaña entre los candidatos catalanes",
+    "link": "https://www.elperiodico.com/es/politica/20261108/2cat-celebra-primer-debate-precampana-136226991",
+    "pubDate": "2026-11-08 21:45:48",
+    "category": "",
+    "description": "<h2>Los representantes por Barcelona de los principales partidos confrontan sus propuestas electorales sobre infraestructuras, inmigración, vivienda, economía y pactos políticos</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Хорватії автобус потрапив в аварію: 33 постраждалих",
+    "link": "https://ua.korrespondent.net/world/4927074-u-khorvatii-avtobus-potrapyv-v-avariui-33-postrazhdalykh",
+    "pubDate": "2026-11-08 21:43:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4630084.jpg\">На автомагістралі в Хорватії автобус із сербськими номерами врізався в дорожню огорожу та перекинувся.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Відключення світла: Укренерго посилює обмеження",
+    "link": "https://ua.korrespondent.net/ukraine/4927070-vidkluichennia-svitla-ukrenerho-posyluiie-obmezhennia",
+    "pubDate": "2026-11-08 21:24:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4630065.jpg\">У неділю, 9 листопада, в Україні діятимуть графіки погодинних відключень електроенергії. Обмеження торкнуться всіх категорій споживачів і можуть сягати чотирьох черг.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Goleada final: 20-0",
+    "link": "https://as.com/baloncesto/acb/goleada-final-20-0-f202611-n/",
+    "pubDate": "2026-11-08 21:22:58",
+    "category": "Baloncesto",
+    "description": "El Madrid desactiva al UCAM con una buena defensa a pesar de las bajas. El líder revienta el duelo con un parcial demoledor. Muy bien Pradilla. Debuta Pablo Mera. Nick Smith no juega.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "La defensa de Isabel Peralta, cabecilla de Núcleo Nacional: \"Tiene licencia para todas sus armas\"",
     "link": "https://www.elperiodico.com/es/sucesos/20261108/defensa-isabel-peralta-cabecilla-nucleo-136231755",
     "pubDate": "2026-11-08 21:16:33",

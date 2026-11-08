@@ -1,8 +1,10 @@
-# News for 2026-11-08 21:24
+# News for 2026-11-08 22:48
 
 Previous day: [2026-11-07](./data/2026-11-07.md)
 
 ## ua.korrespondent.net
+21:59 [Hubble показав зоряне скупчення, якому мільярди років](https://ua.korrespondent.net/tech/space/4927076-Hubble-pokazav-zoriane-skupchennia-yakomu-miliardy-rokiv)<br>
+21:24 [Відключення світла: Укренерго посилює обмеження](https://ua.korrespondent.net/ukraine/4927070-vidkluichennia-svitla-ukrenerho-posyluiie-obmezhennia)<br>
 21:05 [Росіяни вдарили по Кременчуку: є поранені](https://ua.korrespondent.net/ukraine/4927068-rosiiany-vdaryly-po-kremenchuku-ye-poraneni)<br>
 20:27 [Берлін назвав загальну суму підтримки України](https://ua.korrespondent.net/business/financial/4927063-berlin-nazvav-zahalnu-sumu-pidtrymky-ukrainy)<br>
 19:29 [Мости Києва працюватимуть за новими схемами](https://ua.korrespondent.net/city/kiev/4927056-mosty-kyieva-pratsuivatymut-za-novymy-skhemamy)<br>
@@ -23,6 +25,8 @@ Previous day: [2026-11-07](./data/2026-11-07.md)
 00:56 [Китай нарощує золоті резерви два роки поспіль](https://ua.korrespondent.net/business/economics/4926926-kytai-naroschuie-zoloti-rezervy-dva-roky-pospil)<br>
 
 ## as.com
+22:26 [El Real Madrid tiene una nueva joya de 16 años: ¡ojo a Pablo Mera!](https://as.com/baloncesto/videos/el-real-madrid-tiene-una-nueva-joya-de-16-anos-ojo-a-pablo-mera-f202611-v/)<br>
+21:22 [Goleada final: 20-0](https://as.com/baloncesto/acb/goleada-final-20-0-f202611-n/)<br>
 20:24 [Un triplazo de Pacheco sobre la bocina lanza al Leyma](https://as.com/baloncesto/acb/un-triplazo-de-pacheco-sobre-la-bocina-lanza-al-leyma-f202611-n/)<br>
 19:45 [El Casademont Zaragoza apaga el efecto Knox](https://as.com/baloncesto/el-casademont-zaragoza-apaga-el-efecto-knox-f202611-n/)<br>
 18:39 [Real Madrid – UCAM Murcia, en directo: Liga Endesa 2026-27 en vivo hoy](https://as.com/baloncesto/acb/real-madrid-ucam-murcia-en-directo-liga-endesa-2026-27-en-vivo-hoy-f202611-d/)<br>
