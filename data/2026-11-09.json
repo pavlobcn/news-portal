@@ -1,5 +1,113 @@
 [
   {
+    "title": "Tráfico y transporte público en Barcelona, en directo | Última hora de las retenciones, accidentes y cortes en las rondas, Rodalies y metro",
+    "link": "https://www.elperiodico.com/es/barcelona/20261109/trafico-barcelona-hoy-directo-rondas-rodalies-metro-133938712",
+    "pubDate": "2026-11-09 05:36:00",
+    "category": "",
+    "description": "<h2>Directo | <a href=\"https://www.elperiodico.com/es/sociedad/20261029/accidente-tren-toledo-victimas-reacciones-yebenes-urda-ultima-hora-directo-135832237\" target=\"_blank\">Accidente de trenes en Toledo: fallecidos, heridos y desaparecidos tras el choque entre un Iryo y un AVE</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Inestabilidad en Oriente Medio | Efectos de la guerra en Irán",
+    "link": "https://www.elperiodico.com/es/internacional/20261109/elecciones-israel-guerra-iran-ultima-hora-directo-130265713",
+    "pubDate": "2026-11-09 05:33:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20260410/guerra-ucrania-rusia-ultima-hora-zelenski-trump-putin-directo-126605559\" >DIRECTO | Guerra Ucrania - Rusia, en directo: última hora</a></h2>",
+    "topic": "вибори",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Guerra Ucrania - Rusia, última hora en directo",
+    "link": "https://www.elperiodico.com/es/internacional/20261109/guerra-ucrania-rusia-ultima-hora-126605559",
+    "pubDate": "2026-11-09 05:30:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Directo GUERRA DE IRÁN | Última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Україна здобула другу нагороду на юнацькій Олімпіаді-2026",
+    "link": "https://ua.korrespondent.net/sport/4927045-ukraina-zdobula-druhu-nahorodu-na-yunatskii-olimpiadi-2026",
+    "pubDate": "2026-11-09 05:25:00",
+    "category": "Новини спорту",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4629875.jpg\">Завдяки вдалому виступу українського спортсмена медальна скарбничка синьо-жовтих поповнилася другою відзнакою змагань.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Рютте і Зеленський домовилися відсвяткувати завершення війни у горах",
+    "link": "https://ua.korrespondent.net/world/4927120-ruitte-i-zelenskyi-domovylysia-vidsviatkuvaty-zavershennia-viiny-u-horakh",
+    "pubDate": "2026-11-09 05:19:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4630457.jpg\">Генсек НАТО домовився з українським президентом відзначити завершення повномасштабної війни спільною поїздкою до Швейцарських Альп.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Los libros recomendados por ABRIL: Julia Kristeva, Valeria Luiselli y María Fernanda Ampuero",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20261109/libros-recomendados-suplemento-abril-135917676",
+    "pubDate": "2026-11-09 04:50:20",
+    "category": "",
+    "description": "<h2>El equipo del suplemento literario de Prensa Ibérica también recomienda esta semana 'Noche y día', de Virginia Woolf, y 'El viajero bajo el resplandor de la luna', de Antal Szerb, entre otros títulos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los padres, nuestros héroes",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20261109/padres-heroes-136066305",
+    "pubDate": "2026-11-09 04:50:19",
+    "category": "",
+    "description": "<h2>‘El cielo en casa’ es un libro hermoso y triste sobre la relación de su autor, Manuel Marsol, con su padre</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "'La hipótesis más peligrosa', de Arturo Pérez-Reverte: el drama de la inmortalidad",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20261109/perez-reverte-critica-libro-hipotesis-peligrosa-136027779",
+    "pubDate": "2026-11-09 04:50:18",
+    "category": "",
+    "description": "<h2>Con el escenario eterno del Mediterráneo, el autor narra en esta novela dos viajes: el de un adolescente que busca su lugar en la vida y el de su padre, un vagabundo imagen del judío errante</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "‘Los cuatro pasaron el día juntos’, de Chris Kraus: el orden de las cosas",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20261109/chris-kraus-critica-libro-cuatro-pasaron-dia-juntos-135918866",
+    "pubDate": "2026-11-09 04:50:18",
+    "category": "",
+    "description": "<h2>La autora estadounidense juega con la expectativa del lector al conceder tanta importancia a lo cotidiano como a los grandes hechos en esta novela</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Флеш пояснив точність ударів росіян по мостах",
+    "link": "https://ua.korrespondent.net/ukraine/4927118-flesh-poiasnyv-tochnist-udariv-rosiian-po-mostakh",
+    "pubDate": "2026-11-09 04:37:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4630438.jpg\">На \"Іскандерах\" росіяни встановлюють головки оптичного або радіолокаційного наведення, що підвищує точність ураження.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Глава МЗС Ірану звернувся до США",
+    "link": "https://ua.korrespondent.net/world/4927114-hlava-mzs-iranu-zvernuvsia-do-ssha",
+    "pubDate": "2026-11-09 04:06:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4630399.jpg\">Аббас Арагчі закликав Білий дім виконати умови Ірану, пригрозивши жорсткою реакцією у разі продовження бойових дій.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "У Росії палає один із найбільших НПЗ - OSINT",
+    "link": "https://ua.korrespondent.net/world/4927116-u-rosii-palaie-odyn-iz-naibilshykh-npz-OSINT",
+    "pubDate": "2026-11-09 03:33:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4630419.jpg\">Киришський НПЗ вважається одним із найбільших в Росії з потужністю переробки близько 20 млн тонн нафти на рік.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Російський дрон пошкодив житлову забудову Хмельницького",
     "link": "https://ua.korrespondent.net/ukraine/4927111-rosiiskyi-dron-poshkodyv-zhytlovu-zabudovu-khmelnytskoho",
     "pubDate": "2026-11-09 03:01:00",
@@ -74,6 +182,15 @@
   {
     "title": "У Карелії оголосили про боротьбу за незалежність від Росії",
     "link": "https://ua.korrespondent.net/world/4927099-u-karelii-oholosyly-pro-borotbu-za-nezalezhnist-vid-rosii",
+    "pubDate": "2026-11-09 00:54:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4630264.jpg\">Група \"Північне братство\" апелює до історичної пам’яті про повстанців і партизанів, котрі боролися за землі Карелії проти Московії.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "У Карелії закликали до боротьби за незалежність від Росії",
+    "link": "https://ua.korrespondent.net/world/4927099-u-karelii-zaklykaly-do-borotby-za-nezalezhnist-vid-rosii",
     "pubDate": "2026-11-09 00:54:00",
     "category": "Новини світу",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4630264.jpg\">Група \"Північне братство\" апелює до історичної пам’яті про повстанців і партизанів, котрі боролися за землі Карелії проти Московії.",
