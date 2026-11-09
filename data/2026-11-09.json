@@ -1,5 +1,743 @@
 [
   {
+    "title": "Las empresas catalanas del espacio y la defensa articulan un plan para dar su esperado \"salto industrial\" en 2029",
+    "link": "https://www.elperiodico.com/es/economia/20261109/aeros-empresas-catalanas-espacio-defensa-articulan-plan-2029-salto-industrial-136243017",
+    "pubDate": "2026-11-09 14:22:04",
+    "category": "",
+    "description": "<h2>El sector reclama a la administración más subvenciones, préstamos al 0%, así como una contratación pública \"mejor estructurada\" </h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261026/industria-espacio-convierte-llave-irrupcion-catalunya-negocio-defensa-135771811\" target=\"_blank\">La industria del espacio se convierte en la llave de la irrupción catalana en el negocio de la Defensa</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "El PSC apela a una \"gran movilización\" para que Catalunya sea clave para frenar a PP y Vox",
+    "link": "https://www.elperiodico.com/es/politica/20261109/psc-apela-gran-movilizacion-catalunya-clave-pp-vox-frenar-elecciones-generales-136249752",
+    "pubDate": "2026-11-09 14:20:04",
+    "category": "",
+    "description": "<h2>Los socialistas catalanes prevén, por ahora, un acto con Pedro Sánchez durante la última semana de la campaña</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261109/salvador-illa-mide-liderazgo-campana-pedro-sanchez-elecciones-generales-136043969\" target=\"_blank\">Illa mide su liderazgo en una campaña electoral decisiva para Sánchez</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261109/huelga-general-11-n-cataluna-vivienda-salvador-illa-manifestacion-barcelona-136237315\" target=\"_blank\">Illa \"entiende\" la huelga general del 11-N, pero su Govern no irá a la manifestación: \"No soy partidario de que los gobiernos se manifiesten\"</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Sabadell prioriza la mejora de los barrios y la seguridad en su presupuesto de 303 millones para 2027",
+    "link": "https://www.elperiodico.com/es/barcelona/20261109/sabadell-prioriza-mejora-barrios-seguridad-barrios-presupuesto-136249281",
+    "pubDate": "2026-11-09 14:18:32",
+    "category": "",
+    "description": "<h2>Las cuentas municipales refuerzan la inversión en calles, limpieza y servicios sociales, con cerca de 16 millones de euros destinados a nuevos proyectos en la ciudad</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20250930/sabadell-preve-subida-2-5-122124628\">Sabadell prevé una subida del 2,5% en los impuestos municipales a partir de 2026</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Атака на Київщину: загинула жінка, будинок зруйновано вщент",
+    "link": "https://ua.korrespondent.net/ukraine/4927261-ataka-na-kyivschynu-zahynula-zhinka-budynok-zruinovano-vschent",
+    "pubDate": "2026-11-09 14:18:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4631124.jpg\">Унаслідок атаки РФ загинула 82-річна жінка, яка на момент влучання перебувала на другому поверсі будинку.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un hombre resulta herido al enfrentarse a unos ladrones que intentaban robarle en la AP-7 en Vallgorguina",
+    "link": "https://www.elperiodico.com/es/barcelona/20261109/hombre-resulta-herido-enfrentarse-ladrones-intentaban-robarle-ap-7-vallgorguina-136250737",
+    "pubDate": "2026-11-09 14:17:46",
+    "category": "",
+    "description": "<h2>La víctima fue atropellada y arrastrada durante el incidente, según varios testigos, y los Mossos buscan a los dos presuntos autores que huyeron del lugar</h2><h2><a href=\"https://www.elperiodico.com/es/sucesos/20261026/ladrones-autopistas-ap7-delitos-caen-cataluna-plan-kanpai-pista-mossos-esquadra-135687030\" target=\"_blank\">Los asaltos y robos en las carreteras catalanas caen un 51% tras el plan policial contra los multirreincidentes</a></h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Omar Sy, el Lupin de Netflix, será juzgado por «agresiones» a varios trabajadores ferroviarios",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261109/omar-sy-lupin-netflix-sera-136250580",
+    "pubDate": "2026-11-09 14:13:11",
+    "category": "",
+    "description": "<h2>Los hechos sucedieron en Lyon el año pasado y el actor será juzgado el 30 de noviembre en París</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Зірка європейського футболу опинився в базі Миротворця",
+    "link": "https://ua.korrespondent.net/sport/football/4927257-zirka-yevropeiskoho-futbolu-opynyvsia-v-bazi-myrotvortsia",
+    "pubDate": "2026-11-09 14:13:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4631123.jpg\">Месут Озіл потрапив до бази Миротворця після того, як публічно заступився за російський футбол та розкритикував санкції ФІФА.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Українська делегація вирушила в Абу-Дабі",
+    "link": "https://ua.korrespondent.net/ukraine/4927255-ukrainska-delehatsiia-vyrushyla-v-abu-dabi",
+    "pubDate": "2026-11-09 14:10:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4631100.jpg\">Також в Абу-Дабі перебуватимуть представники європейських країн. З ними проведуть окремі координаційні зустрічі.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "¡Marcelinho Huertas se va al Dubái!",
+    "link": "https://as.com/baloncesto/euroliga/marcelinho-huertas-se-va-al-dubai-f202611-n/",
+    "pubDate": "2026-11-09 14:09:36",
+    "category": "Baloncesto",
+    "description": "Según adelanta Chema de Lucas, el jugador brasileño va a dejar el Tenerife tras siete años para jugar en la Euroliga a las órdenes de Xavi Pascual.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La economía española mantendrá su solidez este año y también en 2027",
+    "link": "https://www.elperiodico.com/es/economia/20261109/economia-espanola-mantendra-solidez-ano-136242494",
+    "pubDate": "2026-11-09 14:07:58",
+    "category": "",
+    "description": "<h2>CaixaBank Research prevé un crecimiento del 2,6% este año y un 2% en 2027 pese al difícil contexto geopolítico </h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260923/ocde-mejora-decimas-prevision-crecimiento-espana-2026-134583291\">La OCDE mejora en cuatro décimas la previsión de crecimiento de España en 2026, pero advierte de que la inflación seguirá por encima de la media europea</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261009/banco-espana-eleva-crecimiento-2-135173569\">El Banco de España eleva el crecimiento al 2,6% en 2026 y anticipa ya dos años de inflación elevada</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Paolo Galbiati ya tiene un nuevo trabajo",
+    "link": "https://as.com/baloncesto/paolo-galbiati-ya-tiene-un-nuevo-trabajo-f202611-n/",
+    "pubDate": "2026-11-09 14:06:24",
+    "category": "Baskonia",
+    "description": "Formará parte del cuerpo técnico de la selección italiana de baloncesto. El entrenador es Luca Banchi, que en su día estuvo en la agenda baskonista",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sant Climent de Taüll cerrará 6 meses por obras por conservación",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261109/sant-climent-taull-cerrara-6-136249982",
+    "pubDate": "2026-11-09 14:05:35",
+    "category": "",
+    "description": "<h2 class=\"item\">Se mantendrán abiertas el resto de iglesias del conjunto románico de la Vall de Boí y el Centre del Romànic de la Vall de Boí, donde se puede visitar la experiencia inmersiva 'Els ulls de la història'.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Merz propone a la conservadora Ilse Aigner como la primera mujer presidenta federal de Alemania",
+    "link": "https://www.elperiodico.com/es/internacional/20261109/ilse-aigner-primera-mujer-presidenta-federal-alemania-136250339",
+    "pubDate": "2026-11-09 14:05:24",
+    "category": "",
+    "description": "<h2>El bloque del canciller busca un acuerdo centrista para la jefatura del Estado con el propósito de \"aislar\" a los extremismos</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Arrancan \"los juegos del hambre\" del tablero: Mundial de ajedrez Total en Budapest y de Clásico en Ginebra",
+    "link": "https://www.elperiodico.com/es/deportes/20261109/arrancan-juegos-hambre-ajedrez-136250165",
+    "pubDate": "2026-11-09 14:00:28",
+    "category": "",
+    "description": "<h2>Magnus Carlsen opta a coronarse como el primero campeón total, mientras el indio Gukesh y el uzbeko luchan por el segundo</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Монро їде до України та назвала причини невдалої еміграції",
+    "link": "https://ua.korrespondent.net/lifestyle/4927042-monro-yide-do-ukrainy-ta-nazvala-prychyny-nevdaloi-emihratsii",
+    "pubDate": "2026-11-09 14:00:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4629854.jpg\">Травесті-діва Монро відверто зізналася, чому залишила Францію, та розповіла, де планує облаштувати життя в Україні.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Брата Орбана затримали за підозрою у торгівлі людьми",
+    "link": "https://ua.korrespondent.net/world/4927253-brata-orbana-zatrymaly-za-pidozroui-u-torhivli-luidmy",
+    "pubDate": "2026-11-09 14:00:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4631103.png\">Експрем'єр Угорщини назвав ситуацію із затриманням його брата \"відволікаючим маневром\" нового уряду.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Junqueras carga contra Illa y ve el 29-N como el primer paso para derrotarle en unas catalanas",
+    "link": "https://www.elperiodico.com/es/politica/20261109/oriol-junqueras-criticas-salvador-illa-elecciones-ganar-erc-136245585",
+    "pubDate": "2026-11-09 13:57:17",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261108/gabriel-rufian-oriol-junqueras-votante-socialista-psc-badalona-136069877\" target=\"_blank\">Rufián y Junqueras buscan juntos el apoyo de votantes socialistas desencantados: \"El PSC no merece vuestro voto\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261108/elecciones-generales-whatsapp-ia-propaganda-partidos-135924301\" target=\"_blank\">Más allá de los mítines y la propaganda: las nuevas armas de los partidos para la batalla electoral</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261106/gabriel-rufian-erc-programa-electoral-elecciones-vivienda-riqueza-trenes-136124749\" target=\"_blank\">El programa electoral de ERC para el 29-N: impuestos a la riqueza, trenes más seguros y vivienda regulada</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Supremo rechaza suspender el voto de los hijos de los nacionalizados con la 'ley de nietos'",
+    "link": "https://www.elperiodico.com/es/politica/20261109/supremo-rechaza-suspender-voto-hijos-nacionalizados-ley-de-nietos-136249950",
+    "pubDate": "2026-11-09 13:56:01",
+    "category": "",
+    "description": "<h2>Solo uno de los cinco magistrados de la Sala de lo Contencioso-Administrativo era partidario de extender las medidas cautelares a los descendientes</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "У Рівному зникло світло: що спричинило знеструмлення",
+    "link": "https://ua.korrespondent.net/ukraine/4927251-u-rivnomu-znyklo-svitlo-scho-sprychynylo-znestrumlennia",
+    "pubDate": "2026-11-09 13:56:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4631102.jpg\">У Рівному та Сарненському районі зафіксували знеструмлення. Причиною в обласному центрі стало перенавантаження електромережі, а в районі - аварія",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Palo Alto recupera el primer trabajo de la fotógrafa Colita en su exposición 'Món Gitano 1962-1963'",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261109/palo-alto-primer-trabajo-colita-mon-gitano-136246763",
+    "pubDate": "2026-11-09 13:51:02",
+    "category": "",
+    "description": "<h2>La exposición se podrá visitar de forma gratuita entre los días 10 y 27 de noviembre</h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "La cumbre de Antalya promete \"resultados concretos\" ante la urgencia de la crisis climática: \"Vamos a hacer las cosas de forma diferente\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261109/cumbre-antalya-inauguracion-resultados-concretos-promesa-136242501",
+    "pubDate": "2026-11-09 13:48:37",
+    "category": "",
+    "description": "<h2 class=\"item\">Bajo la presidencia de Turquía y el liderazgo formal de Australia, la cumbre arranca este lunes con el objetivo de \"acelerar soluciones\" frente a la emergencia climática sin duplicar los debates que ya existen o caer en los escollos de siempre</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261109/cumbre-clima-cop31-antalya-turquia-emisiones-electrificacion-negociaciones-agenda-136173163\">¿Qué se negocia en la cumbre del clima de Turquía? Cinco grandes debates y una fórmula inédita</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "У росіян виникли проблеми з оплатою готелів на Мальдівах",
+    "link": "https://ua.korrespondent.net/world/4927247-u-rosiian-vynykly-problemy-z-oplatoui-hoteliv-na-maldivakh",
+    "pubDate": "2026-11-09 13:45:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4631098.jpg\">Найбільший у країні Bank of Maldives став відхиляти платежі, пов'язані з Росією. Кошти повертаються навіть у випадках, коли переклад проводять через іноземні юридичні особи.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Сибіга проводить переговори з главами МЗС країн G7",
+    "link": "https://ua.korrespondent.net/ukraine/4927246-sybiha-provodyt-perehovory-z-hlavamy-mzs-krain-G7",
+    "pubDate": "2026-11-09 13:45:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4631099.jpg\">Андрій Сибіга обговорить із колегами посилення ППО, фінансову допомогу та підтримку української енергетики перед зимою.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El PSOE propone que la Academia de la Televisión organice los dos principales debates si el PP insiste en vetar a RTVE",
+    "link": "https://www.elperiodico.com/es/politica/20261109/psoe-propone-academia-television-organice-debates-136249256",
+    "pubDate": "2026-11-09 13:43:22",
+    "category": "",
+    "description": "<h2 class=\"item\">Los socialistas consideran \"indispensable\" que al menos uno de los encuentros sean en la televisión pública, pero el PP lo rechaza</h2><h2 class=\"item\">Si los populares insisten en su veto, Ferraz plantea que sea la Academia la que organice el cara a cara y el debate a cuatro</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Felipe VI y Letizia no tendrán actos públicos el día de la huelga general y se reservan la jornada para trabajo de despacho",
+    "link": "https://www.elperiodico.com/es/politica/20261109/reyes-felipe-vi-letizia-despejan-miercoles-agenda-huelga-general-136249217",
+    "pubDate": "2026-11-09 13:42:44",
+    "category": "",
+    "description": "<h2 class=\"item\">Es la primera convocatoria de paro de 24 horas de CCOO y UGT que se realiza desde que el Rey llegó al trono en 2014</h2><h2 class=\"item\">Juan Carlos I también evitó los actos públicos en varias movilizaciones de este tipo, aunque otras veces mantuvo su agenda</h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Зірка ЛЧ попрощався з футболом та вступив до Гарварду",
+    "link": "https://ua.korrespondent.net/sport/football/4927139-zirka-lch-poproschavsia-z-futbolom-ta-vstupyv-do-harvardu",
+    "pubDate": "2026-11-09 13:41:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4630625.jpg\">Ексфорвард вирішив кардинально змінити сферу діяльності та розпочав навчання в Гарвардському університеті.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Aplazada al jueves la nueva ronda de testigos del caso Andic para esclarecer la caída mortal y la relación entre padre e hijo",
+    "link": "https://www.elperiodico.com/es/sociedad/20261109/aplazada-jueves-nueva-ronda-testigos-caso-andic-declaraciones-136245714",
+    "pubDate": "2026-11-09 13:35:26",
+    "category": "",
+    "description": "<h2 class=\"item\">Las declaraciones se alargarán hasta mediados de diciembre</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261109/mossos-usaron-iphone-nuevo-situar-jonathan-andic-lugar-accidente-cuatro-dias-antes-muerte-isak-136157049\">Los Mossos usaron un iPhone nuevo para situar a Jonathan Andic en el lugar de la caída cuatro días antes</a></h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Синоптики попередили про дощі, мокрий сніг і сильний вітер",
+    "link": "https://ua.korrespondent.net/ukraine/4927243-synoptyky-poperedyly-pro-doschi-mokryi-snih-i-sylnyi-viter",
+    "pubDate": "2026-11-09 13:30:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4631079.jpg\">У найближчі два дні погода в Україні буде неоднорідною: у вівторок опади прогнозують переважно на заході, а в середу дощитиме майже по всій країні. Водночас уночі температура місцями опускатиметься до 7° морозу.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Вечірка Джеймі Фокса завершилася кривавою сутичкою",
+    "link": "https://ua.korrespondent.net/lifestyle/4927227-vechirka-dzheimi-foksa-zavershylasia-kryvavoui-sutychkoui",
+    "pubDate": "2026-11-09 13:29:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4630980.jpg\">У ніч проти 8 листопада в розкішному маєтку Джеймі Фокса в Каліфорнії зчинилася сутичка, внаслідок якої один чоловік дістав ножове поранення в шию.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Almirall aumenta sus ventas un 8% hasta septiembre, pero gana un 36% más",
+    "link": "https://www.elperiodico.com/es/economia/20261109/resultados-almirall-tercer-trimestre-aumenta-ventas-septiembre-gana-mas-136246166",
+    "pubDate": "2026-11-09 13:28:50",
+    "category": "",
+    "description": "<h2>La compañía está recogiendo los frutos de haber puesto el foco en la dermatología y roza los 900 millones de euros de ingresos a tres meses de terminar 2026</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260508/junta-accionistas-almirall-nueva-era-crecimiento-ficha-experta-adquisiciones-consejo-130005290\" target=\"_blank\">Almirall da por empezada una \"nueva era\" de crecimiento y ficha a una ejecutiva experta en fusiones y adquisiciones para su consejo</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Легендарний дзюдоїст вирішив балотуватися у президенти Франції",
+    "link": "https://ua.korrespondent.net/sport/4927241-lehendarnyi-dzuidoist-vyrishyv-balotuvatysia-u-prezydenty-frantsii",
+    "pubDate": "2026-11-09 13:23:00",
+    "category": "Новини спорту",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4631059.jpg\">П'ятиразовий олімпійський чемпіон офіційно оголосив про намір змагатися за посаду наступника Еммануеля Макрона.",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "FGC bautiza un tren de la línea Barcelona-Vallès con el nombre de Antoni Gaudí por el centenario de su muerte",
+    "link": "https://www.elperiodico.com/es/barcelona/20261109/fgc-bautiza-tren-linea-barcelona-136246698",
+    "pubDate": "2026-11-09 13:20:45",
+    "category": "",
+    "description": "<h2>La unidad luce un retrato del arquitecto en el exterior e incorpora en su interior una de sus frases, mientras que otro convoy de la línea Llobregat-Anoia también llevará su nombre</h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20260611/mejores-planes-ano-gaudi-catalunya-130967733\" target=\"_blank\">Los mejores planes para disfrutar del Año Gaudí en Catalunya</a></h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260119/galdric-santana-seguro-gaudi-cambiaria-algo-pero-sagrada-familia-es-su-proyecto-barcelona-125760337\" target=\"_blank\">Galdric Santana: “Seguro que Gaudí cambiaría algo de la Sagrada Família, pero es su proyecto, dejó señalado cómo acabarlo”</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La escena musical catalana se une para defender el derecho a la vivienda con 'Estimada Valentina': \"El sector cultural no puede permanecer impasible\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261109/escena-musical-catalana-defender-derecho-estimada-valentina-vivienda-sindicat-llogateres-136243352",
+    "pubDate": "2026-11-09 13:20:32",
+    "category": "",
+    "description": "<h2 class=\"item\">Una treintena de artistas y grupos se unen a Ginestà, impulsores de una pieza en beneficio del Sindicat de Llogateres de Catalunya que viaja de la angustia a la esperanza </h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Alcaraz encuentra su mejor tenis en el momento decisivo de la temporada",
+    "link": "https://www.elperiodico.com/es/deportes/20261109/alcaraz-encuentra-mejor-tenis-momento-decisivo-temporada-136241538",
+    "pubDate": "2026-11-09 13:18:51",
+    "category": "",
+    "description": "<h2>El murciano conquista el Masters 1000 París y el ATP 500 Viena de forma consecutiva y llega lanzado a las ATP Finals y la Copa Davis </h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La derecha promete menos impuestos a las pymes y la izquierda darles más voz en las leyes",
+    "link": "https://www.elperiodico.com/es/economia/20261109/elecciones-generales-29n-pimec-debate-derecha-promete-menos-impuestos-empresas-izquierda-mas-voz-leyes-136244792",
+    "pubDate": "2026-11-09 13:18:25",
+    "category": "",
+    "description": "<h2>Los empresarios de Pimec muestran su más absoluto rechazo a los decretos de vivienda aprobados por el Gobierno</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261109/huelga-general-11n-partidos-apoyo-rechazo-136170875\">Los partidos, divididos entre el rechazo frontal y el apoyo total a la huelga general del 11-N</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Авіаудар по Комишувасі: під завалами можуть бути ще 19 людей",
+    "link": "https://ua.korrespondent.net/ukraine/4927237-aviaudar-po-komyshuvasi-pid-zavalamy-mozhut-buty-sche-19-luidei",
+    "pubDate": "2026-11-09 13:10:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4631058.jpg\">В Комишувасі поліцейські продовжують ідентифікувати загиблих унаслідок авіаудару 2 листопада.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Mundo Today | Quise ir a la fortaleza medieval más importante de Catalunya, pero no hubo manera de entrar",
+    "link": "https://www.elperiodico.com/es/que-hacer/20261109/mundo-today-barcelona-fortaleza-medieval-mas-importante-catalunya-136246525",
+    "pubDate": "2026-11-09 13:09:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/autores/el-mundo-today.html\" target=\"_blank\">La actualidad del mañana de Barcelona de El Mundo Today</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Alquiler a coste cero el primer año: el pueblo de Catalunya que busca a alguien para reabrir su bar",
+    "link": "https://www.elperiodico.com/es/catalunya/20261109/bar-ulldemolins-alquiler-vivienda-pueblos-cataluna-dv-loc-136202238",
+    "pubDate": "2026-11-09 13:07:17",
+    "category": "",
+    "description": "<h2 class=\"item\">El Ayuntamiento ha puesto en marcha un proyecto para recuperar el local del Centre Cívic, que lleva una década cerrado</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20261105/agricultor-esteve-armengol-24-anos-girona-precios-dv-loc-et-135958335\" >Esteve Armengol (24 años), agricultor en Girona: \"Si solo tienes tierras, puedes tener algún día de descanso cuando llueve. Con ganado trabajas de lunes a lunes\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20261101/pasteleria-la-estrella-barcelona-anna-campos-propietaria-et-dv-loc-135811906\" >Anna (26 años), propietaria de la pastelería más antigua de Barcelona: \"Trabajo 14 horas al día, seis días a la semana\"</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Manifestación de la huelga del 11N en Barcelona: recorrido, horario y afectaciones al tráfico",
+    "link": "https://www.elperiodico.com/es/barcelona/20261109/manifestacion-huelga-11n-barcelona-recorrido-horario-afectaciones-trafico-136246034",
+    "pubDate": "2026-11-09 13:07:00",
+    "category": "",
+    "description": "<h2 class=\"item\">La manifestación principal arrancará a las 17.30 horas en los Jardinets de Gràcia, mientras que otra marcha partirá de la plaza de Jacint Verdaguer a las 17.00 horas</h2><h2 class=\"item\">La huelga general también provocará alteraciones en el transporte público, con servicios mínimos del 25% en horas punt</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261109/huelga-general-11n-partidos-apoyo-rechazo-136170875\">Los partidos, divididos entre el rechazo frontal y el apoyo total a la huelga general del 11-N</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Alice Huang: quién es la mujer que ha puesto en jaque al jefe de Nvidia con su presunto espionaje sexual",
+    "link": "https://www.elperiodico.com/es/internacional/20261109/alice-huang-quien-es-espia-china-amante-ceo-nvidia-sexo-136247387",
+    "pubDate": "2026-11-09 13:05:21",
+    "category": "",
+    "description": "<h2>Pekín habla de invención y acusa a la prensa de EEUU de difamar y desprestigiar a esta antigua reportera de la televisión pública con experiencia bursátil</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "ГУР розповіло, як РФ розбудовує пропагандистську мережу в Африці",
+    "link": "https://ua.korrespondent.net/world/russia/4927234-hur-rozpovilo-yak-rf-rozbudovuie-propahandystsku-merezhu-v-afrytsi",
+    "pubDate": "2026-11-09 13:04:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4631056.jpg\">Під виглядом культурної співпраці Росія поширює в Африці антизахідну й антиукраїнську пропаганду.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "В уряді зробили заяву щодо граничного віку мобілізації",
+    "link": "https://ua.korrespondent.net/ukraine/4927233-v-uriadi-zrobyly-zaiavu-schodo-hranychnoho-viku-mobilizatsii",
+    "pubDate": "2026-11-09 13:03:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4631057.jpg\">Уряду запропонували розробити та внести на розгляд Верховної Ради проєкти законів, які передбачали б зменшення граничного віку перебування на військовій службі під час дії воєнного стану з 60 до 55 років.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Cuando David Broncano se negó a entrevistar a Abascal de manera rotunda ante Gerard Piqué en 'La Resistencia': ¡No!",
+    "link": "https://www.elperiodico.com/es/tele/yotele/20261109/david-broncano-nego-redondo-entrevistar-abascal-gerard-pique-136245647",
+    "pubDate": "2026-11-09 13:02:21",
+    "category": "",
+    "description": "<h2>El presentador descartó tajantemente invitar al líder de Vox a 'La resistencia' en 2019, una postura que contrasta con su visita de este lunes a 'La Revuelta' en TVE</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Miguel Induráin (62 años), sobre su patrimonio: \"Con pocos días escogidos al año ya tengo suficiente, hago algo de publicidad con marcas que me ayudaron en mi época a evolucionar lo que era mi ciclismo y todo lo hago como un hobby\"",
+    "link": "https://www.elperiodico.com/es/gente/20261109/miguel-indurain-62-anos-patrimonio-ciclismo-publicidad-marcas-dv-136198833",
+    "pubDate": "2026-11-09 13:00:02",
+    "category": "",
+    "description": "<h2 class=\"item\">La leyenda del ciclismo mundial aseguró que el deporte sigue formando parte de su vida diaria mientras disfruta de la tranquilidad de sus entrenamientos personales en Navarra</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/ciclismo/20260907/miguel-indurain-hijo-nunca-pense-padre-ciclismo-profesional-deporte-dv-et-134032198\" target=\"_blank\" rel=\"nofollow\">El hijo de Miguel Induráin: \"Nunca pensé en ser como mi padre, porque es muy difícil. No hago ciclismo de forma profesional pero sigo disfrutando de este deporte\"</a></h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Таємна мережа Росії поширювала фейки про протести у Франції - аналіз ЄС",
+    "link": "https://ua.korrespondent.net/world/4927231-taiemna-merezha-rosii-poshyruivala-feiky-pro-protesty-u-frantsii-analiz-yes",
+    "pubDate": "2026-11-09 12:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4631027.jpg\">РФ скористалася темою протестів у Франції, щоб звинуватити в заворушеннях \"неконтрольовану міграцію\" та зобразити французький уряд слабким.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "¿Hay una huelga encubierta en Rodalies? ¿Por qué todos los maquinistas deben fichar en Barcelona?: 4 claves del caos de este lunes",
+    "link": "https://www.elperiodico.com/es/sociedad/20261109/huelga-encubierta-rodalies-retrasos-cancelaciones-maquinistas-renfe-136240950",
+    "pubDate": "2026-11-09 12:58:35",
+    "category": "",
+    "description": "<h2 class=\"item\">El conflicto entre los trabajadores y la operadora obliga a los responsables de los trenes a pasar por la estación de Sants aunque su jornada empiece en otras estaciones como Ripoll, Mataró o Vilanova i la Geltrú y provoca graves retrasos y cancelaciones</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20261109/trafico-barcelona-rodalies-hoy-directo-incidencias-133938712\">Tráfico en Barcelona y Rodalies, en directo: atascos, retrasos y problemas de transporte hoy</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20261109/nueva-jornada-retrasos-generalizados-rodalies-136235787\">El conflicto entre Renfe y los maquinistas vuelve a dejar retrasos generalizados en Rodalies</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Бенавідес кинув виклик Усику задля особливого досягнення",
+    "link": "https://ua.korrespondent.net/sport/boks/4927229-benavides-kynuv-vyklyk-usyku-zadlia-osoblyvoho-dosiahnennia",
+    "pubDate": "2026-11-09 12:56:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4631026.jpg\">За словами американського спортсмена, ця зустріч стане головним викликом у його професійній кар'єрі.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "¿Quién es María Bonilla? La cantante detrás del 'hit' que nadie se puede quitar de la cabeza: 'Algo de interés'",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261109/maria-bonilla-cantante-hit-algo-interes-136243020",
+    "pubDate": "2026-11-09 12:53:38",
+    "category": "",
+    "description": "<h2 class=\"item\">La canción ya ha robado el corazón a influencers como Auronplay o Clers</h2><h2 class=\"item\">Su videoclip acumula ya más de 120 mil visualizaciones</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los Castellers de Vilafranca erigen seis castells en Tokio",
+    "link": "https://www.elperiodico.com/es/fotos/sociedad/castellers-vilafranca-erigen-seis-castells-tokio-fotos-136246344",
+    "pubDate": "2026-11-09 12:47:34",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Barcelona encenderá las luces de Navidad el 26 de noviembre: 140 kilómetros de calles y el montaje de la plaza Catalunya aún en el aire",
+    "link": "https://www.elperiodico.com/es/barcelona/20261109/barcelona-encendera-luces-navidad-26-noviembre-140-kilometros-calles-dudas-plaza-catalunya-136237230",
+    "pubDate": "2026-11-09 12:46:43",
+    "category": "",
+    "description": "<h2 class=\"item\">El consistorio destinará 4,6 millones de euros a la campaña, financiada sobre todo con la tasa turística, y estudia distintas alternativas por si la acampada de vivienda se mantiene  </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20261106/comercio-barcelona-oberta-reclama-desmantelar-acampada-vivienda-plaza-catalunya-iluminarla-navidad-136170796\">El comercio de Barcelona Oberta reclama 'desmantelar' la acampada de plaza Catalunya tras el 11-N e iluminarla por Navidad</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20261027/barcelona-comparte-capitalidad-europea-navidad-135820976\">Barcelona comparte la Capitalidad Europea de la Navidad con dos ciudades de luces y tradiciones de cuento</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "У справі скандальної пісні Сердючки з’явилися нові подробиці",
+    "link": "https://ua.korrespondent.net/lifestyle/4927215-u-spravi-skandalnoi-pisni-serduichky-ziavylysia-novi-podrobytsi",
+    "pubDate": "2026-11-09 12:44:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4630870.jpg\">На одній із концерних сцен столиці виконали композицію, довкола якої виник гучний авторський конфлікт.",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "\"Fui infiel a mi esposa\": el lío extramatrimonial del presidente de Nvidia con una espía china dispara las alarmas en el mundo de la IA",
+    "link": "https://www.elperiodico.com/es/internacional/20261109/nvidia-investiga-director-ejecutivo-espionaje-china-chatgpt-jensen-huang-espia-arabia-saudi-openai-136237414",
+    "pubDate": "2026-11-09 12:42:21",
+    "category": "",
+    "description": "<h2>La relación íntima de Jensen Huang con una directiva china que los servicios de inteligencia estadounidenses vinculan a Pekín preocupa a una industria estratégica que recientemente también ha vivido otros escándalos de espionaje contra la empresa creadora de ChatGPT</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Unió de Pagesos se encierra en Agricultura en Tarragona en protesta por la \"falta de respuesta\" del Govern a sus demandas urgentes",
+    "link": "https://www.elperiodico.com/es/tarragona/20261109/unio-pagesos-encierra-agricultura-tarragona-protesta-govern-136244551",
+    "pubDate": "2026-11-09 12:41:38",
+    "category": "",
+    "description": "<h2>Unas 20 personas tienen previsto pasar la noche en las instalaciones si la situación no cambia en las próximas horas</h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Detenido un médico de una clínica privada de Girona por presuntos tocamientos a una paciente",
+    "link": "https://www.elperiodico.com/es/sucesos/20261109/detenido-medico-clinica-privada-girona-tocamientos-136245619",
+    "pubDate": "2026-11-09 12:39:17",
+    "category": "",
+    "description": "<h2 class=\"item\">El facultativo, de 58 años y con una larga trayectoria profesional, ya había sido denunciado en dos ocasiones por hechos similares</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "В Росії уражено виробництво палива для Іскандерів",
+    "link": "https://ua.korrespondent.net/ukraine/4927224-v-rosii-urazheno-vyrobnytstvo-palyva-dlia-iskanderiv",
+    "pubDate": "2026-11-09 12:37:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4630983.jpg\">Завод імені Морозова входить до структури державної корпорації Ростех та є однією з важливих ланок у ланцюжку виробництва балістики для армії РФ.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Alquiler, vivienda social y burocracia: qué investigan cuatro universidades para orientar las políticas públicas",
+    "link": "https://www.elperiodico.com/es/economia/20261109/alquiler-vivienda-social-burocracia-investigan-136241391",
+    "pubDate": "2026-11-09 12:35:57",
+    "category": "",
+    "description": "<h2>La Cátedra Barcelona de Estudios de Vivienda reúne a cerca de 80 investigadores para analizar medidas sobre arrendamientos, vivienda social y gestión urbanística</h2><h2>El segundo congreso, los próximos 23 y 24 de noviembre, abordará también la relación entre los cambios demográficos y la demanda residencial</h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Глава Nvidia потрапив у шпигунський скандал через роман із китаянкою",
+    "link": "https://ua.korrespondent.net/business/companies/4927221-hlava-Nvidia-potrapyv-u-shpyhunskyi-skandal-cherez-roman-iz-kytaiankoui",
+    "pubDate": "2026-11-09 12:33:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4631005.jpg\">Дженсен Хуанг опинився в центрі скандалу після повідомлень про його роман із китаянкою, яку підозрюють у шпигунстві. На тлі цієї історії акції компанії у Франкфурті впали більш ніж на 6%.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Patricia Gómez y María Jesús González ganan el Premio Fundación Macba por su recuperación de la memoria de los lugares inhabitados",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261109/patricia-gomez-maria-jesus-gonzalez-premio-macba-136243402",
+    "pubDate": "2026-11-09 12:32:54",
+    "category": "",
+    "description": "<h2 class=\"item\">Las valencias rastrean con la exposición 'Espejo del mundo' las huellas invisibles del Hospital Psiquiátrico Padre Jofre de Bétera y la Cárcel Vieja de Cáceres </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20241126/ibon-arranberri-gana-el-premio-de-la-fundacion-macba-112049295\">Ibon Arranberri gana el premio de la Fundació Macba</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "No se llaman como crees: los 9 pueblos de Catalunya que están mal escritos",
+    "link": "https://www.elperiodico.com/es/catalunya/20261109/pueblos-cataluna-toponimos-nombres-municipio-normativa-linguistica-catalan-dv-loc-136162376",
+    "pubDate": "2026-11-09 12:30:05",
+    "category": "",
+    "description": "<h2>Algunos municipios catalanes mantienen nombres oficiales que no se ajustan a la normativa lingüística debido a discrepancias ortográficas, etimológicas o a cambios impuestos durante el franquismo</h2><h2><a href=\"https://www.elperiodico.com/es/catalunya/20250703/cataluna-poblacion-cabaces-nombre-castellano-tarragona-dv-113439081\">Este es el único municipio de Catalunya que mantiene el nombre en castellano</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "В Метінвесті заявили про скорочення сплати податків через атаки РФ",
+    "link": "https://ua.korrespondent.net/business/companies/4927212-v-metinvesti-zaiavyly-pro-skorochennia-splaty-podatkiv-cherez-ataky-rf",
+    "pubDate": "2026-11-09 12:12:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4630981.jpg\">Російські удари по металургійних підприємствах і блокування чорноморських портів напряму позначилися на податкових надходженнях до бюджету.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Policía constata que las mafias de tráfico de personas a Ceuta y la península no hicieron llamamientos a la entrada masiva de julio",
+    "link": "https://www.elperiodico.com/es/politica/20261109/policia-mafias-trafico-personas-mensajes-ceuta-136244643",
+    "pubDate": "2026-11-09 12:11:13",
+    "category": "",
+    "description": "<h2>Los agentes identifican cinco organizaciones criminales que hacen el traslado a España y ninguna realizó mensaje alguno los días 30 y 31 de julio convocando a entrar en la ciudad autónoma</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Roger, ingeniero y emprendedor, a Ada Colau: \"Debatamos sobre impuestos, pero deje de utilizar el desprecio\"",
+    "link": "https://www.elperiodico.com/es/politica/20261109/roger-emprendedor-respuesta-ada-colau-impuestos-pijos-dv-136243411",
+    "pubDate": "2026-11-09 12:06:28",
+    "category": "",
+    "description": "<h2 class=\"item\">El ingeniero, que regresó tras 14 años en California, defiende pagar impuestos pero exige a la exalcaldesa que deje de señalar a quien prospera</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261105/ada-colau-impuesto-grandes-fortunas-136106335\" >Ada Colau propone una \"Tasa Rich\" para gravar los patrimonios superiores al millón de euros y recaudar 10.000 millones</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261108/colau-afirma-presenta-presidenta-gobierno-136221544\" >Colau se reivindica cómo \"el auténtico voto útil\" para frenar la desigualdad: \"La última palabra la tiene la mayoría social trabajadora\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261106/ada-colau-ley-expropiar-viviendas-fondos-buitre-136157447\" >Ada Colau propone una ley para expropiar viviendas a las empresas con más de 1.000 inmuebles</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Окупанта судитимуть за розстріл полоненого командира ЗСУ",
+    "link": "https://ua.korrespondent.net/ukraine/4927210-okupanta-sudytymut-za-rozstril-polonenoho-komandyra-zsu",
+    "pubDate": "2026-11-09 12:06:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4630964.jpg\">Під час спроби захопити село Шахове на Донеччині російські військові взяли в полон двох українських захисників. Одного з них, 34-річного командира підрозділу розстріляв російський штурмовик.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Lamine Yamal padece molestias en la rodilla y no se incorporará a la selección hasta después del partido contra la República Checa",
+    "link": "https://www.elperiodico.com/es/deportes/20261109/lamine-oyarzabal-incorporaran-partido-inglaterra-136244191",
+    "pubDate": "2026-11-09 12:00:16",
+    "category": "",
+    "description": "<h2>El delantero del Barça tiene previsto sumarse a la concentración el viernes para el encuentro contra Inglaterra en el Metropolitano</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Flick corrige a Flick: el factor clave del 'multiusos De Jong' en la victoria del Barça",
+    "link": "https://www.elperiodico.com/es/deportes/20261109/flick-corrige-flick-factor-clave-136239145",
+    "pubDate": "2026-11-09 12:00:06",
+    "category": "",
+    "description": "<h2>El entrenador cambió tres veces la composición de la defensa para batir al Atlético, empleando incluso al centrocampista neerlandés de lateral derecho</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Росіяни вбили трьох людей в Одесі",
+    "link": "https://ua.korrespondent.net/city/odessa/4927208-rosiiany-vbyly-trokh-luidei-v-odesi",
+    "pubDate": "2026-11-09 12:00:00",
+    "category": "Одеса",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4630945.jpg\">Рашисти вдарили по складському приміщенню, де зберігалися продукти харчування для дитсадків та шкіл.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Європейські країни долучаться до переговорів в Абу-Дабі - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4927203-yevropeiski-krainy-doluchatsia-do-perehovoriv-v-abu-dabi-zmi",
+    "pubDate": "2026-11-09 11:50:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4630941.jpg\">Країни Європи направлять високопосадовців на переговори Росії, США та України в Абу-Дабі 10-11 листопада.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Exposición 'Colita. Mundo gitano. 1962-1963' en el Fotofest Poblenou 2026",
+    "link": "https://www.elperiodico.com/es/fotos/ocio-y-cultura/exposicion-colita-mundo-gitano-1962-1963-fotofest-poblenou-2026-fotos-136243246",
+    "pubDate": "2026-11-09 11:39:37",
+    "category": "",
+    "description": "",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "У Кременчуці через удар Росії згорів дитячий центр",
+    "link": "https://ua.korrespondent.net/ukraine/4927201-u-kremenchutsi-cherez-udar-rosii-zghoriv-dytiachyi-tsentr",
+    "pubDate": "2026-11-09 11:38:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4630922.jpg\">Внаслідок російського обстрілу повністю згорів дитячий реабілітаційний центр Колібрі, який дев’ять років допомагав дітям із розладами аутистичного спектра та інвалідністю.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Gobierno se plantea paralizar TikTok en España por permitir vídeos de abuso sexual infantil",
+    "link": "https://www.elperiodico.com/es/sociedad/20261109/ministerio-rego-denuncia-fiscalia-abuso-sexual-infantil-tiktok-136242567",
+    "pubDate": "2026-11-09 11:36:26",
+    "category": "",
+    "description": "<h2 class=\"item\">El ministerio pide una reunión urgente con los responsables de la red social a raíz de la investigación de Maldita.es</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261104/diez-hombres-adultos-espana-reconoce-conducta-sexual-menores-de-edad-universitat-de-barcelona-hombres-adultos-espana-grevia-ub-violencia-sexual-delitos-sexual-menores-de-16-anos-136069224\" target=\"_blank\">Uno de cada diez hombres adultos en España reconoce haber mantenido conductas sexuales contra niños o adolescentes</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260213/como-hablar-hijos-adolescentes-caso-pederastia-jeffrey-epstein-abusos-sexuales-consentimiento-126759623\" target=\"_blank\">Cómo hablar con tus hijos adolescentes para prevenir abusos y educar en el consentimiento</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Gwyneth Paltrow recomienda Casa Salesas, el restaurante de Íñigo Onieva, y otros restaurantes en su visita a España: \"Madrid está teniendo su momento\"",
+    "link": "https://www.elperiodico.com/es/gente/20261109/gwyneth-paltrow-recomienda-casa-salesas-136242830",
+    "pubDate": "2026-11-09 11:30:23",
+    "category": "",
+    "description": "",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Julián sigue siendo el elefante en el vestuario del Atlético",
+    "link": "https://www.elperiodico.com/es/deportes/20261109/julian-elefante-vestuario-atletico-136242897",
+    "pubDate": "2026-11-09 11:28:53",
+    "category": "",
+    "description": "<h2>Su mal partido ante el Barça, perdonando dos goles, y el respaldo de Simeone, dejándolo los 90 minutos en el césped, provocaron pitos del  Metropolitano  </h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Аварійні відключення в трьох областях - Укренерго",
+    "link": "https://ua.korrespondent.net/ukraine/4927198-avariini-vidkluichennia-v-trokh-oblastiakh-ukrenerho",
+    "pubDate": "2026-11-09 11:23:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4630916.jpg\">Через значні пошкодження найскладнішою залишається ситуація на Дніпропетровщині та Київщині.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Una cuentista peruana entre alces noruegos: Claudia Ulloa Donoso retrata el temor de ser un animal",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261109/claudia-ulloa-donoso-cuentos-miedo-terrible-ser-animal-135918329",
+    "pubDate": "2026-11-09 11:21:08",
+    "category": "",
+    "description": "<h2 class=\"item\">La escritora limeña, instalada desde hace más de veinte años en Escandinavia, publica la colección de relatos 'El miedo terrible de ser un animal'</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20261027/sebastia-alzamora-cinco-premios-poemario-antifascista-135799777\">Cinco premios y un pin de oro para un poemario \"tozudamente antifascista\": el año extraordinario de Sebastià Alzamora</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Удари по НПЗ: у Росії знову почалася паливна криза",
+    "link": "https://ua.korrespondent.net/world/russia/4927195-udary-po-npz-u-rosii-znovu-pochalasia-palyvna-kryza",
+    "pubDate": "2026-11-09 11:20:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4630895.jpg\">Ліміти на відпуск бензину та дизельного палива введені  на автозаправних  станціях Роснефти.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Detenido un hombre por agredir a Marius Borg en su domicilio, muy cerca de la residencia real de Haakon y Mette Marit",
+    "link": "https://www.elperiodico.com/es/gente/20261109/detenido-hombre-agredir-marius-borg-136242012",
+    "pubDate": "2026-11-09 11:16:19",
+    "category": "",
+    "description": "<h2>La policía noruega intervino en el domicilio de Marius Borg Høiby, mientras el rey Haakon y la reina Mette Marit permanecían en su residencia a poca distancia</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Крим потерпає від дефіциту електрики: у Севастополі мерзнуть діти",
+    "link": "https://ua.korrespondent.net/world/russia/4927192-krym-poterpaie-vid-defitsytu-elektryky-u-sevastopoli-merznut-dity",
+    "pubDate": "2026-11-09 11:11:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4630893.jpg\">На тлі обмежень електропостачання в окупованому Криму російський Z-публіцист Платон Бесєдін публічно поскаржився на холод у Севастополі та розкритикував тих, хто закликає людей мовчати про побутові проблеми.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Hay clase el día de la huelga del 11 de noviembre en colegios, institutos y universidades?",
+    "link": "https://www.elperiodico.com/es/sociedad/20261109/huelga-11-noviembre-clase-colegios-institutos-universidades-136241280",
+    "pubDate": "2026-11-09 11:10:00",
+    "category": "",
+    "description": "<h2 class=\"item\">La Generalitat ha fijado unos servicios mínimos de un profesor por cada seis aulas</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20261006/huelga-general-espana-fecha-derechos-trabajador-135051799\">Claves de la huelga general en España: puede convocarse o no, fecha prevista y derechos como trabajador</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20261106/servicios-minimos-transporte-huelga-general-11-noviembre-136133414\" target=\"_blank\">Servicios mínimos del transporte para la huelga del 11N: Rodalies Renfe, autobuses, metro y aviones</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Ecolab eleva al 30% el potencial de reciclaje de agua de la industria española",
+    "link": "https://www.elperiodico.com/es/economia/20261109/ecolab-eleva-30-potencial-reciclaje-136241974",
+    "pubDate": "2026-11-09 11:09:08",
+    "category": "",
+    "description": "<h2>La industria busca alternativas para reciclar agua en sus procesos productivos ante una sequía recurrente que impulsa a las empresas a tratar el ahorro como una inversión estratégica</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росія втратила 400 тис. військових з початку року",
+    "link": "https://ua.korrespondent.net/ukraine/4927187-rosiia-vtratyla-400-tys-viiskovykh-z-pochatku-roku",
+    "pubDate": "2026-11-09 11:00:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4630872.jpg\">За минулу добу російські загарбники підрозділи втратили 2 980 убитими та важкопораненими: кожні 29 секунд – мінус один окупант.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "'El Chiringuito' confirma al nuevo concursante de 'GH VIP 9' entre continuos rumores de la entrada de Cristóbal Soria",
+    "link": "https://www.elperiodico.com/es/tele/yotele/20261109/chiringuito-confirma-nuevo-concursante-gh-vip-continuos-rumores-entrada-cristobal-soria-136238488",
+    "pubDate": "2026-11-09 10:54:46",
+    "category": "",
+    "description": "<h2>Aunque se habla mucho de la entrada del sevillano, finalmente será Pipi Estrada el que ficha por el reality de convivencia.</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "iPhone під виглядом білизни: митники викрили схему",
+    "link": "https://ua.korrespondent.net/ukraine/4927183-iPhone-pid-vyhliadom-bilyzny-mytnyky-vykryly-skhemu",
+    "pubDate": "2026-11-09 10:51:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4630864.jpg\">Київські митники виявили 44 незадекларовані смартфони Apple у чотирьох посилках зі США. У деклараціях відправлення були вказані як жіноча білизна загальною вартістю 126 євро.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 80
+  },
+  {
     "title": "Dos detenidos por amenazar de muerte y encañonar a dos guardias civiles en Sevilla",
     "link": "https://www.elperiodico.com/es/sucesos/20261109/detenidos-amenazar-muerte-encanonar-guardias-civiles-sevilla-136240933",
     "pubDate": "2026-11-09 10:47:39",
@@ -522,6 +1260,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Una nueva mirada a la agricultura ancestral mexicana gana el Basque Culinary World Prize 2026",
+    "link": "https://www.elperiodico.com/es/gastronomia/20261109/basque-culinary-world-prize-2026-lucio-usobiaga-arca-tierra-136242078",
+    "pubDate": "2026-11-09 07:10:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El mexicano Lucio Usobiaga se lleva el galardón por Arca Tierra, un proyecto que busca preservar el sistema agrícola ancestral de las chinampas de Xochimilco (Ciudad de México)</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/20251030/leticia-landa-basque-culinary-world-prize-2025-122991860\">La estadounidense Leticia Landa gana el Basque Culinary World Prize 2025 (y otras noticias gastro)</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/20251030/leticia-landa-basque-culinary-world-prize-2025-122991860\">El chef catalán Andrés Torres se lleva el Basque Culinary World Prize 2024</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 90
+  },
+  {
     "title": "¿Me pueden multar si se me cae la 'L' mientras conduzco?",
     "link": "https://www.elperiodico.com/es/motor/20261109/pueden-multar-si-conduzco-sin-la-l-136129261",
     "pubDate": "2026-11-09 07:00:09",
@@ -558,6 +1305,15 @@
     "topic_match_probability": 95
   },
   {
+    "title": "\"Sense un control de la inflació, la pujada salarial és insuficient pels treballadors\"",
+    "link": "https://www.elperiodico.com/es/entre-todos/participacion/control-inflacio-pujada-salarial-insuficient-carta-lector-ruth-frias-136157626",
+    "pubDate": "2026-11-09 06:45:38",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
     "title": "Huelga general del 11N: demasiadas veces la primera vez",
     "link": "https://www.elperiodico.com/es/opinion/20261109/veces-primera-vez-136235490",
     "pubDate": "2026-11-09 06:39:49",
@@ -574,6 +1330,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4630586.png\">Дональд Трамп заявив, що очікує на швидке завершення війни Росії проти України, але припустив, що після мирної угоди кордони нашої держави можуть змінитися.",
     "topic": "політика",
     "topic_match_probability": 100
+  },
+  {
+    "title": "\"La campaña política de los jueces\"",
+    "link": "https://www.elperiodico.com/es/entre-todos/participacion/jueces-campana-politica-carta-lector-silvio-ajmone-justicia-136154288",
+    "pubDate": "2026-11-09 06:30:05",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 95
   },
   {
     "title": "Чотири голи не допомогли: МЮ продовжує боротьбу за виживання",
@@ -612,6 +1377,15 @@
     "topic_match_probability": 95
   },
   {
+    "title": "\"El trumpismo no desaparecerá\"",
+    "link": "https://www.elperiodico.com/es/entre-todos/participacion/vocacion-cambio-midterms-elecciones-eeuu-trumpismo-carta-lector-enrique-lopez-de-turiso-136151919",
+    "pubDate": "2026-11-09 06:15:26",
+    "category": "",
+    "description": "",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 90
+  },
+  {
     "title": "Así ven los sindicatos CCOO, UGT, Pimec y CGT la huelga general por la vivienda del 11 de noviembre",
     "link": "https://www.elperiodico.com/es/economia/20261109/huelga-general-11-noviembre-sindicatos-pimec-esperan-seguimiento-desigual-manifestaciones-historicas-136230650",
     "pubDate": "2026-11-09 06:02:23",
@@ -639,6 +1413,24 @@
     "topic_match_probability": 75
   },
   {
+    "title": "Entrevista a Montse Sánchez, secretaria general de CGT en Catalunya",
+    "link": "https://www.elperiodico.com/es/videos/economia/entrevista-montse-sanchez-secretaria-general-cgt-video/136164551.shtml",
+    "pubDate": "2026-11-09 06:00:55",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Entrevista a Unai Sordo, secretario general de CCOO",
+    "link": "https://www.elperiodico.com/es/videos/economia/entrevista-unai-sordo-secretario-general-ccoo-video/136164404.shtml",
+    "pubDate": "2026-11-09 06:00:54",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
     "title": "Puente dispara las especulaciones",
     "link": "https://www.elperiodico.com/es/opinion/20261109/puente-dispara-especulaciones-136230295",
     "pubDate": "2026-11-09 06:00:53",
@@ -657,6 +1449,15 @@
     "topic_match_probability": 100
   },
   {
+    "title": "Entrevista a Pepe Álvarez, secretario general de UGT",
+    "link": "https://www.elperiodico.com/es/videos/economia/entrevista-pepe-alvarez-secretario-general-video/136164349.shtml",
+    "pubDate": "2026-11-09 06:00:53",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
     "title": "Pepe Álvarez (UGT): \"Abascal quiere esclavos, no trabajadores\"",
     "link": "https://www.elperiodico.com/es/economia/20261109/pepe-alvarez-ugt-huelga-general-11-noviembre-entrevista-136230520",
     "pubDate": "2026-11-09 06:00:52",
@@ -673,6 +1474,15 @@
     "description": "<h2>El presidente de la patronal de las pequeñas y medianas empresas catalanas sostiene que el problema de la vivienda no se resuelve interviniendo los precios, sino construyendo más casas</h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "El presidente de PIMEC, Antoni Cañete, opina sobre la huelga del 11-N",
+    "link": "https://www.elperiodico.com/es/videos/economia/presidente-pimec-antoni-canete-opina-video/136128356.shtml",
+    "pubDate": "2026-11-09 06:00:52",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 80
   },
   {
     "title": "\"Esta entrevista es una mierda\"",
@@ -781,6 +1591,24 @@
     "description": "<h2 class=\"item\">El cruce de los datos del teléfono con la 'app' de salud del acusado, a la que sí se ha podido acceder, apuntan a que estuvo en el mismo punto donde Isak se precipitó</h2><h2 class=\"item\">La policía considera este indicio como uno de los elementos clave en la investigación</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260523/anatomia-caida-isak-andic-claves-videos-graficos-130504536\">Anatomía de la caída de Isak Andic: 5 factores clave explicados con gráficos y vídeos</a></h2>",
     "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
     "topic_match_probability": 95
+  },
+  {
+    "title": "Los partidos, divididos entre el rechazo frontal y el apoyo total a la huelga general del 11-N",
+    "link": "https://www.elperiodico.com/es/politica/20261109/huelga-general-11n-partidos-apoyo-rechazo-136170875",
+    "pubDate": "2026-11-09 06:00:30",
+    "category": "",
+    "description": "<h2>La izquierda asegura que le sobran motivos para movilizarse, mientras la derecha acusa a los sindicatos y entidades de actuar \"políticamente\" en pleno inicio de la campaña electoral</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "\"Apoyar a un partido no significa justificar todo lo que haga\"",
+    "link": "https://www.elperiodico.com/es/entre-todos/participacion/apoyar-partido-justificar-psoe-corrupcion-pedro-sanchez-carta-lector-lucia-segura-136146846",
+    "pubDate": "2026-11-09 06:00:30",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 90
   },
   {
     "title": "La 'SEPI digital' contratará un batallón de abogados para controlar inversiones de 520 millones en medio centenar de empresas tecnológicas",

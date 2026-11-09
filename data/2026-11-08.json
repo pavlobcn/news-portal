@@ -1296,6 +1296,15 @@
     "topic_match_probability": 90
   },
   {
+    "title": "Así ha sido la cursa de bombers 2026 que ha recorrido las calles de Barcelona",
+    "link": "https://www.elperiodico.com/es/videos/deportes/sido-cursa-bombers-2026-recorrido/136218028.shtml",
+    "pubDate": "2026-11-08 11:05:42",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Теракт у Кракові: нові деталі про стрільця",
     "link": "https://ua.korrespondent.net/world/4926983-terakt-u-krakovi-novi-detali-pro-striltsia",
     "pubDate": "2026-11-08 10:59:00",
@@ -2059,6 +2068,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4628913.jpg\">Сили оборони України уразили на Брянщині дві пускові установки ОТРК Іскандер. Атаку на навчальний заклад у Комишувасі спланував полковник Зубаков. Кореспондент.net виділяє головні події вчорашнього дня.",
     "topic": "підсумки (за попередній день, наприклад)",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Entrevista a Josep Ametller, CEO de Ametller Origen",
+    "link": "https://www.elperiodico.com/es/videos/economia/entrevista-josep-ametller-ceo-ametller/136182107.shtml",
+    "pubDate": "2026-11-08 05:50:08",
+    "category": "",
+    "description": "",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 85
   },
   {
     "title": "Іран розраховує отримати від Росії комплекси С-400",
