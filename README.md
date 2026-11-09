@@ -1,8 +1,23 @@
-# News for 2026-11-09 14:26
+# News for 2026-11-09 19:50
 
 Previous day: [2026-11-08](./data/2026-11-08.md)
 
 ## ua.korrespondent.net
+19:45 [Укренерго попередило про відключення на 10 листопада](https://ua.korrespondent.net/ukraine/4927361-ukrenerho-poperedylo-pro-vidkluichennia-na-10-lystopada)<br>
+19:35 [Удар дрона забрав життя працівника Запорізької АЕС](https://ua.korrespondent.net/ukraine/4927356-udar-drona-zabrav-zhyttia-pratsivnyka-zaporizkoi-aes)<br>
+19:00 [Кібератаки на сотні супермаркетів: у Франції підозрюють Іран](https://ua.korrespondent.net/world/4927350-kiberataky-na-sotni-supermarketiv-u-frantsii-pidozruiuit-iran)<br>
+18:48 [Росіяни втричі збільшили кількість штурмів на одному з напрямків фронту](https://ua.korrespondent.net/ukraine/4927349-rosiiany-vtrychi-zbilshyly-kilkist-shturmiv-na-odnomu-z-napriamkiv-frontu)<br>
+18:21 [Пілоти СБС знищили російський Сонцепьок](https://ua.korrespondent.net/ukraine/4927342-piloty-sbs-znyschyly-rosiiskyi-sontsepok)<br>
+18:15 [Фонд підтримки енергетики України поповнили: хто долучився](https://ua.korrespondent.net/business/financial/4927339-fond-pidtrymky-enerhetyky-ukrainy-popovnyly-khto-doluchyvsia)<br>
+18:01 [Наслідки надзвичайно серйозні: Росія знову вдарила по Трипільській ТЕС](https://ua.korrespondent.net/business/economics/4927332-naslidky-nadzvychaino-seriozni-rosiia-znovu-vdaryla-po-trypilskii-tes)<br>
+17:37 [Таємний Санта, Таємний Миколай, Secret Santa: як організувати гру й нікого не образити](https://ua.korrespondent.net/lifestyle/4927336-taiemnyi-santa-taiemnyi-mykolai-Secret-Santa-yak-orhanizuvaty-hru-y-nikoho-ne-obrazyty)<br>
+17:11 [На кордоні з Румунією тимчасово обмежать рух транспорту](https://ua.korrespondent.net/ukraine/4927320-na-kordoni-z-rumuniieui-tymchasovo-obmezhat-rukh-transportu)<br>
+16:44 [Фейкове посвідчення СБУ та наведення ударів: агент РФ отримав 15 років](https://ua.korrespondent.net/ukraine/4927311-feikove-posvidchennia-sbu-ta-navedennia-udariv-ahent-rf-otrymav-15-rokiv)<br>
+16:35 [На Донеччині уражено станцію подавлення Starlink](https://ua.korrespondent.net/ukraine/4927309-na-donechchyni-urazheno-stantsiui-podavlennia-Starlink)<br>
+16:28 [У Москві повернули обмеження на продаж бензину](https://ua.korrespondent.net/world/russia/4927305-u-moskvi-povernuly-obmezhennia-na-prodazh-benzynu)<br>
+15:06 [Зрада і загроза нацбезпеці. Скандал з NVIDIA](https://ua.korrespondent.net/business/companies/4927272-zrada-i-zahroza-natsbezpetsi-skandal-z-NVIDIA)<br>
+14:55 [У Туреччині стався вибух на металургійному заводі: є загиблі](https://ua.korrespondent.net/world/4927267-u-turechchyni-stavsia-vybukh-na-metalurhiinomu-zavodi-ye-zahybli)<br>
+14:40 [Трагедія в Середземному морі: на човнах загинули 20 людей](https://ua.korrespondent.net/world/4927264-trahediia-v-seredzemnomu-mori-na-chovnakh-zahynuly-20-luidei)<br>
 14:18 [Атака на Київщину: загинула жінка, будинок зруйновано вщент](https://ua.korrespondent.net/ukraine/4927261-ataka-na-kyivschynu-zahynula-zhinka-budynok-zruinovano-vschent)<br>
 14:00 [Монро їде до України та назвала причини невдалої еміграції](https://ua.korrespondent.net/lifestyle/4927042-monro-yide-do-ukrainy-ta-nazvala-prychyny-nevdaloi-emihratsii)<br>
 13:56 [У Рівному зникло світло: що спричинило знеструмлення](https://ua.korrespondent.net/ukraine/4927251-u-rivnomu-znyklo-svitlo-scho-sprychynylo-znestrumlennia)<br>
@@ -38,11 +53,33 @@ Previous day: [2026-11-08](./data/2026-11-08.md)
 00:14 [Apple заощадила мільярди на податках завдяки пільгам у Сінгапурі - FT](https://ua.korrespondent.net/business/companies/4927095-Apple-zaoschadyla-miliardy-na-podatkakh-zavdiaky-pilham-u-sinhapuri-FT)<br>
 
 ## as.com
+19:27 [“Estamos intentando frenar un poco la euforia de Iyana”](https://as.com/baloncesto/mas_baloncesto/estamos-intentando-frenar-un-poco-la-euforia-de-iyana-f202611-n/)<br>
+17:36 [Así es Pablo Mera, el último canterano en debutar con el Real Madrid](https://as.com/baloncesto/acb/asi-es-pablo-mera-el-ultimo-canterano-en-debutar-con-el-real-madrid-f202611-n/)<br>
+17:17 [Otro golpe para el Barça: Punter ya conoce el alcance de su lesión](https://as.com/baloncesto/acb/otro-golpe-para-el-barca-punter-ya-conoce-el-alcance-de-su-lesion-f202611-n/)<br>
+16:09 [Ponsarnau: “Queremos quedar primeros, ese es el objetivo”](https://as.com/baloncesto/ponsarnau-queremos-quedar-primeros-ese-es-el-objetivo-f202611-n/)<br>
+14:54 [La Final Six de la Euroliga será en Zaragoza hasta 2030](https://as.com/baloncesto/mas_baloncesto/la-final-six-de-la-euroliga-sera-en-zaragoza-hasta-2030-f202611-n/)<br>
 14:09 [¡Marcelinho Huertas se va al Dubái!](https://as.com/baloncesto/euroliga/marcelinho-huertas-se-va-al-dubai-f202611-n/)<br>
 14:06 [Paolo Galbiati ya tiene un nuevo trabajo](https://as.com/baloncesto/paolo-galbiati-ya-tiene-un-nuevo-trabajo-f202611-n/)<br>
 07:33 [Ndiaye vuelve al Madrid: “Se va tras el partido del Zaragoza”](https://as.com/baloncesto/acb/ndiaye-vuelve-al-madrid-se-va-tras-el-partido-del-zaragoza-f202611-n/)<br>
 
 ## www.elperiodico.com
+19:43 [El Institut Ostrom premia al economista Tyler Cowen y al fundador de SpliceBio Miquel Vila-Perelló](https://www.elperiodico.com/es/sociedad/20261109/institut-ostrom-premia-economista-tyler-cowen-y-al-fundador-de-splicebio-miquel-vila-perello-136263047)<br>
+19:38 [Detenido en Hungría el hermano del ex primer ministro Viktor Orbán por presunto tráfico de personas](https://www.elperiodico.com/es/internacional/20261109/detenido-hungria-hermano-ex-primer-136263172)<br>
+19:30 [Julia volvió a su aldea natal asturiana tras más de 70 años en Argentina: "Mi mamá me enseñó a amar y no olvidar"](https://www.elperiodico.com/es/sociedad/20261109/julia-volvio-aldea-natal-asturiana-70-anos-argentina-dv-136219189)<br>
+19:18 [El chófer](https://www.elperiodico.com/es/opinion/20261109/chofer-corvillo-pedro-sanchez-136262705)<br>
+18:40 [Volotea entra en el puente aéreo Barcelona-Madrid tras el accidente de Urda](https://www.elperiodico.com/es/economia/20261109/volotea-entra-puente-aereo-barcelona-136261523)<br>
+18:35 [Los arquitectos coinciden sobre cómo detectar humedades: "Coge un trozo de papel de aluminio y celo y pégalo en la pared"](https://www.elperiodico.com/es/vida-y-estilo/20261109/humedades-papel-aluminio-pared-pintura-arquitectos-dv-136177721)<br>
+18:34 [Siguen los retrasos generalizados en Rodalies este lunes por la tarde y noche](https://www.elperiodico.com/es/fotos/en-imagenes/siguen-retrasos-generalizados-rodalies-tarde-fotos-136261276)<br>
+18:30 [Manel Esteller (58 años), sobre la tercera edad: "La pérdida de calidad de vida se da por una menor fuerza muscular y la calidad de huesos"](https://www.elperiodico.com/es/salud/20261109/manel-esteller-experto-longevidad-vejez-caso-maria-branyas-dv-135894637)<br>
+17:57 [Tiempo en Catalunya mañana martes: llega el veranillo de San Martín y suben las temperaturas en Barcelona](https://www.elperiodico.com/es/tiempo/20261109/tiempo-cataluna-hoy-martes-10-de-noviembre-lluvias-temperaturas-dv-loc-136257944)<br>
+17:55 [Casi dos de cada tres vecinos de la Gran Barcelona son vulnerables al calor extremo, según concluye el gemelo digital metropolitano](https://www.elperiodico.com/es/barcelona/20261109/gemelo-digital-metropolitano-concluye-dos-cada-tres-vecinos-gran-barcelona-vulnerables-calor-extremo-136253830)<br>
+17:55 [Francia señala a Irán como responsable de los ciberataques contra los frigoríficos de cientos de supermercados](https://www.elperiodico.com/es/internacional/20261109/francia-acusa-iran-ciberataques-supermercados-europa-136259504)<br>
+17:30 [Esteve Armengol (24 años), agricultor en Girona: "La gente quiere más días libres y llevar una vida más descansada. No les gusta estar tan atados de esta manera"](https://www.elperiodico.com/es/economia/20261109/agricultor-esteve-armengol-24-anos-girona-precios-dv-loc-et-135958335)<br>
+16:59 [Las fuertes lluvias agravan la tragedia humanitaria en Gaza: inundaciones en las tiendas de campaña y 100.000 desplazados](https://www.elperiodico.com/es/internacional/20261109/gaza-fuertes-lluvias-agravan-tragedia-humanitaria-inundaciones-136257363)<br>
+16:54 [La UB concreta su ampliación en la Diagonal: una torre de 9 plantas para Matemáticas y un edificio de 6 para investigación sanitaria](https://www.elperiodico.com/es/sociedad/20261109/universidad-barcelona-ampliacion-campus-diagonal-edificio-matematicas-economia-informatica-investigacion-salud-136254292)<br>
+16:37 [Comprar una vivienda en Salou y Cambrils cuesta hasta 1.000 euros más por metro cuadrado que en Tarragona y Reus](https://www.elperiodico.com/es/tarragona/20261109/comprar-vivienda-salou-cambrils-mas-caro-tarragona-reus-136256158)<br>
+16:13 [Rescatan a 578 personas a bordo de cinco cayucos en El Hierro, Tenerife y Gran Canaria](https://www.elperiodico.com/es/fotos/en-imagenes/rescatan-578-personas-bordo-cinco-fotos-136255808)<br>
+16:00 [La jueza del caso Andic mantiene bajo secreto el testimonio de la ayudante de la terapeuta, clave en la investigación](https://www.elperiodico.com/es/sociedad/20261109/secreto-testigo-testimonio-clave-andic-interprete-ayudante-terapeuta-136114766)<br>
 14:07 [La economía española mantendrá su solidez este año y también en 2027](https://www.elperiodico.com/es/economia/20261109/economia-espanola-mantendra-solidez-ano-136242494)<br>
 14:05 [Sant Climent de Taüll cerrará 6 meses por obras por conservación](https://www.elperiodico.com/es/ocio-y-cultura/20261109/sant-climent-taull-cerrara-6-136249982)<br>
 13:28 [Almirall aumenta sus ventas un 8% hasta septiembre, pero gana un 36% más](https://www.elperiodico.com/es/economia/20261109/resultados-almirall-tercer-trimestre-aumenta-ventas-septiembre-gana-mas-136246166)<br>
