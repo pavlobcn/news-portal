@@ -1,5 +1,275 @@
 [
   {
+    "title": "Dos detenidos por amenazar de muerte y encañonar a dos guardias civiles en Sevilla",
+    "link": "https://www.elperiodico.com/es/sucesos/20261109/detenidos-amenazar-muerte-encanonar-guardias-civiles-sevilla-136240933",
+    "pubDate": "2026-11-09 10:47:39",
+    "category": "",
+    "description": "<h2>La Guardia Civil ha intervenido en Lora del Río una pistola simulada, catanas, puños americanos y cuchillos artesanales durante dos registros domiciliarios. Uno de los arrestados ha ingresado en prisión</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Bombazo en el Real Oviedo: Raúl González sustituye a Calero como técnico",
+    "link": "https://www.elperiodico.com/es/deportes/futbol/20261109/bombazo-real-oviedo-raul-gonzalez-136238632",
+    "pubDate": "2026-11-09 10:44:26",
+    "category": "",
+    "description": "<h2 class=\"item\">Golpe de efecto de Pachuca, que releva al técnico pese a la victoria en Cádiz y ficha a un mito del futbol español y del Real Madrid para devolver la confianza y la ilusión a la afición </h2><h2 class=\"item\">El nuevo entrenador, siempre vinculado a la cantera blanca y que llevaba un año sin equipo desde que dejó el Castilla, tiene en sus manos su primer gran proyecto deportivo en el banquillo</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "НБА: Михайлюк не допоміг Юті уникнути поразки",
+    "link": "https://ua.korrespondent.net/sport/basketball/4927179-nba-mykhailuik-ne-dopomih-yuti-unyknuty-porazky",
+    "pubDate": "2026-11-09 10:39:00",
+    "category": "Новини баскетболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4630843.jpg\">У регулярному чемпіонаті НБА Юта Святослава Михайлюка програла Міннесоті, а Філадельфія завдала чергової поразки Чикаго.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Місія МВФ розпочала роботу в Україні",
+    "link": "https://ua.korrespondent.net/business/economics/4927180-misiia-mvf-rozpochala-robotu-v-ukraini",
+    "pubDate": "2026-11-09 10:36:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4630845.jpg\">МВФ планує провести другий і третій перегляди програми розширеного фінансування України до кінця 2026 року.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cuatro de cada diez conductores ven los coches autónomos como una realidad habitual en diez años",
+    "link": "https://www.elperiodico.com/es/motor/20261109/cuatro-diez-conductores-ven-coches-autonomos-realidad-136176854",
+    "pubDate": "2026-11-09 10:30:20",
+    "category": "",
+    "description": "<h2>Mientras casi un 30% de los usuarios mantiene sus dudas, Madrid se prepara para probar sus primeros 20 robotaxis autorizados por la DGT</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Теракт у Кракові: нападник не вижив після поранень",
+    "link": "https://ua.korrespondent.net/world/4927177-terakt-u-krakovi-napadnyk-ne-vyzhyv-pislia-poranen",
+    "pubDate": "2026-11-09 10:30:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4630840.jpg\">Смерть винуватця трагедії не зупинить розслідування стрілянини. Слідчі й надалі встановлюватимуть мотиви його дій і перевірятимуть можливі зв’язки з іншими особами.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Geely E2, que podría fabricarse en Almussafes, ya supera el millón de unidades vendidas",
+    "link": "https://www.elperiodico.com/es/motor/20261109/geely-e2-fabricarse-almussafes-supera-millon-unidades-vendidas-136239456",
+    "pubDate": "2026-11-09 10:26:41",
+    "category": "",
+    "description": "<h2>El eléctrico chino ha superado el millón de unidades vendidas en apenas dos años, un ritmo comercial extraordinario que lo sitúa entre los grandes éxitos recientes de la movilidad eléctrica</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "НХЛ: драма в Калгарі та перемоги фаворитів",
+    "link": "https://ua.korrespondent.net/sport/hokey/4927174-nkhl-drama-v-kalhari-ta-peremohy-favorytiv",
+    "pubDate": "2026-11-09 10:15:00",
+    "category": "Новини хокею",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4630821.jpg\">У Національній хокейній лізі відбулися чергові поєдинки регулярного чемпіонату, в яких Бостон та Вегас здобули впевнені розгромні перемоги.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Puigdemont deja la puerta abierta a ser candidato a la Generalitat y no renuncia a la unilateralidad para lograr la independencia",
+    "link": "https://www.elperiodico.com/es/politica/20261109/puigdemont-candidato-generalitat-unilateralidad-amnistia-136238366",
+    "pubDate": "2026-11-09 10:13:06",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261108/puigdemont-junts-campana-elecciones-generales-videoconferencia-miriam-nogueras-136121948\">Puigdemont participará por videoconferencia en la campaña de Nogueras desde Waterloo</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Помер актор і театральний діяч Ігор Тєтруєв",
+    "link": "https://ua.korrespondent.net/lifestyle/4927160-pomer-aktor-i-teatralnyi-diiach-ihor-tietruiev",
+    "pubDate": "2026-11-09 10:11:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4630773.jpg\">Ще кілька місяців тому колеги та близькі зверталися до громадськості з проханням допомогти подолати важке захворювання, однак сьогодні оголосили про його відхід у вічність.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Mel, Víctor y Gael, la familia que dejó Catalunya para irse a vivir a una aldea rural en Galicia: \"No sabíamos realmente dónde nos metíamos, con las redes sociales se vende como algo idílico y muy bonito\"",
+    "link": "https://www.elperiodico.com/es/economia/20261109/vida-rural-familia-cataluna-aldea-galicia-mel-victor-dv-136072435",
+    "pubDate": "2026-11-09 10:10:00",
+    "category": "",
+    "description": "<h2>A pesar de las dificultades, la pareja tiene claro que su decisión fue acertada: \"Hace poco fuimos a Barcelona a visitar a la familia y estuvimos cuatro o cinco días, pero fue horrible\"</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260825/abandonaron-catalunya-bebe-galicia-reformar-pajar-jorge-alba-dv-et-133487142\">Jorge y Alba abandonaron Catalunya con su bebé para empezar de cero en el bosque de Galicia: \"A nosotros nos gusta el ambiente rural y tranquilo, pero en Catalunya hay muchísima gente\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261106/reforma-casa-rural-aldea-galicia-cataluna-aurora-miqueas-dv-135913778\">Aurora y Miqueas dejan Catalunya y compran su segunda vivienda en una aldea gallega por 30.000 euros: \"Son casas que mueren. Esta llevaba desde 2017 cerrada y en venta y no tenía ni visitas\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Удар РФ по Вінниччині: пошкоджено енергооб’єкт",
+    "link": "https://ua.korrespondent.net/ukraine/4927172-udar-rf-po-vinnychchyni-poshkodzheno-enerhoobiekt",
+    "pubDate": "2026-11-09 10:09:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4630820.jpg\">Після російської атаки пошкоджені об’єкти критичної інфраструктури. Енергетики працюють над відновленням електропостачання.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Más de 12.000 euros de diferencia: el ahorro que puede suponer el cambio de una hipoteca variable a fija, según la OCU",
+    "link": "https://www.elperiodico.com/es/vivienda/20261109/hipoteca-variable-fija-ahorro-ocu-renegociar-dv-136105749",
+    "pubDate": "2026-11-09 10:05:00",
+    "category": "",
+    "description": "<h2 class=\"item\">La OCU sostiene que basta una rebaja de 0,25 puntos para que el cambio compense y recuerda qué gastos pueden reclamarse</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20261104/hipotecas-variables-encarecerse-86-euros-mes-dv-136068812\" >Las hipotecas variables pueden encarecerse hasta 86 euros al mes a quienes les toque revisión ahora</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Irene Montero pone condiciones a una hipotética investidura de Sánchez: bajada de alquileres e impuestos a las grandes fortunas",
+    "link": "https://www.elperiodico.com/es/politica/20261109/irene-montero-condiciones-investidura-sanchez-alquileres-136238906",
+    "pubDate": "2026-11-09 10:04:12",
+    "category": "",
+    "description": "<h2>La candidata de Podemos critica que Sumar naciera para que \"hubiese una izquierda que fuese cómoda al PSOE\"</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Illa \"entiende\" la huelga general del 11-N, pero su Govern no irá a la manifestación: \"No soy partidario de que los gobiernos se manifiesten\"",
+    "link": "https://www.elperiodico.com/es/politica/20261109/huelga-general-11-n-cataluna-vivienda-salvador-illa-manifestacion-barcelona-136237315",
+    "pubDate": "2026-11-09 10:02:58",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20261109/huelga-general-11n-partidos-apoyo-rechazo-136170875\">Los partidos, divididos entre el rechazo frontal y el apoyo total a la huelga general del 11-N</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261109/huelga-general-11-noviembre-sindicatos-pimec-esperan-seguimiento-desigual-manifestaciones-historicas-136230650\">Así ven los sindicatos CCOO, UGT, Pimec y CGT la huelga general por la vivienda del 11 de noviembre</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Black Friday 2026: la OCU advierte de que habrá más subidas que bajadas de precios en electrónica",
+    "link": "https://www.elperiodico.com/es/economia/20261109/black-friday-2026-ocu-subida-precio-electronica-dv-136238198",
+    "pubDate": "2026-11-09 10:01:52",
+    "category": "",
+    "description": "<h2 class=\"item\">Solo el 35% de los productos de electrónica y electrodomésticos bajó de precio el año pasado, frente a un 37% que se encareció</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261107/black-friday-2026-espana-fecha-primeras-ofertas-compras-antes-navidad-dv-136128696\" >Cuándo es el Black Friday 2026 en España: fecha y cuándo arrancan las primeras ofertas</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260326/tres-comercios-online-europeos-muestra-128453101\" >Uno de cada tres comercios online europeos mostró \"incorrectamente\" descuentos durante Black Friday y Cyber Monday</a></h2>",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Агентка ФСБ наводила \"шахеди\" на склади з пальним у Дніпрі",
+    "link": "https://ua.korrespondent.net/city/dnepr/4927170-ahentka-fsb-navodyla-shakhedy-na-sklady-z-palnym-u-dnipri",
+    "pubDate": "2026-11-09 09:57:00",
+    "category": "Дніпро",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4630801.jpg\">Коригувальницею виявилась місцева жителька, яка потрапила до уваги рашистів через її матір, яка проживає на тимчасово окупованій частині території Донеччини.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Трамп перезавантажує команду: хто вже тікає з корабля",
+    "link": "https://ua.korrespondent.net/articles/4927168-tramp-perezavantazhuie-komandu-khto-vzhe-tikaie-z-korablia",
+    "pubDate": "2026-11-09 09:50:00",
+    "category": "Статті",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4630797.jpg\">Поразка республіканців на проміжних виборах стала серйозним ударом по президенту США. Призначення Стівена Міллера, дистанціювання Венса від війни з Іраном і кадрові інтриги можуть свідчити про початок нового етапу політики Трампа.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Росія перетворила Герань-5 на ракету",
+    "link": "https://ua.korrespondent.net/ukraine/4927165-rosiia-peretvoryla-heran-5-na-raketu",
+    "pubDate": "2026-11-09 09:48:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4630794.jpg\">У новій модифікації російської Герані-5 українська розвідка виявила термобаричну бойову частину, турбореактивний двигун і систему корекції маршруту за зображеннями місцевості.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Bachiri, el polémico crepero de Tiktok, multado por hablar en español en sus vídeos: \"Es muy fuerte\"",
+    "link": "https://www.elperiodico.com/es/gente/20261109/multa-catalan-crepero-tiktok-andorra-dv-136026929",
+    "pubDate": "2026-11-09 09:47:25",
+    "category": "",
+    "description": "<h2 class=\"item\">El creador de contenido de Andorra interpone un recurso y sostiene que sus vídeos \"no tienen una finalidad publicitaria\"</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20261030/barcelona-casa-batllo-colas-entrada-multa-cambios-135900088\">Barcelona exige a la Casa Batlló reubicar las colas de visitantes tras una multa por ocupar la acera en paseo de Gràcia</a></h2>",
+    "topic": "блогери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Illa, a los maquinistas, en una nueva jornada de caos en Rodalies: \"Entiendo su estado de ánimo, pero no me gusta su actitud\"",
+    "link": "https://www.elperiodico.com/es/politica/20261109/cataluna-rodalies-caos-maquinistas-huelga-salvador-illa-govern-136237309",
+    "pubDate": "2026-11-09 09:41:19",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/barcelona/20261109/nueva-jornada-retrasos-generalizados-rodalies-136235787\">El conflicto entre Renfe y los maquinistas vuelve a dejar retrasos generalizados en Rodalies</a></h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20261109/trafico-barcelona-rodalies-hoy-directo-incidencias-133938712\">Tráfico en Barcelona y Rodalies, en directo: atascos, retrasos y problemas de transporte hoy</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Поєдинок на ринзі переріс у масове побоїще",
+    "link": "https://ua.korrespondent.net/sport/boks/4927067-poiedynok-na-rynzi-pereris-u-masove-poboische",
+    "pubDate": "2026-11-09 09:41:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4629991.jpg\">Один із бійців завдав підлого удару супернику вже після сигналу про закінчення поєдинку, що спровокувало масштабну сутичку.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Cumbre del clima 2026, en directo: última hora de la COP31 de Turquía y de la participación de España en las negociaciones",
+    "link": "https://www.elperiodico.com/es/sociedad/20261109/cumbre-clima-2026-cop31-antalya-turquia-ultima-hora-directo-136237501",
+    "pubDate": "2026-11-09 09:40:13",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261107/cumbre-clima-cop31-antalya-turquia-prueba-fuego-futuro-cumbres-136169485\">Las cumbres del clima se juegan en Turquía su futuro tras años de bloqueos y promesas incumplidas</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261109/cumbre-clima-cop31-antalya-turquia-emisiones-electrificacion-negociaciones-agenda-136173163\">¿Qué se negocia en la cumbre del clima de Turquía? Cinco grandes debates y una fórmula inédita</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Brutal secuestro en Lorca (Murcia): agresión sexual, golpes con bates, descargas eléctricas y ojos sellados con pegamento",
+    "link": "https://www.elperiodico.com/es/sucesos/20261109/brutal-secuestro-lorca-murcia-agresion-sexual-136237928",
+    "pubDate": "2026-11-09 09:39:09",
+    "category": "",
+    "description": "<h2>La víctima estuvo retenida durante más de una semana y parte de las vejaciones que sufrió fueron grabadas</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Precio de la gasolina y diésel hoy, 9 de noviembre en España: consulta el precio de los carburantes",
+    "link": "https://www.elperiodico.com/es/economia/20261109/precio-gasolina-diesel-hoy-9-noviembre-dv-136237265",
+    "pubDate": "2026-11-09 09:32:23",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Guerra de EEUU e Israel contra Irán, en directo</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260303/afectara-espana-conflicto-iran-gas-gasolina-luz-inflacion-euribor-127492297\">¿Cómo afectará a España el conflicto con Irán? Gas, gasolina, luz, inflación y euríbor, en el punto de mira</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Корабель, який зник під час Другої світової, знайшли через 80 років",
+    "link": "https://ua.korrespondent.net/tech/science/4927037-korabel-yakyi-znyk-pid-chas-druhoi-svitovoi-znaishly-cherez-80-rokiv",
+    "pubDate": "2026-11-09 09:32:00",
+    "category": "Новини науки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4629830.jpg\">Група цивільних дослідників виявила уламки торгового судна, затопленого німецькою торпедою під час війни.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "ЄС застосує спецмеханізм допомоги - Зеленський",
+    "link": "https://ua.korrespondent.net/ukraine/4927159-yes-zastosuie-spetsmekhanizm-dopomohy-zelenskyi",
+    "pubDate": "2026-11-09 09:32:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4630771.jpg\">Володимир Зеленський та Урсула фон дер Ляєн обговорили енергетичну та гуманітарну допомогу Україні для підготовки до зими та євроінтеграційні питання.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Precio del petróleo hoy, 9 de noviembre por la Guerra en Irán: consulta el precio del barril de Brent",
+    "link": "https://www.elperiodico.com/es/economia/20261109/precio-petroleo-hoy-9-noviembre-dv-136237264",
+    "pubDate": "2026-11-09 09:30:55",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Guerra de EEUU e Israel contra Irán, en directo</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260303/afectara-espana-conflicto-iran-gas-gasolina-luz-inflacion-euribor-127492297\">¿Cómo afectará a España el conflicto con Irán? Gas, gasolina, luz, inflación y euríbor, en el punto de mira</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Опалювальний сезон у Києві: скільки будинків отримали тепло",
+    "link": "https://ua.korrespondent.net/city/kiev/4927157-opaluivalnyi-sezon-u-kyievi-skilky-budynkiv-otrymaly-teplo",
+    "pubDate": "2026-11-09 09:29:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4630769.jpg\">У Києві до тепла підключили майже 80% житлових будинків, а також понад 80% закладів соціальної сфери. Опалення вже отримують сотні шкіл, дитсадків і медичних установ.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Nvidia se desploma en Bolsa tras la investigación a su CEO por la relación con una presunta espía china",
+    "link": "https://www.elperiodico.com/es/economia/20261109/nvidia-desploma-bolsa-investigacion-vida-136237316",
+    "pubDate": "2026-11-09 09:26:20",
+    "category": "",
+    "description": "<h2>El fabricante de semiconductores busca esclarecer posibles riesgos para la seguridad nacional mientras los inversores cuestionan la estabilidad de la compañía ante la posible salida de Jensen Huang</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "РФ ударила по енергетиках у Сумах: троє поранених",
     "link": "https://ua.korrespondent.net/ukraine/4927154-rf-udaryla-po-enerhetykakh-u-sumakh-troie-poranenykh",
     "pubDate": "2026-11-09 09:09:00",
@@ -387,6 +657,24 @@
     "topic_match_probability": 100
   },
   {
+    "title": "Pepe Álvarez (UGT): \"Abascal quiere esclavos, no trabajadores\"",
+    "link": "https://www.elperiodico.com/es/economia/20261109/pepe-alvarez-ugt-huelga-general-11-noviembre-entrevista-136230520",
+    "pubDate": "2026-11-09 06:00:52",
+    "category": "",
+    "description": "<h2>El secretario general de la UGT llama a una gran movilización el próximo miércoles, la primera gran huelga general en 14 años en España</h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Antoni Cañete (Pimec): \"No ganar lo suficiente para pagar el alquiler no es un problema laboral, es de mercado\"",
+    "link": "https://www.elperiodico.com/es/economia/20261109/antoni-canete-pimec-huelga-general-11-noviembre-entrevista-136179792",
+    "pubDate": "2026-11-09 06:00:52",
+    "category": "",
+    "description": "<h2>El presidente de la patronal de las pequeñas y medianas empresas catalanas sostiene que el problema de la vivienda no se resuelve interviniendo los precios, sino construyendo más casas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "\"Esta entrevista es una mierda\"",
     "link": "https://www.elperiodico.com/es/tele/20261109/esta-entrevista-mierda-136225121",
     "pubDate": "2026-11-09 06:00:41",
@@ -403,6 +691,15 @@
     "description": "<h2><a href=\"https://www.elperiodico.com/es/economia/20261102/mercedes-blanco-socia-directora-fincas-135932915\">Mercedes Blanco, socia directora de Fincas Blanco: \"La vivienda es uno de los pilares de una sociedad feliz\"</a></h2>",
     "topic": "політика",
     "topic_match_probability": 80
+  },
+  {
+    "title": "El programa del PP plantea reforzar el rango institucional del líder de la oposición",
+    "link": "https://www.elperiodico.com/es/politica/20261109/pp-plantea-reforzar-rango-institucional-lider-oposicion-136220230",
+    "pubDate": "2026-11-09 06:00:38",
+    "category": "",
+    "description": "<h2>Los populares abogan porque tenga un estatuto institucional específico con \"cauces obligatorios y regulares de información\" sobre seguridad nacional, defensa, política exterior y crisis de especial gravedad</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
   },
   {
     "title": "Encuesta GESOP: El 14% de los españoles cambiarán su voto tras el accidente de tren de Urda",
