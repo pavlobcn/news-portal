@@ -1,5 +1,158 @@
 [
   {
+    "title": "Рубіо пояснив, які гарантії безпеки матиме Україна",
+    "link": "https://ua.korrespondent.net/world/worldabus/4927395-rubio-poiasnyv-yaki-harantii-bezpeky-matyme-ukraina",
+    "pubDate": "2026-11-09 23:38:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4631735.jpg\">Україні дадуть лиш ті гарантії, \"на які погодиться Росія\", бо інакше механізм \"не працюватиме\", заявив голова Держдепу США.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "La falta de puntería condena a Sabadell y Real Sociedad B al empate sin goles",
+    "link": "https://www.elperiodico.com/es/deportes/20261109/falta-punteria-condena-sabadell-real-136267736",
+    "pubDate": "2026-11-09 23:26:12",
+    "category": "",
+    "description": "<h2 class=\"item\">El equipo de Ferran Costa encadena cuatro jornadas sin ganar y tres empates consecutivos en la Creu Alta.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Abascal desvela en La Revuelta que pidió a Israel que no reconociera la independencia de Catalunya",
+    "link": "https://www.elperiodico.com/es/politica/20261109/abascal-desvela-revuelta-pidio-israel-136267623",
+    "pubDate": "2026-11-09 23:10:47",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Tensión entre Broncano y Abascal para explicar la polémica del público en 'La Revuelta', con dardo incluido a 'El Hormiguero': \"Situación anómala\"",
+    "link": "https://www.elperiodico.com/es/tele/yotele/20261109/david-broncano-santiago-abascal-abordan-polemica-publico-la-revuelta-dardo-el-hormiguero-136267547",
+    "pubDate": "2026-11-09 23:06:42",
+    "category": "",
+    "description": "<h2>El líder de Vox desembarca en el plató de RTVE entre bromas sobre 'El Hormiguero', mientras el presentador justifica haber cedido la gestión de las gradas a una agencia externa</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "РФ атакувала спецзаклад під Києвом: є поранені",
+    "link": "https://ua.korrespondent.net/ukraine/4927393-rf-atakuvala-spetszaklad-pid-kyievom-ye-poraneni",
+    "pubDate": "2026-11-09 22:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4631716.jpg\">Двоє людей дістали поранення внаслідок ворожого удару - вони перебувають у лікарні, повідомили в Київській ОДА.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Декларування для СБУ: законопроєкт внесено до Ради",
+    "link": "https://ua.korrespondent.net/ukraine/4927391-deklaruvannia-dlia-sbu-zakonoproiekt-vneseno-do-rady",
+    "pubDate": "2026-11-09 22:35:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4631678.jpg\">Відповідний документ було визначено президентом України Володимиром Зеленським як невідкладний.",
+    "topic": "політика",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "Clavijo exige al Gobierno de España ocho medidas urgentes para afrontar la crisis migratoria en Canarias en 20 días",
+    "link": "https://www.elperiodico.com/es/politica/20261109/clavijo-lleva-ocho-medidas-urgentes-136267042",
+    "pubDate": "2026-11-09 22:16:46",
+    "category": "",
+    "description": "<h2>El presidente canario reclama un plan extraordinario de contingencia, reuniones semanales con el Estado, refuerzos de Salvamento Marítimo y ayudas económicas y fiscales para El Hierro </h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El Hierro, desbordado: \"Que nos ayuden también un poquito a nosotros\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261109/hierro-desbordado-ayuden-poquito-136266969",
+    "pubDate": "2026-11-09 22:14:40",
+    "category": "",
+    "description": "<h2>Comercios, restaurantes y centros de buceo denuncian las dificultades que el repunte de llegadas están provocando en su actividad diaria</h2>",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Чорне море під посиленим захистом: ЄС готує 50 млн євро",
+    "link": "https://ua.korrespondent.net/world/4927389-chorne-more-pid-posylenym-zakhystom-yes-hotuie-50-mln-yevro",
+    "pubDate": "2026-11-09 21:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4631623.jpg\">Євросоюз спрямує 50 млн євро на створення Центру морської безпеки в Чорному морі. Проєкт реалізовуватимуть спільно з Румунією та Болгарією.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Pedro Sánchez: \"A Koldo García le han pagado para difamarme y para hacernos caer; eso es un hecho\"",
+    "link": "https://www.elperiodico.com/es/politica/20261109/pedro-sanchez-koldo-garcia-le-136266662",
+    "pubDate": "2026-11-09 21:50:23",
+    "category": "",
+    "description": "<h2 class=\"item\">\"Frente al '¡Pedro Sáchez, hijo de puta!' que cantan Vox y muchos miembros de la ultraderecha, yo quiero trabajar para que el 29 de noviembre mucha gente diga ‘Pedro Sánchez, ¡qué hijo de puta!\"</h2><h2 class=\"item\">El líder del PSOE asegura que tras el 29 de noviembre \"habrá una mayoría progresista\" porque la participación \"superará con mucho el 70% de 2023\"</h2><h2 class=\"item\">El jefe del Ejecutivo no descarta \"suspender\" TikTok por sus vídeos y contenidos de abuso sexual y pederastia</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "\"Трохи інша форма\". Обриси миру від Трампа",
+    "link": "https://ua.korrespondent.net/ukraine/4927396-trokhy-insha-forma-obrysy-myru-vid-trampa",
+    "pubDate": "2026-11-09 21:46:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4631754.jpg\">Коментуючи питання військової допомоги, Трамп заявив, що його політика щодо Росії була жорсткішою, ніж у попередників.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La cúpula de la cooperativa de Les Naus se desvincula de la gestión ante la jueza y apunta al promotor",
+    "link": "https://www.elperiodico.com/es/politica/20261109/cupula-cooperativa-naus-declara-jueza-promotor-136266538",
+    "pubDate": "2026-11-09 21:43:20",
+    "category": "",
+    "description": "<h2>El presidente, la vicepresidenta y la secretaria de la sociedad, citados por los contratos millonarios que suscribieron con Ordiñana, solo contestaron a sus defensas para declinar cualquier responsabilidad </h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Британський флот переходить на безпілотні морські сили",
+    "link": "https://ua.korrespondent.net/world/4927386-brytanskyi-flot-perekhodyt-na-bezpilotni-morski-syly",
+    "pubDate": "2026-11-09 21:42:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4631601.jpg\">Новий підрозділ залучатимуть до військових операцій, а на розвиток гібридного флоту протягом чотирьох років спрямують 1,5 млрд фунтів стерлінгів.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Así es el nuevo Cupra Raval de Saúl Craviotto, un eléctrico que quiere salir de la ciudad",
+    "link": "https://www.elperiodico.com/es/motor/20261109/nuevo-cupra-raval-saul-craviotto-136149543",
+    "pubDate": "2026-11-09 21:30:22",
+    "category": "",
+    "description": "<h2>El campeón olímpico estrena un modelo 100% eléctrico que combina diseño deportivo, espacio y practicidad para el día a día</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Vito Quiles se sube a una farola en Murcia y carga contra el Gobierno y RTVE ante cientos de manifestantes: \"Vamos a entrar con un lanzallamas a Televisión Española\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261109/vito-quiles-sube-farola-murcia-136266157",
+    "pubDate": "2026-11-09 21:30:04",
+    "category": "",
+    "description": "<h2>El agitador pronuncia un discurso con un megáfono en la plaza de la Merced, donde sus seguidores y los colectivos antifascistas intercambian consignas separados por un amplio cordón policial</h2>",
+    "topic": "блогери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Удари по енергетиці: ООН вимагає від РФ зупинитися",
+    "link": "https://ua.korrespondent.net/ukraine/4927384-udary-po-enerhetytsi-oon-vymahaie-vid-rf-zupynytysia",
+    "pubDate": "2026-11-09 21:25:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4631600.jpg\">В ООН вимагають від Москви негайно припинити удари, які напередодні зими загрожують життю мільйонів українців.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Feijóo promete un mando único del Gobierno ante catástrofes como la dana",
+    "link": "https://www.elperiodico.com/es/politica/20261109/feijoo-promete-mando-unico-gobierno-136265913",
+    "pubDate": "2026-11-09 21:20:37",
+    "category": "",
+    "description": "<h2>El líder del PP plantea crear un mecanismo nacional de respuesta que permita movilizar desde el primer momento todos los recursos del Estado</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "De ídolo de masas a reconocer su ‘affair’ con una presunta espía china: auge y caída del CEO de Nvidia",
     "link": "https://www.elperiodico.com/es/internacional/20261109/escandalo-nvidia-idolo-masas-reconocer-affair-presunta-espia-china-136265667",
     "pubDate": "2026-11-09 21:11:54",
@@ -79,6 +232,15 @@
     "description": "<h2>El actor explica que quiere que el inicio de vida de sus dos hijos de 8 años sean similares a los suyos</h2><h2><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260902/george-clooney-estados-unidos-pais-133876546\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260902/george-clooney-galan-triunfo-cumplidos-133881816\" >George Clooney, sobre Estados Unidos: es un país \"gobernado por la gente menos cualificada\"</a></a></h2><h2><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260902/george-clooney-galan-triunfo-cumplidos-133881816\">George Clooney, el galán que triunfó cumplidos los 40 desde una sala de emergencias</a></h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Inda, Koldo García, Carmen Pano y Leticia de la Hoz, en sus laberintos",
+    "link": "https://www.elperiodico.com/es/politica/20261109/ernesto-ekaizer-inda-koldo-garcia-carmen-pano-okdiario-136264927",
+    "pubDate": "2026-11-09 20:58:41",
+    "category": "",
+    "description": "<h2>El juez Pedraz se debate ante la pertinencia de deducir testimonio a partir de los datos de las facturas por importe de 242.000 euros, pagadas por la editora de OKdiario a la abogada Leticia de la Hoz, y los argumentos de Eduardo Inda sobre el verdadero objeto del pago, para que la Sala Penal del Tribunal Supremo investigue una posible elusión de las responsabilidades civiles de Koldo García</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 90
   },
   {
     "title": "Joan Todó revive la efervescencia de la lucha contra el trasvase en las Terres de l'Ebre con 'L'instant de perill'",
