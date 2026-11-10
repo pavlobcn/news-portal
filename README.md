@@ -1,8 +1,14 @@
-# News for 2026-11-10 11:29
+# News for 2026-11-10 14:01
 
 Previous day: [2026-11-09](./data/2026-11-09.md)
 
 ## ua.korrespondent.net
+13:58 [47 мільйонів тонн зерна: які області лідирують у жнивах](https://ua.korrespondent.net/business/economics/4927561-47-milioniv-tonn-zerna-yaki-oblasti-lidyruuit-u-zhnyvakh)<br>
+13:55 [Помер український дизайнер і співзасновник Ukrainian Fashion Week](https://ua.korrespondent.net/lifestyle/fashion/4927558-pomer-ukrainskyi-dyzainer-i-spivzasnovnyk-Ukrainian-Fashion-Week)<br>
+13:32 [На нас чекає свій Чорнобиль: чому творець ШІ б’є на сполох](https://ua.korrespondent.net/tech/science/4927308-na-nas-chekaie-svii-chornobyl-chomu-tvorets-shi-bie-na-spolokh)<br>
+12:51 [РФ готує транспортний локдаун Запоріжжя і похід на Дніпро - командир ДШВ](https://ua.korrespondent.net/ukraine/4927541-rf-hotuie-transportnyi-lokdaun-zaporizhzhia-i-pokhid-na-dnipro-komandyr-dshv)<br>
+12:37 [Дружина Буданова розкрила секрет щасливого шлюбу](https://ua.korrespondent.net/lifestyle/4927522-druzhyna-budanova-rozkryla-sekret-schaslyvoho-shluibu)<br>
+11:36 [Долар і євро дорожчають на готівковому ринку](https://ua.korrespondent.net/business/financial/4927513-dolar-i-yevro-dorozhchauit-na-hotivkovomu-rynku)<br>
 11:18 [Операція Карфаген: ОГП перевірить дії працівників прокуратури](https://ua.korrespondent.net/ukraine/4927507-operatsiia-karfahen-ohp-pereviryt-dii-pratsivnykiv-prokuratury)<br>
 11:13 [Відомо, скільки мирних жителів залишається у Херсоні](https://ua.korrespondent.net/ukraine/4927503-vidomo-skilky-myrnykh-zhyteliv-zalyshaietsia-u-khersoni)<br>
 11:04 [Атаковано енергетику у восьми областях - Укренерго](https://ua.korrespondent.net/ukraine/4927499-atakovano-enerhetyku-u-vosmy-oblastiakh-ukrenerho)<br>
@@ -28,11 +34,20 @@ Previous day: [2026-11-09](./data/2026-11-09.md)
 00:59 [У Полтаві після удару Росії фіксують перебої зі світлом і водою](https://ua.korrespondent.net/ukraine/4927405-u-poltavi-pislia-udaru-rosii-fiksuuit-pereboi-zi-svitlom-i-vodoui)<br>
 
 ## as.com
+12:13 [Cómo queda la situación del Barça: sin Punter, las dudas en el puesto de base y el OAKA](https://as.com/baloncesto/euroliga/como-queda-la-situacion-del-barca-sin-punter-las-dudas-en-el-puesto-de-base-y-el-oaka-f202611-n/)<br>
 05:23 [Unas Ventanas sin mucha historia](https://as.com/baloncesto/mas_baloncesto/unas-ventanas-sin-mucha-historia-f202611-n/)<br>
 05:22 [“Iyana es magia”](https://as.com/baloncesto/mas_baloncesto/iyana-es-magia-f202611-r/)<br>
 05:20 [La fantasía se llama Iyana](https://as.com/opinion/la-fantasia-se-llama-iyana-f202611-n/)<br>
 
 ## www.elperiodico.com
+13:59 [Rodolfo Sancho, imperturbable ante las consecuencias a las que se enfrenta su hijo Daniel por los audios filtrados con Silvia Bronchalo](https://www.elperiodico.com/es/gente/20261110/rodolfo-sancho-imperturbable-consecuencias-enfrenta-hijo-daniel-audios-silvia-bronchalo-madre-dv-136287623)<br>
+13:57 [Los inmensos siluros capturados en Lleida serán triturados y servirán para alimentar a aves protegidas](https://www.elperiodico.com/es/sociedad/20261110/siluros-capturados-lleida-sacrificados-alimento-aves-136282195)<br>
+13:47 [Habla uno de los científicos que inspiró a Open AI para resolver el 'problema del milenio': "La solución a la falta de matemáticos es pagar más a los profesores"](https://www.elperiodico.com/es/sociedad/20261110/habla-cientificos-inspiro-open-ai-136274359)<br>
+13:29 [Jo Nesbø: "Siempre hemos sentido fascinación por la violencia, aunque en la vida real sea banal, fea y desagradable"](https://www.elperiodico.com/es/ocio-y-cultura/20261110/jo-nesbo-sin-piedad-violencia-harry-hole-136283807)<br>
+13:06 ["Necesito aparcar más cerca de casa": la lucha de un vecino de Figueres para tener la tarjeta de aparcamiento después de una amputación](https://www.elperiodico.com/es/sociedad/20261110/necesito-aparcar-cerca-casa-lucha-tarjeta-aparcamiento-amputacion-discapacidad-dv-136283513)<br>
+12:49 [El aumento de los alquileres obliga a la histórica Librería Rodés a echar el cierre en Barcelona](https://www.elperiodico.com/es/barcelona/20261110/cierra-libreria-centenaria-barcelona-encarecimiento-rodes-136274953)<br>
+12:44 [Ana Botín será la última de su familia al frente del Santander: “No habrá otro Botín liderando el banco”](https://www.elperiodico.com/es/economia/20261110/ana-botin-sera-ultima-familia-banco-santander-136282628)<br>
+12:15 [Los Mossos desalojan a los trabajadores del metal en el segundo día de cortes en el Port de Tarragona](https://www.elperiodico.com/es/tarragona/20261110/mossos-desalojan-trabajadores-metal-segundo-dia-cortes-port-tarragona-136285401)<br>
 11:28 [David Jiménez, abogado, sobre dejar a tu hijo un piso para vivir sin pagar alquiler: "Hacienda presupone que nadie va a dejar nada gratis"](https://www.elperiodico.com/es/economia/20261110/piso-gratis-hijo-hacienda-impuestos-abogado-david-jimenez-dv-136274711)<br>
 11:21 [El Govern exigirá a Renfe que "se abran diligencias y expedientes" por el incumplimiento de los servicios mínimos](https://www.elperiodico.com/es/sociedad/20261110/renfe-huelga-de-maquinistas-rodalies-servicios-minimos-incumplimientos-silvia-paneque-diligencias-y-expedientes-136277368)<br>
 11:18 [Una microfábrica convierte archivos digitales en ADN sintético que podría conservarlos durante miles de años](https://www.elperiodico.com/es/tendencias21/20261110/microfabrica-convierte-archivos-digitales-adn-136278356)<br>
@@ -48,6 +63,7 @@ Previous day: [2026-11-09](./data/2026-11-09.md)
 08:50 [Ambiente en la estación de Sants en el primer día de la huelga de maquinistas](https://www.elperiodico.com/es/videos/sociedad/ambiente-estacion-sants-primer-dia-huelga-maquinistas-video/136272461.shtml)<br>
 07:10 [Toño, ferretero, sobre el frío en casa: '"Da igual lo buena que sea tu ventana, que por el cajón de la persiana os va a seguir entrando fresco"](https://www.elperiodico.com/es/economia/20261110/frio-casa-aislamiento-cajon-persiana-ferretero-tono-escrig-dv-136077961)<br>
 07:00 [El chat GPT y la soledad no deseada](https://www.elperiodico.com/es/tele/20261110/chat-gpt-soledad-deseada-136262102)<br>
+07:00 ["Goodbye, mister Trump"](https://www.elperiodico.com/es/entre-todos/participacion/goodbye-donald-trump-eeuu-elecciones-midterms-carta-lector-marisa-rando-136203408)<br>
 06:01 [Entrevista a María, trabajadora de Popeyes que hará huelga el 11-N](https://www.elperiodico.com/es/videos/economia/entrevista-maria-trabajadora-popeyes-huelga-11n/136048140.shtml)<br>
 06:01 [Entrevista a Gerard, trabajador de la AT que hará huelga el 11-N](https://www.elperiodico.com/es/videos/economia/entrevista-gerard-trabajador-at-huelga-11n/136044745.shtml)<br>
 06:01 [Testimonio de Quim, profesor de Infantil que hará huelga el 11-N](https://www.elperiodico.com/es/videos/economia/testimonio-quim-profesor-infantil-hara-huelga-video/136089714.shtml)<br>
