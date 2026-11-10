@@ -1,8 +1,10 @@
-# News for 2026-11-10 21:27
+# News for 2026-11-10 23:10
 
 Previous day: [2026-11-09](./data/2026-11-09.md)
 
 ## ua.korrespondent.net
+21:59 [Марс і Юпітер утворять яскраву пару: як побачити зближення планет](https://ua.korrespondent.net/tech/space/4927685-mars-i-yupiter-utvoriat-yaskravu-paru-yak-pobachyty-zblyzhennia-planet)<br>
+21:42 [Тисячі кібератак на рік: як захищають українські цифрові системи](https://ua.korrespondent.net/tech/technews/4927683-tysiachi-kiberatak-na-rik-yak-zakhyschauit-ukrainski-tsyfrovi-systemy)<br>
 21:07 [Масована атака дронів: скільки збила ППО](https://ua.korrespondent.net/ukraine/4927676-masovana-ataka-droniv-skilky-zbyla-ppo)<br>
 20:12 [Росіяни атакували південь Одещини: є загиблий](https://ua.korrespondent.net/ukraine/4927666-rosiiany-atakuvaly-pivden-odeschyny-ye-zahyblyi)<br>
 19:38 [Путіну розробляють "еліксир довголіття": до дослідження залучили 7000 мавп](https://ua.korrespondent.net/world/russia/4927661-putinu-rozrobliauit-eliksyr-dovholittia-do-doslidzhennia-zaluchyly-7000-mavp)<br>
@@ -47,6 +49,7 @@ Previous day: [2026-11-09](./data/2026-11-09.md)
 00:59 [У Полтаві після удару Росії фіксують перебої зі світлом і водою](https://ua.korrespondent.net/ukraine/4927405-u-poltavi-pislia-udaru-rosii-fiksuuit-pereboi-zi-svitlom-i-vodoui)<br>
 
 ## as.com
+22:36 [Miribilla es la bomba](https://as.com/baloncesto/miribilla-es-la-bomba-f202611-n/)<br>
 21:12 [España - República Checa, en directo: clasificación para el Eurobasket femenino 2027](https://as.com/baloncesto/mas_baloncesto/espana-republica-checa-en-directo-clasificacion-para-el-eurobasket-femenino-2027-f202611-d/)<br>
 17:19 [“Tenían ladrillos y nos amenazaban”, Jabari Parker desvela el caos tras la marcha de Obradovic](https://as.com/baloncesto/mas_baloncesto/tenian-ladrillos-y-nos-amenazaban-jabari-parker-desvela-el-caos-tras-la-marcha-de-obradovic-f202611-n/)<br>
 14:30 [¿Un equipo para la Euroliga y otro para la liga doméstica?](https://as.com/baloncesto/euroliga/un-equipo-para-la-euroliga-y-otro-para-la-liga-domestica-f202611-n/)<br>
@@ -56,6 +59,7 @@ Previous day: [2026-11-09](./data/2026-11-09.md)
 05:20 [La fantasía se llama Iyana](https://as.com/opinion/la-fantasia-se-llama-iyana-f202611-n/)<br>
 
 ## www.elperiodico.com
+22:30 [CaixaBank reivindica la confianza como motor de la relación entre España y Reino Unido](https://www.elperiodico.com/es/economia/20261110/caixabank-reivindica-confianza-motor-relacion-136307929)<br>
 21:15 [Maxi Iglesias (35 años), sobre la vivienda: "Al principio vivía en un pisito de 50 metros cuadrados, con tres perros y sin habitación propia"](https://www.elperiodico.com/es/gente/20261110/maxi-iglesias-actor-vivienda-salario-alquiler-adolescencia-dv-135801315)<br>
 21:00 [La cumbre de Antalya impulsa una iniciativa para instalar 300 millones de paneles solares en tejados para 2030](https://www.elperiodico.com/es/sociedad/20261110/cumbre-clima-antalya-paneles-solares-adaptacion-iniciativas-dia-2-136301078)<br>
 20:45 [Víctimas de Angrois ven "más de lo mismo" tras su reunión con Cuerpo y denuncian la falta de "compromisos firmes"](https://www.elperiodico.com/es/politica/20261110/victimas-angrois-ven-reunion-cuerpo-136307014)<br>
