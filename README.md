@@ -1,8 +1,9 @@
-# News for 2026-11-10 23:10
+# News for 2026-11-11 00:13
 
 Previous day: [2026-11-09](./data/2026-11-09.md)
 
 ## ua.korrespondent.net
+23:38 [Дрони атакували Кривий Ріг: місто частково знеструмлене](https://ua.korrespondent.net/ukraine/4927696-drony-atakuvaly-kryvyi-rih-misto-chastkovo-znestrumlene)<br>
 21:59 [Марс і Юпітер утворять яскраву пару: як побачити зближення планет](https://ua.korrespondent.net/tech/space/4927685-mars-i-yupiter-utvoriat-yaskravu-paru-yak-pobachyty-zblyzhennia-planet)<br>
 21:42 [Тисячі кібератак на рік: як захищають українські цифрові системи](https://ua.korrespondent.net/tech/technews/4927683-tysiachi-kiberatak-na-rik-yak-zakhyschauit-ukrainski-tsyfrovi-systemy)<br>
 21:07 [Масована атака дронів: скільки збила ППО](https://ua.korrespondent.net/ukraine/4927676-masovana-ataka-droniv-skilky-zbyla-ppo)<br>
@@ -49,6 +50,7 @@ Previous day: [2026-11-09](./data/2026-11-09.md)
 00:59 [У Полтаві після удару Росії фіксують перебої зі світлом і водою](https://ua.korrespondent.net/ukraine/4927405-u-poltavi-pislia-udaru-rosii-fiksuuit-pereboi-zi-svitlom-i-vodoui)<br>
 
 ## as.com
+23:01 [Iyana Martín, reina de Asturias](https://as.com/baloncesto/mas_baloncesto/iyana-martin-reina-de-asturias-f202611-n/)<br>
 22:36 [Miribilla es la bomba](https://as.com/baloncesto/miribilla-es-la-bomba-f202611-n/)<br>
 21:12 [España - República Checa, en directo: clasificación para el Eurobasket femenino 2027](https://as.com/baloncesto/mas_baloncesto/espana-republica-checa-en-directo-clasificacion-para-el-eurobasket-femenino-2027-f202611-d/)<br>
 17:19 [“Tenían ladrillos y nos amenazaban”, Jabari Parker desvela el caos tras la marcha de Obradovic](https://as.com/baloncesto/mas_baloncesto/tenian-ladrillos-y-nos-amenazaban-jabari-parker-desvela-el-caos-tras-la-marcha-de-obradovic-f202611-n/)<br>
