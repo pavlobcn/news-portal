@@ -1,5 +1,104 @@
 [
   {
+    "title": "Inestabilidad en Oriente Medio | Efectos de la guerra en Irán",
+    "link": "https://www.elperiodico.com/es/internacional/20261110/elecciones-israel-guerra-iran-ultima-hora-directo-130265713",
+    "pubDate": "2026-11-10 05:29:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20260410/guerra-ucrania-rusia-ultima-hora-zelenski-trump-putin-directo-126605559\" >DIRECTO | Guerra Ucrania - Rusia, en directo: última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Guerra Ucrania - Rusia, última hora en directo",
+    "link": "https://www.elperiodico.com/es/internacional/20261110/guerra-ucrania-rusia-ultima-hora-126605559",
+    "pubDate": "2026-11-10 05:25:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Directo GUERRA DE IRÁN | Última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Unas Ventanas sin mucha historia",
+    "link": "https://as.com/baloncesto/mas_baloncesto/unas-ventanas-sin-mucha-historia-f202611-n/",
+    "pubDate": "2026-11-10 05:23:07",
+    "category": "Baloncesto",
+    "description": "La Selección se enfrenta a la República Checa en Oviedo (20:30, Tdp), con un balance de 22-0. Sus triunfos han sido por una media de 30,5 puntos.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "“Iyana es magia”",
+    "link": "https://as.com/baloncesto/mas_baloncesto/iyana-es-magia-f202611-r/",
+    "pubDate": "2026-11-10 05:22:02",
+    "category": "Baloncesto femenino",
+    "description": "Su amiga Paula, Silvia Domínguez, Elisa Aguilar, José Manuel Calderón, Cristina Cantero y Cristina Lagarma analizan para AS al nuevo fenómeno del baloncesto español, que hoy juega en casa, en Oviedo, con la Selección ante la República Checa (20:30, Tdp).",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La fantasía se llama Iyana",
+    "link": "https://as.com/opinion/la-fantasia-se-llama-iyana-f202611-n/",
+    "pubDate": "2026-11-10 05:20:56",
+    "category": "Baloncesto",
+    "description": "La Selección femenina regresa tras el bronce mundial de Berlín. Y lo hace en Oviedo, la casa del nuevo fenómeno del baloncesto español.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Росії зафіксували рекордне число потерпілих в НП",
+    "link": "https://ua.korrespondent.net/world/russia/4927423-u-rosii-zafiksuvaly-rekordne-chyslo-poterpilykh-v-np",
+    "pubDate": "2026-11-10 04:57:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4632038.jpg\">Кількість постраждалих в надзвичайних ситуаціях за три квартали цього року склала 1,14 млн осіб, заявили в МНС Росії.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Como si estuviera escrito esta mañana",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20261110/estuviera-escrito-manana-136030217",
+    "pubDate": "2026-11-10 04:50:53",
+    "category": "",
+    "description": "<h2>Con qué delicia viaja Antonio Soler a las montañas literarias de cada uno de los habitantes de su último libro </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "'Falso nocturno', de Mariana Sández: la vida está en otra parte",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20261110/mariana-sandez-critica-libro-falso-nocturno-136023033",
+    "pubDate": "2026-11-10 04:50:53",
+    "category": "",
+    "description": "<h2>La escritora argentina reflexiona sobre los autoexilios que nos imponemos y las falsas identidades con las que nos desdibujamos en su nueva novela</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "BBC: У США оцінили просування перемов України й РФ",
+    "link": "https://ua.korrespondent.net/world/worldabus/4927421-BBC-u-ssha-otsinyly-prosuvannia-peremov-ukrainy-y-rf",
+    "pubDate": "2026-11-10 04:46:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4632019.jpg\">Сторони не пішли на поступки щодо своїх вимог, але це лиш офіційна позиція, припускають американські посадовці.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "США попросять дозволу Росії на гарантії безпеки для України - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/worldabus/4927419-ssha-poprosiat-dozvolu-rosii-na-harantii-bezpeky-dlia-ukrainy-zmi",
+    "pubDate": "2026-11-10 04:29:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4632000.jpg\">Американські чиновники вперше в історії офіційно звернуться до РФ з проханням розглянути таку пропозицію.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Росіян почали депортувати з індійського Гоа - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4927417-rosiian-pochaly-deportuvaty-z-indiiskoho-hoa-zmi",
+    "pubDate": "2026-11-10 03:50:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4631981.jpg\">Росіяни часто активно депортуються і з інших країн, зокрема, в Тайланді  з початку року вислали щонайменше 70 росіян.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Fireworks AI, який підтримує Nvidia, зламали вдруге за кілька тижнів",
     "link": "https://ua.korrespondent.net/business/companies/4927413-Fireworks-AI-yakyi-pidtrymuie-Nvidia-zlamaly-vdruhe-za-kilka-tyzhniv",
     "pubDate": "2026-11-10 02:59:00",
