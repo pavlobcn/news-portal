@@ -1,8 +1,13 @@
-# News for 2026-11-10 14:01
+# News for 2026-11-10 17:56
 
 Previous day: [2026-11-09](./data/2026-11-09.md)
 
 ## ua.korrespondent.net
+17:44 [На Чернігівщині автомобіль підірвався на вибухівці: є жертва](https://ua.korrespondent.net/ukraine/4927637-na-chernihivschyni-avtomobil-pidirvavsia-na-vybukhivtsi-ye-zhertva)<br>
+17:18 [Вчені випробували електричний гребінець, що стимулює ріст волосся](https://ua.korrespondent.net/tech/4927622-vcheni-vyprobuvaly-elektrychnyi-hrebinets-scho-stymuluiie-rist-volossia)<br>
+17:03 [Удари по НПЗ: скільки Росія втратила потужностей нафтопереробки](https://ua.korrespondent.net/world/russia/4927629-udary-po-npz-skilky-rosiia-vtratyla-potuzhnostei-naftopererobky)<br>
+17:02 [Свята 11 листопада 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4927601-sviata-11-lystopada-2026-roku-istoriia-tradytsii)<br>
+16:30 [В Україні стався землетрус](https://ua.korrespondent.net/ukraine/4927618-v-ukraini-stavsia-zemletrus)<br>
 13:58 [47 мільйонів тонн зерна: які області лідирують у жнивах](https://ua.korrespondent.net/business/economics/4927561-47-milioniv-tonn-zerna-yaki-oblasti-lidyruuit-u-zhnyvakh)<br>
 13:55 [Помер український дизайнер і співзасновник Ukrainian Fashion Week](https://ua.korrespondent.net/lifestyle/fashion/4927558-pomer-ukrainskyi-dyzainer-i-spivzasnovnyk-Ukrainian-Fashion-Week)<br>
 13:32 [На нас чекає свій Чорнобиль: чому творець ШІ б’є на сполох](https://ua.korrespondent.net/tech/science/4927308-na-nas-chekaie-svii-chornobyl-chomu-tvorets-shi-bie-na-spolokh)<br>
@@ -34,12 +39,23 @@ Previous day: [2026-11-09](./data/2026-11-09.md)
 00:59 [У Полтаві після удару Росії фіксують перебої зі світлом і водою](https://ua.korrespondent.net/ukraine/4927405-u-poltavi-pislia-udaru-rosii-fiksuuit-pereboi-zi-svitlom-i-vodoui)<br>
 
 ## as.com
+17:19 [“Tenían ladrillos y nos amenazaban”, Jabari Parker desvela el caos tras la marcha de Obradovic](https://as.com/baloncesto/mas_baloncesto/tenian-ladrillos-y-nos-amenazaban-jabari-parker-desvela-el-caos-tras-la-marcha-de-obradovic-f202611-n/)<br>
+14:30 [¿Un equipo para la Euroliga y otro para la liga doméstica?](https://as.com/baloncesto/euroliga/un-equipo-para-la-euroliga-y-otro-para-la-liga-domestica-f202611-n/)<br>
 12:13 [Cómo queda la situación del Barça: sin Punter, las dudas en el puesto de base y el OAKA](https://as.com/baloncesto/euroliga/como-queda-la-situacion-del-barca-sin-punter-las-dudas-en-el-puesto-de-base-y-el-oaka-f202611-n/)<br>
 05:23 [Unas Ventanas sin mucha historia](https://as.com/baloncesto/mas_baloncesto/unas-ventanas-sin-mucha-historia-f202611-n/)<br>
 05:22 [“Iyana es magia”](https://as.com/baloncesto/mas_baloncesto/iyana-es-magia-f202611-r/)<br>
 05:20 [La fantasía se llama Iyana](https://as.com/opinion/la-fantasia-se-llama-iyana-f202611-n/)<br>
 
 ## www.elperiodico.com
+17:50 [Mataró inicia la transformación del Camí Fondo con la renovación de las redes de agua y alcantarillado](https://www.elperiodico.com/es/barcelona/20261110/mataro-inicia-transformacion-cami-fondo-renovacion-redes-de-agua-alcantarillado-136298664)<br>
+17:48 [ACS adquiere Grupo Voltan para reforzar su capacidad energética e industrial](https://www.elperiodico.com/es/economia/20261110/acs-adquiere-grupo-voltan-reforzar-136299818)<br>
+17:48 [No habrá teatro, pero sí cine: cómo afectará la huelga general a la cultura](https://www.elperiodico.com/es/ocio-y-cultura/20261110/habra-teatro-cine-afectara-huelga-136299573)<br>
+17:46 [Tiempo en Catalunya mañana miércoles: suben las temperaturas y el Meteocat activa el aviso por lluvia en Lleida](https://www.elperiodico.com/es/tiempo/20261110/tiempo-cataluna-hoy-miercoles-11-de-noviembre-huelga-lluvia-temperaturas-dv-loc-136295563)<br>
+15:36 [Estados Unidos vuelve a ser el mercado con más potencial de exportación para Catalunya en 2027, incluso con aranceles](https://www.elperiodico.com/es/economia/20261110/estados-unidos-sigue-mercado-potencial-exportador-catalunya-aranceles-136286918)<br>
+15:10 [El GTA VI ya se puede descargar en PS5 y XBOX Series X/S, pero no será jugable hasta el día 19](https://www.elperiodico.com/es/ocio-y-cultura/20261110/gta-vi-descargar-ps5-xbox-136276018)<br>
+14:33 [Adif encargó un centro "de respaldo" para el control de Atocha que dio la orden errónea en el accidente de AVE](https://www.elperiodico.com/es/economia/20261110/adif-indra-centro-respaldo-atocha-136289862)<br>
+14:32 [Los cuernos que han desatado una crisis nacional: cronología del escándalo sexual y político que azota al director de Nvidia](https://www.elperiodico.com/es/internacional/20261110/cuernos-crisis-eeuu-jensen-huang-espia-nvidia-china-espionaje-ia-trump-136289704)<br>
+14:15 [Iberdrola duplicará su inversión en redes eléctricas en España hasta los 6.000 millones entre 2027 y 2030](https://www.elperiodico.com/es/economia/20261110/iberdrola-duplicara-inversion-redes-electricas-espana-6000-millones-entre-2027-2030-136288710)<br>
 13:59 [Rodolfo Sancho, imperturbable ante las consecuencias a las que se enfrenta su hijo Daniel por los audios filtrados con Silvia Bronchalo](https://www.elperiodico.com/es/gente/20261110/rodolfo-sancho-imperturbable-consecuencias-enfrenta-hijo-daniel-audios-silvia-bronchalo-madre-dv-136287623)<br>
 13:57 [Los inmensos siluros capturados en Lleida serán triturados y servirán para alimentar a aves protegidas](https://www.elperiodico.com/es/sociedad/20261110/siluros-capturados-lleida-sacrificados-alimento-aves-136282195)<br>
 13:47 [Habla uno de los científicos que inspiró a Open AI para resolver el 'problema del milenio': "La solución a la falta de matemáticos es pagar más a los profesores"](https://www.elperiodico.com/es/sociedad/20261110/habla-cientificos-inspiro-open-ai-136274359)<br>
@@ -64,6 +80,7 @@ Previous day: [2026-11-09](./data/2026-11-09.md)
 07:10 [Toño, ferretero, sobre el frío en casa: '"Da igual lo buena que sea tu ventana, que por el cajón de la persiana os va a seguir entrando fresco"](https://www.elperiodico.com/es/economia/20261110/frio-casa-aislamiento-cajon-persiana-ferretero-tono-escrig-dv-136077961)<br>
 07:00 [El chat GPT y la soledad no deseada](https://www.elperiodico.com/es/tele/20261110/chat-gpt-soledad-deseada-136262102)<br>
 07:00 ["Goodbye, mister Trump"](https://www.elperiodico.com/es/entre-todos/participacion/goodbye-donald-trump-eeuu-elecciones-midterms-carta-lector-marisa-rando-136203408)<br>
+06:15 ["La inseguridad y el miedo de coger el tren cada día"](https://www.elperiodico.com/es/entre-todos/participacion/inseguridad-miedo-tren-huelga-maquinistas-rodalies-carta-lector-isona-matallana-136237763)<br>
 06:01 [Entrevista a María, trabajadora de Popeyes que hará huelga el 11-N](https://www.elperiodico.com/es/videos/economia/entrevista-maria-trabajadora-popeyes-huelga-11n/136048140.shtml)<br>
 06:01 [Entrevista a Gerard, trabajador de la AT que hará huelga el 11-N](https://www.elperiodico.com/es/videos/economia/entrevista-gerard-trabajador-at-huelga-11n/136044745.shtml)<br>
 06:01 [Testimonio de Quim, profesor de Infantil que hará huelga el 11-N](https://www.elperiodico.com/es/videos/economia/testimonio-quim-profesor-infantil-hara-huelga-video/136089714.shtml)<br>
