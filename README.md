@@ -1,8 +1,18 @@
-# News for 2026-11-10 09:56
+# News for 2026-11-10 11:29
 
 Previous day: [2026-11-09](./data/2026-11-09.md)
 
 ## ua.korrespondent.net
+11:18 [Операція Карфаген: ОГП перевірить дії працівників прокуратури](https://ua.korrespondent.net/ukraine/4927507-operatsiia-karfahen-ohp-pereviryt-dii-pratsivnykiv-prokuratury)<br>
+11:13 [Відомо, скільки мирних жителів залишається у Херсоні](https://ua.korrespondent.net/ukraine/4927503-vidomo-skilky-myrnykh-zhyteliv-zalyshaietsia-u-khersoni)<br>
+11:04 [Атаковано енергетику у восьми областях - Укренерго](https://ua.korrespondent.net/ukraine/4927499-atakovano-enerhetyku-u-vosmy-oblastiakh-ukrenerho)<br>
+10:57 [Вугільний колапс і екологічна загроза: до чого РФ довела Луганщину](https://ua.korrespondent.net/ukraine/4927497-vuhilnyi-kolaps-i-ekolohichna-zahroza-do-choho-rf-dovela-luhanschynu)<br>
+10:55 [У Букерівській премії з’явився найстарший переможець](https://ua.korrespondent.net/showbiz/culture/4927483-u-bukerivskii-premii-ziavyvsia-naistarshyi-peremozhets)<br>
+10:44 [В Ужгороді затримали агента ФСБ, який "заліг на дно"](https://ua.korrespondent.net/ukraine/4927494-v-uzhhorodi-zatrymaly-ahenta-fsb-yakyi-zalih-na-dno)<br>
+10:28 [У Техасі виявили гарматні ядра легендарної битви 1836 року](https://ua.korrespondent.net/tech/science/4927353-u-tekhasi-vyiavyly-harmatni-yadra-lehendarnoi-bytvy-1836-roku)<br>
+10:26 [НБА вибухнула рекордами й розгромами: огляд матчів](https://ua.korrespondent.net/sport/basketball/4927486-nba-vybukhnula-rekordamy-y-rozghromamy-ohliad-matchiv)<br>
+10:17 [На Вінниччині двоє загиблих через атаку "шахедів"](https://ua.korrespondent.net/ukraine/4927484-na-vinnychchyni-dvoie-zahyblykh-cherez-ataku-shakhediv)<br>
+10:12 [На важливій залізничній гілці РФ обвалився міст](https://ua.korrespondent.net/world/russia/4927481-na-vazhlyvii-zaliznychnii-hiltsi-rf-obvalyvsia-mist)<br>
 09:45 [Повернення українців: міжнародна група відновила роботу](https://ua.korrespondent.net/ukraine/4927472-povernennia-ukraintsiv-mizhnarodna-hrupa-vidnovyla-robotu)<br>
 09:22 [РФ атакувала Краматорськ і Слов’янськ: є загиблі](https://ua.korrespondent.net/ukraine/4927464-rf-atakuvala-kramatorsk-i-sloviansk-ye-zahybli)<br>
 09:01 [У Сумах безпілотник влучив у потяг на залізничній станції](https://ua.korrespondent.net/ukraine/4927459-u-sumakh-bezpilotnyk-vluchyv-u-potiah-na-zaliznychnii-stantsii)<br>
@@ -23,12 +33,24 @@ Previous day: [2026-11-09](./data/2026-11-09.md)
 05:20 [La fantasía se llama Iyana](https://as.com/opinion/la-fantasia-se-llama-iyana-f202611-n/)<br>
 
 ## www.elperiodico.com
+11:28 [David Jiménez, abogado, sobre dejar a tu hijo un piso para vivir sin pagar alquiler: "Hacienda presupone que nadie va a dejar nada gratis"](https://www.elperiodico.com/es/economia/20261110/piso-gratis-hijo-hacienda-impuestos-abogado-david-jimenez-dv-136274711)<br>
+11:21 [El Govern exigirá a Renfe que "se abran diligencias y expedientes" por el incumplimiento de los servicios mínimos](https://www.elperiodico.com/es/sociedad/20261110/renfe-huelga-de-maquinistas-rodalies-servicios-minimos-incumplimientos-silvia-paneque-diligencias-y-expedientes-136277368)<br>
+11:18 [Una microfábrica convierte archivos digitales en ADN sintético que podría conservarlos durante miles de años](https://www.elperiodico.com/es/tendencias21/20261110/microfabrica-convierte-archivos-digitales-adn-136278356)<br>
+11:06 [Santi Aldama sigue sumando en la ajustada victoria de los Mavericks ante los Pacers](https://www.elperiodico.com/es/deportes/20261110/santi-aldama-sigue-sumando-ajustada-136277622)<br>
+11:00 [De un piso en el centro de Madrid a un castillo medieval: el patrimonio inmobiliario de Santiago Segura](https://www.elperiodico.com/es/gente/20261110/santiago-segura-propiedades-piso-madrid-castillo-segovia-dv-136066776)<br>
+10:27 [La huelga de Rodalies refuerza la apuesta por Ferrocarrils y el autobús: "Dejé de ir en tren hace mucho tiempo"](https://www.elperiodico.com/es/barcelona/20261110/huelga-rodalies-viajeros-alternativas-ferrocarrils-autobus-retrasos-barcelona-136272475)<br>
+10:23 [El Gobierno dará luz verde a un paquete de medidas para reforzar la seguridad ferroviaria](https://www.elperiodico.com/es/economia/20261110/gobierno-dara-luz-verde-paquete-136275778)<br>
+10:16 [La estación de Sants, en la primera jornada de la huelga de Rodalies](https://www.elperiodico.com/es/fotos/sociedad/estacion-sants-primera-jornada-huelga-rodalies-fotos-136275285)<br>
 09:54 [Mejor sin azúcar](https://www.elperiodico.com/es/opinion/20261110/mejor-azucar-136273904)<br>
 09:40 [China presenta los primeros robots humanoides que dan las noticias: la IA ya tiene cuerpo en el periodismo](https://www.elperiodico.com/es/tendencias21/20261110/china-presenta-primeros-robots-humanoides-136273923)<br>
 09:33 [Precio del petróleo hoy, 10 de noviembre por la Guerra en Irán: consulta el precio del barril de Brent](https://www.elperiodico.com/es/economia/20261110/precio-petroleo-hoy-10-noviembre-dv-136273742)<br>
 09:00 [Amparo Larrañaga (63 años), sobre la vivienda en España: "Aun con lo que gana, no puede alquilarse un piso. Ese es su gran problema"](https://www.elperiodico.com/es/gente/20261110/amparo-larranaga-63-anos-vivienda-espana-hijo-alquiler-piso-dv-et-135677543)<br>
+08:50 [Ambiente en la estación de Sants en el primer día de la huelga de maquinistas](https://www.elperiodico.com/es/videos/sociedad/ambiente-estacion-sants-primer-dia-huelga-maquinistas-video/136272461.shtml)<br>
 07:10 [Toño, ferretero, sobre el frío en casa: '"Da igual lo buena que sea tu ventana, que por el cajón de la persiana os va a seguir entrando fresco"](https://www.elperiodico.com/es/economia/20261110/frio-casa-aislamiento-cajon-persiana-ferretero-tono-escrig-dv-136077961)<br>
 07:00 [El chat GPT y la soledad no deseada](https://www.elperiodico.com/es/tele/20261110/chat-gpt-soledad-deseada-136262102)<br>
+06:01 [Entrevista a María, trabajadora de Popeyes que hará huelga el 11-N](https://www.elperiodico.com/es/videos/economia/entrevista-maria-trabajadora-popeyes-huelga-11n/136048140.shtml)<br>
+06:01 [Entrevista a Gerard, trabajador de la AT que hará huelga el 11-N](https://www.elperiodico.com/es/videos/economia/entrevista-gerard-trabajador-at-huelga-11n/136044745.shtml)<br>
+06:01 [Testimonio de Quim, profesor de Infantil que hará huelga el 11-N](https://www.elperiodico.com/es/videos/economia/testimonio-quim-profesor-infantil-hara-huelga-video/136089714.shtml)<br>
 06:01 [El turismo crece en Barcelona: 4,7% más de visitantes hasta septiembre, con estadounidenses y chinos al frente](https://www.elperiodico.com/es/barcelona/20261110/barcelona-recibe-millones-turistas-crucero-pasajeros-135933723)<br>
 06:00 [El auge del turismo en Barcelona frena en la recta final de 2026 y se mantendrá estable este otoño](https://www.elperiodico.com/es/barcelona/20261110/auge-turismo-barcelona-frena-mantendra-estable-recta-final-ano-2026-136239321)<br>
 04:50 [Como si estuviera escrito esta mañana](https://www.elperiodico.com/es/ocio-y-cultura/libros/20261110/estuviera-escrito-manana-136030217)<br>
