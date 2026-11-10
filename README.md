@@ -1,8 +1,13 @@
-# News for 2026-11-10 17:56
+# News for 2026-11-10 19:05
 
 Previous day: [2026-11-09](./data/2026-11-09.md)
 
 ## ua.korrespondent.net
+19:01 [Евакуації з Ізюма не буде: у Харківській ОВА пояснили чому](https://ua.korrespondent.net/ukraine/4927653-evakuatsii-z-izuima-ne-bude-u-kharkivskii-ova-poiasnyly-chomu)<br>
+18:50 [Росія планує удари по харчовій промисловості України - ЗМІ](https://ua.korrespondent.net/ukraine/4927647-rosiia-planuie-udary-po-kharchovii-promyslovosti-ukrainy-zmi)<br>
+18:47 [НБУ знайшов російський слід у структурі п'яти фінкомпаній](https://ua.korrespondent.net/business/financial/4927650-nbu-znaishov-rosiiskyi-slid-u-strukturi-piaty-finkompanii)<br>
+18:18 [Нацбанк визначив курси валют на середу](https://ua.korrespondent.net/business/financial/4927643-natsbank-vyznachyv-kursy-valuit-na-seredu)<br>
+18:07 [У ЄС скоротилася кількість українців із тимчасовим захистом](https://ua.korrespondent.net/world/4927641-u-yes-skorotylasia-kilkist-ukraintsiv-iz-tymchasovym-zakhystom)<br>
 17:44 [На Чернігівщині автомобіль підірвався на вибухівці: є жертва](https://ua.korrespondent.net/ukraine/4927637-na-chernihivschyni-avtomobil-pidirvavsia-na-vybukhivtsi-ye-zhertva)<br>
 17:18 [Вчені випробували електричний гребінець, що стимулює ріст волосся](https://ua.korrespondent.net/tech/4927622-vcheni-vyprobuvaly-elektrychnyi-hrebinets-scho-stymuluiie-rist-volossia)<br>
 17:03 [Удари по НПЗ: скільки Росія втратила потужностей нафтопереробки](https://ua.korrespondent.net/world/russia/4927629-udary-po-npz-skilky-rosiia-vtratyla-potuzhnostei-naftopererobky)<br>
@@ -47,6 +52,13 @@ Previous day: [2026-11-09](./data/2026-11-09.md)
 05:20 [La fantasía se llama Iyana](https://as.com/opinion/la-fantasia-se-llama-iyana-f202611-n/)<br>
 
 ## www.elperiodico.com
+19:00 [La vivienda empuja la primera gran huelga general en España en 14 años](https://www.elperiodico.com/es/economia/20261110/huelga-general-vivienda-empuja-primera-gran-protesta-14-anos-136303311)<br>
+18:47 [La alondra ricotí, al borde de la extinción en Catalunya: "Exigimos acciones para evitar el colapso de la especie"](https://www.elperiodico.com/es/sociedad/20261110/alondra-ricoti-borde-extincion-cataluna-136301201)<br>
+18:33 [La Generalitat inyecta 15 millones más en Openchip para que la tecnológica gane tiempo](https://www.elperiodico.com/es/economia/20261110/generalitat-inyecta-15-millones-euros-openchip-dar-tiempo-tecnologica-136300018)<br>
+18:23 [Raúl García hace historia en el cine de animación español con 'La violinista': "El estilo Disney ha sido clonado por la IA y hay que buscar soluciones nuevas"](https://www.elperiodico.com/es/ocio-y-cultura/20261110/raul-garcia-la-violinista-estreno-animacion-oscar-136300346)<br>
+18:05 [La editorial Eume se integra en el grupo Abacus Futur](https://www.elperiodico.com/es/ocio-y-cultura/20261110/editorial-eume-integra-grupo-abacus-136300060)<br>
+18:04 [Más de un millón de jóvenes catalanes viven este 11 de noviembre su primera gran huelga](https://www.elperiodico.com/es/economia/20261110/huelga-general-millon-jovenes-catalanes-viven-primer-paro-11-noviembre-136287725)<br>
+18:00 [Huelga del 11 de noviembre, en directo | Última hora de la movilización, sindicatos y horario de las manifestaciones](https://www.elperiodico.com/es/economia/20261110/huelga-11-noviembre-hoy-ultima-hora-directo-136296220)<br>
 17:50 [Mataró inicia la transformación del Camí Fondo con la renovación de las redes de agua y alcantarillado](https://www.elperiodico.com/es/barcelona/20261110/mataro-inicia-transformacion-cami-fondo-renovacion-redes-de-agua-alcantarillado-136298664)<br>
 17:48 [ACS adquiere Grupo Voltan para reforzar su capacidad energética e industrial](https://www.elperiodico.com/es/economia/20261110/acs-adquiere-grupo-voltan-reforzar-136299818)<br>
 17:48 [No habrá teatro, pero sí cine: cómo afectará la huelga general a la cultura](https://www.elperiodico.com/es/ocio-y-cultura/20261110/habra-teatro-cine-afectara-huelga-136299573)<br>
