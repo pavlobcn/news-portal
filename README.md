@@ -1,8 +1,23 @@
-# News for 2026-11-11 10:55
+# News for 2026-11-11 16:28
 
 Previous day: [2026-11-10](./data/2026-11-10.md)
 
 ## ua.korrespondent.net
+16:23 [Свята 12 листопада 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4927911-sviata-12-lystopada-2026-roku-istoriia-tradytsii)<br>
+16:07 [Горбунов відповів, чи зважаться вони з Осадчою на третю дитину](https://ua.korrespondent.net/lifestyle/4927895-horbunov-vidpoviv-chy-zvazhatsia-vony-z-osadchoui-na-tretui-dytynu)<br>
+15:25 [Поплавський оголосив про створення власної електронної бібліотеки](https://ua.korrespondent.net/lifestyle/4927897-poplavskyi-oholosyv-pro-stvorennia-vlasnoi-elektronnoi-biblioteky)<br>
+15:19 [Сили оборони уразили три пункти управління БпЛА](https://ua.korrespondent.net/ukraine/4927892-syly-oborony-urazyly-try-punkty-upravlinnia-bpla)<br>
+14:48 [Китай, Польща та Німеччина: з ким найбільше торгує Україна](https://ua.korrespondent.net/business/economics/4927882-kytai-polscha-ta-nimechchyna-z-kym-naibilshe-torhuie-ukraina)<br>
+14:02 [У Чорноморську зросло число жертв через атаку РФ](https://ua.korrespondent.net/ukraine/4927866-u-chornomorsku-zroslo-chyslo-zhertv-cherez-ataku-rf)<br>
+13:34 [Зеленський розкрив, коли випробують систему Фрея](https://ua.korrespondent.net/ukraine/4927853-zelenskyi-rozkryv-koly-vyprobuuit-systemu-freia)<br>
+13:13 [Україна отримала від Ірландії новий грант на енергетику](https://ua.korrespondent.net/ukraine/4927848-ukraina-otrymala-vid-irlandii-novyi-hrant-na-enerhetyku)<br>
+13:10 [Українські оборонні компанії вперше перемогли в тендерах НАТО](https://ua.korrespondent.net/business/companies/4927846-ukrainski-oboronni-kompanii-vpershe-peremohly-v-tenderakh-nato)<br>
+12:45 [Атака на Санкт-Петербург: у РФ заявили про загибель льотчиків](https://ua.korrespondent.net/world/russia/4927837-ataka-na-sankt-peterburh-u-rf-zaiavyly-pro-zahybel-lotchykiv)<br>
+12:21 [Росія атакувала людний ринок у Чорноморську](https://ua.korrespondent.net/ukraine/4927827-rosiia-atakuvala-luidnyi-rynok-u-chornomorsku)<br>
+12:19 [У Києві повністю вимкнуть вуличне освітлення](https://ua.korrespondent.net/city/kiev/4927824-u-kyievi-povnistui-vymknut-vulychne-osvitlennia)<br>
+12:10 [У Південноукраїнську відбувся перший форум громад міст-супутників АЕС](https://ua.korrespondent.net/business/press_release/4927774-u-pivdennoukrainsku-vidbuvsia-pershyi-forum-hromad-mist-suputnykiv-aes)<br>
+11:23 [Полтава зазнала подвійного удару, є поранені](https://ua.korrespondent.net/ukraine/4927803-poltava-zaznala-podviinoho-udaru-ye-poraneni)<br>
+11:03 [Курс гривні зміцнів на готівковому ринку](https://ua.korrespondent.net/business/financial/4927795-kurs-hryvni-zmitsniv-na-hotivkovomu-rynku)<br>
 10:44 [Атака РФ на Київ: у Голосіївському районі є постраждалий](https://ua.korrespondent.net/kyiv/4927790-ataka-rf-na-kyiv-u-holosiivskomu-raioni-ye-postrazhdalyi)<br>
 10:25 [Зірка Гаррі Поттера бореться за життя сина](https://ua.korrespondent.net/lifestyle/4927764-zirka-harri-pottera-boretsia-za-zhyttia-syna)<br>
 10:14 [Чи треба міняти старі купюри 50 і 200 гривень: пояснення Нацбанку](https://ua.korrespondent.net/business/financial/4927776-chy-treba-miniaty-stari-kupuiry-50-i-200-hryven-poiasnennia-natsbanku)<br>
@@ -22,9 +37,35 @@ Previous day: [2026-11-10](./data/2026-11-10.md)
 01:56 [Дрони атакували порт Усть-Луга в Росії](https://ua.korrespondent.net/world/russia/4927708-drony-atakuvaly-port-ust-luha-v-rosii)<br>
 
 ## as.com
+15:05 [¡Este rookie es un titán! Aday Mara fascina a toda la NBA con una acción solo a la altura de los elegidos](https://as.com/baloncesto/videos/este-rookie-es-un-titan-aday-mara-fascina-a-toda-la-nba-machacando-el-aro-con-rabia-f202611-v/)<br>
+13:34 [¡Este rookie es un titán! Aday Mara fascina a toda la NBA machacando el aro de pura rabia y perseverancia](https://as.com/baloncesto/videos/este-rookie-es-un-titan-aday-mara-fascinando-a-toda-la-nba-machacando-la-canasta-de-pura-rabia-y-perseverancia-f202611-v/)<br>
 09:33 [Son 15″ de puro deleite: la secuencia de Hugo González que repiten hasta la saciedad en redes](https://as.com/baloncesto/son-15-de-puro-deleite-la-secuencia-de-hugo-gonzalez-que-repiten-hasta-la-saciedad-en-redes-f202611-v/)<br>
 
 ## www.elperiodico.com
+16:26 [Kate Middleton revela el consejo que recibió en el hospital sobre su recuperación del cáncer: «Habrá días buenos y días malos»](https://www.elperiodico.com/es/gente/20261111/kate-middleton-revela-consejo-recibio-136337947)<br>
+16:16 [El escritor Sergio Ramírez ingresa este domingo en la RAE para ocupar la silla L, vacante desde la muerte de Vargas Llosa](https://www.elperiodico.com/es/ocio-y-cultura/20261111/escritor-sergio-ramirez-ingresa-domingo-136337684)<br>
+16:05 [Ismaray, médica cubana que trabaja de camarera en España: "Cobro 1.432 euros al mes y tengo que estar de pie las 8 horas, tenga o no clientes"](https://www.elperiodico.com/es/economia/20261111/ismaray-medica-cubana-camarera-espana-sueldo-dv-133941645)<br>
+16:00 [Vicente Mera, experto en longevidad: "El secreto de los deportistas de élite es entrenar y dormir. El sueño reparador es fundamental"](https://www.elperiodico.com/es/vida-y-estilo/20261111/vicente-mera-experto-longevidad-secreto-deportistas-entrenar-dormir-dv-136329363)<br>
+15:50 ["No se lo he planteado a mi hijo, es muy esclavo": cierra una tienda de Sabadell tras cinco generaciones familiares y 150 años de historia](https://www.elperiodico.com/es/barcelona/20261111/he-planteado-hijo-esclavo-cierra-comercio-sabadell-1800-golosinas-gerogia-mainou-150-anos-saga-familiar-136261022)<br>
+15:49 [Los accionistas de Easyjet aprueban la opa de Apollo por 6.800 millones de euros](https://www.elperiodico.com/es/economia/20261111/accionistas-easyjet-aprueban-opa-apollo-136336921)<br>
+15:44 [José Abellán, cardiólogo, sobre el infarto en mujeres: "Muchas llegan tarde porque interpretan los síntomas como otra cosa"](https://www.elperiodico.com/es/salud/20261111/aviso-jose-abellan-cardiologo-infarto-mujeres-hombres-sintomas-salud-dv-136325894)<br>
+15:30 [Desigual seguimiento de la huelga en el comercio y hoselería de Barcelona y despliegue de blindajes antisaqueo en las tiendas del centro](https://www.elperiodico.com/es/barcelona/20261111/desigual-seguimiento-huelga-comercio-barcelona-cierre-tiendas-blindaje-piquetes-136333276)<br>
+14:38 [Forcejeos entre la policía y los manifestantes tras el corte de la Gran Vía de Madrid por cientos de personas en la huelga general](https://www.elperiodico.com/es/politica/20261111/forcejeos-policia-manifestantes-gran-via-madrid-huelga-11n-136333521)<br>
+14:12 [Horta secunda la huelga con un 'piquete familiar': "Si quieren dejar a sus hijos, nos hacemos responsables"](https://www.elperiodico.com/es/barcelona/20261111/barrio-horta-secunda-huelga-general-136331214)<br>
+14:01 [Huelga general en Barcelona, en imágenes](https://www.elperiodico.com/es/fotos/en-imagenes/huelga-general-barcelona-imagenes-136331211)<br>
+13:51 [Macba, CCCB, Liceu, La Pedrera y La Virreina cierran, el Marès y el MOCO acogen a los turistas despistados](https://www.elperiodico.com/es/ocio-y-cultura/20261111/macba-cccb-liceu-pedrera-virreina-136328493)<br>
+13:32 [Siete horas sin metro en Barcelona, algún usuario despistado y apoyo mayoritario: “Hoy no hay que trabajar”](https://www.elperiodico.com/es/barcelona/20261111/siete-horas-metro-barcelona-usuario-huelga-136326381)<br>
+13:31 [Equipamientos culturales y el Mercado de la Boqueria, cerrados por la huelga](https://www.elperiodico.com/es/fotos/barcelona/equipamientos-culturales-mercado-boqueria-cerrados-136329247)<br>
+13:13 [El seguimiento de la huelga general supera el 80 % en el sector químico de Tarragona](https://www.elperiodico.com/es/tarragona/20261111/seguimiento-huelga-general-supera-industria-quimica-tarragona-136325889)<br>
+13:00 [BUSCADOR | Estas son las 'ciudades amigables' con los mayores en España](https://www.elperiodico.com/es/sociedad/20261111/buscador-ciudades-amigables-personas-mayores-espana-136327046)<br>
+12:55 [El precio del euríbor hoy, 11 de noviembre: la huelga general no evita un nuevo sobresalto para los hipotecados](https://www.elperiodico.com/es/economia/20261111/precio-euribor-hoy-11-noviembre-dv-136326188)<br>
+12:45 [¿Cómo está impactando la huelga general en hospitales y centros de salud?](https://www.elperiodico.com/es/sanidad/20261111/impactando-huelga-general-hospitales-centros-salud-136317114)<br>
+12:29 [Juan José Omella, el párroco del Matarraña que acabó susurrando al Papa](https://www.elperiodico.com/es/sociedad/20261111/juan-jose-omella-perfil-relevo-arzobispado-barcelona-134685133)<br>
+11:58 [Alarma en centenares de escuelas de Italia, Irlanda del Norte y Escocia: mensajes delirantes y una cadena de falsas bombas](https://www.elperiodico.com/es/internacional/20261111/evacuados-colegios-italia-amenazas-bombas-136324057)<br>
+11:57 [La huelga satura las grandes ciudades, para la industria y pincha en las zonas no tensionadas por la vivienda](https://www.elperiodico.com/es/economia/20261111/huelga-general-ciudades-problemas-movilidad-afectaciones-empresas-136322029)<br>
+11:22 [Aday Mara ya alcanza récords de Jordan, O'Neal, Duncan o Gasol](https://www.elperiodico.com/es/deportes/20261111/aday-mara-alcanza-records-jordan-136321394)<br>
+11:12 [A PIE DE CALLE | May Mariño nos cuenta cómo se está viviendo esta jornada de huelga desde Madrid.](https://www.elperiodico.com/es/videos/sociedad/pie-calle-may-marino-cuenta/136321135.shtml)<br>
+11:01 [Cancelados 85 vuelos en el aeropuerto de El Prat por la huelga general](https://www.elperiodico.com/es/barcelona/20261111/cancelados-85-vuelos-aeropuerto-prat-huelga-general-136320234)<br>
 10:47 [Ivan, mosso d'esquadra de la unidad canina de explosivos: "El perro no es una herramienta, es un miembro más de la familia"](https://www.elperiodico.com/es/sociedad/20261111/ivan-mosso-desquadra-unidad-canina-perro-miembro-familia-136319339)<br>
 10:30 [Nuevo vídeo de GTA 6: Rockstar explica que ofrecerán las versiones de PS5, PS5 Pro y Xbox Series](https://www.elperiodico.com/es/videojuegos/20261111/nuevo-video-gta-6-rockstar-136302807)<br>
 10:26 [Un cardiólogo explica qué hacer si sufres un infarto estando solo en casa: el detalle que puede ahorrar tiempo a los servicios de emergencia](https://www.elperiodico.com/es/salud/20261111/infarto-sintomas-corazon-cardiologo-jose-abellan-dv-et-135015336)<br>
@@ -37,6 +78,8 @@ Previous day: [2026-11-10](./data/2026-11-10.md)
 09:47 [Paloma (46 años), cambió el sector textil por la fontanería: "Salí de ahí con 4.000 euros sin experiencia"](https://www.elperiodico.com/es/economia/20261111/paloma-46-anos-fontanera-trabajo-4000-euros-sin-experiencia-dv-136148703)<br>
 09:37 [Octavi Vilà será el nuevo arzobispo de Barcelona en sustitución de Omella](https://www.elperiodico.com/es/sociedad/20261111/octavi-vila-nuevo-arzobispo-barcelona-sustitucion-cardenal-juan-jose-omella-136156205)<br>
 09:33 [Pedro (50 años), fontanero: "La gente acepta pagar 1.000 euros por un móvil, pero considera caro pagar 200 a un fontanero"](https://www.elperiodico.com/es/economia/20261111/pedro-50-anos-fontanero-1000-euros-movil-caro-fontanero-dv-136316135)<br>
+09:04 [La huelga general del 11N, en imágenes](https://www.elperiodico.com/es/fotos/politica/huelga-general-11n-imagenes-136315911)<br>
+08:47 [Imágenes de la huelga general del 11N en Madrid](https://www.elperiodico.com/es/fotos/politica/imagenes-huelga-11n-madrid-136314981)<br>
 08:45 [Un país 'disconformado'](https://www.elperiodico.com/es/opinion/20261111/pais-disconformado-136314774)<br>
 08:42 [Región de Murcia: destino felicidad](https://www.elperiodico.com/es/sociedad/20261111/region-murcia-destino-felicidad-bc-136314844)<br>
 08:40 [Del último sol del otoño a la magia del invierno: un viaje con RH Hoteles](https://www.elperiodico.com/es/sociedad/20261111/ultimo-sol-otono-magia-invierno-bc-136314758)<br>
@@ -44,6 +87,7 @@ Previous day: [2026-11-10](./data/2026-11-10.md)
 08:00 ['Jaleos', todos los motivos y palos del flamenco en un brillante documental](https://www.elperiodico.com/es/ocio-y-cultura/20261111/jaleos-motivos-palos-flamenco-brillante-documental-136307474)<br>
 07:36 [¿Debería Rockstar darse prisa con la versión de GTA 6 para PC antes de que la IA se le adelante?](https://www.elperiodico.com/es/tecnologia/20261111/deberia-rockstar-darse-prisa-version-136293150)<br>
 07:00 [Así es Lori Huang, la discreta ingeniera esposa del CEO de Nvidia y madre de sus dos hijos](https://www.elperiodico.com/es/gente/20261111/lori-huang-discreta-ingeniera-esposa-136296098)<br>
+07:00 ["Coincidenc(IA)s"](https://www.elperiodico.com/es/entre-todos/participacion/ia-inteligencia-artificial-google-nvidia-jensen-huang-carta-lector-javier-gonzalez-136260388)<br>
 06:00 [Barcelona media para evitar desahucios en bloques de propiedad vertical: “No quieren renovarnos el alquiler”](https://www.elperiodico.com/es/barcelona/20261111/barcelona-vivienda-desahucios-bloques-propiedad-vertical-136011045)<br>
 06:00 [Las compras de edificios enteros caen en Barcelona por la regulación de la vivienda y la inversión se redirige a locales y oficinas](https://www.elperiodico.com/es/barcelona/20261111/barcelona-vivienda-compras-edificios-enteros-ciutat-vella-eixample-135987596)<br>
 06:00 [Chequeo a 20 años de 'ciudades amigables' con los mayores: más participación y accesibilidad, pero falta medir sus efectos reales](https://www.elperiodico.com/es/sociedad/20261111/ciudades-amigables-mayores-avanzan-falta-medir-efectos-reales-135424415)<br>
@@ -51,4 +95,5 @@ Previous day: [2026-11-10](./data/2026-11-10.md)
 05:30 [Inestabilidad en Oriente Medio | Efectos de la guerra en Irán](https://www.elperiodico.com/es/internacional/20261111/elecciones-israel-guerra-iran-ultima-hora-directo-130265713)<br>
 05:27 [Guerra Ucrania - Rusia, última hora en directo](https://www.elperiodico.com/es/internacional/20261111/guerra-ucrania-rusia-ultima-hora-126605559)<br>
 04:48 ["No se arrodillen ante los ídolos", pide el Papa León XIV a más de un millón de jóvenes de Argentina](https://www.elperiodico.com/es/internacional/20261111/arrodillen-idolos-pide-papa-leon-136311214)<br>
+03:59 [Del reloj Casio a las zapatillas New Balance: 17 regalos que hacen que merezca la pena estar soltero](https://www.elperiodico.com/es/vida-y-estilo/20261111/dia-soltero-regalos-mejores-ideas-que-comprar-bc-136310993)<br>
 01:05 [Lorenzo Viñas Périz: «Administrar fincas es, sobre todo, administrar confianza»](https://www.elperiodico.com/es/sociedad/20261111/lorenzo-vinas-periz-administrar-fincas-bc-135838037)<br>
