@@ -1,8 +1,11 @@
-# News for 2026-11-11 16:28
+# News for 2026-11-11 18:17
 
 Previous day: [2026-11-10](./data/2026-11-10.md)
 
 ## ua.korrespondent.net
+17:52 [На кордоні з Румунією тимчасово обмежать рух транспорту](https://ua.korrespondent.net/ukraine/4927945-na-kordoni-z-rumuniieui-tymchasovo-obmezhat-rukh-transportu)<br>
+17:32 [Саудівська Аравія різко збільшила видобуток нафти](https://ua.korrespondent.net/business/economics/4927938-saudivska-araviia-rizko-zbilshyla-vydobutok-nafty)<br>
+16:31 [Ель-Ніньйо спонукав давні цивілізації приносити людей у жертву](https://ua.korrespondent.net/tech/science/4927675-el-ninio-sponukav-davni-tsyvilizatsii-prynosyty-luidei-u-zhertvu)<br>
 16:23 [Свята 12 листопада 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4927911-sviata-12-lystopada-2026-roku-istoriia-tradytsii)<br>
 16:07 [Горбунов відповів, чи зважаться вони з Осадчою на третю дитину](https://ua.korrespondent.net/lifestyle/4927895-horbunov-vidpoviv-chy-zvazhatsia-vony-z-osadchoui-na-tretui-dytynu)<br>
 15:25 [Поплавський оголосив про створення власної електронної бібліотеки](https://ua.korrespondent.net/lifestyle/4927897-poplavskyi-oholosyv-pro-stvorennia-vlasnoi-elektronnoi-biblioteky)<br>
@@ -37,11 +40,28 @@ Previous day: [2026-11-10](./data/2026-11-10.md)
 01:56 [Дрони атакували порт Усть-Луга в Росії](https://ua.korrespondent.net/world/russia/4927708-drony-atakuvaly-port-ust-luha-v-rosii)<br>
 
 ## as.com
+17:26 [Pedro Martínez recupera a Okeke, pero se preocupa por Feliz](https://as.com/baloncesto/euroliga/pedro-martinez-recupera-a-okeke-pero-se-preocupa-por-feliz-f202611-n/)<br>
+17:13 [Marcelinho dice adiós al Tenerife entre lágrimas](https://as.com/baloncesto/euroliga/marcelinho-dice-adios-al-tenerife-entre-lagrimas-f202611-n/)<br>
+16:41 [El momento de Brizuela](https://as.com/baloncesto/euroliga/el-momento-de-brizuela-f202611-n/)<br>
+16:40 [El Baskonia visita Belgrado a la espera de Rolands Smits](https://as.com/baloncesto/euroliga/el-baskonia-visita-belgrado-a-la-espera-de-rolands-smits-f202611-n/)<br>
+16:00 [Kenan Kamenjas apuntala la pintura baskonista](https://as.com/baloncesto/kenan-kamenjas-apuntala-la-pintura-baskonista-f202611-n/)<br>
 15:05 [¡Este rookie es un titán! Aday Mara fascina a toda la NBA con una acción solo a la altura de los elegidos](https://as.com/baloncesto/videos/este-rookie-es-un-titan-aday-mara-fascina-a-toda-la-nba-machacando-el-aro-con-rabia-f202611-v/)<br>
+14:36 [El Baskonia, cerca de cerrar la cesión de Kamenjas desde el Dubái](https://as.com/baloncesto/el-baskonia-cerca-de-cerrar-la-cesion-de-kamenjas-desde-el-dubai-f202611-n/)<br>
+13:37 [Oficial: Rolands Smits desembarca en el Baskonia](https://as.com/baloncesto/oficial-rolands-smits-desembarca-en-el-baskonia-f202611-n/)<br>
 13:34 [¡Este rookie es un titán! Aday Mara fascina a toda la NBA machacando el aro de pura rabia y perseverancia](https://as.com/baloncesto/videos/este-rookie-es-un-titan-aday-mara-fascinando-a-toda-la-nba-machacando-la-canasta-de-pura-rabia-y-perseverancia-f202611-v/)<br>
 09:33 [Son 15″ de puro deleite: la secuencia de Hugo González que repiten hasta la saciedad en redes](https://as.com/baloncesto/son-15-de-puro-deleite-la-secuencia-de-hugo-gonzalez-que-repiten-hasta-la-saciedad-en-redes-f202611-v/)<br>
 
 ## www.elperiodico.com
+17:42 [La Cámara de Comercio de Ceuta informa a la jueza de que la cancelación de la feria afectó a un negocio de 10,25 millones que crea 900 empleos](https://www.elperiodico.com/es/politica/20261111/camara-comercio-ceuta-informa-jueza-impacto-economico-feria-10-25-millones-136340660)<br>
+17:32 [El envejecimiento biológico acelerado puede favorecer el desarrollo de cáncer colorrectal en menores de 50 años](https://www.elperiodico.com/es/sanidad/20261111/envejecimiento-biologico-acelerado-favorecer-desarrollo-cancer-colorrectal-menores-136339077)<br>
+17:22 [Digi aumenta sus ingresos un 15% pero entra en pérdidas operativas de 707.000 euros](https://www.elperiodico.com/es/economia/20261111/digi-resultados-nueve-meses-aumenta-ingresos-perdidas-operativas-136339849)<br>
+17:20 [Cáceres registra hasta 200 litros de lluvia en un solo día y vientos de 75 km/h: la borrasca Charles castiga Extremadura](https://www.elperiodico.com/es/sociedad/20261111/caceres-200-litros-lluvia-fuerte-viento-charles-extramadura-136339690)<br>
+17:15 ["Lo peor de la borrasca Charles ya ha pasado": la Aemet anticipa el fin del episodio para la tarde de este miércoles](https://www.elperiodico.com/es/sociedad/20261111/peor-charles-pasado-aemet-borrasca-136339498)<br>
+17:14 [La historia del Liceo Casino de Pontevedra y el sistema de exclusión basado en la bola negra](https://www.elperiodico.com/es/ocio-y-cultura/20261111/historia-liceo-casino-pontevedra-sistema-136339449)<br>
+17:12 [Extremadura eleva a naranja la alerta por lluvias en el sur de Badajoz y rebaja la de viento en Cáceres](https://www.elperiodico.com/es/sociedad/20261111/extremadura-eleva-naranja-alerta-lluvias-136339407)<br>
+16:59 [Tiempo en Catalunya mañana jueves: avisos por lluvia intensa y viento debido a la borrasca Charles](https://www.elperiodico.com/es/tiempo/20261111/tiempo-catalunya-jueves-hoy-avisos-lluvia-viento-borrasca-charles-dv-136335327)<br>
+16:51 [IMED prevé abrir en Cornellà su primer hospital en Catalunya a principios de 2027](https://www.elperiodico.com/es/barcelona/20261111/imed-preve-abrir-cornella-primer-hospital-catalunya-principios-2027-136302119)<br>
+16:38 [La revista 'Country Life' publica una ilustración del príncipe Jorge hecha a los 12 años de un martín pescador](https://www.elperiodico.com/es/gente/20261111/revista-country-life-publica-ilustracion-136338162)<br>
 16:26 [Kate Middleton revela el consejo que recibió en el hospital sobre su recuperación del cáncer: «Habrá días buenos y días malos»](https://www.elperiodico.com/es/gente/20261111/kate-middleton-revela-consejo-recibio-136337947)<br>
 16:16 [El escritor Sergio Ramírez ingresa este domingo en la RAE para ocupar la silla L, vacante desde la muerte de Vargas Llosa](https://www.elperiodico.com/es/ocio-y-cultura/20261111/escritor-sergio-ramirez-ingresa-domingo-136337684)<br>
 16:05 [Ismaray, médica cubana que trabaja de camarera en España: "Cobro 1.432 euros al mes y tengo que estar de pie las 8 horas, tenga o no clientes"](https://www.elperiodico.com/es/economia/20261111/ismaray-medica-cubana-camarera-espana-sueldo-dv-133941645)<br>

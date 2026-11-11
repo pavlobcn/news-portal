@@ -1,5 +1,383 @@
 [
   {
+    "title": "Масована атака на Усть-Лугу: названо уражені цілі",
+    "link": "https://ua.korrespondent.net/ukraine/4927947-masovana-ataka-na-ust-luhu-nazvano-urazheni-tsili",
+    "pubDate": "2026-11-11 18:12:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/0.jpg\">Дрони уразили п’ять резервуарів із нафтопродуктами об’ємом по 30 тис. тонн кожен – загалом 150 тисяч кубометрів.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "El juez Calama prorroga la investigación del caso Zapatero por otros seis meses al faltar diligencias por practicar como el interrogatorio de sus hijas",
+    "link": "https://www.elperiodico.com/es/politica/20261111/juez-calama-prorroga-investigacion-caso-zapatero-mayo-136341470",
+    "pubDate": "2026-11-11 18:04:22",
+    "category": "",
+    "description": "<h2>Tanto la Fiscalía Anticorrupción como la acusación popular han defendido prorrogar la instrucción hasta el 28 de mayo, al resultar aún necesario ahondar en las pesquisas sobre el patrimonio del expresidente</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "La izquierda se vuelca en la huelga general, mientras Junts y el PP denuncian su utilización electoral",
+    "link": "https://www.elperiodico.com/es/politica/20261111/cataluna-huelga-general-partidos-govern-136339343",
+    "pubDate": "2026-11-11 18:02:47",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/economia/20261111/huelga-11-noviembre-hoy-ultima-hora-directo-136296220\">Huelga general 11N, hoy en directo | Incidencias, seguimiento, piquetes y última hora de las manifestaciones</a></h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20261111/trafico-barcelona-rodalies-hoy-directo-incidencias-133938712\">Tráfico en Barcelona y Catalunya durante la huelga general, en directo | Carreteras cortadas, Rodalies y transporte público</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La huelga complica la operativa turística en Barcelona: cuatro horas para llegar al aeropuerto y despliegue de 'transfers'",
+    "link": "https://www.elperiodico.com/es/barcelona/20261111/huelga-complica-operativa-turistica-barcelona-136339061",
+    "pubDate": "2026-11-11 17:58:55",
+    "category": "",
+    "description": "<h2 class=\"item\">Los hoteles llevan semanas informando a sus clientes del paro que afecta hoy a la ciudad, que no ha comportado cancelaciones. Lo más difícil ha sido organizar entradas y salidas y gestionar la agenda de los viajeros</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20261111/huelga-11-noviembre-hoy-ultima-hora-directo-136296220\">Huelga general 11N, en directo | La huelga general encara las manifestaciones de la tarde tras un seguimiento desigual</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 78
+  },
+  {
+    "title": "На кордоні з Румунією тимчасово обмежать рух транспорту",
+    "link": "https://ua.korrespondent.net/ukraine/4927945-na-kordoni-z-rumuniieui-tymchasovo-obmezhat-rukh-transportu",
+    "pubDate": "2026-11-11 17:52:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4634471.png\">В’їзд автомобілів до Румунії через пункт пропуску Солотвино - Сігету-Мармацієй буде обмежений 12 листопада з 08:00 до 16:00.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Cámara de Comercio de Ceuta informa a la jueza de que la cancelación de la feria afectó a un negocio de 10,25 millones que crea 900 empleos",
+    "link": "https://www.elperiodico.com/es/politica/20261111/camara-comercio-ceuta-informa-jueza-impacto-economico-feria-10-25-millones-136340660",
+    "pubDate": "2026-11-11 17:42:46",
+    "category": "",
+    "description": "<h2>La entrada masiva de migrantes obligó a suspender los festejos previstos entre el 1 y el 8 de agosto</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Голкіпер Челсі зіткнувся з аварійною ситуацією на трасі Нюрбургринг",
+    "link": "https://ua.korrespondent.net/sport/football/4927941-holkiper-chelsi-zitknuvsia-z-avariinoui-sytuatsiieui-na-trasi-nuirburhrynh",
+    "pubDate": "2026-11-11 17:38:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4634429.jpg\">Автомобіль Ferrari зазнав значних пошкоджень, однак гравцю вдалося вибратися з машини цілим і неушкодженим.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 92
+  },
+  {
+    "title": "El 61% de los coches usados transferidos en 2026 presenta factores de riesgo en su historial",
+    "link": "https://www.elperiodico.com/es/motor/20261111/61-coches-usados-transferidos-2026-presentan-factor-riesgo-136324599",
+    "pubDate": "2026-11-11 17:36:05",
+    "category": "",
+    "description": "<h2>A pesar de ser más jóvenes que la media del parque en España, los vehículos de ocasión acumulan más kilómetros y superan los cuatro propietarios de media</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Agotadas las entradas para el Dépor-Barcelona en apenas unas horas",
+    "link": "https://www.elperiodico.com/es/deportes/20261111/agotadas-entradas-depor-barcelona-apenas-horas-riazor-136340050",
+    "pubDate": "2026-11-11 17:32:55",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El envejecimiento biológico acelerado puede favorecer el desarrollo de cáncer colorrectal en menores de 50 años",
+    "link": "https://www.elperiodico.com/es/sanidad/20261111/envejecimiento-biologico-acelerado-favorecer-desarrollo-cancer-colorrectal-menores-136339077",
+    "pubDate": "2026-11-11 17:32:52",
+    "category": "",
+    "description": "<h2 class=\"item\">Un estudio desvela que los pacientes con este tumor tienen una activación prematura de características propias del envejecimiento, como la acumulación de daños en el ADN</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260929/cancer-aumento-mujeres-jovenes-colon-134509163\">El cáncer se dispara en mujeres jóvenes: hasta un 21% más de casos de colon al año entre los 20 y los 29 años</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Comunidad de Madrid avanza para extinguir la concesión del estadio de Vallecas al Rayo",
+    "link": "https://www.elperiodico.com/es/deportes/20261111/comunidad-madrid-avanza-extinguir-concesion-136339391",
+    "pubDate": "2026-11-11 17:32:16",
+    "category": "",
+    "description": "<h2>En la Consejería de Cultura, Turismo y Deportes insisten en que el equipo seguirá jugando en el estadio de la Avenida de la Albufera incluso con un nuevo concesionario si el club así lo decide </h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 88
+  },
+  {
+    "title": "Саудівська Аравія різко збільшила видобуток нафти",
+    "link": "https://ua.korrespondent.net/business/economics/4927938-saudivska-araviia-rizko-zbilshyla-vydobutok-nafty",
+    "pubDate": "2026-11-11 17:32:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4634448.jpg\">У жовтні Саудівська Аравія суттєво наростила видобуток нафти після кількох місяців скорочення.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Escriben instrucciones invisibles para engañar a la IA de un tribunal y acaban multadas con más de 14.000 euros",
+    "link": "https://www.elperiodico.com/es/tendencias21/20261111/escriben-instrucciones-invisibles-enganar-ia-136340123",
+    "pubDate": "2026-11-11 17:30:36",
+    "category": "",
+    "description": "<h2>Abogadas intentan manipular la IA de un tribunal mediante una inyección de código oculta en la documentación jurídica</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 88
+  },
+  {
+    "title": "Pedro Martínez recupera a Okeke, pero se preocupa por Feliz",
+    "link": "https://as.com/baloncesto/euroliga/pedro-martinez-recupera-a-okeke-pero-se-preocupa-por-feliz-f202611-n/",
+    "pubDate": "2026-11-11 17:26:54",
+    "category": "Baloncesto",
+    "description": "El Madrid recibe este jueves al Estrella Roja, una de las revelaciones de la Euroliga, todavía con las bajas de Maledon y Campazzo en la dirección.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Помер російський посол у США",
+    "link": "https://ua.korrespondent.net/world/russia/4927943-pomer-rosiiskyi-posol-u-ssha",
+    "pubDate": "2026-11-11 17:23:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4634470.jpg\">У МЗС РФ назвали Олександра Дарчієва \" видатним дипломатом\", а також \"блискучим американістом\".",
+    "topic": "політика",
+    "topic_match_probability": 78
+  },
+  {
+    "title": "Digi aumenta sus ingresos un 15% pero entra en pérdidas operativas de 707.000 euros",
+    "link": "https://www.elperiodico.com/es/economia/20261111/digi-resultados-nueve-meses-aumenta-ingresos-perdidas-operativas-136339849",
+    "pubDate": "2026-11-11 17:22:55",
+    "category": "",
+    "description": "<h2>La teleco impulsa el despliegue de sus redes de móvil y fibra con inversiones de 297 millones entre enero y septiembre</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Генералу РФ оголосили підозру за удар Смерчами по Покровську",
+    "link": "https://ua.korrespondent.net/ukraine/4927932-heneralu-rf-oholosyly-pidozru-za-udar-smerchamy-po-pokrovsku",
+    "pubDate": "2026-11-11 17:21:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4634428.jpg\">Унаслідок однієї з таких атак загинули троє цивільних, ще 11 зазнали поранень різного ступеня тяжкості.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Cáceres registra hasta 200 litros de lluvia en un solo día y vientos de 75 km/h: la borrasca Charles castiga Extremadura",
+    "link": "https://www.elperiodico.com/es/sociedad/20261111/caceres-200-litros-lluvia-fuerte-viento-charles-extramadura-136339690",
+    "pubDate": "2026-11-11 17:20:24",
+    "category": "",
+    "description": "<h2 class=\"item\">La Agencia Estatal de Meteorología mantiene el aviso rojo en el norte de Cáceres tras registrarse acumulaciones de lluvia superiores a los 195 litros por metro cuadrado en 24 horas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "\"Lo peor de la borrasca Charles ya ha pasado\": la Aemet anticipa el fin del episodio para la tarde de este miércoles",
+    "link": "https://www.elperiodico.com/es/sociedad/20261111/peor-charles-pasado-aemet-borrasca-136339498",
+    "pubDate": "2026-11-11 17:15:49",
+    "category": "",
+    "description": "<h2 class=\"item\">El director del centro meteorológico de Santa Cruz de Tenerife, Víctor Quintero, adelanta que se podrán registrar lluvias intensas aún hasta mañana jueves</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La historia del Liceo Casino de Pontevedra y el sistema de exclusión basado en la bola negra",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261111/historia-liceo-casino-pontevedra-sistema-136339449",
+    "pubDate": "2026-11-11 17:14:31",
+    "category": "",
+    "description": "<h2>Durante décadas, el ingreso en entidades recreativas podía depender de votaciones secretas capaces de dejar fuera a familias enteras. Aquel sistema de admisión marcó bailes, amistades y relaciones personales hasta mediados de los 80</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Marcelinho dice adiós al Tenerife entre lágrimas",
+    "link": "https://as.com/baloncesto/euroliga/marcelinho-dice-adios-al-tenerife-entre-lagrimas-f202611-n/",
+    "pubDate": "2026-11-11 17:13:56",
+    "category": "Baloncesto",
+    "description": "El base abandona la que ha sido su casa durante ocho temporadas para fichar por el Dubái de Xavi Pascual y regresar a la Euroliga.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Extremadura eleva a naranja la alerta por lluvias en el sur de Badajoz y rebaja la de viento en Cáceres",
+    "link": "https://www.elperiodico.com/es/sociedad/20261111/extremadura-eleva-naranja-alerta-lluvias-136339407",
+    "pubDate": "2026-11-11 17:12:49",
+    "category": "",
+    "description": "<h2>El norte cacereño permanece en nivel rojo por precipitaciones y la provincia pacense mantiene el riesgo importante por rachas de hasta 100 kilómetros por hora</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Рада ухвалила важливі закони: Україна отримає нову допомогу",
+    "link": "https://ua.korrespondent.net/ukraine/4927933-rada-ukhvalyla-vazhlyvi-zakony-ukraina-otrymaie-novu-dopomohu",
+    "pubDate": "2026-11-11 17:09:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4634427.jpg\">Верховна Рада підтримала низку законопроєктів, необхідних для виконання домовленостей із міжнародними партнерами.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ексвінгер Полісся офіційно став гравцем чемпіона Казахстану",
+    "link": "https://ua.korrespondent.net/sport/football/4927931-eksvinher-polissia-ofitsiino-stav-hravtsem-chempiona-kazakhstanu",
+    "pubDate": "2026-11-11 17:05:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4634386.jpg\">Український футболіст підписав контракт з Ордабаси і в наступному сезоні з новою командою може зіграти в Лізі чемпіонів.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Bayern vuelve a sonreír: recupera a Kompany y Musiala",
+    "link": "https://www.elperiodico.com/es/deportes/20261111/bayern-vuelve-sonreir-recupera-kompany-136337860",
+    "pubDate": "2026-11-11 17:02:31",
+    "category": "",
+    "description": "<h2>El técnico reaparece en la ciudad deportiva del club tras superar una meningitis y pudo ver que el futbolista ya se entrena con el grupo</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El horóscopo de mañana, jueves 12 de noviembre: amor, trabajo, dinero y salud para todos los signos del zodíaco",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20261111/horoscopo-hoy-jueves-12-noviembre-dv-136081666",
+    "pubDate": "2026-11-11 17:00:59",
+    "category": "",
+    "description": "<h2 class=\"item\">Conoce la suerte de tu horóscopo a partir de los signos del zodíaco, según la astrología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/temas/horoscopo-11990\" >Consulta el horóscopo diario de tu signo de ayer, hoy y mañana</a></h2>",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Дрони атакували найбільший НПЗ у Росії",
+    "link": "https://ua.korrespondent.net/ukraine/4927930-drony-atakuvaly-naibilshyi-npz-u-rosii",
+    "pubDate": "2026-11-11 17:00:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4634406.jpg\">Вже кілька годин над Омськом фіксують безпілотники. Масштабна пожежа на території промислової зони продовжує розростатися.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Última hora del choque de trenes de Toledo, en directo | Desciende a 10 el número de heridos ingresados en hospitales de Castilla-La Mancha",
+    "link": "https://www.elperiodico.com/es/sociedad/20261111/ultima-hora-choque-trenes-toledo-135832371",
+    "pubDate": "2026-11-11 17:00:00",
+    "category": "",
+    "description": "<h2>La investigación del siniestro se centra en el controlador, sus protocolos, el fallo de seguridad y el tren Iryo</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 78
+  },
+  {
+    "title": "Tiempo en Catalunya mañana jueves: avisos por lluvia intensa y viento debido a la borrasca Charles",
+    "link": "https://www.elperiodico.com/es/tiempo/20261111/tiempo-catalunya-jueves-hoy-avisos-lluvia-viento-borrasca-charles-dv-136335327",
+    "pubDate": "2026-11-11 16:59:52",
+    "category": "",
+    "description": "<h2 class=\"item\">El Meteocat pronostica lluvias generalizadas esta madrugada y fuertes rachas de viento en buena parte de Catalunya </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261111/charles-golpea-espana-abundantes-lluvias-vientos-olas-136320067\">La borrasca Charles golpea España con abundantes lluvias y vientos huracanados en un día muy \"adverso\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Lara Ferreiro, psicóloga, sobre el envejecimiento: \"¿Y si tu cuerpo fuera más viejo de lo que dice tu DNI?\"",
+    "link": "https://www.elperiodico.com/es/salud/20261111/lara-ferreiro-explica-soledad-relaciones-relaciones-toxicas-salud-mental-envejecimiento-dv-136334378",
+    "pubDate": "2026-11-11 16:56:28",
+    "category": "",
+    "description": "<h2 class=\"item\">La psicóloga interviene en el programa 'El Sótano Queen', donde explica la diferencia entre edad cronológica y biológica y señala cómo la soledad, las relaciones tóxicas y el estrés pueden influir en nuestra salud y bienestar</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ser-feliz/20260820/verano-estacion-favorita-lara-ferreiro-psicologa-salud-menta-dv-et-133293022\" target=\"_blank\" rel=\"nofollow\">Lara Ferreiro, psicóloga, avisa: \"Disfrutar del verano no significa estar feliz las 24 horas del día\"</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Олег Скрипка побив російського пропагандиста",
+    "link": "https://ua.korrespondent.net/lifestyle/4927917-oleh-skrypka-pobyv-rosiiskoho-propahandysta",
+    "pubDate": "2026-11-11 16:55:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4634313.jpg\">Олег Скрипка пригадав, як свого часу в Москві вступив у бійку з кремлівським пропагандистом Олександром Дугіним.",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 92
+  },
+  {
+    "title": "Росіяни атакували Яготин на Київщині: є загиблий та поранені",
+    "link": "https://ua.korrespondent.net/ukraine/4927926-rosiiany-atakuvaly-yahotyn-na-kyivschyni-ye-zahyblyi-ta-poraneni",
+    "pubDate": "2026-11-11 16:52:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4634407.jpg\">Крім того, є значні пошкодження цивільної інфраструктури. У будівлях двох дитячих садків вибито вікна.",
+    "topic": "політика",
+    "topic_match_probability": 78
+  },
+  {
+    "title": "IMED prevé abrir en Cornellà su primer hospital en Catalunya a principios de 2027",
+    "link": "https://www.elperiodico.com/es/barcelona/20261111/imed-preve-abrir-cornella-primer-hospital-catalunya-principios-2027-136302119",
+    "pubDate": "2026-11-11 16:51:03",
+    "category": "",
+    "description": "<h2>El grupo sanitario IMED consolida su expansión en la costa mediterránea con este nuevo hospital dotado de la \"última tecnología diagnóstica\" junto al estadio del RCD Espanyol</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260107/sentencia-frena-pretension-cornella-incorporar-totalidad-terrenos-campo-espanyol-splau-125412706\" target=\"_blank\">Una sentencia frena la pretensión de Cornellà de incorporar la totalidad de los terrenos del campo del Espanyol y el Splau</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La berrea del ciervo y la tragedia de Bambi",
+    "link": "https://www.elperiodico.com/es/opinion/20261111/berrea-ciervo-tragedia-bambi-abascal-broncano-revuelta-136338414",
+    "pubDate": "2026-11-11 16:44:36",
+    "category": "",
+    "description": "<h2>Broncano decidió que era mejor jugar al juego que se le daba mejor a su oponente: cambió a la Oca ante un tío que lleva toda la vida jugando a la Oca (o al Ahorcado)</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 92
+  },
+  {
+    "title": "У Харкові внаслідок атаки РФ загинули двоє людей",
+    "link": "https://ua.korrespondent.net/city/kharkov/4927922-u-kharkovi-vnaslidok-ataky-rf-zahynuly-dvoie-luidei",
+    "pubDate": "2026-11-11 16:44:00",
+    "category": "Харків",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4634384.jpg\">Російські війська завдали удару безпілотником по Салтівському району Харкова. Внаслідок атаки загинули двоє людей, ще одна людина постраждала.",
+    "topic": "політика",
+    "topic_match_probability": 78
+  },
+  {
+    "title": "El momento de Brizuela",
+    "link": "https://as.com/baloncesto/euroliga/el-momento-de-brizuela-f202611-n/",
+    "pubDate": "2026-11-11 16:41:09",
+    "category": "Baloncesto",
+    "description": "La lesión de Punter obliga al español a dar un paso al frente. Sus últimas actuaciones demuestran que puede asumir ese rol en un Barça que le necesita más que nunca.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Baskonia visita Belgrado a la espera de Rolands Smits",
+    "link": "https://as.com/baloncesto/euroliga/el-baskonia-visita-belgrado-a-la-espera-de-rolands-smits-f202611-n/",
+    "pubDate": "2026-11-11 16:40:19",
+    "category": "Baloncesto",
+    "description": "El equipo vitoriano se enfrenta al Partizán (20:45) sin Sedekerskis y Marció Santos.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La revista 'Country Life' publica una ilustración del príncipe Jorge hecha a los 12 años de un martín pescador",
+    "link": "https://www.elperiodico.com/es/gente/20261111/revista-country-life-publica-ilustracion-136338162",
+    "pubDate": "2026-11-11 16:38:41",
+    "category": "",
+    "description": "<h2>No es la primera vez que el talento artístico del pequeño de la familia real británica sale a la luz. En 2022, Guillermo y Kate compartieron una pintura de un reno realizada por su hijo con motivo de la Navidad. La obra recibió entonces elogios por su dominio de las formas y los colores.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Llueve sobre mojado para las víctimas",
+    "link": "https://www.elperiodico.com/es/opinion/20261111/llueve-mojado-victimas-memoria-democratica-136338103",
+    "pubDate": "2026-11-11 16:34:38",
+    "category": "",
+    "description": "<h2> Sabemos de sobra lo que nos espera, conociendo lo que han llevado a cabo Vox y PP en las comunidades autónomas donde se habían aprobado leyes de memoria</h2>",
+    "topic": "політика",
+    "topic_match_probability": 88
+  },
+  {
+    "title": "В уряді Німеччини заговорили про контакт Мерца з Путіним",
+    "link": "https://ua.korrespondent.net/world/4927924-v-uriadi-nimechchyny-zahovoryly-pro-kontakt-mertsa-z-putinym",
+    "pubDate": "2026-11-11 16:33:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4634385.jpg\">Після переговорів в Абу-Дабі може відбутися розмова федерального канцлера з російським правителем.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ель-Ніньйо спонукав давні цивілізації приносити людей у жертву",
+    "link": "https://ua.korrespondent.net/tech/science/4927675-el-ninio-sponukav-davni-tsyvilizatsii-prynosyty-luidei-u-zhertvu",
+    "pubDate": "2026-11-11 16:31:00",
+    "category": "Новини науки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4633074.jpg\">Дослідники з'ясували, що місцеві цивілізації практикували жорстокі ритуали, аби здобути прихильність природних стихій.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Видно з Естонії. Атака на російський порт",
+    "link": "https://ua.korrespondent.net/world/russia/4927915-vydno-z-estonii-ataka-na-rosiiskyi-port",
+    "pubDate": "2026-11-11 16:27:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4634383.jpg\">Зарево від пожежі в Усть-Лузі була такою сильною, що її було видно навіть із території сусідньої Естонії. Супутникові дані NASA FIRMS зафіксували там кілька осередків займання.",
+    "topic": "політика",
+    "topic_match_probability": 72
+  },
+  {
     "title": "Kate Middleton revela el consejo que recibió en el hospital sobre su recuperación del cáncer: «Habrá días buenos y días malos»",
     "link": "https://www.elperiodico.com/es/gente/20261111/kate-middleton-revela-consejo-recibio-136337947",
     "pubDate": "2026-11-11 16:26:45",
@@ -115,6 +493,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4634336.jpg\">У житті кожної людини настає вирішальний момент, який вимагає глибокої внутрішньої рефлексії.",
     "topic": "гороскопи",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Kenan Kamenjas apuntala la pintura baskonista",
+    "link": "https://as.com/baloncesto/kenan-kamenjas-apuntala-la-pintura-baskonista-f202611-n/",
+    "pubDate": "2026-11-11 16:00:20",
+    "category": "Baskonia",
+    "description": "Se une a Rolands Smits, que había sido anunciado por la mañana. El equipo de Perasovic juega esta misma noche en Belgrado",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Vicente Mera, experto en longevidad: \"El secreto de los deportistas de élite es entrenar y dormir. El sueño reparador es fundamental\"",
@@ -324,6 +711,15 @@
     "topic_match_probability": 97
   },
   {
+    "title": "El Baskonia, cerca de cerrar la cesión de Kamenjas desde el Dubái",
+    "link": "https://as.com/baloncesto/el-baskonia-cerca-de-cerrar-la-cesion-de-kamenjas-desde-el-dubai-f202611-n/",
+    "pubDate": "2026-11-11 14:36:15",
+    "category": "Baskonia",
+    "description": "Sería la segunda operación consecutiva tras el desembarco de Rolands Smits, procedente del baloncesto chino",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "La Generalitat calcula que menos funcionarios han hecho huelga que en el paro de 2012",
     "link": "https://www.elperiodico.com/es/economia/20261111/huelga-general-funcionarios-generalitat-cataluna-seguimiento-136331289",
     "pubDate": "2026-11-11 14:34:37",
@@ -450,6 +846,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Oficial: Rolands Smits desembarca en el Baskonia",
+    "link": "https://as.com/baloncesto/oficial-rolands-smits-desembarca-en-el-baskonia-f202611-n/",
+    "pubDate": "2026-11-11 13:37:25",
+    "category": "Baskonia",
+    "description": "Actualmente estaba en la liga china pero ha conseguido una desvinculación y en los próximos días será presentado en el Buesa Arena",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Віткофф та Кушнер поїдуть до Путіна і Зеленського",
     "link": "https://ua.korrespondent.net/world/4927854-vitkoff-ta-kushner-poidut-do-putina-i-zelenskoho",
     "pubDate": "2026-11-11 13:37:00",
@@ -538,6 +943,15 @@
     "description": "<h2 class=\"item\">Seguimiento desigual según los sectores: la universidad, los transportes y la industria encabezan la adhesión a la huelga</h2><h2 class=\"item\">MOVILIZACIONES | <a href=\"https://www.elperiodico.com/es/tarragona/20261111/huelga-general-11n-tarragona-manifestaciones-horarios-servicios-minimos-136298597\">Huelga general del 11N en Tarragona: manifestaciones, horarios y servicios mínimos del transporte público</a></h2><h2 class=\"item\">SUCESOS | <a href=\"https://www.elperiodico.com/es/tarragona/20261111/heridos-leves-atropellos-piquetes-tarragona-reus-huelga-general-136322030\">Dos heridos leves en dos atropellos a piquetes en Tarragona y Reus durante la huelga general</a></h2><h2 class=\"item\">EN DIRECTO | <a href=\"https://www.elperiodico.com/es/economia/20261111/huelga-11-noviembre-hoy-ultima-hora-directo-136296220\">Huelga general 11N: participación, seguimiento, primeros datos, manifestaciones y última hora de los incidentes con piquetes</a></h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Broncano, ese público era tu público",
+    "link": "https://www.elperiodico.com/es/opinion/20261111/broncano-publico-abascal-revuelta-136327882",
+    "pubDate": "2026-11-11 13:13:08",
+    "category": "",
+    "description": "<h2>'La Revuelta' sin chistes, sin música, sin interrupciones. Sin Candela Peña, la Santiaga como Pedro por su casa. Su presentador carismático farfullando y justificándose, convencido del fracaso del experimento incluso antes de empezar</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
   },
   {
     "title": "Україна отримала від Ірландії новий грант на енергетику",
@@ -844,6 +1258,15 @@
     "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20261111/huelga-11-noviembre-hoy-ultima-hora-directo-136296220\">Huelga general 11N, en directo | Seguimiento, incidencias, piquetes, manifestaciones y última hora del paro</a></h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "El consumo de electricidad cae un 7,5% en mitad de la jornada de huelga general",
+    "link": "https://www.elperiodico.com/es/economia/20261111/huelga-general-11n-consumo-electricidad-136320306",
+    "pubDate": "2026-11-11 10:56:09",
+    "category": "",
+    "description": "<h2 class=\"item\">La mayor diferencia entre demanda eléctrica real y demanda prevista para un día normal sin paros laborales  se ha registrado entre las 10.00 y las 11.00 horas, con un descenso del 15,49%, según datos de Red Eléctrica</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20261111/huelga-11-noviembre-hoy-ultima-hora-directo-136296220\"><strong>Huelga del 11 de noviembre, en directo | Última hora de la movilización, sindicatos y horario de las manifestaciones</strong></a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20261111/trafico-barcelona-rodalies-hoy-directo-incidencias-133938712\"><strong>SIGA LAS AFECTACIONES DE TRANSPORTE Y TRÁFICO POR LA HUELGA GENERAL, EN EL DIRECTO ESPECIAL DE MOVILIDAD</strong></a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 48
   },
   {
     "title": "Carles Coll y Carmen Weiler acaparan la atención en los Campeonatos de España de piscina corta",
