@@ -1,6 +1,9 @@
-# News for 2026-11-11 01:48
+# News for 2026-11-11 02:59
 
 Previous day: [2026-11-10](./data/2026-11-10.md)
+
+## ua.korrespondent.net
+01:56 [Дрони атакували порт Усть-Луга в Росії](https://ua.korrespondent.net/world/russia/4927708-drony-atakuvaly-port-ust-luha-v-rosii)<br>
 
 ## www.elperiodico.com
 01:05 [Lorenzo Viñas Périz: «Administrar fincas es, sobre todo, administrar confianza»](https://www.elperiodico.com/es/sociedad/20261111/lorenzo-vinas-periz-administrar-fincas-bc-135838037)<br>
