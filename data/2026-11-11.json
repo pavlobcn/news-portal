@@ -1,5 +1,77 @@
 [
   {
+    "title": "Robert Sánchez, ileso tras estrellar un Ferrari de 350.000 euros en Alemania",
+    "link": "https://www.elperiodico.com/es/deportes/20261111/robert-sanchez-ileso-estrellar-ferrari-136343145",
+    "pubDate": "2026-11-11 18:53:37",
+    "category": "",
+    "description": "<h2 class=\"item\">El portero del Como pilotaba un Ferrari 488 Challenge Evo de carreras, que quedó destrozado tras impactar contra el guardarrail.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Cuando la Quinta del Buitre lideró el apoyo del fútbol a la huelga general: \"Somos trabajadores de la pelota\"",
+    "link": "https://www.elperiodico.com/es/deportes/20261111/quinta-buitre-lidero-apoyo-futbol-huelga-1988-136343237",
+    "pubDate": "2026-11-11 18:48:15",
+    "category": "",
+    "description": "<h2>En 1988, Butragueño, Míchel y otros jugadores apoyaron el paro contra las políticas económicas del Gobierno de Felipe González. Txiki Benegas, número tres del PSOE, cuestionó que la secundaran pese a sus sueldos millonarios, y los madridistas respondieron reivindicando su solidaridad con los trabajadores</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Зеленський прибув до Ірландії та анонсував переговори з посланцями Трампа",
+    "link": "https://ua.korrespondent.net/ukraine/4927953-zelenskyi-prybuv-do-irlandii-ta-anonsuvav-perehovory-z-poslantsiamy-trampa",
+    "pubDate": "2026-11-11 18:47:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4634533.jpg\">Український президент  прибув до Дубліна для участі в саміті Європейської політичної спільноти.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "ACS gana 789 millones de euros hasta septiembre, un 20,5% más, apoyada en el crecimiento de Turner y Cimic",
+    "link": "https://www.elperiodico.com/es/economia/20261111/acs-gana-789-millones-euros-136343164",
+    "pubDate": "2026-11-11 18:44:00",
+    "category": "",
+    "description": "<h2>La constructora presidida por Florentino Pérez cifra el aumento de beneficio en un 35% excluyendo el resultado extraordinario obtenido en 2025</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Hallan muerta a una mujer en Castellón con signos de violencia y detienen a un hombre como sospechoso",
+    "link": "https://www.elperiodico.com/es/sucesos/20261111/hallan-muerta-mujer-castellon-signos-136343067",
+    "pubDate": "2026-11-11 18:42:33",
+    "category": "",
+    "description": "<h2>Se desconoce la relación que mantendría el arrestado con la víctima, así como las circunstancias en que se produjo el suceso, ocurrido en la localidad de Eslida</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Дефіцит бюджету РФ різко зріс попри рекордну ціну нафти",
+    "link": "https://ua.korrespondent.net/world/russia/4927951-defitsyt-buidzhetu-rf-rizko-zris-popry-rekordnu-tsinu-nafty",
+    "pubDate": "2026-11-11 18:33:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4634511.jpg\">За січень-жовтень видатки бюджету РФ виявилися вищими за доходи на 5,23 трлн рублів (63,36 млрд доларів), або 2,3% ВВП.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El ultranacionalismo polaco exhibe su fuerza en la Marcha de la Independencia, enmarañada por el pulso en torno al Constitucional",
+    "link": "https://www.elperiodico.com/es/internacional/20261111/ultranacionalismo-polaco-exhibe-fuerza-marcha-independencia-136342630",
+    "pubDate": "2026-11-11 18:31:06",
+    "category": "",
+    "description": "<h2>El presidente Karol Nawrocki encabeza una multitudinaria manifestación en tono de desafío al gobierno europeísta de Donald Tusk</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Україна та Катар готові до нового етапу співпраці",
+    "link": "https://ua.korrespondent.net/ukraine/4927949-ukraina-ta-katar-hotovi-do-novoho-etapu-spivpratsi",
+    "pubDate": "2026-11-11 18:23:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4634490.jpg\">Україна розраховує на розширення співпраці з Катаром у питаннях енергетики, продовольчої безпеки та інвестицій.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
     "title": "Масована атака на Усть-Лугу: названо уражені цілі",
     "link": "https://ua.korrespondent.net/ukraine/4927947-masovana-ataka-na-ust-luhu-nazvano-urazheni-tsili",
     "pubDate": "2026-11-11 18:12:00",
