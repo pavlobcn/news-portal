@@ -1,8 +1,11 @@
-# News for 2026-11-11 10:15
+# News for 2026-11-11 10:55
 
 Previous day: [2026-11-10](./data/2026-11-10.md)
 
 ## ua.korrespondent.net
+10:44 [Атака РФ на Київ: у Голосіївському районі є постраждалий](https://ua.korrespondent.net/kyiv/4927790-ataka-rf-na-kyiv-u-holosiivskomu-raioni-ye-postrazhdalyi)<br>
+10:25 [Зірка Гаррі Поттера бореться за життя сина](https://ua.korrespondent.net/lifestyle/4927764-zirka-harri-pottera-boretsia-za-zhyttia-syna)<br>
+10:14 [Чи треба міняти старі купюри 50 і 200 гривень: пояснення Нацбанку](https://ua.korrespondent.net/business/financial/4927776-chy-treba-miniaty-stari-kupuiry-50-i-200-hryven-poiasnennia-natsbanku)<br>
 09:31 [Археологи виявили в Єгипті 10 муміфікованих крокодилів](https://ua.korrespondent.net/tech/science/4927344-arkheolohy-vyiavyly-v-yehypti-10-mumifikovanykh-krokodyliv)<br>
 09:27 [Житомирщина зазнала масованої атаки, є поранені](https://ua.korrespondent.net/ukraine/4927760-zhytomyrschyna-zaznala-masovanoi-ataky-ye-poraneni)<br>
 09:15 [Частина Херсонщини на межі гумкатастрофи - ОВА](https://ua.korrespondent.net/ukraine/4927758-chastyna-khersonschyny-na-mezhi-humkatastrofy-ova)<br>
@@ -22,6 +25,9 @@ Previous day: [2026-11-10](./data/2026-11-10.md)
 09:33 [Son 15″ de puro deleite: la secuencia de Hugo González que repiten hasta la saciedad en redes](https://as.com/baloncesto/son-15-de-puro-deleite-la-secuencia-de-hugo-gonzalez-que-repiten-hasta-la-saciedad-en-redes-f202611-v/)<br>
 
 ## www.elperiodico.com
+10:47 [Ivan, mosso d'esquadra de la unidad canina de explosivos: "El perro no es una herramienta, es un miembro más de la familia"](https://www.elperiodico.com/es/sociedad/20261111/ivan-mosso-desquadra-unidad-canina-perro-miembro-familia-136319339)<br>
+10:30 [Nuevo vídeo de GTA 6: Rockstar explica que ofrecerán las versiones de PS5, PS5 Pro y Xbox Series](https://www.elperiodico.com/es/videojuegos/20261111/nuevo-video-gta-6-rockstar-136302807)<br>
+10:26 [Un cardiólogo explica qué hacer si sufres un infarto estando solo en casa: el detalle que puede ahorrar tiempo a los servicios de emergencia](https://www.elperiodico.com/es/salud/20261111/infarto-sintomas-corazon-cardiologo-jose-abellan-dv-et-135015336)<br>
 10:12 [Maribel Verdú (56 años), sobre sus tres pisos: "No he robado a nadie y todo lo he declarado a Hacienda"](https://www.elperiodico.com/es/gente/20261111/maribel-verdu-casas-salario-viviendas-patrimonio-inmobiliario-dv-136112213)<br>
 10:05 [El odio a los cristianos ya tiene definición: la RAE incluye 'cristianofobia' en el diccionario](https://www.elperiodico.com/es/sociedad/20261111/odio-cristianos-definicion-rae-incluye-cristianofoboa-136317827)<br>
 10:04 [Pablo Alles, psicólogo, sobre las personas que intentan dejar de fumar: "La fuerza de voluntad es el último recurso"](https://www.elperiodico.com/es/sociedad/20261111/fumar-tabaco-tabaquismo-adiccion-psicologo-pablo-alles-dv-136006948)<br>

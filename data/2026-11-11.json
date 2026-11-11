@@ -1,5 +1,167 @@
 [
   {
+    "title": "Carles Coll y Carmen Weiler acaparan la atención en los Campeonatos de España de piscina corta",
+    "link": "https://www.elperiodico.com/es/deportes/20261111/carles-coll-carmen-weiler-acaparan-136319332",
+    "pubDate": "2026-11-11 10:47:46",
+    "category": "",
+    "description": "<h2>Las pruebas comenzarán este jueves en Madrid y se pondrán en juego los últimos billetes para los Mundiales de diciembre en Pekín</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Ivan, mosso d'esquadra de la unidad canina de explosivos: \"El perro no es una herramienta, es un miembro más de la familia\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261111/ivan-mosso-desquadra-unidad-canina-perro-miembro-familia-136319339",
+    "pubDate": "2026-11-11 10:47:10",
+    "category": "",
+    "description": "<h2>Son una pareja de policías que viven juntos en Anoia, y que, si todo va bien, acabarán jubilándose juntos. Desde este año, la Generalitat asume de por vida los gastos de los perros jubilados de los Mossos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Al menos 57 heridos en una colisión de un autobús contra más de 30 vehículos al sur de Seúl",
+    "link": "https://www.elperiodico.com/es/internacional/20261111/57-heridos-colision-autobus-30-136319873",
+    "pubDate": "2026-11-11 10:46:11",
+    "category": "",
+    "description": "",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El relato de una profesora acosada por cuentas 'curi': \"Mientras no haya consecuencias claras, esto va a seguir pasando\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261111/relato-profesora-acosada-cuentas-curi-136318055",
+    "pubDate": "2026-11-11 10:45:11",
+    "category": "",
+    "description": "<h2 class=\"item\">Una docente de Secundaria de A Coruña denuncia la difusión de imágenes manipuladas con IA y acusaciones falsas contra ella y varios alumnos</h2><h2 class=\"item\">La madre de una estudiante también acudió a la Policía</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Атака РФ на Київ: у Голосіївському районі є постраждалий",
+    "link": "https://ua.korrespondent.net/kyiv/4927790-ataka-rf-na-kyiv-u-holosiivskomu-raioni-ye-postrazhdalyi",
+    "pubDate": "2026-11-11 10:44:00",
+    "category": "Київ новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4633934.jpg\">Унаслідок атаки російського БпЛА в Голосіївському районі столиці виникла пожежа на відкритій території. Медики надали допомогу одному постраждалому.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У восьми областях відключення через нові атаки РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4927788-u-vosmy-oblastiakh-vidkluichennia-cherez-novi-ataky-rf",
+    "pubDate": "2026-11-11 10:40:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4633933.jpg\">Атаковано шість великих електропідстанцій у чотирьох областях України. Пошкоджено лінії електропередачі різного класу напруги.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "La Argentina 'post Messi' y con Scaloni a punto de renovar prepara su partido contra Uruguay",
+    "link": "https://www.elperiodico.com/es/deportes/20261111/argentina-post-messi-scaloni-punto-136319050",
+    "pubDate": "2026-11-11 10:37:39",
+    "category": "",
+    "description": "<h2>Se espera que el seleccionador argentino anuncie su continuidad antes del amistoso contra los uruguayos</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Соболенко зробила заяву про Світоліну перед поєдинком",
+    "link": "https://ua.korrespondent.net/sport/tenis/4927770-sobolenko-zrobyla-zaiavu-pro-svitolinu-pered-poiedynkom",
+    "pubDate": "2026-11-11 10:31:00",
+    "category": "Новини тенісу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4633876.jpg\">Білоруська тенісистка відверто висловилася про українську лідерку напередодні їхнього очного протистояння.",
+    "topic": "спорт",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Nuevo vídeo de GTA 6: Rockstar explica que ofrecerán las versiones de PS5, PS5 Pro y Xbox Series",
+    "link": "https://www.elperiodico.com/es/videojuegos/20261111/nuevo-video-gta-6-rockstar-136302807",
+    "pubDate": "2026-11-11 10:30:38",
+    "category": "",
+    "description": "<h2>Las novedades incluyen funciones específicas de PlayStation, mejoras gráficas y distintas opciones para jugar a distancia</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Kawasaki KLE650: la aventura se va de viaje",
+    "link": "https://www.elperiodico.com/es/motor/20261111/kawasaki-kle650-aventura-viaje-136274164",
+    "pubDate": "2026-11-11 10:30:38",
+    "category": "",
+    "description": "<h2>Kawasaki amplía la familia KLE con una nueva trail de 649 cm³ que combina una imagen de rally con un planteamiento orientado al confort y las grandes rutas</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Британія замовила нові системи спостереження за підводними човнами РФ",
+    "link": "https://ua.korrespondent.net/world/4927784-brytaniia-zamovyla-novi-systemy-sposterezhennia-za-pidvodnymy-chovnamy-rf",
+    "pubDate": "2026-11-11 10:29:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4633914.jpg\">Королівський флот Великої Британії посилить спостереження за підводною активністю в Північній Атлантиці. Для цього країна інвестує близько 108 млн євро в автономні системи та сенсори.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Un cardiólogo explica qué hacer si sufres un infarto estando solo en casa: el detalle que puede ahorrar tiempo a los servicios de emergencia",
+    "link": "https://www.elperiodico.com/es/salud/20261111/infarto-sintomas-corazon-cardiologo-jose-abellan-dv-et-135015336",
+    "pubDate": "2026-11-11 10:26:00",
+    "category": "",
+    "description": "<h2>El médico recomienda tomar una aspirina: \"Puede disminuir el tamaño del infarto\"</h2><h2><a href=\"https://www.elperiodico.com/es/salud/20260901/infarto-alimentacion-pastillas-ejercicio-jose-abellan-cardiologo-dv-130451792\" >El cardiólogo José Abellán, informa: \"Estos tiempos en los que el infartado tenía que hacer reposo se han acabado\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/ser-feliz/20250613/cardiologo-aurelio-rojas-problemas-corazon-dv-118014617\" >El cardiólogo Aurelio Rojas avisa: estas son las 3 señales que indican un problema en el corazón</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Зірка Гаррі Поттера бореться за життя сина",
+    "link": "https://ua.korrespondent.net/lifestyle/4927764-zirka-harri-pottera-boretsia-za-zhyttia-syna",
+    "pubDate": "2026-11-11 10:25:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4633783.jpg\">Відома акторка вирішила бути відвертою зі своїми шанувальниками та поділилася особистими переживаннями щодо материнства.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Junts \"respeta\" el derecho a huelga pero avisa de que algunos la pueden utilizar \"electoralmente\"",
+    "link": "https://www.elperiodico.com/es/politica/20261111/junts-huelga-general-cataluna-136318141",
+    "pubDate": "2026-11-11 10:23:47",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/economia/20261111/huelga-11-noviembre-hoy-ultima-hora-directo-136296220\">Huelga general 11N, hoy en directo | Incidencias, seguimiento, piquetes y última hora de las manifestaciones</a></h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20261111/trafico-barcelona-rodalies-hoy-directo-incidencias-133938712\">Tráfico en Barcelona y Catalunya durante la huelga general, en directo | Carreteras cortadas, Rodalies y transporte público</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261109/huelga-general-11n-partidos-apoyo-rechazo-136170875\">Los partidos, divididos entre el rechazo frontal y el apoyo total a la huelga general del 11-N</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ucrania, Rusia y EEUU inician en Abu Dabi la segunda jornada de negociación con las posiciones encalladas",
+    "link": "https://www.elperiodico.com/es/internacional/20261111/ucrania-rusia-eeuu-negociaciones-guerra-acuerdo-paz-136317816",
+    "pubDate": "2026-11-11 10:23:06",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20261111/guerra-ucrania-rusia-ultima-hora-126605559\" target=\"_blank\">DIRECTO | Guerra Ucrania - Rusia, última hora en directo</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Cuándo es el Black Friday 2026 en España: fecha y cuándo arrancan las primeras ofertas",
+    "link": "https://www.elperiodico.com/es/sociedad/20261111/black-friday-2026-espana-fecha-primeras-ofertas-compras-antes-navidad-dv-136128696",
+    "pubDate": "2026-11-11 10:18:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El Corte Inglés, MediaMarkt y otras cadenas diversifican sus ofertas en tecnología, hogar y moda buscando atraer a los compradores que intentan distribuir sus gastos antes de las fiestas navideñas</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20261105/adelantate-black-friday-vuelve-mayor-festival-outlets-europa-barcelona-136010887\" target=\"_blank\" rel=\"nofollow\">Adelántate al ‘Black Friday’: vuelve el mayor festival de ‘outlets’ de Europa a una hora de Barcelona</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20261019/mitad-tiendas-online-no-prepararon-black-friday-perdio-pedidos-135495935\" target=\"_blank\" rel=\"nofollow\">La mitad de las tiendas online que no se prepararon para el Black Friday perdió más del 20% de sus pedidos</a></h2>",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "В Абу-Дабі почався другий день переговорів",
+    "link": "https://ua.korrespondent.net/ukraine/4927777-v-abu-dabi-pochavsia-druhyi-den-perehovoriv",
+    "pubDate": "2026-11-11 10:15:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4633908.jpg\">Спочатку відбудеться зустріч у тристоронньому форматі разом зі США та Росією, зазначив Рустем Умєров.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Чи треба міняти старі купюри 50 і 200 гривень: пояснення Нацбанку",
+    "link": "https://ua.korrespondent.net/business/financial/4927776-chy-treba-miniaty-stari-kupuiry-50-i-200-hryven-poiasnennia-natsbanku",
+    "pubDate": "2026-11-11 10:14:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4633905.png\">Старі банкноти 50 і 200 гривень поступово вилучають із готівкового обігу, замінюючи сучаснішими купюрами. У Нацбанку пояснили, чи можна й надалі розраховуватися такими грошима.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "La huelga vacía las aulas en las escuelas e institutos de Barcelona",
     "link": "https://www.elperiodico.com/es/sociedad/20261111/huelga-vacia-aulas-escuelas-institutos-barcelona-cataluna-136316680",
     "pubDate": "2026-11-11 10:13:28",
