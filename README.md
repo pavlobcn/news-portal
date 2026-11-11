@@ -1,8 +1,13 @@
-# News for 2026-11-11 18:55
+# News for 2026-11-11 23:11
 
 Previous day: [2026-11-10](./data/2026-11-10.md)
 
 ## ua.korrespondent.net
+21:59 [Google представила ШІ, який розкриває таємниці ДНК](https://ua.korrespondent.net/business/companies/4927986-Google-predstavyla-shi-yakyi-rozkryvaie-taiemnytsi-dnk)<br>
+20:13 [Удар по ринку в Чорноморську: нові жертви](https://ua.korrespondent.net/ukraine/4927963-udar-po-rynku-v-chornomorsku-novi-zhertvy)<br>
+19:54 [РФ втратила три гелікоптери, відбиваючи атаку на порт Усть-Луга - соцмережі](https://ua.korrespondent.net/world/russia/4927964-rf-vtratyla-try-helikoptery-vidbyvauichy-ataku-na-port-ust-luha-sotsmerezhi)<br>
+19:37 [Курорт Буковель виставили на продаж: що увійшло до лотів](https://ua.korrespondent.net/business/companies/4927961-kurort-bukovel-vystavyly-na-prodazh-scho-uviishlo-do-lotiv)<br>
+18:59 [З Житомира та Луцька до Польщі: УЗ запускає новий маршрут](https://ua.korrespondent.net/business/companies/4927954-z-zhytomyra-ta-lutska-do-polschi-uz-zapuskaie-novyi-marshrut)<br>
 18:33 [Дефіцит бюджету РФ різко зріс попри рекордну ціну нафти](https://ua.korrespondent.net/world/russia/4927951-defitsyt-buidzhetu-rf-rizko-zris-popry-rekordnu-tsinu-nafty)<br>
 17:52 [На кордоні з Румунією тимчасово обмежать рух транспорту](https://ua.korrespondent.net/ukraine/4927945-na-kordoni-z-rumuniieui-tymchasovo-obmezhat-rukh-transportu)<br>
 17:32 [Саудівська Аравія різко збільшила видобуток нафти](https://ua.korrespondent.net/business/economics/4927938-saudivska-araviia-rizko-zbilshyla-vydobutok-nafty)<br>
@@ -41,6 +46,9 @@ Previous day: [2026-11-10](./data/2026-11-10.md)
 01:56 [Дрони атакували порт Усть-Луга в Росії](https://ua.korrespondent.net/world/russia/4927708-drony-atakuvaly-port-ust-luha-v-rosii)<br>
 
 ## as.com
+22:52 [El Murcia arrolla al Bamberg](https://as.com/baloncesto/euroliga/el-murcia-arrolla-al-bamberg-f202611-n/)<br>
+22:28 [Partizán - Baskonia, en directo: Euroliga, hoy en vivo](https://as.com/baloncesto/euroliga/partizan-baskonia-en-directo-euroliga-hoy-en-vivo-f202611-n/)<br>
+22:28 [El Baskonia sigue sin ganar como visitante en la Euroliga](https://as.com/baloncesto/el-baskonia-sigue-sin-ganar-como-visitante-en-la-euroliga-f202611-n/)<br>
 17:26 [Pedro Martínez recupera a Okeke, pero se preocupa por Feliz](https://as.com/baloncesto/euroliga/pedro-martinez-recupera-a-okeke-pero-se-preocupa-por-feliz-f202611-n/)<br>
 17:13 [Marcelinho dice adiós al Tenerife entre lágrimas](https://as.com/baloncesto/euroliga/marcelinho-dice-adios-al-tenerife-entre-lagrimas-f202611-n/)<br>
 16:41 [El momento de Brizuela](https://as.com/baloncesto/euroliga/el-momento-de-brizuela-f202611-n/)<br>
@@ -53,6 +61,9 @@ Previous day: [2026-11-10](./data/2026-11-10.md)
 09:33 [Son 15″ de puro deleite: la secuencia de Hugo González que repiten hasta la saciedad en redes](https://as.com/baloncesto/son-15-de-puro-deleite-la-secuencia-de-hugo-gonzalez-que-repiten-hasta-la-saciedad-en-redes-f202611-v/)<br>
 
 ## www.elperiodico.com
+20:26 [Asturias se sume en el silencio por 'Jota', el policía fallecido en la explosión de Oviedo: "Estamos intentando con todas nuestras ganas y medios dar con el culpable"](https://www.elperiodico.com/es/sucesos/20261111/asturias-sume-silencio-jota-policia-136346898)<br>
+20:05 [Paula (23 años): "He durado un día en el trabajo por voluntad propia. No me voy a quedar en un sitio donde me estoy amargando cuando no tengo ninguna obligación"](https://www.elperiodico.com/es/economia/20261111/paula-23-anos-un-dia-trabajo-dv-133538362)<br>
+19:15 [Un whatsapp del nuncio apostólico y una reunión secreta en Madrid: así supo Octavi Vilà que sería arzobispo de Barcelona](https://www.elperiodico.com/es/sociedad/20261111/octavi-vila-arzobispo-barcelona-mensaje-whatsapp-nuncio-vaticano-reunion-madrid-136343634)<br>
 18:44 [ACS gana 789 millones de euros hasta septiembre, un 20,5% más, apoyada en el crecimiento de Turner y Cimic](https://www.elperiodico.com/es/economia/20261111/acs-gana-789-millones-euros-136343164)<br>
 18:42 [Hallan muerta a una mujer en Castellón con signos de violencia y detienen a un hombre como sospechoso](https://www.elperiodico.com/es/sucesos/20261111/hallan-muerta-mujer-castellon-signos-136343067)<br>
 17:42 [La Cámara de Comercio de Ceuta informa a la jueza de que la cancelación de la feria afectó a un negocio de 10,25 millones que crea 900 empleos](https://www.elperiodico.com/es/politica/20261111/camara-comercio-ceuta-informa-jueza-impacto-economico-feria-10-25-millones-136340660)<br>

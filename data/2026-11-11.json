@@ -1,5 +1,374 @@
 [
   {
+    "title": "США схвалили постійну військову базу у Польщі",
+    "link": "https://ua.korrespondent.net/world/4927997-ssha-skhvalyly-postiinu-viiskovu-bazu-u-polschi",
+    "pubDate": "2026-11-11 22:58:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4634774.jpg\">Про рішення Пентагону повідомив міністр оборони Польщі Владислав Косіняк-Камиш під час святкування Дня незалежності.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "El Murcia arrolla al Bamberg",
+    "link": "https://as.com/baloncesto/euroliga/el-murcia-arrolla-al-bamberg-f202611-n/",
+    "pubDate": "2026-11-11 22:52:56",
+    "category": "Baloncesto",
+    "description": "El UCAM, muy superior al Bamberg, se jugará el acceso directo a octavos en Grecia.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cargas policiales y al menos dos detenidos tras la manifestación de la huelga general del 11N en Madrid",
+    "link": "https://www.elperiodico.com/es/politica/20261111/cargas-policiales-detenidos-manifestacion-huelga-136349885",
+    "pubDate": "2026-11-11 22:40:48",
+    "category": "",
+    "description": "<h2>La Policía utiliza gas pimienta para dispersar a grupos de manifestantes en Plaza de España, mientras los disturbios se extienden a Callao, Preciados y otras calles del centro de Madrid</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Син Трампа пропонує Ізраїлю роботів для патрулювання тунелів ХАМАС",
+    "link": "https://ua.korrespondent.net/world/4927995-syn-trampa-proponuie-izrailui-robotiv-dlia-patruluivannia-tuneliv-khamas",
+    "pubDate": "2026-11-11 22:34:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4634773.jpg\">Стартап Foundation Future Industries обговорює постачання до 1000 людиноподібних роботів Phantom для патрулювання тунелів у секторі Гази.",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Un petardo de gran potencia revienta la puerta de la sede de UGT en Vigo: \"Pudo haber provocado daños personales\"",
+    "link": "https://www.elperiodico.com/es/politica/20261111/petardo-gran-potencia-revienta-puerta-136349677",
+    "pubDate": "2026-11-11 22:29:13",
+    "category": "",
+    "description": "<h2>El explosivo causó daños materiales tras estallar a pie de calle en plena jornada de la huelga general</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Partizán - Baskonia, en directo: Euroliga, hoy en vivo",
+    "link": "https://as.com/baloncesto/euroliga/partizan-baskonia-en-directo-euroliga-hoy-en-vivo-f202611-n/",
+    "pubDate": "2026-11-11 22:28:45",
+    "category": "Deportes",
+    "description": "Partizán - Baskonia, en directo: Euroliga, hoy en vivo",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Baskonia sigue sin ganar como visitante en la Euroliga",
+    "link": "https://as.com/baloncesto/el-baskonia-sigue-sin-ganar-como-visitante-en-la-euroliga-f202611-n/",
+    "pubDate": "2026-11-11 22:28:40",
+    "category": "Baskonia",
+    "description": "El club anunció la llegada de dos jugadores interiores antes del choque: Rolands Smits y Kamenjas",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Кушнер прокоментував другий раунд переговорів",
+    "link": "https://ua.korrespondent.net/world/4927993-kushner-prokomentuvav-druhyi-raund-perehovoriv",
+    "pubDate": "2026-11-11 22:14:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4634754.jpg\">Сторони узгодили попередні пропозиції для обговорення з Путіним у Москві. Після цього заплановані консультації з Володимиром Зеленським.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Zidane confirma que Mbappé no podrá jugar este jueves contra Italia en San Siro",
+    "link": "https://www.elperiodico.com/es/deportes/20261111/zidane-confirma-mbappe-podra-jugar-136349270",
+    "pubDate": "2026-11-11 22:02:32",
+    "category": "",
+    "description": "<h2 class=\"item\">El astro del Madrid se pierde el choque por unas pequeñas molestias en los isquios.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "Google представила ШІ, який розкриває таємниці ДНК",
+    "link": "https://ua.korrespondent.net/business/companies/4927986-Google-predstavyla-shi-yakyi-rozkryvaie-taiemnytsi-dnk",
+    "pubDate": "2026-11-11 21:59:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4634668.jpg\">Google представила AlphaGenome 2 - нову модель штучного інтелекту, яка аналізує вплив генетичних змін на окремі клітини людини.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "EN IMÁGENES | Disturbios tras las manifestaciones por la huelga general en Barcelona",
+    "link": "https://www.elperiodico.com/es/fotos/sociedad/imagenes-disturbios-manifestaciones-huelga-general-136349177",
+    "pubDate": "2026-11-11 21:52:15",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "¿Por qué la huelga general?",
+    "link": "https://www.elperiodico.com/es/opinion/20261111/huelga-general-136348642",
+    "pubDate": "2026-11-11 21:47:10",
+    "category": "",
+    "description": "<h2>No puede haber una política de vivienda eficaz sin algún pacto entre el Gobierno central y los autonómicos porque las competencias están muy repartidas </h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Небезпечні відео з дітьми: в Іспанії TikTok опинився під розслідуванням",
+    "link": "https://ua.korrespondent.net/business/companies/4927984-nebezpechni-video-z-ditmy-v-ispanii-TikTok-opynyvsia-pid-rozsliduvanniam",
+    "pubDate": "2026-11-11 21:44:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4634667.jpg\">Іспанська прокуратура розпочала розслідування щодо TikTok після виявлення понад тисячі дописів із матеріалами сексуального насильства над дітьми.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Cómo actuar si una riada te atrapa en el coche y las claves para salir sano y salvo",
+    "link": "https://www.elperiodico.com/es/motor/20261111/actuar-riada-atrapa-coche-claves-136319966",
+    "pubDate": "2026-11-11 21:30:52",
+    "category": "",
+    "description": "<h2>Evitar zonas anegadas, no romper el parabrisas y encaramarse al techo resultan determinantes ante la llegada de lluvias torrenciales</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Unas 9.000 personas salen a la calle en la manifestación unitaria por el derecho a la vivienda en Tarragona",
+    "link": "https://www.elperiodico.com/es/tarragona/20261111/miles-personas-salen-calle-manifestacion-derecho-vivienda-136345241",
+    "pubDate": "2026-11-11 21:26:32",
+    "category": "",
+    "description": "<h2 class=\"item\">Tras la concentración, en la que no se han registrado incidencias destacables, algunos manifestantes han acudido al acto de Santiago Abascal en la ciudad, donde les esperaba un ferte cordón policial</h2><h2 class=\"item\">CONTEXTO | <a href=\"https://www.elperiodico.com/es/tarragona/20261111/tension-tarragona-acto-santiago-abascal-vox-manifestacion-vivienda-mossos-136347192\">Tensión en Tarragona por el acto de Santiago Abascal tras la manifestación por la vivienda</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Австрія подвоїть терміни за шпигунство",
+    "link": "https://ua.korrespondent.net/world/4927981-avstriia-podvoit-terminy-za-shpyhunstvo",
+    "pubDate": "2026-11-11 21:26:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4634643.jpg\">Австрія планує посилити покарання за шпигунство та розширити перелік дій, які вважатимуться злочином.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "ЄС готує санкції проти 50 російських банків",
+    "link": "https://ua.korrespondent.net/world/4927978-yes-hotuie-sanktsii-proty-50-rosiiskykh-bankiv",
+    "pubDate": "2026-11-11 21:08:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4634641.jpg\">Посли країн Євросоюзу погодили новий пакет санкцій проти Росії. До нього увійдуть 50 російських банків, а загалом обмеження торкнуться 145 фізичних та юридичних осіб.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "11N: más huelga que paro",
+    "link": "https://www.elperiodico.com/es/opinion/20261111/huelga-paro-editorial-11n-136345404",
+    "pubDate": "2026-11-11 21:03:53",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Tensión en Tarragona por el acto de Santiago Abascal tras la manifestación por la vivienda",
+    "link": "https://www.elperiodico.com/es/tarragona/20261111/tension-tarragona-acto-santiago-abascal-vox-manifestacion-vivienda-mossos-136347192",
+    "pubDate": "2026-11-11 20:51:38",
+    "category": "",
+    "description": "<h2 class=\"item\">Los Mossos han hecho retroceder a los manifestantes, que han llegado en medio del acto del partido de extrema derecha</h2><h2 class=\"item\">HUELGA GENERAL | <a href=\"https://www.elperiodico.com/es/tarragona/20261111/miles-personas-salen-calle-manifestacion-derecho-vivienda-136345241\">Unas 9.000 personas salen a la calle en la manifestación unitaria por el derecho a la vivienda en Tarragona</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Атаки на енергетику: Зеленський вимагає від регіонів правдивих звітів",
+    "link": "https://ua.korrespondent.net/ukraine/4927973-ataky-na-enerhetyku-zelenskyi-vymahaie-vid-rehioniv-pravdyvykh-zvitiv",
+    "pubDate": "2026-11-11 20:49:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4634616.jpg\">Володимир Зеленський доручив перевірити, наскільки регіони забезпечені теплом та енергетичним обладнанням після російських обстрілів.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Трамп заявив, що США не розпочинали війну з Іраном",
+    "link": "https://ua.korrespondent.net/world/4927968-tramp-zaiavyv-scho-ssha-ne-rozpochynaly-viinu-z-iranom",
+    "pubDate": "2026-11-11 20:31:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4634596.jpg\">Дональд Трамп заявив, що Сполучені Штати не є ініціаторами війни з Іраном. За його словами, протистояння між країнами триває ще з 1979 року, а нинішній конфлікт залишається необхідним.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Asturias se sume en el silencio por 'Jota', el policía fallecido en la explosión de Oviedo: \"Estamos intentando con todas nuestras ganas y medios dar con el culpable\"",
+    "link": "https://www.elperiodico.com/es/sucesos/20261111/asturias-sume-silencio-jota-policia-136346898",
+    "pubDate": "2026-11-11 20:26:27",
+    "category": "",
+    "description": "<h2 class=\"item\">\"Aunque como policías sabemos que estas cosas pueden ocurrir, no dejamos de ser humanos y nos afecta\", afirma Jorge Ignacio Moreno, jefe superior de Policía en Asturias</h2><h2 class=\"item\">Los homenajes se sucedieron en las comisarías de toda la región: \"Lo prioritario es localizar al autor\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "\"¿Qué pasa, qué pasa? Que no tenemos casa\": una multitud de llaves y paraguas bajo la lluvia en la marcha del 11N en Madrid",
+    "link": "https://www.elperiodico.com/es/politica/20261111/pasa-pasa-casa-multitud-llaves-136346708",
+    "pubDate": "2026-11-11 20:23:59",
+    "category": "",
+    "description": "<h2 class=\"item\">Con el Sindicato de Inquilinas comandando y los líderes de CCOO y UGT tras otra pancarta, unas 120.000 personas -según la delegación del gobierno- avanzaron desde Atocha entre cánticos por la vivienda, llaves y mucha lluvia</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20261111/huelga-11-noviembre-hoy-ultima-hora-directo-136296220\" target=\"_blank\">Siga la última hora de la huelga general del 11N: servicios mínimos, movilizaciones, reacciones políticas...</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Офіси китайської BYD обшукали через можливе копіювання дизайну Land Rover",
+    "link": "https://ua.korrespondent.net/business/auto/4927976-ofisy-kytaiskoi-BYD-obshukaly-cherez-mozhlyve-kopiuivannia-dyzainu-Land-Rover",
+    "pubDate": "2026-11-11 20:19:00",
+    "category": "Авто новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4634617.jpg\">Представники Jaguar Land Rover вилучили цифрові документи китайського автовиробника перед судовим розглядом справи про можливе порушення прав інтелектуальної власності на позашляховик Defender.",
+    "topic": "автомобілі",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "Удар по ринку в Чорноморську: нові жертви",
+    "link": "https://ua.korrespondent.net/ukraine/4927963-udar-po-rynku-v-chornomorsku-novi-zhertvy",
+    "pubDate": "2026-11-11 20:13:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4634595.jpg\">Кількість загиблих унаслідок ворожого удару по ринку в Чорноморську зросла до чотирьох. Ще одна людина померла в лікарні від отриманих травм.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Paula (23 años): \"He durado un día en el trabajo por voluntad propia. No me voy a quedar en un sitio donde me estoy amargando cuando no tengo ninguna obligación\"",
+    "link": "https://www.elperiodico.com/es/economia/20261111/paula-23-anos-un-dia-trabajo-dv-133538362",
+    "pubDate": "2026-11-11 20:05:00",
+    "category": "",
+    "description": "<h2 class=\"item\">La joven argumenta que prefiere empezar desde cero las veces que sea necesario antes que pasarlo mal en un puesto de trabajo</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Decenas de miles de personas rematan la huelga con una gran manifestación por la vivienda",
+    "link": "https://www.elperiodico.com/es/economia/20261111/decenas-miles-personas-rematan-huelga-136345394",
+    "pubDate": "2026-11-11 20:02:52",
+    "category": "",
+    "description": "<h2>La movilización en Barcelona pone de manifiesto la creciente preocupación social por el problema habitacional, en un contexto en el que el precio de compra se ha encarecido un 80% desde 2015</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "La gran manifestación en Madrid por la huelga general del 11N se trunca entre cargas de antidisturbios",
+    "link": "https://www.elperiodico.com/es/politica/20261111/manifestacion-recorre-centro-madrid-huelga-general-136345921",
+    "pubDate": "2026-11-11 20:01:33",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/economia/20261111/huelga-11-noviembre-hoy-ultima-hora-directo-136296220\" target=\"_blank\">Huelga del 11 de noviembre, en directo | Última hora de la movilización, sindicatos y manifestaciones</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Ebro inicia su expansión europea y logra nueva financiación con capital chino",
+    "link": "https://www.elperiodico.com/es/motor/20261111/ebro-inicia-expansion-europea-logra-136329976",
+    "pubDate": "2026-11-11 19:59:42",
+    "category": "",
+    "description": "<h2>La compañía española obtuvo un crédito de 200 millones de euros para ampliar sus instalaciones de producción en la Zona Franca del banco público chino Eximbank.</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Mercedes-Benz EQS 450+ перевершив свій запас ходу в реальному тесті",
+    "link": "https://ua.korrespondent.net/lifestyle/motors/4927970-Mercedes-Benz-EQS-450-perevershyv-svii-zapas-khodu-v-realnomu-testi",
+    "pubDate": "2026-11-11 19:58:00",
+    "category": "Автомобілі",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4634597.jpg\">Оновлений електричний седан подолав офіційний запас ходу EPA на 116 км.",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Alessia Russo, el liderazgo que impulsa al Arsenal: \"Es increíble y una futbolista total\"",
+    "link": "https://www.elperiodico.com/es/deportes/20261111/alessia-russo-liderazgo-impulsa-arsenal-136337099",
+    "pubDate": "2026-11-11 19:55:09",
+    "category": "",
+    "description": "<h2>La delantera 'gunner' se enfrenta este jueves (18.45h, DAZN) al Barça en el Spotify Camp Nou en partido de la fase liga de la Champions. </h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "РФ втратила три гелікоптери, відбиваючи атаку на порт Усть-Луга - соцмережі",
+    "link": "https://ua.korrespondent.net/world/russia/4927964-rf-vtratyla-try-helikoptery-vidbyvauichy-ataku-na-port-ust-luha-sotsmerezhi",
+    "pubDate": "2026-11-11 19:54:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4634576.jpg\">Російська протиповітряна оборона могла збити три власні гелікоптери: повідомляють про сімох загиблих.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Gobierno de Aragón denuncia el \"oscurantismo\" de la llegada de migrantes a Zaragoza tras la crisis en El Hierro pese a que el ministerio la comunicó ayer",
+    "link": "https://www.elperiodico.com/es/politica/20261111/gobierno-aragon-denuncia-oscurantismo-llegada-136345324",
+    "pubDate": "2026-11-11 19:40:41",
+    "category": "",
+    "description": "<h2>El vicepresidente Alejandro Nolasco (VOX) ha llegado a calificar de \"sicariato\" a la Delegación del Gobierno de España en Aragón, desde donde recuerdan que los traslados se hicieron públicos ayer y que la llegada no implica una ampliación de plazas, sino el uso de las ya existentes </h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Курорт Буковель виставили на продаж: що увійшло до лотів",
+    "link": "https://ua.korrespondent.net/business/companies/4927961-kurort-bukovel-vystavyly-na-prodazh-scho-uviishlo-do-lotiv",
+    "pubDate": "2026-11-11 19:37:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4634575.jpg\">Приватбанк виставив на продаж частину майна гірськолижного курорту Буковель, готельного комплексу Radisson та інші об'єкти.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "De la Fuente se rebela: \"Hablar desde el desconocimiento sobre Lamine es lamentable\"",
+    "link": "https://www.elperiodico.com/es/deportes/20261111/fuente-rebela-hablar-desconocimiento-lamine-136344734",
+    "pubDate": "2026-11-11 19:32:27",
+    "category": "",
+    "description": "<h2>El seleccionador español analizó el paritdo ante la República Checa de este jueves de la UEFA Nations League y reveló que Laporte es duda por un proceso vírico </h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Feijóo agranda la brecha con unos sindicatos a los que acusa de alentar la agresión contra militantes del PP en Bilbao",
+    "link": "https://www.elperiodico.com/es/politica/20261111/feijoo-agranda-brecha-pp-sindicatos-136345088",
+    "pubDate": "2026-11-11 19:32:20",
+    "category": "",
+    "description": "<h2>La dirección del Partido Popular ha arremetido contra los sindicatos UGT y CCOO mediante mensajes en la red social X, provocando el rechazo de los representantes de los trabajadores</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Зеленський: РФ прагне не миру, а права втручатися в справи інших країн",
+    "link": "https://ua.korrespondent.net/ukraine/4927958-zelenskyi-rf-prahne-ne-myru-a-prava-vtruchatysia-v-spravy-inshykh-krain",
+    "pubDate": "2026-11-11 19:24:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4634553.jpg\">Володимир Зеленський заявив, що розмови Москви про гарантії безпеки не мають нічого спільного зі справжнім прагненням до миру.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Rosalía y Karol G se medirán en los Latin Grammy que rinden tributo a Daddy Yankee",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261111/rosalia-karol-g-latin-grammy-136332961",
+    "pubDate": "2026-11-11 19:15:56",
+    "category": "",
+    "description": "<h2>Ambas artistas llegan a la ceremonia con siete nominaciones cada una, las mismas que Ca7riel y Paco Amoroso</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Un whatsapp del nuncio apostólico y una reunión secreta en Madrid: así supo Octavi Vilà que sería arzobispo de Barcelona",
+    "link": "https://www.elperiodico.com/es/sociedad/20261111/octavi-vila-arzobispo-barcelona-mensaje-whatsapp-nuncio-vaticano-reunion-madrid-136343634",
+    "pubDate": "2026-11-11 19:15:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El obispo de Girona revela que firmó la aceptación dos días antes de Sant Narcís y expresa su deseo de que el Vaticano nombre rápidamente a su sustituto: \"Es importante que la diócesis no permanezca en una situación provisional demasiado tiempo\"</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261111/octavi-vila-nuevo-arzobispo-barcelona-sustitucion-cardenal-juan-jose-omella-136156205\" target=\"_blank\">Octavi Vilà será el nuevo arzobispo de Barcelona en sustitución de Omella</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260923/relevo-juan-jose-omella-arzobispado-barcelona-retos-nuevo-obispo-134600396\" target=\"_blank\">La herencia que espera al sucesor de Omella en el arzobispado de Barcelona: poder, patrimonio y desafíos</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Відключення світла: Укренерго послабить обмеження",
+    "link": "https://ua.korrespondent.net/ukraine/4927957-vidkluichennia-svitla-ukrenerho-poslabyt-obmezhennia",
+    "pubDate": "2026-11-11 19:11:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4634554.jpg\">Для всіх категорій споживачів 12 листопада запровадять графіки погодинних відключень від 1 до 3 черг.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "З Житомира та Луцька до Польщі: УЗ запускає новий маршрут",
+    "link": "https://ua.korrespondent.net/business/companies/4927954-z-zhytomyra-ta-lutska-do-polschi-uz-zapuskaie-novyi-marshrut",
+    "pubDate": "2026-11-11 18:59:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4634530.jpg\">Укрзалізниця запускає новий міжнародний маршрут Київ – Холм, який уперше з'єднає Житомир і Луцьк із залізничною мережею Польщі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Robert Sánchez, ileso tras estrellar un Ferrari de 350.000 euros en Alemania",
     "link": "https://www.elperiodico.com/es/deportes/20261111/robert-sanchez-ileso-estrellar-ferrari-136343145",
     "pubDate": "2026-11-11 18:53:37",
