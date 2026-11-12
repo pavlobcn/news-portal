@@ -1,4 +1,4 @@
-# News for 2026-11-12 21:30
+# News for 2026-11-13 00:55
 
 Previous day: [2026-11-11](./data/2026-11-11.md)
 
@@ -44,6 +44,13 @@ Previous day: [2026-11-11](./data/2026-11-11.md)
 00:27 [Росіяни атакували Київ балістикою](https://ua.korrespondent.net/city/kiev/4928022-rosiiany-atakuvaly-kyiv-balistykoui)<br>
 
 ## as.com
+23:53 [Resumen del Real Madrid vs. Estrella Roja de Euroliga](https://as.com/videos/euroliga/resumen-del-real-madrid-vs-estrella-roja-de-euroliga-f202611-v/)<br>
+23:49 [Pedro Martínez: “No deberíamos sacar pecho, somos el Madrid”](https://as.com/baloncesto/euroliga/pedro-martinez-no-deberiamos-sacar-pecho-somos-el-madrid-f202611-n/)<br>
+23:38 [Ibon Navarro: “¿El Madrid? Son muy buenos”](https://as.com/baloncesto/euroliga/ibon-navarro-el-madrid-son-muy-buenos-f202611-n/)<br>
+23:20 [¡Vaya festival!](https://as.com/baloncesto/euroliga/vaya-festival-f202611-n/)<br>
+22:59 [Resultados Euroliga, jornada 11: horarios, TV, partidos y clasificación](https://as.com/baloncesto/euroliga/resultados-euroliga-jornada-11-horarios-tv-partidos-y-clasificacion-f202611-n/)<br>
+22:57 [El Olympiacos destroza al Dubái](https://as.com/baloncesto/euroliga/el-olympiacos-destroza-al-dubai-f202611-n/)<br>
+22:48 [El Valencia va en serio en la Euroliga](https://as.com/baloncesto/euroliga/valencia-va-en-serio-en-la-euroliga-f202611-n/)<br>
 21:28 [Real Madrid - Estrella Roja, en directo: Euroliga 2026-27 en vivo hoy](https://as.com/baloncesto/euroliga/real-madrid-estrella-roja-en-directo-euroliga-2026-27-en-vivo-hoy-f202611-d/)<br>
 21:26 [Valencia Basket - Bayern, en directo: Euroliga, hoy en vivo](https://as.com/baloncesto/euroliga/valencia-basket-bayern-en-directo-euroliga-hoy-en-vivo-f202611-n/)<br>
 19:33 [“La NBA necesita al Real Madrid y no puede pedirle 300 millones de euros”](https://as.com/baloncesto/euroliga/la-nba-necesita-al-real-madrid-y-no-puede-pedirle-300-millones-de-euros-f202611-n/)<br>
@@ -59,6 +66,7 @@ Previous day: [2026-11-11](./data/2026-11-11.md)
 05:10 [Ibon tiene un plan](https://as.com/baloncesto/euroliga/ibon-tiene-un-plan-f202611-n/)<br>
 
 ## www.elperiodico.com
+21:35 [Jensen Huang habría mantenido una tercera relación extramatrimonial antes de su salida de Nvidia](https://www.elperiodico.com/es/economia/20261112/jensen-huang-tercera-relacion-extramatrimonial-empleada-nvidia-136388342)<br>
 21:16 [Llega el primer atlas en 3D del área cerebral clave en el alzhéimer, las adicciones, la esquizofrenia y el autismo](https://www.elperiodico.com/es/sociedad/20261112/llega-primer-atlas-3d-area-cerebral-autismo-alzheimer-parkinson-adicciones-esquizofrenia-136387539)<br>
 21:00 [Iolanda Batallé gana el VIII Premi Proa con la novela 'Lluny de Califòrnia'](https://www.elperiodico.com/es/ocio-y-cultura/20261112/iolanda-batalle-gana-viii-premi-136378177)<br>
 19:20 [Microsoft Outlook registra una caída que afecta al menos a 39.000 usuarios](https://www.elperiodico.com/es/economia/20261112/microsoft-outlook-registra-caida-afecta-136384630)<br>
