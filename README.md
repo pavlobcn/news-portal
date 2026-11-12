@@ -1,8 +1,25 @@
-# News for 2026-11-12 13:44
+# News for 2026-11-12 19:43
 
 Previous day: [2026-11-11](./data/2026-11-11.md)
 
 ## ua.korrespondent.net
+19:21 [РФ вдарила двома ракетами по нафтогазовому об'єкту на Чернігівщині](https://ua.korrespondent.net/ukraine/4928271-rf-vdaryla-dvoma-raketamy-po-naftohazovomu-obiektu-na-chernihivschyni)<br>
+18:45 [Відключення світла 13 листопада: відомі обсяги](https://ua.korrespondent.net/ukraine/4928265-vidkluichennia-svitla-13-lystopada-vidomi-obsiahy)<br>
+18:39 [Samsung висміяла особливість iPhone Duo у рекламі Galaxy Fold8](https://ua.korrespondent.net/lifestyle/gadgets/4928253-Samsung-vysmiiala-osoblyvist-iPhone-Duo-u-reklami-Galaxy-Fold8)<br>
+18:37 [Естонія допоможе Україні пережити зиму: що увійде до пакета підтримки](https://ua.korrespondent.net/world/4928255-estoniia-dopomozhe-ukraini-perezhyty-zymu-scho-uviide-do-paketa-pidtrymky)<br>
+18:26 [Повітряні сили розповіли деталі денної атаки росіян](https://ua.korrespondent.net/ukraine/4928250-povitriani-syly-rozpovily-detali-dennoi-ataky-rosiian)<br>
+17:59 [Україна отримає 376 млн євро: куди спрямують гроші ЄС](https://ua.korrespondent.net/business/financial/4928242-ukraina-otrymaie-376-mln-yevro-kudy-spriamuuit-hroshi-yes)<br>
+17:24 [Обвал ринку і відставка. Секс-скандал в Nvidia](https://ua.korrespondent.net/business/companies/4928234-obval-rynku-i-vidstavka-seks-skandal-v-Nvidia)<br>
+16:41 [Відбудова України: Фінляндія виділяє понад 37 млн євро](https://ua.korrespondent.net/business/financial/4928223-vidbudova-ukrainy-finliandiia-vydiliaie-ponad-37-mln-yevro)<br>
+16:30 [Вирва розміром з будинок: Укренерго показало наслідки удару по підстанції](https://ua.korrespondent.net/ukraine/4928220-vyrva-rozmirom-z-budynok-ukrenerho-pokazalo-naslidky-udaru-po-pidstantsii)<br>
+16:15 [Дані про населення України засекретили: що пояснили у Держстаті](https://ua.korrespondent.net/ukraine/4928214-dani-pro-naselennia-ukrainy-zasekretyly-scho-poiasnyly-u-derzhstati)<br>
+15:43 [Дженсен Хуанг залишив посаду генерального директора NVIDIA](https://ua.korrespondent.net/business/4928209-dzhensen-khuanh-zalyshyv-posadu-heneralnoho-dyrektora-NVIDIA)<br>
+15:23 [У Миколаєві попередили замах на комбрига ЗСУ](https://ua.korrespondent.net/ukraine/4928204-u-mykolaievi-poperedyly-zamakh-na-kombryha-zsu)<br>
+14:59 [У Молдові знайшли уламки дрона після російських атак на Україну](https://ua.korrespondent.net/world/4928193-u-moldovi-znaishly-ulamky-drona-pislia-rosiiskykh-atak-na-ukrainu)<br>
+14:36 [Смерть дитини під час лікування зубів: у Тернополі засудили двох лікарів](https://ua.korrespondent.net/ukraine/4928186-smert-dytyny-pid-chas-likuvannia-zubiv-u-ternopoli-zasudyly-dvokh-likariv)<br>
+14:19 [Збої Starshield ускладнюють роботу ППО - Генштаб](https://ua.korrespondent.net/ukraine/4928181-zboi-Starshield-uskladnuiuit-robotu-ppo-henshtab)<br>
+13:55 [Росіяни змінили тактику використання реактивних Шахедів - "Флеш"](https://ua.korrespondent.net/ukraine/4928171-rosiiany-zminyly-taktyku-vykorystannia-reaktyvnykh-shakhediv-flesh)<br>
+13:44 [Вибух у Петербурзі: названо кандидатів на загибель](https://ua.korrespondent.net/world/russia/4928165-vybukh-u-peterburzi-nazvano-kandydativ-na-zahybel)<br>
 13:23 [Індія почала купувати на Близькому Сході більше нафти, ніж у Росії](https://ua.korrespondent.net/business/economics/4928160-indiia-pochala-kupuvaty-na-blyzkomu-skhodi-bilshe-nafty-nizh-u-rosii)<br>
 13:23 [Бразилія слідом за США відмовилася від дизеля за угодою Трампа та Путіна](https://ua.korrespondent.net/business/economics/4928159-brazyliia-slidom-za-ssha-vidmovylasia-vid-dyzelia-za-uhodoui-trampa-ta-putina)<br>
 12:59 [Росія запустила ІПСО проти СБУ зі згадками про НАБУ](https://ua.korrespondent.net/ukraine/4928152-rosiia-zapustyla-ipso-proty-sbu-zi-zghadkamy-pro-nabu)<br>
@@ -25,12 +42,36 @@ Previous day: [2026-11-11](./data/2026-11-11.md)
 00:27 [Росіяни атакували Київ балістикою](https://ua.korrespondent.net/city/kiev/4928022-rosiiany-atakuvaly-kyiv-balistykoui)<br>
 
 ## as.com
+19:19 [Incendio total en el Milán: Baiesi señala a Wright y al vestuario](https://as.com/baloncesto/euroliga/incendio-total-en-el-milan-baiesi-senala-a-wright-y-al-vestuario-f202611-n/)<br>
+19:06 [España - República Checa, clasificación para el Eurobasket femenino, resumen y resultado (73-71)](https://as.com/baloncesto/mas_baloncesto/espana-republica-checa-en-directo-clasificacion-para-el-eurobasket-femenino-2027-f202611-d/)<br>
+19:03 [Con ustedes, los Harlem Globetrotters](https://as.com/baloncesto/mas_baloncesto/con-ustedes-los-harlem-globetrotters-f202611-n/)<br>
+16:37 [Sekulic: “Es el momento de que otros jugadores den un paso adelante”](https://as.com/baloncesto/sekulic-es-el-momento-de-que-otros-jugadores-den-un-paso-adelante-f202611-n/)<br>
+14:48 [Los abonados del Baskonia podrán acudir al partido del Hapoel](https://as.com/baloncesto/los-abonados-del-baskonia-podran-acudir-al-partido-del-hapoel-f202611-n/)<br>
+14:41 [¿Un Mundial sin jugadores de la NBA?](https://as.com/baloncesto/mas_baloncesto/un-mundial-sin-jugadores-de-la-nba-f202611-n/)<br>
 07:51 [La escalofriante lesión de tobillo de Doncic en un mal apoyo: la secuencia no es apta para sensibles](https://as.com/baloncesto/la-escalofriante-lesion-de-tobillo-de-doncic-en-un-mal-apoyo-la-secuencia-no-es-apta-para-sensibles-f202611-v/)<br>
 05:15 [Real Madrid - Estrella Roja: horario, TV, cómo y dónde ver la Euroliga 2026-27](https://as.com/baloncesto/euroliga/real-madrid-estrella-roja-horario-tv-como-y-donde-ver-la-euroliga-2026-27-f202611-n/)<br>
 05:13 [Se busca un nuevo récord en Valencia](https://as.com/baloncesto/se-busca-un-nuevo-record-en-valencia-f202611-n/)<br>
 05:10 [Ibon tiene un plan](https://as.com/baloncesto/euroliga/ibon-tiene-un-plan-f202611-n/)<br>
 
 ## www.elperiodico.com
+19:20 [Microsoft Outlook registra una caída que afecta al menos a 39.000 usuarios](https://www.elperiodico.com/es/economia/20261112/microsoft-outlook-registra-caida-afecta-136384630)<br>
+18:55 [El Llaminer tendrá más protagonismo en la Navidad de Sabadell, con cuatro nuevas canciones en el 'Somriu al Nadal'](https://www.elperiodico.com/es/barcelona/20261112/llaminer-tendra-protagonismo-navidad-sabadell-canciones-somriu-nadal-136371331)<br>
+18:49 [Josep Maria Flotats estrena 'La promesa de l'alba': "Romain Gary me permite revivir una sociedad y una época"](https://www.elperiodico.com/es/ocio-y-cultura/20261112/josep-maria-flotats-estrena-promesa-136373739)<br>
+18:23 ['La bola negra' y 'El ser querido' lideran las nominaciones de los Premios Forqué](https://www.elperiodico.com/es/ocio-y-cultura/20261112/bola-negra-querido-lideran-nominaciones-136381876)<br>
+17:37 [Hannun entra en preconcurso de acreedores y negocia una ampliación de capital de 4 millones para sobrevivir](https://www.elperiodico.com/es/economia/20261112/hannun-entra-preconcurso-acreedores-negocia-ampliacion-capital-4-millones-136375750)<br>
+17:03 [Tiempo en Catalunya mañana viernes: bajada de temperaturas y algunos chubascos en el Pirineo y Girona](https://www.elperiodico.com/es/tiempo/20261112/tiempo-catalunya-hoy-viernes-bajada-temperaturas-chubascos-dv-136375192)<br>
+16:57 [Nvidia se desploma hasta un 14% y pone en riesgo 600.000 millones tras la dimisión de Huang por el escándalo de espionaje](https://www.elperiodico.com/es/economia/20261112/nvidia-desploma-14-pone-riesgo-136377487)<br>
+16:45 [Las nucleares de Catalunya aportan unos 4.500 millones al PIB y 30.000 empleos](https://www.elperiodico.com/es/tarragona/20261112/nucleares-asco-vandellos-tarragona-aportan-millones-economia-136376244)<br>
+16:41 [Quién es Colette Kress, la ejecutiva que releva a Jensen Huang al frente de Nvidia](https://www.elperiodico.com/es/tecnologia/20261112/colette-kress-releva-jensen-huang-nvidia-dimision-bolsa-espia-escandalo-136373291)<br>
+16:38 [Convención y convicción](https://www.elperiodico.com/es/opinion/20261112/convencion-conviccion-teatro-articulo-josep-maria-fonalleras-136375866)<br>
+16:24 [Alice Huang, la presunta espía que ha tumbado al CEO de Nvidia, regresa a Pekín](https://www.elperiodico.com/es/internacional/20261112/alice-huang-presunta-espia-nvidia-136375970)<br>
+16:16 [Escenas familiares incomprensibles](https://www.elperiodico.com/es/opinion/20261112/escenas-familiares-incomprensibles-hospitales-urgencias-articulo-juan-tallon-136375194)<br>
+16:06 [Paso adelante de la central reversible de la Baells: la conexión eléctrica estará lista en 2028](https://www.elperiodico.com/es/economia/20261112/bombeo-central-reversible-embalse-baells-bateria-2028-renovables-136358395)<br>
+15:56 [Un edificio residencial de tres pisos se derrumbó en Nueva York](https://www.elperiodico.com/es/fotos/en-imagenes/edificio-residencial-tres-pisos-derrumbo-fotos-136374715)<br>
+14:41 [Barcelona será la capital mundial del Orgullo en 2030 tras imponerse a Bangkok con el 84% de los votos](https://www.elperiodico.com/es/barcelona/20261112/worldpride-2030-barcelona-sede-orgullo-mundial-136371805)<br>
+14:05 [El Vendrell, Valls y la Ràpita, entre las ciudades beneficiadas del segundo Pla de Barris, que dejará más de 76 millones en Tarragona](https://www.elperiodico.com/es/tarragona/20261112/vendrell-valls-rapita-ciudades-beneficiadas-pla-barris-tarragona-govern-136367657)<br>
+13:59 [Pepe Serra, director del MNAC: "Garantizamos que las pinturas profanas llegarán exactamente en el mismo estado en que se encuentran ahora, sin una sola alteración"](https://www.elperiodico.com/es/ocio-y-cultura/20261112/pepe-serra-sijena-pinturas-profanas-136366333)<br>
+13:46 [A propósito del caso Nvidia: qué nos enseña la historia del espionaje sobre la seguridad tecnológica actual](https://www.elperiodico.com/es/tecnologia/20261112/proposito-caso-nvidia-ensena-historia-espionaje-seguridad-tecnologica-actual-136358345)<br>
 13:40 [El escándalo Nvidia, vulnerabilidad 2.0](https://www.elperiodico.com/es/opinion/20261112/escandalo-nvidia-vulnerabilidad-2-0-136367065)<br>
 13:32 [Mario Picazo (64 años), meteorólogo: "Bruna y Charles unen fuerzas. España afronta esta semana uno de los episodios de lluvias más intensos del otoño"](https://www.elperiodico.com/es/tiempo/20261112/borrasca-charles-bruna-lluvias-mario-picazo-el-nino-calentamiento-global-dv-136359900)<br>
 13:32 [Quedamos en paz](https://www.elperiodico.com/es/opinion/20261112/quedamos-paz-136356849)<br>
@@ -57,6 +98,7 @@ Previous day: [2026-11-11](./data/2026-11-11.md)
 08:30 [Crítica de 'La violinista': Un delicado filme de animación en el que la música es una de las pocas formas de supervivencia afectiva en tiempos de guerra](https://www.elperiodico.com/es/ocio-y-cultura/20261112/critica-violinista-delicado-filme-animacion-136334504)<br>
 08:00 [Los vecinos del antiguo KGB rechazan los planes de su nuevo gestor y exigen el cierre de la discoteca: “Su proyecto no es bienvenido”](https://www.elperiodico.com/es/barcelona/20261112/vecinos-antiguo-kgb-rechazan-planes-136345388)<br>
 07:54 [Toda generación merece sus conquistas](https://www.elperiodico.com/es/opinion/20261112/generacion-merece-conquistas-136353341)<br>
+07:50 [El derrumbe de un edificio en Nueva York deja al menos ocho muertos y 19 heridos](https://www.elperiodico.com/es/internacional/20261112/dos-muertos-17-heridos-derrumbarse-edificio-nueva-york-136353684)<br>
 07:40 [El curioso nacimiento de Onyva: de conducir el metro a conquistar Barcelona a golpe de café](https://www.elperiodico.com/es/gastronomia/20261112/cafeteria-onyva-barcelona-135674250)<br>
 07:33 [Telefónica deja atrás las pérdidas con un beneficio de 464 millones y eleva sus objetivos para todo el año](https://www.elperiodico.com/es/economia/20261112/telefonica-resultados-nueve-meses-beneficio-464-millones-136353226)<br>
 07:21 [Nvidia prepara la destitución de su consejero delegado tras destaparse relaciones extramatrimoniales con una presunta espía y empleada](https://www.elperiodico.com/es/internacional/20261112/nvidia-estudia-cesar-consejero-delegado-jensen-huang-relacion-presunta-espia-china-136352946)<br>
