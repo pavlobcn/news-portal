@@ -1,8 +1,20 @@
-# News for 2026-11-12 11:55
+# News for 2026-11-12 13:44
 
 Previous day: [2026-11-11](./data/2026-11-11.md)
 
 ## ua.korrespondent.net
+13:23 [Індія почала купувати на Близькому Сході більше нафти, ніж у Росії](https://ua.korrespondent.net/business/economics/4928160-indiia-pochala-kupuvaty-na-blyzkomu-skhodi-bilshe-nafty-nizh-u-rosii)<br>
+13:23 [Бразилія слідом за США відмовилася від дизеля за угодою Трампа та Путіна](https://ua.korrespondent.net/business/economics/4928159-brazyliia-slidom-za-ssha-vidmovylasia-vid-dyzelia-za-uhodoui-trampa-ta-putina)<br>
+12:59 [Росія запустила ІПСО проти СБУ зі згадками про НАБУ](https://ua.korrespondent.net/ukraine/4928152-rosiia-zapustyla-ipso-proty-sbu-zi-zghadkamy-pro-nabu)<br>
+12:52 [Сильвестр Сталлоне викрив брехню Стівена Сігала](https://ua.korrespondent.net/lifestyle/4928130-sylvestr-stallone-vykryv-brekhnui-stivena-sihala)<br>
+12:50 [Уражено п'ять найбільших НПЗ Росії - Генштаб](https://ua.korrespondent.net/ukraine/4928149-urazheno-piat-naibilshykh-npz-rosii-henshtab)<br>
+12:33 [Nvidia готує звільнення Хуанга після нових деталей скандалу](https://ua.korrespondent.net/business/4928144-Nvidia-hotuie-zvilnennia-khuanha-pislia-novykh-detalei-skandalu)<br>
+12:30 [Один аркуш паперу допоможе знайти витік тепла у вашій оселі](https://ua.korrespondent.net/articles/4928121-odyn-arkush-paperu-dopomozhe-znaity-vytik-tepla-u-vashii-oseli)<br>
+12:28 [У Києві дрон впав на проїжджу частину: загорілись авто і автобус](https://ua.korrespondent.net/city/kiev/4928143-u-kyievi-dron-vpav-na-proizhdzhu-chastynu-zahorilys-avto-i-avtobus)<br>
+12:16 [Голова Держстату пішов у відставку](https://ua.korrespondent.net/business/economics/4928140-holova-derzhstatu-pishov-u-vidstavku)<br>
+12:07 [У Комишувасі виявили тіла ще двох загиблих](https://ua.korrespondent.net/ukraine/4928136-u-komyshuvasi-vyiavyly-tila-sche-dvokh-zahyblykh)<br>
+12:04 [РФ атакує Запоріжжя: рух через греблю ДніпроГЕС частково відновили](https://ua.korrespondent.net/city/zaporozhye/4928134-rf-atakuie-zaporizhzhia-rukh-cherez-hreblui-dniprohes-chastkovo-vidnovyly)<br>
+12:01 [Вимушена ізоляція через COVID-19 прискорила старіння підлітків](https://ua.korrespondent.net/tech/4928122-vymushena-izoliatsiia-cherez-COVID-19-pryskoryla-starinnia-pidlitkiv)<br>
 11:42 [Долар подорожчав в обмінниках, євро дешевшає](https://ua.korrespondent.net/business/financial/4928123-dolar-podorozhchav-v-obminnykakh-yevro-deshevshaie)<br>
 11:10 [На Київщині загинули працівники ДСНС](https://ua.korrespondent.net/ukraine/4928108-na-kyivschyni-zahynuly-pratsivnyky-dsns)<br>
 10:24 [Ударів зазнала енергетика дев’яти областей України](https://ua.korrespondent.net/ukraine/4928091-udariv-zaznala-enerhetyka-deviaty-oblastei-ukrainy)<br>
@@ -19,6 +31,18 @@ Previous day: [2026-11-11](./data/2026-11-11.md)
 05:10 [Ibon tiene un plan](https://as.com/baloncesto/euroliga/ibon-tiene-un-plan-f202611-n/)<br>
 
 ## www.elperiodico.com
+13:40 [El escándalo Nvidia, vulnerabilidad 2.0](https://www.elperiodico.com/es/opinion/20261112/escandalo-nvidia-vulnerabilidad-2-0-136367065)<br>
+13:32 [Mario Picazo (64 años), meteorólogo: "Bruna y Charles unen fuerzas. España afronta esta semana uno de los episodios de lluvias más intensos del otoño"](https://www.elperiodico.com/es/tiempo/20261112/borrasca-charles-bruna-lluvias-mario-picazo-el-nino-calentamiento-global-dv-136359900)<br>
+13:32 [Quedamos en paz](https://www.elperiodico.com/es/opinion/20261112/quedamos-paz-136356849)<br>
+13:18 [El Govern movilizará 355 millones de euros para dignificar los barrios de 34 municipios catalanes](https://www.elperiodico.com/es/politica/20261112/govern-movilizara-355-millones-euros-dignificar-barrios-34-municipios-catalanes-136362860)<br>
+13:15 [Los problemas de fallecer sin testar: "Mi padre no dejó testamento cuando murió y fue un infierno"](https://www.elperiodico.com/es/sociedad/20261112/fallecer-sin-testamento-problemas-familia-hijos-pareja-136350017)<br>
+13:14 [La Sagrada Família presenta una escultura de palabras elaborada a partir de la partipación de presos](https://www.elperiodico.com/es/barcelona/20261112/sagrada-familia-presenta-escultura-palabras-136366105)<br>
+13:14 [Aviso a los viajeros de Ryanair: el cambio en el equipaje y los horarios que pueden costarte dinero en el aeropuerto](https://www.elperiodico.com/es/economia/20261112/ryanair-cerrara-facturacion-equipaje-aeropuerto-antes-vuelo-noviembre-dv-135820656)<br>
+13:10 [La Generalitat licita las obras del Fòrum de la Justícia de Tarragona por 71,7 millones](https://www.elperiodico.com/es/tarragona/20261112/generalitat-licita-obras-forum-justicia-millones-euros-136365627)<br>
+13:00 [Así es la casa de Henar Álvarez (41 años) en Madrid: flamencos rosas y explosión de color vintage](https://www.elperiodico.com/es/gente/20261112/henar-alvarez-casa-madrid-vivienda-decoracion-flamencos-vintage-dv-136027267)<br>
+12:52 [Dos de cada tres españoles mayores de 35 años aún no ha planificado cómo dejar su herencia: "No hacerlo puede generar conflictos"](https://www.elperiodico.com/es/sociedad/20261112/mayoria-espanoles-no-planifican-herencia-136364247)<br>
+12:21 [Un rescate a contrarreloj en Gandia: un camión corta el tráfico para salvar a un perro que deambulaba por la carretera](https://www.elperiodico.com/es/sucesos/20261112/rescate-contrarreloj-gandia-camion-corta-trafico-salvar-perro-carretera-dv-136363696)<br>
+12:00 [Sant Joan de Déu reduce un 60% las visitas al hospital de los niños con diabetes gracias a una 'app' móvil](https://www.elperiodico.com/es/sanidad/20261112/ninos-diabetes-hospital-sant-joan-de-deu-reduce-visitas-presenciales-app-seguimiento-automatizado-136257676)<br>
 11:52 [¿Qué Luna hay hoy? Este es calendario lunar de noviembre 2026](https://www.elperiodico.com/es/ciencia/20261112/calendario-lunar-noviembre-2026-luna-hoy-dv-135894119)<br>
 11:46 [Otra teoría de la ola](https://www.elperiodico.com/es/opinion/20261112/teoria-ola-136361907)<br>
 11:46 [Los pozos ilegales en Doñana descienden un 73% en menos de una década](https://www.elperiodico.com/es/sociedad/20261112/pozos-ilegales-donana-descienden-73-menos-una-decada-136355278)<br>
@@ -36,6 +60,8 @@ Previous day: [2026-11-11](./data/2026-11-11.md)
 07:40 [El curioso nacimiento de Onyva: de conducir el metro a conquistar Barcelona a golpe de café](https://www.elperiodico.com/es/gastronomia/20261112/cafeteria-onyva-barcelona-135674250)<br>
 07:33 [Telefónica deja atrás las pérdidas con un beneficio de 464 millones y eleva sus objetivos para todo el año](https://www.elperiodico.com/es/economia/20261112/telefonica-resultados-nueve-meses-beneficio-464-millones-136353226)<br>
 07:21 [Nvidia prepara la destitución de su consejero delegado tras destaparse relaciones extramatrimoniales con una presunta espía y empleada](https://www.elperiodico.com/es/internacional/20261112/nvidia-estudia-cesar-consejero-delegado-jensen-huang-relacion-presunta-espia-china-136352946)<br>
+06:45 ["La Administración también comete injusticias"](https://www.elperiodico.com/es/entre-todos/participacion/administracion-comete-injusticias-carta-lector-alba-velasco-135832242)<br>
+06:45 ["Es un error que esta huelga utilice la vivienda como lema cuando hay otros problemas igual de graves"](https://www.elperiodico.com/es/entre-todos/participacion/huelga-11n-problemas-vivienda-carta-lector-alex-diaz-136310550)<br>
 06:30 [¿Peligra el sueño americano por la crisis de la vivienda?](https://www.elperiodico.com/es/internacional/20261112/crisis-vivienda-acabar-sueno-americano-bienvenidos-a-eeuu-videopodcast-136267139)<br>
 06:01 [Lo que gana el Santander con el final de la sucesión familiar de los Botín](https://www.elperiodico.com/es/opinion/20261112/ana-botin-banco-santander-sucesion-familia-136349691)<br>
 06:01 [Tratar con psicoterapia a mujeres embarazadas logra que sus bebés tengan una mejor salud emocional, según un estudio](https://www.elperiodico.com/es/ser-feliz/20261112/tratar-psicoterapia-mujeres-embarazadas-logra-135764098)<br>
