@@ -378,6 +378,15 @@
     "topic_match_probability": 100
   },
   {
+    "title": "'La ventana a.. Prensa Ibérica': Lejos de Madrid se reducen las trincheras",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/ventana-prensa-iberica-lejos-madrid/136387265.shtml",
+    "pubDate": "2026-11-12 20:50:04",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Зеленський зустрівся з Рютте: про що говорили",
     "link": "https://ua.korrespondent.net/ukraine/4928290-zelenskyi-zustrivsia-z-ruitte-pro-scho-hovoryly",
     "pubDate": "2026-11-12 20:49:00",
@@ -1224,6 +1233,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Ascienden a 2 los fallecidos junto a 17 heridos tras derrumbe de un edificio en Nueva York",
+    "link": "https://www.elperiodico.com/es/videos/internacional/ascienden-2-fallecidos-17-heridos-video/136374952.shtml",
+    "pubDate": "2026-11-12 16:13:51",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Paso adelante de la central reversible de la Baells: la conexión eléctrica estará lista en 2028",
     "link": "https://www.elperiodico.com/es/economia/20261112/bombeo-central-reversible-embalse-baells-bateria-2028-renovables-136358395",
     "pubDate": "2026-11-12 16:06:04",
@@ -1728,6 +1746,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "'El papel que no eliges', nueva campaña del Ministerio de Igualdad con motivo del 25N, Día Internacional de la Eliminación de la Violencia contra las Mujeres",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/papel-eliges-nueva-campana-ministerio-igualdad-25n-eliminacion-violencia-mujeres-video/136365422.shtml",
+    "pubDate": "2026-11-12 12:50:45",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 52
+  },
+  {
     "title": "Уражено п'ять найбільших НПЗ Росії - Генштаб",
     "link": "https://ua.korrespondent.net/ukraine/4928149-urazheno-piat-naibilshykh-npz-rosii-henshtab",
     "pubDate": "2026-11-12 12:50:00",
@@ -1789,6 +1816,15 @@
     "description": "<h2>El Gobierno saca adelante uno de los reales decretos-leyes en la Diputación Permanente gracias a que el voto de Junts no es decisorio</h2>",
     "topic": "політика",
     "topic_match_probability": 95
+  },
+  {
+    "title": "Desmantelado en La Llagosta un laboratorio que producía y vendía derivados del cannabis",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/desmantelado-llagosta-laboratorio-producia-vendia-derivados-cannabis-video/136364300.shtml",
+    "pubDate": "2026-11-12 12:35:00",
+    "category": "",
+    "description": "",
+    "topic": "марихуана",
+    "topic_match_probability": 100
   },
   {
     "title": "Nvidia готує звільнення Хуанга після нових деталей скандалу",
