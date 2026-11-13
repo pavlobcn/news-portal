@@ -1,8 +1,20 @@
-# News for 2026-11-13 14:02
+# News for 2026-11-13 17:38
 
 Previous day: [2026-11-12](./data/2026-11-12.md)
 
 ## ua.korrespondent.net
+17:13 [Експорт пшениці з України за 10 місяців впав на 17%](https://ua.korrespondent.net/business/economics/4928549-eksport-pshenytsi-z-ukrainy-za-10-misiatsiv-vpav-na-17)<br>
+17:09 [У Туреччині розбився військовий вертоліт: загинули четверо](https://ua.korrespondent.net/world/4928550-u-turechchyni-rozbyvsia-viiskovyi-vertolit-zahynuly-chetvero)<br>
+16:49 [У Німеччині відновлюють колишню резиденцію Гітлера](https://ua.korrespondent.net/showbiz/culture/4928288-u-nimechchyni-vidnovluiuit-kolyshnui-rezydentsiui-hitlera)<br>
+16:20 [Меч Дарта Вейдера встановив рекорд на аукціоні](https://ua.korrespondent.net/showbiz/cinema/4928524-mech-darta-veidera-vstanovyv-rekord-na-auktsioni)<br>
+16:17 [У Британії перевіряють десятки угод біля баз ВПС і ракетних полігонів](https://ua.korrespondent.net/world/4928535-u-brytanii-pereviriauit-desiatky-uhod-bilia-baz-vps-i-raketnykh-polihoniv)<br>
+16:12 [Стало відомо, скільки українських жінок перебуває в російському полоні](https://ua.korrespondent.net/ukraine/4928530-stalo-vidomo-skilky-ukrainskykh-zhinok-perebuvaie-v-rosiiskomu-poloni)<br>
+15:59 [Черниці опинилися під бомбовим ударом: на Донеччині евакуювали 18 людей](https://ua.korrespondent.net/ukraine/4928526-chernytsi-opynylysia-pid-bombovym-udarom-na-donechchyni-evakuuivaly-18-luidei)<br>
+15:50 [У Києві вже опалюють 99% багатоквартирних будинків](https://ua.korrespondent.net/city/kiev/4928519-u-kyievi-vzhe-opaluiuit-99-bahatokvartyrnykh-budynkiv)<br>
+15:42 [ЗСУ озвучили масштаби уражень на НПЗ у Волгограді](https://ua.korrespondent.net/ukraine/4928523-zsu-ozvuchyly-masshtaby-urazhen-na-npz-u-volhohradi)<br>
+14:49 [Зупинка олійниць: чи загрожує Україні дефіцит](https://ua.korrespondent.net/business/companies/4928504-zupynka-oliinyts-chy-zahrozhuie-ukraini-defitsyt)<br>
+14:41 [Українське судно Ноосфера прибуло до станції Академік Вернадський](https://ua.korrespondent.net/ukraine/4928492-ukrainske-sudno-noosfera-prybulo-do-stantsii-akademik-vernadskyi)<br>
+14:39 [Вакцина від грипу вже в Україні: скільки доз отримали медзаклади](https://ua.korrespondent.net/ukraine/4928502-vaktsyna-vid-hrypu-vzhe-v-ukraini-skilky-doz-otrymaly-medzaklady)<br>
 13:52 [Ракети Нептун уразили три цілі в Росії - Генштаб](https://ua.korrespondent.net/ukraine/4928485-rakety-neptun-urazyly-try-tsili-v-rosii-henshtab)<br>
 13:49 [У Путіна народився ще один онук від зятя Зеленського - ЗМІ](https://ua.korrespondent.net/world/russia/4928483-u-putina-narodyvsia-sche-odyn-onuk-vid-ziatia-zelenskoho-zmi)<br>
 13:31 [Спляча красуня: чим дивує Личаківське кладовище](https://ua.korrespondent.net/showbiz/culture/4928297-spliacha-krasunia-chym-dyvuie-lychakivske-kladovysche)<br>
@@ -24,12 +36,31 @@ Previous day: [2026-11-12](./data/2026-11-12.md)
 07:22 [Нічна атака РФ: зафіксовано влучання на 24 локаціях](https://ua.korrespondent.net/ukraine/4928368-nichna-ataka-rf-zafiksovano-vluchannia-na-24-lokatsiiakh)<br>
 
 ## as.com
+17:03 [FIBA mantiene intactos sus planes para la Copa del Mundo 2027 en Qatar](https://as.com/baloncesto/mas_baloncesto/fiba-mantiene-intactos-sus-planes-para-la-copa-del-mundo-2027-en-qatar-f202611-n/)<br>
+14:47 [Mateo: “La situación competitiva de la Selección ha cambiado”](https://as.com/baloncesto/mas_baloncesto/mateo-la-situacion-competitiva-de-la-seleccion-ha-cambiado-f202611-n/)<br>
 12:10 [Las cuentas de España para encarrilar el Mundial ante las dificultades](https://as.com/baloncesto/mas_baloncesto/las-cuentas-de-espana-para-encarrilar-el-mundial-ante-las-dificultades-f202611-n/)<br>
 12:08 [España va con todo: quince fijos y seis suplentes para salvar el Mundial](https://as.com/baloncesto/mas_baloncesto/espana-va-con-todo-quince-fijos-y-seis-suplentes-para-salvar-el-mundial-f202611-n/)<br>
 05:20 [Panathinaikos - Barcelona: horario, TV y dónde ver la Euroliga 2026-27](https://as.com/baloncesto/euroliga/panathinaikos-barcelona-horario-tv-y-donde-ver-la-euroliga-2026-27-f202611-n/)<br>
 05:18 [Un Obradovic para dominarlos a todos](https://as.com/baloncesto/euroliga/un-obradovic-para-dominarlos-a-todos-f202611-n/)<br>
 
 ## www.elperiodico.com
+17:32 [Turquía presume de la mayor cumbre del clima, con casi 100.000 inscritos: ¿éxito o desmesura?](https://www.elperiodico.com/es/sociedad/20261113/turquia-cumbre-clima-record-participantes-debate-exito-desmesura-136402343)<br>
+17:14 [Hoy no tienes un email](https://www.elperiodico.com/es/opinion/20261113/hoy-tienes-email-microsoft-articulo-ernest-folch-136417448)<br>
+17:14 [La reina Letizia planta en Valencia el último olivo de un memorial por las 237 víctimas de la dana de 2024](https://www.elperiodico.com/es/politica/20261113/reina-letizia-planta-valencia-ultimo-136417757)<br>
+17:12 [Los Mossos buscan a Marta, de 39 años, desaparecida en Sabadell: podría estar en Barcelona](https://www.elperiodico.com/es/barcelona/20261113/mossos-buscan-marta-desaparecida-sabadell-mujer-desaparecida-barcelona-ciutat-vella-136417540)<br>
+17:03 [Tiempo en Catalunya mañana sábado: algunos chubascos y temperaturas todavía superiores a las habituales](https://www.elperiodico.com/es/tiempo/20261113/tiempo-catalunya-hoy-sabado-lluvias-meteocat-dv-136414920)<br>
+16:53 [Catalunya contará con 94 nuevos jueces y 47 fiscales en 2028](https://www.elperiodico.com/es/sociedad/20261113/catalunya-contara-94-nuevos-jueces-fiscales-planta-judicial-136416640)<br>
+16:45 [Guterres se despide de las cumbres del clima con una dura advertencia: "No se puede construir la paz en un planeta en llamas"](https://www.elperiodico.com/es/sociedad/20261113/guterres-ultimo-discurso-cumbre-clima-cop31-despedida-136415556)<br>
+16:41 [Los maquinistas dan una tregua a Renfe y pactan nuevos horarios para poner fin al caos en Rodalies](https://www.elperiodico.com/es/sociedad/20261113/maquinistas-dan-tregua-pactan-horarios-poner-fin-caos-rodalies-136407757)<br>
+16:38 [Reig Jofre mantiene planas sus ventas y reduce beneficios en el penúltimo balance financiero del año](https://www.elperiodico.com/es/economia/20261113/resultados-tercer-trimestre-reig-jofre-mantiene-planas-ventas-reduce-beneficios-2026-136413568)<br>
+16:34 [TMB firma el nuevo convenio de autobuses con diez días más de descanso y más de 200 contrataciones](https://www.elperiodico.com/es/barcelona/20261113/nuevo-convenio-tmb-autobuses-descanso-contrataciones-136406714)<br>
+16:30 [De Nueva York a Hong Kong con parada en Lisboa: el Calendario Lavazza 2027 inmortaliza la pausa y  los pequeños grandes placeres](https://www.elperiodico.com/es/gente/20261113/calendario-lavazza-2027-nueva-york-lisboa-hong-kong-guggenheim-presentacion-magnum-photos-jim-goldberg-alex-majoli-paolo-pellegrin-136155836)<br>
+16:26 [El área de Barcelona concentrará más del 60% de las nuevas plazas para jueces previstas en Catalunya](https://www.elperiodico.com/es/barcelona/20261113/area-barcelona-concentrara-60-nuevas-136414954)<br>
+16:23 [Felipe VI homenajea a las pioneras de la aviación policial en una unidad que sigue siendo un 95% masculina](https://www.elperiodico.com/es/politica/20261113/felipe-vi-homenajea-pioneras-aviacion-policia-nacional-136415724)<br>
+16:15 [Elena Martín, planificadora de divorcios: "Los hombres y las mujeres no somos lo mismo. No podemos empezar a intentar tener una igualdad que no es real"](https://www.elperiodico.com/es/sociedad/20261113/igualdad-feminismo-diferencias-elena-martin-divorcios-dv-135819224)<br>
+16:10 [Los arquitectos, sobre cómo detectar humedades: "Coge un trozo de papel de aluminio y celo y pégalo en la pared"](https://www.elperiodico.com/es/vida-y-estilo/20261113/humedades-papel-aluminio-pared-pintura-arquitectos-dv-136177721)<br>
+15:48 [Un gigantesco caballo de Troya irrumpe a las puertas de la cumbre del clima para denunciar la presencia del lobby de los combustibles fósiles](https://www.elperiodico.com/es/sociedad/20261113/caballo-troya-cumbre-clima-cop31-protesta-combustibles-fosiles-136413007)<br>
+15:24 [Microsoft recupera sus servicios tras 20 horas de caída, aunque advierte de "problemas intermitentes" en el correo](https://www.elperiodico.com/es/economia/20261113/microsoft-recupera-servicios-caida-advierte-problemas-intermitentes-outlook-teams-136413613)<br>
 13:49 [Antón Costas (CES) sitúa la desaparición de los "buenos empleos" en el origen de la crisis del Estado del bienestar](https://www.elperiodico.com/es/economia/20261113/anton-costas-ces-situa-desaparicion-136399393)<br>
 13:41 [Plus Ultra prepara un ERE y el recorte de rutas transatlánticas por combustible y falta del liquidez](https://www.elperiodico.com/es/economia/20261113/plus-ultra-prepara-ere-recorte-136408435)<br>
 13:32 [¿Qué ha pasado con Microsoft?](https://www.elperiodico.com/es/videos/internacional/pasado-microsoft/136407550.shtml)<br>
