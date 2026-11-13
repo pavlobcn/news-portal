@@ -1,126 +1,13 @@
-# News for 2026-11-13 00:55
+# News for 2026-11-13 06:04
 
-Previous day: [2026-11-11](./data/2026-11-11.md)
-
-## ua.korrespondent.net
-21:08 [Відставка Хуанга сколихнула ринок: Nvidia втратила трильйон](https://ua.korrespondent.net/business/companies/4928294-vidstavka-khuanha-skolykhnula-rynok-Nvidia-vtratyla-trylion)<br>
-20:09 [Генератори не врятують водоканал Києва від тривалих знеструмлень](https://ua.korrespondent.net/city/kiev/4928284-heneratory-ne-vriatuuit-vodokanal-kyieva-vid-tryvalykh-znestrumlen)<br>
-19:21 [РФ вдарила двома ракетами по нафтогазовому об'єкту на Чернігівщині](https://ua.korrespondent.net/ukraine/4928271-rf-vdaryla-dvoma-raketamy-po-naftohazovomu-obiektu-na-chernihivschyni)<br>
-18:45 [Відключення світла 13 листопада: відомі обсяги](https://ua.korrespondent.net/ukraine/4928265-vidkluichennia-svitla-13-lystopada-vidomi-obsiahy)<br>
-18:39 [Samsung висміяла особливість iPhone Duo у рекламі Galaxy Fold8](https://ua.korrespondent.net/lifestyle/gadgets/4928253-Samsung-vysmiiala-osoblyvist-iPhone-Duo-u-reklami-Galaxy-Fold8)<br>
-18:37 [Естонія допоможе Україні пережити зиму: що увійде до пакета підтримки](https://ua.korrespondent.net/world/4928255-estoniia-dopomozhe-ukraini-perezhyty-zymu-scho-uviide-do-paketa-pidtrymky)<br>
-18:26 [Повітряні сили розповіли деталі денної атаки росіян](https://ua.korrespondent.net/ukraine/4928250-povitriani-syly-rozpovily-detali-dennoi-ataky-rosiian)<br>
-17:59 [Україна отримає 376 млн євро: куди спрямують гроші ЄС](https://ua.korrespondent.net/business/financial/4928242-ukraina-otrymaie-376-mln-yevro-kudy-spriamuuit-hroshi-yes)<br>
-17:24 [Обвал ринку і відставка. Секс-скандал в Nvidia](https://ua.korrespondent.net/business/companies/4928234-obval-rynku-i-vidstavka-seks-skandal-v-Nvidia)<br>
-16:41 [Відбудова України: Фінляндія виділяє понад 37 млн євро](https://ua.korrespondent.net/business/financial/4928223-vidbudova-ukrainy-finliandiia-vydiliaie-ponad-37-mln-yevro)<br>
-16:30 [Вирва розміром з будинок: Укренерго показало наслідки удару по підстанції](https://ua.korrespondent.net/ukraine/4928220-vyrva-rozmirom-z-budynok-ukrenerho-pokazalo-naslidky-udaru-po-pidstantsii)<br>
-16:15 [Дані про населення України засекретили: що пояснили у Держстаті](https://ua.korrespondent.net/ukraine/4928214-dani-pro-naselennia-ukrainy-zasekretyly-scho-poiasnyly-u-derzhstati)<br>
-15:43 [Дженсен Хуанг залишив посаду генерального директора NVIDIA](https://ua.korrespondent.net/business/4928209-dzhensen-khuanh-zalyshyv-posadu-heneralnoho-dyrektora-NVIDIA)<br>
-15:23 [У Миколаєві попередили замах на комбрига ЗСУ](https://ua.korrespondent.net/ukraine/4928204-u-mykolaievi-poperedyly-zamakh-na-kombryha-zsu)<br>
-14:59 [У Молдові знайшли уламки дрона після російських атак на Україну](https://ua.korrespondent.net/world/4928193-u-moldovi-znaishly-ulamky-drona-pislia-rosiiskykh-atak-na-ukrainu)<br>
-14:36 [Смерть дитини під час лікування зубів: у Тернополі засудили двох лікарів](https://ua.korrespondent.net/ukraine/4928186-smert-dytyny-pid-chas-likuvannia-zubiv-u-ternopoli-zasudyly-dvokh-likariv)<br>
-14:19 [Збої Starshield ускладнюють роботу ППО - Генштаб](https://ua.korrespondent.net/ukraine/4928181-zboi-Starshield-uskladnuiuit-robotu-ppo-henshtab)<br>
-13:55 [Росіяни змінили тактику використання реактивних Шахедів - "Флеш"](https://ua.korrespondent.net/ukraine/4928171-rosiiany-zminyly-taktyku-vykorystannia-reaktyvnykh-shakhediv-flesh)<br>
-13:44 [Вибух у Петербурзі: названо кандидатів на загибель](https://ua.korrespondent.net/world/russia/4928165-vybukh-u-peterburzi-nazvano-kandydativ-na-zahybel)<br>
-13:23 [Індія почала купувати на Близькому Сході більше нафти, ніж у Росії](https://ua.korrespondent.net/business/economics/4928160-indiia-pochala-kupuvaty-na-blyzkomu-skhodi-bilshe-nafty-nizh-u-rosii)<br>
-13:23 [Бразилія слідом за США відмовилася від дизеля за угодою Трампа та Путіна](https://ua.korrespondent.net/business/economics/4928159-brazyliia-slidom-za-ssha-vidmovylasia-vid-dyzelia-za-uhodoui-trampa-ta-putina)<br>
-12:59 [Росія запустила ІПСО проти СБУ зі згадками про НАБУ](https://ua.korrespondent.net/ukraine/4928152-rosiia-zapustyla-ipso-proty-sbu-zi-zghadkamy-pro-nabu)<br>
-12:52 [Сильвестр Сталлоне викрив брехню Стівена Сігала](https://ua.korrespondent.net/lifestyle/4928130-sylvestr-stallone-vykryv-brekhnui-stivena-sihala)<br>
-12:50 [Уражено п'ять найбільших НПЗ Росії - Генштаб](https://ua.korrespondent.net/ukraine/4928149-urazheno-piat-naibilshykh-npz-rosii-henshtab)<br>
-12:33 [Nvidia готує звільнення Хуанга після нових деталей скандалу](https://ua.korrespondent.net/business/4928144-Nvidia-hotuie-zvilnennia-khuanha-pislia-novykh-detalei-skandalu)<br>
-12:30 [Один аркуш паперу допоможе знайти витік тепла у вашій оселі](https://ua.korrespondent.net/articles/4928121-odyn-arkush-paperu-dopomozhe-znaity-vytik-tepla-u-vashii-oseli)<br>
-12:28 [У Києві дрон впав на проїжджу частину: загорілись авто і автобус](https://ua.korrespondent.net/city/kiev/4928143-u-kyievi-dron-vpav-na-proizhdzhu-chastynu-zahorilys-avto-i-avtobus)<br>
-12:16 [Голова Держстату пішов у відставку](https://ua.korrespondent.net/business/economics/4928140-holova-derzhstatu-pishov-u-vidstavku)<br>
-12:07 [У Комишувасі виявили тіла ще двох загиблих](https://ua.korrespondent.net/ukraine/4928136-u-komyshuvasi-vyiavyly-tila-sche-dvokh-zahyblykh)<br>
-12:04 [РФ атакує Запоріжжя: рух через греблю ДніпроГЕС частково відновили](https://ua.korrespondent.net/city/zaporozhye/4928134-rf-atakuie-zaporizhzhia-rukh-cherez-hreblui-dniprohes-chastkovo-vidnovyly)<br>
-12:01 [Вимушена ізоляція через COVID-19 прискорила старіння підлітків](https://ua.korrespondent.net/tech/4928122-vymushena-izoliatsiia-cherez-COVID-19-pryskoryla-starinnia-pidlitkiv)<br>
-11:42 [Долар подорожчав в обмінниках, євро дешевшає](https://ua.korrespondent.net/business/financial/4928123-dolar-podorozhchav-v-obminnykakh-yevro-deshevshaie)<br>
-11:10 [На Київщині загинули працівники ДСНС](https://ua.korrespondent.net/ukraine/4928108-na-kyivschyni-zahynuly-pratsivnyky-dsns)<br>
-10:24 [Ударів зазнала енергетика дев’яти областей України](https://ua.korrespondent.net/ukraine/4928091-udariv-zaznala-enerhetyka-deviaty-oblastei-ukrainy)<br>
-10:11 [Україна втратила видатного хормейстера та композитора](https://ua.korrespondent.net/showbiz/culture/4928083-ukraina-vtratyla-vydatnoho-khormeistera-ta-kompozytora)<br>
-09:55 [З Росії вивели понад $400 млрд після початку війни](https://ua.korrespondent.net/business/economics/4928085-z-rosii-vyvely-ponad-400-mlrd-pislia-pochatku-viiny)<br>
-09:40 [У Петербурзі підірвали авто з полковником армії РФ](https://ua.korrespondent.net/world/russia/4928081-u-peterburzi-pidirvaly-avto-z-polkovnykom-armii-rf)<br>
-03:29 [Мікропластик може змінювати колір води у Тихому океані - дослідження](https://ua.korrespondent.net/world/4928028-mikroplastyk-mozhe-zminuivaty-kolir-vody-u-tykhomu-okeani-doslidzhennia)<br>
-00:27 [Росіяни атакували Київ балістикою](https://ua.korrespondent.net/city/kiev/4928022-rosiiany-atakuvaly-kyiv-balistykoui)<br>
+Previous day: [2026-11-12](./data/2026-11-12.md)
 
 ## as.com
-23:53 [Resumen del Real Madrid vs. Estrella Roja de Euroliga](https://as.com/videos/euroliga/resumen-del-real-madrid-vs-estrella-roja-de-euroliga-f202611-v/)<br>
-23:49 [Pedro Martínez: “No deberíamos sacar pecho, somos el Madrid”](https://as.com/baloncesto/euroliga/pedro-martinez-no-deberiamos-sacar-pecho-somos-el-madrid-f202611-n/)<br>
-23:38 [Ibon Navarro: “¿El Madrid? Son muy buenos”](https://as.com/baloncesto/euroliga/ibon-navarro-el-madrid-son-muy-buenos-f202611-n/)<br>
-23:20 [¡Vaya festival!](https://as.com/baloncesto/euroliga/vaya-festival-f202611-n/)<br>
-22:59 [Resultados Euroliga, jornada 11: horarios, TV, partidos y clasificación](https://as.com/baloncesto/euroliga/resultados-euroliga-jornada-11-horarios-tv-partidos-y-clasificacion-f202611-n/)<br>
-22:57 [El Olympiacos destroza al Dubái](https://as.com/baloncesto/euroliga/el-olympiacos-destroza-al-dubai-f202611-n/)<br>
-22:48 [El Valencia va en serio en la Euroliga](https://as.com/baloncesto/euroliga/valencia-va-en-serio-en-la-euroliga-f202611-n/)<br>
-21:28 [Real Madrid - Estrella Roja, en directo: Euroliga 2026-27 en vivo hoy](https://as.com/baloncesto/euroliga/real-madrid-estrella-roja-en-directo-euroliga-2026-27-en-vivo-hoy-f202611-d/)<br>
-21:26 [Valencia Basket - Bayern, en directo: Euroliga, hoy en vivo](https://as.com/baloncesto/euroliga/valencia-basket-bayern-en-directo-euroliga-hoy-en-vivo-f202611-n/)<br>
-19:33 [“La NBA necesita al Real Madrid y no puede pedirle 300 millones de euros”](https://as.com/baloncesto/euroliga/la-nba-necesita-al-real-madrid-y-no-puede-pedirle-300-millones-de-euros-f202611-n/)<br>
-19:19 [Incendio total en el Milán: Baiesi señala a Wright y al vestuario](https://as.com/baloncesto/euroliga/incendio-total-en-el-milan-baiesi-senala-a-wright-y-al-vestuario-f202611-n/)<br>
-19:06 [España - República Checa, clasificación para el Eurobasket femenino, resumen y resultado (73-71)](https://as.com/baloncesto/mas_baloncesto/espana-republica-checa-en-directo-clasificacion-para-el-eurobasket-femenino-2027-f202611-d/)<br>
-19:03 [Con ustedes, los Harlem Globetrotters](https://as.com/baloncesto/mas_baloncesto/con-ustedes-los-harlem-globetrotters-f202611-n/)<br>
-16:37 [Sekulic: “Es el momento de que otros jugadores den un paso adelante”](https://as.com/baloncesto/sekulic-es-el-momento-de-que-otros-jugadores-den-un-paso-adelante-f202611-n/)<br>
-14:48 [Los abonados del Baskonia podrán acudir al partido del Hapoel](https://as.com/baloncesto/los-abonados-del-baskonia-podran-acudir-al-partido-del-hapoel-f202611-n/)<br>
-14:41 [¿Un Mundial sin jugadores de la NBA?](https://as.com/baloncesto/mas_baloncesto/un-mundial-sin-jugadores-de-la-nba-f202611-n/)<br>
-07:51 [La escalofriante lesión de tobillo de Doncic en un mal apoyo: la secuencia no es apta para sensibles](https://as.com/baloncesto/la-escalofriante-lesion-de-tobillo-de-doncic-en-un-mal-apoyo-la-secuencia-no-es-apta-para-sensibles-f202611-v/)<br>
-05:15 [Real Madrid - Estrella Roja: horario, TV, cómo y dónde ver la Euroliga 2026-27](https://as.com/baloncesto/euroliga/real-madrid-estrella-roja-horario-tv-como-y-donde-ver-la-euroliga-2026-27-f202611-n/)<br>
-05:13 [Se busca un nuevo récord en Valencia](https://as.com/baloncesto/se-busca-un-nuevo-record-en-valencia-f202611-n/)<br>
-05:10 [Ibon tiene un plan](https://as.com/baloncesto/euroliga/ibon-tiene-un-plan-f202611-n/)<br>
+05:20 [Panathinaikos - Barcelona: horario, TV y dónde ver la Euroliga 2026-27](https://as.com/baloncesto/euroliga/panathinaikos-barcelona-horario-tv-y-donde-ver-la-euroliga-2026-27-f202611-n/)<br>
+05:18 [Un Obradovic para dominarlos a todos](https://as.com/baloncesto/euroliga/un-obradovic-para-dominarlos-a-todos-f202611-n/)<br>
 
 ## www.elperiodico.com
-21:35 [Jensen Huang habría mantenido una tercera relación extramatrimonial antes de su salida de Nvidia](https://www.elperiodico.com/es/economia/20261112/jensen-huang-tercera-relacion-extramatrimonial-empleada-nvidia-136388342)<br>
-21:16 [Llega el primer atlas en 3D del área cerebral clave en el alzhéimer, las adicciones, la esquizofrenia y el autismo](https://www.elperiodico.com/es/sociedad/20261112/llega-primer-atlas-3d-area-cerebral-autismo-alzheimer-parkinson-adicciones-esquizofrenia-136387539)<br>
-21:00 [Iolanda Batallé gana el VIII Premi Proa con la novela 'Lluny de Califòrnia'](https://www.elperiodico.com/es/ocio-y-cultura/20261112/iolanda-batalle-gana-viii-premi-136378177)<br>
-19:20 [Microsoft Outlook registra una caída que afecta al menos a 39.000 usuarios](https://www.elperiodico.com/es/economia/20261112/microsoft-outlook-registra-caida-afecta-136384630)<br>
-18:55 [El Llaminer tendrá más protagonismo en la Navidad de Sabadell, con cuatro nuevas canciones en el 'Somriu al Nadal'](https://www.elperiodico.com/es/barcelona/20261112/llaminer-tendra-protagonismo-navidad-sabadell-canciones-somriu-nadal-136371331)<br>
-18:49 [Josep Maria Flotats estrena 'La promesa de l'alba': "Romain Gary me permite revivir una sociedad y una época"](https://www.elperiodico.com/es/ocio-y-cultura/20261112/josep-maria-flotats-estrena-promesa-136373739)<br>
-18:23 ['La bola negra' y 'El ser querido' lideran las nominaciones de los Premios Forqué](https://www.elperiodico.com/es/ocio-y-cultura/20261112/bola-negra-querido-lideran-nominaciones-136381876)<br>
-17:37 [Hannun entra en preconcurso de acreedores y negocia una ampliación de capital de 4 millones para sobrevivir](https://www.elperiodico.com/es/economia/20261112/hannun-entra-preconcurso-acreedores-negocia-ampliacion-capital-4-millones-136375750)<br>
-17:03 [Tiempo en Catalunya mañana viernes: bajada de temperaturas y algunos chubascos en el Pirineo y Girona](https://www.elperiodico.com/es/tiempo/20261112/tiempo-catalunya-hoy-viernes-bajada-temperaturas-chubascos-dv-136375192)<br>
-16:57 [Nvidia se desploma hasta un 14% y pone en riesgo 600.000 millones tras la dimisión de Huang por el escándalo de espionaje](https://www.elperiodico.com/es/economia/20261112/nvidia-desploma-14-pone-riesgo-136377487)<br>
-16:45 [Las nucleares de Catalunya aportan unos 4.500 millones al PIB y 30.000 empleos](https://www.elperiodico.com/es/tarragona/20261112/nucleares-asco-vandellos-tarragona-aportan-millones-economia-136376244)<br>
-16:41 [Quién es Colette Kress, la ejecutiva que releva a Jensen Huang al frente de Nvidia](https://www.elperiodico.com/es/tecnologia/20261112/colette-kress-releva-jensen-huang-nvidia-dimision-bolsa-espia-escandalo-136373291)<br>
-16:38 [Convención y convicción](https://www.elperiodico.com/es/opinion/20261112/convencion-conviccion-teatro-articulo-josep-maria-fonalleras-136375866)<br>
-16:24 [Alice Huang, la presunta espía que ha tumbado al CEO de Nvidia, regresa a Pekín](https://www.elperiodico.com/es/internacional/20261112/alice-huang-presunta-espia-nvidia-136375970)<br>
-16:16 [Escenas familiares incomprensibles](https://www.elperiodico.com/es/opinion/20261112/escenas-familiares-incomprensibles-hospitales-urgencias-articulo-juan-tallon-136375194)<br>
-16:06 [Paso adelante de la central reversible de la Baells: la conexión eléctrica estará lista en 2028](https://www.elperiodico.com/es/economia/20261112/bombeo-central-reversible-embalse-baells-bateria-2028-renovables-136358395)<br>
-15:56 [Un edificio residencial de tres pisos se derrumbó en Nueva York](https://www.elperiodico.com/es/fotos/en-imagenes/edificio-residencial-tres-pisos-derrumbo-fotos-136374715)<br>
-14:41 [Barcelona será la capital mundial del Orgullo en 2030 tras imponerse a Bangkok con el 84% de los votos](https://www.elperiodico.com/es/barcelona/20261112/worldpride-2030-barcelona-sede-orgullo-mundial-136371805)<br>
-14:05 [El Vendrell, Valls y la Ràpita, entre las ciudades beneficiadas del segundo Pla de Barris, que dejará más de 76 millones en Tarragona](https://www.elperiodico.com/es/tarragona/20261112/vendrell-valls-rapita-ciudades-beneficiadas-pla-barris-tarragona-govern-136367657)<br>
-13:59 [Pepe Serra, director del MNAC: "Garantizamos que las pinturas profanas llegarán exactamente en el mismo estado en que se encuentran ahora, sin una sola alteración"](https://www.elperiodico.com/es/ocio-y-cultura/20261112/pepe-serra-sijena-pinturas-profanas-136366333)<br>
-13:46 [A propósito del caso Nvidia: qué nos enseña la historia del espionaje sobre la seguridad tecnológica actual](https://www.elperiodico.com/es/tecnologia/20261112/proposito-caso-nvidia-ensena-historia-espionaje-seguridad-tecnologica-actual-136358345)<br>
-13:40 [El escándalo Nvidia, vulnerabilidad 2.0](https://www.elperiodico.com/es/opinion/20261112/escandalo-nvidia-vulnerabilidad-2-0-136367065)<br>
-13:32 [Mario Picazo (64 años), meteorólogo: "Bruna y Charles unen fuerzas. España afronta esta semana uno de los episodios de lluvias más intensos del otoño"](https://www.elperiodico.com/es/tiempo/20261112/borrasca-charles-bruna-lluvias-mario-picazo-el-nino-calentamiento-global-dv-136359900)<br>
-13:32 [Quedamos en paz](https://www.elperiodico.com/es/opinion/20261112/quedamos-paz-136356849)<br>
-13:18 [El Govern movilizará 355 millones de euros para dignificar los barrios de 34 municipios catalanes](https://www.elperiodico.com/es/politica/20261112/govern-movilizara-355-millones-euros-dignificar-barrios-34-municipios-catalanes-136362860)<br>
-13:15 [Los problemas de fallecer sin testar: "Mi padre no dejó testamento cuando murió y fue un infierno"](https://www.elperiodico.com/es/sociedad/20261112/fallecer-sin-testamento-problemas-familia-hijos-pareja-136350017)<br>
-13:14 [La Sagrada Família presenta una escultura de palabras elaborada a partir de la partipación de presos](https://www.elperiodico.com/es/barcelona/20261112/sagrada-familia-presenta-escultura-palabras-136366105)<br>
-13:14 [Aviso a los viajeros de Ryanair: el cambio en el equipaje y los horarios que pueden costarte dinero en el aeropuerto](https://www.elperiodico.com/es/economia/20261112/ryanair-cerrara-facturacion-equipaje-aeropuerto-antes-vuelo-noviembre-dv-135820656)<br>
-13:10 [La Generalitat licita las obras del Fòrum de la Justícia de Tarragona por 71,7 millones](https://www.elperiodico.com/es/tarragona/20261112/generalitat-licita-obras-forum-justicia-millones-euros-136365627)<br>
-13:00 [Así es la casa de Henar Álvarez (41 años) en Madrid: flamencos rosas y explosión de color vintage](https://www.elperiodico.com/es/gente/20261112/henar-alvarez-casa-madrid-vivienda-decoracion-flamencos-vintage-dv-136027267)<br>
-12:52 [Dos de cada tres españoles mayores de 35 años aún no ha planificado cómo dejar su herencia: "No hacerlo puede generar conflictos"](https://www.elperiodico.com/es/sociedad/20261112/mayoria-espanoles-no-planifican-herencia-136364247)<br>
-12:21 [Un rescate a contrarreloj en Gandia: un camión corta el tráfico para salvar a un perro que deambulaba por la carretera](https://www.elperiodico.com/es/sucesos/20261112/rescate-contrarreloj-gandia-camion-corta-trafico-salvar-perro-carretera-dv-136363696)<br>
-12:00 [Sant Joan de Déu reduce un 60% las visitas al hospital de los niños con diabetes gracias a una 'app' móvil](https://www.elperiodico.com/es/sanidad/20261112/ninos-diabetes-hospital-sant-joan-de-deu-reduce-visitas-presenciales-app-seguimiento-automatizado-136257676)<br>
-11:52 [¿Qué Luna hay hoy? Este es calendario lunar de noviembre 2026](https://www.elperiodico.com/es/ciencia/20261112/calendario-lunar-noviembre-2026-luna-hoy-dv-135894119)<br>
-11:46 [Otra teoría de la ola](https://www.elperiodico.com/es/opinion/20261112/teoria-ola-136361907)<br>
-11:46 [Los pozos ilegales en Doñana descienden un 73% en menos de una década](https://www.elperiodico.com/es/sociedad/20261112/pozos-ilegales-donana-descienden-73-menos-una-decada-136355278)<br>
-11:33 [Un oso mantiene en vilo a los vecinos de un pueblito asturiano: "Da respeto tenerlo tan cerca"](https://www.elperiodico.com/es/sociedad/20261112/oso-mantiene-vilo-vecinos-pueblito-136355188)<br>
-11:21 [¿Cuándo es la próxima Luna llena? Fecha y hora para ver la penúltima superluna del año](https://www.elperiodico.com/es/ciencia/20261112/proxima-luna-llena-fecha-hora-superluna-castor-dv-136124605)<br>
-11:00 [José Mijares, español viviendo en Noruega: "Hay muchísimas posibilidades de ver auroras boreales"](https://www.elperiodico.com/es/economia/20261112/noche-polar-sol-noruega-espanol-jose-mijares-dv-136077766)<br>
-10:40 [De Cos suma el apoyo clave de Francia en su carrera para presidir el BCE](https://www.elperiodico.com/es/economia/20261112/francia-abre-puerta-apoyar-hernandez-136358645)<br>
-10:00 [Los psicólogos advierten sobre las canas: "Refleja autenticidad, pero también puede exponer a las mujeres al edadismo"](https://www.elperiodico.com/es/ser-feliz/20261112/canas-mujer-autenticidad-aceptacion-profesional-psicologos-dv-135769051)<br>
-09:33 [España roza los 50 millones de habitantes, tras incorporar casi medio millón de personas en 2026](https://www.elperiodico.com/es/sociedad/20261112/espana-roza-50-millones-habitantes-136355432)<br>
-09:30 [Crítica de 'Washington. El origen de un líder': La película evoca la juventud del primer presidente de EEUU desde cuestionables parámetros ideológicos](https://www.elperiodico.com/es/ocio-y-cultura/20261112/critica-washington-origen-lider-pelicula-136334878)<br>
-09:01 [La investigación del Parc Científic de Barcelona recaudó 85 millones de euros en 2025, su nuevo récord](https://www.elperiodico.com/es/economia/20261112/investigacion-parc-cientific-barcelona-recaudo-85-millones-2025-136295605)<br>
-08:30 [Crítica de 'La violinista': Un delicado filme de animación en el que la música es una de las pocas formas de supervivencia afectiva en tiempos de guerra](https://www.elperiodico.com/es/ocio-y-cultura/20261112/critica-violinista-delicado-filme-animacion-136334504)<br>
-08:00 [Los vecinos del antiguo KGB rechazan los planes de su nuevo gestor y exigen el cierre de la discoteca: “Su proyecto no es bienvenido”](https://www.elperiodico.com/es/barcelona/20261112/vecinos-antiguo-kgb-rechazan-planes-136345388)<br>
-07:54 [Toda generación merece sus conquistas](https://www.elperiodico.com/es/opinion/20261112/generacion-merece-conquistas-136353341)<br>
-07:50 [El derrumbe de un edificio en Nueva York deja al menos ocho muertos y 19 heridos](https://www.elperiodico.com/es/internacional/20261112/dos-muertos-17-heridos-derrumbarse-edificio-nueva-york-136353684)<br>
-07:40 [El curioso nacimiento de Onyva: de conducir el metro a conquistar Barcelona a golpe de café](https://www.elperiodico.com/es/gastronomia/20261112/cafeteria-onyva-barcelona-135674250)<br>
-07:33 [Telefónica deja atrás las pérdidas con un beneficio de 464 millones y eleva sus objetivos para todo el año](https://www.elperiodico.com/es/economia/20261112/telefonica-resultados-nueve-meses-beneficio-464-millones-136353226)<br>
-07:21 [Nvidia prepara la destitución de su consejero delegado tras destaparse relaciones extramatrimoniales con una presunta espía y empleada](https://www.elperiodico.com/es/internacional/20261112/nvidia-estudia-cesar-consejero-delegado-jensen-huang-relacion-presunta-espia-china-136352946)<br>
-06:45 ["La Administración también comete injusticias"](https://www.elperiodico.com/es/entre-todos/participacion/administracion-comete-injusticias-carta-lector-alba-velasco-135832242)<br>
-06:45 ["Es un error que esta huelga utilice la vivienda como lema cuando hay otros problemas igual de graves"](https://www.elperiodico.com/es/entre-todos/participacion/huelga-11n-problemas-vivienda-carta-lector-alex-diaz-136310550)<br>
-06:30 [¿Peligra el sueño americano por la crisis de la vivienda?](https://www.elperiodico.com/es/internacional/20261112/crisis-vivienda-acabar-sueno-americano-bienvenidos-a-eeuu-videopodcast-136267139)<br>
-06:01 [Lo que gana el Santander con el final de la sucesión familiar de los Botín](https://www.elperiodico.com/es/opinion/20261112/ana-botin-banco-santander-sucesion-familia-136349691)<br>
-06:01 [Tratar con psicoterapia a mujeres embarazadas logra que sus bebés tengan una mejor salud emocional, según un estudio](https://www.elperiodico.com/es/ser-feliz/20261112/tratar-psicoterapia-mujeres-embarazadas-logra-135764098)<br>
-04:50 ['La luz y el hilo', de Han Kang: la premio Nobel más lírica](https://www.elperiodico.com/es/ocio-y-cultura/libros/20261112/han-kang-critica-libro-luz-hilo-136026046)<br>
-04:50 [Manuela Moulian, infografista: "Todavía hay mucho potencial por explorar"](https://www.elperiodico.com/es/ocio-y-cultura/libros/20261112/manuela-moulian-infografista-libros-136030820)<br>
+06:00 [Condenan a Louis Vuitton por recortar las comisiones a sus vendedores del Passeig de Gràcia](https://www.elperiodico.com/es/economia/20261113/louis-vuitton-comisiones-vendedores-passeig-de-gracia-sentencia-judicial-136382953)<br>
+06:00 [Un potente 'río atmosférico' del Caribe trae a España los primeros efectos indirectos del 'Superniño'](https://www.elperiodico.com/es/sociedad/20261113/potente-efectos-nino-espana-rio-atmosferico-caribe-136367801)<br>
+06:00 [Martin McDonagh, director de cine: "A veces hay que responder a las balas con balas"](https://www.elperiodico.com/es/ocio-y-cultura/20261113/martin-mcdonagh-director-cine-veces-136380516)<br>
+06:00 [María Jesús González y Patricia Gómez, artistas: "Los manicomios son el reflejo de la sociedad que hemos creado"](https://www.elperiodico.com/es/ser-feliz/20261113/maria-jesus-gonzalez-patricia-gomez-136361134)<br>
