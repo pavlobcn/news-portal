@@ -1,8 +1,9 @@
-# News for 2026-11-13 21:28
+# News for 2026-11-13 23:10
 
 Previous day: [2026-11-12](./data/2026-11-12.md)
 
 ## ua.korrespondent.net
+21:34 [Tinder приховував частину даних користувачів: деталі справи](https://ua.korrespondent.net/business/companies/4928610-Tinder-prykhovuvav-chastynu-danykh-korystuvachiv-detali-spravy)<br>
 20:57 [У Північній Македонії місто потерпає від навали корів](https://ua.korrespondent.net/world/4928604-u-pivnichnii-makedonii-misto-poterpaie-vid-navaly-koriv)<br>
 20:05 [Італію накрили потужні шторми: людей рятують із водяних пасток](https://ua.korrespondent.net/world/4928594-italiui-nakryly-potuzhni-shtormy-luidei-riatuuit-iz-vodianykh-pastok)<br>
 19:48 [Google представила нову версію ШІ Gemini](https://ua.korrespondent.net/tech/technews/4928592-Google-predstavyla-novu-versiui-shi-Gemini)<br>
@@ -41,6 +42,8 @@ Previous day: [2026-11-12](./data/2026-11-12.md)
 07:22 [Нічна атака РФ: зафіксовано влучання на 24 локаціях](https://ua.korrespondent.net/ukraine/4928368-nichna-ataka-rf-zafiksovano-vluchannia-na-24-lokatsiiakh)<br>
 
 ## as.com
+22:53 [Resumen del Panathinaikos vs. Barcelona de Euroliga](https://as.com/videos/euroliga/resumen-del-panathinaikos-vs-barcelona-de-euroliga-f202611-v/)<br>
+22:47 [Justin Robinson, 141 segundos de tormenta perfecta](https://as.com/baloncesto/euroliga/justin-robinson-141-segundos-de-tormenta-perfecta-f202611-n/)<br>
 21:20 [Panathinaikos – Barcelona, en directo: Euroliga 2026-27 en vivo hoy](https://as.com/baloncesto/euroliga/panathinaikos-barcelona-en-directo-euroliga-2026-27-en-vivo-hoy-f202611-d/)<br>
 19:54 [Kenneth Faried, baja ante el Real Madrid](https://as.com/baloncesto/kenneth-faried-baja-ante-el-real-madrid-f202611-n/)<br>
 19:49 [Matt Thomas se despide del Unicaja antes de tiempo](https://as.com/baloncesto/matt-thomas-se-despide-del-unicaja-antes-de-tiempo-f202611-n/)<br>
@@ -54,6 +57,8 @@ Previous day: [2026-11-12](./data/2026-11-12.md)
 05:18 [Un Obradovic para dominarlos a todos](https://as.com/baloncesto/euroliga/un-obradovic-para-dominarlos-a-todos-f202611-n/)<br>
 
 ## www.elperiodico.com
+23:01 [Un Barça sideral tumba al líder Panathinaikos con una remontada imposible en Atenas (74-76)](https://www.elperiodico.com/es/deportes/20261113/barca-sideral-tumba-lider-panathinaikos-136427940)<br>
+22:31 [EEUU ordena paralizar todos los vuelos por un "problema en las comunicaciones"](https://www.elperiodico.com/es/internacional/20261113/estados-unidos-ordena-suspender-despegues-136427697)<br>
 21:00 [El obispo Octavi Vilà, un pastor para una gran ciudad](https://www.elperiodico.com/es/opinion/20261113/octavi-vila-arzobispo-barcelona-opinion-armand-puig-tarrech-136425458)<br>
 20:50 [Repensar las cumbres del clima](https://www.elperiodico.com/es/opinion/20261113/repensar-cumbres-clima-turquia-editorial-136425250)<br>
 20:32 [La presión migratoria en El Hierro obliga al refuerzo exprés del hospital de la isla](https://www.elperiodico.com/es/sociedad/20261113/presion-migratoria-hierro-obliga-refuerzo-136425082)<br>
