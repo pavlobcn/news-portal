@@ -1,5 +1,446 @@
 [
   {
+    "title": "Глобальний збій Microsoft: хто постраждав",
+    "link": "https://ua.korrespondent.net/business/companies/4928395-hlobalnyi-zbii-Microsoft-khto-postrazhdav",
+    "pubDate": "2026-11-13 09:21:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4636989.jpg\">Масштабний збій у сервісах Microsoft стався через масовий вихід серверів з ладу. У компанії заявили, що не виявили ознак кібератаки, а відновлення інфраструктури відбувалося поступово.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "НХЛ: Вінніпег закинув вісім шайб у ворота Далласа",
+    "link": "https://ua.korrespondent.net/sport/hokey/4928393-nkhl-vinnipeh-zakynuv-visim-shaib-u-vorota-dallasa",
+    "pubDate": "2026-11-13 09:19:00",
+    "category": "Новини хокею",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4636970.jpg\">У Національній хокейній лізі відбулися чергові поєдинки регулярного чемпіонату, де Вінніпег продемонстрував шалену результативність.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 88
+  },
+  {
+    "title": "Técnicas Reunidas gana un 12% más hasta septiembre y recupera el dividendo a cuenta tras cartera récord",
+    "link": "https://www.elperiodico.com/es/economia/20261113/tecnicas-reunidas-gana-12-septiembre-136397163",
+    "pubDate": "2026-11-13 09:17:23",
+    "category": "",
+    "description": "<h2>El grupo de ingeniería eleva su posición de caja neta hasta los 627,6 millones de euros gracias al anticipo de importantes proyectos internacionales en Emiratos Árabes y Canadá</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Feijóo, de la mano de Ayuso, se lanza a por los jóvenes en su primer acto de campaña",
+    "link": "https://www.elperiodico.com/es/politica/20261113/feijoo-mano-ayuso-lanza-jovenes-136397087",
+    "pubDate": "2026-11-13 09:15:31",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "No se llaman como crees: estos son los 9 pueblos de Catalunya que están mal escritos en catalán",
+    "link": "https://www.elperiodico.com/es/catalunya/20261113/pueblos-cataluna-toponimos-nombres-municipio-normativa-linguistica-catalan-dv-loc-136162376",
+    "pubDate": "2026-11-13 09:15:00",
+    "category": "",
+    "description": "<h2>Algunos municipios catalanes mantienen nombres oficiales que no se ajustan a la normativa lingüística debido a discrepancias ortográficas, etimológicas o a cambios impuestos durante el franquismo</h2><h2><a href=\"https://www.elperiodico.com/es/catalunya/20250703/cataluna-poblacion-cabaces-nombre-castellano-tarragona-dv-113439081\">Este es el único municipio de Catalunya que mantiene el nombre en castellano</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Ibex 35 apunta a la baja y pierde los 20.000 puntos con los tipos y la crisis de Nvidia en el foco",
+    "link": "https://www.elperiodico.com/es/economia/20261113/ibex-35-apunta-baja-pierde-136396820",
+    "pubDate": "2026-11-13 09:05:20",
+    "category": "",
+    "description": "<h2>Las Bolsas europeas mantienen una tendencia bajista mientras los inversores asimilan la destitución de Jensen Huang como director ejecutivo de Nvidia tras conocerse sus relaciones personales</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "\"Свіжі міркування\": РФ готує нові вимоги до НАТО",
+    "link": "https://ua.korrespondent.net/world/4928390-svizhi-mirkuvannia-rf-hotuie-novi-vymohy-do-nato",
+    "pubDate": "2026-11-13 09:03:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4636967.jpg\">Після переговорів з Віткоффом і Кушнером у Кремлі знову згадали вимоги до НАТО, висунуті перед повномасштабним вторгненням в Україну. Москва планує доповнити їх новими пропозиціями, зміст яких поки не розкриває.",
+    "topic": "політика",
+    "topic_match_probability": 96
+  },
+  {
+    "title": "El IPC se mantiene en el 4,9% en octubre y encadena tres meses por encima del 4%",
+    "link": "https://www.elperiodico.com/es/economia/20261113/ine-confirma-ipc-siguio-octubre-136396732",
+    "pubDate": "2026-11-13 09:01:53",
+    "category": "",
+    "description": "<h2 class=\"item\">La moderación de los precios de los alimentos, la ropa y los carburantes compensa el encarecimiento del gas y la menor caída de los paquetes turísticos. La inflación subyacente permanece en el 3,1%</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Jordi Wild entrevista a Ada Colau, en directo | Última hora de la candidata de Frente Amplio y el 'streamer' en 'The Wild Project' en Youtube",
+    "link": "https://www.elperiodico.com/es/politica/20261113/jordi-wild-entrevista-ada-colau-feijoo-pedro-sanchez-ultima-hora-directo-136395456",
+    "pubDate": "2026-11-13 08:58:00",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У США виписали з лікарні немовля, яке поховали живцем",
+    "link": "https://ua.korrespondent.net/world/4928293-u-ssha-vypysaly-z-likarni-nemovlia-yake-pokhovaly-zhyvtsem",
+    "pubDate": "2026-11-13 08:57:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4636201.jpg\">У США 11-місячного хлопчика, якого раніше знайшли живцем закопаним у клітці для собак, нарешті виписали з лікарні та передали під опіку родичів.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "НБА: Детройт у напруженій грі дотиснув Вашингтон",
+    "link": "https://ua.korrespondent.net/sport/basketball/4928388-nba-detroit-u-napruzhenii-hri-dotysnuv-vashynhton",
+    "pubDate": "2026-11-13 08:48:00",
+    "category": "Новини баскетболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4636944.jpg\">Черговий ігровий день у НБА подарував уболівальникам як безапеляційний розгром, так і напружену баскетбольну драму.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Enagás eleva su participación al 49,5% en la francesa Teréga tras comprar a EDF un 18% por 311 millones",
+    "link": "https://www.elperiodico.com/es/economia/20261113/enagas-eleva-participacion-terega-comprar-edf-136396375",
+    "pubDate": "2026-11-13 08:45:50",
+    "category": "",
+    "description": "<h2>La adquisición no supone un cambio de control ni modifica la gobernanza de Teréga</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Venta de entradas para los conciertos de U2 en Barcelona y Sevilla: a qué hora se pueden comprar, precios y dónde comprar",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261113/entradas-u2-venta-precios-donde-comprar-136323648",
+    "pubDate": "2026-11-13 08:43:00",
+    "category": "",
+    "description": "<h2>La banda regresa a España nueve años después de su último directo para actuar en el Estadi Olímpic Lluís Companys y La Cartuja</h2><h2>La venta general de entradas comienza este viernes 13 de noviembre</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Є загиблі і поранені: нові дані про атаку на Одесу",
+    "link": "https://ua.korrespondent.net/city/odessa/4928385-ye-zahybli-i-poraneni-novi-dani-pro-ataku-na-odesu",
+    "pubDate": "2026-11-13 08:41:00",
+    "category": "Одеса",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4636943.jpg\">Унаслідок російської атаки на Одесу загинули двоє людей. Ще п’ятеро дістали поранення, двоє з них перебувають у важкому стані.",
+    "topic": "політика",
+    "topic_match_probability": 86
+  },
+  {
+    "title": "Підсумковий турнір став історичним антирекордом для Костюк",
+    "link": "https://ua.korrespondent.net/sport/tenis/4928384-pidsumkovyi-turnir-stav-istorychnym-antyrekordom-dlia-kostuik",
+    "pubDate": "2026-11-13 08:32:00",
+    "category": "Новини тенісу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4636942.jpg\">Чергова невдача на престижних змаганнях продовжила серію поразок Марти, яка тепер стала найдовшою в професійній кар'єрі спортсменки.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 92
+  },
+  {
+    "title": "Режисер Комаровський переніс третю операцію",
+    "link": "https://ua.korrespondent.net/lifestyle/4928300-rezhyser-komarovskyi-perenis-tretui-operatsiui",
+    "pubDate": "2026-11-13 08:29:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4636250.jpg\">Боротьба з раком триває: Олексій Комаровський переніс третє хірургічне втручання.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Guerra Ucrania - Rusia, última hora en directo",
+    "link": "https://www.elperiodico.com/es/internacional/20261113/guerra-ucrania-rusia-ultima-hora-126605559",
+    "pubDate": "2026-11-13 08:25:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Directo GUERRA DE IRÁN | Última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Генштаб оновив дані з фронту",
+    "link": "https://ua.korrespondent.net/ukraine/4928381-henshtab-onovyv-dani-z-frontu",
+    "pubDate": "2026-11-13 08:24:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4636920.jpg\">Російські війська за добу завдали 67 авіаударів, скинули 232 керовані авіабомби та застосували понад 6,8 тисячі дронів-камікадзе. Загалом Генштаб зафіксував 175 боєзіткнень.",
+    "topic": "політика",
+    "topic_match_probability": 88
+  },
+  {
+    "title": "Las mejores imágenes de la gala de los Latin Grammy",
+    "link": "https://www.elperiodico.com/es/fotos/ocio-y-cultura/mejores-imagenes-gala-latin-grammy-fotos-136395907",
+    "pubDate": "2026-11-13 08:23:13",
+    "category": "",
+    "description": "",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "Inestabilidad en Oriente Medio | Efectos de la guerra en Irán",
+    "link": "https://www.elperiodico.com/es/internacional/20261113/elecciones-israel-guerra-iran-ultima-hora-directo-130265713",
+    "pubDate": "2026-11-13 08:15:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20260410/guerra-ucrania-rusia-ultima-hora-zelenski-trump-putin-directo-126605559\" >DIRECTO | Guerra Ucrania - Rusia, en directo: última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 96
+  },
+  {
+    "title": "\"No sé dónde está\": la pareja de \"El Ruso\" queda en libertad, mientras los GEO peinan otra vez Oviedo en busca del autor del tiroteo y la mochila bomba",
+    "link": "https://www.elperiodico.com/es/sucesos/20261113/pareja-ruso-queda-libertad-geo-136395700",
+    "pubDate": "2026-11-13 08:13:25",
+    "category": "",
+    "description": "<h2>Tatiana B. T. podrá regresar a su vivienda de Villafría pese al rechazo de parte del vecindario, que reconoce tener miedo después de los acontecimientos del martes</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Carolina (29 años), de policía en Venezuela a electricista en España: \"Lloraba y decía que ya no podía más, que esto no era para mí\"",
+    "link": "https://www.elperiodico.com/es/economia/20261113/carolina-marrero-29-anos-policia-venezuela-electricista-dv-136378503",
+    "pubDate": "2026-11-13 08:10:05",
+    "category": "",
+    "description": "<h2>La joven, que actualmente trabaja como autónoma en el País Vasco, explica cómo consiguió reinventarse profesionalmente después de pasar por varios países y compaginar sus estudios con el trabajo y el cuidado de su hija</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261103/antonio-gonzalez-47-anos-especialista-reformas-obras-dv-135896281\">Antonio González (47 años), especialista en reformas: \"Los albañiles de toda la vida, por desgracia, están desapareciendo ya\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Vivir lejos de la civilización: Yaroslav (81 años) y Lyuba (83) sostienen en solitario su granja en Ucrania",
+    "link": "https://www.elperiodico.com/es/economia/20261113/ancianos-cuidado-granja-finca-animales-cocina-tradicional-ucrania-yaroslav-lyuba-dv-et-135056093",
+    "pubDate": "2026-11-13 08:10:00",
+    "category": "",
+    "description": "<h2>El hombre se encarga del cuidado de los animales y su mujer, de cocinar de forma tradicional</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260915/adaptacion-antigua-casa-rural-ucrania-lavadora-agua-huerto-ivan-dv-et-133739556\" >La adaptación de Ivan en una antigua casa rural en los Montes Cárpatos: \"Siempre hay mucho trabajo en la tierra, pero es agradable ver cómo todo cobra vida poco a poco\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261005/vida-autosuficiente-campo-bienes-materiales-cultivos-felicidad-libertad-italia-franco-dv-et-134401948\" >Franco, agricultor que dejó la ciudad para volver al campo: “Yo como de mi huerto, mi supermercado es el jardín”</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Не стало ексгравця збірної Аргентини та учасника ЧС",
+    "link": "https://ua.korrespondent.net/sport/football/4928378-ne-stalo-ekshravtsia-zbirnoi-arhentyny-ta-uchasnyka-chs",
+    "pubDate": "2026-11-13 08:05:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4636901.jpg\">Ексфутболіст був відомий, зокрема, своїми виступами за головну команду країни, у складі якої він захищав кольори Аргентини на чемпіонаті світу 1974 року.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 97
+  },
+  {
+    "title": "El tráfico y el transporte público, en directo",
+    "link": "https://www.elperiodico.com/es/trafico-y-transportes/20261113/trafico-transporte-publico-directo-cortes-134053870",
+    "pubDate": "2026-11-13 08:05:00",
+    "category": "",
+    "description": "",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "\"Не частина РФ\": Мінськ заговорив про діалог з ЄС",
+    "link": "https://ua.korrespondent.net/world/4928376-ne-chastyna-rf-minsk-zahovoryv-pro-dialoh-z-yes",
+    "pubDate": "2026-11-13 08:01:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4636900.jpg\">Заступник міністра закордонних справ Білорусі Ігор Секрета заявив про нібито зміну ставлення ЄС до Мінська. За його словами, у Європі помічають готовність білоруського керівництва до діалогу.",
+    "topic": "політика",
+    "topic_match_probability": 94
+  },
+  {
+    "title": "Las discotecas del Front Marítim de Barcelona quieren blindar su actividad a largo plazo tras su compra por parte del CZFB",
+    "link": "https://www.elperiodico.com/es/barcelona/20261113/discotecas-front-maritim-barcelona-piden-contratos-largos-continuar-ocio-nocturno-mejorar-calidad-136383495",
+    "pubDate": "2026-11-13 08:00:01",
+    "category": "",
+    "description": "<h2 class=\"item\">Reivindican nuevos contratos de alquiler más de 15 años para afrontar reformas millonarias en los cinco locales de ocio nocturno y mejorar la calidad de la zona</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20261112/barcelona-czfb-acuerdan-compra-centre-136364217\">Barcelona y el CZFB acuerdan la compra del Centre de la Vila y locales del Front Marítim al Estado por 97 millones de euros</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260520/barcelona-discotecas-front-maritim-cierre-130451702\">El gobierno Collboni avala la continuidad de las discotecas del Front Marítim de Barcelona</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Crítica de 'Infamia' (HBO Max): un misterio orgullosamente lento con una protagonista extraordinaria",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261113/critica-infamia-hbo-serie-susana-abaitua-136366347",
+    "pubDate": "2026-11-13 08:00:01",
+    "category": "",
+    "description": "<h2 class=\"item\">A la adaptación del éxito literario de Ledicia Costas le faltan tensión narrativa y originalidad, pero Susana Abaitua consigue dar electricidad a cada silencio </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20261103/critica-american-hostage-movistar-plus-jon-hamm-136027509\" target=\"_blank\">Crítica de 'American hostage' (Movistar Plus): Jon Hamm saca su lado heroico en un 'true crime' sobre alienación y paranoia</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "Menús exclusivos, descuentos, maridajes y promociones especiales en restaurantes de Barcelona (y otros buenos planes gastro para este finde)",
+    "link": "https://www.elperiodico.com/es/gastronomia/20261113/foodie-black-week-barcelona-2026-136250976",
+    "pubDate": "2026-11-13 07:56:45",
+    "category": "",
+    "description": "<h2 class=\"item\">Aquí tienes unas propuestas suculentas que ningún gurmet debería perderse</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20221018/restaurantes-hotel-barcelona-75238627\">Los mejores restaurantes de hotel donde comerás de fábula</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20261101/150-hoteles-quedarse-comer-135521998\">150 hoteles donde quedarse a comer</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Cómo celebrar el Día Mundial de la Ensaladilla Rusa con una receta diferente: de anguila ahumada y mayonesa japonesa",
+    "link": "https://www.elperiodico.com/es/gastronomia/recetas/20261113/receta-ensaladilla-rusa-anguila-ahumada-manda-huevos-136098609",
+    "pubDate": "2026-11-13 07:55:39",
+    "category": "",
+    "description": "<h2 class=\"item\">Este platillo se puede probar en el restaurante <a href=\"https://www.elperiodico.com/es/gastronomia/20250917/restaurante-manda-huevos-barcelona-121592902\">Manda Huevos</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20260709/mejores-ensaladillas-rusas-barcelona-108351103\">Estas son las mejores ensaladillas rusas de Barcelona: tradicionales, evolucionadas...</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/20260706/historia-ensaladilla-rusa-132019835\">De la ensaladilla guarra a la ensaladilla elegante</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Свята 13 листопада 2026 року: історія, традиції",
+    "link": "https://ua.korrespondent.net/lifestyle/4928206-sviata-13-lystopada-2026-roku-istoriia-tradytsii",
+    "pubDate": "2026-11-13 07:48:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4635871.jpg\">За народними прикметами дня можна визначити, якою буде погода найближчим часом і взимку.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Alejandro Inurrieta, experto en vivienda, sobre la crisis del alquiler: \"Va a ser imposible, gobierne quien gobierne\"",
+    "link": "https://www.elperiodico.com/es/vivienda/20261113/alejandro-inurrieta-experto-vivienda-crisis-alquiler-dv-136374716",
+    "pubDate": "2026-11-13 07:45:49",
+    "category": "",
+    "description": "<h2 class=\"item\">El expresidente de la Sociedad Pública de Alquiler compara el déficit español con Viena y Holanda y critica las recetas de PP y Vox</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/vivienda/20261111/montse-cespedosa-experta-hipotecas-vivienda-mercado-inmobiliario-poder-comprador-dv-136172127\" >Montse Cespedosa, experta en hipotecas, advierte a quienes quieren comprar una vivienda: \"Mucha gente que podía comprar en 2025 ya no puede comprar en 2026\"</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 72
+  },
+  {
+    "title": "Армія РФ атакувала Запоріжжя: загинув підліток",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4928372-armiia-rf-atakuvala-zaporizhzhia-zahynuv-pidlitok",
+    "pubDate": "2026-11-13 07:43:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4636870.jpg\">У Запоріжжі внаслідок російського обстрілу загинув 17-річний хлопець. Ще четверо людей, зокрема 10-річна дитина, постраждали.",
+    "topic": "політика",
+    "topic_match_probability": 86
+  },
+  {
+    "title": "¿Cuándo salen las entrevistas de Jordi Wild a Pedro Sánchez, Feijóo y Ada Colau en 'The Wild Project' en Youtube? Hora de emisión este viernes",
+    "link": "https://www.elperiodico.com/es/tele/20261113/entrevistas-jordi-wild-pedro-sanchez-feijoo-ada-colau-youtube-a-que-hora-136365066",
+    "pubDate": "2026-11-13 07:41:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20261113/jordi-wild-entrevista-ada-colau-feijoo-pedro-sanchez-ultima-hora-directo-136395456\">Sigue en directo las entrevistas de Jordi Wild a Pedro Sánchez, Feijóo y Ada Colau este viernes</a></h2><h2><a href=\"https://www.elperiodico.com/es/tele/yotele/20261112/jordi-wild-quien-es-entrevistas-pedro-sanchez-feijoo-ada-colau-youtube-135774988\">¿Quién es Jordi Wild? </a></h2>",
+    "topic": "блогери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Гравець клубу УПЛ став батьком сина",
+    "link": "https://ua.korrespondent.net/sport/football/4928306-hravets-klubu-upl-stav-batkom-syna",
+    "pubDate": "2026-11-13 07:39:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4636253.jpg\">У родині захисника Олександрії відбулося поповнення - футболіст Юрій Копина та його дружина Роксоляна стали батьками.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 88
+  },
+  {
+    "title": "Нічна атка РФ: зафіксовано влучання на 24 локаціях",
+    "link": "https://ua.korrespondent.net/ukraine/4928368-nichna-atka-rf-zafiksovano-vluchannia-na-24-lokatsiiakh",
+    "pubDate": "2026-11-13 07:22:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4636848.jpg\">Серед 117 безпілотників, якими Росія атакувала Україну вночі, було 63 реактивні Shahed. Сили оборони знешкодили 80 ворожих дронів.",
+    "topic": "політика",
+    "topic_match_probability": 86
+  },
+  {
+    "title": "Третя невдача поспіль: Костюк залишила турнір",
+    "link": "https://ua.korrespondent.net/sport/tenis/4928369-tretia-nevdacha-pospil-kostuik-zalyshyla-turnir",
+    "pubDate": "2026-11-13 07:12:00",
+    "category": "Новини тенісу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4636850.jpg\">Українка мала комфортну перевагу 5:1, але через проблеми із зап'ястком не змогла дотиснути суперницю і віддала матч.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 92
+  },
+  {
+    "title": "Гороскоп на 13 листопада 2026 року для всіх знаків зодіаку",
+    "link": "https://ua.korrespondent.net/lifestyle/4928198-horoskop-na-13-lystopada-2026-roku-dlia-vsikh-znakiv-zodiaku",
+    "pubDate": "2026-11-13 07:06:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4635849.jpg\">День може бути продуктивним для завершення важливих справ, планування та наведення порядку в робочих і фінансових питаннях.",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Montan el primer Vermuteo Fest en un mercado municipal de Santa Coloma",
+    "link": "https://www.elperiodico.com/es/que-hacer/planes/20261113/primer-vermuteo-fest-mercado-municipal-santa-coloma-gramanet-mercat-segarra-tardeo-viral-136308681",
+    "pubDate": "2026-11-13 07:01:18",
+    "category": "",
+    "description": "<h2 style=\"text-align: justify;\">Acaban de anunciarlo y ya es un éxito. Más de 26 mil personas han visto el cartel. Todo apunta a que el Mercat Sagarra volverá a anotarse un tanto de ocio diurno tras el multitudinario tardeo viral que atrajo a miles de personas en mayo </h2><h2 style=\"text-align: justify;\"><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20261112/reyes-tardeos-masas-abren-primer-beach-club-castelldefels-paripe-bikini-136355831\" target=\"_blank\">Los reyes de los tardeos de masas abren este viernes su primer beach club en Castelldefels</a></h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 92
+  },
+  {
+    "title": "Raphinha, una operación de un quiste, la cinta protectora y las críticas en Brasil",
+    "link": "https://www.elperiodico.com/es/deportes/20261113/raphinha-operacion-quiste-cinta-protectora-136383331",
+    "pubDate": "2026-11-13 07:01:15",
+    "category": "",
+    "description": "<h2>El delantero del Barça adelantó una intervención en la oreja izquierda, justo después del clásico, para estar presente en la doble cita de amistosos de la 'canarinha' y aun así algunos en su país le han reprochado que quiera dosificar sus minutos de juego </h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Esto es sólo el principio",
+    "link": "https://www.elperiodico.com/es/tele/20261113/principio-136375681",
+    "pubDate": "2026-11-13 07:01:13",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Susana Abaitua, sobre sus escenas más duras en 'Infamia': \"El cerebro sabe que estás actuando, pero el cuerpo no tanto\"",
+    "link": "https://www.elperiodico.com/es/tele/20261113/susana-abaitua-infamia-serie-hbo-136365453",
+    "pubDate": "2026-11-13 07:01:07",
+    "category": "",
+    "description": "<h2 class=\"item\">La actriz protagoniza la nueva serie española de HBO, un 'thriller' ambientado en el País Vasco que se estrena este viernes</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/20261031/estrenos-noviembre-2026-netflix-disney-hbo-prime-movistar-apple-filmin-skyshowtime-135813200\">Las 10 series que no te puedes perder este noviembre</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "¿Puedes cargar tu coche eléctrico mientras está lloviendo o nevando?",
+    "link": "https://www.elperiodico.com/es/motor/20261113/puedes-cargar-coche-electrico-lloviendo-136340915",
+    "pubDate": "2026-11-13 07:01:07",
+    "category": "",
+    "description": "<h2>Los sistemas de aislamiento hermético y las protecciones electrónicas garantizan una recarga 100% segura bajo la lluvia</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Росіяни вдарили по Одесі: є пошкодження",
+    "link": "https://ua.korrespondent.net/city/odessa/4928366-rosiiany-vdaryly-po-odesi-ye-poshkodzhennia",
+    "pubDate": "2026-11-13 07:01:00",
+    "category": "Одеса",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4636829.jpg\">В Одесі внаслідок ранкової російської атаки пошкоджено приватну оселю. Інформація про інші наслідки уточнюється.",
+    "topic": "політика",
+    "topic_match_probability": 84
+  },
+  {
+    "title": "Атака РФ на Вінницю: кількість постраждалих зросла",
+    "link": "https://ua.korrespondent.net/ukraine/4928363-ataka-rf-na-vinnytsui-kilkist-postrazhdalykh-zrosla",
+    "pubDate": "2026-11-13 06:53:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4636825.jpg\">Унаслідок російського удару постраждали дві жінки. Вони обидві перебувають у лікарнях, де їм надають необхідну допомогу.",
+    "topic": "політика",
+    "topic_match_probability": 84
+  },
+  {
+    "title": "Легенда Динамо залишив Азію та заговорив про УПЛ",
+    "link": "https://ua.korrespondent.net/sport/football/4928298-lehenda-dynamo-zalyshyv-aziui-ta-zahovoryv-pro-upl",
+    "pubDate": "2026-11-13 06:48:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4636203.jpg\">Фахівець зробив гучну заяву про можливе повернення до української Прем'єр-ліги, наголосивши, що його абсолютно не лякає складна безпекова ситуація в країні.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 94
+  },
+  {
+    "title": "Rosalía arrasa en los Latin Grammy de Daddy Yankee: \"Tengo todo lo que hace falta para ser la mejor\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261113/rosalia-latin-grammy-premios-daddy-yankee-136394643",
+    "pubDate": "2026-11-13 06:33:21",
+    "category": "",
+    "description": "<h2>La artista se lleva cinco premios, incluido el de mejor álbum y canción, en una noche convertida en homenaje al padre del reguetón</h2><h2><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20261104/nueva-biografia-rosalia-analiza-claves-creativas-136075865\">Una nueva biografía de Rosalía analiza sus claves creativas como \"artista global e interdisciplinar\"</a></h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El rencor infinito de Valentino Rossi",
+    "link": "https://www.elperiodico.com/es/deportes/20261113/rencor-infinito-valentino-rossi-136390897",
+    "pubDate": "2026-11-13 06:21:30",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 88
+  },
+  {
+    "title": "Генштаб назвав втрати Росії станом на 13 листопада",
+    "link": "https://ua.korrespondent.net/ukraine/4928359-henshtab-nazvav-vtraty-rosii-stanom-na-13-lystopada",
+    "pubDate": "2026-11-13 06:19:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4636779.jpg\">Українські оборонці за останні 24 години знищили одинадцять бойових броньованих машин, танк, 44 артсистеми і 469 одиниць автотехніки та автоцистерн ворога.",
+    "topic": "політика",
+    "topic_match_probability": 88
+  },
+  {
     "title": "El Dacia Spring ya no es solo un eléctrico barato: ahora es una ganga",
     "link": "https://www.elperiodico.com/es/motor/20261113/nuevo-dacia-spring-segunda-generacion-electrico-barato-136381699",
     "pubDate": "2026-11-13 06:01:20",
@@ -72,6 +513,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Próxima parada para el nuevo Gobierno: renovar el transporte sin frenar el país",
+    "link": "https://www.elperiodico.com/es/economia/20261113/proxima-parada-nuevo-gobierno-renovar-136394045",
+    "pubDate": "2026-11-13 06:00:41",
+    "category": "",
+    "description": "<h2>Las catástrofes de Adamuz y Urda han puesto el foco en la degradación de las infraestructuras españolas, no solo las ferroviarias, que enfrentan retos como la financiación, el mantenimiento o la saturación de las carreteras</h2>",
+    "topic": "політика",
+    "topic_match_probability": 82
+  },
+  {
     "title": "Un potente 'río atmosférico' del Caribe trae a España los primeros efectos indirectos del 'Superniño'",
     "link": "https://www.elperiodico.com/es/sociedad/20261113/potente-efectos-nino-espana-rio-atmosferico-caribe-136367801",
     "pubDate": "2026-11-13 06:00:40",
@@ -86,6 +536,15 @@
     "pubDate": "2026-11-13 06:00:40",
     "category": "",
     "description": "<h2 class=\"item\">La película 'Wild Horse Nine' explora la relación de dos espías estadounidenses en la isla de Pascua que intenta derrocar al gobierno de Salvador Allende</h2><h2 class=\"item\">\"Cuando creces en Occidente, te inculcan que la CIA son los buenos y el KGB los malos. Pero hoy sabemos lo que hizo Estados Unidos en tantos lugares del mundo para desestabilizar y contribuir al derrocamiento de gobiernos elegidos democráticamente\", afirma el director</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Enric Botí, delegado de la ONCE en Catalunya: \"Nuestro mejor premio es la confianza de la ciudadanía\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261113/enric-boti-delegado-once-catalunya-136366834",
+    "pubDate": "2026-11-13 06:00:37",
+    "category": "",
+    "description": "<h2 class=\"item\">El grupo empresarial que emplea a más personas con discapacidad del mundo escoge Barcelona para estrenar el monumento interactivo 'Ens faltes tu', un tándem gigante dedicado a la diversidad</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260226/eva-marc-superar-formacion-talento-inteligencia-artificial-once-discapacidad-127294223\">La ONCE abre en Barcelona un centro de formación de IA y ciberseguridad para personas con discapacidad: \"La mano de obra del futuro tiene que ser diversa\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20250709/personas-discapacidad-autoexcluyen-ofertas-trabajo-encuesta-119524441\">6 de cada 10 personas con discapacidad se autoexcluyen de las ofertas de trabajo: \"No me atreví a enviar el currículum\"</a></h2>",
     "topic": "",
     "topic_match_probability": 0
   },
