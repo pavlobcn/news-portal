@@ -1,5 +1,455 @@
 [
   {
+    "title": "Росія висунула вимоги щодо кордонів НАТО - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/russia/4928666-rosiia-vysunula-vymohy-schodo-kordoniv-nato-zmi",
+    "pubDate": "2026-11-14 08:22:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4638421.jpg\">Кремль вимагає від НАТО повернутися до кордонів 1997 року та припинити військову підтримку України.",
+    "topic": "політика",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "Cortada la AP-7 en Mont-roig del Camp en sentido Barcelona por dos accidentes con tres camiones implicados",
+    "link": "https://www.elperiodico.com/es/trafico-y-transportes/20261114/cortada-ap7-mont-roig-camp-sentido-barcelona-accidentes-camiones-136431815",
+    "pubDate": "2026-11-14 08:21:12",
+    "category": "",
+    "description": "<h2>La vía también está afectada en Santa Margarida i els Monjos por otro choque, donde se circula por el arcén derecho</h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 96
+  },
+  {
+    "title": "\"Me voy a volver loca\": el caos aéreo frustra a miles de viajeros en EEUU",
+    "link": "https://www.elperiodico.com/es/internacional/20261114/aeropuertos-estados-unidos-volver-loca-caos-aereo-frustra-miles-viajeros-136431530",
+    "pubDate": "2026-11-14 08:13:28",
+    "category": "",
+    "description": "<h2>El Gobierno Federal ha señalado que la suspensión se debió a un importante corte de comunicaciones y no a ningún \"ataque malicioso\"</h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20261113/estados-unidos-ordena-suspender-despegues-136427697\">EEUU suspende los vuelos en todo el país durante cinco horas y culpa a una sobrecarga del sistema de control</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Alfonso Muñoz, funcionario de la Seguridad Social, calcula cuánto cobrará el Gran Wyoming de pensión: \"Más de 81.000 euros de golpe\"",
+    "link": "https://www.elperiodico.com/es/economia/20261114/alfonso-munoz-funcionario-seguridad-social-cuanto-cobrara-gran-wyoming-jubilacion-dv-136406264",
+    "pubDate": "2026-11-14 08:10:08",
+    "category": "",
+    "description": "<h2>El experto analiza la jubilación del presentador de 'El Intermedio' y estima que podría recibir un importante incentivo económico por haber retrasado su retiro hasta los 71 años</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 94
+  },
+  {
+    "title": "El albañil Manuel Armando, con más de 30 años de experiencia: \"Con 20 años ganaba 350.000 pesetas al mes y pagaba 12.000 de alquiler. Vivía como un rey\"",
+    "link": "https://www.elperiodico.com/es/economia/20261114/manuel-armando-albanil-30-anos-experiencia-pesetas-dv-136171979",
+    "pubDate": "2026-11-14 08:10:00",
+    "category": "",
+    "description": "<h2>El profesional lamenta la falta de relevo generacional en la construcción y recuerda cómo llegó a ganar 350.000 pesetas mensuales con apenas 20 años</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261103/antonio-gonzalez-47-anos-especialista-reformas-obras-dv-135896281\">Antonio González (47 años), especialista en reformas: \"Los albañiles de toda la vida, por desgracia, están desapareciendo ya\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Caos en los aeropuertos de Estados Unidos: vuelos afectados en todo el mundo y última hora en directo",
+    "link": "https://www.elperiodico.com/es/internacional/20261114/aeropuertos-estados-unidos-vuelos-cancelados-ultima-hora-directo-136431294",
+    "pubDate": "2026-11-14 08:07:48",
+    "category": "",
+    "description": "<h2>La suspensión de vuelos en EEUU durante cinco horas provoca cancelaciones y retrasos en aeropuertos españoles y de otros países</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cuando sopla el malestar",
+    "link": "https://www.elperiodico.com/es/opinion/20261114/sopla-malestar-elecciones-generales-vox-pp-psoe-articulo-joan-tapia-136427463",
+    "pubDate": "2026-11-14 08:00:25",
+    "category": "",
+    "description": "<h2>Solo hace dos años la protesta aupó a Trump y ahora lo ha hundido. ¿A quién beneficiará en España en las elecciones del próximo 29N?</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261109/abascal-desvela-revuelta-pidio-israel-136267623\">Abascal desvela en 'La Revuelta' que pidió a Israel que no reconociera la independencia de Cataluña</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261111/vox-anuncia-medidas-revuelta-publicar-136323716\">Vox planta a Jordi Wild y anuncia medidas contra La Revuelta por no publicar íntegra la entrevista a Abascal</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "La manzana que mejor define Barcelona está en el paseo de Sant Joan",
+    "link": "https://www.elperiodico.com/es/que-hacer/planes/20261114/manzana-mejor-define-barcelona-paseo-sant-joan-negocios-centenarios-136425449",
+    "pubDate": "2026-11-14 08:00:23",
+    "category": "",
+    "description": "<h2>Para pensar en el pasado, presente y futuro de esta ciudad, se recomienda sentarse en un banco de esta manzana del paseo de Sant Joan frente a tres negocios centenarios. \"La manzana de la realidad”</h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20261113/abre-barcelona-primer-vintage-bar-wine-juguetes-retro-lego-tapas-toys-restaurante-136405006\" target=\"_blank\">Abre en Barcelona el primer 'vintage' bar con juguetes retro donde puedes jugar y montar Legos mientras comes y bebes</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Enric F. Gel, filósofo con 800.000 seguidores en YouTube: \"Los jóvenes tienen hambre de filosofía, pero se enseña de forma desfasada\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261114/enric-f-gel-filosofo-800-135604161",
+    "pubDate": "2026-11-14 08:00:21",
+    "category": "",
+    "description": "<h2 class=\"item\">El pensador, muy activo en redes sociales, reivindica la reflexión pausada y el análisis para manejarnos en un mundo cada vez más polarizado</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260910/jubilado-youtuber-profesor-asturiano-ensena-134127960\" target=\"_blank\">De jubilado, youtuber: así enseña filosofía un profesor asturiano que adapta el lenguaje a los nuevos tiempos</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261006/cesar-bona-educador-hijo-inteligencia-artificial-ia-mas-preguntas-135034991\" target=\"_blank\">César Bona, educador: \"Si la inteligencia artificial sustituye al maestro, la humanidad estará perdida\"</a></h2>",
+    "topic": "блогери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El nuevo periodismo de campaña de Jordi Wild y Broncano se parece mucho al viejo",
+    "link": "https://www.elperiodico.com/es/gente/20261114/nuevo-periodismo-campana-jordi-wild-broncano-viejo-136423802",
+    "pubDate": "2026-11-14 08:00:21",
+    "category": "",
+    "description": "<h2 class=\"item\">Las entrevistas de ‘outsiders’, la resignificación y las infidelidades de Nvidia, protagonistas de la semana en las redes</h2>",
+    "topic": "блогери",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "Cómo contrarrestar los bulos del fraude electoral para las elecciones generales del 29N",
+    "link": "https://www.elperiodico.com/es/politica/20261114/bulos-fraude-electoral-29n-elecciones-generales-136419542",
+    "pubDate": "2026-11-14 08:00:19",
+    "category": "",
+    "description": "<h2>Ni voto por correo manipulado, ni suplantación con el DNI digital, ni pucherazo en el recuento: estas son las teorías de la conspiración más influyentes en campaña electoral</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261114/encuestas-elecciones-generales-espana-sondeos-12274406\" target=\"_blank\">Encuestas de las elecciones generales en España 2026: así están los sondeos</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Las galerías de arte resisten en el Líbano: \"Beirut es como una máquina que produce artistas constantemente\"",
+    "link": "https://www.elperiodico.com/es/internacional/20261114/galerias-arte-resisten-libano-beirut-136398470",
+    "pubDate": "2026-11-14 08:00:16",
+    "category": "",
+    "description": "<h2>La capital mediterránea cuenta con una amplia oferta de espacios culturales y nuevas exhibiciones de todo tipo de producción artística pese a las difíciles circunstancias</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La votación para liderar la OIT marcará el papel de Yolanda Díaz en la campaña de Frente Amplio",
+    "link": "https://www.elperiodico.com/es/politica/20261114/yolanda-diaz-votacion-oit-campana-frente-amplio-136408649",
+    "pubDate": "2026-11-14 08:00:16",
+    "category": "",
+    "description": "<h2>La vicepresidenta segunda se juega este lunes ser la próxima directora general de esta organización, con las limitaciones que puede conllevar</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261113/elecciones-generales-29-noviembre-vivienda-ceuta-ultima-hora-directo-135335688\" >Elecciones generales 29N, en directo | Última hora del inicio de la campaña, candidatos y encuestas</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "Arrosseria Xàtiva: una tonelada de arroz al mes y con la paella y el arroz al hormo como banderas",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20261114/arroz-barcelona-paella-arrosseria-xativa-136245429",
+    "pubDate": "2026-11-14 08:00:14",
+    "category": "",
+    "description": "<h2 class=\"item\">La Arrosseria Xàtiva cumple 25 años con tres locales en Barcelona y una potente vinoteca</h2><h2 class=\"item\"><a href=\"//Buenos restaurantes de Barcelona y alrededores para flipar con el arroz\">Buenos restaurantes de Barcelona y alrededores para flipar con el arroz</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20230726/restaurante-paella-su-arroz-al-horno-90066069\">Restaurante La paella de Su: el arroz al horno... en una paella</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "На Сумщині сталося масштабне аварійне знеструмлення",
+    "link": "https://ua.korrespondent.net/ukraine/4928664-na-sumschyni-stalosia-masshtabne-avariine-znestrumlennia",
+    "pubDate": "2026-11-14 07:55:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4638386.jpg\">Частина Сумської області залишилася без світла через аварійне знеструмлення. Енергетики працюють над заживленням споживачів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Запоріжжі повністю перекрили рух транспорту через греблю ДніпроГЕС",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4928662-u-zaporizhzhi-povnistui-perekryly-rukh-transportu-cherez-hreblui-dniprohes",
+    "pubDate": "2026-11-14 07:30:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4638368.png\">Для об'їзду рекомендують користуватися Арковим, Вантовим мостами та мостом імені Преображенського.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Albert, Camila y su hija de 2 años dejaron Catalunya para irse a un pueblo de 70 habitantes en Huesca: \"A una ciudad no volvemos. Estoy pagando un tercio de lo que estaba pagando en Tarragona\"",
+    "link": "https://www.elperiodico.com/es/economia/20261114/cambio-pueblo-tarragona-huesca-naturaleza-albert-camila-dv-136245457",
+    "pubDate": "2026-11-14 07:10:18",
+    "category": "",
+    "description": "<h2>La familia expone que la diferencia respecto a su anterior vida no se limita a la economía: \"Aquí lo único que se oye por las mañanas es el cantar de los pájaros\"</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261010/dejar-madrid-pueblo-bierzo-leon-cambio-de-vida-autosuficiente-rural-huerto-dv-et-135046706\">José y su novia se fueron al Bierzo (León) en busca de una vida autosuficiente: \"Si pudiera volver atrás, dejaría Madrid otra vez con los ojos cerrados\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261109/vida-rural-familia-cataluna-aldea-galicia-mel-victor-dv-136072435\">Mel, Víctor y Gael, la familia que dejó Catalunya para irse a vivir a una aldea rural en Galicia: \"No sabíamos realmente dónde nos metíamos, con las redes sociales se vende como algo idílico y muy bonito\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Повітряні сили розкрили деталі нічної атаки дронів",
+    "link": "https://ua.korrespondent.net/ukraine/4928660-povitriani-syly-rozkryly-detali-nichnoi-ataky-droniv",
+    "pubDate": "2026-11-14 07:07:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4638350.jpg\">Сили протиповітряної оборони знешкодили 81 із 96 безпілотників, якими російські війська атакували Україну.",
+    "topic": "політика",
+    "topic_match_probability": 94
+  },
+  {
+    "title": "Rosalía, la 'chica plateada'",
+    "link": "https://www.elperiodico.com/es/opinion/20261114/rosalia-chica-plateada-136425450",
+    "pubDate": "2026-11-14 07:00:25",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20261113/rosalia-latin-grammy-premios-daddy-yankee-136394643\" target=\"_blank\">Rosalía arrasa en los Latin Grammy de Daddy Yankee: \"Tengo todo lo que hace falta para ser la mejor\"</a></h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "США почали підготовку до найбільшого обміну полоненими між Україною та РФ",
+    "link": "https://ua.korrespondent.net/world/4928658-ssha-pochaly-pidhotovku-do-naibilshoho-obminu-polonenymy-mizh-ukrainoui-ta-rf",
+    "pubDate": "2026-11-14 06:52:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4638332.jpg\">Конкретна кількість військовополонених, яких можуть обміняти Україна та Росія, а також можливі терміни проведення обміну не розголошуються.",
+    "topic": "політика",
+    "topic_match_probability": 96
+  },
+  {
+    "title": "Juan Ignacio Ocaña defiende la Antena de Oro concedida a Iker Jiménez y Carmen Porter por 'Horizonte': \"Es el programa revelación de la temporada\"",
+    "link": "https://www.elperiodico.com/es/tele/yotele/20261114/juan-ignacio-ocana-celebra-defiende-antena-oro-iker-jimenez-relevacion-temporada-audiencias-136430167",
+    "pubDate": "2026-11-14 06:50:46",
+    "category": "",
+    "description": "<h2>El presidente de la Federación de Asociaciones de Radio y Televisión de España (FARTVE) hace balance de los veteranos galardones del sector audiovisual, en cuya organización participa este año PRENSA IBÉRICA. </h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "¿Puede permitirse el fútbol español una muerte como la de Jesús de Miguel?",
+    "link": "https://www.elperiodico.com/es/deportes/20261114/permitirse-futbol-espanol-muerte-jesus-136427410",
+    "pubDate": "2026-11-14 06:28:23",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Генштаб назвав втрати Росії станом на 14 листопада",
+    "link": "https://ua.korrespondent.net/ukraine/4928656-henshtab-nazvav-vtraty-rosii-stanom-na-14-lystopada",
+    "pubDate": "2026-11-14 06:17:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4638296.jpg\">Сили оборони України системно знищують особовий склад, озброєння, техніку та засоби забезпечення російських військ.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Gobierno asegura que el consumidor no pagará más por el aceite de oliva tras la retirada forzosa de 188.000 toneladas",
+    "link": "https://www.elperiodico.com/es/economia/20261114/gobierno-asegura-precio-aceite-oliva-estable-retirada-consumidor-136430011",
+    "pubDate": "2026-11-14 06:01:45",
+    "category": "",
+    "description": "<h2>Fabricantes y envasadores temen que los supermercados aprovechen para colocar aceite de países terceros en sus estantes y no tener que subir así sus precios</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 94
+  },
+  {
+    "title": "¿A quién beneficia y a quién perjudica la retirada de aceite de oliva del mercado?",
+    "link": "https://www.elperiodico.com/es/economia/20261114/quien-beneficia-perjudica-retirada-aceite-oliva-136430098",
+    "pubDate": "2026-11-14 06:01:44",
+    "category": "",
+    "description": "<h2>La decisión del Gobierno de almacenar un 12% de la cosecha de este año despierta más críticas que elogios, incluso entre los agricultores, que iban a ser los más beneficiados</h2><h2>Los fabricantes denuncian un aumento de costes por el almacenamiento del producto, mientras que los exportadores reclaman acciones para aumentar las ventas al extranjero</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 94
+  },
+  {
+    "title": "Las pinturas profanas de Sijena se despiden del MNAC",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261114/pinturas-profanas-sijena-mnac-136423694",
+    "pubDate": "2026-11-14 06:01:37",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La gran paradoja de la vivienda en España: cada vez más hogares y cada vez menos casas disponibles",
+    "link": "https://www.elperiodico.com/es/economia/20261114/gran-paradoja-vivienda-espana-136429969",
+    "pubDate": "2026-11-14 06:01:23",
+    "category": "",
+    "description": "<h2>La construcción no consigue seguir el ritmo de creación de hogares y el Banco de España calcula que el déficit de pisos podría superar el millón en 2028. Los expertos analizan las causas de la crisis y las soluciones que debería aportar el próximo Gobierno</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Fin de una \"anomalía histórica\": el 012 atenderá llamadas y permitirá hacer trámites también los fines de semana",
+    "link": "https://www.elperiodico.com/es/sociedad/20261114/telefono-012-generalitat-cataluna-funciona-fines-de-semana-sabado-domingo-tramites-136401845",
+    "pubDate": "2026-11-14 06:01:23",
+    "category": "",
+    "description": "<h2 class=\"item\">El teléfono solo funcionaba de lunes a viernes; ahora lo hará también sábados y domingos no festivos de 9 a 20 horas</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260818/burocracia-oficinas-moviles-catalunya-1000-atenciones-tramites-generalitat-133269281\" target=\"_blank\">Las oficinas móviles de la Generalitat se consolidan y llegan a las 1.100 atenciones en cuatro meses</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260803/burocracia-reforma-administracion-210-tramites-govern-salvador-illa-132943587\" target=\"_blank\">Catalunya reforma 170 trámites administrativos para intentar reducir la burocracia</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "En Madrid ven al Santiago Bernabéu como \"claro favorito\" a albergar la final del Mundial",
+    "link": "https://www.elperiodico.com/es/deportes/20261114/madrid-ven-santiago-bernabeu-claro-favorito-final-mundial-136416412",
+    "pubDate": "2026-11-14 06:01:20",
+    "category": "",
+    "description": "<h2>Cumple los requisitos técnicos del estadio y la ciudad con la máxima nota </h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El estadio más grande del mundo es la apuesta de Marruecos para la final del Mundial 2030",
+    "link": "https://www.elperiodico.com/es/deportes/20261114/estadio-grande-mundo-marruecos-casablanca-final-mundial-2030-136413216",
+    "pubDate": "2026-11-14 06:01:18",
+    "category": "",
+    "description": "<h2>El Hassan II, que se está construyendo a mitad de camino entre Rabat y Casablanca, dispondrá de 115.000 asientos y estará conectado con la red de alta velocidad ferroviaria del país</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Barcelona peinará Instagram, TikTok, X y medios digitales todo el día y durante dos años por 400.000 euros para detectar bulos",
+    "link": "https://www.elperiodico.com/es/barcelona/20261114/barcelona-bulos-fake-news-redes-sociales-medios-136406113",
+    "pubDate": "2026-11-14 06:01:18",
+    "category": "",
+    "description": "<h2 class=\"item\">El ayuntamiento busca una empresa para que sea el núcleo del Observatorio contra la desinformación, que deberá hallar posibles contenidos engañosos en menos de 15 minutos desde que se publiquen para tratar de cortar su difusión</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261022/plataforma-educacion-mediatica-exige-govern-estrategia-contra-desinformacion-135577835\">La Plataforma para la Educación Mediática reclama al Govern una estrategia pública contra la desinformación</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 88
+  },
+  {
+    "title": "La final del Mundial 2030 se convierte en cuestión de Estado: la gran batalla de Barcelona, Madrid y Casablanca",
+    "link": "https://www.elperiodico.com/es/deportes/20261114/final-mundial-2030-barcelona-madrid-casablanca-136366358",
+    "pubDate": "2026-11-14 06:01:17",
+    "category": "",
+    "description": "<h2 class=\"item\">Las tres ciudades presionan para acoger el partido más importante del torneo, mientras la FIFA mantiene la incertidumbre, a la espera de las elecciones en las que Infantino buscará la reelección como presidente</h2><h2 class=\"item\">El PP ha prometido que España no organizará el torneo si la final se disputa en Marruecos, mientras que Vox, Sumar y Podemos pidieron abandonar el proyecto conjunto tras la entrada masiva de personas en Ceuta</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Las plataformas tecnológicas presentan hasta el 60% de las denuncias por abuso sexual infantil en internet",
+    "link": "https://www.elperiodico.com/es/sociedad/20261114/plataformas-tecnologicas-denuncias-pornografia-infantil-fiscalia-espana-abuso-sexual-google-meta-136337892",
+    "pubDate": "2026-11-14 06:01:17",
+    "category": "",
+    "description": "<h2 class=\"item\">Compañías como Google y Meta colaboran cada vez más para detectar delitos sexuales contra menores, según el fiscal delegado de Criminalidad Informática de Barcelona, Roberto Valverde</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261109/ministerio-rego-denuncia-fiscalia-abuso-sexual-infantil-tiktok-136242567\">El Gobierno se plantea paralizar TikTok en España tras detectarse más de mil vídeos de abuso sexual infantil</a></h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 92
+  },
+  {
+    "title": "Solar Earth, la empresa detrás de los módulos que generan hidrógeno verde",
+    "link": "https://www.elperiodico.com/es/economia/20261114/solar-earth-empresa-detras-modulos-136429941",
+    "pubDate": "2026-11-14 06:01:16",
+    "category": "",
+    "description": "<h2>La compañía alicantina se consolida como proyecto estratégico de la Comunidad Valenciana y ultima el salto a la fabricación industrializada de electrolizadores alcalinos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Puede el ‘caso Nvidia’ resquebrajar la hegemonía de la IA en Bolsa?",
+    "link": "https://www.elperiodico.com/es/economia/20261114/caso-nvidia-resquebrajar-hegemonia-ia-136429862",
+    "pubDate": "2026-11-14 06:01:08",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20261112/nvidia-estudia-cesar-consejero-delegado-jensen-huang-relacion-presunta-espia-china-136352946\">La inteligencia artificial acaba de perder su hombre fuerte tras la dimisión de su cofundador y CEO Jensen Huang y vuelve a poner en el foco los miedos a una burbuja </a></h2><h2 class=\"item\">La crisis interna de Nvidia, el recorte de valoración de Anthropic, el giro político en Estados Unidos y las dudas sobre el gasto reavivan el temor a una burbuja </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La guerra en Yemen se recrudece: Arabia Saudí refuerza sus alianzas en la región ante la creciente autonomía militar de los hutíes",
+    "link": "https://www.elperiodico.com/es/internacional/20261114/guerra-yemen-recrudece-arabia-saudi-136429836",
+    "pubDate": "2026-11-14 06:01:08",
+    "category": "",
+    "description": "<h2>Además del pacto de seguridad firmado con Turquía y Pakistán, Riad ha logrado el apoyo \"defensivo\" de Egipto y el respaldo de Siria, que estudia desplegar tropas sobre el terreno </h2>",
+    "topic": "політика",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "Zapatero, hijas y esposa fueron requeridos por Hacienda sobre las joyas y dividendos de Whathefav 20 días antes de que el juez paralizara la inspección",
+    "link": "https://www.elperiodico.com/es/politica/20261114/zapatero-hijas-esposa-requeridos-hacienda-136382330",
+    "pubDate": "2026-11-14 06:01:06",
+    "category": "",
+    "description": "<h2>Su representante legal ante Hacienda alegó vulneración del derecho de defensa y pidió incorporar la solicitud de petición de información a Arabia Saudí</h2>",
+    "topic": "політика",
+    "topic_match_probability": 88
+  },
+  {
+    "title": "Santa Coloma de Gramenet, el kilómetro cero del voto socialista: \"Aquí no se vota ni a independentistas ni a la derecha\"",
+    "link": "https://www.elperiodico.com/es/politica/20261114/santa-coloma-gramenet-elecciones-generales-voto-socialista-psc-catalunya-135681742",
+    "pubDate": "2026-11-14 06:00:58",
+    "category": "",
+    "description": "<h2>EL PERIÓDICO radiografía a pie de calle los municipios donde cada partido catalán obtuvo su mayor porcentaje de voto en las elecciones generales de 2023   </h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261112/psc-elecciones-general-campana-barcelona-girona-tarragona-lleida-136288408\">El PSC se vuelca en el 'cinturón rojo' para repetir la movilización que salvó a Sánchez en 2023</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Підсумки 13.11: нові вимоги Росії та збій у США",
+    "link": "https://ua.korrespondent.net/ukraine/4928640-pidsumky-1311-novi-vymohy-rosii-ta-zbii-u-ssha",
+    "pubDate": "2026-11-14 05:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4638168.jpg\">\"Свіжі міркування\": РФ готує нові вимоги до НАТО. Польща зупинила фінансування зброї для України. У США через масштабний збій зупинили всі авіарейси. Кореспондент.net виділяє головні події вчорашнього дня.",
+    "topic": "підсумки (за попередній день, наприклад)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Китай провів таємну \"репетицію\" нападу на Тайвань - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4928654-kytai-proviv-taiemnu-repetytsiui-napadu-na-taivan-zmi",
+    "pubDate": "2026-11-14 05:50:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4638277.jpg\">Військові навчання КНР передбачали імітації ударів по іноземних військових силах та містах, включаючи тайванські.",
+    "topic": "політика",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "РФ почала пропонувати рекордні знижки на нафту",
+    "link": "https://ua.korrespondent.net/business/economics/4928652-rf-pochala-proponuvaty-rekordni-znyzhky-na-naftu",
+    "pubDate": "2026-11-14 05:41:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4638276.jpg\">Російська сировина залишається менш конкурентоспроможною найперше через високу вартість перевезення.",
+    "topic": "політика",
+    "topic_match_probability": 88
+  },
+  {
+    "title": "Масштабний збій в авіації: Мінтранс США вимагає $50 млрд на обладнання",
+    "link": "https://ua.korrespondent.net/world/4928650-masshtabnyi-zbii-v-aviatsii-mintrans-ssha-vymahaie-50-mlrd-na-obladnannia",
+    "pubDate": "2026-11-14 05:34:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4638258.jpg\">Гроші необхідні для модернізації застарілої системи, заявив голова американського міністерства Шон Даффі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Vuelve Mr. Scrooge, el personaje eterno de las Navidades",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261114/vuelve-mr-scrooge-personaje-eterno-136403307",
+    "pubDate": "2026-11-14 05:01:03",
+    "category": "",
+    "description": "<h2 style=\"text-align: justify;\">Johnny Depp lo interpreta en la versión terrorífica ‘Scrooge y los fantasmas de la Navidad’, después de que lo hayan encarnado Albert Finney, Michael Caine y Will Ferrell, entre otros, y haber figurado en filmes de Mickey Mouse, Los Picapiedra y Los Pitufos.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "\"Реформа століття\": в Німеччині розширили повноваження розвідки",
+    "link": "https://ua.korrespondent.net/world/4928648-reforma-stolittia-v-nimechchyni-rozshyryly-povnovazhennia-rozvidky",
+    "pubDate": "2026-11-14 04:57:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4638240.jpg\">Комісія у складі колишніх суддів має заздалегідь перевіряти законність певних заходів німецьких спецслужб.",
+    "topic": "політика",
+    "topic_match_probability": 96
+  },
+  {
+    "title": "Ante la tumba y la literatura de Javier Tomeo",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20261114/javier-tomeo-aniversario-muerte-136325950",
+    "pubDate": "2026-11-14 04:50:24",
+    "category": "",
+    "description": "<h2>La muerte crea aniversarios que son puñales, bofetadas que te recuerdan la ausencia, pero también que sigues vivo</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La ducha escocesa",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20261114/ducha-escocesa-136240601",
+    "pubDate": "2026-11-14 04:50:24",
+    "category": "",
+    "description": "<h2>Escribir también consiste, supongo, en no exigirle al día de hoy que confirme lo que pensamos ayer</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Deborah Levy, escritora: \"No queremos vivir en un mundo de genocidios y emergencia climática\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20261114/deborah-levy-entrevista-libro-gertrude-stein-136316633",
+    "pubDate": "2026-11-14 04:50:23",
+    "category": "",
+    "description": "<h2>Día antes de publicar en España su último libro, 'Mi año en París con Gertrude Stein', la autora habla en exclusiva con el suplemento 'ABRIL' desde su casa de Londres</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Війна з Іраном: глава Моссаду прибув у США",
+    "link": "https://ua.korrespondent.net/world/4928646-viina-z-iranom-hlava-mossadu-prybuv-u-ssha",
+    "pubDate": "2026-11-14 04:40:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4638205.jpg\">Візит голови розвідки Ізраїлю відбувається на тлі закликів ізраїльського прем'єра відновити бойові дії проти Ірану.",
+    "topic": "політика",
+    "topic_match_probability": 99
+  },
+  {
+    "title": "Маск збирає підписи за поновлення на посаді голови Nvidia",
+    "link": "https://ua.korrespondent.net/world/4928644-mask-zbyraie-pidpysy-za-ponovlennia-na-posadi-holovy-Nvidia",
+    "pubDate": "2026-11-14 03:58:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4638187.jpg\">Заклик Маска пролунав на тлі невдоволення частини співробітників Nvidia постановою про звільнення Хуанга.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "ЗМІ: Демократи оголосили Маску вимогу щодо України",
+    "link": "https://ua.korrespondent.net/world/4928642-zmi-demokraty-oholosyly-masku-vymohu-schodo-ukrainy",
+    "pubDate": "2026-11-14 03:46:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4638169.jpg\">Американський бізнесмен має виконати вимоги та відповісти на конкретні питання нагляду до 30 листопада.",
+    "topic": "політика",
+    "topic_match_probability": 94
+  },
+  {
     "title": "Трамп назвав причину обмежень авіаперельотів - ЗМІ",
     "link": "https://ua.korrespondent.net/world/4928638-tramp-nazvav-prychynu-obmezhen-aviaperelotiv-zmi",
     "pubDate": "2026-11-14 02:48:00",
@@ -29,6 +479,15 @@
   {
     "title": "У США через збій затримано 11 тисяч рейсів - ЗМІ",
     "link": "https://ua.korrespondent.net/world/4928632-u-ssha-cherez-zbii-zatrymano-11-tysiach-reisiv-zmi",
+    "pubDate": "2026-11-14 01:39:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4638061.jpg\">Проблема, ймовірно, виникла в міжнародному аеропорту Чикаго Мідвей та поширилася по всій країні, кажуть джерела.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У США через збій затримано 11 тисяч рейсів",
+    "link": "https://ua.korrespondent.net/world/4928632-u-ssha-cherez-zbii-zatrymano-11-tysiach-reisiv",
     "pubDate": "2026-11-14 01:39:00",
     "category": "Новини світу",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4638061.jpg\">Проблема, ймовірно, виникла в міжнародному аеропорту Чикаго Мідвей та поширилася по всій країні, кажуть джерела.",
