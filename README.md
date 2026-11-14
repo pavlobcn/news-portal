@@ -1,8 +1,9 @@
-# News for 2026-11-14 20:26
+# News for 2026-11-14 21:08
 
 Previous day: [2026-11-13](./data/2026-11-13.md)
 
 ## ua.korrespondent.net
+20:37 [Дрон влучив у вантажне судно поблизу румунського узбережжя](https://ua.korrespondent.net/world/4928763-dron-vluchyv-u-vantazhne-sudno-poblyzu-rumunskoho-uzberezhzhia)<br>
 20:08 [Пілот ЗСУ показав перехоплення реактивної Герані](https://ua.korrespondent.net/ukraine/4928758-pilot-zsu-pokazav-perekhoplennia-reaktyvnoi-herani)<br>
 20:02 [Збірна України з баскетболу у відборі на Євробаскет поступилася англійкам](https://ua.korrespondent.net/sport/basketball/4928757-zbirna-ukrainy-z-basketbolu-u-vidbori-na-yevrobasket-postupylasia-anhliikam)<br>
 19:53 [Удар по Запоріжжю: кількість поранених зросла](https://ua.korrespondent.net/city/zaporozhye/4928754-udar-po-zaporizhzhui-kilkist-poranenykh-zrosla)<br>
@@ -40,6 +41,7 @@ Previous day: [2026-11-13](./data/2026-11-13.md)
 18:21 [Vuelos cancelados y retrasados en España y otros países por el caos en los aeropuertos de Estados Unidos: última hora en directo](https://www.elperiodico.com/es/internacional/20261114/vuelos-aeropuertos-estados-unidos-cancelados-espana-ultima-hora-directo-136431294)<br>
 18:04 [El tiempo en Catalunya mañana domingo: llegan más nubes y lluvias débiles en el oeste](https://www.elperiodico.com/es/tiempo/20261114/tiempo-cataluna-barcelona-domingo-15-noviembre-dv-loc-136444464)<br>
 18:00 [Hablan jóvenes días antes del lanzamiento de 'GTA VI': "El videojuego es una vía de escape"](https://www.elperiodico.com/es/ocio-y-cultura/20261114/hablan-jovenes-lanzamiento-gta-vi-136415479)<br>
+17:42 [Anker Zolo Power Bank 25K 165 W: la batería externa que elimina la necesidad de llevar cables](https://www.elperiodico.com/es/tecnologia/20261114/anker-zolo-power-bank-25k-oferta-136444215)<br>
 16:33 [Una rave reúne a unas 300 personas y un centenar de vehículos en Llers, en el Alt Empordà](https://www.elperiodico.com/es/sociedad/20261114/rave-reune-300-personas-centenar-vehiculos-llers-alt-emporda-136442980)<br>
 16:26 [Diez novedades de la Navidad de Vigo 2026: del desfile de Disney+, al traslado de atracciones y nuevos adornos gigantes](https://www.elperiodico.com/es/sociedad/20261114/diez-novedades-navidad-vigo-2026-136443065)<br>
 16:22 [Italia multa a Meta con 805 millones de euros por acceder sin permiso a fotos de usuarios sin su consentimiento](https://www.elperiodico.com/es/internacional/20261114/italia-multa-meta-805-millones-acceder-sin-permiso-fotos-usuarios-facebook-136442557)<br>

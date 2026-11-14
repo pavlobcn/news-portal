@@ -1,5 +1,41 @@
 [
   {
+    "title": "Manifestación en Barcelona para exigir la libertad inmediata de los tres encarcelados por los disturbios durante la huelga general",
+    "link": "https://www.elperiodico.com/es/barcelona/20261114/manifestacion-barcelona-exigir-libertad-inmediata-detenidos-huelga-vivienda-11n-136448798",
+    "pubDate": "2026-11-14 21:02:20",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sucesos/20261113/prision-provisional-tres-detenidos-disturbios-barcelona-huelga-general-136423669\" >Prisión preventiva sin fianza para tres de los detenidos por los disturbios en Barcelona tras la huelga general</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261112/presencia-curiosos-telefonos-moviles-dificulta-actuacion-policia-disturbios-barcelona-huelga-general-11n-papanatas-barcelona-136377838\" >La presencia de \"papanatas\" que grababan con sus móviles dificultó la actuación policial durante los disturbios del 11-N en Barcelona</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 88
+  },
+  {
+    "title": "El Sant Andreu bate al Europa y se lleva un derbi para la historia (0-2)",
+    "link": "https://www.elperiodico.com/es/deportes/20261114/sant-andreu-bate-europa-lleva-136445943",
+    "pubDate": "2026-11-14 20:57:45",
+    "category": "",
+    "description": "<h2>Un doblete de Alexis en la segunda desata la euforia de los cuatribarrados a costa del máximo rival barcelonés</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Голанн в іграх за збірну відзначився рекордно велику кількість разів",
+    "link": "https://ua.korrespondent.net/sport/football/4928765-holann-v-ihrakh-za-zbirnu-vidznachyvsia-rekordno-velyku-kilkist-raziv",
+    "pubDate": "2026-11-14 20:56:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4639088.jpg\">У норвезького нападника на рахунку 66 забитих м’ячів за збірну Нідерландів у 60 зіграних матчах.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Дрон влучив у вантажне судно поблизу румунського узбережжя",
+    "link": "https://ua.korrespondent.net/world/4928763-dron-vluchyv-u-vantazhne-sudno-poblyzu-rumunskoho-uzberezhzhia",
+    "pubDate": "2026-11-14 20:37:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4639087.jpg\">Судно прямувало до порту Суліна. Унаслідок влучання пошкоджено вантажний кран. Члени екіпажу не постраждали.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "España gana en Bulgaria y continúa recta hacia el Eurobasket Femenino de 2027",
     "link": "https://www.elperiodico.com/es/deportes/20261114/espana-gana-bulgaria-continua-recta-136448434",
     "pubDate": "2026-11-14 20:24:42",
@@ -223,6 +259,15 @@
     "description": "<h2>Martín y Lucas Casillas abandonan La Fábrica tras dos años</h2><h2><a href=\"https://www.elperiodico.com/es/gente/20261005/martin-hijo-iker-casillas-sara-carbonero-portero-seleccion-dv-et-135009218\">Martín, hijo de Iker Casillas y Sara Carbonero: \"Me gustaría ser el portero de la selección, como lo fue mi padre, pero no quiero que me comparen\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/gente/20260927/martin-hijo-iker-casillas-sara-carbonero-134715249\">Martín, hijo de Iker Casillas y Sara Carbonero: \"Mi padre siempre me dice que la humildad es lo más importante, que salga con energía y no me quede a medio camino\"</a></h2>",
     "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
     "topic_match_probability": 96
+  },
+  {
+    "title": "Anker Zolo Power Bank 25K 165 W: la batería externa que elimina la necesidad de llevar cables",
+    "link": "https://www.elperiodico.com/es/tecnologia/20261114/anker-zolo-power-bank-25k-oferta-136444215",
+    "pubDate": "2026-11-14 17:42:25",
+    "category": "",
+    "description": "<h2>Capacidad alta, tres puertos USB-C, un USB-A, dos cables incorporados y hasta cuatro dispositivos cargándose a la vez: Anker convierte una batería externa en un pequeño centro de energía portátil</h2>",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "У Трампа підтвердили зустріч з Сі та Путіним",
