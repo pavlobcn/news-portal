@@ -17,7 +17,7 @@ function getDayBounds(date) {
 }
 
 function parsePubDate(newsItem) {
-  const pubDate = newsItem?.item?.pubDate;
+  const pubDate = newsItem?.pubDate;
   if (!pubDate) return null;
 
   const parsed = new Date(pubDate);
