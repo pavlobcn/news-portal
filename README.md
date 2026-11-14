@@ -1,8 +1,16 @@
-# News for 2026-11-14 16:46
+# News for 2026-11-14 20:26
 
 Previous day: [2026-11-13](./data/2026-11-13.md)
 
 ## ua.korrespondent.net
+20:08 [Пілот ЗСУ показав перехоплення реактивної Герані](https://ua.korrespondent.net/ukraine/4928758-pilot-zsu-pokazav-perekhoplennia-reaktyvnoi-herani)<br>
+20:02 [Збірна України з баскетболу у відборі на Євробаскет поступилася англійкам](https://ua.korrespondent.net/sport/basketball/4928757-zbirna-ukrainy-z-basketbolu-u-vidbori-na-yevrobasket-postupylasia-anhliikam)<br>
+19:53 [Удар по Запоріжжю: кількість поранених зросла](https://ua.korrespondent.net/city/zaporozhye/4928754-udar-po-zaporizhzhui-kilkist-poranenykh-zrosla)<br>
+19:28 [Канада посилила захист України від балістики](https://ua.korrespondent.net/ukraine/4928750-kanada-posylyla-zakhyst-ukrainy-vid-balistyky)<br>
+19:01 [Росіяни атакували критичну інфраструктуру на Чернігівщині, є загиблі](https://ua.korrespondent.net/ukraine/4928748-rosiiany-atakuvaly-krytychnu-infrastrukturu-na-chernihivschyni-ye-zahybli)<br>
+18:48 [Ірак відновив сухопутний експорт нафти через Сирію - ЗМІ](https://ua.korrespondent.net/business/economics/4928744-irak-vidnovyv-sukhoputnyi-eksport-nafty-cherez-syriui-zmi)<br>
+18:23 [ЄС готує депортаційний центр для мігрантів у Руанді](https://ua.korrespondent.net/world/4928740-yes-hotuie-deportatsiinyi-tsentr-dlia-mihrantiv-u-ruandi)<br>
+17:59 [Онуку Путіна заборонили носити прізвище батька - ЗМІ](https://ua.korrespondent.net/world/4928737-onuku-putina-zaboronyly-nosyty-prizvysche-batka-zmi)<br>
 16:11 [На Запоріжжі російський дрон убив чоловіка на скутері](https://ua.korrespondent.net/ukraine/4928717-na-zaporizhzhi-rosiiskyi-dron-ubyv-cholovika-na-skuteri)<br>
 15:19 [НБА: команда Михайлюка програла Х’юстону](https://ua.korrespondent.net/sport/basketball/4928709-nba-komanda-mykhailuika-prohrala-khuistonu)<br>
 15:14 [Росіяни атакували Запоріжжя](https://ua.korrespondent.net/city/zaporozhye/4928707-rosiiany-atakuvaly-zaporizhzhia)<br>
@@ -20,11 +28,18 @@ Previous day: [2026-11-13](./data/2026-11-13.md)
 00:36 [У МВС США прокоментували зупинку всіх авіарейсів](https://ua.korrespondent.net/world/4928626-u-mvs-ssha-prokomentuvaly-zupynku-vsikh-aviareisiv)<br>
 
 ## as.com
+20:10 [Resumen y resultado del Bulgaria - España: Ventanas FIBA clasificación Eurobasket femenino 2027](https://as.com/baloncesto/mas_baloncesto/bulgaria-espana-en-directo-ventanas-fiba-clasificacion-eurobasket-femenino-2027-en-vivo-hoy-f202611-d/)<br>
+19:47 [Iyana al rescate](https://as.com/baloncesto/mas_baloncesto/iyana-al-rescate-f202611-n/)<br>
 13:49 [Otra exhibición de Omer Kutluay](https://as.com/baloncesto/mas_baloncesto/otra-exhibicion-de-omer-kutluay-f202611-n/)<br>
 11:42 [En directo: Valencia Basket vs Real Madrid de la liga U](https://as.com/baloncesto/videos/en-directo-valencia-basket-vs-real-madrid-de-la-liga-u-f202611-v/)<br>
 09:12 [Justin Robinson, hielo en las venas](https://as.com/baloncesto/euroliga/justin-robinson-hielo-en-las-venas-f202611-n/)<br>
 
 ## www.elperiodico.com
+20:24 [España gana en Bulgaria y continúa recta hacia el Eurobasket Femenino de 2027](https://www.elperiodico.com/es/deportes/20261114/espana-gana-bulgaria-continua-recta-136448434)<br>
+20:00 [El traslado de las pinturas de la sala capitular de Sijena sigue encallado siete meses después](https://www.elperiodico.com/es/ocio-y-cultura/20261114/traslado-pinturas-sala-capitular-sijena-136409362)<br>
+18:21 [Vuelos cancelados y retrasados en España y otros países por el caos en los aeropuertos de Estados Unidos: última hora en directo](https://www.elperiodico.com/es/internacional/20261114/vuelos-aeropuertos-estados-unidos-cancelados-espana-ultima-hora-directo-136431294)<br>
+18:04 [El tiempo en Catalunya mañana domingo: llegan más nubes y lluvias débiles en el oeste](https://www.elperiodico.com/es/tiempo/20261114/tiempo-cataluna-barcelona-domingo-15-noviembre-dv-loc-136444464)<br>
+18:00 [Hablan jóvenes días antes del lanzamiento de 'GTA VI': "El videojuego es una vía de escape"](https://www.elperiodico.com/es/ocio-y-cultura/20261114/hablan-jovenes-lanzamiento-gta-vi-136415479)<br>
 16:33 [Una rave reúne a unas 300 personas y un centenar de vehículos en Llers, en el Alt Empordà](https://www.elperiodico.com/es/sociedad/20261114/rave-reune-300-personas-centenar-vehiculos-llers-alt-emporda-136442980)<br>
 16:26 [Diez novedades de la Navidad de Vigo 2026: del desfile de Disney+, al traslado de atracciones y nuevos adornos gigantes](https://www.elperiodico.com/es/sociedad/20261114/diez-novedades-navidad-vigo-2026-136443065)<br>
 16:22 [Italia multa a Meta con 805 millones de euros por acceder sin permiso a fotos de usuarios sin su consentimiento](https://www.elperiodico.com/es/internacional/20261114/italia-multa-meta-805-millones-acceder-sin-permiso-fotos-usuarios-facebook-136442557)<br>
