@@ -1,8 +1,9 @@
-# News for 2026-11-15 11:15
+# News for 2026-11-15 12:41
 
 Previous day: [2026-11-14](./data/2026-11-14.md)
 
 ## ua.korrespondent.net
+11:21 [На Київщині після ранкової атаки РФ горять склади](https://ua.korrespondent.net/ukraine/4928839-na-kyivschyni-pislia-rankovoi-ataky-rf-horiat-sklady)<br>
 07:45 [У Дніпрі РФ атакувала інфраструктуру, на Нікопольщині - супермаркет](https://ua.korrespondent.net/city/dnepr/4928817-u-dnipri-rf-atakuvala-infrastrukturu-na-nikopolschyni-supermarket)<br>
 07:24 [Стало відомо, як відпрацювала ППО в ніч на неділю](https://ua.korrespondent.net/ukraine/4928815-stalo-vidomo-yak-vidpratsuivala-ppo-v-nich-na-nedilui)<br>
 06:43 [Четверо дітей серед 32 поранених: наслідки масованих атак на Запоріжжя](https://ua.korrespondent.net/city/zaporozhye/4928811-chetvero-ditei-sered-32-poranenykh-naslidky-masovanykh-atak-na-zaporizhzhia)<br>
@@ -13,10 +14,14 @@ Previous day: [2026-11-14](./data/2026-11-14.md)
 00:59 [У Києві відкриють дві резервні переправи на Дніпрі](https://ua.korrespondent.net/city/kiev/4928789-u-kyievi-vidkryuit-dvi-rezervni-perepravy-na-dnipri)<br>
 
 ## as.com
+12:17 [Oficial: el Real Madrid repesca a Eli Ndiaye de su cesión](https://as.com/baloncesto/acb/oficial-el-real-madrid-repesca-a-eli-ndiaye-de-su-cesion-f202611-n/)<br>
 07:37 [Hay que hablar de Sekulic](https://as.com/baloncesto/acb/hay-que-hablar-de-sekulic-f202611-n/)<br>
 07:37 [El Madrid llega a 90 puntos en cuatro de cada cinco partidos](https://as.com/baloncesto/acb/el-madrid-llega-a-90-puntos-en-cuatro-de-cada-cinco-partidos-f202611-n/)<br>
 
 ## www.elperiodico.com
+12:05 [La psicóloga Lara Ferreiro, sobre el envejecimiento: "¿Y si tu cuerpo fuera más viejo de lo que dice tu DNI?"](https://www.elperiodico.com/es/salud/20261115/lara-ferreiro-explica-soledad-relaciones-relaciones-toxicas-salud-mental-envejecimiento-dv-136334378)<br>
+11:49 [Razer Raiju V3 Pro Signature Edition: una pieza de colección para jugar sin límites en PlayStation 5](https://www.elperiodico.com/es/tecnologia/20261115/razer-raiju-v3-pro-signature-136461823)<br>
+11:30 [Arturo (46 años), soldador: "Nos enrocamos en vivir en las ciudades y en los pueblos también hay salida. Estudiad soldadura que siempre vais a tener trabajo"](https://www.elperiodico.com/es/economia/20261115/arturo-castineiras-soldador-46-anos-ciudades-pueblos-trabajo-dv-136317351)<br>
 11:05 [¿Sabes dónde está? El mágico rincón de L'Hospitalet que pocos conocen](https://www.elperiodico.com/es/barcelona/hospitalet/20261115/rincon-magico-lhospitalet-barcelona-calle-xipreret-dv-loc-106477188)<br>
 11:00 [Barcelona eliminará una escalinata del paseo Lluís Companys y reducirá las plazas de garaje para buses](https://www.elperiodico.com/es/barcelona/20261115/barcelona-obras-paseo-lluis-companys-arc-triomf-136425672)<br>
 11:00 [Las fronteras invisibles detrás de migrar a Canarias](https://www.elperiodico.com/es/sociedad/20261115/fronteras-invisibles-detras-migrar-canarias-136461223)<br>
@@ -30,6 +35,7 @@ Previous day: [2026-11-14](./data/2026-11-14.md)
 09:00 [De Nou Barris al Moianès: las historias de dos maestras que hicieron de la escuela mucho más que un aula](https://www.elperiodico.com/es/sociedad/20261115/maestras-jubiladas-nou-barris-barcelona-moianes-cataluna-premio-rella-compromiso-escuelas-135914042)<br>
 09:00 [Emilio Santiago y Héctor Tejero: "España se juega en los próximos 30 años convertirse en un desierto o en una potencia verde"](https://www.elperiodico.com/es/sociedad/20261115/emilio-santiago-hector-tejero-espana-desierto-o-potencia-verde-energias-renovables-transicion-ecologica-136396597)<br>
 08:43 [SpaceX captura por primera vez la nave Starship con los brazos de su torre](https://www.elperiodico.com/es/sociedad/20261115/spacex-captura-primera-vez-nave-136458637)<br>
+08:22 [Elon Musk, accionistas y empleados de Nvidia impulsan una petición para restituir a Huang](https://www.elperiodico.com/es/internacional/20261115/elon-musk-peticion-restituir-huang-accionistas-empleados-nvidia-136458501)<br>
 08:00 [Carles Gel, explorador en el Ártico: "Los osos polares estaban muy cerca y no teníamos rifles"](https://www.elperiodico.com/es/sociedad/20261115/carles-gel-explorador-artico-osos-polares-rifles-136403451)<br>
 07:14 [Caos en los aeropuertos de Estados Unidos: unas obras de cableado causaron la suspensión de vuelos | Última hora en directo](https://www.elperiodico.com/es/internacional/20261115/vuelos-aeropuertos-estados-unidos-cancelados-espana-ultima-hora-directo-136431294)<br>
 07:01 [Hablan los bisnietos de los asesinados en la Guerra Civil: "Los verdugos de mi bisabuelo murieron en la cama, como Franco"](https://www.elperiodico.com/es/ocio-y-cultura/20261115/guerra-civil-bisabuelo-mato-mio-fernandez-pasalodos-135985333)<br>
