@@ -1,4 +1,4 @@
-# News for 2026-11-15 07:47
+# News for 2026-11-15 11:15
 
 Previous day: [2026-11-14](./data/2026-11-14.md)
 
@@ -17,6 +17,20 @@ Previous day: [2026-11-14](./data/2026-11-14.md)
 07:37 [El Madrid llega a 90 puntos en cuatro de cada cinco partidos](https://as.com/baloncesto/acb/el-madrid-llega-a-90-puntos-en-cuatro-de-cada-cinco-partidos-f202611-n/)<br>
 
 ## www.elperiodico.com
+11:05 [¿Sabes dónde está? El mágico rincón de L'Hospitalet que pocos conocen](https://www.elperiodico.com/es/barcelona/hospitalet/20261115/rincon-magico-lhospitalet-barcelona-calle-xipreret-dv-loc-106477188)<br>
+11:00 [Barcelona eliminará una escalinata del paseo Lluís Companys y reducirá las plazas de garaje para buses](https://www.elperiodico.com/es/barcelona/20261115/barcelona-obras-paseo-lluis-companys-arc-triomf-136425672)<br>
+11:00 [Las fronteras invisibles detrás de migrar a Canarias](https://www.elperiodico.com/es/sociedad/20261115/fronteras-invisibles-detras-migrar-canarias-136461223)<br>
+10:41 [SpaceX hace historia: captura por primera vez su nave Starship con brazos mecánicos](https://www.elperiodico.com/es/videos/internacional/spacex-historia-captura-primera-vez/136460526.shtml)<br>
+10:25 [Yara (25 años), montadora de pladur: "Ya vale de ponerle etiquetas a todo; que se den cuenta de que este oficio también es nuestro"](https://www.elperiodico.com/es/economia/20261115/montadora-pladur-etiqueta-oficio-obra-yara-dv-136263579)<br>
+10:15 [Luis Rojas Marcos, psiquiatra, sobre la jubilación: "Cuando me fui del trabajo me di cuenta de que no tenía amigos"](https://www.elperiodico.com/es/ser-feliz/20261115/jubilacion-soledad-vejez-amigos-edadismo-psiquiatra-luis-rojas-dv-129033157)<br>
+10:00 [El pueblo de cuento a media hora de Reus ideal para una escapada entre viñedos](https://www.elperiodico.com/es/sociedad/20261115/espectacular-pueblo-cuento-30-minutos-reus-tarragona-dv-loc-108363445)<br>
+09:26 [Encontrado el menor 'escolta' de 12 años que pasó la noche perdido en los Pirineos](https://www.elperiodico.com/es/sociedad/20261115/buscan-menor-grupo-excursionista-perdido-pirineo-cataluna-136459178)<br>
+09:26 [La circulación de Rodalies no se normaliza este domingo y continúan los retrasos en varias líneas](https://www.elperiodico.com/es/sociedad/20261115/incidencia-operativa-servicio-autobuses-macanet-massanes-blanes-mataro-rodalies-136459135)<br>
+09:25 [Unas obras de cableado causaron el caos aéreo en los aeropuertos de EEUU, que aún arrastran retrasos y cancelaciones](https://www.elperiodico.com/es/internacional/20261115/obras-cableado-causaron-caos-aereo-estados-unidos-136459307)<br>
+09:00 [De Nou Barris al Moianès: las historias de dos maestras que hicieron de la escuela mucho más que un aula](https://www.elperiodico.com/es/sociedad/20261115/maestras-jubiladas-nou-barris-barcelona-moianes-cataluna-premio-rella-compromiso-escuelas-135914042)<br>
+09:00 [Emilio Santiago y Héctor Tejero: "España se juega en los próximos 30 años convertirse en un desierto o en una potencia verde"](https://www.elperiodico.com/es/sociedad/20261115/emilio-santiago-hector-tejero-espana-desierto-o-potencia-verde-energias-renovables-transicion-ecologica-136396597)<br>
+08:43 [SpaceX captura por primera vez la nave Starship con los brazos de su torre](https://www.elperiodico.com/es/sociedad/20261115/spacex-captura-primera-vez-nave-136458637)<br>
+08:00 [Carles Gel, explorador en el Ártico: "Los osos polares estaban muy cerca y no teníamos rifles"](https://www.elperiodico.com/es/sociedad/20261115/carles-gel-explorador-artico-osos-polares-rifles-136403451)<br>
 07:14 [Caos en los aeropuertos de Estados Unidos: unas obras de cableado causaron la suspensión de vuelos | Última hora en directo](https://www.elperiodico.com/es/internacional/20261115/vuelos-aeropuertos-estados-unidos-cancelados-espana-ultima-hora-directo-136431294)<br>
 07:01 [Hablan los bisnietos de los asesinados en la Guerra Civil: "Los verdugos de mi bisabuelo murieron en la cama, como Franco"](https://www.elperiodico.com/es/ocio-y-cultura/20261115/guerra-civil-bisabuelo-mato-mio-fernandez-pasalodos-135985333)<br>
 07:01 [El modo canario tiene un límite](https://www.elperiodico.com/es/opinion/20261115/canario-limite-inmigracion-vivienda-elecciones-generales-29n-136457163)<br>
