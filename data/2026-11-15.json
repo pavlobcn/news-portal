@@ -1,9 +1,378 @@
 [
   {
+    "title": "Elecciones generales 29N, en directo | Última hora de la campaña, candidatos y encuestas",
+    "link": "https://www.elperiodico.com/es/politica/20261115/elecciones-generales-29-noviembre-vivienda-ceuta-ultima-hora-directo-135335688",
+    "pubDate": "2026-11-15 07:46:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20261114/encuestas-elecciones-generales-espana-sondeos-12274406\" target=\"_blank\">Encuestas de las elecciones generales 2026: así están los sondeos</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Дніпрі РФ атакувала інфраструктуру, на Нікопольщині - супермаркет",
+    "link": "https://ua.korrespondent.net/city/dnepr/4928817-u-dnipri-rf-atakuvala-infrastrukturu-na-nikopolschyni-supermarket",
+    "pubDate": "2026-11-15 07:45:00",
+    "category": "Дніпро",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4639682.jpg\">Російські війська атакували Дніпро та громади трьох районів області. Пошкоджень зазнали транспортна інфраструктура, приватні будинки, супермаркет, автомобіль і гараж.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Crisis en Oriente Medio: efectos de la guerra en Irán en directo",
+    "link": "https://www.elperiodico.com/es/internacional/20261115/guerra-iran-israel-ultima-hora-directo-130265713",
+    "pubDate": "2026-11-15 07:41:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20260410/guerra-ucrania-rusia-ultima-hora-zelenski-trump-putin-directo-126605559\" >DIRECTO | Guerra Ucrania - Rusia, en directo: última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 97
+  },
+  {
+    "title": "Hay que hablar de Sekulic",
+    "link": "https://as.com/baloncesto/acb/hay-que-hablar-de-sekulic-f202611-n/",
+    "pubDate": "2026-11-15 07:37:19",
+    "category": "Baloncesto",
+    "description": "El entrenador esloveno supera las expectativas, se reivindica y apuntala a un Barça en racha. Su gestión de la situación es, hasta ahora, sobresaliente.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Madrid llega a 90 puntos en cuatro de cada cinco partidos",
+    "link": "https://as.com/baloncesto/acb/el-madrid-llega-a-90-puntos-en-cuatro-de-cada-cinco-partidos-f202611-n/",
+    "pubDate": "2026-11-15 07:37:00",
+    "category": "Baloncesto",
+    "description": "El líder invicto en la ACB visita a un Baskonia sin Faried, pero en teoría con refuerzos: Smits y Kamenjas han llegado esta semana a Vitoria. Pedro Martínez igualará a Aíto.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Guerra Ucrania - Rusia, última hora en directo",
+    "link": "https://www.elperiodico.com/es/internacional/20261115/guerra-ucrania-rusia-ultima-hora-126605559",
+    "pubDate": "2026-11-15 07:34:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Directo GUERRA DE IRÁN | Última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "Стало відомо, як відпрацювала ППО в ніч на неділю",
+    "link": "https://ua.korrespondent.net/ukraine/4928815-stalo-vidomo-yak-vidpratsuivala-ppo-v-nich-na-nedilui",
+    "pubDate": "2026-11-15 07:24:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4639663.jpg\">Українські захисники знешкодили 106 безпілотників різних типів. Кілька ударних БпЛА станом на ранок ще перебували в повітрі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Caos en los aeropuertos de Estados Unidos: unas obras de cableado causaron la suspensión de vuelos | Última hora en directo",
+    "link": "https://www.elperiodico.com/es/internacional/20261115/vuelos-aeropuertos-estados-unidos-cancelados-espana-ultima-hora-directo-136431294",
+    "pubDate": "2026-11-15 07:14:00",
+    "category": "",
+    "description": "<h2>La suspensión de vuelos en EEUU durante más de cuatro horas ha provocado afectaciones en el tráfico aéreo en todo el planeta</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Інтерпол розшукує вже сотні викрадених Росією експонатів",
+    "link": "https://ua.korrespondent.net/ukraine/4928813-interpol-rozshukuie-vzhe-sotni-vykradenykh-rosiieui-eksponativ",
+    "pubDate": "2026-11-15 07:06:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4639654.jpg\">Понад 35 тисяч музейних предметів, за даними Мінкульту, Росія вже викрала з України. Ще понад 1,7 млн експонатів залишаються на окупованих територіях.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Hablan los bisnietos de los asesinados en la Guerra Civil: \"Los verdugos de mi bisabuelo murieron en la cama, como Franco\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261115/guerra-civil-bisabuelo-mato-mio-fernandez-pasalodos-135985333",
+    "pubDate": "2026-11-15 07:01:10",
+    "category": "",
+    "description": "<h2>El historiador Arnau Fernández Pasalodos investiga en ‘¿Mató tu bisabuelo al mío?’ cómo los bisnietos de muchas víctimas de la Guerra Civil y la dictadura, como él mismo, han heredado el trauma, la rabia y el dolor </h2><h2><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260622/pais-ruinas-alfredo-gonzalez-ruibal-ensayo-fosas-guerra-civil-dictadura-130872208\" target=\"_blank\">Alfredo González Ruibal, arqueólogo: \"El franquismo silenció a los perdedores, pero sus mujeres fueron doblemente silenciadas\" </a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El modo canario tiene un límite",
+    "link": "https://www.elperiodico.com/es/opinion/20261115/canario-limite-inmigracion-vivienda-elecciones-generales-29n-136457163",
+    "pubDate": "2026-11-15 07:01:09",
+    "category": "",
+    "description": "<h2>El desajuste entre la presión migratoria y los recursos disponibles en Canarias evidencia la necesidad de medidas a largo plazo para abordar un fenómeno que se repite constantemente</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Mundo Today | El zoo de Barcelona asegura tener un camaleón de diez metros y sube el precio de la entrada",
+    "link": "https://www.elperiodico.com/es/que-hacer/20261115/mundo-today-zoo-barcelona-camaleon-diez-metros-136451584",
+    "pubDate": "2026-11-15 07:00:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/autores/el-mundo-today.html\" target=\"_blank\">La actualidad del mañana de Barcelona de El Mundo Today</a></h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Четверо дітей серед 32 поранених: наслідки масованих атак на Запоріжжя",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4928811-chetvero-ditei-sered-32-poranenykh-naslidky-masovanykh-atak-na-zaporizhzhia",
+    "pubDate": "2026-11-15 06:43:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4639602.jpg\">Російські війська за добу атакували Запорізьку область авіацією, дронами, реактивною артилерією та артилерією.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Генштаб оновив втрати росіян у війні",
+    "link": "https://ua.korrespondent.net/ukraine/4928809-henshtab-onovyv-vtraty-rosiian-u-viini",
+    "pubDate": "2026-11-15 06:22:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4639601.jpg\">Сили оборони України системно знищують особовий склад, озброєння, техніку та засоби забезпечення російських військ.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El pádel se acerca al sueño olímpico con España en la cima del mundo: \"Sería la culminación más linda para nuestro deporte, ya nadie puede pararlo\"",
+    "link": "https://www.elperiodico.com/es/deportes/20261115/padel-acerca-sueno-olimpico-espana-136442193",
+    "pubDate": "2026-11-15 06:01:53",
+    "category": "",
+    "description": "<h2 class=\"item\">El doble oro logrado en el Mundial de Doha de la pasada semana refuerza la hegemonía española con la cita de Brisbane-2032 en el punto de mira.</h2><h2 class=\"item\">La leyenda Belasteguin analiza para EL PERIÓDICO la expansión del pádel y ve más factible alcanzar el logro en los Juegos de 2036.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 92
+  },
+  {
+    "title": "Mark Owen: \"Take That éramos muy buenos en nuestro trabajo, pero no tanto en la parte emocional\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261115/mark-owen-take-that-buenos-136421426",
+    "pubDate": "2026-11-15 06:01:51",
+    "category": "",
+    "description": "<h2>El grupo británico, actualmente un trío tras las salidas de Robbie Williams y Jason Orange, publicará el viernes que viene ‘Dreamers’, un álbum que lo traerá de gira por España en 2027</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La seguridad y convivencia de España en siete gráficos",
+    "link": "https://www.elperiodico.com/es/politica/20261115/seguridad-convivencia-espana-siete-graficos-136456774",
+    "pubDate": "2026-11-15 06:01:01",
+    "category": "",
+    "description": "<h2>España sigue siendo uno de los países más seguros de la Unión Europea, si bien la percepción de inseguridad ciudadana está en su momento más alto de los últimos años </h2>",
+    "topic": "політика",
+    "topic_match_probability": 72
+  },
+  {
+    "title": "Claudia Fernández, campeona del mundo de pádel: \"Ganar un Mundial es increíble, pero disputar unos JJOO con España sería aún más especial\"",
+    "link": "https://www.elperiodico.com/es/deportes/20261115/claudia-fernandez-campeona-mundo-padel-136358267",
+    "pubDate": "2026-11-15 06:00:55",
+    "category": "",
+    "description": "<h2>La campeona del mundo con España repasa su experiencia en el Mundial de Doha, analiza el crecimiento internacional del pádel y reconoce que participar en unos JJOOO sería uno de los mayores hitos de su carrera.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 92
+  },
+  {
+    "title": "Coki Nieto, campeón del mundo de pádel: \"La rivalidad con Argentina nos hace mejores a los dos\"",
+    "link": "https://www.elperiodico.com/es/deportes/20261115/coki-nieto-padel-136407636",
+    "pubDate": "2026-11-15 06:00:54",
+    "category": "",
+    "description": "<h2>Coki Nieto es uno de los nombres propios del pádel español. El jugador madrileño formó parte del equipo que conquistó el Mundial en Doha. Tras recuperar la corona mundial para España, repasa sus sensaciones y el momento que atraviesa este deporte.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Qué falla en la Ronda de Dalt de Barcelona si apenas circulan más coches",
+    "link": "https://www.elperiodico.com/es/opinion/20261115/barcelona-ronda-de-dalt-79-por-ciento-mas-coches-136440513",
+    "pubDate": "2026-11-15 06:00:51",
+    "category": "",
+    "description": "",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Elecciones generales 29N: La revolución (lampedusiana) permanente",
+    "link": "https://www.elperiodico.com/es/opinion/20261115/elecciones-generales-29n-revolucion-lampedusiana-136430672",
+    "pubDate": "2026-11-15 06:00:47",
+    "category": "",
+    "description": "",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "De luchar contra la multirreincidencia a reforzar la policía: las propuestas en materia de seguridad para el 29N",
+    "link": "https://www.elperiodico.com/es/politica/20261115/propuestas-partidos-politicos-seguridad-elecciones-generales-29n-136421602",
+    "pubDate": "2026-11-15 06:00:46",
+    "category": "",
+    "description": "<h2>Mientras PP y Vox ponen el foco en la lucha contra la ocupación y en reformas legislativas que endurezcan las penas para los delincuentes multirreincidentes, el PSOE plantea planes específicos para luchar contra determinados delitos y Frente Amplio prioriza la prevención</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "La expansión del siluro, el 'bulldozer' de agua dulce, amenaza los ríos de España: \"Ningún depredador es tan voraz\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261115/expansion-gigantesco-siluro-amenaza-rios-espana-depredador-especie-voraz-136412111",
+    "pubDate": "2026-11-15 06:00:46",
+    "category": "",
+    "description": "<h2 class=\"item\">Esta especie invasora, que puede superar los dos metros de largo y comer desde peces y anfibios hasta aves y nutrias, amenaza la biodiversidad fluvial, ya muy maltrecha</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261110/siluros-capturados-lleida-sacrificados-alimento-aves-136282195\" target=\"_blank\">Los inmensos siluros capturados en Lleida serán triturados y servirán para alimentar a aves protegidas</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Elian, la 'start-up' de proteína vegetal que aspira a facturar 500 millones con su segunda fábrica en el Port de Barcelona",
+    "link": "https://www.elperiodico.com/es/economia/20261115/elian-proteina-vegetal-puerto-barcelona-segunda-fabrica-136456736",
+    "pubDate": "2026-11-15 06:00:46",
+    "category": "",
+    "description": "<h2>La compañía, fundada en 2021 por su ahora consejero delegado, Andreu Martín, aspira a que España, y por extensión también Europa, alcancen autonomía en el aprovisionamiento de esta materia clave para la industria dedicada a la alimentación humana y la fabricación de piensos</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 78
+  },
+  {
+    "title": "Tomás Fernández (Observatorio del Racismo y la Xenofobia): \"Hay que sancionar a las redes sociales que no eliminen los mensajes de odio\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261115/tomas-fernandez-observatorio-racismo-xenofobia-sancionar-redes-sociales-mensajes-odio-136140614",
+    "pubDate": "2026-11-15 06:00:46",
+    "category": "",
+    "description": "<h2 class=\"item\">El responsable de OBERAXE, el equipo encargado de denunciar contenidos violentos en las plataformas, advierte: \"El discurso de odio antecede siempre a la agresión en la vida real\"</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260818/juicio-meta-facebook-instagram-estados-unidos-redes-sociales-impacto-salud-mental-adolescentes-133450534\" target=\"_blank\">Las redes sociales no salen gratis: más ansiedad y menos bienestar entre los adolescentes</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260702/gobierno-prohibicion-total-menores-redes-132041546\" target=\"_blank\">El Gobierno vetará redes sociales con \"contenido dañino\" a menores de 16 años aunque tengan permiso de sus padres</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los atascos se disparan un 79% en la Ronda de Dalt desde 2019, pese a que apenas hay más coches",
+    "link": "https://www.elperiodico.com/es/barcelona/20261115/atascos-disparan-79-ronda-dalt-136333784",
+    "pubDate": "2026-11-15 06:00:45",
+    "category": "",
+    "description": "<h2>Un informe de Trànsit al que ha tenido acceso EL PERIÓDICO también revela que las retenciones han aumentado un 54% en la Ronda Litoral, mientras la velocidad media cae en ambas vías</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20261112/cuando-activan-nuevos-radares-c58-trafico-136252983\" target=\"_blank\">La C-58 estrenará sus nuevos radares y límites de velocidad inteligentes antes de final de año</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "¿Y si no estuviera todo perdido? La batalla de la esperanza se abre paso en un clima de miedo al futuro",
+    "link": "https://www.elperiodico.com/es/sociedad/20261115/estuviera-perdido-batalla-esperanza-abre-paso-pesimismo-miedo-136176761",
+    "pubDate": "2026-11-15 06:00:45",
+    "category": "",
+    "description": "<h2 class=\"item\">Activistas, pensadores y escritores proponen poner en marcha acciones colectivas en entornos cercanos para combatir el desánimo reinante</h2><h2 class=\"item\">Más que en cambiar el mundo, la esperanza está puesta hoy en crear espacios próximos habitables</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ser-feliz/20241124/hay-motivos-esperanza-byung-chul-111603421\" target=\"_blank\">¿Hay motivos para la esperanza? Byung-Chul tiene una respuesta</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20261021/alto-coste-vida-recortes-sociales-futuro-incierto-coctel-malestar-prende-ola-protestas-juventud-europa-135600421\" target=\"_blank\">Alto coste de la vida, recortes sociales y un futuro incierto: el malestar tras la ola de protestas juveniles en Europa</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Biorce explora nuevos negocios, la compra de una empresa y la llegada a Asia para seguir creciendo",
+    "link": "https://www.elperiodico.com/es/economia/20261115/biorce-explora-nuevos-negocios-compra-empresa-asia-seguir-creciendo-135382801",
+    "pubDate": "2026-11-15 06:00:44",
+    "category": "",
+    "description": "<h2>La empresa prevé contratar como mínimo a otro centenar de trabajadores el año que viene en la sede central de Barcelona, sin dejar de mirar hacia Estados Unidos, su mercado estrella</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20251110/biorce-ia-gestionar-ensayos-clinicos-factura-12-millones-122811749\" target=\"_blank\">Una IA para gestionar ensayos clínicos que va camino de facturar 12 millones en 9 meses</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Crimen organizado, ciberdelitos, amenazas híbridas y fronteras: los retos de seguridad de España y cómo afrontarlos",
+    "link": "https://www.elperiodico.com/es/politica/20261115/retos-seguridad-espana-crimen-organizado-ciberdelitos-amenazas-hibridas-fronteras-elecciones-generales-29n-136456688",
+    "pubDate": "2026-11-15 06:00:42",
+    "category": "",
+    "description": "<h2>Los especialistas coinciden en que España es un país seguro, pero discrepan sobre la necesidad de aumentar el gasto y reclaman adaptar los medios policiales a unas amenazas cada vez más complejas</h2>",
+    "topic": "політика",
+    "topic_match_probability": 82
+  },
+  {
+    "title": "El miedo a Vox que agita Sánchez pierde su efecto electoral",
+    "link": "https://www.elperiodico.com/es/politica/20261115/miedo-vox-sanchez-pierde-efecto-136418129",
+    "pubDate": "2026-11-15 06:00:40",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261113/elecciones-generales-29-noviembre-vivienda-ceuta-ultima-hora-directo-135335688\" target=\"_blank\">Elecciones generales 29N, en directo | Última hora del inicio de la campaña, candidatos y encuestas</a></h2><h2 class=\"item\">La presencia en las instituciones de la ultraderecha y la normalización de sus discursos desgasta la estrategia utilizada por la izquierda para frenarla, según coinciden en señalar los expertos</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 96
+  },
+  {
+    "title": "La agricultura regenerativa echa raíces en el campo español",
+    "link": "https://www.elperiodico.com/es/economia/20261115/agricultura-regenerativa-echa-raices-campo-136456665",
+    "pubDate": "2026-11-15 06:00:37",
+    "category": "",
+    "description": "<h2>Empresas, investigadores y Administración analizan los retos de un modelo que busca recuperar la salud del suelo, mejorar la productividad y garantizar la rentabilidad</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Dario y Daniela Amodei, en sus manos estamos",
+    "link": "https://www.elperiodico.com/es/economia/20261115/dario-daniela-amodei-manos-136456651",
+    "pubDate": "2026-11-15 06:00:36",
+    "category": "",
+    "description": "<h2>La próxima salida a Bolsa de Anthropic será algo más que un punto y seguido en el desarrollo de la IA. Si tiene éxito, la burbuja seguirá creciendo; pero, ¿y si fracasa? </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cuando la solución se convierte en el conflicto",
+    "link": "https://www.elperiodico.com/es/economia/20261115/solucion-convierte-conflicto-136456612",
+    "pubDate": "2026-11-15 06:00:36",
+    "category": "",
+    "description": "<h2>Benet Carbonell Marcet concentró la propiedad de Copcisa en manos de su hijo menor para evitar disputas entre hermanos, pero su muerte abrió la caja de truenos que pretendía evitar</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Trump promete cortar la ayuda militar a Israel mientras el Congreso impulsa una integración sin precedentes",
+    "link": "https://www.elperiodico.com/es/internacional/20261115/trump-anuncia-ayuda-militar-israel-seccion-219-136456578",
+    "pubDate": "2026-11-15 06:00:35",
+    "category": "",
+    "description": "<h2 class=\"item\">Pretende retirar los 3.800 millones de dólares anuales de ayuda; al mismo tiempo la Cámara de Representantes impulsa una mayor cooperación tecnológica de los dos ejércitos</h2><h2 class=\"item\">\"No puede sustituir por completo la ayuda financiera que Israel recibe actualmente\", dice Rob Geist</h2><h2 class=\"item\">\"El anuncio de Trump fue una gran sorpresa para el estamento de seguridad\", apunta Sima Shine</h2>",
+    "topic": "політика",
+    "topic_match_probability": 96
+  },
+  {
+    "title": "¿El fin de la burbuja? Así están las cifras de las grandes empresas de la IA",
+    "link": "https://www.elperiodico.com/es/tecnologia/20261115/burbuja-ia-cifras-grandes-empresas-nvidia-openai-anthropic-bolsa-136356616",
+    "pubDate": "2026-11-15 06:00:31",
+    "category": "",
+    "description": "<h2>Analizamos las finanzas de los ocho gigantes del sector de la inteligencia artificial, golpeados por la creciente inestabilidad de los mercados y el escepticismo de los inversores con los retornos de su prometido negocio</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Castelldefels, un feudo del PP en el 'cinturón rojo' de Barcelona: \"Hay gente con mucho poder adquisitivo\"",
+    "link": "https://www.elperiodico.com/es/politica/20261115/castelldefels-feudo-pp-cinturon-rojo-135956536",
+    "pubDate": "2026-11-15 06:00:21",
+    "category": "",
+    "description": "<h2>EL PERIÓDICO radiografía a pie de calle los municipios donde cada partido catalán obtuvo su mayor porcentaje de voto en las elecciones generales de 2023</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20261019/castelldefels-veta-licencias-nuevos-hoteles-un-ano-estudiar-zonas-saturadas-135511884\" target=\"_blank\">Castelldefels veta las licencias de nuevos hoteles durante un año para estudiar “si hay zonas saturadas”</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 92
+  },
+  {
+    "title": "Alberto Cerdán explica las claves del 'Effortless Hair', la tendencia de las melenas con movimiento: \"El cabello debe acompañarte, no ser una servidumbre\"",
+    "link": "https://www.elperiodico.com/es/gente/20261115/alberto-cerdan-effortless-hair-tendencia-pelo-natural-135929712",
+    "pubDate": "2026-11-15 06:00:19",
+    "category": "",
+    "description": "<h2>Adiós a las planchas, las ondas perfectas y los peinados rígidos: el reconocido peluquero y estilista revela cómo conseguir volumen, textura y una caída natural gracias a un buen corte y unos sencillos gestos de peinado</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Підсумки 14.11: вимоги Росії та \"відхід\" Болгарії",
+    "link": "https://ua.korrespondent.net/ukraine/4928799-pidsumky-1411-vymohy-rosii-ta-vidkhid-bolharii",
+    "pubDate": "2026-11-15 05:55:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4639467.jpg\">Росія висунула вимоги щодо кордонів НАТО - ЗМІ. Зеленський про Карфаген: Міністри не замішані. Одна з країн Європи припиняє постачати зброю Україні. Кореспондент.net виділяє головні події вчорашнього дня.",
+    "topic": "підсумки (за попередній день, наприклад)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Моссад заявив про плани Ірану вбити Трампа - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4928807-mossad-zaiavyv-pro-plany-iranu-vbyty-trampa-zmi",
+    "pubDate": "2026-11-15 05:44:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4639583.jpg\">Убивство президента США й американських високопосадовців, зокрема \"за допомогою безпілотників\".",
+    "topic": "політика",
+    "topic_match_probability": 94
+  },
+  {
+    "title": "Дрони атакували найбільший НХЗ Росії - соцмережі",
+    "link": "https://ua.korrespondent.net/world/russia/4928805-drony-atakuvaly-naibilshyi-nkhz-rosii-sotsmerezhi",
+    "pubDate": "2026-11-15 04:58:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4639542.jpg\">Жителі Нижньокамська підтверджують факт удару по підприємству міста, а також зафіксували там пожежу.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "У Варшаві на пам'ятнику написали \"Слава УПА\": реакція посольства України",
     "link": "https://ua.korrespondent.net/world/4928803-u-varshavi-na-pamiatnyku-napysaly-slava-upa-reaktsiia-posolstva-ukrainy",
     "pubDate": "2026-11-15 04:39:00",
     "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4639524.jpg\">Випадок вандалізму є проявом гібридної війни Росії і спробою посварити країни, вважають українські дипломати.",
+    "topic": "політика",
+    "topic_match_probability": 82
+  },
+  {
+    "title": "У Варшаві на пам'ятнику написали \"Слава УПА\": реакція посольства України",
+    "link": "https://ua.korrespondent.net/world/worldabus/4928803-u-varshavi-na-pamiatnyku-napysaly-slava-upa-reaktsiia-posolstva-ukrainy",
+    "pubDate": "2026-11-15 04:39:00",
+    "category": "Огляд преси",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4639524.jpg\">Випадок вандалізму є проявом гібридної війни Росії і спробою посварити країни, вважають українські дипломати.",
     "topic": "політика",
     "topic_match_probability": 82
