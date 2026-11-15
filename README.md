@@ -1,8 +1,9 @@
-# News for 2026-11-15 18:16
+# News for 2026-11-15 19:00
 
 Previous day: [2026-11-14](./data/2026-11-14.md)
 
 ## ua.korrespondent.net
+18:24 [У Харкові дрон РФ поцілив у дев'ятиповерхівку](https://ua.korrespondent.net/city/kharkov/4928895-u-kharkovi-dron-rf-potsilyv-u-deviatypoverkhivku)<br>
 17:29 [Вибух на різдвяному ярмарку в Бельгії: є важкопоранені](https://ua.korrespondent.net/world/4928883-vybukh-na-rizdvianomu-yarmarku-v-belhii-ye-vazhkoporaneni)<br>
 17:10 [Дрони РФ атакували Харків: троє постраждалих](https://ua.korrespondent.net/city/kharkov/4928881-drony-rf-atakuvaly-kharkiv-troie-postrazhdalykh)<br>
 16:51 [Естонія закриває кордон із Росією](https://ua.korrespondent.net/world/4928879-estoniia-zakryvaie-kordon-iz-rosiieui)<br>
@@ -28,6 +29,7 @@ Previous day: [2026-11-14](./data/2026-11-14.md)
 00:59 [У Києві відкриють дві резервні переправи на Дніпрі](https://ua.korrespondent.net/city/kiev/4928789-u-kyievi-vidkryuit-dvi-rezervni-perepravy-na-dnipri)<br>
 
 ## as.com
+18:56 [Baskonia – Real Madrid, en directo: Liga Endesa 2026-27 en vivo hoy](https://as.com/baloncesto/acb/baskonia-real-madrid-en-directo-liga-endesa-2026-27-en-vivo-hoy-f202611-d/)<br>
 18:13 [Barcelona – Obradoiro, en directo: Liga Endesa 2026-27 en vivo hoy](https://as.com/baloncesto/acb/barcelona-obradoiro-en-directo-liga-endesa-2026-27-en-vivo-hoy-f202611-d/)<br>
 14:54 [El Unicaja coge aire a ráfagas](https://as.com/baloncesto/el-unicaja-coge-aire-a-rafagas-f202611-n/)<br>
 14:54 [Allen desarma al Lleida](https://as.com/baloncesto/acb/allen-desarma-al-lleida-f202611-n/)<br>
@@ -37,6 +39,7 @@ Previous day: [2026-11-14](./data/2026-11-14.md)
 07:37 [El Madrid llega a 90 puntos en cuatro de cada cinco partidos](https://as.com/baloncesto/acb/el-madrid-llega-a-90-puntos-en-cuatro-de-cada-cinco-partidos-f202611-n/)<br>
 
 ## www.elperiodico.com
+18:15 [Laura, 31 años, sobre emigrar: "En Reino Unido, el trabajo de una persona lo hace uno; en España, uno hace el trabajo de tres"](https://www.elperiodico.com/es/economia/20261115/trabajo-reino-unido-espana-laura-dv-136299899)<br>
 17:15 [José Coronado (69 años), actor: "Tengo una hectárea de terreno en Toledo, me he hecho mi propio microhábitat"](https://www.elperiodico.com/es/gente/20261115/jose-coronado-69-anos-actor-terreno-toledo-dv-et-135840791)<br>
 17:01 [Barcelona amplía la compra de pulseras térmicas tras alertar de 17 posibles golpes de calor el pasado verano](https://www.elperiodico.com/es/barcelona/20261115/barcelona-calor-pulseras-termicas-trabajadores-parques-jardines-136445064)<br>
 17:00 [Lolo (26 años), camionero, ya cuenta con una hipoteca a tipo fijo a 30 años: "Puedes pagar Netflix, puedes irte de viaje alguna vez y puedes hacer en general más cosas"](https://www.elperiodico.com/es/vivienda/20261115/vivienda-crisis-emancipacion-jovenes-hipoteca-casa-ahorro-lolo-camionero-dv-et-133642065)<br>
