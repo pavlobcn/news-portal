@@ -1,5 +1,131 @@
 [
   {
+    "title": "Inglaterra colapsa a España y cierra su ciclo virtuoso",
+    "link": "https://www.elperiodico.com/es/deportes/20261115/espana-inglaterra-nations-league-resumen-resultado-136478013",
+    "pubDate": "2026-11-15 22:50:41",
+    "category": "",
+    "description": "<h2>Los ingleses pasan líderes de grupo y los de De la Fuente concluyen una racha de 44 partidos sin conocer la derrota</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Києві почали відновлювати Садибу Зеленських",
+    "link": "https://ua.korrespondent.net/city/kiev/4928939-u-kyievi-pochaly-vidnovluivaty-sadybu-zelenskykh",
+    "pubDate": "2026-11-15 22:34:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4640552.jpg\">На об’єкті культурної спадщини демонтують аварійні фрагменти, укріплюють конструкції та зберігають історичні матеріали для повторного використання.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Укренерго попередило про цілодобові відключення",
+    "link": "https://ua.korrespondent.net/ukraine/4928936-ukrenerho-poperedylo-pro-tsilodobovi-vidkluichennia",
+    "pubDate": "2026-11-15 22:19:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4640550.jpg\">Графіки погодинних відключень торкнуться усіх категорій споживачів. Обсяг становитиме до трьох черг.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Вояджер-1 наближається до космічного рекорду",
+    "link": "https://ua.korrespondent.net/tech/space/4928934-voiadzher-1-nablyzhaietsia-do-kosmichnoho-rekordu",
+    "pubDate": "2026-11-15 21:59:00",
+    "category": "Космос",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4640517.jpg\">Космічний апарат NASA Вояджер-1, запущений у 1977 році, наближається до історичної позначки - відстані, яку світло долає за цілу добу.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Зеленський заявив про зупинку 55% НПЗ Росії",
+    "link": "https://ua.korrespondent.net/world/russia/4928932-zelenskyi-zaiavyv-pro-zupynku-55-npz-rosii",
+    "pubDate": "2026-11-15 21:44:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4640500.jpg\">Українські далекобійні удари вже зупинили понад половину російських нафтопереробних потужностей.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Resumen del Baskonia vs Real Madrid, jornada 8 de la Liga Endesa",
+    "link": "https://as.com/videos/acb/resumen-del-baskonia-vs-real-madrid-jornada-8-de-la-liga-endesa-f202611-v/",
+    "pubDate": "2026-11-15 21:35:37",
+    "category": "Liga ACB",
+    "description": "El Madrid sigue líder invicto tras reaccionar rápido a la salida en tromba de Duarte. El base francés, 29 de valoración en 16 minutos. Feliz y Jones brillan. El Baskonia no puede.",
+    "topic": "спорт",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Iker Jiménez y Carmen Porter recogen su Antena de Oro por ‘Horizonte’ y reflexionan sobre 'Cuarto milenio': \"Ha sido superado por el misterio de la realidad, ahora la política lo inunda todo\"",
+    "link": "https://www.elperiodico.com/es/tele/yotele/20261115/iker-jimenez-carmen-porter-recogen-antena-oro-horizonte-reflexionan-cuarto-milenio-politica-inunda-todo-136476191",
+    "pubDate": "2026-11-15 21:32:05",
+    "category": "",
+    "description": "<h2>Los presentadores de Mediaset recogen el segundo galardón para su programa diario, que tras centrarse en la política genera gran controversia pero sigue creciendo en términos de audiencia. </h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "“Maledon nos dijo ayer que tenía confianza y ganas de jugar”",
+    "link": "https://as.com/baloncesto/acb/maledon-nos-dijo-ayer-que-tenia-confianza-y-ganas-de-jugar-f202611-n/",
+    "pubDate": "2026-11-15 21:27:23",
+    "category": "Baloncesto",
+    "description": "Pedro Martínez destacó que fue “una victoria coral” mientras que Velimir Perasovic augura más llegadas en el Baskonia.",
+    "topic": "спорт",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Російський дрон влучив у дитячий заклад Харкова",
+    "link": "https://ua.korrespondent.net/city/kharkov/4928930-rosiiskyi-dron-vluchyv-u-dytiachyi-zaklad-kharkova",
+    "pubDate": "2026-11-15 21:27:00",
+    "category": "Харків",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4640499.jpg\">У Харкові російський безпілотник Молнія влучив у будівлю дитячого навчального закладу. Удар зафіксували в Шевченківському районі міста.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Eldense recupera la sonrisa y alarga la tristeza del Sabadell (2-0)",
+    "link": "https://www.elperiodico.com/es/deportes/20261115/eldense-recupera-sonrisa-alarga-tristeza-136476186",
+    "pubDate": "2026-11-15 21:23:15",
+    "category": "",
+    "description": "<h2 class=\"item\">El equipo de Ferran Costa, que sufrió la expulsión de Catalá en el minuto 35, suma cinco jornadas sin ganas y 2 puntos de los 15 últimos.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Trump culpa a Biden del caos aéreo en EEUU con 17.000 vuelos cancelados y sin normalidad prevista hasta el lunes",
+    "link": "https://www.elperiodico.com/es/internacional/20261115/trump-culpa-biden-caos-aereo-vuelos-cancelados-retrasados-136475666",
+    "pubDate": "2026-11-15 21:10:16",
+    "category": "",
+    "description": "<h2>El Secretario de Transporte de EEUU se niega a pedir disculpas y señala a la empresa contratista de la que asegura querer deshacerse aunque está maniatado</h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20261115/vuelos-aeropuertos-estados-unidos-cancelados-espana-ultima-hora-directo-136431294\">Caos en los aeropuertos de Estados Unidos: sigue en directo la última hora en directo</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Доля Nvidia під питанням: Хуанга кличуть назад",
+    "link": "https://ua.korrespondent.net/business/companies/4928927-dolia-Nvidia-pid-pytanniam-khuanha-klychut-nazad",
+    "pubDate": "2026-11-15 21:08:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4640481.jpg\">Після відставки Дженсена Хуанга в Nvidia заговорили про можливість його повернення. Частина впливових інвесторів вважає, що компанії варто розглянути такий сценарій.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La rave de Llers (Girona) continúa en marcha con unas 150 personas",
+    "link": "https://www.elperiodico.com/es/sociedad/20261115/rave-llers-continua-marcha-150-persona-136476067",
+    "pubDate": "2026-11-15 21:05:45",
+    "category": "",
+    "description": "<h2 class=\"item\">Los Mossos prevén que los asistentes pasen una segunda noche en esta zona boscosa</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Maledon vuelve como se fue: poco ruido, muchas nueces",
+    "link": "https://as.com/baloncesto/acb/maledon-vuelve-como-se-fue-poco-ruido-muchas-nueces-f202611-n/",
+    "pubDate": "2026-11-15 21:00:03",
+    "category": "Baloncesto",
+    "description": "El Madrid sigue líder invicto tras reaccionar a la salida en tromba de Duarte. El base francés, 29 de valoración en 16 minutos. Feliz y Jones brillan. El Baskonia no puede. Pedro Martínez, 1.111 partidos.",
+    "topic": "спорт",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Зеленський розкрив пріоритети нового Рамштайну",
     "link": "https://ua.korrespondent.net/ukraine/4928924-zelenskyi-rozkryv-priorytety-novoho-ramshtainu",
     "pubDate": "2026-11-15 20:50:00",
@@ -15,6 +141,15 @@
     "category": "Технології",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4640440.jpg\">Чоловік, який посів перше місце на національному іспиті для майбутніх податкових бухгалтерів у Південній Кореї, зізнався, що отримав найвищий результат завдяки генеративному ШІ.",
     "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sito silencia Miribilla",
+    "link": "https://as.com/baloncesto/sito-silencia-miribilla-f202611-n/",
+    "pubDate": "2026-11-15 20:32:15",
+    "category": "UCAM Murcia Baloncesto",
+    "description": "El técnico del UCAM Murcia diseña un partido muy trabado para asaltar el pabellón en el que siempre encuentra abucheos.",
+    "topic": "спорт",
     "topic_match_probability": 0
   },
   {
