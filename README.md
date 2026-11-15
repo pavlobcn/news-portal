@@ -1,8 +1,9 @@
-# News for 2026-11-15 22:55
+# News for 2026-11-15 23:31
 
 Previous day: [2026-11-14](./data/2026-11-14.md)
 
 ## ua.korrespondent.net
+23:29 [У Середземному морі затримали "тіньовий" танкер РФ](https://ua.korrespondent.net/world/4928949-u-seredzemnomu-mori-zatrymaly-tinovyi-tanker-rf)<br>
 22:34 [У Києві почали відновлювати Садибу Зеленських](https://ua.korrespondent.net/city/kiev/4928939-u-kyievi-pochaly-vidnovluivaty-sadybu-zelenskykh)<br>
 22:19 [Укренерго попередило про цілодобові відключення](https://ua.korrespondent.net/ukraine/4928936-ukrenerho-poperedylo-pro-tsilodobovi-vidkluichennia)<br>
 21:59 [Вояджер-1 наближається до космічного рекорду](https://ua.korrespondent.net/tech/space/4928934-voiadzher-1-nablyzhaietsia-do-kosmichnoho-rekordu)<br>
