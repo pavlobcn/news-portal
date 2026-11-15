@@ -1,5 +1,23 @@
 [
   {
+    "title": "У Варшаві на пам'ятнику написали \"Слава УПА\": реакція посольства України",
+    "link": "https://ua.korrespondent.net/world/4928803-u-varshavi-na-pamiatnyku-napysaly-slava-upa-reaktsiia-posolstva-ukrainy",
+    "pubDate": "2026-11-15 04:39:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4639524.jpg\">Випадок вандалізму є проявом гібридної війни Росії і спробою посварити країни, вважають українські дипломати.",
+    "topic": "політика",
+    "topic_match_probability": 82
+  },
+  {
+    "title": "У російському Таганрозі БпЛА атакували енергетику",
+    "link": "https://ua.korrespondent.net/world/russia/4928801-u-rosiiskomu-tahanrozi-bpla-atakuvaly-enerhetyku",
+    "pubDate": "2026-11-15 03:49:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4639486.jpg\">Імовірною ціллю цієї атаки стала місцева ПС 220 кВ Т-10 (Таганрог-10), пишуть моніторингові Telegram-канали.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Іран заявив, що в Ормузькій протоці два танкери підірвалися на мінах",
     "link": "https://ua.korrespondent.net/world/4928797-iran-zaiavyv-scho-v-ormuzkii-prototsi-dva-tankery-pidirvalysia-na-minakh",
     "pubDate": "2026-11-15 02:59:00",
@@ -7,6 +25,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4639432.jpg\">Судна підірвалися на мінах, намагаючись пройти через заборонену ділянку протоки, заявили представники КВІР.",
     "topic": "політика",
     "topic_match_probability": 92
+  },
+  {
+    "title": "Іран: В Ормузькій протоці два танкери підірвалися на мінах",
+    "link": "https://ua.korrespondent.net/world/4928797-iran-v-ormuzkii-prototsi-dva-tankery-pidirvalysia-na-minakh",
+    "pubDate": "2026-11-15 02:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4639432.jpg\">Судна підірвалися на мінах, намагаючись пройти через заборонену ділянку протоки, заявили представники КВІР.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Україна має своє місце в НАТО - Макрон",
