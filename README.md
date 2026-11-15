@@ -1,8 +1,16 @@
-# News for 2026-11-15 12:41
+# News for 2026-11-15 15:26
 
 Previous day: [2026-11-14](./data/2026-11-14.md)
 
 ## ua.korrespondent.net
+15:17 [Протести у Франції: понад 200 затриманих і травмовані поліцейські](https://ua.korrespondent.net/world/4928868-protesty-u-frantsii-ponad-200-zatrymanykh-i-travmovani-politseiski)<br>
+14:55 [Два регіони залишилися без світла через удар РФ](https://ua.korrespondent.net/ukraine/4928865-dva-rehiony-zalyshylysia-bez-svitla-cherez-udar-rf)<br>
+14:36 [Росіяни двічі атакували підрозділ ДСНС у Краматорську](https://ua.korrespondent.net/ukraine/4928863-rosiiany-dvichi-atakuvaly-pidrozdil-dsns-u-kramatorsku)<br>
+14:17 [Авіарух у США досі паралізований: коли польоти повернуться до норми](https://ua.korrespondent.net/world/4928861-aviarukh-u-ssha-dosi-paralizovanyi-koly-poloty-povernutsia-do-normy)<br>
+14:04 [Свята 16 листопада 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4928853-sviata-16-lystopada-2026-roku-istoriia-tradytsii)<br>
+13:56 [У Росії уражено склад ракет і дронопорт - Генштаб](https://ua.korrespondent.net/ukraine/4928857-u-rosii-urazheno-sklad-raket-i-dronoport-henshtab)<br>
+13:13 [Російський дрон атакував підприємство в Чугуєві](https://ua.korrespondent.net/ukraine/4928854-rosiiskyi-dron-atakuvav-pidpryiemstvo-v-chuhuievi)<br>
+12:49 [РФ тричі атакувала Харків: пошкоджені автобуси і пожежна машина](https://ua.korrespondent.net/city/kharkov/4928848-rf-trychi-atakuvala-kharkiv-poshkodzheni-avtobusy-i-pozhezhna-mashyna)<br>
 11:21 [На Київщині після ранкової атаки РФ горять склади](https://ua.korrespondent.net/ukraine/4928839-na-kyivschyni-pislia-rankovoi-ataky-rf-horiat-sklady)<br>
 07:45 [У Дніпрі РФ атакувала інфраструктуру, на Нікопольщині - супермаркет](https://ua.korrespondent.net/city/dnepr/4928817-u-dnipri-rf-atakuvala-infrastrukturu-na-nikopolschyni-supermarket)<br>
 07:24 [Стало відомо, як відпрацювала ППО в ніч на неділю](https://ua.korrespondent.net/ukraine/4928815-stalo-vidomo-yak-vidpratsuivala-ppo-v-nich-na-nedilui)<br>
@@ -14,11 +22,19 @@ Previous day: [2026-11-14](./data/2026-11-14.md)
 00:59 [У Києві відкриють дві резервні переправи на Дніпрі](https://ua.korrespondent.net/city/kiev/4928789-u-kyievi-vidkryuit-dvi-rezervni-perepravy-na-dnipri)<br>
 
 ## as.com
+14:54 [El Unicaja coge aire a ráfagas](https://as.com/baloncesto/el-unicaja-coge-aire-a-rafagas-f202611-n/)<br>
+14:54 [Allen desarma al Lleida](https://as.com/baloncesto/acb/allen-desarma-al-lleida-f202611-n/)<br>
+14:18 [Armoni Brooks lidera el triunfo ante Leyma Coruña](https://as.com/baloncesto/acb/armoni-brooks-lidera-el-triunfo-ante-leyma-coruna-f202611-n/)<br>
 12:17 [Oficial: el Real Madrid repesca a Eli Ndiaye de su cesión](https://as.com/baloncesto/acb/oficial-el-real-madrid-repesca-a-eli-ndiaye-de-su-cesion-f202611-n/)<br>
 07:37 [Hay que hablar de Sekulic](https://as.com/baloncesto/acb/hay-que-hablar-de-sekulic-f202611-n/)<br>
 07:37 [El Madrid llega a 90 puntos en cuatro de cada cinco partidos](https://as.com/baloncesto/acb/el-madrid-llega-a-90-puntos-en-cuatro-de-cada-cinco-partidos-f202611-n/)<br>
 
 ## www.elperiodico.com
+14:30 [Antonio González (47 años), especialista en reformas: "Los albañiles de toda la vida están desapareciendo ya"](https://www.elperiodico.com/es/economia/20261115/antonio-gonzalez-47-anos-especialista-reformas-obras-dv-135896281)<br>
+13:53 [La caca dorada: una vecina de Torrevieja convierte en obras de arte los excrementos de perro en la calle para protestar](https://www.elperiodico.com/es/sociedad/20261115/torrevieja-caca-dorada-vecina-convierte-obras-de-arte-protesta-excrementos-perro-136214753)<br>
+13:36 [Un tren de mercancías descarrila en Madrid, deja un herido y corta la circulación ferroviaria con Ávila](https://www.elperiodico.com/es/fotos/sociedad/tren-mercancias-descarrila-madrid-deja-136464878)<br>
+13:15 [El cardiólogo José Abellán, sobre el infarto en mujeres: "Muchas llegan tarde porque interpretan los síntomas como otra cosa"](https://www.elperiodico.com/es/salud/20261115/aviso-jose-abellan-cardiologo-infarto-mujeres-hombres-sintomas-salud-dv-136325894)<br>
+13:13 [Cortada la circulación ferroviaria entre Madrid y Ávila tras descarrilar un tren de mercancías](https://www.elperiodico.com/es/videos/sociedad/cortada-circulacion-ferroviaria-madrid-avila/136464221.shtml)<br>
 12:05 [La psicóloga Lara Ferreiro, sobre el envejecimiento: "¿Y si tu cuerpo fuera más viejo de lo que dice tu DNI?"](https://www.elperiodico.com/es/salud/20261115/lara-ferreiro-explica-soledad-relaciones-relaciones-toxicas-salud-mental-envejecimiento-dv-136334378)<br>
 11:49 [Razer Raiju V3 Pro Signature Edition: una pieza de colección para jugar sin límites en PlayStation 5](https://www.elperiodico.com/es/tecnologia/20261115/razer-raiju-v3-pro-signature-136461823)<br>
 11:30 [Arturo (46 años), soldador: "Nos enrocamos en vivir en las ciudades y en los pueblos también hay salida. Estudiad soldadura que siempre vais a tener trabajo"](https://www.elperiodico.com/es/economia/20261115/arturo-castineiras-soldador-46-anos-ciudades-pueblos-trabajo-dv-136317351)<br>
