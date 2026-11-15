@@ -1,5 +1,50 @@
 [
   {
+    "title": "Crece la presión para desalojar la acampada de plaza Catalunya antes de Navidad en Barcelona",
+    "link": "https://www.elperiodico.com/es/barcelona/20261115/desalojo-acampada-plaza-catalunya-barcelona-navidad-collboni-pp-136474995",
+    "pubDate": "2026-11-15 23:50:05",
+    "category": "",
+    "description": "<h2 class=\"item\">El PP exige el desalojo inmediato de las más de 500 personas acampadas, mientras Collboni plantea recuperar la plaza antes de las fiestas y los comerciantes reclaman mantener las actividades navideñas</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20261112/collboni-desalojo-acampada-plaza-catalunya-navidad-136356326\" >Collboni contempla desalojar la acampada de plaza Catalunya antes de Navidad</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Росіяни атакували об'єкт критичної промисловості на Вінниччині",
+    "link": "https://ua.korrespondent.net/ukraine/4928955-rosiiany-atakuvaly-obiekt-krytychnoi-promyslovosti-na-vinnychchyni",
+    "pubDate": "2026-11-15 23:47:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4640632.jpg\">Через загрозу нових обстрілів ліквідація наслідків атаки залишається ускладненою.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Andreeva reina en las WTA Finals tras tumbar por segunda vez a Svitolina",
+    "link": "https://www.elperiodico.com/es/deportes/20261115/andreeva-reina-wta-finals-tumbar-136478860",
+    "pubDate": "2026-11-15 23:42:31",
+    "category": "",
+    "description": "<h2 class=\"item\">La tenista rusa, entrenada por Conchita Martínez, se impuso a la ucraniana en Indian Wells (7-5, 6-3). La campeona es la nueva número dos del mundo.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 99
+  },
+  {
+    "title": "Прикрий фінал: Світоліна програла росіянці вирішальний матч",
+    "link": "https://ua.korrespondent.net/sport/tenis/4928953-prykryi-final-svitolina-prohrala-rosiiantsi-vyrishalnyi-match",
+    "pubDate": "2026-11-15 23:38:00",
+    "category": "Новини тенісу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4640614.jpg\">У фінальному поєдинку змагань українська тенісистка поступилася представниці Росії Андрєєвій, зупинившись за крок від головного трофея.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "Росію відсторонили від молодіжного чемпіонату світу з хокею",
+    "link": "https://ua.korrespondent.net/world/4928947-rosiui-vidstoronyly-vid-molodizhnoho-chempionatu-svitu-z-khokeui",
+    "pubDate": "2026-11-15 23:33:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4640593.jpg\">Канада відмовилася видавати візи російським хокеїстам. IIHF підтвердила, що турнір відбудеться без збірної РФ.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 97
+  },
+  {
     "title": "У Середземному морі затримали \"тіньовий\" танкер РФ",
     "link": "https://ua.korrespondent.net/world/4928949-u-seredzemnomu-mori-zatrymaly-tinovyi-tanker-rf",
     "pubDate": "2026-11-15 23:29:00",
