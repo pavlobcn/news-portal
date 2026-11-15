@@ -81,6 +81,15 @@
     "topic_match_probability": 85
   },
   {
+    "title": "Las Antenas de Oro 2026, en imágenes",
+    "link": "https://www.elperiodico.com/es/fotos/tele/antenas-oro-2026-imagenes-136451597",
+    "pubDate": "2026-11-14 22:56:45",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
     "title": "La portada de EL PERIÓDICO del 15 de noviembre de 2026",
     "link": "https://www.elperiodico.com/es/sociedad/20261114/portada-periodico-15-noviembre-2026-136450551",
     "pubDate": "2026-11-14 22:46:04",
@@ -151,6 +160,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4639159.jpg\">Війна з Іраном продемонструвала стратегічну цінність американських військових баз у Європі, які Пентагон використовує для операцій на Близькому Сході.",
     "topic": "політика",
     "topic_match_probability": 90
+  },
+  {
+    "title": "Вторгнення Росії в Україну. Онлайн",
+    "link": "https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain",
+    "pubDate": "2026-11-14 21:57:00",
+    "category": "Новини політики",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/2748609.jpg\">Володимир Путін почав повномасштабну війну проти України 24 лютого 2022 року. Не зумівши \"взяти Київ за три дні\", він сконцентрувався на захопленні Донбасу та південних областей України.",
+    "topic": "політика",
+    "topic_match_probability": 100
   },
   {
     "title": "Romario pide la salida de Ancelotti tras la derrota de Brasil ante Japón: \"Agarra tus cosas y lárgate\"",
@@ -340,6 +358,15 @@
     "description": "España se impone a Bulgaria tras una primera parte gris. La base, extraordinaria, mantiene su idilio y firma una actuación magistral.",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Війна на Близькому Сході. Онлайн",
+    "link": "https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain",
+    "pubDate": "2026-11-14 19:37:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473659.jpg\">США та Ізраїль проводять масштабну операцію проти Ірану. Тегеран у відповідь атакує військові об'єкти США майже у всіх країнах Перської затоки.",
+    "topic": "політика",
+    "topic_match_probability": 98
   },
   {
     "title": "Alcaraz y Ferrero se reencuentran casi un año después de su separación",
