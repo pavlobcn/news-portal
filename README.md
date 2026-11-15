@@ -1,8 +1,14 @@
-# News for 2026-11-15 15:26
+# News for 2026-11-15 18:16
 
 Previous day: [2026-11-14](./data/2026-11-14.md)
 
 ## ua.korrespondent.net
+17:29 [Вибух на різдвяному ярмарку в Бельгії: є важкопоранені](https://ua.korrespondent.net/world/4928883-vybukh-na-rizdvianomu-yarmarku-v-belhii-ye-vazhkoporaneni)<br>
+17:10 [Дрони РФ атакували Харків: троє постраждалих](https://ua.korrespondent.net/city/kharkov/4928881-drony-rf-atakuvaly-kharkiv-troie-postrazhdalykh)<br>
+16:51 [Естонія закриває кордон із Росією](https://ua.korrespondent.net/world/4928879-estoniia-zakryvaie-kordon-iz-rosiieui)<br>
+16:32 [Підпал за завданням РФ: в Естонії атакували виробника дронів](https://ua.korrespondent.net/world/4928877-pidpal-za-zavdanniam-rf-v-estonii-atakuvaly-vyrobnyka-droniv)<br>
+15:54 [РФ вдарила по інфраструктурі Одеси](https://ua.korrespondent.net/city/odessa/4928872-rf-vdaryla-po-infrastrukturi-odesy)<br>
+15:35 [Канарські острови накрила хвиля міграції: рекорд за 6 років](https://ua.korrespondent.net/world/4928870-kanarski-ostrovy-nakryla-khvylia-mihratsii-rekord-za-6-rokiv)<br>
 15:17 [Протести у Франції: понад 200 затриманих і травмовані поліцейські](https://ua.korrespondent.net/world/4928868-protesty-u-frantsii-ponad-200-zatrymanykh-i-travmovani-politseiski)<br>
 14:55 [Два регіони залишилися без світла через удар РФ](https://ua.korrespondent.net/ukraine/4928865-dva-rehiony-zalyshylysia-bez-svitla-cherez-udar-rf)<br>
 14:36 [Росіяни двічі атакували підрозділ ДСНС у Краматорську](https://ua.korrespondent.net/ukraine/4928863-rosiiany-dvichi-atakuvaly-pidrozdil-dsns-u-kramatorsku)<br>
@@ -22,6 +28,7 @@ Previous day: [2026-11-14](./data/2026-11-14.md)
 00:59 [У Києві відкриють дві резервні переправи на Дніпрі](https://ua.korrespondent.net/city/kiev/4928789-u-kyievi-vidkryuit-dvi-rezervni-perepravy-na-dnipri)<br>
 
 ## as.com
+18:13 [Barcelona – Obradoiro, en directo: Liga Endesa 2026-27 en vivo hoy](https://as.com/baloncesto/acb/barcelona-obradoiro-en-directo-liga-endesa-2026-27-en-vivo-hoy-f202611-d/)<br>
 14:54 [El Unicaja coge aire a ráfagas](https://as.com/baloncesto/el-unicaja-coge-aire-a-rafagas-f202611-n/)<br>
 14:54 [Allen desarma al Lleida](https://as.com/baloncesto/acb/allen-desarma-al-lleida-f202611-n/)<br>
 14:18 [Armoni Brooks lidera el triunfo ante Leyma Coruña](https://as.com/baloncesto/acb/armoni-brooks-lidera-el-triunfo-ante-leyma-coruna-f202611-n/)<br>
@@ -30,6 +37,10 @@ Previous day: [2026-11-14](./data/2026-11-14.md)
 07:37 [El Madrid llega a 90 puntos en cuatro de cada cinco partidos](https://as.com/baloncesto/acb/el-madrid-llega-a-90-puntos-en-cuatro-de-cada-cinco-partidos-f202611-n/)<br>
 
 ## www.elperiodico.com
+17:15 [José Coronado (69 años), actor: "Tengo una hectárea de terreno en Toledo, me he hecho mi propio microhábitat"](https://www.elperiodico.com/es/gente/20261115/jose-coronado-69-anos-actor-terreno-toledo-dv-et-135840791)<br>
+17:01 [Barcelona amplía la compra de pulseras térmicas tras alertar de 17 posibles golpes de calor el pasado verano](https://www.elperiodico.com/es/barcelona/20261115/barcelona-calor-pulseras-termicas-trabajadores-parques-jardines-136445064)<br>
+17:00 [Lolo (26 años), camionero, ya cuenta con una hipoteca a tipo fijo a 30 años: "Puedes pagar Netflix, puedes irte de viaje alguna vez y puedes hacer en general más cosas"](https://www.elperiodico.com/es/vivienda/20261115/vivienda-crisis-emancipacion-jovenes-hipoteca-casa-ahorro-lolo-camionero-dv-et-133642065)<br>
+16:36 [El Gobierno despliega tres de las cinco Guardamar de España en El Hierro ante el repunte de llegadas de migrantes](https://www.elperiodico.com/es/politica/20261115/gobierno-despliega-tres-cinco-guardamar-136470008)<br>
 14:30 [Antonio González (47 años), especialista en reformas: "Los albañiles de toda la vida están desapareciendo ya"](https://www.elperiodico.com/es/economia/20261115/antonio-gonzalez-47-anos-especialista-reformas-obras-dv-135896281)<br>
 13:53 [La caca dorada: una vecina de Torrevieja convierte en obras de arte los excrementos de perro en la calle para protestar](https://www.elperiodico.com/es/sociedad/20261115/torrevieja-caca-dorada-vecina-convierte-obras-de-arte-protesta-excrementos-perro-136214753)<br>
 13:36 [Un tren de mercancías descarrila en Madrid, deja un herido y corta la circulación ferroviaria con Ávila](https://www.elperiodico.com/es/fotos/sociedad/tren-mercancias-descarrila-madrid-deja-136464878)<br>
