@@ -1,8 +1,9 @@
-# News for 2026-11-16 19:55
+# News for 2026-11-16 20:57
 
 Previous day: [2026-11-15](./data/2026-11-15.md)
 
 ## ua.korrespondent.net
+20:12 [У Комишувасі завершили пошуки: 72 загиблих](https://ua.korrespondent.net/city/zaporozhye/4929244-u-komyshuvasi-zavershyly-poshuky-72-zahyblykh)<br>
 19:40 [СБУ затримала учителя, який адміністрував чат про ТЦК](https://ua.korrespondent.net/ukraine/4929228-sbu-zatrymala-uchytelia-yakyi-administruvav-chat-pro-ttsk)<br>
 18:51 [Сьомий день без пояснень: що відбувається зі Starshield](https://ua.korrespondent.net/ukraine/4929216-somyi-den-bez-poiasnen-scho-vidbuvaietsia-zi-Starshield)<br>
 18:42 [У низці областей фіксують значні знеструмлення](https://ua.korrespondent.net/ukraine/4929212-u-nyztsi-oblastei-fiksuuit-znachni-znestrumlennia)<br>
@@ -51,11 +52,15 @@ Previous day: [2026-11-15](./data/2026-11-15.md)
 00:34 [Росія вербує африканок для виробництва БпЛА - розслідування](https://ua.korrespondent.net/world/4928957-rosiia-verbuie-afrykanok-dlia-vyrobnytstva-bpla-rozsliduvannia)<br>
 
 ## as.com
+20:39 [Miguel Méndez: “Buscamos seguir ascendiendo peldaños, cada día vamos mejor”](https://as.com/baloncesto/mas_baloncesto/miguel-mendez-buscamos-seguir-ascendiendo-peldanos-cada-dia-vamos-mejor-f202611-n/)<br>
 17:37 [Sekulic: “Lo más importante es no renunciar al estilo de juego”](https://as.com/baloncesto/euroliga/sekulic-lo-mas-importante-es-no-renunciar-al-estilo-de-juego-f202611-n/)<br>
 17:12 [Konchar se va del Olympiacos tras menos de un mes en Grecia](https://as.com/baloncesto/euroliga/konchar-se-va-del-olympiacos-tras-menos-de-un-mes-en-grecia-f202611-n/)<br>
 15:41 [Yabusele: “Podríamos ganar a unos cuantos equipos de la NBA”](https://as.com/baloncesto/euroliga/yabusele-podriamos-ganar-a-unos-cuantos-equipos-de-la-nba-f202611-n/)<br>
 
 ## www.elperiodico.com
+20:34 [La junta directiva de Nvidia no contempla restituir a Jensen Huang como CEO del gigante de los chips](https://www.elperiodico.com/es/economia/20261116/junta-directiva-nvidia-contempla-restituir-136516097)<br>
+20:19 [¿Habrá un apagón mundial el 17 de noviembre? Qué es verdad y qué no sobre el bulo que alarma a las redes](https://www.elperiodico.com/es/sociedad/20261116/apagon-mundial-17-noviembre-bulo-verdad-136515713)<br>
+20:05 [¿Qué Luna hay hoy? Todas las fases de la luna en noviembre 2026](https://www.elperiodico.com/es/ciencia/20261116/calendario-lunar-noviembre-2026-luna-hoy-dv-135894119)<br>
 19:24 [El TSJC avala que un empleado falte al trabajo por la eutanasia urgente de su mascota](https://www.elperiodico.com/es/economia/20261116/tsjc-avala-faltar-trabajo-eutanasia-mascota-136513905)<br>
 19:19 [Badalona cierra el refugio antiaéreo de la plaza de la Vila por deficiencias de seguridad y deja su apertura en el aire](https://www.elperiodico.com/es/barcelona/20261116/badalona-cierra-refugio-antiaereo-plaza-136512312)<br>
 19:14 [Renfe avisa de un martes "muy complicado" en Rodalies y la alta velocidad por la cuarta huelga en tres semanas](https://www.elperiodico.com/es/sociedad/20261116/huelga-renfe-rodalies-alta-velocidad-martes-complicado-paro-maquinistas-espana-136509069)<br>
