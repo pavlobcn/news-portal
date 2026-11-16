@@ -1,5 +1,212 @@
 [
   {
+    "title": "Росія вдарила балістикою по Дніпру та Запоріжжю",
+    "link": "https://ua.korrespondent.net/city/dnepr/4929276-rosiia-vdaryla-balistykoui-po-dnipru-ta-zaporizhzhui",
+    "pubDate": "2026-11-16 23:37:00",
+    "category": "Дніпро",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4641885.jpg\">Російські воєнні злочинці атакували три міста України: крім столиці росіяни били по Дніпру та Запоріжжю.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Agorazein vuelve a tener hambre: C. Tangana y los suyos se comen Madrid 10 años después",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261116/concierto-agorazein-hambre-c-tangana-comen-madrid-10-anos-despues-136519036",
+    "pubDate": "2026-11-16 23:34:50",
+    "category": "",
+    "description": "<h2>La banda celebra su esperado reencuentro en el Movistar Arena con un concierto cargado de descaro y ambición ante 15.000 seguidores que corearon los himnos de toda una generación</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La Francia de Zidane, la Alemania de Klopp o probablemente una Portugal sin Cristiano, rivales de España en cuartos",
+    "link": "https://www.elperiodico.com/es/deportes/20261116/francia-zidane-alemania-klopp-portugal-nations-league-136518859",
+    "pubDate": "2026-11-16 23:20:05",
+    "category": "",
+    "description": "<h2>Los alemanes golearon en Berlín a los Países Bajos de Xavi (5-0) y hoy Portugal debe certificar su liderato ante una accesible Gales</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Збірна Німеччини завдала болю Нідерландам своїми 5:0",
+    "link": "https://ua.korrespondent.net/sport/football/4929274-zbirna-nimechchyny-zavdala-bolui-niderlandam-svoimy-50",
+    "pubDate": "2026-11-16 23:17:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4641858.jpg\">Перемога в матчі, досягнута з різницею у п’ять м’ячів, дозволила збірній Німеччини посісти перше місце в турнірній таблиці на груповому етапі Ліги націй.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La portada de EL PERIÓDICO del 17 de noviembre de 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20261116/portada-periodico-17-noviembre-2026-136518652",
+    "pubDate": "2026-11-16 23:01:02",
+    "category": "",
+    "description": "",
+    "topic": "portada de EL PERIÓDICO",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Alemania endosa una manita a la Países Bajos de Xavi y acaba primera de grupo",
+    "link": "https://www.elperiodico.com/es/deportes/20261116/alemania-endosa-manita-paises-bajos-136518498",
+    "pubDate": "2026-11-16 22:59:27",
+    "category": "",
+    "description": "<h2 class=\"item\">La selección de Klopp podría medirse con España en los cuartos, mientras los neerlandeses pasan como segundos en un triple empate a 11 puntos que elimina a Grecia. </h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los Premios Woman Madame Figaro celebran su X edición homenajeando al talento femenino",
+    "link": "https://www.elperiodico.com/es/sociedad/20261116/premios-woman-madame-figaro-136518591",
+    "pubDate": "2026-11-16 22:54:33",
+    "category": "",
+    "description": "<h2>Una edición muy especial que conmemora diez años de reconocimiento a figuras extraordinarias como Silvia Tcherassi, Laura Ponte, Samantha Vallejo-Nágera, Julia Navarro, Adriana Ugarte y Malú, entre otras, bajo el lema 'El lujo de ser mujer'</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Росія запустила по Києву балістичні ракети",
+    "link": "https://ua.korrespondent.net/city/kiev/4929271-rosiia-zapustyla-po-kyievu-balistychni-rakety",
+    "pubDate": "2026-11-16 22:54:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4641859.jpg\">Серія вибухів прогриміла в столиці; військові за кілька хвилин до них попередили про балістичну загрозу.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Кушнер назвав \"три стовпи\" мирних перемов з Росією",
+    "link": "https://ua.korrespondent.net/world/4929269-kushner-nazvav-try-stovpy-myrnykh-peremov-z-rosiieui",
+    "pubDate": "2026-11-16 22:33:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4641845.jpg\">Пряма взаємодія між Європою й РФ дуже важлива, а її не було протягом чотирьох років, заявив спепоцсланець Трампа.",
+    "topic": "політика",
+    "topic_match_probability": 97
+  },
+  {
+    "title": "Los valores que no caben en un palmarés",
+    "link": "https://www.elperiodico.com/es/deportes/20261116/valores-caben-palmares-136518078",
+    "pubDate": "2026-11-16 22:17:02",
+    "category": "",
+    "description": "<h2>La IX Gala Valores del Deporte de SPORT y Prensa Ibérica reúne en La Pedrera a grandes leyendas, campeones y jóvenes promesas en una noche que reivindica el lado más humano del deporte</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Росія атакувала Чернігів: є загиблі та поранені",
+    "link": "https://ua.korrespondent.net/ukraine/4929266-rosiia-atakuvala-chernihiv-ye-zahybli-ta-poraneni",
+    "pubDate": "2026-11-16 21:57:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4641807.jpg\">Російські окупанти завдали удару по Чернігову вдень. Унаслідок атаки загинули двоє цивільних, ще троє людей дістали поранення.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Le Pen avisa a Ucrania de que no podrá mantener la ayuda financiera si llega al Elíseo",
+    "link": "https://www.elperiodico.com/es/internacional/20261116/le-pen-avisa-ucrania-podra-contar-financiacion-francesa-136517701",
+    "pubDate": "2026-11-16 21:51:53",
+    "category": "",
+    "description": "<h2>La líder de la extrema derecha trasladó al embajador ucraniano Vadym Omelchenko que su intención es que Francia mantenga el apoyo militar y humanitario, pero que limitará el respaldo económico, dada la grave situación de las cuentas públicas francesas</h2>",
+    "topic": "політика",
+    "topic_match_probability": 96
+  },
+  {
+    "title": "У сервісах найбільших банків США стався збій",
+    "link": "https://ua.korrespondent.net/business/companies/4929264-u-servisakh-naibilshykh-bankiv-ssha-stavsia-zbii",
+    "pubDate": "2026-11-16 21:38:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4641794.jpg\">Клієнти найбільших банків США зіткнулися з перебоями в роботі мобільних застосунків та онлайн-банкінгу. Тисячі користувачів не могли навіть перевірити залишки на рахунках.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Toyota desafía a la gravedad con una caravana de 760 kilos al estilo 'Top Gear'",
+    "link": "https://www.elperiodico.com/es/motor/20261116/toyota-desafia-gravedad-caravana-760-136401260",
+    "pubDate": "2026-11-16 21:31:00",
+    "category": "",
+    "description": "<h2>La pick-up 100% eléctrica de Toyota revive uno de los retos más famosos de la televisión del motor y pone a prueba una reputación construida durante décadas</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Pedro Sánchez anuncia que el Gobierno subirá este martes el sueldo de todos los trabajadores públicos",
+    "link": "https://www.elperiodico.com/es/politica/20261116/pedro-sanchez-anuncia-gobierno-subira-136517233",
+    "pubDate": "2026-11-16 21:25:31",
+    "category": "",
+    "description": "<h2 class=\"item\">Admite que en la crisis de Ceuta el Gobierno \"podría haber reaccionado antes\", pero que ya llevaba \"días trabajando para proteger la frontera\"</h2><h2 class=\"item\">Acusa al PP y a Vox de hacer \"populismo barato\" por exigir que la Armada vaya a Canarias a interceptar los cayucos que llegan desde África</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261116/elecciones-generales-29-noviembre-vivienda-ceuta-ultima-hora-directo-135335688\" target=\"_blank\">Última hora de la campaña electoral de las elecciones generales, en directo</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 92
+  },
+  {
+    "title": "Los líderes del Tesoro y Comercio chocan por las ventas de chips de Nvidia y dejan al descubierto las tensiones en la Administración Trump",
+    "link": "https://www.elperiodico.com/es/internacional/20261116/escandalo-nvidia-136517215",
+    "pubDate": "2026-11-16 21:24:48",
+    "category": "",
+    "description": "<h2>Scott Bessent y Howard Lutnick protagonizan una tensa discusión en la 'situation room' por la falta de restricciones a las exportaciones a China de empresas sospechosas de desviar chips de IA de Nvidia</h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Став відомий кандидат від УЄФА на посаду президента ФІФА",
+    "link": "https://ua.korrespondent.net/sport/football/4929262-stav-vidomyi-kandydat-vid-uiefa-na-posadu-prezydenta-fifa",
+    "pubDate": "2026-11-16 21:21:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4641777.jpg\">У Джанні Інфантіно на виборах керівника Міжнародної федерації футболу з'явився конкурент у особі Філіппа Діалло.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Зеленський попередив про нову ракетну загрозу РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4929260-zelenskyi-poperedyv-pro-novu-raketnu-zahrozu-rf",
+    "pubDate": "2026-11-16 21:19:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4641793.jpg\">Північна Корея щомісяця постачає Росії десятки балістичних ракет, які окупанти використовують у війні проти України.",
+    "topic": "політика",
+    "topic_match_probability": 92
+  },
+  {
+    "title": "Nogueras reivindica los orígenes andaluces de su madre: \"Es catalán quien ama, respeta y defiende Catalunya\"",
+    "link": "https://www.elperiodico.com/es/politica/20261116/junts-miriam-nogueras-elecciones-generales-136505939",
+    "pubDate": "2026-11-16 21:14:13",
+    "category": "",
+    "description": "<h2 class=\"item\">LA RUTA HACIA EL 29N | <a href=\"https://www.elperiodico.com/es/politica/20261112/junts-campana-elecciones-generales-mitines-barcelona-girona-tarragona-escanos-136276466\">Junts pone el foco en Barcelona, mientras busca blindar sus escaños en Girona y Tarragona</a></h2>",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Abascal reta a Sánchez a un \"test antidoping\" y reclama desde Tenerife el despliegue militar contra la inmigración",
+    "link": "https://www.elperiodico.com/es/politica/20261116/abascal-tenerife-canarias-canarios-basta-136516734",
+    "pubDate": "2026-11-16 21:02:11",
+    "category": "",
+    "description": "<h2>El líder de Vox acusa a los nacionalistas canarios de complicidad en la crisis migratoria, defiende la devolución de los cayucos</h2>",
+    "topic": "політика",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "La Primitiva hoy: resultados y comprobar números premiados en el sorteo del lunes, 16 de noviembre, en directo",
+    "link": "https://www.elperiodico.com/es/sociedad/20261116/primitiva-hoy-resultados-comprobar-numeros-sorteo-lunes-16-noviembre-directo-136515967",
+    "pubDate": "2026-11-16 21:00:59",
+    "category": "",
+    "description": "",
+    "topic": "лотереї",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Вибухи та отрута: в Італії масово залякують школи",
+    "link": "https://ua.korrespondent.net/world/4929257-vybukhy-ta-otruta-v-italii-masovo-zaliakuuit-shkoly",
+    "pubDate": "2026-11-16 21:00:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4641776.jpg\">В Італії щонайменше 100 навчальних закладів отримали електронні листи з погрозами вибухів та отруєння їжі. Поліція вже розслідує інцидент, а школи діють за новими правилами безпеки.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Antonio, compañero y amigo",
+    "link": "https://www.elperiodico.com/es/opinion/20261116/antonio-poveda-companero-amigo-136516529",
+    "pubDate": "2026-11-16 20:57:26",
+    "category": "",
+    "description": "<h2>Con Antonio Poveda compartí trabajo, proyectos, retos y muchas conversaciones. Y, sobre todo, una amistad que fue creciendo con los años</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Ocio y restauración reclaman al futuro Gobierno una alternativa a la prohibición de fumar en terrazas",
     "link": "https://www.elperiodico.com/es/barcelona/20261116/ocio-restauracion-reclaman-futuro-gobierno-alternativas-prohibicion-fumar-terrazas-congreso-ocio-barcelona-136508775",
     "pubDate": "2026-11-16 20:54:56",
@@ -7,6 +214,15 @@
     "description": "<h2 class=\"item\">El encuentro nacional del ocio nocturno pone sobre la mesa preocupaciones del sector, como la ley del tabaco, analiza tendencias y pone en valor el peso de la actividad en España como atractivo turístico</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20261113/entrevista-joaquim-boadas-congreso-ocio-nocturno-barcelona-noviembre-mejores-discotecas-136147076\">Joaquim Boadas, presidente de la Asociación Internacional de Ocio Nocturno: \"Barcelona necesita que la industria de la noche siga creciendo\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20261106/gremio-restauracion-barcelona-lanza-video-satirico-prohibicion-fumar-terrazas-hosteleria-136161585\">El Gremio de Restauración de Barcelona lanza un vídeo satírico sobre prohibir el tabaco en las terrazas</a></h2>",
     "topic": "ресторани, їжа",
     "topic_match_probability": 85
+  },
+  {
+    "title": "Зеленський розповів про непрості переговори зі США та Європою",
+    "link": "https://ua.korrespondent.net/ukraine/4929255-zelenskyi-rozpoviv-pro-neprosti-perehovory-zi-ssha-ta-yevropoui",
+    "pubDate": "2026-11-16 20:44:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4641775.jpg\">Українська, американська та європейська переговорні команди провели чергову розмову щодо мирного процесу.",
+    "topic": "політика",
+    "topic_match_probability": 96
   },
   {
     "title": "Miguel Méndez: “Buscamos seguir ascendiendo peldaños, cada día vamos mejor”",
@@ -486,6 +702,15 @@
     "topic_match_probability": 92
   },
   {
+    "title": "Homenajear el exilio",
+    "link": "https://www.elperiodico.com/es/opinion/20261116/homenajear-exilio-136507529",
+    "pubDate": "2026-11-16 17:17:58",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 50
+  },
+  {
     "title": "Україна зупинила НПЗ, що забезпечують Москву",
     "link": "https://ua.korrespondent.net/world/russia/4929188-ukraina-zupynyla-npz-scho-zabezpechuuit-moskvu",
     "pubDate": "2026-11-16 17:13:00",
@@ -592,6 +817,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4641553.jpg\">Управління громадської безпеки Йорданії заявило, що блокування Telegram стало частиною заходів, спрямованих на підвищення цифрової безпеки.",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "La bolivarización de la izquierda",
+    "link": "https://www.elperiodico.com/es/opinion/20261116/bolivarizacion-izquierda-136505608",
+    "pubDate": "2026-11-16 16:40:33",
+    "category": "",
+    "description": "<h2>Los síntomas apuntan a una exaltación de la calle desde el primer minuto en que gobierne la derecha, y ya hemos tenido las primeras muestras con el uso que han hecho del problema de la vivienda o con la estrambótica huelga que montaron los sindicatos 'de partido'</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
   },
   {
     "title": "Philippe Diallo, presidente de la federación francesa, será el rival de Infantino para presidir la FIFA",
