@@ -1,13 +1,22 @@
-# News for 2026-11-16 03:22
+# News for 2026-11-16 05:25
 
 Previous day: [2026-11-15](./data/2026-11-15.md)
 
 ## ua.korrespondent.net
+04:44 [Лев XIV закликав зупинити знищення лісів Амазонії](https://ua.korrespondent.net/world/4928978-lev-XIV-zaklykav-zupynyty-znyschennia-lisiv-amazonii)<br>
+04:17 [Туреччина випробувала електромагнітну зброю проти роїв дронів](https://ua.korrespondent.net/world/4928976-turechchyna-vyprobuvala-elektromahnitnu-zbroui-proty-roiv-droniv)<br>
+03:53 [Дрони атакували нафтобазу у Ростовській області](https://ua.korrespondent.net/world/4928982-drony-atakuvaly-naftobazu-u-rostovskii-oblasti)<br>
+03:49 [Бессент висловився щодо скандалу з Nvidia](https://ua.korrespondent.net/business/companies/4928974-bessent-vyslovyvsia-schodo-skandalu-z-Nvidia)<br>
+03:23 [Загострення на Близькому Сході стримали подальше падіння цін на нафту](https://ua.korrespondent.net/business/economics/4928972-zahostrennia-na-blyzkomu-skhodi-strymaly-podalshe-padinnia-tsin-na-naftu)<br>
 02:31 [ЗМІ з’ясували, як швейцарські патрони опинилися в Росії](https://ua.korrespondent.net/world/4928968-zmi-ziasuvaly-yak-shveitsarski-patrony-opynylysia-v-rosii)<br>
 01:41 [У DeepState заявили про нові просування росіян](https://ua.korrespondent.net/ukraine/4928964-u-DeepState-zaiavyly-pro-novi-prosuvannia-rosiian)<br>
 00:57 [У Карпатах тривають пошуки туриста з Дніпра](https://ua.korrespondent.net/ukraine/4928960-u-karpatakh-tryvauit-poshuky-turysta-z-dnipra)<br>
 00:34 [Росія вербує африканок для виробництва БпЛА - розслідування](https://ua.korrespondent.net/world/4928957-rosiia-verbuie-afrykanok-dlia-vyrobnytstva-bpla-rozsliduvannia)<br>
 
 ## www.elperiodico.com
+04:50 [Poesía y hechizos](https://www.elperiodico.com/es/ocio-y-cultura/libros/20261116/poesia-hechizos-136248408)<br>
+04:50 ['Cuando seas feliz, golpea tú primero', de Tatiana Tîbuleac: historia de un desengaño compartido](https://www.elperiodico.com/es/ocio-y-cultura/libros/20261116/tatiana-tibuleac-critica-libro-seas-feliz-136275373)<br>
+04:50 ['Cuentos autobiográficos. Volumen II', de Álvaro Pombo: vida y ficción](https://www.elperiodico.com/es/ocio-y-cultura/libros/20261116/alvaro-pombo-critica-cuentos-autobiograficos-136158762)<br>
+04:50 [Los libros recomendados por ABRIL: Edurne Portela, Ander Izagirre y Juan Cárdenas](https://www.elperiodico.com/es/ocio-y-cultura/libros/20261116/libros-recomendados-suplemento-abril-136105603)<br>
 01:59 [Del campo al salón de tu casa: así impulsa Ence la energía renovable con biometano y biofertilizantes](https://www.elperiodico.com/es/medio-ambiente/20261116/campo-salon-casa-impulsa-ence-bc-136479585)<br>
 00:55 [La Guardia Urbana de Barcelona desaloja la acampada de plaza de Catalunya](https://www.elperiodico.com/es/barcelona/20261116/guardia-urbana-barcelona-desaloja-acampada-plaza-catalunya-136479377)<br>
