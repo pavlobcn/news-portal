@@ -1,5 +1,14 @@
 [
   {
+    "title": "Москву атакували 200 дронів: лунають вибухи",
+    "link": "https://ua.korrespondent.net/world/russia/4929278-moskvu-atakuvaly-200-droniv-lunauit-vybukhy",
+    "pubDate": "2026-11-16 23:58:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4641898.jpg\">Російські сили нібито збили \"на підльоті\" до столиці країни дві сотні БпЛА, запевняє місцева влада.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
     "title": "Росія вдарила балістикою по Дніпру та Запоріжжю",
     "link": "https://ua.korrespondent.net/city/dnepr/4929276-rosiia-vdaryla-balistykoui-po-dnipru-ta-zaporizhzhui",
     "pubDate": "2026-11-16 23:37:00",
@@ -79,6 +88,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4641845.jpg\">Пряма взаємодія між Європою й РФ дуже важлива, а її не було протягом чотирьох років, заявив спепоцсланець Трампа.",
     "topic": "політика",
     "topic_match_probability": 97
+  },
+  {
+    "title": "Дестяки вибухів. Удар по Кримському мосту",
+    "link": "https://ua.korrespondent.net/ukraine/4929282-destiaky-vybukhiv-udar-po-krymskomu-mostu",
+    "pubDate": "2026-11-16 22:23:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4641936.jpg\">Гауляйтер окупованого Росією Криму Сергій Аксьонов повідомив про другу атаку на Кримський міст за добу.",
+    "topic": "політика",
+    "topic_match_probability": 85
   },
   {
     "title": "Los valores que no caben en un palmarés",
