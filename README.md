@@ -1,4 +1,4 @@
-# News for 2026-11-17 20:32
+# News for 2026-11-17 23:30
 
 Previous day: [2026-11-16](./data/2026-11-16.md)
 
@@ -23,8 +23,14 @@ Previous day: [2026-11-16](./data/2026-11-16.md)
 00:59 [У Перу Папі Римському поцілили чотками в око](https://ua.korrespondent.net/world/4929284-u-peru-papi-rymskomu-potsilyly-chotkamy-v-oko)<br>
 
 ## as.com
+23:11 [Resumen del Partizan vs. Valencia Basket de Euroliga](https://as.com/videos/euroliga/resumen-del-partizan-vs-valencia-basket-de-euroliga-f202611-v/)<br>
+23:11 [Resultados Euroliga, jornada 12: horarios, TV, partidos y clasificación](https://as.com/baloncesto/euroliga/resultados-euroliga-jornada-12-horarios-tv-partidos-y-clasificacion-f202611-n/)<br>
+22:59 [Hifi acaba con la luna de miel del Barça](https://as.com/baloncesto/euroliga/hifi-acaba-con-la-luna-de-miel-del-barca-f202611-n/)<br>
+22:57 [El Baskonia amaga con ganar pero vuelve a perder](https://as.com/baloncesto/el-baskonia-amaga-con-ganar-pero-vuelve-a-perder-f202611-n/)<br>
+20:27 [Otra Ventana perfecta](https://as.com/baloncesto/mas_baloncesto/otra-ventana-perfecta-f202611-n/)<br>
 20:26 [Barcelona - París, en directo: Euroliga 2026-27 en vivo hoy](https://as.com/baloncesto/euroliga/barcelona-paris-en-directo-euroliga-2026-27-en-vivo-hoy-f202611-d/)<br>
 20:10 [Croacia - España, Ventanas FIBA: resumen y resultado (72-91)](https://as.com/baloncesto/mas_baloncesto/croacia-espana-en-directo-clasificacion-del-eurobasket-2027-hoy-en-vivo-f202611-d/)<br>
+19:51 [Partizan-Valencia Basket, en directo: Euroliga, hoy en vivo](https://as.com/baloncesto/euroliga/partizan-valencia-basket-en-directo-euroliga-hoy-en-vivo-f202611-n/)<br>
 14:57 [Alerta en Vitoria por el partido contra el Hapoel de esta noche](https://as.com/baloncesto/alerta-por-el-partido-contra-el-hapoel-de-esta-noche-f202611-n/)<br>
 14:25 [“¿NBA Europa? El Madrid tiene que estar en la mejor competición; como aficionado, me gusta la Euroliga”](https://as.com/baloncesto/euroliga/nba-europa-el-madrid-tiene-que-estar-en-la-mejor-competicion-como-aficionado-me-gusta-la-euroliga-f202611-n/)<br>
 06:23 [Mariona Ortiz: “La final de Atenas me dejó un poco tocada”](https://as.com/baloncesto/mas_baloncesto/mariona-ortiz-la-final-de-atenas-me-dejo-un-poco-tocada-f202611-n/)<br>
@@ -35,12 +41,19 @@ Previous day: [2026-11-16](./data/2026-11-16.md)
 05:37 [Killian Hayes jugará en el Barcelona](https://as.com/baloncesto/euroliga/killian-hayes-jugara-en-el-barcelona-f202611-n/)<br>
 
 ## www.elperiodico.com
+22:56 [El París baja al Barça de la nube con un triple a 14 segundos del final](https://www.elperiodico.com/es/deportes/20261117/paris-baja-barca-nube-triple-136556084)<br>
+22:39 [Nvidia gana 59.335 millones en su tercer trimestre, un 105% más, en las primeras cuentas desde el escándalo de Jensen Huang](https://www.elperiodico.com/es/economia/20261117/nvidia-gana-59-335-millones-136559208)<br>
+22:30 [Una discoteca de Barcelona es elegida tercera mejor del mundo, y otras cinco están entre las 100 mejores](https://www.elperiodico.com/es/barcelona/20261117/discoteca-barcelona-elegida-tercera-mejor-mundo-otras-cinco-en-top-100-136552845)<br>
+22:01 [Rodalies alerta de que podrían faltar trenes a primera hora del miércoles tras la huelga del martes](https://www.elperiodico.com/es/sociedad/20261117/rodalies-alerta-faltar-trenes-miercoles-cataluna-barcelona-huelga-renfe-136558652)<br>
+21:31 [Un simulacro de emergencias a nivel federal obliga a EEUU a disipar rumores: “No es un apagón”](https://www.elperiodico.com/es/internacional/20261117/simulacro-emergencias-nivel-federal-obliga-redoblar-advertencias-136558259)<br>
+20:40 [El truco infalible de los arquitectos para detectar humedades: "Coge un trozo de papel de aluminio y celo y pégalo en la pared"](https://www.elperiodico.com/es/vida-y-estilo/20261117/humedades-papel-aluminio-pared-pintura-arquitectos-dv-136177721)<br>
 20:30 [El truco viral de un vecino para echar a los botellones de delante de casa: "¡Mira cómo corren!"](https://www.elperiodico.com/es/vida-y-estilo/20261117/botellones-truco-viral-vecino-echar-menores-dv-136508352)<br>
 20:14 [Darro, el sueño de Paco Muñoz que cambió el diseño español para siempre: "Tuvo gran ojo para crear una marca memorable"](https://www.elperiodico.com/es/ocio-y-cultura/20261117/darro-sueno-paco-munoz-cambio-diseno-espanol-libro-136556313)<br>
 19:53 [Muere Enrique Lemus, uno de los fundadores de Núcleo Nacional](https://www.elperiodico.com/es/politica/20261117/muere-enrique-lemus-fundadores-nucleo-136555664)<br>
 19:46 [José Bonaparte lo regaló a un general francés y acabó en Londres: la increíble historia del Velázquez que vuelve a Madrid](https://www.elperiodico.com/es/ocio-y-cultura/20261117/jose-bonaparte-regalo-general-frances-acabo-londres-retrato-felipe-iv-velazquez-vuelve-madrid-136555319)<br>
 19:07 [L’Hospitalet alcanza los 41 adoquines 'stolpersteine' en homenaje a las víctimas del nazismo](https://www.elperiodico.com/es/barcelona/20261117/hospitalet-alcanza-41-adoquines-stolpersteine-homenaje-victimas-nazismo-136551656)<br>
 18:54 [Byung-Chul Han, doctor honoris causa por la URL: "La digitalización acelera el derrumbe de la arquitectura del alma"](https://www.elperiodico.com/es/ocio-y-cultura/20261117/byung-chul-han-doctor-honoris-136552746)<br>
+18:44 [La construcción necesita más manos: OBRAMAT reivindica el trabajo de los profesionales con una acción en Madrid](https://www.elperiodico.com/es/shopping/20261117/construccion-necesita-manos-obramat-reivindica-bc-136556787)<br>
 18:05 [¿A qué hora sale GTA VI en España? Esto es lo que se sabe y así se puede descargar para PS5 y Xbox](https://www.elperiodico.com/es/videojuegos/20261117/gta-vi-lanzamiento-espana-ps5-xbox-series-dv-136527663)<br>
 17:57 [Jensen Huang está dispuesto a volver como CEO de Nvidia tras su dimisión](https://www.elperiodico.com/es/economia/20261117/jensen-huang-quiere-volver-nvidia-136549935)<br>
 17:55 [Un estudio alerta de que la IA miente sobre el cambio climático con tal de complacer a los usuarios: "ChatGPT es una fábrica de negacionistas"](https://www.elperiodico.com/es/sociedad/20261117/chagpt-inteligencia-artificial-miente-cambio-climatico-complacer-usuario-estudio-unesco-136533801)<br>
