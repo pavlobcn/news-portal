@@ -1,17 +1,46 @@
-# News for 2026-11-17 05:57
+# News for 2026-11-17 11:53
 
 Previous day: [2026-11-16](./data/2026-11-16.md)
 
 ## ua.korrespondent.net
+11:44 [У Києві відновили рух електротранспорту](https://ua.korrespondent.net/city/kiev/4929420-u-kyievi-vidnovyly-rukh-elektrotransportu)<br>
+11:29 [Чарльз ІІІ публічно звернувся до нового Бонда](https://ua.korrespondent.net/lifestyle/4929389-charlz-iii-publichno-zvernuvsia-do-novoho-bonda)<br>
+11:27 [Українські банки втратили третину чистого прибутку](https://ua.korrespondent.net/business/economics/4929401-ukrainski-banky-vtratyly-tretynu-chystoho-prybutku)<br>
+11:00 [Цифровий щит: як захистити свій акаунт у “Дії”](https://ua.korrespondent.net/articles/4929390-tsyfrovyi-schyt-yak-zakhystyty-svii-akaunt-u-dii)<br>
+10:55 [В Україні розробили балістичні штори для захисту від уламків](https://ua.korrespondent.net/tech/technews/4929233-v-ukraini-rozrobyly-balistychni-shtory-dlia-zakhystu-vid-ulamkiv)<br>
+10:11 [Принца Гаррі критикують за поїздку до України](https://ua.korrespondent.net/world/4929246-pryntsa-harri-krytykuuit-za-poizdku-do-ukrainy)<br>
 00:59 [У Перу Папі Римському поцілили чотками в око](https://ua.korrespondent.net/world/4929284-u-peru-papi-rymskomu-potsilyly-chotkamy-v-oko)<br>
 
 ## as.com
+06:23 [Mariona Ortiz: “La final de Atenas me dejó un poco tocada”](https://as.com/baloncesto/mas_baloncesto/mariona-ortiz-la-final-de-atenas-me-dejo-un-poco-tocada-f202611-n/)<br>
+06:23 [Barcelona - París: horario, TV, cómo y dónde ver la Euroliga 2026-27](https://as.com/baloncesto/euroliga/barcelona-paris-horario-tv-como-y-donde-ver-la-euroliga-2026-27-f202611-n/)<br>
+06:22 [El Baskonia busca oxígeno en casa](https://as.com/baloncesto/euroliga/el-baskonia-busca-oxigeno-en-casa-f202611-n/)<br>
+06:22 [Nadir Hifi: el anhelo del Madrid, la amenaza del Barça](https://as.com/baloncesto/euroliga/nadir-hifi-el-anhelo-del-madrid-la-amenaza-del-barca-f202611-n/)<br>
+06:21 [TJ Shorts contra Carlik Jones, los mejores asistentes frente a frente](https://as.com/baloncesto/euroliga/tj-shorts-contra-carlik-jones-los-mejores-asistentes-frente-a-frente-f202611-n/)<br>
 05:37 [Killian Hayes jugará en el Barcelona](https://as.com/baloncesto/euroliga/killian-hayes-jugara-en-el-barcelona-f202611-n/)<br>
 
 ## www.elperiodico.com
+11:32 [¿Adiós a las filas en discotecas y festivales? La idea de un joven español puede revolucionar el mundo de la noche](https://www.elperiodico.com/es/economia/20261117/adios-filas-discotecas-festivales-idea-136524757)<br>
+11:27 [EY y el Real Colegio de Eméritos proponen un modelo de empresa que combine beneficios y bienestar social](https://www.elperiodico.com/es/economia/20261117/ey-real-colegio-emeritos-proponen-136530460)<br>
+11:14 [El atasco de los juzgados deja fuera del mercado 5.000 pisos de alquiler en Barcelona](https://www.elperiodico.com/es/economia/20261117/vivienda-atasco-juzgados-retira-pisos-alquiler-barcelona-136529006)<br>
+11:00 [El municipio de Madrid donde creció Pilar Rubio antes de la fama: vida de barrio y una tienda familiar](https://www.elperiodico.com/es/gente/20261117/pilar-rubio-patrimonio-mudanzas-mansion-sevilla-madrid-dv-136149512)<br>
+10:59 [Crece un 22% la oferta de habitaciones de alquiler en Barcelona y suben los precios: 662 euros de media](https://www.elperiodico.com/es/barcelona/20261117/crece-oferta-habitaciones-alquiler-suben-precios-662-euros-pisos-compartidos-136527111)<br>
+10:42 [Los Nets de Jordi Fernández no pueden con el mejor Joel Embiid](https://www.elperiodico.com/es/deportes/20261117/nets-jordi-fernandez-mejor-joel-136526728)<br>
+10:41 [Seis técnicos de Aragón ya están en el MNAC para iniciar el traslado a Sijena de las pinturas profanas](https://www.elperiodico.com/es/ocio-y-cultura/20261117/seis-tecnicos-aragon-mnac-iniciar-136527706)<br>
+10:21 [Lanzan un rosario al papa León XIV en Lima y le golpea en la cara](https://www.elperiodico.com/es/videos/sociedad/lanzan-rosario-papa-leon-xiv-lima-golpea-cara-video/136527550.shtml)<br>
+10:00 [JP Morgan calcula que la IA podría sustituir 24 millones de empleos en el mundo en cinco años, sin implicar despidos masivos](https://www.elperiodico.com/es/economia/20261117/jp-morgan-calcula-ia-sustituir-136526805)<br>
+10:00 [Maribel Verdú (56 años), sobre la vivienda: "Soy de esas personas con la suerte de tener un trabajo y éxito, lo que no significa que no vea con horror lo que está sucediendo"](https://www.elperiodico.com/es/gente/20261117/maribel-verdu-casas-salario-viviendas-patrimonio-inmobiliario-dv-136112213)<br>
+09:54 [Un extrabajador de una cantera afirma que el balasto de Adamuz "incumple la normativa de Adif" y pide ser testigo protegido](https://www.elperiodico.com/es/economia/20261117/extrabajador-cantera-afirma-balasto-adamuz-136526681)<br>
+09:31 [Nolotil y británicos: lo que la ciencia sabe (y lo que aún no) de una sospecha que nació en Alicante](https://www.elperiodico.com/es/sociedad/20261117/nolotil-britanicos-ciencia-sospecha-nacio-136525897)<br>
+09:05 [El Ibex 35 se contagia de la inquietud por la pugna tecnológica entre EEUU y China](https://www.elperiodico.com/es/economia/20261117/ibex-35-contagia-inquietud-pugna-136525149)<br>
+09:00 [Grito de auxilio para salvar al cachalote y al rorcual común del Mediterráneo: "Es urgente catalogarlos en peligro de extinción"](https://www.elperiodico.com/es/sociedad/20261117/grito-salvar-cachalote-rorcual-comun-mediterraneo-136506758)<br>
+06:21 [Jesús G. Albalat, por fin una medalla colgará del mejor cuello](https://www.elperiodico.com/es/sucesos/20261117/jesus-g-albalat-medalla-colgara-136518226)<br>
+06:01 [El Teatre Lliure repasa su legado con cuatro espectáculos intergeneracionales](https://www.elperiodico.com/es/ocio-y-cultura/20261117/teatre-lliure-repasa-legado-cuatro-136504946)<br>
+06:00 [Maria José Valiente: "Todos deberíamos irnos solos unos cuantos días al año"](https://www.elperiodico.com/es/ser-feliz/20261117/maria-jose-valiente-deberiamos-irnos-135021717)<br>
 05:40 [Desalojo de la acampada de plaza de Catalunya en Barcelona, en directo: última hora del operativo policial y reacciones](https://www.elperiodico.com/es/barcelona/20261117/desalojo-acampada-plaza-catalunya-barcelona-ultima-hora-directo-136476956)<br>
 05:30 [Hablan los descendientes directos de Goya: "De la herencia no nos llegó nada; solo nos queda el apellido y el orgullo"](https://www.elperiodico.com/es/ocio-y-cultura/20261117/hablan-descendientes-directos-goya-herencia-136520710)<br>
 05:30 [Longevidad, progreso y oportunidad para una sociedad en evolución](https://www.elperiodico.com/es/sociedad/20261117/longevidad-progreso-oportunidad-sociedad-evolucion-bc-136520715)<br>
+05:30 [Entre fiordos y pueblos medievales: cinco planes para descubrir Territorio Obarenes](https://www.elperiodico.com/es/destinos/20261117/fiordos-pueblos-medievales-cinco-planes-bc-136002558)<br>
 05:00 [El tabaco causa 10.000 muertes al año en Catalunya, una cada hora](https://www.elperiodico.com/es/sanidad/20261117/tabaco-causa-muertes-prematuras-cataluna-un-fallecimiento-por-cada-hora-136514961)<br>
 00:58 [Numerosos vuelos afectados por una "caída general del sistema" de United Airlines en Estados Unidos](https://www.elperiodico.com/es/internacional/20261117/numerosos-vuelos-afectados-caida-general-136520168)<br>
 00:36 [Un terremoto de magnitud 6,6 sacude el sureste de Indonesia](https://www.elperiodico.com/es/internacional/20261117/terremoto-magnitud-6-6-sacude-136519488)<br>
