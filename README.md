@@ -1,8 +1,13 @@
-# News for 2026-11-17 15:14
+# News for 2026-11-17 20:32
 
 Previous day: [2026-11-16](./data/2026-11-16.md)
 
 ## ua.korrespondent.net
+18:54 [У Києві частково відновили рух Північним мостом](https://ua.korrespondent.net/city/kiev/4929583-u-kyievi-chastkovo-vidnovyly-rukh-pivnichnym-mostom)<br>
+18:44 [У справі Парубія знайшли нові докази: що показала ДНК-експертиза](https://ua.korrespondent.net/ukraine/4929579-u-spravi-parubiia-znaishly-novi-dokazy-scho-pokazala-dnk-ekspertyza)<br>
+18:22 [Керівники техкомпаній підозрюють змову у відставці гендиректора NVIDIA](https://ua.korrespondent.net/business/4929571-kerivnyky-tekhkompanii-pidozruiuit-zmovu-u-vidstavtsi-hendyrektora-NVIDIA)<br>
+17:06 [У Рівному знешкодили два БпЛА, які не здетонували](https://ua.korrespondent.net/ukraine/4929550-u-rivnomu-zneshkodyly-dva-bpla-yaki-ne-zdetonuvaly)<br>
+15:53 [У Києві відновлюють рух Південним мостом](https://ua.korrespondent.net/city/kiev/4929526-u-kyievi-vidnovluiuit-rukh-pivdennym-mostom)<br>
 14:01 [Євробаскет-2027: Україна отримала серйозний виклик](https://ua.korrespondent.net/sport/basketball/4929480-yevrobasket-2027-ukraina-otrymala-serioznyi-vyklyk)<br>
 13:59 [Її обожнювали мільйони: 61 рік від дня народження Руслани Писанки](https://ua.korrespondent.net/lifestyle/4929447-yii-obozhnuivaly-miliony-61-rik-vid-dnia-narodzhennia-ruslany-pysanky)<br>
 13:53 [Ціни на золото впали до річного мінімуму](https://ua.korrespondent.net/business/economics/4929476-tsiny-na-zoloto-vpaly-do-richnoho-minimumu)<br>
@@ -18,6 +23,9 @@ Previous day: [2026-11-16](./data/2026-11-16.md)
 00:59 [У Перу Папі Римському поцілили чотками в око](https://ua.korrespondent.net/world/4929284-u-peru-papi-rymskomu-potsilyly-chotkamy-v-oko)<br>
 
 ## as.com
+20:26 [Barcelona - París, en directo: Euroliga 2026-27 en vivo hoy](https://as.com/baloncesto/euroliga/barcelona-paris-en-directo-euroliga-2026-27-en-vivo-hoy-f202611-d/)<br>
+20:10 [Croacia - España, Ventanas FIBA: resumen y resultado (72-91)](https://as.com/baloncesto/mas_baloncesto/croacia-espana-en-directo-clasificacion-del-eurobasket-2027-hoy-en-vivo-f202611-d/)<br>
+14:57 [Alerta en Vitoria por el partido contra el Hapoel de esta noche](https://as.com/baloncesto/alerta-por-el-partido-contra-el-hapoel-de-esta-noche-f202611-n/)<br>
 14:25 [“¿NBA Europa? El Madrid tiene que estar en la mejor competición; como aficionado, me gusta la Euroliga”](https://as.com/baloncesto/euroliga/nba-europa-el-madrid-tiene-que-estar-en-la-mejor-competicion-como-aficionado-me-gusta-la-euroliga-f202611-n/)<br>
 06:23 [Mariona Ortiz: “La final de Atenas me dejó un poco tocada”](https://as.com/baloncesto/mas_baloncesto/mariona-ortiz-la-final-de-atenas-me-dejo-un-poco-tocada-f202611-n/)<br>
 06:23 [Barcelona - París: horario, TV, cómo y dónde ver la Euroliga 2026-27](https://as.com/baloncesto/euroliga/barcelona-paris-horario-tv-como-y-donde-ver-la-euroliga-2026-27-f202611-n/)<br>
@@ -27,6 +35,21 @@ Previous day: [2026-11-16](./data/2026-11-16.md)
 05:37 [Killian Hayes jugará en el Barcelona](https://as.com/baloncesto/euroliga/killian-hayes-jugara-en-el-barcelona-f202611-n/)<br>
 
 ## www.elperiodico.com
+20:30 [El truco viral de un vecino para echar a los botellones de delante de casa: "¡Mira cómo corren!"](https://www.elperiodico.com/es/vida-y-estilo/20261117/botellones-truco-viral-vecino-echar-menores-dv-136508352)<br>
+20:14 [Darro, el sueño de Paco Muñoz que cambió el diseño español para siempre: "Tuvo gran ojo para crear una marca memorable"](https://www.elperiodico.com/es/ocio-y-cultura/20261117/darro-sueno-paco-munoz-cambio-diseno-espanol-libro-136556313)<br>
+19:53 [Muere Enrique Lemus, uno de los fundadores de Núcleo Nacional](https://www.elperiodico.com/es/politica/20261117/muere-enrique-lemus-fundadores-nucleo-136555664)<br>
+19:46 [José Bonaparte lo regaló a un general francés y acabó en Londres: la increíble historia del Velázquez que vuelve a Madrid](https://www.elperiodico.com/es/ocio-y-cultura/20261117/jose-bonaparte-regalo-general-frances-acabo-londres-retrato-felipe-iv-velazquez-vuelve-madrid-136555319)<br>
+19:07 [L’Hospitalet alcanza los 41 adoquines 'stolpersteine' en homenaje a las víctimas del nazismo](https://www.elperiodico.com/es/barcelona/20261117/hospitalet-alcanza-41-adoquines-stolpersteine-homenaje-victimas-nazismo-136551656)<br>
+18:54 [Byung-Chul Han, doctor honoris causa por la URL: "La digitalización acelera el derrumbe de la arquitectura del alma"](https://www.elperiodico.com/es/ocio-y-cultura/20261117/byung-chul-han-doctor-honoris-136552746)<br>
+18:05 [¿A qué hora sale GTA VI en España? Esto es lo que se sabe y así se puede descargar para PS5 y Xbox](https://www.elperiodico.com/es/videojuegos/20261117/gta-vi-lanzamiento-espana-ps5-xbox-series-dv-136527663)<br>
+17:57 [Jensen Huang está dispuesto a volver como CEO de Nvidia tras su dimisión](https://www.elperiodico.com/es/economia/20261117/jensen-huang-quiere-volver-nvidia-136549935)<br>
+17:55 [Un estudio alerta de que la IA miente sobre el cambio climático con tal de complacer a los usuarios: "ChatGPT es una fábrica de negacionistas"](https://www.elperiodico.com/es/sociedad/20261117/chagpt-inteligencia-artificial-miente-cambio-climatico-complacer-usuario-estudio-unesco-136533801)<br>
+17:39 [Deportar el alma](https://www.elperiodico.com/es/opinion/20261117/deportar-alma-plan-ruanda-136548873)<br>
+17:10 [La adolescencia es la etapa más cara de la crianza: 942 euros al mes por hijo](https://www.elperiodico.com/es/sociedad/20261117/adolescencia-etapa-mas-cara-crianza-informe-save-the-children-136546734)<br>
+16:52 [Asurbanipal despliega en CaixaForum el esplendor y la barbarie del Imperio asirio](https://www.elperiodico.com/es/ocio-y-cultura/20261117/asurbanipal-despliega-caixaforum-esplendor-barbarie-136544572)<br>
+16:22 [El nuevo mercat de l'Abaceria de Barcelona convence a vecinos y comerciantes: "¡Da gusto pasear por aquí!"](https://www.elperiodico.com/es/barcelona/20261117/estreno-nuevo-mercat-labaceria-barcelona-convence-vecinos-paradistas-pasear-136539175)<br>
+16:12 [Cristina García del Campo, la mujer que alertó del riesgo del Nolotil: "Si no empiezo a tocar las narices, no se hace el estudio"](https://www.elperiodico.com/es/sanidad/20261117/cristina-garcia-campo-mujer-alerto-riesgo-nolotil-tocar-narices-estudio-136531023)<br>
+15:48 [La ineficiencia judicial limita el crecimiento de las empresas españolas](https://www.elperiodico.com/es/economia/20261117/col-legi-de-ladvocacia-de-barcelona-estudios-crecimiento-empresas-informe-136538613)<br>
 15:08 [Schneider Electric firma un acuerdo con el DFactory de la Zona Franca para impulsar la automatización junto a start-ups locales](https://www.elperiodico.com/es/economia/20261117/schneider-electric-firma-acuerdo-dfactory-136540037)<br>
 15:06 [Estos pequeños robots descubren dónde están sin mapas: les basta con enviarse mensajes entre ellos](https://www.elperiodico.com/es/tendencias21/20261117/pequenos-robots-descubren-mapas-les-136542516)<br>
 15:00 [Carolina (29 años), de policía en Venezuela a electricista en España: "Cuando empecé autónoma duré una semana sin dormir porque era mi principal preocupación"](https://www.elperiodico.com/es/economia/20261117/carolina-marrero-29-anos-policia-venezuela-electricista-dv-136378503)<br>
@@ -45,6 +68,7 @@ Previous day: [2026-11-16](./data/2026-11-16.md)
 13:26 [Barcelona invertirá un 33,5% más en ascensores y escaleras mecánicas para reducir las averías](https://www.elperiodico.com/es/barcelona/20261117/barcelona-mantenimiento-ascensores-escaleras-mecanicas-2027-136536009)<br>
 13:25 [La OTAN utiliza la IA de una empresa acusada en EEUU de falta de seguridad y de poner a la población en peligro](https://www.elperiodico.com/es/internacional/20261117/otan-utiliza-ia-empresa-acusada-ciberseguridad-openai-militar-chatgpt-denuncia-136535074)<br>
 13:23 [¿Quién es Killian Hayes? El número 7 del Draft que busca relanzar su carrera en el Barça](https://www.elperiodico.com/es/deportes/20261117/killian-hayes-numero-7-draft-136528378)<br>
+12:17 [El trabajo invisible de los voluntarios: cómo evitar que la burocracia frene a las asociaciones](https://www.elperiodico.com/es/shopping/20261117/trabajo-invisible-voluntarios-evitar-burocracia-bc-136532327)<br>
 12:01 [Una de cada cuatro víctimas de 'bullying' afirma que se ha intentado suicidar: "Se acosa al diferente y al envidiado"](https://www.elperiodico.com/es/sociedad/20261117/victimas-bullying-quieren-suicidarse-informe-complutense-136407838)<br>
 11:32 [¿Adiós a las filas en discotecas y festivales? La idea de un joven español puede revolucionar el mundo de la noche](https://www.elperiodico.com/es/economia/20261117/adios-filas-discotecas-festivales-idea-136524757)<br>
 11:27 [EY y el Real Colegio de Eméritos proponen un modelo de empresa que combine beneficios y bienestar social](https://www.elperiodico.com/es/economia/20261117/ey-real-colegio-emeritos-proponen-136530460)<br>
@@ -61,6 +85,7 @@ Previous day: [2026-11-16](./data/2026-11-16.md)
 09:31 [Nolotil y británicos: lo que la ciencia sabe (y lo que aún no) de una sospecha que nació en Alicante](https://www.elperiodico.com/es/sociedad/20261117/nolotil-britanicos-ciencia-sospecha-nacio-136525897)<br>
 09:05 [El Ibex 35 se contagia de la inquietud por la pugna tecnológica entre EEUU y China](https://www.elperiodico.com/es/economia/20261117/ibex-35-contagia-inquietud-pugna-136525149)<br>
 09:00 [Grito de auxilio para salvar al cachalote y al rorcual común del Mediterráneo: "Es urgente catalogarlos en peligro de extinción"](https://www.elperiodico.com/es/sociedad/20261117/grito-salvar-cachalote-rorcual-comun-mediterraneo-136506758)<br>
+08:12 [Pilotos verticales](https://www.elperiodico.com/es/opinion/20261117/pilotos-verticales-136521227)<br>
 06:30 ["El fenómeno GTA 6 , ¿será para tanto?"](https://www.elperiodico.com/es/entre-todos/participacion/fenomeno-gta-6-videojuego-lanzamiento-carta-lector-natalia-llorens-136440362)<br>
 06:21 [Jesús G. Albalat, por fin una medalla colgará del mejor cuello](https://www.elperiodico.com/es/sucesos/20261117/jesus-g-albalat-medalla-colgara-136518226)<br>
 06:16 ["La libertad de no secundar una huelga también debería ser un derecho"](https://www.elperiodico.com/es/entre-todos/participacion/libertad-no-secundar-huelga-derecho-huela-general-11n-carta-lector-profesor-kenneth-jordan-nunez-136425473)<br>
