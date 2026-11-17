@@ -1,8 +1,14 @@
-# News for 2026-11-17 11:53
+# News for 2026-11-17 15:14
 
 Previous day: [2026-11-16](./data/2026-11-16.md)
 
 ## ua.korrespondent.net
+14:01 [Євробаскет-2027: Україна отримала серйозний виклик](https://ua.korrespondent.net/sport/basketball/4929480-yevrobasket-2027-ukraina-otrymala-serioznyi-vyklyk)<br>
+13:59 [Її обожнювали мільйони: 61 рік від дня народження Руслани Писанки](https://ua.korrespondent.net/lifestyle/4929447-yii-obozhnuivaly-miliony-61-rik-vid-dnia-narodzhennia-ruslany-pysanky)<br>
+13:53 [Ціни на золото впали до річного мінімуму](https://ua.korrespondent.net/business/economics/4929476-tsiny-na-zoloto-vpaly-do-richnoho-minimumu)<br>
+13:34 [У Росії перестали працювати сервіси Timeweb](https://ua.korrespondent.net/world/russia/4929469-u-rosii-perestaly-pratsuivaty-servisy-Timeweb)<br>
+12:02 [Курс гривні продовжив зростання в обмінниках](https://ua.korrespondent.net/business/financial/4929430-kurs-hryvni-prodovzhyv-zrostannia-v-obminnykakh)<br>
+11:55 [Румунія екстрадувала до України адміністратора сайтів із дитячим порно](https://ua.korrespondent.net/ukraine/4929423-rumuniia-ekstraduvala-do-ukrainy-administratora-saitiv-iz-dytiachym-porno)<br>
 11:44 [У Києві відновили рух електротранспорту](https://ua.korrespondent.net/city/kiev/4929420-u-kyievi-vidnovyly-rukh-elektrotransportu)<br>
 11:29 [Чарльз ІІІ публічно звернувся до нового Бонда](https://ua.korrespondent.net/lifestyle/4929389-charlz-iii-publichno-zvernuvsia-do-novoho-bonda)<br>
 11:27 [Українські банки втратили третину чистого прибутку](https://ua.korrespondent.net/business/economics/4929401-ukrainski-banky-vtratyly-tretynu-chystoho-prybutku)<br>
@@ -12,6 +18,7 @@ Previous day: [2026-11-16](./data/2026-11-16.md)
 00:59 [У Перу Папі Римському поцілили чотками в око](https://ua.korrespondent.net/world/4929284-u-peru-papi-rymskomu-potsilyly-chotkamy-v-oko)<br>
 
 ## as.com
+14:25 [“¿NBA Europa? El Madrid tiene que estar en la mejor competición; como aficionado, me gusta la Euroliga”](https://as.com/baloncesto/euroliga/nba-europa-el-madrid-tiene-que-estar-en-la-mejor-competicion-como-aficionado-me-gusta-la-euroliga-f202611-n/)<br>
 06:23 [Mariona Ortiz: “La final de Atenas me dejó un poco tocada”](https://as.com/baloncesto/mas_baloncesto/mariona-ortiz-la-final-de-atenas-me-dejo-un-poco-tocada-f202611-n/)<br>
 06:23 [Barcelona - París: horario, TV, cómo y dónde ver la Euroliga 2026-27](https://as.com/baloncesto/euroliga/barcelona-paris-horario-tv-como-y-donde-ver-la-euroliga-2026-27-f202611-n/)<br>
 06:22 [El Baskonia busca oxígeno en casa](https://as.com/baloncesto/euroliga/el-baskonia-busca-oxigeno-en-casa-f202611-n/)<br>
@@ -20,6 +27,25 @@ Previous day: [2026-11-16](./data/2026-11-16.md)
 05:37 [Killian Hayes jugará en el Barcelona](https://as.com/baloncesto/euroliga/killian-hayes-jugara-en-el-barcelona-f202611-n/)<br>
 
 ## www.elperiodico.com
+15:08 [Schneider Electric firma un acuerdo con el DFactory de la Zona Franca para impulsar la automatización junto a start-ups locales](https://www.elperiodico.com/es/economia/20261117/schneider-electric-firma-acuerdo-dfactory-136540037)<br>
+15:06 [Estos pequeños robots descubren dónde están sin mapas: les basta con enviarse mensajes entre ellos](https://www.elperiodico.com/es/tendencias21/20261117/pequenos-robots-descubren-mapas-les-136542516)<br>
+15:00 [Carolina (29 años), de policía en Venezuela a electricista en España: "Cuando empecé autónoma duré una semana sin dormir porque era mi principal preocupación"](https://www.elperiodico.com/es/economia/20261117/carolina-marrero-29-anos-policia-venezuela-electricista-dv-136378503)<br>
+14:50 [Más de 1.400 plazas de empleo público todavía tienen abierto el plazo de inscripción y algunas solo exigen la ESO](https://www.elperiodico.com/es/economia/20261117/boe-oposiciones-empleo-publico-funcionarios-policia-local-salud-administracion-dv-136541012)<br>
+14:45 [Penélope Cruz confiesa que algunos espectadores se han divorciado tras ver su última película y se lo han agradecido](https://www.elperiodico.com/es/gente/20261117/penelope-cruz-confiesa-espectadores-han-136540856)<br>
+14:44 [El azúcar se dispara un 25% en 2026 y marca máximos de casi dos años por el clima, el etanol y el cierre de India](https://www.elperiodico.com/es/economia/20261117/azucar-dispara-25-2026-marca-136541643)<br>
+14:12 [Empieza el mayor juicio por divorcio en el Reino Unido: la ex del oligarca ruso Vladímir Potanin reclama 600 millones de libras](https://www.elperiodico.com/es/gente/20261117/empieza-mayor-juicio-divorcio-reino-136538962)<br>
+14:09 [El Govern ordena vender los terrenos para poder acoger la gigafactoría europea de IA en Móra la Nova](https://www.elperiodico.com/es/tecnologia/20261117/generalitat-aprueba-venta-terrenos-gigafactoria-ia-mora-nova-tarragona-govern-catalunya-136538022)<br>
+14:09 [CaixaBank y Microsoft premian a las mejores estudiantes de carreras científicas y tecnológicas de España](https://www.elperiodico.com/es/economia/20261117/caixabank-microsoft-premian-mejores-estudiantes-mujeres-carreras-ciencia-tecnologia-espana-136539463)<br>
+14:05 [La Asociación de Mujeres Periodistas de Catalunya concede el Premio a la Comunicación No Sexista a la redactora de EL PERIÓDICO Patricia Martín](https://www.elperiodico.com/es/sociedad/20261117/patricia-martin-el-periodico-premio-comunicacion-no-sexista-asociacion-mujeres-periodistas-cataluna-136535984)<br>
+14:00 [Pilar Rubio (48 años) y Sergio Ramos (40 años) sobre su vivienda: "Mi casa es donde esté mi familia y que pueda acoplar mi vida profesional"](https://www.elperiodico.com/es/gente/20261117/pilar-rubio-sergio-ramos-casa-sevilla-yeguada-dv-136256957)<br>
+13:33 [La 'startup' de diseño de moda con IA Fermat capta 8 millones y se expande hacia Nueva York](https://www.elperiodico.com/es/economia/20261117/startup-diseno-moda-ia-fermat-136534717)<br>
+13:33 [Luz verde a la subida salarial para los funcionarios: ¿Cuánto cobrará más un maestro? ¿Y un policía?](https://www.elperiodico.com/es/economia/20261117/funcionarios-subida-salarios-2027-cuanto-cobra-136535669)<br>
+13:29 [El cartel del Carnaval de Vilanova 2027 desata la polémica por la presencia de Franco y el uso de la IA](https://www.elperiodico.com/es/barcelona/20261117/cartel-carnaval-vilanova-2027-desata-polemica-presencia-francisco-franco-uso-de-la-ia-136534989)<br>
+13:29 [El precio del euríbor hoy, 17 de noviembre: continúan las malas noticias para los hipotecados](https://www.elperiodico.com/es/economia/20261117/precio-euribor-hoy-17-noviembre-dv-136499108)<br>
+13:26 [Barcelona invertirá un 33,5% más en ascensores y escaleras mecánicas para reducir las averías](https://www.elperiodico.com/es/barcelona/20261117/barcelona-mantenimiento-ascensores-escaleras-mecanicas-2027-136536009)<br>
+13:25 [La OTAN utiliza la IA de una empresa acusada en EEUU de falta de seguridad y de poner a la población en peligro](https://www.elperiodico.com/es/internacional/20261117/otan-utiliza-ia-empresa-acusada-ciberseguridad-openai-militar-chatgpt-denuncia-136535074)<br>
+13:23 [¿Quién es Killian Hayes? El número 7 del Draft que busca relanzar su carrera en el Barça](https://www.elperiodico.com/es/deportes/20261117/killian-hayes-numero-7-draft-136528378)<br>
+12:01 [Una de cada cuatro víctimas de 'bullying' afirma que se ha intentado suicidar: "Se acosa al diferente y al envidiado"](https://www.elperiodico.com/es/sociedad/20261117/victimas-bullying-quieren-suicidarse-informe-complutense-136407838)<br>
 11:32 [¿Adiós a las filas en discotecas y festivales? La idea de un joven español puede revolucionar el mundo de la noche](https://www.elperiodico.com/es/economia/20261117/adios-filas-discotecas-festivales-idea-136524757)<br>
 11:27 [EY y el Real Colegio de Eméritos proponen un modelo de empresa que combine beneficios y bienestar social](https://www.elperiodico.com/es/economia/20261117/ey-real-colegio-emeritos-proponen-136530460)<br>
 11:14 [El atasco de los juzgados deja fuera del mercado 5.000 pisos de alquiler en Barcelona](https://www.elperiodico.com/es/economia/20261117/vivienda-atasco-juzgados-retira-pisos-alquiler-barcelona-136529006)<br>
@@ -28,13 +54,16 @@ Previous day: [2026-11-16](./data/2026-11-16.md)
 10:42 [Los Nets de Jordi Fernández no pueden con el mejor Joel Embiid](https://www.elperiodico.com/es/deportes/20261117/nets-jordi-fernandez-mejor-joel-136526728)<br>
 10:41 [Seis técnicos de Aragón ya están en el MNAC para iniciar el traslado a Sijena de las pinturas profanas](https://www.elperiodico.com/es/ocio-y-cultura/20261117/seis-tecnicos-aragon-mnac-iniciar-136527706)<br>
 10:21 [Lanzan un rosario al papa León XIV en Lima y le golpea en la cara](https://www.elperiodico.com/es/videos/sociedad/lanzan-rosario-papa-leon-xiv-lima-golpea-cara-video/136527550.shtml)<br>
+10:03 [El Algarve en familia: vacaciones con niños en las que los padres también descansan](https://www.elperiodico.com/es/vida-y-estilo/20261117/algarve-familia-vacaciones-ninos-padres-bc-136526911)<br>
 10:00 [JP Morgan calcula que la IA podría sustituir 24 millones de empleos en el mundo en cinco años, sin implicar despidos masivos](https://www.elperiodico.com/es/economia/20261117/jp-morgan-calcula-ia-sustituir-136526805)<br>
 10:00 [Maribel Verdú (56 años), sobre la vivienda: "Soy de esas personas con la suerte de tener un trabajo y éxito, lo que no significa que no vea con horror lo que está sucediendo"](https://www.elperiodico.com/es/gente/20261117/maribel-verdu-casas-salario-viviendas-patrimonio-inmobiliario-dv-136112213)<br>
 09:54 [Un extrabajador de una cantera afirma que el balasto de Adamuz "incumple la normativa de Adif" y pide ser testigo protegido](https://www.elperiodico.com/es/economia/20261117/extrabajador-cantera-afirma-balasto-adamuz-136526681)<br>
 09:31 [Nolotil y británicos: lo que la ciencia sabe (y lo que aún no) de una sospecha que nació en Alicante](https://www.elperiodico.com/es/sociedad/20261117/nolotil-britanicos-ciencia-sospecha-nacio-136525897)<br>
 09:05 [El Ibex 35 se contagia de la inquietud por la pugna tecnológica entre EEUU y China](https://www.elperiodico.com/es/economia/20261117/ibex-35-contagia-inquietud-pugna-136525149)<br>
 09:00 [Grito de auxilio para salvar al cachalote y al rorcual común del Mediterráneo: "Es urgente catalogarlos en peligro de extinción"](https://www.elperiodico.com/es/sociedad/20261117/grito-salvar-cachalote-rorcual-comun-mediterraneo-136506758)<br>
+06:30 ["El fenómeno GTA 6 , ¿será para tanto?"](https://www.elperiodico.com/es/entre-todos/participacion/fenomeno-gta-6-videojuego-lanzamiento-carta-lector-natalia-llorens-136440362)<br>
 06:21 [Jesús G. Albalat, por fin una medalla colgará del mejor cuello](https://www.elperiodico.com/es/sucesos/20261117/jesus-g-albalat-medalla-colgara-136518226)<br>
+06:16 ["La libertad de no secundar una huelga también debería ser un derecho"](https://www.elperiodico.com/es/entre-todos/participacion/libertad-no-secundar-huelga-derecho-huela-general-11n-carta-lector-profesor-kenneth-jordan-nunez-136425473)<br>
 06:01 [El Teatre Lliure repasa su legado con cuatro espectáculos intergeneracionales](https://www.elperiodico.com/es/ocio-y-cultura/20261117/teatre-lliure-repasa-legado-cuatro-136504946)<br>
 06:00 [Maria José Valiente: "Todos deberíamos irnos solos unos cuantos días al año"](https://www.elperiodico.com/es/ser-feliz/20261117/maria-jose-valiente-deberiamos-irnos-135021717)<br>
 05:40 [Desalojo de la acampada de plaza de Catalunya en Barcelona, en directo: última hora del operativo policial y reacciones](https://www.elperiodico.com/es/barcelona/20261117/desalojo-acampada-plaza-catalunya-barcelona-ultima-hora-directo-136476956)<br>
