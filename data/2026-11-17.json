@@ -1,5 +1,77 @@
 [
   {
+    "title": "Зеленський пропонує партнерам \"обмін\" ракет до ППО",
+    "link": "https://ua.korrespondent.net/ukraine/4929651-zelenskyi-proponuie-partneram-obmin-raket-do-ppo",
+    "pubDate": "2026-11-17 23:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4643130.jpg\">Росія постійно атакує Україну реактивними \"шахедами\", крилатими ракетами та балістикою, наголосив голова держави.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La junta directiva de Nvidia confirma que no pretende restituir a Huang y busca sustituto",
+    "link": "https://www.elperiodico.com/es/economia/20261117/junta-directiva-nvidia-confirma-pretende-136560621",
+    "pubDate": "2026-11-17 23:56:12",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "España, contra Francia, Alemania o Portugal en los cuartos de final con la vuelta fuera",
+    "link": "https://www.elperiodico.com/es/deportes/20261117/espana-francia-alemania-o-portugal-136560587",
+    "pubDate": "2026-11-17 23:52:33",
+    "category": "",
+    "description": "<h2 class=\"item\">El combinado luso se aseguró este martes el liderato y completa el cupo de posibles rivales de la campeona del mundo en el sorteo del viernes. </h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Sekulic: “Las pérdidas nos han impedido lograr la victoria”",
+    "link": "https://as.com/baloncesto/euroliga/sekulic-las-perdidas-nos-han-impedido-lograr-la-victoria-f202611-n/",
+    "pubDate": "2026-11-17 23:49:54",
+    "category": "Baloncesto",
+    "description": "El entrenador del Barça valora la derrota de su equipo ante el París en la 12ª jornada de la máxima competición continental.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Знайдені $20 млн загрожують повним крахом партії Орбана - ЗМІ",
+    "link": "https://ua.korrespondent.net/ukraine/politics/4929648-znaideni-20-mln-zahrozhuuit-povnym-krakhom-partii-orbana-zmi",
+    "pubDate": "2026-11-17 23:45:00",
+    "category": "Новини політики",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4643114.jpg\">Вилучення грошей відбулося в межах розслідування щодо колишнього міністра економічного розвитку Міклоша Сестака.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Португалія здобула дуже важку перемогу над Уельсом",
+    "link": "https://ua.korrespondent.net/sport/football/4929646-portuhaliia-zdobula-duzhe-vazhku-peremohu-nad-uelsom",
+    "pubDate": "2026-11-17 23:39:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4643099.jpg\">Португальська збірна ледь змогла вирвати перемогу у суперника, який чинив гідний опір на футбольному полі.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Joventut, líder invicto",
+    "link": "https://as.com/baloncesto/mas_baloncesto/el-joventut-lider-invicto-f202611-n/",
+    "pubDate": "2026-11-17 23:29:44",
+    "category": "Baloncesto",
+    "description": "Los verdinegros se imponen de nuevo al Oporto y siguen invictos en el grupo H de la Basketball Champions League.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ganar, ganar y volver a ganar",
+    "link": "https://as.com/baloncesto/euroliga/ganar-ganar-y-volver-a-ganar-f202611-n/",
+    "pubDate": "2026-11-17 23:29:20",
+    "category": "Baloncesto",
+    "description": "El Valencia Basket mantiene el liderato de la Euroliga con un triunfo muy trabajado en una pista difícil como la del Partizán.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Україна виграла у Грузії матч Ліги націй",
     "link": "https://ua.korrespondent.net/sport/football/4929644-ukraina-vyhrala-u-hruzii-match-lihy-natsii",
     "pubDate": "2026-11-17 23:20:00",
@@ -160,6 +232,15 @@
     "description": "",
     "topic": "portada de EL PERIÓDICO",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Чи вийде відновити Кримський міст. Наслідки удару",
+    "link": "https://ua.korrespondent.net/ukraine/4929660-chy-vyide-vidnovyty-krymskyi-mist-naslidky-udaru",
+    "pubDate": "2026-11-17 22:02:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4643231.jpg\">Генштаб ЗСУ заявив, що автомобільна частина мосту повністю вийшла з ладу, а залізнична також зазнала пошкоджень.",
+    "topic": "політика",
+    "topic_match_probability": 85
   },
   {
     "title": "Rodalies alerta de que podrían faltar trenes a primera hora del miércoles tras la huelga del martes",
@@ -466,6 +547,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4642893.jpg\">До ініціативи долучилися Німеччина, Австрія, Нідерланди, Данія та Греція. Витрати на перебування мігрантів у центрі покриватимуть європейські держави.",
     "topic": "політика",
     "topic_match_probability": 90
+  },
+  {
+    "title": "Вторгнення Росії в Україну. Онлайн",
+    "link": "https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain",
+    "pubDate": "2026-11-17 19:43:00",
+    "category": "Новини політики",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/2748609.jpg\">Володимир Путін почав повномасштабну війну проти України 24 лютого 2022 року. Не зумівши \"взяти Київ за три дні\", він сконцентрувався на захопленні Донбасу та південних областей України.",
+    "topic": "політика",
+    "topic_match_probability": 100
   },
   {
     "title": "Herido grave un policía nacional apuñalado en comisaría de Valladolid",
@@ -851,6 +941,15 @@
     "pubDate": "2026-11-17 17:33:23",
     "category": "",
     "description": "",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Війна на Близькому Сході. Онлайн",
+    "link": "https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain",
+    "pubDate": "2026-11-17 17:33:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473659.jpg\">США та Ізраїль проводять масштабну операцію проти Ірану. Тегеран у відповідь атакує військові об'єкти США майже у всіх країнах Перської затоки.",
     "topic": "політика",
     "topic_match_probability": 95
   },

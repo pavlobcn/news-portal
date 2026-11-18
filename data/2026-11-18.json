@@ -1,0 +1,65 @@
+[
+  {
+    "title": "У Китаї закликали Росію разом \"боротися з колоніалізмом\"",
+    "link": "https://ua.korrespondent.net/world/4929658-u-kytai-zaklykaly-rosiui-razom-borotysia-z-kolonializmom",
+    "pubDate": "2026-11-18 01:46:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4643198.jpg\">Москва й Пекін мають особливо боротися проти \"сучасних практик неоколоніалізму\", вважають в ЦК Комуністичної партії КНР.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Радбез ООН проведе засідання високого рівня щодо України",
+    "link": "https://ua.korrespondent.net/world/worldabus/4929656-radbez-oon-provede-zasidannia-vysokoho-rivnia-schodo-ukrainy",
+    "pubDate": "2026-11-18 00:58:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4643180.jpg\">Засідання буде вести президент Латвії Едгарс Рінкевичс, адже його країна головує а Радбезі в листопаді.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Європа побоюється вимог Росії в перемовах зі США - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/worldabus/4929654-yevropa-pobouiietsia-vymoh-rosii-v-peremovakh-zi-ssha-zmi",
+    "pubDate": "2026-11-18 00:44:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4643163.jpg\">Вашингтон і Москва можуть домовитися про умови завершення війни та майбутнє Європи на свій розсуд, припускають у Брюсселі.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La IA detecta un fallo crítico en Java, usado por el 90% de las grandes empresas de EE.UU.",
+    "link": "https://www.elperiodico.com/es/economia/20261118/ia-detecta-fallo-critico-java-136560999",
+    "pubDate": "2026-11-18 00:41:21",
+    "category": "",
+    "description": "<h2>Oracle, propietaria de la marca Java y responsable de sus licencias comerciales, publicó este martes un parche de seguridad para corregir el problema, aunque no respondió a las preguntas del periódico sobre la vulnerabilidad</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Noruega de Haaland firma una remontada agónica en Copenhague para meterse en cuartos (2-3)",
+    "link": "https://www.elperiodico.com/es/deportes/20261118/noruega-haaland-firma-remontada-agonica-136560685",
+    "pubDate": "2026-11-18 00:13:39",
+    "category": "",
+    "description": "<h2 class=\"item\">Los daneses vencían 2-0, pero un penalti transformado por el astro del City en el tiempo añadido culminó una reacción descomunal.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Herido muy grave un joven tras ser apuñalado en Madrid",
+    "link": "https://www.elperiodico.com/es/sucesos/20261118/joven-27-anos-resulta-herido-136560704",
+    "pubDate": "2026-11-18 00:05:19",
+    "category": "",
+    "description": "<h2>La Policía Nacional investiga los hechos ocurridos en García Noblejas y tratar de identificar a los responsables del suceso</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Portugal aguanta el primer puesto en Gales entre inquietudes (2-3)",
+    "link": "https://www.elperiodico.com/es/deportes/20261118/portugal-aguanta-primer-puesto-gales-136560603",
+    "pubDate": "2026-11-18 00:01:51",
+    "category": "",
+    "description": "<h2 class=\"item\">Carlos Forbs marcó el tanto del triunfo de los lusos, que sufrieron mucho más de los esperado ante el cuadro británico.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  }
+]
