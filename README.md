@@ -1,8 +1,10 @@
-# News for 2026-11-18 19:22
+# News for 2026-11-18 21:53
 
 Previous day: [2026-11-17](./data/2026-11-17.md)
 
 ## ua.korrespondent.net
+21:04 [Синоптики попередили про негоду: де дощитиме найсильніше](https://ua.korrespondent.net/ukraine/4929975-synoptyky-poperedyly-pro-nehodu-de-doschytyme-naisylnishe)<br>
+20:26 [Керченський міст зупинився: що відомо про наслідки](https://ua.korrespondent.net/ukraine/4929969-kerchenskyi-mist-zupynyvsia-scho-vidomo-pro-naslidky)<br>
 19:17 [У Грузії почали проводити рейди проти росіян-нелегалів](https://ua.korrespondent.net/world/4929955-u-hruzii-pochaly-provodyty-reidy-proty-rosiian-nelehaliv)<br>
 19:06 [ЄС заморозив Словаччині 62,5 млн євро](https://ua.korrespondent.net/business/financial/4929952-yes-zamorozyv-slovachchyni-625-mln-yevro)<br>
 18:53 [Землетрус у Румунії докотився до української АЕС](https://ua.korrespondent.net/business/companies/4929949-zemletrus-u-rumunii-dokotyvsia-do-ukrainskoi-aes)<br>
@@ -61,6 +63,10 @@ Previous day: [2026-11-17](./data/2026-11-17.md)
 03:25 [У Румунія стався землетрус, що відчули й в Україні](https://ua.korrespondent.net/world/4929666-u-rumuniia-stavsia-zemletrus-scho-vidchuly-y-v-ukraini)<br>
 
 ## as.com
+21:19 [Resumen del Besiktas vs. Real Madrid de Euroliga](https://as.com/videos/euroliga/resumen-del-besiktas-vs-real-madrid-de-euroliga-f202611-v/)<br>
+20:36 [El Madrid más opaco](https://as.com/baloncesto/euroliga/el-madrid-mas-opaco-f202611-n/)<br>
+20:34 [Canastas para seguir viviendo](https://as.com/baloncesto/mas_baloncesto/canastas-para-seguir-viviendo-f202611-n/)<br>
+19:43 [Alfredo Salazar se jubila pero asesorará a Josean Querejeta](https://as.com/baloncesto/alfredo-salazar-se-jubila-pero-asesorara-a-querejeta-f202611-n/)<br>
 19:13 [Besiktas – Real Madrid, en directo: Euroliga 2026-27 en vivo hoy](https://as.com/baloncesto/besiktas-real-madrid-en-directo-euroliga-2026-27-en-vivo-hoy-f202611-d/)<br>
 18:28 [Lukic se irá de la ACB a la NCAA el próximo verano](https://as.com/baloncesto/acb/lukic-se-ira-de-la-acb-a-la-ncaa-el-proximo-verano-f202611-n/)<br>
 18:18 [Fallece el periodista Justo Conde](https://as.com/baloncesto/acb/fallece-el-periodista-justo-conde-f202611-n/)<br>
@@ -71,6 +77,8 @@ Previous day: [2026-11-17](./data/2026-11-17.md)
 06:26 [El equilibrio Ndiaye](https://as.com/baloncesto/euroliga/equilibrio-ndiaye-f202611-n/)<br>
 
 ## www.elperiodico.com
+20:43 [El Madrid, un despropósito en su visita al Besiktas, que logra un triunfo histórico](https://www.elperiodico.com/es/deportes/20261118/madrid-desproposito-visita-besiktas-logra-136594570)<br>
+20:39 [La CEO interina de Nvidia transmite "tranquilidad" a los empleados tras la dimisión de Jensen Huang](https://www.elperiodico.com/es/economia/20261118/ceo-interina-nvidia-transmite-tranquilidad-136595274)<br>
 19:14 [Ryanair firma la mayor inversión industrial de los últimos 20 años en Sevilla con 500 millones de euros](https://www.elperiodico.com/es/economia/20261118/ryanair-firma-mayor-inversion-industrial-136591956)<br>
 19:12 [Ryanair se decanta por Sevilla para instalar su centro de reparación de motores: "Ha sido la inversión industrial más difícil de captar para Andalucía"](https://www.elperiodico.com/es/economia/20261118/centro-motores-ryanair-puerto-sevilla-136591858)<br>
 19:09 [EasyJet duplica sus tripulantes de cabina mayores de 50 años en España desde 2022](https://www.elperiodico.com/es/economia/20261118/easyjet-duplica-tripulantes-cabina-mayores-50-anos-desde-2022-136591437)<br>
