@@ -1,5 +1,68 @@
 [
   {
+    "title": "‘Baiôa sin fecha de muerte’, de Rui Couceiro: los tres demiurgos",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20261118/rui-couceiro-critica-libro-baioa-fecha-muerte-136161705",
+    "pubDate": "2026-11-18 04:50:08",
+    "category": "",
+    "description": "<h2>El autor portugués aborda con extraña levedad y espléndido empleo de los recursos narrativos el paso del tiempo en una novela ambiciosa en su forma y resonante en sus temas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sobre el fragmento",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20261118/fragmento-136249687",
+    "pubDate": "2026-11-18 04:50:08",
+    "category": "",
+    "description": "<h2>Lo definía como el primer gusto por el detalle y declaraba mi inhabilidad para la composición</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "МЗС розкритикувало намір призначити росіянина на керівну посаду в МАГАТЕ",
+    "link": "https://ua.korrespondent.net/ukraine/4929670-mzs-rozkrytykuvalo-namir-pryznachyty-rosiianyna-na-kerivnu-posadu-v-mahate",
+    "pubDate": "2026-11-18 04:27:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4643334.jpeg\">Російський чиновник Олексій Ферапонтов у 2024 році відвідував окуповану Запорізьку АЕС, на нього також накладені санкції.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "¿Por qué hay gente que insinúa que Márquez se jubila cuando sigue arrasando con un brazo y medio?",
+    "link": "https://www.elperiodico.com/es/deportes/20261118/hay-gente-insinua-marquez-jubila-136555587",
+    "pubDate": "2026-11-18 04:06:03",
+    "category": "",
+    "description": "<h2 class=\"item\">Si es el sábado, mejor que el domingo. Cuanto antes, mejor. Pero Marc Márquez (Ducati), después de haber llegado hasta aquí, después de haber remontado 102 puntos, no tiene prisa por renovar su cetro y conquistar su 10º título mundial de motociclismo.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Пісторіус: Далекобійні удари ЗСУ по Росії законні",
+    "link": "https://ua.korrespondent.net/world/worldabus/4929668-pistorius-dalekobiini-udary-zsu-po-rosii-zakonni",
+    "pubDate": "2026-11-18 03:56:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4643317.jpg\">Росія регулярно атакує об'єкти енергетики України, і саме це слід критикувати, підкреслив голова Міноборони ФРН.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "У Румунія стався землетрус, що відчули й в Україні",
+    "link": "https://ua.korrespondent.net/world/4929666-u-rumuniia-stavsia-zemletrus-scho-vidchuly-y-v-ukraini",
+    "pubDate": "2026-11-18 03:25:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4643282.jpg\">Епіцентр цього землетрусу був у сейсмічній зоні Вранча, на межі румунських повітів Вранча та Ковасна.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "КНДР відмовилась приймати листи Трампа до Кім Чен Ина - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4929664-kndr-vidmovylas-pryimaty-lysty-trampa-do-kim-chen-yna-zmi",
+    "pubDate": "2026-11-18 02:47:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4643265.jpg\">Лідер США та його адміністрація неодноразово намагався передати послання главі КНДР, та всі спроби були даремні.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "У Китаї закликали Росію разом \"боротися з колоніалізмом\"",
     "link": "https://ua.korrespondent.net/world/4929658-u-kytai-zaklykaly-rosiui-razom-borotysia-z-kolonializmom",
     "pubDate": "2026-11-18 01:46:00",
