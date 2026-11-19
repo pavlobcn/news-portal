@@ -1,8 +1,35 @@
-# News for 2026-11-19 11:30
+# News for 2026-11-19 17:53
 
 Previous day: [2026-11-18](./data/2026-11-18.md)
 
 ## ua.korrespondent.net
+17:45 [Третій удар по Кримському мосту: які наслідки](https://ua.korrespondent.net/ukraine/4930264-tretii-udar-po-krymskomu-mostu-yaki-naslidky)<br>
+17:23 [Соцмережі для дітей до 16 років: яке рішення готує Україна](https://ua.korrespondent.net/ukraine/4930261-sotsmerezhi-dlia-ditei-do-16-rokiv-yake-rishennia-hotuie-ukraina)<br>
+16:59 [Удар РФ по Києву зачепив дипломатичні установи](https://ua.korrespondent.net/ukraine/4930254-udar-rf-po-kyievu-zachepyv-dyplomatychni-ustanovy)<br>
+16:38 [У Міноборони визначили ключові завдання на 2027-й](https://ua.korrespondent.net/ukraine/4930249-u-minoborony-vyznachyly-kluichovi-zavdannia-na-2027-y)<br>
+16:31 [Свята 20 листопада 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4930232-sviata-20-lystopada-2026-roku-istoriia-tradytsii)<br>
+16:09 [Дронова атака на Київ: стало відомо про жертви](https://ua.korrespondent.net/city/kiev/4930236-dronova-ataka-na-kyiv-stalo-vidomo-pro-zhertvy)<br>
+15:59 [Викрито агентів РФ, які зареєстрували понад 160 Starlink](https://ua.korrespondent.net/ukraine/4930233-vykryto-ahentiv-rf-yaki-zareiestruvaly-ponad-160-Starlink)<br>
+15:41 [Інженери оцінили масштаби руйнувань Кримського мосту](https://ua.korrespondent.net/ukraine/4930226-inzhenery-otsinyly-masshtaby-ruinuvan-krymskoho-mostu)<br>
+15:27 [Удар по Ізюму: кількість поранених зросла до 21](https://ua.korrespondent.net/ukraine/4930220-udar-po-izuimu-kilkist-poranenykh-zrosla-do-21)<br>
+15:05 [На Львівщині викрили наркоканал: вилучили понад тонну речовин](https://ua.korrespondent.net/ukraine/4930209-na-lvivschyni-vykryly-narkokanal-vyluchyly-ponad-tonnu-rechovyn)<br>
+14:59 [Витяг із Реєстру ветеранів війни тепер можна отримати у Дії](https://ua.korrespondent.net/ukraine/4930207-vytiah-iz-reiestru-veteraniv-viiny-teper-mozhna-otrymaty-u-dii)<br>
+14:47 [Атака на Київ: у кількох районах горять будинки, є постраждала](https://ua.korrespondent.net/kyiv/4930205-ataka-na-kyiv-u-kilkokh-raionakh-horiat-budynky-ye-postrazhdala)<br>
+14:29 [На Київщині російський дрон зруйнував будинок: загинула жінка](https://ua.korrespondent.net/ukraine/4930203-na-kyivschyni-rosiiskyi-dron-zruinuvav-budynok-zahynula-zhinka)<br>
+14:28 [Путін відреагував на удари по Кримському мосту](https://ua.korrespondent.net/world/russia/4930199-putin-vidreahuvav-na-udary-po-krymskomu-mostu)<br>
+14:25 [РФ поширює фейкові відео для дискредитації поліції України](https://ua.korrespondent.net/ukraine/4930197-rf-poshyruiie-feikovi-video-dlia-dyskredytatsii-politsii-ukrainy)<br>
+13:57 [Міжнародний суд ООН вперше визнав цілу державу винною у геноциді](https://ua.korrespondent.net/world/4930186-mizhnarodnyi-sud-oon-vpershe-vyznav-tsilu-derzhavu-vynnoui-u-henotsydi)<br>
+13:54 [Агентку РФ ув'язнили на 15 років за підготовку теракту у Житомирі](https://ua.korrespondent.net/ukraine/4930185-ahentku-rf-uviaznyly-na-15-rokiv-za-pidhotovku-teraktu-u-zhytomyri)<br>
+13:48 [Британія надасть Україні 1000 далекобійних дронів](https://ua.korrespondent.net/world/4930183-brytaniia-nadast-ukraini-1000-dalekobiinykh-droniv)<br>
+13:42 [Обхід санкцій по-російськи: Кремль заходить в Африку](https://ua.korrespondent.net/business/economics/4930180-obkhid-sanktsii-po-rosiisky-kreml-zakhodyt-v-afryku)<br>
+13:27 [ЄСПЛ відсторонив адвокатку через судові прецеденти, згенеровані ШІ](https://ua.korrespondent.net/world/4930174-yespl-vidstoronyv-advokatku-cherez-sudovi-pretsedenty-zghenerovani-shi)<br>
+13:24 [У РФ затримали вже десятого генерала Росгвардії](https://ua.korrespondent.net/world/russia/4930173-u-rf-zatrymaly-vzhe-desiatoho-henerala-roshvardii)<br>
+13:17 [У Росії озвучили масштаб проблеми зі станом мостів](https://ua.korrespondent.net/world/russia/4930169-u-rosii-ozvuchyly-masshtab-problemy-zi-stanom-mostiv)<br>
+12:59 [У Херсоні затримали коригувальницю російських ударів](https://ua.korrespondent.net/ukraine/4930163-u-khersoni-zatrymaly-koryhuvalnytsui-rosiiskykh-udariv)<br>
+12:53 [Росіяни втретє за кілька днів атакували газовиків Нафтогазу](https://ua.korrespondent.net/ukraine/4930161-rosiiany-vtretie-za-kilka-dniv-atakuvaly-hazovykiv-naftohazu)<br>
+12:12 [Генштаб розповів про нову атаку на Кримський міст](https://ua.korrespondent.net/ukraine/4930147-henshtab-rozpoviv-pro-novu-ataku-na-krymskyi-mist)<br>
+12:08 [Anthropic провела найбільше IPO в історії, випередивши SpaceX](https://ua.korrespondent.net/business/companies/4930142-Anthropic-provela-naibilshe-IPO-v-istorii-vyperedyvshy-SpaceX)<br>
+12:02 [У США викрили шпигунську операцію росіянина](https://ua.korrespondent.net/world/4930140-u-ssha-vykryly-shpyhunsku-operatsiui-rosiianyna)<br>
 11:27 [У Києві спалахнули пожежі внаслідок атаки РФ](https://ua.korrespondent.net/city/kiev/4930121-u-kyievi-spalakhnuly-pozhezhi-vnaslidok-ataky-rf)<br>
 11:21 [Російський "шахед" уразив промисловий об’єкт у Вознесенську](https://ua.korrespondent.net/ukraine/4930118-rosiiskyi-shakhed-urazyv-promyslovyi-obiekt-u-voznesensku)<br>
 11:20 [Хакери атакували системи Єврокомісії: можливий витік даних](https://ua.korrespondent.net/world/4930113-khakery-atakuvaly-systemy-yevrokomisii-mozhlyvyi-vytik-danykh)<br>
@@ -27,12 +54,44 @@ Previous day: [2026-11-18](./data/2026-11-18.md)
 05:27 [Вчені спрогнозували, яка релігія стане наймасовішою через десятиліття](https://ua.korrespondent.net/world/4930023-vcheni-sprohnozuvaly-yaka-relihiia-stane-naimasovishoui-cherez-desiatylittia)<br>
 
 ## as.com
+16:55 [Teague y la oferta del Barça que voló](https://as.com/baloncesto/euroliga/teague-y-la-oferta-del-barca-que-volo-f202611-n/)<br>
+16:51 [“¿Hayes? Espero que esté hambriento"](https://as.com/baloncesto/euroliga/hayes-espero-que-este-hambriento-f202611-n/)<br>
+13:26 [Ndiaye ya puede jugar en la Euroliga](https://as.com/baloncesto/euroliga/ndiaye-ya-puede-jugar-en-la-euroliga-f202611-n/)<br>
+11:57 [El tapón del año en la NBA lo firma Hugo González: vean la animalada que fue](https://as.com/baloncesto/videos/el-tapon-del-ano-en-la-nba-lo-firma-hugo-gonzalez-vean-la-animalada-que-fue-f202611-v/)<br>
 11:03 [El Madrid deja huella: “Todos deben recordar esta victoria”](https://as.com/baloncesto/euroliga/el-madrid-deja-huella-todos-deben-recordar-esta-victoria-f202611-n/)<br>
 10:07 [El líder de la Euroliga vuelve a casa](https://as.com/baloncesto/euroliga/el-lider-de-la-euroliga-vuelve-a-casa-f202611-n/)<br>
 10:07 [En busca del triunfo que refuerce el crecimiento](https://as.com/baloncesto/euroliga/en-busca-del-triunfo-que-refuerce-el-crecimiento-f202611-n/)<br>
 07:44 [Insólito: un árbitro se encara con Doncic en pleno partido](https://as.com/baloncesto/videos/insolito-un-arbitro-se-encara-con-doncic-en-pleno-partido-f202611-v/)<br>
 
 ## www.elperiodico.com
+17:51 [Barcelona aprueba la rehabilitación y conversión en equipamiento público de las nueve casitas que quedan en pie de la Colònia Castells](https://www.elperiodico.com/es/barcelona/20261119/barcelona-aprueba-rehabilitacion-conversion-publico-nueve-casitas-colonia-castells-136566513)<br>
+17:13 [La Policía alerta a los usuarios de 'Grand Theft Auto VI': "En la vida real no hay botón de reiniciar"](https://www.elperiodico.com/es/sucesos/20261119/policia-alerta-usuarios-grand-theft-136627082)<br>
+17:11 [Hablan los primeros fans en probar el videojuego 'GTA VI': "Me acabé calentando y me compré una pantalla OLED para jugar"](https://www.elperiodico.com/es/ocio-y-cultura/20261119/gta-vi-videojuego-hablan-primeros-fans-probar-136624171)<br>
+17:09 [Tiempo en Catalunya mañana viernes: bajan las temperaturas antes de un fin de semana marcado por el viento](https://www.elperiodico.com/es/tiempo/20261119/tiempo-catalunya-hoy-viernes-temperaturas-viento-meteocat-136623944)<br>
+16:49 [Girbau refuerza su consejo de administración con dos fichajes](https://www.elperiodico.com/es/economia/20261119/girbau-refuerza-consejo-administracio-fichajes-136625590)<br>
+16:39 [Vueling amplía su oferta para los viajes de negocios con la nueva tarifa Fly Pro](https://www.elperiodico.com/es/economia/20261119/vueling-amplia-oferta-viajes-negocios-nueva-tarifa-fly-pro-136626044)<br>
+16:22 [Publican por error la esquela de la Reina Margarita de Dinamarca](https://www.elperiodico.com/es/gente/20261119/publican-error-esquela-reina-margarita-136624192)<br>
+16:18 [Anthropic debuta con subidas del 33% y capta 74.000 millones en la mayor salida a bolsa](https://www.elperiodico.com/es/economia/20261119/anthropic-debuta-subidas-20-protagoniza-136625205)<br>
+15:59 [TMB inicia una prueba piloto de "horas tranquilas" para personas con autismo e hipersensibilidad en Sagrada Família](https://www.elperiodico.com/es/barcelona/20261119/tmb-prueba-piloto-autismo-hipersensibilidad-horas-tranquilas-tmb-sagrada-familia-136623697)<br>
+15:53 [Aqualia y Global Omnium recurren la adjudicación a Veolia del contrato de agua de 1.000 millones en el área de Barcelona](https://www.elperiodico.com/es/barcelona/20261119/aqualia-global-omnium-recurren-adjudicacion-veolia-contrato-agua-1000-millones-area-barcelona-136623967)<br>
+14:40 [La consellera Pané se rompe la otra pierna, pero esta vez no coge la baja](https://www.elperiodico.com/es/sanidad/20261119/consellera-pane-rompe-pierna-coge-baja-salut-136619371)<br>
+14:39 [Un sindicato de Mossos denuncia una plaga de ratas e insectos en la sede del Tribunal Superior de Justicia de Catalunya](https://www.elperiodico.com/es/sociedad/20261119/sindicato-mossos-denuncia-plaga-ratas-insectos-tsjc-136620537)<br>
+14:34 [Jordi Savall dirige 'La clemenza di Tito' de Mozart en el Liceu:  "Lo que oiremos no es solamente una orquesta, sino otros colores, otras articulaciones, otros fraseos, otro equilibrio"](https://www.elperiodico.com/es/ocio-y-cultura/20261119/jordi-savall-dirige-clemenza-di-tito-liceu-136620809)<br>
+13:54 [El fenómeno literario ‘Me llamo Goa’ de Míriam Tirado se convierte en un festival que reunirá a 2.600 personas en Barcelona y Madrid](https://www.elperiodico.com/es/ocio-y-cultura/20261119/fenomeno-literario-llamo-goa-miriam-136618564)<br>
+13:52 [Rockstar North, el estudio escocés tras 'Grand Theft Auto', el producto de ocio más rentable de la historia](https://www.elperiodico.com/es/ocio-y-cultura/20261119/rockstar-north-estudio-escoces-grand-theft-auto-videojuego-mas-rentable-historia-136619046)<br>
+13:45 [El BOE confirma que las empresas ya no pueden preguntarte cuánto cobrabas en tu anterior trabajo](https://www.elperiodico.com/es/economia/20261119/boe-empresas-no-pueden-preguntarte-cuanto-cobrabas-anterior-trabajo-dv-136616947)<br>
+13:26 [Badalona cierra un supermercado que ocupaba dos locales sin autorización urbanística](https://www.elperiodico.com/es/barcelona/20261119/badalona-cierra-supermercado-ocupaba-locales-sin-autorizacion-urbanistica-136615657)<br>
+13:24 [¿Qué hacer cuando un alumno suelta un comentario racista o machista en mitad de clase? Una guía da herramientas al profesorado](https://www.elperiodico.com/es/sociedad/20261119/alumno-suelta-comentario-racista-machista-guia-educacion-democratica-fundacion-neus-catala-discursos-odio-instituto-136612441)<br>
+13:24 [Barcelona refuerza con un centenar de trabajadores más la plantilla de limpieza viaria y recogida de basuras](https://www.elperiodico.com/es/barcelona/20261119/barcelona-refuerza-centenar-personas-plantilla-limpieza-recogida-basura-136608734)<br>
+13:22 [La espía amante del exjefe de Nvidia hizo negocios con Alibaba, empresa conectada con el Ejército chino](https://www.elperiodico.com/es/internacional/20261119/chips-nvidia-traficados-espia-amante-jensen-huang-china-ejercito-ia-136616945)<br>
+13:22 [Cerca del 25% de los españoles consumen ansiolíticos o antidepresivos sin prescripción médica, más del doble que hace cinco años](https://www.elperiodico.com/es/sanidad/20261119/cerca-25-espanoles-consume-ansioliticos-136614619)<br>
+13:16 [La revista 'Lecturas' con la entrevista a Pedro Sánchez se agota en quioscos y se revende ya en Wallapop por 50 euros](https://www.elperiodico.com/es/sociedad/20261119/revista-lecturas-entrevista-pedro-sanchez-agotada-reventa-wallapop-136616023)<br>
+13:00 [El contrato para el pago directo con tarjeta de crédito en la T-Mobilitat recibe una única oferta de Global Payments y CaixaBank](https://www.elperiodico.com/es/barcelona/20261119/unica-empresa-opta-hacerse-contrato-para-pago-directo-tarjeta-credito-t-mobilitat-136508772)<br>
+12:46 [Adif ya puede reparar las vías en Urda tras autorizarlo la jueza, que exige que se le informe de las modificaciones](https://www.elperiodico.com/es/economia/20261119/jueza-accidente-urda-autoriza-adif-136614426)<br>
+12:38 [Hayes, el jugador NBA del Barça y fan culé "desde pequeño"](https://www.elperiodico.com/es/deportes/20261119/hayes-jugador-nba-barca-fan-136611545)<br>
+12:10 [Renfe entrega a los maquinistas de Rodalies cartas en mano de los servicios mínimos para evitar otro plante en la huelga del lunes](https://www.elperiodico.com/es/sociedad/20261119/renfe-entregara-cartas-mano-maquinistas-incumplimientos-servicios-minimos-rodalies-huelgas-136606205)<br>
+12:08 [Crítica de 'Rose': Sandra Hüller encarna a una mujer que se hace pasar por hombre en la Europa oscurantista del siglo XVII](https://www.elperiodico.com/es/ocio-y-cultura/20261119/critica-rose-sandra-huller-encarna-mujer-hombre-136612004)<br>
+11:58 [Crítica 'Los juegos del hambre: Amanecer en la cosecha': Otra vuelta de tuerca a una franquicia de éxito](https://www.elperiodico.com/es/ocio-y-cultura/20261119/critica-juegos-hambre-amanecer-cosecha-pelicula-estreno-cine-136611548)<br>
 10:57 [Así subirá el sueldo de los funcionarios en 2027: más de 4.000 euros para algunas profesiones](https://www.elperiodico.com/es/economia/20261119/subida-sueldo-funcionarios-2027-administrativos-policias-maestros-medicos-jueces-dv-136607880)<br>
 10:50 [La DGT adopta los colores de AEMET para avisar del estado de las carreteras por nieve, niebla y viento](https://www.elperiodico.com/es/sociedad/20261119/dgt-adopta-colores-aemet-avisar-estado-carreteras-nieve-136607670)<br>
 10:15 [Álvaro, quiosquero, con solo tres días de fiesta al año: “Ni sábados ni domingos, ni fiestas nacionales ni nada"](https://www.elperiodico.com/es/economia/20261119/kiosko-condiciones-laborales-quiosquero-alvaro-logrono-dv-136070512)<br>
@@ -45,6 +104,9 @@ Previous day: [2026-11-18](./data/2026-11-18.md)
 07:59 [Canarias tiene potencial para convertirse en referente tecnológico internacional](https://www.elperiodico.com/es/economia/20261119/canarias-potencial-convertirse-referente-tecnologico-bc-136602816)<br>
 07:25 [¿Cuándo empiezan a ser los días más largos en Catalunya?](https://www.elperiodico.com/es/ciencia/20261119/dias-largos-cataluna-noches-cortas-solsticio-invierno-otono-dv-136565683)<br>
 07:10 [Melisa (36 años), cuidadora colombiana en España: "Llaman y cogen a mucha gente para el verano o solo un año y luego les cancelan"](https://www.elperiodico.com/es/economia/20261119/cuidadora-ancianos-dependientes-sueldo-trabajo-melisa-colombiana-dv-136385312)<br>
+07:00 ["Mi día no termina cuando salgo del trabajo"](https://www.elperiodico.com/es/entre-todos/participacion/estudiar-trabajar-esfuerzo-carta-lector-claudia-perez-136534730)<br>
+06:45 ["Qui ha retirat la cadira que falta a la taula del Gran Recapte?"](https://www.elperiodico.com/es/entre-todos/participacion/gran-recapte-campanya-recollida-aliments-banc-carta-lector-antonio-yus-136539902)<br>
+06:15 ["Insultos para silenciar el feminismo"](https://www.elperiodico.com/es/entre-todos/participacion/insultos-silenciar-feminismo-descalificacion-politicos-campana-electoral-carta-lector-enrique-moreno-136514235)<br>
 06:01 [Anthropic sale hoy a bolsa: quién gana y quién pierde con el gigante de la IA](https://www.elperiodico.com/es/tecnologia/20261119/anthropic-sale-hoy-bolsa-gana-pierde-acciones-ia-claude-136594437)<br>
 06:01 [Barcelona gana peso en el futuro de la IA](https://www.elperiodico.com/es/opinion/20261119/barcelona-cnmc-oficina-regulacion-ia-136594083)<br>
 06:01 [Dario Amodei, el cerebro de Anthropic que quiere salvar al mundo de los riesgos de la IA](https://www.elperiodico.com/es/tecnologia/20261119/dario-amodei-anthropic-salida-bolsa-ia-riesgos-claude-136510101)<br>
