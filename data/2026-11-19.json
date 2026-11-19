@@ -1,0 +1,47 @@
+[
+  {
+    "title": "США поінформують Україну про зміст переговорів Трампа в Китаї - Зеленський",
+    "link": "https://ua.korrespondent.net/ukraine/4930002-ssha-poinformuuit-ukrainu-pro-zmist-perehovoriv-trampa-v-kytai-zelenskyi",
+    "pubDate": "2026-11-19 01:21:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4644620.png\">Віткофф і Кушнер мають прибути на зустріч коаліції охочих, де розкажуть, про що Трамп домовлявся у Китаї. Втім, Київ розраховує отримати інформацію не лише від американської сторони.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Після критики України Колбі достроково залишив Рамштайн - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4930000-pislia-krytyky-ukrainy-kolbi-dostrokovo-zalyshyv-ramshtain-zmi",
+    "pubDate": "2026-11-19 00:52:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4644601.jpg\">Представник Пентагону покинув зустріч відразу після своєї заяви. Його поведінка викликала занепокоєння серед європейських союзників.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Muere en Madrid una mujer apuñalada por un hombre con el que mantenía una relación",
+    "link": "https://www.elperiodico.com/es/sucesos/20261119/muere-madrid-mujer-apunalada-hombre-136600300",
+    "pubDate": "2026-11-19 00:41:51",
+    "category": "",
+    "description": "<h2>Fue el propio agresor quien ha avisado del crimen al 112</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Кушнер і Віткофф візьмуть участь у зустрічі Коаліції охочих - ЗМІ",
+    "link": "https://ua.korrespondent.net/ukraine/4929996-kushner-i-vitkoff-vizmut-uchast-u-zustrichi-koalitsii-okhochykh-zmi",
+    "pubDate": "2026-11-19 00:20:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4644527.jpg\">Спецпредставники Трампа проведуть коротку розмову з Мерцом, після чого візьмуть участь у пленарному засіданні Коаліції охочих.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "El Sabadell y el Reus pasan ronda en la Copa",
+    "link": "https://www.elperiodico.com/es/deportes/20261119/sabadell-reus-pasan-ronda-copa-136599952",
+    "pubDate": "2026-11-19 00:06:04",
+    "category": "",
+    "description": "<h2 class=\"item\">El equipo vallesano venció en el campo del Utebo (0-3) y el cuadro del Baix Camp tumbó al Barakaldo en los penaltis. </h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  }
+]
