@@ -1,5 +1,365 @@
 [
   {
+    "title": "Diez caminos hacia Girona: lo que pasa cuando los mejores productores sostenibles de España se juntan",
+    "link": "https://www.elperiodico.com/es/economia/20261119/diez-caminos-girona-pasa-mejores-bc-136643802",
+    "pubDate": "2026-11-19 23:59:35",
+    "category": "",
+    "description": "<h2>Los galardonados de este año con los Premios BBVA a los Mejores Productores Sostenibles, organizados en colaboración con El Celler de Can Roca, debaten sobre cómo la sostenibilidad se ha convertido en una oportunidad para su negocio y el entorno rural</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Feijóo enmienda a Sánchez por la corrupción, las tragedias ferroviarias y su \"dependencia\" de Rabat",
+    "link": "https://www.elperiodico.com/es/politica/20261119/feijoo-enmienda-sanchez-corrupcion-tragedias-136643516",
+    "pubDate": "2026-11-19 23:48:44",
+    "category": "",
+    "description": "<h2>El candidato popular Alberto Núñez Feijóo arremete contra la gestión del presidente del Gobierno exigiendo una ley antiokupación y una reforma en el Ministerio de Transportes</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Дві країни викликали послів РФ після ударів по посольствах у Києві",
+    "link": "https://ua.korrespondent.net/ukraine/4930330-dvi-krainy-vyklykaly-posliv-rf-pislia-udariv-po-posolstvakh-u-kyievi",
+    "pubDate": "2026-11-19 23:48:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4646121.jpg\">Російська атака на українську столицю пошкодила будівлі посольств Нідерландів, Швеції та Австрії.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "'Fact checking' del debate entre Sánchez y Feijóo: de la vivienda a la migración",
+    "link": "https://www.elperiodico.com/es/politica/20261119/fact-check-debate-sanchez-feijoo-136643224",
+    "pubDate": "2026-11-19 23:36:52",
+    "category": "",
+    "description": "<h2>Contrastamos algunas de sus principales afirmaciones con estadísticas oficiales y verificaciones independientes</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El líder también sabe sufrir",
+    "link": "https://as.com/baloncesto/el-lider-tambien-sabe-sufrir-f202611-n/",
+    "pubDate": "2026-11-19 23:22:26",
+    "category": "Valencia Basket Club",
+    "description": "Valencia Basket remontó diez puntos de desventaja en el último cuarto para seguir en lo más alto en la clasificación.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Зеленський: Немає відповіді США щодо гарантій",
+    "link": "https://ua.korrespondent.net/ukraine/4930328-zelenskyi-nemaie-vidpovidi-ssha-schodo-harantii",
+    "pubDate": "2026-11-19 23:20:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4646102.jpg\">Україна не отримала від посланців Трампа чіткої відповіді відносно гарантій безпеки за зразком статті 5  НАТО.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Un Sánchez contenido intenta que el debate no se embarre, pide perdón y acusa a Feijóo de recortar derechos y servicios públicos",
+    "link": "https://www.elperiodico.com/es/politica/20261119/sanchez-evita-entrar-cuerpo-cuerpo-136642957",
+    "pubDate": "2026-11-19 23:12:44",
+    "category": "",
+    "description": "<h2 class=\"item\">El líder del PSOE desea a Feijóo que \"jamás su familia sufra las difamaciones que ha sufrido la mía\"</h2><h2 class=\"item\">El presidente trata de no repetir el mal cara a cara de 2023 y no responde a las provocaciones del presidente del PP</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Feijóo se hace con el plató ante un Sánchez en sombras",
+    "link": "https://www.elperiodico.com/es/politica/20261119/frialdad-sanchez-feijoo-debate-electoral-136642750",
+    "pubDate": "2026-11-19 23:01:48",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20261119/cara-a-cara-pedro-sanchez-feijoo-debate-electoral-ultima-hora-directo-136610132\" target=\"_blank\">Debate entre Sánchez y Feijóo, en directo | Última hora del cara a cara electoral entre los candidatos del PSOE y el PP del 29N y reacciones</a></h2>",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Sánchez y Feijóo, a la greña: frases del cara a cara del 29N",
+    "link": "https://www.elperiodico.com/es/politica/20261119/frases-cara-cara-136642687",
+    "pubDate": "2026-11-19 23:00:35",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20261120/cara-a-cara-pedro-sanchez-feijoo-debate-electoral-ultima-hora-directo-136610132\">Debate entre Sánchez y Feijóo, en directo | Última hora del cara a cara electoral entre los candidatos del PSOE y el PP del 29N, reacciones y quién ha ganado</a></h2>",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La UEFA sanciona a Inglaterra por cánticos anticatólicos en Madrid",
+    "link": "https://www.elperiodico.com/es/deportes/20261119/uefa-sanciona-inglaterra-canticos-anticatolicos-136642641",
+    "pubDate": "2026-11-19 22:58:55",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Наполі мусить замінити основного воротаря з огляду на його травму",
+    "link": "https://ua.korrespondent.net/sport/football/4930326-napoli-musyt-zaminyty-osnovnoho-vorotaria-z-ohliadu-na-yoho-travmu",
+    "pubDate": "2026-11-19 22:56:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4646060.jpg\">Неаполітанський клуб муситиме обходитися без свого основного голкіпера, який отримав перелом хребця.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Barça se rehace con un triplete de Claudia Pina",
+    "link": "https://www.elperiodico.com/es/deportes/20261119/barca-rehace-triplete-claudia-pina-136638574",
+    "pubDate": "2026-11-19 22:52:53",
+    "category": "",
+    "description": "<h2>Las azulgranas superan con eficacia al débil equipo suizo y el breve paréntesis de dos partidos sin ganar</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Зеленський зустрівся з європейцями і американцями",
+    "link": "https://ua.korrespondent.net/ukraine/4930324-zelenskyi-zustrivsia-z-yevropeitsiamy-i-amerykantsiamy",
+    "pubDate": "2026-11-19 22:52:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4646083.jpg\">Глава держави обговорив гарантії безпеки для України з посланцями Трампа та європейськими радниками з питань нацбезпеки.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Marcelinho, segundo jugador más veterano en la Euroliga tras su debut con Dubai con 43 años",
+    "link": "https://www.elperiodico.com/es/deportes/20261119/marcelinho-segundo-jugador-veterano-euroliga-136642565",
+    "pubDate": "2026-11-19 22:48:55",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sánchez y Feijóo confrontan en vivienda y fiscalidad en un cara a cara caldeado por la corrupción",
+    "link": "https://www.elperiodico.com/es/politica/20261119/debate-cara-sanchez-feijoo-elecciones-136642446",
+    "pubDate": "2026-11-19 22:29:46",
+    "category": "",
+    "description": "<h2 class=\"item\">El candidato del PP trata de acorralar el presidente del Gobierno con un tono incisivo y críticas a su gestión: \"España merece un presidente decente y él no lo es\"</h2><h2 class=\"item\">El presidente del Gobierno admite errores, pero defiende su hoja de ruta: \"España goza hoy de unos resultados económicos, sociales y medioambientales como hace décadas que no tenía\"</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "18-річна українська боксерка відмовилася виступати за США",
+    "link": "https://ua.korrespondent.net/sport/boks/4930321-18-richna-ukrainska-bokserka-vidmovylasia-vystupaty-za-ssha",
+    "pubDate": "2026-11-19 22:29:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4646016.jpg\">Українка віддала перевагу залишитися в українському спорті, сповнена готовності гідно представляти Україну на міжнародній арені.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los Mossos investigan la muerte violenta de un hombre por arma blanca en Malgrat de Mar",
+    "link": "https://www.elperiodico.com/es/sociedad/20261119/mossos-investigan-muerte-violenta-hombre-malgrat-mar-136641548",
+    "pubDate": "2026-11-19 22:24:09",
+    "category": "",
+    "description": "<h2>Una alerta avisó a la policía de que había un hombre gravemente herido en el interior de un piso ocupado, pero no se le pudo salvar la vida</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "БПЛА атакував Харків, серед постраждалих - підлітки",
+    "link": "https://ua.korrespondent.net/city/kharkov/4930318-bpla-atakuvav-kharkiv-sered-postrazhdalykh-pidlitky",
+    "pubDate": "2026-11-19 22:19:00",
+    "category": "Харків",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4646040.jpg\">Шестеро людей, серед яких 16-річний хлопець, отримали поранення. Також у 12-річної дівчинки діагностували гостру реакцію на стрес.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Quién ha ganado el cara a cara? Vota entre Sánchez y Feijóo y añade tu comentario sobre el debate",
+    "link": "https://www.elperiodico.com/es/politica/20261119/cara-a-cara-quien-ha-ganado-debate-sanchez-feijoo-136629182",
+    "pubDate": "2026-11-19 22:01:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20261119/cara-a-cara-pedro-sanchez-feijoo-debate-electoral-ultima-hora-directo-136610132\">Debate entre Sánchez y Feijóo: resumen y reacciones al cara a cara electoral</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261119/fact-check-debate-sanchez-feijoo-136643224\" target=\"_blank\">'Fact checking' del debate entre Sánchez y Feijóo: de la vivienda a la migración</a></h2>",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Польщі затримали двох українців через написи про УПА",
+    "link": "https://ua.korrespondent.net/world/4930316-u-polschi-zatrymaly-dvokh-ukraintsiv-cherez-napysy-pro-upa",
+    "pubDate": "2026-11-19 21:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4646017.jpg\">У Познані двох українців підозрюють у нанесенні написів \"Слава УПА\" на пам’ятники на замовлення російської розвідки. Прокуратура розцінює інцидент як спробу розпалити ворожнечу між поляками та українцями.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Rosalía desata la locura en Barcelona y regala sus nuevas zapatillas en una cita muy loca con sus fans",
+    "link": "https://www.elperiodico.com/es/gente/20261119/rosalia-barcelona-camion-zapatillas-new-balance-990v7-fans-locura-136638098",
+    "pubDate": "2026-11-19 21:50:47",
+    "category": "",
+    "description": "<h2>La diva catalana, que acaba de recibir nueve nominaciones a los Grammy, ha llegado al Convent dels Àngels en un camión cargado de cajas de las New Balance 990v7. Sonriente y acompañada de su inseparable Albert Cusell, se ha hecho selfis, ha firmado autógrafos y ha disfrutado de la actuación de un coro del Raval</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20261105/rosalia-new-balance-990v7-ballet-lanzamiento-precio-136103618\" target=\"_blank\">Rosalía se mete en una clase de ballet con las nuevas New Balance: así son las zapatillas de padre que prometen arrasar</a></h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Abascal acusa en Gijón a Sánchez de haber \"vendido a España\" y pide que sea juzgado por traición tras las palabras de Puigdemont",
+    "link": "https://www.elperiodico.com/es/politica/20261119/santiago-abascal-inicia-mitin-gijon-136640117",
+    "pubDate": "2026-11-19 21:46:03",
+    "category": "",
+    "description": "<h2 class=\"item\">El Presidente de Vox reúne a miles de simpatizantes en la plaza de toros, que se quedó pequeña, en su segundo acto en menos de un mes en Asturias</h2><h2 class=\"item\">\"En España ya hay tres grandes partidos, falta Vox en el famoso debate; yo voy a cenar\", espetó sobre el cara acara entre Sánchez y Feijóo</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Зеленський розповів про фінансові потреби України",
+    "link": "https://ua.korrespondent.net/business/economics/4930312-zelenskyi-rozpoviv-pro-finansovi-potreby-ukrainy",
+    "pubDate": "2026-11-19 21:43:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4645997.jpg\">Україні необхідно $115 млрд для фінансування потреб у 2027 році. Наразі є позитивні сигнали щодо залучення $90 млрд, однак решту коштів ще потрібно знайти.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "El nivel de Rodri",
+    "link": "https://www.elperiodico.com/es/deportes/20261119/nivel-rodri-136628455",
+    "pubDate": "2026-11-19 21:42:49",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "НБА втрачає нагоду організувати повноцінний турнір НБА Європа",
+    "link": "https://ua.korrespondent.net/sport/basketball/4930314-nba-vtrachaie-nahodu-orhanizuvaty-povnotsinnyi-turnir-nba-yevropa",
+    "pubDate": "2026-11-19 21:42:00",
+    "category": "Новини баскетболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4645950.jpg\">Проти планів Національної баскетбольної асоціації виступили два клуби Євроліги, що перекрило шлях для формування можливості проведення змагань серед європейських баскетбольних клубів протягом усього сезону.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Nuevo fiasco baskonista en Euroliga",
+    "link": "https://as.com/baloncesto/nuevo-fiasco-baskonista-en-euroliga-f202611-n/",
+    "pubDate": "2026-11-19 21:37:48",
+    "category": "Baskonia",
+    "description": "Balance de 1/12 en un arranque de competición continental para olvidar. El domingo, derbi con el Surne Bilbao Basket",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Del Call of Duty al Dakar: así es el Aston Martin Dreadnought de Fernando Alonso",
+    "link": "https://www.elperiodico.com/es/motor/20261119/call-of-duty-dakar-aston-136567058",
+    "pubDate": "2026-11-19 21:30:40",
+    "category": "",
+    "description": "<h2>Nacido como un SUV militar de videojuego, el nuevo prototipo de Aston Martin cambia las batallas virtuales por las pistas del Dakar 2027</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Вчені довели, що їстівну картоплю можна вирощувати на Місяці",
+    "link": "https://ua.korrespondent.net/tech/science/4930310-vcheni-dovely-scho-yistivnu-kartoplui-mozhna-vyroschuvaty-na-misiatsi",
+    "pubDate": "2026-11-19 21:29:00",
+    "category": "Новини науки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4645982.jpg\">Дослідники з Університету штату Орегон з'ясували, що картопля здатна пройти повний життєвий цикл у місячному ґрунті.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Путін повернувся з Китаю без домовленостей: акції РФ падають",
+    "link": "https://ua.korrespondent.net/world/russia/4930308-putin-povernuvsia-z-kytaui-bez-domovlenostei-aktsii-rf-padauit",
+    "pubDate": "2026-11-19 21:26:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4645974.jpg\">Поїздка Володимира Путіна до Китаю, від якої очікували важливих геополітичних домовленостей, завершилася розчаруванням для російських інвесторів.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Una falsa alarma por una bolsa sospechosa moviliza a la BRIMO en Les Corts",
+    "link": "https://www.elperiodico.com/es/barcelona/20261119/falsa-alarma-bolsa-sospechosa-moviliza-brimo-les-corts-136635819",
+    "pubDate": "2026-11-19 21:11:30",
+    "category": "",
+    "description": "<h2>La actuación policial ha obligado a cerrar las calles Berlín y Numància hasta comprobar que el objeto contenía ropa y libros</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20240414/desalojada-estacio-nord-barcelona-objeto-101061733\" target=\"_blank\">Una maleta sospechosa provoca el cierre durante tres horas de la Estación del Nord de Barcelona</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Toyota перетворила Corolla Cross у пікап",
+    "link": "https://ua.korrespondent.net/lifestyle/motors/4930306-Toyota-peretvoryla-Corolla-Cross-u-pikap",
+    "pubDate": "2026-11-19 21:09:00",
+    "category": "Автомобілі",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4645971.jpg\">Новий Corolla Deck має несучий кузов і самозарядну гібридну силову установку. Виробництво моделі налагодять у Бразилії.",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Cristian Canton: \"La IA está hackeando el sistema de comunicación humano\"",
+    "link": "https://www.elperiodico.com/es/economia/20261119/cristian-canton-ia-hackeando-sistema-136626925",
+    "pubDate": "2026-11-19 21:00:54",
+    "category": "",
+    "description": "<h2 class=\"item\">La inteligencia artificial redefine el futuro de la comunicación y refuerza el papel estratégico de los ‘dircom’</h2><h2 class=\"item\">Más de 250 profesionales se reúnen en Barcelona en la XV edición de NETCOM para analizar los retos y oportunidades de la IA en la comunicación corporativa.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Австрія відреагувала на удар РФ по посольству в Києві",
+    "link": "https://ua.korrespondent.net/ukraine/4930304-avstriia-vidreahuvala-na-udar-rf-po-posolstvu-v-kyievi",
+    "pubDate": "2026-11-19 20:52:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4645952.jpg\">Крістіан Штокер заявив, що російська атака на Київ поставила під загрозу співробітників австрійського посольства та пошкодила будівлю дипломатичної установи.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "El Gobierno sortea las presiones de los gigantes de los centros de datos y aprobará este viernes el nuevo decreto",
+    "link": "https://www.elperiodico.com/es/economia/20261119/centros-de-datos-gobierno-aprobar-real-decreto-consejo-ministros-136637346",
+    "pubDate": "2026-11-19 20:40:20",
+    "category": "",
+    "description": "<h2 class=\"item\">El Consejo de Ministros extraordinario de mañana, el penúltimo antes de las elecciones del 29-N, dará luz verde a la nueva regulación con exigencias ambientales más estrictas para los ‘data centers’ tras incluir cambios solicitados por el Consejo de Estado</h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Усик розповів, як переконує своїх дітей навчатися",
+    "link": "https://ua.korrespondent.net/sport/boks/4930301-usyk-rozpoviv-yak-perekonuie-svoikh-ditei-navchatysia",
+    "pubDate": "2026-11-19 20:35:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4645898.jpg\">На власному прикладі український спортсмен демонструє своїм дітям, що потреба опановувати мови може стати в пригоді в будь-якій сфері.",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Hyundai представила новий Elantra",
+    "link": "https://ua.korrespondent.net/lifestyle/motors/4930297-Hyundai-predstavyla-novyi-Elantra",
+    "pubDate": "2026-11-19 20:29:00",
+    "category": "Автомобілі",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4645920.jpg\">Седан восьмого покоління отримав новий дизайн, просторіший салон, оновлену мультимедійну систему з голосовим асистентом на основі штучного інтелекту та нову гібридну версію.",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Маск звинуватив Київ у брехні про Starshield",
+    "link": "https://ua.korrespondent.net/world/4930299-mask-zvynuvatyv-kyiv-u-brekhni-pro-Starshield",
+    "pubDate": "2026-11-19 20:26:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4645928.jpg\">Ілон Маск заявив, що Володимир Зеленський нібито вводить в оману щодо обмежень Starshield. Мільярдер пояснив, чим ця система відрізняється від Starlink і хто контролює її роботу.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El refuerzo de las patrullas caninas permite localizar 19 jabalíes muertos por peste porcina en Collserola, récord semanal de positivos del último año",
+    "link": "https://www.elperiodico.com/es/economia/20261119/refuerzo-patrullas-caninas-permite-localizar-nuevos-casos-jabalies-peste-porcina-collserola-136635556",
+    "pubDate": "2026-11-19 20:21:23",
+    "category": "",
+    "description": "<h2>La Generalitat asegura que todos los nuevos casos corresponden a restos con una antigüedad superior a los cinco meses, con lo que el balance total se eleva ya a 448 ejemplares infectados</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Europa exhibe una cohesión inédita y advierte de que \"Shenzhen no es Yalta\"",
+    "link": "https://www.elperiodico.com/es/internacional/20261119/europa-exhibe-cohesion-inedita-advierte-136636838",
+    "pubDate": "2026-11-19 20:18:47",
+    "category": "",
+    "description": "<h2>La cumbre de la Coalición de Voluntarios reúne en Berlín a unos 40 aliados de Ucrania, volcados a mostrar su apoyo a Volodímir Zelenskii</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La redactora de EL PERIÓDICO Patricia Martín recibe el Premio a la Comunicación No sexista de la Asociación de Mujeres Periodistas de Catalunya",
+    "link": "https://www.elperiodico.com/es/sociedad/20261119/patricia-martin-el-periodico-premio-comunicacion-no-sexista-asociacion-mujeres-periodistas-cataluna-136535984",
+    "pubDate": "2026-11-19 20:10:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Llúcia Oliva, Lourdes Lancho, Ana Polo, Lola Patau y la revista Raíces también se encuentran entre los premiados en la 33ª edición de estos galardones decanos en Catalunya</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261116/medalla-honor-generalitat-periodista-el-periodico-jesus-g-albalat-servicios-excepcionales-justicia-rigor-independencia-136487362\" target=\"_blank\">La Generalitat concede la medalla de honor al periodista de EL PERIÓDICO Jesús G. Albalat por su trayectoria</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Від ворогів до партнерів: Венесуела відновила військову співпрацю зі США",
     "link": "https://ua.korrespondent.net/world/4930292-vid-vorohiv-do-partneriv-venesuela-vidnovyla-viiskovu-spivpratsui-zi-ssha",
     "pubDate": "2026-11-19 20:07:00",
@@ -128,6 +488,15 @@
   {
     "title": "Трамп закликав США не витрачати кошти на війну",
     "link": "https://ua.korrespondent.net/world/4930284-tramp-zaklykav-ssha-ne-vytrachaty-koshty-na-viinu",
+    "pubDate": "2026-11-19 19:19:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4645846.jpg\">Під час телефонної розмови з європейськими лідерами Дональд Трамп поставив під сумнів доцільність подальшої військової підтримки України.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Трамп закликав ЄС не витрачати кошти на війну",
+    "link": "https://ua.korrespondent.net/world/4930284-tramp-zaklykav-yes-ne-vytrachaty-koshty-na-viinu",
     "pubDate": "2026-11-19 19:19:00",
     "category": "Новини світу",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4645846.jpg\">Під час телефонної розмови з європейськими лідерами Дональд Трамп поставив під сумнів доцільність подальшої військової підтримки України.",
@@ -1402,6 +1771,15 @@
     "description": "<h2>El cuarto aspirante a la presidencia de la FIFA, el suizo Ramón Vega, no ha recabado los avales necesarios para presentar su candidatura</h2>",
     "topic": "спорт",
     "topic_match_probability": 90
+  },
+  {
+    "title": "Diana López Varela, experta en maternidad y crianza:  \"Hay que exigir a los políticos que cuiden de sus hijos para que empiecen a aplicar medidas sensatas\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261119/maternidad-crianza-diana-lopez-varela-agenda-politica-elecciones-generales-29n-familia-conciliacion-136495887",
+    "pubDate": "2026-11-19 11:46:29",
+    "category": "",
+    "description": "<h2 class=\"item\">A las puertas del 29N, la divulgadora y autora de 'No es país para coños' y 'Maternofobia' reclama que la maternidad y la crianza ocupe, por fin, el lugar que le corresponde en la agenda política</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261117/adolescencia-etapa-mas-cara-crianza-informe-save-the-children-136546734\" target=\"_blank\">La adolescencia es la etapa más cara de la crianza: 942 euros al mes por hijo</a></h2>",
+    "topic": "вибори",
+    "topic_match_probability": 80
   },
   {
     "title": "El Hospi de Jordi Alba y Thiago no da con la tecla: el club cambia de entrenador por cuarta vez en poco más de un año",
