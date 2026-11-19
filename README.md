@@ -1,8 +1,11 @@
-# News for 2026-11-19 17:53
+# News for 2026-11-19 20:10
 
 Previous day: [2026-11-18](./data/2026-11-18.md)
 
 ## ua.korrespondent.net
+18:19 [Укренерго озвучило графіки відключень на п'ятницю](https://ua.korrespondent.net/ukraine/4930275-ukrenerho-ozvuchylo-hrafiky-vidkluichen-na-piatnytsui)<br>
+18:02 [Нацбанк знову підняв курс гривні](https://ua.korrespondent.net/business/financial/4930272-natsbank-znovu-pidniav-kurs-hryvni)<br>
+17:53 [Уламки дрона пошкодили собор і посольство в центрі Києва](https://ua.korrespondent.net/city/kiev/4930269-ulamky-drona-poshkodyly-sobor-i-posolstvo-v-tsentri-kyieva)<br>
 17:45 [Третій удар по Кримському мосту: які наслідки](https://ua.korrespondent.net/ukraine/4930264-tretii-udar-po-krymskomu-mostu-yaki-naslidky)<br>
 17:23 [Соцмережі для дітей до 16 років: яке рішення готує Україна](https://ua.korrespondent.net/ukraine/4930261-sotsmerezhi-dlia-ditei-do-16-rokiv-yake-rishennia-hotuie-ukraina)<br>
 16:59 [Удар РФ по Києву зачепив дипломатичні установи](https://ua.korrespondent.net/ukraine/4930254-udar-rf-po-kyievu-zachepyv-dyplomatychni-ustanovy)<br>
@@ -54,6 +57,8 @@ Previous day: [2026-11-18](./data/2026-11-18.md)
 05:27 [Вчені спрогнозували, яка релігія стане наймасовішою через десятиліття](https://ua.korrespondent.net/world/4930023-vcheni-sprohnozuvaly-yaka-relihiia-stane-naimasovishoui-cherez-desiatylittia)<br>
 
 ## as.com
+18:44 [Kendrick Nunn, qatarí a golpe de talonario](https://as.com/baloncesto/mas_baloncesto/kendrick-nunn-qatari-a-golpe-de-talonario-f202611-n/)<br>
+17:54 [Glenn Micallef: “Es el momento de que el baloncesto europeo se una”](https://as.com/baloncesto/euroliga/glenn-micallef-es-el-momento-de-que-el-baloncesto-europeo-se-una-f202611-n/)<br>
 16:55 [Teague y la oferta del Barça que voló](https://as.com/baloncesto/euroliga/teague-y-la-oferta-del-barca-que-volo-f202611-n/)<br>
 16:51 [“¿Hayes? Espero que esté hambriento"](https://as.com/baloncesto/euroliga/hayes-espero-que-este-hambriento-f202611-n/)<br>
 13:26 [Ndiaye ya puede jugar en la Euroliga](https://as.com/baloncesto/euroliga/ndiaye-ya-puede-jugar-en-la-euroliga-f202611-n/)<br>
@@ -64,6 +69,15 @@ Previous day: [2026-11-18](./data/2026-11-18.md)
 07:44 [Insólito: un árbitro se encara con Doncic en pleno partido](https://as.com/baloncesto/videos/insolito-un-arbitro-se-encara-con-doncic-en-pleno-partido-f202611-v/)<br>
 
 ## www.elperiodico.com
+20:03 [Los maquinistas pactan con Transportes medidas para mejorar la seguridad en las vías ante lluvias extremas](https://www.elperiodico.com/es/economia/20261119/maquinistas-pactan-transportes-medidas-mejorar-seguridad-vias-episodios-climaticos-extremos-lluvias-136634265)<br>
+19:48 [Aplazado el desalojo de una antigua concesionaria de Vilanova donde viven más de veinte personas](https://www.elperiodico.com/es/barcelona/20261119/aplazado-desalojo-antigua-concesionaria-vilanova-donde-viven-mas-veinte-personas-136634398)<br>
+19:22 [Una IA aprende a reconocer palabras escuchando lo mismo que un bebé durante sus primeros 1.000 días](https://www.elperiodico.com/es/tendencias21/20261119/ia-aprende-reconocer-palabras-escuchando-136634084)<br>
+19:21 [Adif realizará el viernes la primera valoración de vía de Urda tras la autorización de la juez](https://www.elperiodico.com/es/economia/20261119/adif-realizara-primera-valoracion-via-urda-136634016)<br>
+19:14 [Los vecinos desalojados del edificio de Badalona proponen al Ayuntamiento un acuerdo para pagar las reparaciones](https://www.elperiodico.com/es/barcelona/20261119/vecinos-desalojados-edificio-badalona-proponen-ayuntamiento-acuerdo-pagar-reparaciones-136632904)<br>
+18:56 [¿Los indicios del caso Andic acorralan realmente a Jonathan? ¿Ha dado un giro la instrucción? 6 claves del auto de la Audiencia](https://www.elperiodico.com/es/sociedad/20261119/audiencia-de-barcelona-jonathan-andic-claves-indicios-pruebas-asesinato-136612009)<br>
+18:12 [Crítica de 'Adolescencia, sexo y muerte en Campamento Miasma': una gozosa celebración del deseo femenino y el cine problemático](https://www.elperiodico.com/es/ocio-y-cultura/20261119/critica-adolescencia-sexo-muerte-campamento-pelicula-cine-136629727)<br>
+17:59 [Una orden de derribo amenaza la supervivencia del emblemático Club Nàutic Bétulo de Badalona](https://www.elperiodico.com/es/barcelona/20261119/orden-derribo-amenaza-supervivencia-emblematico-club-nautic-betulo-badalona-136628859)<br>
+17:56 [Miró, Tàpies y Chillida 'toman' la icónica piazza Navona de Roma](https://www.elperiodico.com/es/ocio-y-cultura/20261119/miro-tapies-chillida-toman-iconica-136627857)<br>
 17:51 [Barcelona aprueba la rehabilitación y conversión en equipamiento público de las nueve casitas que quedan en pie de la Colònia Castells](https://www.elperiodico.com/es/barcelona/20261119/barcelona-aprueba-rehabilitacion-conversion-publico-nueve-casitas-colonia-castells-136566513)<br>
 17:13 [La Policía alerta a los usuarios de 'Grand Theft Auto VI': "En la vida real no hay botón de reiniciar"](https://www.elperiodico.com/es/sucesos/20261119/policia-alerta-usuarios-grand-theft-136627082)<br>
 17:11 [Hablan los primeros fans en probar el videojuego 'GTA VI': "Me acabé calentando y me compré una pantalla OLED para jugar"](https://www.elperiodico.com/es/ocio-y-cultura/20261119/gta-vi-videojuego-hablan-primeros-fans-probar-136624171)<br>
@@ -74,6 +88,7 @@ Previous day: [2026-11-18](./data/2026-11-18.md)
 16:18 [Anthropic debuta con subidas del 33% y capta 74.000 millones en la mayor salida a bolsa](https://www.elperiodico.com/es/economia/20261119/anthropic-debuta-subidas-20-protagoniza-136625205)<br>
 15:59 [TMB inicia una prueba piloto de "horas tranquilas" para personas con autismo e hipersensibilidad en Sagrada Família](https://www.elperiodico.com/es/barcelona/20261119/tmb-prueba-piloto-autismo-hipersensibilidad-horas-tranquilas-tmb-sagrada-familia-136623697)<br>
 15:53 [Aqualia y Global Omnium recurren la adjudicación a Veolia del contrato de agua de 1.000 millones en el área de Barcelona](https://www.elperiodico.com/es/barcelona/20261119/aqualia-global-omnium-recurren-adjudicacion-veolia-contrato-agua-1000-millones-area-barcelona-136623967)<br>
+15:35 [Expertos en turismo religioso descubren una obra de Antoni Gaudí en Montserrat](https://www.elperiodico.com/es/sociedad/20261119/expertos-turismo-religioso-obra-antoni-gaudi-montserrat-136623301)<br>
 14:40 [La consellera Pané se rompe la otra pierna, pero esta vez no coge la baja](https://www.elperiodico.com/es/sanidad/20261119/consellera-pane-rompe-pierna-coge-baja-salut-136619371)<br>
 14:39 [Un sindicato de Mossos denuncia una plaga de ratas e insectos en la sede del Tribunal Superior de Justicia de Catalunya](https://www.elperiodico.com/es/sociedad/20261119/sindicato-mossos-denuncia-plaga-ratas-insectos-tsjc-136620537)<br>
 14:34 [Jordi Savall dirige 'La clemenza di Tito' de Mozart en el Liceu:  "Lo que oiremos no es solamente una orquesta, sino otros colores, otras articulaciones, otros fraseos, otro equilibrio"](https://www.elperiodico.com/es/ocio-y-cultura/20261119/jordi-savall-dirige-clemenza-di-tito-liceu-136620809)<br>

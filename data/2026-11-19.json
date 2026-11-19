@@ -1,5 +1,356 @@
 [
   {
+    "title": "Від ворогів до партнерів: Венесуела відновила військову співпрацю зі США",
+    "link": "https://ua.korrespondent.net/world/4930292-vid-vorohiv-do-partneriv-venesuela-vidnovyla-viiskovu-spivpratsui-zi-ssha",
+    "pubDate": "2026-11-19 20:07:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4645897.jpg\">Менш ніж за рік після затримання Ніколаса Мадуро американськими військовими Венесуела домовилася зі США про відновлення військової співпраці. Угоду вже підписали, але її деталі поки не розголошують.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Los maquinistas pactan con Transportes medidas para mejorar la seguridad en las vías ante lluvias extremas",
+    "link": "https://www.elperiodico.com/es/economia/20261119/maquinistas-pactan-transportes-medidas-mejorar-seguridad-vias-episodios-climaticos-extremos-lluvias-136634265",
+    "pubDate": "2026-11-19 20:03:44",
+    "category": "",
+    "description": "<h2 class=\"item\">Los sinidcatos del sector y el Ministerio de Transportes han acordado suspender el servicio ferroviario cuando se superen ciertos umbrales de precipitación</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261118/protocolo-seguridad-rodalies-semaf-plante-renfe-generalitat-lluvias-136570585\">El SEMAF planta a Renfe y a la Generalitat en la primera reunión para negociar un protocolo por mal tiempo en Rodalies</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261007/nueva-jornada-caos-rodalies-tumba-movilidad-cataluna-135090550\">Nueva jornada de caos en Rodalies marcada por el plante de los maquinistas tras el temporal</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Volkswagen представила новий T-Roc R",
+    "link": "https://ua.korrespondent.net/lifestyle/motors/4930289-Volkswagen-predstavyla-novyi-T-Roc-R",
+    "pubDate": "2026-11-19 19:59:00",
+    "category": "Автомобілі",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4645870.jpg\">Найпотужніший позашляховик Volkswagen на європейському ринку отримав модернізований 2,0-літровий турбодвигун, електричний компресор та повний привід 4MOTION.",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Карпати та Епіцентр планують посилитися взимку фланговими гравцями",
+    "link": "https://ua.korrespondent.net/sport/football/4930290-karpaty-ta-epitsentr-planuuit-posylytysia-vzymku-flanhovymy-hravtsiamy",
+    "pubDate": "2026-11-19 19:59:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4645847.jpg\">Під час зимового трансферного вікна обидві команди шукатимуть гравця на правий фланг оборони.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "\"Arrancan a los niños de los colegios, de las familias y de los territorios para llevarlos a la confrontación armada\"",
+    "link": "https://www.elperiodico.com/es/internacional/20261119/arrancan-ninos-colegios-familias-territorios-136635779",
+    "pubDate": "2026-11-19 19:55:51",
+    "category": "",
+    "description": "<h2>El activista se encuentra en España dentro del programa de acogida de Amnistía Internacional tras haber sufrido varios ataques e intentos de atentado en su país. Hace escasos días visitó Vigo para dar a conocer su realidad y la lucha que continúa en el exilio</h2>",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Ayuso da un espaldarazo a Albiol en Barcelona: \"España tiene 10 días para decidir si se suicida\"",
+    "link": "https://www.elperiodico.com/es/politica/20261119/ayuso-albiol-mitin-barcelona-pp-136631696",
+    "pubDate": "2026-11-19 19:53:13",
+    "category": "",
+    "description": "<h2 class=\"item\">La presidenta de la Comunidad de Madrid ha acusado al PSOE de querer convertir a España \"en una república federal plurinacional laica\" </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261119/albiol-entrevista-elecciones-generales-29n-no-regularizar-inmigrante-no-hable-castellano-catalan-cataluna-136539937\">Xavier García Albiol: \"No se puede regularizar a un inmigrante que no hable castellano o catalán en Catalunya\"</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El PSC sale en tromba contra Junts: \"Puigdemont ha humillado a su partido convirtiéndolo en mascota de PP y Vox\"",
+    "link": "https://www.elperiodico.com/es/politica/20261119/psc-sale-tromba-junts-puigdemont-humillado-mascota-pp-vox-elecciones-generales-136632599",
+    "pubDate": "2026-11-19 19:51:48",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20261119/puigdemont-entrevista-elmundo-campana-electoral-elecciones-generales-sanchez-feijoo-136611926\" target=\"_blank\">Puigdemont entra en campaña atacando a Sánchez: ¿por qué ahora? ¿qué busca Junts con esta decisión?</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261119/puigdemont-entrevista-elmundo-sanchez-ambicion-pactos-psoe-junts-elecciones-generales-136605863\" target=\"_blank\">Carles Puigdemont: \"Nos hemos aprovechado de la ambición de Sánchez para derrotar a España\"</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Aplazado el desalojo de una antigua concesionaria de Vilanova donde viven más de veinte personas",
+    "link": "https://www.elperiodico.com/es/barcelona/20261119/aplazado-desalojo-antigua-concesionaria-vilanova-donde-viven-mas-veinte-personas-136634398",
+    "pubDate": "2026-11-19 19:48:11",
+    "category": "",
+    "description": "<h2>El Ayuntamiento advierte de que el inmueble presenta graves problemas de habitabilidad, salubridad y seguridad, mientras una plataforma social reclama una alternativa residencial para los afectados</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20251022/desalojan-vilanova-geltru-16-personas-asentamiento-insalubre-nave-abandonada-122894491\" target=\"_blank\">Desalojan a 16 personas de un asentamiento \"insalubre\" en una nave abandonada de Vilanova i la Geltrú</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Британія та Норвегія посилять ВМС України бойовими катерами",
+    "link": "https://ua.korrespondent.net/world/4930286-brytaniia-ta-norvehiia-posyliat-vms-ukrainy-boiovymy-kateramy",
+    "pubDate": "2026-11-19 19:48:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4645868.jpg\">Катери оснастять системами ППО, ракетними комплексами та засобами самооборони.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "El cónclave de Trump, Xi y Putin acaba con ataques a la justicia internacional y sin avances en proliferación nuclear",
+    "link": "https://www.elperiodico.com/es/internacional/20261119/reunion-trump-xi-putin-china-corte-penal-internacional-comunicado-136634495",
+    "pubDate": "2026-11-19 19:30:41",
+    "category": "",
+    "description": "<h2>Los tres mandatarios dejan a Europa al margen de las grandes decisiones geopolíticas. Firman una declaración conjunta en la que cuestionan la jurisdicción de la Corte Penal Internacional y proponen reformar la ONU sin concretar cómo</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Muere el actor Larry Poindexter, conocido por sus papeles en 'S.W.A.T.' y 'Friends', tras ser atropellado",
+    "link": "https://www.elperiodico.com/es/tele/20261119/muere-actor-larry-poindexter-conocido-136632959",
+    "pubDate": "2026-11-19 19:25:48",
+    "category": "",
+    "description": "<h2 class=\"item\">El estado de salud del actor empeoró durante la mañana del miércoles tras sufrir graves lesiones en un accidente de tráfico en Los Ángeles</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Colau lleva la campaña estatal a la zona dana en plena batalla contra el \"voto útil\"",
+    "link": "https://www.elperiodico.com/es/politica/20261119/colau-zona-dana-valencia-batalla-voto-util-136634229",
+    "pubDate": "2026-11-19 19:23:39",
+    "category": "",
+    "description": "<h2>La candidata de Frente Amplio y los dirigentes de Compromís Front Valencià muestran \"cooperación\" y se reivindican como fuerza necesaria para hacer \"políticas valientes\" en vivienda</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Una IA aprende a reconocer palabras escuchando lo mismo que un bebé durante sus primeros 1.000 días",
+    "link": "https://www.elperiodico.com/es/tendencias21/20261119/ia-aprende-reconocer-palabras-escuchando-136634084",
+    "pubDate": "2026-11-19 19:22:12",
+    "category": "",
+    "description": "<h2>Los modelos captaron sonidos del habla y miles de palabras prácticamente al mismo ritmo que los propios niños</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Adif realizará el viernes la primera valoración de vía de Urda tras la autorización de la juez",
+    "link": "https://www.elperiodico.com/es/economia/20261119/adif-realizara-primera-valoracion-via-urda-136634016",
+    "pubDate": "2026-11-19 19:21:03",
+    "category": "",
+    "description": "<h2>El gestor ferroviario operará en un entorno de unos 400 metros hasta reponer por completo el servicio</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Трамп закликав США не витрачати кошти на війну",
+    "link": "https://ua.korrespondent.net/world/4930284-tramp-zaklykav-ssha-ne-vytrachaty-koshty-na-viinu",
+    "pubDate": "2026-11-19 19:19:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4645846.jpg\">Під час телефонної розмови з європейськими лідерами Дональд Трамп поставив під сумнів доцільність подальшої військової підтримки України.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los vecinos desalojados del edificio de Badalona proponen al Ayuntamiento un acuerdo para pagar las reparaciones",
+    "link": "https://www.elperiodico.com/es/barcelona/20261119/vecinos-desalojados-edificio-badalona-proponen-ayuntamiento-acuerdo-pagar-reparaciones-136632904",
+    "pubDate": "2026-11-19 19:14:02",
+    "category": "",
+    "description": "<h2>Los afectados están dispuestos a asumir los 1.000 euros que cuesta el apuntalamiento de las viviendas, pero aseguran que no pueden afrontar de golpe el resto de las obras</h2><h2>CONTEXTO |<a href=\"https://www.elperiodico.com/es/barcelona/badalona/20261107/badalona-san-roque-edificio-covadonga-desalojado-ayuntamiento-albiol-136207827\" target=\"_blank\"> Afectados por el edificio desalojado en Badalona reclaman un techo más allá de la solución que ha ofrecido el ayuntamiento</a></h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20261104/desalojan-edificio-cinco-plantas-badalona-al-detectar-un-vecino-una-grieta-sospechosa-136091766\" target=\"_blank\">Desalojan un edificio de cinco plantas de Badalona al detectar un vecino una grieta sospechosa</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Junta Electoral deja a Podemos fuera del debate a cuatro de la próxima semana",
+    "link": "https://www.elperiodico.com/es/politica/20261119/junta-electoral-deja-fuera-debate-podemos-irene-montero-136633475",
+    "pubDate": "2026-11-19 19:13:04",
+    "category": "",
+    "description": "<h2>El árbitro electoral señala que no existe un \"derecho\" de todas las candidaturas a estar representadas en este tipo de formatos</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Рютте прокоментував зустріч лідерів США, Китаю та Росії",
+    "link": "https://ua.korrespondent.net/world/4930278-ruitte-prokomentuvav-zustrich-lideriv-ssha-kytaui-ta-rosii",
+    "pubDate": "2026-11-19 19:01:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4645787.jpg\">Генсек НАТО вважає \"нормальними\" переговори між главами ядерних держав і похвалив Трампа за зусилля щодо досягнення миру.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Skoda prevé cerrar 2026 con 45.000 matriculaciones en España y encadenar su cuarto récord consecutivo",
+    "link": "https://www.elperiodico.com/es/motor/20261119/skoda-preve-cerrar-2026-45000-matriculaciones-espana-136632423",
+    "pubDate": "2026-11-19 19:00:33",
+    "category": "",
+    "description": "<h2>La marca checa crecerá en torno al 6% este ejercicio impulsada por el tirón de sus modelos eléctricos y el canal de empresas </h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La presunta acosadora de Niña Pastori detenida en Lleida ingresa en prisión en Cádiz",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261119/presunta-acosadora-nina-pastori-detenida-136632493",
+    "pubDate": "2026-11-19 18:58:15",
+    "category": "",
+    "description": "",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "¿Los indicios del caso Andic acorralan realmente a Jonathan? ¿Ha dado un giro la instrucción? 6 claves del auto de la Audiencia",
+    "link": "https://www.elperiodico.com/es/sociedad/20261119/audiencia-de-barcelona-jonathan-andic-claves-indicios-pruebas-asesinato-136612009",
+    "pubDate": "2026-11-19 18:56:47",
+    "category": "",
+    "description": "<h2 class=\"item\">Los magistrados dan oxígeno a la defensa del hijo del magnate, no solo cuestionando alguno de los indicios, sino también con el voto particular de uno de los tres jueces contra la prisión eludible bajo fianza</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sucesos/20261118/audiencia-barcelona-acredita-isak-andic-terapeuta-apartar-jonathan-mango-plan-oculto-136589529\">La Audiencia de Barcelona acredita que Isak Andic y la terapeuta tenían un plan \"oculto\" para apartar para siempre a Jonathan de Mango</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Márquez: \"Pogacar tenía la Vuelta ganada y una piedrecita le dejó sin el triunfo que perseguía\"",
+    "link": "https://www.elperiodico.com/es/deportes/20261119/marquez-pogacar-tenia-vuelta-ganada-136631073",
+    "pubDate": "2026-11-19 18:48:11",
+    "category": "",
+    "description": "<h2 class=\"item\">Se ha pasado la semana previa a la cita decisiva de Portugal encerrado en el gimnasio, haciendo bici sobre el rodillo, descansando y alimentándose bien. Nada de moto. Había que minimizar riesgos. Necesita 14 puntos de los 74 que quedan en juego en el Mundial, demasiado fácil como para asumir riesgos innecesarios. Por eso ha pensado tanto, tanto, en el esloveno Tadej Pogacar.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La Junta Electoral avala el vídeo del PP generado por IA que suplantaba a Begoña Gómez y a José Luís Ábalos",
+    "link": "https://www.elperiodico.com/es/politica/20261119/junta-electoral-avala-video-pp-ia-begona-gome-136632137",
+    "pubDate": "2026-11-19 18:47:10",
+    "category": "",
+    "description": "<h2>El árbitro electoral abre un expediente a Tellado (PP) por pedir el voto antes del inicio de la campaña electoral</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Kendrick Nunn, qatarí a golpe de talonario",
+    "link": "https://as.com/baloncesto/mas_baloncesto/kendrick-nunn-qatari-a-golpe-de-talonario-f202611-n/",
+    "pubDate": "2026-11-19 18:44:54",
+    "category": "Baloncesto",
+    "description": "El escolta del Panathinaikos, para muchos el mejor jugador de la Euroliga, estará en el próximo Mundial como gran referente de la selección anfitriona.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Seat Ibiza: Larga vida al superventas",
+    "link": "https://www.elperiodico.com/es/motor/20261119/seat-ibiza-larga-vida-superventas-136530913",
+    "pubDate": "2026-11-19 18:30:26",
+    "category": "",
+    "description": "<h2>El modelo de la marca española adquiere madurez con una oferta muy completa, sostenible y llena de altas prestaciones, tanto físicas como emocionales</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Port de Barcelona reclama ampliar la AP-7 para salvaguardar la competitividad empresarial: \"No nos debe dar miedo hablarlo\"",
+    "link": "https://www.elperiodico.com/es/barcelona/20261119/port-barcelona-reclama-ampliar-ap-136628491",
+    "pubDate": "2026-11-19 18:25:46",
+    "category": "",
+    "description": "<h2>El presidente reconoce que el ferrocarril deberá tener mucho más peso, pero también argumenta que la \"infraestructura crítica\" es la AP-7 </h2><h2>CONTEXTO | <a href=\"https://www.elperiodico.com/es/sociedad/20260901/cinco-anos-sin-peajes-autopistas-cataluna-ap7-mas-trafico-accidentes-averias-133830458\">Cinco años sin peajes tensionan la AP-7: un 33% más de muertes y un 40% más de averías</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Jordi Llach, director general de Nestlé, sustituye a Ignacio Silva al frente de la patronal de la industria alimentaria",
+    "link": "https://www.elperiodico.com/es/economia/20261119/jordi-llach-director-general-nestle-136630824",
+    "pubDate": "2026-11-19 18:20:20",
+    "category": "",
+    "description": "<h2>La Federación Española de Industrias de Alimentación y Bebidas renueva también su consejo con la incorporación de tres nuevos representantes para afrontar los retos de competitividad y sostenibilidad del sector</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Los registradores cuestionan las leyes de vivienda: \"Se firman un 20% menos de contratos de alquiler y a cada piso optan más de 300 personas\"",
+    "link": "https://www.elperiodico.com/es/economia/20261119/registradores-leyes-vivienda-alquiler-propuestas-facilitar-acceso-congreso-barcelona-136628433",
+    "pubDate": "2026-11-19 18:20:12",
+    "category": "",
+    "description": "<h2>\"La injerencia de los legisladores en el mercado de alquiler es brutal y el último decreto ha sido ya la puntilla\", denuncia el colectivo, que celebra en Barcelona su primer congreso de Cátedras de Derecho Registral</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261113/indice-referencia-ine-actualizacion-alquiler-136397697\" target=\"_blank\">El índice de referencia del INE para la actualización del alquiler escala a máximos del 2,57% en octubre</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Mucho músculo y pocas propuestas: Teddy Riner, exjudoca y candidato a las presidenciales de Francia, se desnuda para una revista",
+    "link": "https://www.elperiodico.com/es/internacional/20261119/musculo-propuestas-candidato-presidenciales-francia-teddy-riner-desnudo-portada-revista-136630762",
+    "pubDate": "2026-11-19 18:19:44",
+    "category": "",
+    "description": "<h2>El pentacampeón olímpico de judo muestra su torso envuelto parcialmente con la bandera francesa y reivindica su ambición política, mientras las dudas sobre sus propuestas y las revelaciones sobre sus negocios con el entorno del rey de Marruecos empiezan a agrietar su campaña</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Укренерго озвучило графіки відключень на п'ятницю",
+    "link": "https://ua.korrespondent.net/ukraine/4930275-ukrenerho-ozvuchylo-hrafiky-vidkluichen-na-piatnytsui",
+    "pubDate": "2026-11-19 18:19:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4645785.jpg\">Графіки погодинних відключень торкнуться усіх категорій споживачів. Обсяг становитиме до трьох черг.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Crítica de 'Adolescencia, sexo y muerte en Campamento Miasma': una gozosa celebración del deseo femenino y el cine problemático",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261119/critica-adolescencia-sexo-muerte-campamento-pelicula-cine-136629727",
+    "pubDate": "2026-11-19 18:12:40",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "De la Fuente y Louzán realizan la ofrenda de la Copa del Mundo al Apóstol en Santiago",
+    "link": "https://www.elperiodico.com/es/deportes/20261119/fuente-louzan-realizan-ofrenda-mundial-apostol-santiago-136630322",
+    "pubDate": "2026-11-19 18:11:01",
+    "category": "",
+    "description": "<h2>El presidente de la RFEF y el seleccionador han presentado ante el patrón de España en la Catedral de Santiago de Compostela el trofeo de campeones del mundo</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Нацбанк знову підняв курс гривні",
+    "link": "https://ua.korrespondent.net/business/financial/4930272-natsbank-znovu-pidniav-kurs-hryvni",
+    "pubDate": "2026-11-19 18:02:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4645765.jpg\">На міжбанку американська валюта втратила в ціні 13 копійок і завершила торги на рівні 44,93-45,00 грн/долар.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un macrodispositivo de Mossos halla cobre robado en una de cada cuatro chatarrerías inspeccionadas",
+    "link": "https://www.elperiodico.com/es/sociedad/20261119/macrodispositivo-mossos-halla-cobre-robado-chatarrerias-mossos-robo-136629556",
+    "pubDate": "2026-11-19 18:00:51",
+    "category": "",
+    "description": "<h2 class=\"item\">La policía ha registrado 29 empresas de gestores de residuos y han localizado 165 kilos de cable de catenaria sustraído</h2><h2 class=\"item\">Se han practicado 45 detenciones en tres meses en el marco del Pla Via</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261106/mossos-estrechan-cerco-chatarreros-corruptos-compran-compran-cobre-robado-cataluna-135798243\">Catalunya estrecha el cerco sobre los chatarreros que compran cobre robado: \"Seremos implacables\"</a></h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Una orden de derribo amenaza la supervivencia del emblemático Club Nàutic Bétulo de Badalona",
+    "link": "https://www.elperiodico.com/es/barcelona/20261119/orden-derribo-amenaza-supervivencia-emblematico-club-nautic-betulo-badalona-136628859",
+    "pubDate": "2026-11-19 17:59:43",
+    "category": "",
+    "description": "<h2>La entidad ya ha recibido la notificación y presentará un recurso ante el TSJC y otro por la vía administrativa para intentar frenar cautelarmente la ejecución</h2><h2>CONETXTO | <a href=\"https://www.elperiodico.com/es/barcelona/badalona/20240626/operacion-salvar-al-club-nautic-betulo-de-badalona-albiol-y-la-oposicion-piden-en-el-congreso-evitar-su-demolicion-104326711\" target=\"_blank\">Operación 'salvar al Club Nàutic Bétulo' de Badalona: Albiol y la oposición piden en el Congreso evitar su demolición</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Miró, Tàpies y Chillida 'toman' la icónica piazza Navona de Roma",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261119/miro-tapies-chillida-toman-iconica-136627857",
+    "pubDate": "2026-11-19 17:56:13",
+    "category": "",
+    "description": "<h2>La muestra 'Fragmentos, citas y pasajes' llega a la nueva sede de la embajada de España en Roma </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Glenn Micallef: “Es el momento de que el baloncesto europeo se una”",
+    "link": "https://as.com/baloncesto/euroliga/glenn-micallef-es-el-momento-de-que-el-baloncesto-europeo-se-una-f202611-n/",
+    "pubDate": "2026-11-19 17:54:59",
+    "category": "Baloncesto",
+    "description": "El Comisario Europeo de Deporte habla sobre el posible desembarco de la NBA en Europa y los retos del baloncesto en el continente.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los Mossos hacen inspecciones simultáneas en 29 empresas gestoras de residuos buscando cobre robado",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/mossos-inspecciones-simultaneas-29-empresas-video/136628634.shtml",
+    "pubDate": "2026-11-19 17:54:49",
+    "category": "",
+    "description": "",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Уламки дрона пошкодили собор і посольство в центрі Києва",
+    "link": "https://ua.korrespondent.net/city/kiev/4930269-ulamky-drona-poshkodyly-sobor-i-posolstvo-v-tsentri-kyieva",
+    "pubDate": "2026-11-19 17:53:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4645760.jpg\">Унаслідок російської атаки на Київ пошкоджено вікна Володимирського собору та будівлі посольства Австрії. Також є загиблий, п'ятеро постраждалих і понівечені автомобілі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Barcelona aprueba la rehabilitación y conversión en equipamiento público de las nueve casitas que quedan en pie de la Colònia Castells",
     "link": "https://www.elperiodico.com/es/barcelona/20261119/barcelona-aprueba-rehabilitacion-conversion-publico-nueve-casitas-colonia-castells-136566513",
     "pubDate": "2026-11-19 17:51:05",
@@ -448,6 +799,15 @@
     "description": "<h2>Cierto independentismo juega a que la confrontación con una derecha española dura le resultará más rentable en el camino a la independencia que la distensión impulsada en los años de gobierno socialista</h2>",
     "topic": "вибори (але не президента України чи США)",
     "topic_match_probability": 80
+  },
+  {
+    "title": "Expertos en turismo religioso descubren una obra de Antoni Gaudí en Montserrat",
+    "link": "https://www.elperiodico.com/es/sociedad/20261119/expertos-turismo-religioso-obra-antoni-gaudi-montserrat-136623301",
+    "pubDate": "2026-11-19 15:35:46",
+    "category": "",
+    "description": "<h2>La abadía ha acogido unas jornadas para reflexionar sobre el legado del arquitecto en el marco del Any Gaudí con especialistas en arquitectura, filosofía, teología y turismo que han podido contemplar una obra singular en el Rosario Monumental del Camí de la Cova</h2>",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Abascal desacredita el debate Sánchez-Feijóo y aguarda su turno para confrontarles",
