@@ -1,3 +1,23 @@
-# News for 2026-11-19 03:13
+# News for 2026-11-19 08:55
 
 Previous day: [2026-11-18](./data/2026-11-18.md)
+
+## ua.korrespondent.net
+05:27 [Вчені спрогнозували, яка релігія стане наймасовішою через десятиліття](https://ua.korrespondent.net/world/4930023-vcheni-sprohnozuvaly-yaka-relihiia-stane-naimasovishoui-cherez-desiatylittia)<br>
+
+## as.com
+07:44 [Insólito: un árbitro se encara con Doncic en pleno partido](https://as.com/baloncesto/videos/insolito-un-arbitro-se-encara-con-doncic-en-pleno-partido-f202611-v/)<br>
+
+## www.elperiodico.com
+08:51 [El Ibex 35 busca romper su racha bajista ante el debut de Anthropic en Wall Street](https://www.elperiodico.com/es/economia/20261119/ibex-35-busca-romper-racha-136603926)<br>
+08:40 [Ángel Fisac, profesor de FP de albañilería: "Pregunté a mis 13 alumnos cuántos querían aprender el oficio, ninguno levantó la mano"](https://www.elperiodico.com/es/economia/20261119/angel-fisac-profesor-fp-albanileria-alumnos-oficio-dv-136373810)<br>
+08:25 [Miguel, fisioterapeuta y propietario de tres pisos en Madrid tras emigrar: "Me fui a Suiza con un objetivo claro y en dos años he conseguido comprar mi libertad"](https://www.elperiodico.com/es/economia/20261119/miguel-fisioterapeuta-propietario-tres-pisos-madrid-suiza-libertad-dv-136363291)<br>
+08:15 [Padre Julio, sacerdote: "Un cura duda de la existencia de Dios todos los días. Yo mismo celebro misa y pienso: esto es imposible"](https://www.elperiodico.com/es/sociedad/20261119/padre-julio-sacerdote-cura-duda-existencia-dios-dv-136582744)<br>
+07:25 [¿Cuándo empiezan a ser los días más largos en Catalunya?](https://www.elperiodico.com/es/ciencia/20261119/dias-largos-cataluna-noches-cortas-solsticio-invierno-otono-dv-136565683)<br>
+07:10 [Melisa (36 años), cuidadora colombiana en España: "Llaman y cogen a mucha gente para el verano o solo un año y luego les cancelan"](https://www.elperiodico.com/es/economia/20261119/cuidadora-ancianos-dependientes-sueldo-trabajo-melisa-colombiana-dv-136385312)<br>
+06:01 [Anthropic sale hoy a bolsa: quién gana y quién pierde con el gigante de la IA](https://www.elperiodico.com/es/tecnologia/20261119/anthropic-sale-hoy-bolsa-gana-pierde-acciones-ia-claude-136594437)<br>
+06:01 [Barcelona gana peso en el futuro de la IA](https://www.elperiodico.com/es/opinion/20261119/barcelona-cnmc-oficina-regulacion-ia-136594083)<br>
+06:01 [Dario Amodei, el cerebro de Anthropic que quiere salvar al mundo de los riesgos de la IA](https://www.elperiodico.com/es/tecnologia/20261119/dario-amodei-anthropic-salida-bolsa-ia-riesgos-claude-136510101)<br>
+06:00 [El 60% de las 'startups' españolas están fundadas solo por hombres](https://www.elperiodico.com/es/economia/20261119/60-startups-espanolas-solo-hombres-equipo-fundador-136568451)<br>
+06:00 [El ictus del despertar: ¿por qué hay un 70% más de posibilidades de sufrir un infarto cerebral por la mañana?](https://www.elperiodico.com/es/sociedad/20261119/ictus-despertar-mas-posibilidades-infarto-cerebral-matinal-136423154)<br>
+06:00 [El grupo italiano Namirial instaura en Barcelona su 'hub' comercial global y crece con la compra de Send2sign](https://www.elperiodico.com/es/economia/20261119/italiana-namirial-crece-compra-send2sign-barcelona-hub-talento-136499574)<br>
