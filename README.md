@@ -1,3 +1,7 @@
-# News for 2026-11-20 02:17
+# News for 2026-11-20 05:04
 
 Previous day: [2026-11-19](./data/2026-11-19.md)
+
+## www.elperiodico.com
+04:50 ['Nit blava a Ginebra', de Mercè Comas: los secretos del exilio ginebrino de Rodoreda](https://www.elperiodico.com/es/ocio-y-cultura/libros/20261120/critica-nit-blava-ginebra-eva-comas-arnal-136250037)<br>
+04:50 ['Elogio del derecho', de Víctor Ferreres: un ‘El mundo de Sofía’ del derecho](https://www.elperiodico.com/es/ocio-y-cultura/libros/20261120/victor-ferreres-critica-libro-elogio-derecho-136163783)<br>

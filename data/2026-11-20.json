@@ -1,5 +1,86 @@
 [
   {
+    "title": "Республіканці розкритикували Трампа за результати зустрічі з Сі та Путіним",
+    "link": "https://ua.korrespondent.net/world/4930348-respublikantsi-rozkrytykuvaly-trampa-za-rezultaty-zustrichi-z-si-ta-putinym",
+    "pubDate": "2026-11-20 04:54:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4646369.jpg\">\"Декларація про мир\", яку ухвалили лідери США, Китаю та Росії, у Конгресі назвали \"великою помилкою\".",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "'Nit blava a Ginebra', de Mercè Comas: los secretos del exilio ginebrino de Rodoreda",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20261120/critica-nit-blava-ginebra-eva-comas-arnal-136250037",
+    "pubDate": "2026-11-20 04:50:41",
+    "category": "",
+    "description": "<h2>La autora aborda los años más decisivos de la barcelonesa, cuando escribió ‘La plaça del diamant’ </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "No hay derecho a la equidistancia",
+    "link": "https://www.elperiodico.com/es/opinion/20261120/equidistancia-ultraderecha-elecciones-ines-martin-rodrigo-articulo-136572419",
+    "pubDate": "2026-11-20 04:50:40",
+    "category": "",
+    "description": "<h2>Que tus palabras sean leídas es un enorme privilegio, y una gran responsabilidad, por eso nunca se me ocurriría usarlas para pedir el voto para un determinado partido político en unas elecciones, pero sí para narrar hechos y reproducir declaraciones </h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "'Elogio del derecho', de Víctor Ferreres: un ‘El mundo de Sofía’ del derecho",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20261120/victor-ferreres-critica-libro-elogio-derecho-136163783",
+    "pubDate": "2026-11-20 04:50:40",
+    "category": "",
+    "description": "<h2> Este libro es una carta de amor al derecho y un escudo contra los que luchan para desprestigiarlo</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росіяни атакували лікарню у Харкові: є постраждалі",
+    "link": "https://ua.korrespondent.net/city/kharkov/4930350-rosiiany-atakuvaly-likarnui-u-kharkovi-ye-postrazhdali",
+    "pubDate": "2026-11-20 04:21:00",
+    "category": "Харків",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4646388.jpg\">Внаслідок влучання ворожого безпілотника четверо людей постраждало, вибито понад 50 вікон.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "У НАТО визнали успіх ударів вглиб Росії",
+    "link": "https://ua.korrespondent.net/ukraine/4930346-u-nato-vyznaly-uspikh-udariv-vhlyb-rosii",
+    "pubDate": "2026-11-20 03:46:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4646350.jpg\">Російські окупанти два місяці поспіль втрачали більше територій, ніж захоплювали, а удари по НПЗ повертали війну туди, звідки вона прийшла.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "В повітрі Ту-95 і ТУ-160: готується масована атака",
+    "link": "https://ua.korrespondent.net/ukraine/4930344-v-povitri-tu-95-i-tu-160-hotuietsia-masovana-ataka",
+    "pubDate": "2026-11-20 03:15:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4646331.jpeg\">Щонайменше 11 стратегічних бомбардувальників піднялися в небо. Ракети можуть бути над Україною вже за годину.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "У РФ дрони атакували хімзавод",
+    "link": "https://ua.korrespondent.net/world/russia/4930342-u-rf-drony-atakuvaly-khimzavod",
+    "pubDate": "2026-11-20 02:54:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4646312.jpg\">Завод Дорогобуж виготовляє аміачну селітру, компоненти якої можуть мати промислове застосування як у цивільному, так і у військовому секторах.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Зеленський: Європейські лідери не поїдуть домовлятися в Москву",
+    "link": "https://ua.korrespondent.net/ukraine/4930335-zelenskyi-yevropeiski-lidery-ne-poidut-domovliatysia-v-moskvu",
+    "pubDate": "2026-11-20 02:23:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4646196.jpg\">Український лідер вважає, що для представників Європи було б помилкою їхати до Москви на запрошення Путіна.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "У керівництві Державіаслужби відбулися обшуки",
     "link": "https://ua.korrespondent.net/ukraine/4930340-u-kerivnytstvi-derzhaviasluzhby-vidbulysia-obshuky",
     "pubDate": "2026-11-20 01:49:00",
