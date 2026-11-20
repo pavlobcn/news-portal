@@ -1,17 +1,36 @@
-# News for 2026-11-20 09:43
+# News for 2026-11-20 13:45
 
 Previous day: [2026-11-19](./data/2026-11-19.md)
 
 ## ua.korrespondent.net
+13:29 [В Італії знайшли меч бронзової доби: його вік вразив вчених](https://ua.korrespondent.net/tech/science/4929911-v-italii-znaishly-mech-bronzovoi-doby-yoho-vik-vrazyv-vchenykh)<br>
+12:48 [Саудівська Аравія наростила видобуток нафти на 34%](https://ua.korrespondent.net/business/economics/4930484-saudivska-araviia-narostyla-vydobutok-nafty-na-34)<br>
+11:36 [Курс гривні завершує тиждень зростанням](https://ua.korrespondent.net/business/financial/4930459-kurs-hryvni-zavershuie-tyzhden-zrostanniam)<br>
+10:28 [Доступ до Єдиного вікна частково закрили: що сталося](https://ua.korrespondent.net/ukraine/4930430-dostup-do-yedynoho-vikna-chastkovo-zakryly-scho-stalosia)<br>
+10:22 [Перший за 10 років випадок холери виявили у Південній Кореї](https://ua.korrespondent.net/world/4930427-pershyi-za-10-rokiv-vypadok-kholery-vyiavyly-u-pivdennii-korei)<br>
 09:31 [Жінка натрапила на історичну знахідку - її вартість вражає](https://ua.korrespondent.net/tech/science/4929954-zhinka-natrapyla-na-istorychnu-znakhidku-yii-vartist-vrazhaie)<br>
 09:27 [НБА: Міннесота та Голден Стейт зазнали поразок](https://ua.korrespondent.net/sport/basketball/4930397-nba-minnesota-ta-holden-steit-zaznaly-porazok)<br>
 
 ## as.com
+11:55 [ACB y FEB, unidos en el frente común español de la Liga U](https://as.com/baloncesto/mas_baloncesto/acb-y-feb-unidos-en-el-frente-comun-espanol-de-la-liga-u-f202611-n/)<br>
 07:40 [No se habla de otra cosa en la NBA: la locura de Wembanyama que sólo él puede hacer](https://as.com/baloncesto/videos/no-se-habla-de-otra-cosa-en-la-nba-la-locura-de-wembanyama-que-solo-el-puede-hacer-f202611-v/)<br>
 07:15 [Esperando a Killian](https://as.com/baloncesto/euroliga/esperando-a-killian-f202611-n/)<br>
 07:15 [El camino del Olympiacos y del Madrid tiene baches](https://as.com/baloncesto/euroliga/el-camino-del-olympiacos-y-del-madrid-tiene-baches-f202611-n/)<br>
 
 ## www.elperiodico.com
+13:42 [Javier Castillo, a punto de lanzar su libro más difícil de escribir: "El dolor me impedía trabar pero al final logré moldearlo y lo incluí en este libro"](https://www.elperiodico.com/es/ocio-y-cultura/20261120/javier-castillo-punto-lanzar-libro-136661510)<br>
+13:41 [Endesa inicia el vaciado del canal hidroeléctrico de Gavet para realizar labores de mantenimiento](https://www.elperiodico.com/es/sociedad/20261120/endesa-inicia-vaciado-canal-hidroelectrico-136660855)<br>
+13:39 [¿Qué ocurre al alcanzar las 6 estrellas en 'GTA VI' y por qué es imposible escapar?](https://www.elperiodico.com/es/videojuegos/20261120/ocurre-alcanzar-6-estrellas-gta-136658235)<br>
+13:21 [¿En qué lugares icónicos de Barcelona se desarrolla 'Citas: La película'?](https://www.elperiodico.com/es/que-hacer/planes/20261120/localizaciones-barcelona-citas-la-pelicula-hoteles-coctelerias-136610130)<br>
+13:18 [Uno de cada cuatro españoles tiene hígado graso y, muchos, lo desconocen: los hepatólogos piden pruebas para detectarlo antes](https://www.elperiodico.com/es/sanidad/20261120/cuatro-espanoles-higado-graso-desconocen-hepatologos-pruebas-detectarlo-antes-136657840)<br>
+13:05 [Kit de emergencia para 72 horas: qué conviene tener en casa y qué recomienda la Unión Europea](https://www.elperiodico.com/es/vida-y-estilo/20261120/apagon-17-noviembre-kit-emergencia-72-horas-union-europea-simpson-dv-136495443)<br>
+12:21 [Jennifer Lawrence confirma que lleva nuevos implantes mamarios](https://www.elperiodico.com/es/gente/20261120/jennifer-lawrence-confirma-lleva-nuevos-136657248)<br>
+12:11 [La AMB destina 8,8 millones a renovar el colector que conecta Castelldefels y Gavà con la depuradora](https://www.elperiodico.com/es/barcelona/20261120/amb-destina-8-8-millones-renovar-colector-conecta-castelldefels-gava-136656975)<br>
+12:00 [Sandra Hüller, actriz: "Corremos el riesgo de que las mujeres tengan que volver a esconderse para sobrevivir"](https://www.elperiodico.com/es/ocio-y-cultura/20261120/sandra-huller-actriz-corremos-riesgo-136634849)<br>
+11:56 [Catalunya se cuela en 'GTA VI': así puedes encontrar sus calles y guiños ocultos en el juego](https://www.elperiodico.com/es/catalunya/20261120/cataluna-grand-theft-auto-vi-gta-vi-videojuego-ubicaciones-miami-rockstar-games-dv-136652670)<br>
+11:39 [ÁLAVA una escapada muy natural](https://www.elperiodico.com/es/vida-y-estilo/20261120/alava-escapada-natural-bc-136656432)<br>
+11:12 [Medalla de honor de la Generalitat al periodista de EL PERIÓDICO Jesús G. Albalat](https://www.elperiodico.com/es/fotos/sociedad/medalla-honor-generalitat-periodista-periodico-jesus-g-albalat-fotos-136655179)<br>
+10:34 [Fibras recicladas, alianzas entre empresas y segunda mano: así combaten el exceso de residuo textil los grandes grupos de la moda](https://www.elperiodico.com/es/economia/20261120/asi-combaten-exceso-residuo-textil-grandes-empresas-fibras-recicladas-alianzas-empresas-segunda-mano-136512761)<br>
 09:40 [Un misterioso antepasado humano pudo convivir con el Homo erectus en la antigua China](https://www.elperiodico.com/es/tendencias21/20261120/misterioso-antepasado-humano-pudo-convivir-136651941)<br>
 09:35 [El Ibex 35 se deja casi un 0,9% en la apertura ante las dudas sobre el auge de la IA](https://www.elperiodico.com/es/economia/20261120/ibex-35-deja-0-9-136651635)<br>
 09:08 [Ashton Kutcher da el pelotazo con Anthropic: su inversión de 395 millones ya vale más de 6.400 millones de euros](https://www.elperiodico.com/es/gente/20261120/ashton-kutcher-anthropic-inversion-millonaria-inteligencia-artificial-136649906)<br>
