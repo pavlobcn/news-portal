@@ -1,5 +1,419 @@
 [
   {
+    "title": "Bruselas propone recortar más del 50% los días de pesca para Catalunya",
+    "link": "https://www.elperiodico.com/es/internacional/20261120/bruselas-propone-reducir-mitad-dias-pesca-cataluna-nueva-propuesta-136683105",
+    "pubDate": "2026-11-20 21:44:47",
+    "category": "",
+    "description": "<h2>\"Hemos pedido una reunión urgente con el comisario y iremos hasta el final para defender la continuidad de la pesca\", ha denunciado Òscar Ordeig, el Conseller d'Agricultura, en la red social 'X'</h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Barcelona - Estrella Roja, en directo: Euroliga de baloncesto 2026-27 en vivo hoy",
+    "link": "https://as.com/baloncesto/euroliga/barcelona-estrella-roja-en-directo-euroliga-de-baloncesto-2026-27-en-vivo-hoy-f202611-d/",
+    "pubDate": "2026-11-20 21:43:59",
+    "category": "Baloncesto",
+    "description": "Sigue la retransmisión en directo del partido de la jornada 13 de la Euroliga de baloncesto entre Barcelona y Estrella Roja; hoy, a las 20:30, en As.com.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Olympiacos – Real Madrid, en directo: Euroliga 2026-27 en vivo hoy",
+    "link": "https://as.com/baloncesto/euroliga/olympiacos-real-madrid-en-directo-euroliga-2026-27-en-vivo-hoy-f202611-d/",
+    "pubDate": "2026-11-20 21:43:18",
+    "category": "Baloncesto",
+    "description": "Sigue la retransmisión en directo de la decimotercera jornada de la Euroliga, entre el Olympiacos y el Real Madrid hoy, a las 20:15, en As.com.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "\"Ведмежий капкан\" на Харківщині: ЗСУ звільнили 14 сіл",
+    "link": "https://ua.korrespondent.net/ukraine/4930642-vedmezhyi-kapkan-na-kharkivschyni-zsu-zvilnyly-14-sil",
+    "pubDate": "2026-11-20 21:38:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4647416.jpg\">Українські військові провели операцію \"Ведмежий капкан\" на Харківщині, зірвали плани росіян оточити близько 2 тисяч захисників і повернули під контроль 14 населених пунктів та майже 200 квадратних кілометрів території.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Rosalía, Aitana y Guitarricadelafuente desatan la locura en una alfombra roja de Los40 Music Awards en Barcelona marcada por la política: \"Es un momento delicado\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261120/rosalia-aitana-guitarricadelafuente-desatan-locura-136680905",
+    "pubDate": "2026-11-20 21:36:56",
+    "category": "",
+    "description": "<h2 class=\"item\">La celebración anual de los galardones de la emisora ha reunido a artistas como Estopa, Carlos Vives, Olivia Dean, Quevedo, Lola Índigo y Ana Mena, entre otros, así como 'influencers' como Lola Lolita, Dulceida y Laura Escanes</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Lamborghini представила кабріолет-суперкар Temerario",
+    "link": "https://ua.korrespondent.net/lifestyle/motors/4930644-Lamborghini-predstavyla-kabriolet-superkar-Temerario",
+    "pubDate": "2026-11-20 21:34:00",
+    "category": "Автомобілі",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4647417.jpg\">Відкритий суперкар отримав складаний жорсткий дах з електроприводом, 4,0-літровий двигун V8 із трьома електродвигунами та максимальну швидкість у 343 км/год.",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Neomotor Premium 2026: Leapmotor B03X, tecnológico y asequible",
+    "link": "https://www.elperiodico.com/es/motor/20261120/neomotor-premium-2026-leapmotor-b03x-136560416",
+    "pubDate": "2026-11-20 21:30:33",
+    "category": "",
+    "description": "<h2>Disponible desde 17.500 euros (con descuentos), este nuevo SUV del segmento B se fabricará en España</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Sánchez recupera su perfil más combativo en Santiago y llama a las urnas para frenar a la derecha",
+    "link": "https://www.elperiodico.com/es/politica/20261120/pedro-sanchez-santiago-136682908",
+    "pubDate": "2026-11-20 21:25:22",
+    "category": "",
+    "description": "<h2>Más de 6.000 personas llenaron Fontes do Sar para arropar al presidente, que aparcó el modo zen del debate, arremetió contra Feijóo y reivindicó el salario mínimo, las pensiones dignas, los derechos de las mujeres y una política humanista frente a la ultraderecha</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "\"Індустріальний Рамштайн\": Німеччина зробить перший внесок",
+    "link": "https://ua.korrespondent.net/business/financial/4930638-industrialnyi-ramshtain-nimechchyna-zrobyt-pershyi-vnesok",
+    "pubDate": "2026-11-20 21:21:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4647402.jpg\"> Кошти дозволять Україні закуповувати обладнання у німецьких виробників, а до ініціативи планують залучити й інші країни.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Puigdemont justifica su irrupción en la campaña electoral: \"No seremos el corderito obediente de la política española\"",
+    "link": "https://www.elperiodico.com/es/politica/20261120/carles-puigdemont-justificacion-entrevista-el-mundo-elecciones-generales-pedro-sanchez-136680326",
+    "pubDate": "2026-11-20 21:10:01",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261119/puigdemont-entrevista-elmundo-campana-electoral-elecciones-generales-sanchez-feijoo-136611926\">Puigdemont entra en campaña atacando a Sánchez: ¿por qué ahora? ¿qué busca Junts con esta decisión?</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261120/quien-es-miriam-nogueras-candidata-junts-per-catalunya-elecciones-generales-perfil-136412986\">Miriam Nogueras, la boxeadora de Puigdemont en el Congreso</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Росіяни вдарили по ресторану в Кривому Розі",
+    "link": "https://ua.korrespondent.net/ukraine/4930636-rosiiany-vdaryly-po-restoranu-v-kryvomu-rozi",
+    "pubDate": "2026-11-20 21:03:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4647387.jpg\">Російські війська атакували центр Кривого Рогу двома балістичними ракетами. Поранення дістали 20 людей, зокрема троє дітей.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "El Govern de Illa después del 29N: cómo sobrevivir a un posible cambio de ciclo en Madrid",
+    "link": "https://www.elperiodico.com/es/politica/20261120/cataluna-elecciones-generales-govern-salvador-illa-psoe-sanchez-pp-vox-136586518",
+    "pubDate": "2026-11-20 21:01:02",
+    "category": "",
+    "description": "<h2>El president mantiene públicamente que no contempla otro escenario que no sea el de que Sánchez continúe en la Moncloa, pero deberá reorientar su agenda si el PSOE cae </h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261118/psc-comuns-frente-amplio-sanchez-mataro-ring-sello-progresista-politicas-gobierno-elecciones-generales-136566052\" target=\"_blank\">El PSC y los Comuns convierten Mataró en un ring por el sello de las políticas progresistas del Gobierno</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261117/psc-reforma-constitucion-espana-estado-federal-programa-elecciones-generales-29n-136543701\" target=\"_blank\">El PSC propone reformar la Constitución para que España tenga un modelo federal</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Catalunya activa la alerta de emergencias por viento ante la previsión de fuertes rachas este domingo",
+    "link": "https://www.elperiodico.com/es/tiempo/20261120/cataluna-activa-alerta-emergencias-viento-fuertes-rachas-barcelona-136681986",
+    "pubDate": "2026-11-20 20:52:19",
+    "category": "",
+    "description": "<h2>Durante las primeras horas, el viento soplará con fuerza en la Selva y el Vallès Oriental y se irá extendiendo hacia el sur, afectando a las comarcas del litoral y prelitoral de Barcelona y del Camp de Tarragona</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Данія припиняє видачу віз росіянам",
+    "link": "https://ua.korrespondent.net/world/4930634-daniia-prypyniaie-vydachu-viz-rosiianam",
+    "pubDate": "2026-11-20 20:44:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4647374.jpg\">Данія звинуватила російські спецслужби в організації замаху на вбивство американо-українського громадянина на своїй території.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Tercer fin de semana seguido de huelga de la OBC en L'Auditori: los conciertos, suspendidos",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261120/obc-tercer-fin-de-semana-seguido-huelga-obc-lauditori-conciertos-136680958",
+    "pubDate": "2026-11-20 20:28:39",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Трамп хоче завершити війну в Україні до січня",
+    "link": "https://ua.korrespondent.net/world/4930632-tramp-khoche-zavershyty-viinu-v-ukraini-do-sichnia",
+    "pubDate": "2026-11-20 20:25:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4647373.jpg\">Адміністрація Дональда Трампа прагне домовитися про завершення війни в Україні до початку 2027 року.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Схеми з гуманітарними авто: митниця розкрила масштаби",
+    "link": "https://ua.korrespondent.net/ukraine/4930630-skhemy-z-humanitarnymy-avto-mytnytsia-rozkryla-masshtaby",
+    "pubDate": "2026-11-20 20:08:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4647350.jpg\">Понад 19 тисяч автомобілів ввезли в Україну під виглядом гуманітарної допомоги, але митники виявили ризики їхнього нецільового використання.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Alberto de Mónaco reforma las normas del principado para dar más poder a Charlène: ella asumirá todas las funciones en una eventual sucesión anticipada",
+    "link": "https://www.elperiodico.com/es/gente/20261120/alberto-monaco-reforma-normas-principado-136680434",
+    "pubDate": "2026-11-20 20:04:55",
+    "category": "",
+    "description": "<h2>La reforma modificará el papel institucional que tendría Charlène durante la minoría de edad de Jacques, el hijo heredero de la pareja, que tiene 12 años</h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "El actor Jon Hamm será padre por primera vez a los 55 años junto a Anna Osceola, a la que conoció en la última temporada de 'Mad Men'",
+    "link": "https://www.elperiodico.com/es/gente/20261120/actor-jon-hamm-sera-padre-136658843",
+    "pubDate": "2026-11-20 20:01:03",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los Mossos investigan un caso de acoso inmobiliario a una familia en Barcelona: \"Temo por la vida de mis hijos\"",
+    "link": "https://www.elperiodico.com/es/barcelona/20261120/barcelona-vivienda-acoso-inmobiliario-denuncia-mossos-136677732",
+    "pubDate": "2026-11-20 20:01:02",
+    "category": "",
+    "description": "<h2 class=\"item\">Una mujer acusa a dos hombres de coaccionarla acudiendo a picar a diferentes horas y aporrear la puerta del piso en el que vive, mientras las indagaciones apuntan a la presunta acción de una empresa de desocupación</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20261111/barcelona-vivienda-desahucios-bloques-propiedad-vertical-136011045\">Barcelona media para evitar desahucios en bloques de propiedad vertical: “No quieren renovarnos el alquiler”</a></h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Microchips, satélites y grandes rodajes marcan el rumbo de la industria en Canarias",
+    "link": "https://www.elperiodico.com/es/economia/20261120/microchips-satelites-grandes-rodajes-marcan-136680636",
+    "pubDate": "2026-11-20 20:00:42",
+    "category": "",
+    "description": "<h2>La capital acoge un encuentro de Proexca y El Periódico de España para mostrar cómo las islas se están convirtiendo en el atractivo mundial de proyectos de vanguardia en sectores como el aeroespacial, el audiovisual, los semiconductores, los videojuegos y las TIC</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Feijóo promete recuperar el control migratorio: \"España decidirá quién, cuándo y para qué entra\"",
+    "link": "https://www.elperiodico.com/es/politica/20261120/feijoo-acto-tenerife-elecciones-29n-136680655",
+    "pubDate": "2026-11-20 19:59:48",
+    "category": "",
+    "description": "<h2>El líder del PP plantea, tras visitar El Hierro y Santa Cruz de Tenerife, una presencia permanente de Frontex, el refuerzo policial y el recurso al Ejército cuando lo exija la seguridad nacional</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "¿A qué suena el GTA 6? Una banda sonora de lujo con Dua Lipa, Travis Scott, Lana Del Rey y Rauw Alejandro y hasta un festival",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261120/suena-gta-6-banda-sonora-136680048",
+    "pubDate": "2026-11-20 19:49:23",
+    "category": "",
+    "description": "<h2>El lanzamiento de Grand Theft Auto VI incluye un evento musical especial en Miami que cuenta con un cartel de artistas internacionales que se celebrará este sábado</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Європа вивчає можливість високоточних ударів із космосу",
+    "link": "https://ua.korrespondent.net/world/4930628-yevropa-vyvchaie-mozhlyvist-vysokotochnykh-udariv-iz-kosmosu",
+    "pubDate": "2026-11-20 19:49:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4647345.jpg\">Досі європейські країни покладалися насамперед на США у питаннях дальнобійних ударів високоточними ракетами у разі конфлікту з Росією.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "El Gobierno se ve ganador del debate por dirigirse al voto indeciso y el PP por \"arrollar\" a Pedro Sánchez",
+    "link": "https://www.elperiodico.com/es/politica/20261120/gobierno-ganador-debate-sanchez-feijoo-136673627",
+    "pubDate": "2026-11-20 19:45:08",
+    "category": "",
+    "description": "<h2 class=\"item\">“Feijóo colocó el barro desde el principio. La decisión fue no entrar. Sánchez hizo lo que tiene que hacer un presidente de España”, defiende un ministro socialista</h2><h2 class=\"item\">Uno de los más estrechos colaboradores de Feijóo traslada incluso la enorme sorpresa que le supuso el candidato del PSOE: “Esperábamos un Sánchez mejor”</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Sigue en directo el choque de Liga U entre Burgos Grupo Santiago y Valencia Basket",
+    "link": "https://as.com/baloncesto/videos/sigue-en-directo-el-choque-de-liga-u-entre-burgos-grupo-santiago-y-valencia-basket-f202611-v/",
+    "pubDate": "2026-11-20 19:41:39",
+    "category": "Valencia Basket Club",
+    "description": "¡Vive en directo el partidazo de la Liga U22 en AS.com y todas sus plataformas! El mejor baloncesto juvenil nacional.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Una gira de versiones de villancicos en clave de jazz recorrerá diez ciudades catalanas hasta acabar en Terrassa",
+    "link": "https://www.elperiodico.com/es/barcelona/20261120/gira-versiones-villancicos-clave-jazz-136678105",
+    "pubDate": "2026-11-20 19:39:42",
+    "category": "",
+    "description": "<h2>Joni Witzi Ensemble estrenará el proyecto FUM! FUM! JAZZ! con melodías reimaginadas de 'Fum, fum, fum' o 'Jingle Bells'</h2><h2>RELACIONADO |<a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20261105/u2-confirma-conciertos-barcelona-entradas-fechas-136113771\"> Fin de la espera: U2 confirma los conciertos en Barcelona y Sevilla de su gira ‘The greatest show on earth’</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Feijóo y Plex, el novio de Aitana, grabarán juntos un vídeo que se emitirá el martes",
+    "link": "https://www.elperiodico.com/es/tele/20261120/feijoo-plex-novio-aitana-grabaran-136679768",
+    "pubDate": "2026-11-20 19:37:42",
+    "category": "",
+    "description": "<h2>Daniel Alonso Agúndez, conocido como Plex, se suma a la lista de perfiles digitales elegidos por el Partido Popular para acercar la figura de Alberto Núñez Feijóo a los jóvenes</h2>",
+    "topic": "блогери",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Illa defiende desde Navarra la España \"plural y diversa\" frente a PP y Vox: \"No respetan nuestra voluntad de autogobierno\"",
+    "link": "https://www.elperiodico.com/es/politica/20261120/salvador-illa-espana-plural-navarra-pamplona-pp-vox-autogobierno-respeto-voluntad-elecciones-generales-psoe-136677555",
+    "pubDate": "2026-11-20 19:36:36",
+    "category": "",
+    "description": "<h2>Hereu advierte a Junts de que \"pagará\" en las urnas el movimiento de Puigdemont de atacar a Sánchez pese a haber aprobado la amnistía: \"Quedará para la historia, ha fallado a los catalanes\"</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261120/salvador-illa-elogia-serenidad-pedro-sanchez-cara-a-cara-feijoo-obsesionado-elecciones-generales-136657930\" target=\"_blank\">Illa elogia la \"serenidad\" de Sánchez en el cara a cara y acusa a Feijóo de estar \"obsesionado\" con él</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261119/psc-sale-tromba-junts-puigdemont-humillado-mascota-pp-vox-elecciones-generales-136632599\" target=\"_blank\">El PSC sale en tromba contra Junts: \"Puigdemont ha humillado a su partido convirtiéndolo en mascota de PP y Vox\"</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Шахтар наздогнав Лівий Берег у 13-му турі УПЛ",
+    "link": "https://ua.korrespondent.net/sport/football/4930626-shakhtar-nazdohnav-livyi-bereh-u-13-mu-turi-upl",
+    "pubDate": "2026-11-20 19:35:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4647320.jpg\">Донецька команда змогла зіграти з київським клубом лише внічию, якою завершився матч 13-го туру чемпіонату України.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Márquez reconoce la presión: \"Este título solo puedo perderlo yo\"",
+    "link": "https://www.elperiodico.com/es/deportes/20261120/marquez-reconoce-presion-titulo-perderlo-136679151",
+    "pubDate": "2026-11-20 19:31:59",
+    "category": "",
+    "description": "<h2 class=\"item\">Ninguno de los tres candidatos al título ha ido muy, muy, rápido hoy en Portimao (Portugal). Bueno, era viernes, cierto. Marc Márquez ha terminado sexto; Jorge Martín, décimo y Marco Bezzecchi, tercero. ¿El mejor? Vaya, Àlex Márquez, del quirófano a la 'pole' provisional.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Італію охопили масові протести: на вулиці вийшли 1,5 млн людей",
+    "link": "https://ua.korrespondent.net/world/4930624-italiui-okhopyly-masovi-protesty-na-vulytsi-vyishly-15-mln-luidei",
+    "pubDate": "2026-11-20 19:30:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4647333.jpg\">В Італії 20 листопада відбувся масштабний загальний страйк, до якого, за даними профспілок, долучилися 1,5 мільйона людей.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "У Польщі пояснили, чому не збили російські ракети",
+    "link": "https://ua.korrespondent.net/world/4930622-u-polschi-poiasnyly-chomu-ne-zbyly-rosiiski-rakety",
+    "pubDate": "2026-11-20 19:19:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4647332.jpg\">Виявлені об’єкти могли бути ракетами Х-101 або реактивними дронами \"Герань-5\".",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Tesla планує створити Model Y без керма та педалей",
+    "link": "https://ua.korrespondent.net/lifestyle/motors/4930620-Tesla-planuie-stvoryty-Model-Y-bez-kerma-ta-pedalei",
+    "pubDate": "2026-11-20 19:08:00",
+    "category": "Автомобілі",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4647319.jpg\">Ілон Маск заявив про розробку безпілотної версії кросовера на шість або сім пасажирів, яка доповнить двомісне роботаксі Cybercab.",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los jóvenes de Europa protestan contra el alza del coste de la vida y la militarización",
+    "link": "https://www.elperiodico.com/es/internacional/20261120/jovenes-europa-protestan-alza-coste-vida-militarizacion-136678397",
+    "pubDate": "2026-11-20 18:53:50",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "На Гран-прі Фінляндії український фігурист виступив краще за фаворита",
+    "link": "https://ua.korrespondent.net/sport/4930617-na-hran-pri-finliandii-ukrainskyi-fihuryst-vystupyv-krasche-za-favoryta",
+    "pubDate": "2026-11-20 18:52:00",
+    "category": "Новини спорту",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4647293.jpg\">Український фігурист Кирило Марсак у Гельсінкі посів 11-те місце, випередивши фаворита змагань.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "У Гватемалі знайшли нові скульптури мая",
+    "link": "https://ua.korrespondent.net/tech/science/4930616-u-hvatemali-znaishly-novi-skulptury-maia",
+    "pubDate": "2026-11-20 18:52:00",
+    "category": "Новини науки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4647306.jpg\">Під час археологічних розкопок у Гватемалі виявили три скульптури голів, зроблені з штукатурки.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росія атакувала чотири райони Дніпропетровщини: є загиблий",
+    "link": "https://ua.korrespondent.net/ukraine/4930609-rosiia-atakuvala-chotyry-raiony-dnipropetrovschyny-ye-zahyblyi",
+    "pubDate": "2026-11-20 18:47:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4647292.jpg\">Російські війська атакували чотири райони Дніпропетровської області безпілотниками та артилерією. Внаслідок обстрілів загинула одна людина, ще одна дістала поранення.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "США прибрали згадку про Україну з \"декларації про мир\" - Стубб",
+    "link": "https://ua.korrespondent.net/world/4930612-ssha-prybraly-zghadku-pro-ukrainu-z-deklaratsii-pro-myr-stubb",
+    "pubDate": "2026-11-20 18:46:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4647304.jpg\">За словами президента Фінляндії, американська сторона вилучила положення через невдалі формулювання.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Honda представила кросовер Avancier на новій платформі",
+    "link": "https://ua.korrespondent.net/lifestyle/motors/4930613-Honda-predstavyla-krosover-Avancier-na-novii-platformi",
+    "pubDate": "2026-11-20 18:46:00",
+    "category": "Автомобілі",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4647294.jpg\">Модель стала першим автомобілем марки на новій середньорозмірній гібридній платформі та отримала систему повного приводу DualPower eAWD.",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El nuevo Volkswagen T-Roc R tiene 333 CV ecológicos",
+    "link": "https://www.elperiodico.com/es/motor/20261120/nuevo-volkswagen-t-roc-r-333-cv-etiqueta-eco-mild-hybrid-mhev-136623127",
+    "pubDate": "2026-11-20 18:39:22",
+    "category": "",
+    "description": "<h2>La versión más deportiva del SUV alemán luce la etiqueta ECO gracias a una microhibridación de 48V</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "На Закарпатті майже 1,5 тисячі осель залишилися без газу",
+    "link": "https://ua.korrespondent.net/ukraine/4930604-na-zakarpatti-maizhe-15-tysiachi-osel-zalyshylysia-bez-hazu",
+    "pubDate": "2026-11-20 18:36:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4647279.jpg\">У селі Сокирниця на Закарпатті тимчасово припинили газопостачання для 1420 споживачів. Причиною стало пошкодження підземного газопроводу через корозію.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "НБА: Мілвокі Бакс близький до історичного антирекорду",
+    "link": "https://ua.korrespondent.net/sport/basketball/4930608-nba-milvoki-baks-blyzkyi-do-istorychnoho-antyrekordu",
+    "pubDate": "2026-11-20 18:33:00",
+    "category": "Новини баскетболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4647264.jpg\">Команда Мілвокі Бакс може завершити сезон регулярного чемпіонату з найгіршими показниками результативності з-поміж всіх учасників в історії Національної баскетбольної асоціації.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El refugio secreto del padre de Lamine Yamal: un pueblo gallego de 19.000 habitantes que esconde un palacio del siglo XVI",
+    "link": "https://www.elperiodico.com/es/gente/20261120/lamine-yamal-padre-monforte-lemos-lugo-galicia-palacio-dv-136361537",
+    "pubDate": "2026-11-20 18:30:00",
+    "category": "",
+    "description": "<h2>El casco antiguo del municipio lucense fue declarado Conjunto histórico-artístico en 1973</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261105/redo-aldea-cantabria-picos-europa-tranquilidad-paz-dv-135880171\">Redo, la pequeña aldea a los pies de los Picos de Europa que conquista por sus casas de piedra y su tranquilidad: \"Parece sacada de un cuento\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/gente/20261108/marcelo-real-madrid-patrimonio-edificio-inversiones-dv-136070214\">Marcelo, exjugador del Real Madrid, sobre su patrimonio: \"Vivo muy bien, no te voy a mentir... he estado 16 años en el Madrid, tengo varios inmuebles\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La policía alerta que los traficantes de marihuana en Catalunya han 'ampliado' el negocio a la cocaína",
+    "link": "https://www.elperiodico.com/es/sociedad/20261120/policia-alerta-traficantes-marihuana-catalunya-cocaina-inversion-136677297",
+    "pubDate": "2026-11-20 18:28:26",
+    "category": "",
+    "description": "<h2>Especialistas en narcotráfico destacan que los beneficios de la marihuana han permitido crear empresas legales para blanquear dinero</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20261118/cocaina-aumenta-catalunya-sobreproduccion-nuevas-rutas-135939725\">La cocaína aumenta en Catalunya debido a la sobreproducción y a las nuevas rutas clandestinas</a></h2>",
+    "topic": "марихуана",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Нацбанк підняв курс гривні вище психологічної межі",
+    "link": "https://ua.korrespondent.net/business/financial/4930606-natsbank-pidniav-kurs-hryvni-vysche-psykholohichnoi-mezhi",
+    "pubDate": "2026-11-20 18:25:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4647280.jpg\">На міжбанку американська валюта втратила в ціні 4 копійки і впала нижче рівня 45 грн/долар.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "ЄС витратив на російські енергоресурси більше, ніж на підтримку України",
     "link": "https://ua.korrespondent.net/world/4930601-yes-vytratyv-na-rosiiski-enerhoresursy-bilshe-nizh-na-pidtrymku-ukrainy",
     "pubDate": "2026-11-20 18:17:00",
@@ -160,6 +574,15 @@
     "description": "<h2>El central danés se ausenta del último entrenamiento por molestias leves en el sóleo de la pierna izquierda</h2>",
     "topic": "спорт",
     "topic_match_probability": 100
+  },
+  {
+    "title": "La segunda amnistía de Puigdemont",
+    "link": "https://www.elperiodico.com/es/opinion/20261120/segunda-amnistia-puigdemont-136674559",
+    "pubDate": "2026-11-20 17:30:57",
+    "category": "",
+    "description": "<h2>El sentido de sus palabras no es otro que dar la razón a la derecha y la ultraderecha madrileñas. Pero porque para él la mejor estrategia es el «cuanto peor, mejor»</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
   },
   {
     "title": "Luna llena octubre 2026: Cuándo ver la superluna del Castor",
@@ -403,6 +826,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4647161.jpg\">Під виглядом евакуації з окупованої Донеччини до Росії примусово вивезли 55 дітей віком від 4 до 12 років. Дев’ятьох із них згодом передали російським родинам.",
     "topic": "політика",
     "topic_match_probability": 80
+  },
+  {
+    "title": "Jordi WIld. Un mundo feliz",
+    "link": "https://www.elperiodico.com/es/opinion/20261120/jordi-wild-mundo-feliz-136670651",
+    "pubDate": "2026-11-20 15:48:55",
+    "category": "",
+    "description": "<h2>Desde que Aragón se convirtió en el Ohio español,<strong> las campañas electorales se americanizaron</strong> más. Y sin tener nada que ver con las de los Estados Unidos porque aquí no elegimos directamente al presidente, aunque las pancartas inciten a creerlo, se empezó a señalar a <strong>algunas autonomías o provincias</strong> como <strong>determinantes.</strong></h2><h2>A <strong>Iván Redondo</strong> le gusta insistir, con razón, en que las elecciones generales no son una, sino cincuenta, más Ceuta y Melilla, porque cada provincia es una circunscripción con sus votos y su número de escaños. Y dependiendo de la participación, el cálculo aplicado para el reparto según la ley d’Hont suele otorgar el último de esos escaños al partido más votado. De ahí que, en momentos de alta competitividad, de repente, Cáceres o Lleida pasen a ser plazas tan importantes para los socialistas como lo es Barcelona. O Huelva y Orense lo sean tanto como Madrid para los populares. </h2><h2>Todo esto ha ido modulando las campañas hasta incidir de manera directa en <strong>los territorios donde los partidos se juegan una posible ventaja.</strong> Igualmente sucede con el <strong>acercamiento a determinados públicos</strong> que pueden amplificar mensajes y orientar votos. Que esta semana Pedro Sánchez <a href=\"https://www.elperiodico.com/es/sociedad/20261119/revista-lecturas-entrevista-pedro-sanchez-agotada-reventa-wallapop-136616023\">se haya convertido en 'chico Lecturas' </a>tampoco es de extrañar. En su momento, <strong>Adolfo Suárez o Felipe González posaron para las páginas de '¡Hola!'.</strong> Y presentarse como un hombre enamorado y lucir atractivo natural es jugar cartas emocionales que no se pueden desperdiciar. Al fin y al cabo, una campaña electoral es lo más parecido al tocino: se aprovecha todo. </h2><h2>Lo mismo sucedió con<strong> la irrupción de las redes sociales.</strong> Aun desconociendo los candidatos de entonces su alcance inicial, sus equipos corrieron a abrirles cuentas y enviar mensajes en su nombre. Cambiaron los mercados por el móvil o el ordenador no fuera que se les viera alejados de su tiempo. De aquellas iniciativas se ha pasado a<strong> las confianzas facilitadas a 'influencers' y 'youtubers'</strong> cuyo alto número de seguidores ha ido copando su atención hasta<strong> concederles el tiempo del que no disponen para los medios tradicionales, </strong>dar rienda suelta a preguntas que cuestionarían si fueran las de cualquier periodista al uso y expresarse con la franqueza que da el tuteo y que no se atreven a aceptar ni mostrar ante públicos más exigentes. Véase el revuelo por<strong> las conversaciones con Jordi Wild. </strong>(Jorge Carrillo de Albornoz Torres, Manresa, 28 de agosto de 1.984). </h2><h2>Primero fue <strong>el plantón de Santiago Abascal. </strong>Decepcionado por habérsele echado atrás, Wild empezó a darse cuenta de donde se había metido. \"Para mí fue un choque anímico importante. Me sentía un poco hundido\", dijo tras un revés que no sorprendería a ningún periodista avezado por ser habitual. <a href=\"https://www.elperiodico.com/es/tele/20261117/elecciones-jordi-wild-136506186\">Después vinieron los encuentros con Sánchez, Feijóo y Colau</a> que convirtieron al comunicador en protagonista porque \"nunca había hecho este tipo de entrevistas mucho más incisivas, de repreguntar, crear momentos de tensión…\" Y Wild se justificaba aduciendo que su formato \"es otro\". A pesar de su esfuerzo y esmero,<strong> Jordi ha hecho autocrítica. </strong>Justificando que “lo he dado todo, pero he cometido mil fallos”, destila lección aprendida. Y <strong>ahora que ya sabe de qué va la historia, </strong>reconoce el desgaste mental sufrido y lo excesivo de su reto, anuncia que regresa a su mundo anterior. Un mundo más feliz, lejos de los políticos.      </h2>",
+    "topic": "блогери",
+    "topic_match_probability": 100
   },
   {
     "title": "El Real Madrid es la llave maestra",
@@ -1627,6 +2059,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4646743.jpg\">Уражені мости Києва та знеструмлення по Україні. Розповідаємо про наслідки масованої ракетно-дронової атаки РФ.",
     "topic": "підсумки (за попередній день, наприклад)",
     "topic_match_probability": 85
+  },
+  {
+    "title": "IKEA tiene una de las colecciones de Navidad más bonitas de la temporada: adornos y detalles para llenar la casa de magia",
+    "link": "https://www.elperiodico.com/es/shopping/20261120/ikea-colecciones-navidad-bonitas-temporada-black-friday-136375682",
+    "pubDate": "2026-11-20 09:55:00",
+    "category": "",
+    "description": "<h2>En el catálogo de IKEA hay una gran variedad de decoración para esta Navidad con la que tu hogar estará más acogedor que nunca</h2>",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 65
   },
   {
     "title": "Підняв знайдений на вулиці дрон: на Харківщині загинув чоловік",
