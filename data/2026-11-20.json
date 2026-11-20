@@ -1,5 +1,635 @@
 [
   {
+    "title": "Un misterioso antepasado humano pudo convivir con el Homo erectus en la antigua China",
+    "link": "https://www.elperiodico.com/es/tendencias21/20261120/misterioso-antepasado-humano-pudo-convivir-136651941",
+    "pubDate": "2026-11-20 09:40:12",
+    "category": "",
+    "description": "<h2>Un diente fósil que no encaja con ninguna de las especies humanas conocidas abre nuevas incógnitas sobre la diversidad de homínidos que habitaban Asia hace cientos de miles de años</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Повітряні сили оцінили масштаб ракетної атаки РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4930405-povitriani-syly-otsinyly-masshtab-raketnoi-ataky-rf",
+    "pubDate": "2026-11-20 09:37:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4646717.jpg\">Більшість ворожих крилатих ракет атакували західні регіони України, а балістику рашисти спрямували на Київ та область.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El Ibex 35 se deja casi un 0,9% en la apertura ante las dudas sobre el auge de la IA",
+    "link": "https://www.elperiodico.com/es/economia/20261120/ibex-35-deja-0-9-136651635",
+    "pubDate": "2026-11-20 09:35:01",
+    "category": "",
+    "description": "<h2>El índice cede terreno tras los retrocesos del Dow Jones y el Nasdaq y pese al histórico estreno bursátil de Anthropic</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Жінка натрапила на історичну знахідку - її вартість вражає",
+    "link": "https://ua.korrespondent.net/tech/science/4929954-zhinka-natrapyla-na-istorychnu-znakhidku-yii-vartist-vrazhaie",
+    "pubDate": "2026-11-20 09:31:00",
+    "category": "Новини науки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4644272.jpg\">В Англії жінка за допомогою металошукача випадково знайшла у полі рідкісний середньовічний золотий хрест.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Нафта відреагувала на атаку хуситів на столицю Саудівської Аравії",
+    "link": "https://ua.korrespondent.net/business/economics/4930403-nafta-vidreahuvala-na-ataku-khusytiv-na-stolytsui-saudivskoi-aravii",
+    "pubDate": "2026-11-20 09:30:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4646716.jpg\">Через атаки хуситів по столиці Саудівської Аравії знову виникли побоювання щодо поставок нафти з Близького Сходу.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "El PP exhibe su victoria en el cara a cara con Feijóo paseando al perro",
+    "link": "https://www.elperiodico.com/es/politica/20261120/pp-exhibe-victoria-cara-cara-136651392",
+    "pubDate": "2026-11-20 09:29:28",
+    "category": "",
+    "description": "",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "НБА: Міннесота та Голден Стейт зазнали поразок",
+    "link": "https://ua.korrespondent.net/sport/basketball/4930397-nba-minnesota-ta-holden-steit-zaznaly-porazok",
+    "pubDate": "2026-11-20 09:27:00",
+    "category": "Новини баскетболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4646690.jpg\">У Національній баскетбольній асоціації відбулися чергові поєдинки регулярного чемпіонату. Зокрема, Нью-Йорк здобув перемогу над Міннесотою, а Мемфіс виявився сильнішим за Голден Стейт.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росія атакувала промислові об'єкти Житомирщини",
+    "link": "https://ua.korrespondent.net/ukraine/4930399-rosiia-atakuvala-promyslovi-obiekty-zhytomyrschyny",
+    "pubDate": "2026-11-20 09:20:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4646691.jpg\">У Коростенському районі внаслідок російського удару постраждала людина. Під атакою опинилися об'єкти транспортної та промислової інфраструктури.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Precio de la gasolina y diésel hoy, 20 de noviembre en España: consulta el precio de los carburantes",
+    "link": "https://www.elperiodico.com/es/economia/20261120/precio-gasolina-diesel-hoy-20-noviembre-dv-136604520",
+    "pubDate": "2026-11-20 09:13:42",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Guerra de EEUU e Israel contra Irán, en directo</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260303/afectara-espana-conflicto-iran-gas-gasolina-luz-inflacion-euribor-127492297\">¿Cómo afectará a España el conflicto con Irán? Gas, gasolina, luz, inflación y euríbor, en el punto de mira</a></h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Ashton Kutcher da el pelotazo con Anthropic: su inversión de 395 millones ya vale más de 6.400 millones de euros",
+    "link": "https://www.elperiodico.com/es/gente/20261120/ashton-kutcher-anthropic-inversion-millonaria-inteligencia-artificial-136649906",
+    "pubDate": "2026-11-20 09:08:15",
+    "category": "",
+    "description": "<h2>El actor de 'Aquellos maravillosos 70' apostó en 2023 por la empresa de inteligencia artificial creadora de Claude junto al representante de Madonna. Su histórico estreno en Bolsa ha multiplicado el valor de la inversión y podría convertir en millonarios a miles de empleados</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20261119/anthropic-debuta-subidas-20-protagoniza-136625205\">Anthropic debuta en bolsa con una subida del 17%, tras haber llegado a dispararse más de un 38%</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Злив таємниці слідства в обмін на подарунки: посадовець СБУ отримав підозру",
+    "link": "https://ua.korrespondent.net/ukraine/4930396-zlyv-taiemnytsi-slidstva-v-obmin-na-podarunky-posadovets-sbu-otrymav-pidozru",
+    "pubDate": "2026-11-20 09:05:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4646669.jpeg\">Чоловік налагодив системний канал передачі інформації з обмеженим доступом зацікавленим особам в обмін на дорогі подарунки та послуги.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Precio del petróleo hoy, 20 de noviembre por la Guerra en Irán: consulta el precio del barril de Brent",
+    "link": "https://www.elperiodico.com/es/economia/20261120/precio-petroleo-hoy-20-noviembre-dv-136604450",
+    "pubDate": "2026-11-20 09:03:55",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Guerra de EEUU e Israel contra Irán, en directo</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260303/afectara-espana-conflicto-iran-gas-gasolina-luz-inflacion-euribor-127492297\">¿Cómo afectará a España el conflicto con Irán? Gas, gasolina, luz, inflación y euríbor, en el punto de mira</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Amazon celebra Black Friday con descuentazos de hasta el 70 % en marcas que siempre merece la pena comprar",
+    "link": "https://www.elperiodico.com/es/shopping/20261120/adelanta-black-friday-mejores-ofertas-amazon-136561428",
+    "pubDate": "2026-11-20 09:02:00",
+    "category": "",
+    "description": "<h2>Garmin, Helly Hansen, De’Longhi o Philips son algunas de las marcas que ya han empezado a bajar sus precios en Amazon. Estas son las ofertas que merece la pena fichar antes de que vuelen y que te permitirán adelantar tus compras navideñas sin dejarte el sueldo en el intento</h2>",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Embalses hoy, 20 de noviembre en Catalunya: consulta el estado de Sau, Foix, Susqueda y el resto de pantanos",
+    "link": "https://www.elperiodico.com/es/sociedad/20261120/embalses-hoy-20-noviembre-cataluna-dv-136604355",
+    "pubDate": "2026-11-20 09:01:33",
+    "category": "",
+    "description": "<h2 class=\"item\">Consulta el nivel de los pantanos catalanes, según los últimos datos de la Agència Catalana de l'Aigua</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20250922/noticias-google-discover-el-periodico-121841727\">Configura las noticias de Google para no perderte nada de EL PERIÓDICO</a></h2>",
+    "topic": "estado de los embalses",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Англійський клуб незвично звільнив тренера в його день народження",
+    "link": "https://ua.korrespondent.net/sport/football/4930385-anhliiskyi-klub-nezvychno-zvilnyv-trenera-v-yoho-den-narodzhennia",
+    "pubDate": "2026-11-20 09:01:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4646623.jpg\">Про припинення співпраці клуб оголосив лише через кілька годин після того, як публічно привітав наставника зі святом.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Catalunya asume el liderazgo de la Conferencia de Regiones Periféricas y Marítimas",
+    "link": "https://www.elperiodico.com/es/politica/20261120/catalunya-presidencia-conferencia-regiones-maritimas-jaume-duch-europa-136607784",
+    "pubDate": "2026-11-20 09:00:21",
+    "category": "",
+    "description": "<h2 class=\"item\">El conseller de Unión Europea, Jaume Duch, será el encargado de pilotar la organización durante los próximos dos años</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260522/presupuestos-catalunya-accion-exterior-nuevas-delegaciones-govern-127339113\" target=\"_blank\">Presupuestos de la Generalitat 2026: El Govern sube un 50% los recursos para acción exterior y abrirá tres nuevas delegaciones</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20251030/catalunya-jaume-duch-24-delegaciones-exterior-pleno-rendimiento-legislatura-123160032\" target=\"_blank\">Catalunya tendrá 24 delegaciones en el mundo a pleno rendimiento en esta legislatura</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260327/generalitat-china-duch-socio-relaciones-comerciales-economicas-128452972\" target=\"_blank\">La Generalitat se alía con dos regiones de China para potenciar los vínculos económicos con el país</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "РФ масовано атакувала Київщину: є поранені та руйнування",
+    "link": "https://ua.korrespondent.net/ukraine/4930392-rf-masovano-atakuvala-kyivschynu-ye-poraneni-ta-ruinuvannia",
+    "pubDate": "2026-11-20 08:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4646667.jpg\">Наслідки російської атаки зафіксували у Бучанському та Броварському районах Київщини. Двоє людей потрапили до лікарні, є пошкодження житлових і нежитлових будівель.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Зірка серіалу Династія показала свого чоловіка",
+    "link": "https://ua.korrespondent.net/lifestyle/4930302-zirka-serialu-dynastiia-pokazala-svoho-cholovika",
+    "pubDate": "2026-11-20 08:55:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4645929.jpg\">93-річна легендарна британська акторка Джоан Коллінз з’явилася на вечірці в Лондоні в ефектному образі.",
+    "topic": "телебачення",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Удар по енергетиці: у західних областях ввели аварійні відключення світла",
+    "link": "https://ua.korrespondent.net/ukraine/4930387-udar-po-enerhetytsi-u-zakhidnykh-oblastiakh-vvely-avariini-vidkluichennia-svitla",
+    "pubDate": "2026-11-20 08:45:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4646644.jpg\">Аварійні відключення електроенергії запроваджені у Львівській, Закарпатській та Івано-Франківській областях.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Crisis en Oriente Medio: efectos de la guerra en Irán y tensión en Israel en directo",
+    "link": "https://www.elperiodico.com/es/internacional/20261120/guerra-iran-israel-ultima-hora-directo-130265713",
+    "pubDate": "2026-11-20 08:45:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20260410/guerra-ucrania-rusia-ultima-hora-zelenski-trump-putin-directo-126605559\" >DIRECTO | Guerra Ucrania - Rusia, en directo: última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Нічна атака РФ: Польща розслідує два інциденти",
+    "link": "https://ua.korrespondent.net/world/4930388-nichna-ataka-rf-polscha-rozsliduie-dva-intsydenty",
+    "pubDate": "2026-11-20 08:43:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4646645.jpg\">Польща зафіксувала два підозрілі інциденти під час нічного обстрілу України. Військові з'ясовують, чи порушували повітряний простір країни ракети або інші боєприпаси.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Guerra Ucrania - Rusia, última hora en directo",
+    "link": "https://www.elperiodico.com/es/internacional/20261120/guerra-ucrania-rusia-ultima-hora-126605559",
+    "pubDate": "2026-11-20 08:40:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Directo GUERRA DE IRÁN | Última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La Junta Electoral desestima la denuncia de Vox contra RTVE por la entrevista de Abascal en 'La revuelta'",
+    "link": "https://www.elperiodico.com/es/tele/20261120/denuncia-vox-revuelta-abascal-broncano-junta-electoral-tve-136649053",
+    "pubDate": "2026-11-20 08:38:52",
+    "category": "",
+    "description": "<h2 class=\"item\">El partido pedía que se ordenara a la cadena la publicación íntegra y sin editar de la grabación</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Elecciones generales 29N, en directo | Última hora de la campaña, encuestas y candidatos",
+    "link": "https://www.elperiodico.com/es/politica/20261120/elecciones-generales-29-noviembre-vivienda-ceuta-ultima-hora-directo-135335688",
+    "pubDate": "2026-11-20 08:30:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20261117/encuestas-elecciones-generales-espana-sondeos-12274406\" target=\"_blank\">Encuestas de las elecciones generales 2026: así están los sondeos</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261120/cara-a-cara-pedro-sanchez-feijoo-debate-electoral-ultima-hora-directo-136610132\">Cara a cara entre Pedro Sánchez y Feijoo, en directo</a></h2>",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Олена Тополя зробила відверте зізнання щодо Вадима Лисиці",
+    "link": "https://ua.korrespondent.net/lifestyle/4930296-olena-topolia-zrobyla-vidverte-ziznannia-schodo-vadyma-lysytsi",
+    "pubDate": "2026-11-20 08:29:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4645917.jpg\">Артистка пояснила, за яких умов або чому саме така співпраця може чи не може відбутися найближчим часом.",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Неймар накинувся на вболівальників після матчу",
+    "link": "https://ua.korrespondent.net/sport/football/4930277-neimar-nakynuvsia-na-vbolivalnykiv-pislia-matchu",
+    "pubDate": "2026-11-20 08:26:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4645786.jpg\">Неймар не зміг приховати роздратування після матчу Сантоса і жорстко накинувся на фанатів, вимагаючи поваги.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Vallformosa 500 Gran Reserva, el cava gastronómico que nació de una subasta solidaria de una vendimia",
+    "link": "https://www.elperiodico.com/es/gastronomia/vinos/20261120/cava-vallformosa-500-gran-reserva-136624636",
+    "pubDate": "2026-11-20 08:23:41",
+    "category": "",
+    "description": "<h2 class=\"item\">La bodega catalana lanza su primer Brut Nature ecológico de reserva, que está elaborado con parellada y chardonnay a partes iguales y ha tenido un mínimo de 40 meses de crianza con sus lías</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/vinos/20161213/claves-cava-larga-crianza-5687043\">Así es un cava de larga crianza</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/vinos/20231127/josep-roca-cava-versatilidad-gastronomica-95056343\">Josep Roca: \"Cada plato tiene un cava que le espera\"</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "3 buenos restaurantes de Barcelona para el fin de semana: Maíz Maíz, Masía Tibidabo y Mà de Morter",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20261120/buenos-restaurantes-barcelona-maiz-maiz-masia-tibidabo-ma-morter-136248155",
+    "pubDate": "2026-11-20 08:22:49",
+    "category": "",
+    "description": "<h2 class=\"item\">Si todavía no has decidido a dónde ir a comer o a cenar, aquí tienes tres direcciones donde disfrutarás de una gran mesa</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20261106/buenos-restaurantes-barcelona-nairod-nuara-bodega-rarito-135991602\">3 buenos restaurantes de Barcelona para el fin de semana: Nairod, Nuara y Bodega Rarito</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20261030/buenos-restaurantes-barcelona-barra-seny-pizzabar-cafe-centre-135669179\">3 buenos restaurantes de Barcelona para el fin de semana: Barra del Seny, Pizzabar y Cafè del Centre</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "3 guacamoles irresistibles para mojar totopos (o incluso pan) este fin de semana",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20261120/mejores-guacamoles-barcelona-136324945",
+    "pubDate": "2026-11-20 08:21:57",
+    "category": "",
+    "description": "<h2 class=\"item\">Te recomendamos estas direcciones para disfrutar de este plato tan sencillo pero tan sabroso</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/recetas/20200408/guacamole-receta-aguacate-hierbas-aromaticas-ensalada-pau-arenos-7921676\">Receta de guacamole con hierbas aromáticas</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20260323/mejores-restaurantes-mexicanos-barcelona-tacos-13456437\">Más que tacos: los mejores restaurantes mexicanos de Barcelona</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Una feria en Barcelona dedicada al aceite y la miel (y otros buenos planes gastro para este finde)",
+    "link": "https://www.elperiodico.com/es/gastronomia/20261120/mercat-oli-nou-mel-barcelona-2026-136587612",
+    "pubDate": "2026-11-20 08:20:50",
+    "category": "",
+    "description": "<h2 class=\"item\">Aquí tienes unas propuestas suculentas que ningún gurmet debería perderse</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20221018/restaurantes-hotel-barcelona-75238627\">Los mejores restaurantes de hotel donde comerás de fábula</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20261101/150-hoteles-quedarse-comer-135521998\">150 hoteles donde quedarse a comer</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Estas son las contraseñas más usadas este año 2026 (y las deberías cambiar hoy mismo)",
+    "link": "https://www.elperiodico.com/es/tecnologia/20261120/contrasenas-usadas-2026-espana-ciberseguridad-dv-136586842",
+    "pubDate": "2026-11-20 08:20:36",
+    "category": "",
+    "description": "<h2>Las secuencias de números y letras, entre las más utilizadas</h2><h2><a href=\"https://www.elperiodico.com/es/sucesos/20251120/ciberestafas-espana-disparan-ultimos-nueve-123910709\">Las ciberestafas en España se disparan en los últimos nueve años: unas 500% más</a></h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260510/adios-contrasenas-expertos-coinciden-passkeys-alternativa-segura-dv-129917293\">Adiós a las contraseñas: los expertos coinciden en que las 'passkeys' ganan terreno como alternativa más fiable</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Понад 20 пусків: РФ повернула кораблі в Чорне море",
+    "link": "https://ua.korrespondent.net/ukraine/4930380-ponad-20-puskiv-rf-povernula-korabli-v-chorne-more",
+    "pubDate": "2026-11-20 08:18:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4646622.jpg\">Після пів року без виходів у море російські кораблі Чорноморського флоту знову застосували під час удару по Україні. Загалом за ніч відбулося понад 20 пусків.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "У Львові внаслідок атаки РФ загинули двоє людей",
+    "link": "https://ua.korrespondent.net/ukraine/4930378-u-lvovi-vnaslidok-ataky-rf-zahynuly-dvoie-luidei",
+    "pubDate": "2026-11-20 08:13:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4646620.jpg\">Двоє людей загинули під час удару РФ по залізничній станції Скнилів. Ще щонайменше четверо постраждали.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "‘El director’, un filme sobre la prensa libre y el sistema",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261120/director-filme-prensa-libre-sistema-136633853",
+    "pubDate": "2026-11-20 08:00:02",
+    "category": "",
+    "description": "<h2 style=\"text-align: justify;\">Hoy se estrena la película de Dani de la Orden, protagonizada por David Verdaguer, que cuenta el tumultuoso año que el periodista David Jiménez estuvo al frente de ‘El Mundo’</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Удар по Києву: пошкоджено об'єкти водоканалу, без світла п'ять районів",
+    "link": "https://ua.korrespondent.net/city/kiev/4930375-udar-po-kyievu-poshkodzheno-obiekty-vodokanalu-bez-svitla-piat-raioniv",
+    "pubDate": "2026-11-20 08:00:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4646601.jpg\">Без світла лишилися Печерський, Солом'янський, Голосіївський, Дніпровський та Дарницький райони. Пошкоджено об'єкти Київводоканалу.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Tráfico y Rodalies en Barcelona y resto de Catalunya hoy 20 de noviembre, en directo | Incidencias, cortes, accesos y estado de las carreteras",
+    "link": "https://www.elperiodico.com/es/barcelona/20261120/trafico-rodalies-barcelona-cataluna-hoy-ultima-hora-directo-136600874",
+    "pubDate": "2026-11-20 08:00:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Sigue al minuto la última hora del estado del tráfico y las incidencias en los trenes de Rodalies, metro, autobuses y resto de transporte público</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20261117/rondas-barcelona-atascos-accidentes-graficos-mapa-136537054\">Cinco gráficos para entender por qué las rondas de Barcelona tienen tantos atascos y accidentes</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Miquel Fernández: \"Para hacer de Ferran Adrià creé incluso un diccionario de cómo habla él\"",
+    "link": "https://www.elperiodico.com/es/tele/20261120/miquel-fernandez-ferran-adria-serie-genesis-netflix-134397021",
+    "pubDate": "2026-11-20 08:00:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El actor revive la revolución gastronómica de El Bulli en la serie 'Génesis', disponible desde este viernes en Netflix</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/20261119/genesis-netflix-serie-ferran-adria-miquel-fernandez-carlos-cuevas-126342511\">'Génesis': la serie que destapa el camino al éxito de Ferran Adrià, con sus luces y sombras, llega a Netflix</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/20261031/estrenos-noviembre-2026-netflix-disney-hbo-prime-movistar-apple-filmin-skyshowtime-135813200\">10 series que no puedes perderte este noviembre</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ексгравець Динамо відновлює кар'єру після десятирічної перерви",
+    "link": "https://ua.korrespondent.net/sport/football/4930368-ekshravets-dynamo-vidnovluiie-karieru-pislia-desiatyrichnoi-perervy",
+    "pubDate": "2026-11-20 07:57:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4646541.jpg\">Бенуа Тремулінас знову вийшов на тренувальне поле разом із Бордо після десятирічної паузи.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Росія пошкодила залізничну інфраструктуру: є затримки поїздів",
+    "link": "https://ua.korrespondent.net/ukraine/4930372-rosiia-poshkodyla-zaliznychnu-infrastrukturu-ye-zatrymky-poizdiv",
+    "pubDate": "2026-11-20 07:42:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4646580.jpg\">Київська кільцева електричка відновлює рух, через атаку РФ є пошкодження інфраструктури та затримки поїздів.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "No se habla de otra cosa en la NBA: la locura de Wembanyama que sólo él puede hacer",
+    "link": "https://as.com/baloncesto/videos/no-se-habla-de-otra-cosa-en-la-nba-la-locura-de-wembanyama-que-solo-el-puede-hacer-f202611-v/",
+    "pubDate": "2026-11-20 07:40:23",
+    "category": "Wembanyama",
+    "description": "Con sus 2,24 metros de altura, el pivot de San Antonio dejó esta extraordinaria finalización debajo del aro en la victoria de los Spurs ante Los Angeles Clippers (124-112).",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ser padre cambia la perspectiva de los pilotos: “Piensan más en el lunes que en el domingo”",
+    "link": "https://www.elperiodico.com/es/deportes/20261120/padre-cambia-perspectiva-pilotos-piensan-136643268",
+    "pubDate": "2026-11-20 07:28:45",
+    "category": "",
+    "description": "<h2 class=\"item\">La mitad de la parrilla de MotoGP ya está compuesta por papás felices, pero, en el seno del 'paddock' de la máxima categoría, hay la sensación de que la paternidad penaliza, como poco, un segundo por vueltas. Fabio Di Giannantonio (Ducati) ha sido el último en anunciar que, en el 2027, será papá.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Feijóo ganó, ¿Sánchez quiso perder?",
+    "link": "https://www.elperiodico.com/es/opinion/20261120/feijoo-gano-sanchez-quiso-perder-136648143",
+    "pubDate": "2026-11-20 07:21:17",
+    "category": "",
+    "description": "",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Esperando a Killian",
+    "link": "https://as.com/baloncesto/euroliga/esperando-a-killian-f202611-n/",
+    "pubDate": "2026-11-20 07:15:28",
+    "category": "Baloncesto",
+    "description": "El Estrella Roja visita el Palau para enfrentarse a un Barça que viene de fichar y de perder. El debut del nuevo base, que ya ha entrenado con el equipo, en el aire.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Oli (42 años) dejó Tarragona para vivir en una aldea de Asturias tras 26 años combatiendo la psoriasis: \"Forré mi espejo con folios porque no quería verme, porque no me aceptaba\"",
+    "link": "https://www.elperiodico.com/es/economia/20261120/vida-rural-asturias-enfermedad-piel-psoriasis-tarragona-oli-dv-136154490",
+    "pubDate": "2026-11-20 07:15:00",
+    "category": "",
+    "description": "<h2>La mujer habla de su experiencia con esta enfermedad: \"Es duro que te hagan entender que tu cuerpo está sucio cuando ya tienes un problema de aceptación\"</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261029/pueblo-aislado-montana-leon-vida-rural-autosuficiente-infancia-dura-irina-dv-et-135489053\">Irina vive aislada en la montaña desde los 15 años tras irse de casa: \"Yo llegué a este pueblo desde un lugar aún más precario; para mí es un lujo tener agua del grifo\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261019/familia-vida-montanas-asturias-libertad-hijos-vida-rural-arantxa-dv-et-135167729\">Arantxa (34 años), madre de dos niños que se mudó a una aldea: \"Yo no quiero que mis hijos crezcan en un sitio donde hay miedo\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El camino del Olympiacos y del Madrid tiene baches",
+    "link": "https://as.com/baloncesto/euroliga/el-camino-del-olympiacos-y-del-madrid-tiene-baches-f202611-n/",
+    "pubDate": "2026-11-20 07:15:00",
+    "category": "Euroliga",
+    "description": "El campeón está arriba, pero con bastantes problemas. Lo blancos han caído a la octava plaza y acumulan cinco derrotas seguidas en Grecia ante los de Bartzokas.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Margarita, albañila: \"Cojo los sacos de 25 kilos y no tengo problemas en subirlos a un segundo piso\"",
+    "link": "https://www.elperiodico.com/es/economia/20261120/mujer-albanil-maschismo-obra-peso-sacos-margarita-vidrialesa-dv-136382588",
+    "pubDate": "2026-11-20 07:10:26",
+    "category": "",
+    "description": "<h2>La obrera recibe numerosos comentarios machistas en sus redes sociales: \"Quédate donde estás con el cubo y la fregona, ahí no hay peligro\"</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260906/yara-oficial-primera-construccion-mujeres-jovenes-dv-128080803\">Yara (25 años), oficial de primera: \"Yo me he dado cuenta de que si a los chavales les das una oportunidad, son los mejores oficiales que vas a tener en la vida\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261021/nerea-mujer-albanil-falta-trabajadoras-obra-sector-construccion-dv-132166845\">Nerea, albañil, sobre la falta de trabajadoras en la obra: \"Cuando saben que soy una mujer, la conversación se corta y ya no puedo avanzar para conseguir ese trabajo\"</a></h2>",
+    "topic": "блогери",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Саміт в Китаї: Трамп визнав серйозну проблему",
+    "link": "https://ua.korrespondent.net/world/4930366-samit-v-kytai-tramp-vyznav-serioznu-problemu",
+    "pubDate": "2026-11-20 07:08:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4646560.jpg\">Американський президент визнав, що домогтися ядерного роззброєння з Росією та Китаєм буде складно.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los maquinistas desconvocan la huelga del  23 de noviembre tras alcanzar un acuerdo en seguridad ferroviaria",
+    "link": "https://www.elperiodico.com/es/sociedad/20261120/semaf-desconvoca-huelga-rodalies-lunes-23-noviembre-rodalies-renfe-maquinistas-136647941",
+    "pubDate": "2026-11-20 07:06:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/economia/20261119/maquinistas-pactan-transportes-medidas-mejorar-seguridad-vias-episodios-climaticos-extremos-lluvias-136634265\">Los maquinistas pactan con Transportes suspender el servicio ferroviario ante lluvias extremas</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "¡Cubino, Presidente!",
+    "link": "https://www.elperiodico.com/es/tele/20261120/cubino-presidente-136634362",
+    "pubDate": "2026-11-20 07:00:41",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "‘Splatter rooms’ en Barcelona: las salas antiestrés donde puedes salpicarlo todo de pintura",
+    "link": "https://www.elperiodico.com/es/que-hacer/planes/20261120/splatter-rooms-barcelona-salas-salpicaduras-antiestres-viral-born-to-color-136632524",
+    "pubDate": "2026-11-20 07:00:41",
+    "category": "",
+    "description": "<h2>Te dan mono, lienzo, pintura a discreción y mil accesorios para salpicar. Te sientes un híbrido de Pollock y Rambo. Es el nuevo “plan perfecto para desestresarse” de los ‘influencers’. Salas virales de salpicaduras</h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Атака на Київ: стало відомо про загиблих",
+    "link": "https://ua.korrespondent.net/city/kiev/4930361-ataka-na-kyiv-stalo-vidomo-pro-zahyblykh",
+    "pubDate": "2026-11-20 06:45:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4646522.jpg\">Троє людей загинули внаслідок російської атаки на українську столицю, ще 15 людей поранені.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Вибухи пролунали у Львові та Івано-Франківську",
+    "link": "https://ua.korrespondent.net/ukraine/4930358-vybukhy-prolunaly-u-lvovi-ta-ivano-frankivsku",
+    "pubDate": "2026-11-20 06:35:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4646520.jpg\">Від ночі армія РФ атакує Україну ракетами й безпілотниками. Під прицілом опинилися різні регіони, зокрема й на заході.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Удар по Києву: росіяни влучили у три мости",
+    "link": "https://ua.korrespondent.net/city/kiev/4930356-udar-po-kyievu-rosiiany-vluchyly-u-try-mosty",
+    "pubDate": "2026-11-20 06:16:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4646501.jpg\">Рух транспорту між правим і лівим берегами столиці ускладнився, а на окремих переправах запроваджено обмеження.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Más de un centenar de socios y abonados del Real Madrid demandan al club por la retirada \"irregular\" de carnets",
+    "link": "https://www.elperiodico.com/es/deportes/20261120/centenar-demandas-socios-abonados-real-madrid-136643185",
+    "pubDate": "2026-11-20 06:00:59",
+    "category": "",
+    "description": "<h2 style=\"text-align: justify;\">El bufete Cremades & Calvo-Sotelo acumula más de 120 casos en los que se denuncia \"defectos de forma y un incumplimiento de los Estatutos del club”</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Barcelona refuerza la valla del Turó de la Rovira y prevé cámaras de seguridad contra los botellones para el verano de 2027",
+    "link": "https://www.elperiodico.com/es/barcelona/20261120/barcelona-turo-rovira-bunkers-valla-camaras-seguridad-136638703",
+    "pubDate": "2026-11-20 06:00:55",
+    "category": "",
+    "description": "<h2 class=\"item\">El ayuntamiento ha recibido las autorizaciones para colocar 11 visores y ha revisado el cercado en seis puntos frágiles, mientras el colectivo vecinal destaca el efecto disuasivo de las patrullas nocturnas y diarias de la Guardia Urbana en verano</h2><h2 class=\"item\"><a>Barcelona compromete el pago de 10 millones de euros en un año para expandir las cámaras de seguridad a 14 zonas</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Barcelona compromete el pago de 10 millones de euros en un año para expandir las cámaras de seguridad a 14 zonas",
+    "link": "https://www.elperiodico.com/es/barcelona/20261120/barcelona-camaras-seguridad-videovigilancia-coste-inversion-gasto-136636584",
+    "pubDate": "2026-11-20 06:00:54",
+    "category": "",
+    "description": "<h2 class=\"item\">El ayuntamiento acelera los proyectos para extender los visores de control remoto en los próximos meses, con siete planes aprobados desde principios de octubre por valor de más de seis millones de euros</h2><h2 class=\"item\"><a>Barcelona refuerza la valla del Turó de la Rovira y prevé cámaras de seguridad contra los botellones para el verano de 2027</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "La angustia de Alcaraz: horas de incertidumbre, un diagnóstico tranquilizador y la Copa Davis en el horizonte",
+    "link": "https://www.elperiodico.com/es/deportes/20261120/angustia-alcaraz-horas-incertidumbre-diagnostico-136636980",
+    "pubDate": "2026-11-20 06:00:53",
+    "category": "",
+    "description": "<h2>El murciano se sometió ayer a pruebas para valorar sus dolencias y probará la resistencia de su isquio dañado en el intrascendente partido de hoy (14.00 horas) ante Cobolli</h2><h2><a href=\"https://www.elperiodico.com/es/deportes/20261119/shelton-jodar-atp-finals-tenis-136619370\">Jódar cae en las ATP Finals y despide un primer año memorable en el circuito</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Detrás del candidato: Alberto Núñez Feijóo y los 'gallegos'",
+    "link": "https://www.elperiodico.com/es/politica/20261120/detras-candidato-alberto-nunez-feijoo-136636466",
+    "pubDate": "2026-11-20 06:00:52",
+    "category": "",
+    "description": "<h2>Marta Varela y Mar Sánchez Sierra encabezan el equipo de confianza de Alberto Núñez Feijóo, un grupo que domina la toma de decisiones en la séptima planta de Génova</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "TikTok mejora el control parental y permitirá a padres y madres vigilar con quién chatean sus hijos",
+    "link": "https://www.elperiodico.com/es/sociedad/20261120/tiktok-mejora-control-parental-permitira-padres-hijos-usuarios-mensajes-riesgo-136634583",
+    "pubDate": "2026-11-20 06:00:51",
+    "category": "",
+    "description": "<h2>La plataforma de vídeo permitirá a padres y madres qué contenidos ven los menores, a qué usuarios han bloqueado y enviará alertas cuando realicen búsquedas recurrentes sobre contenidos peligrosos relacionados con la salud mental como el suicidio</h2>",
+    "topic": "блогери",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "El primer ‘Dune’: David Lynch en el planeta Arrakis",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261120/primer-dune-david-lynch-136619837",
+    "pubDate": "2026-11-20 06:00:43",
+    "category": "",
+    "description": "<h2 class=\"item\">Cuatro semanas antes del estreno de ‘Dune: Parte Tres’ vuelve a las pantallas la superproducción convertida en película de culto que realizó David Lynch en 1984 sobre la novela de Frank Herbert</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El ideario neonazi de Núcleo Nacional: \"Nos quieren convencer de que el hombre y la mujer son iguales”",
+    "link": "https://www.elperiodico.com/es/politica/20261120/ideario-neonazi-nucleo-nacional-quieren-136629090",
+    "pubDate": "2026-11-20 06:00:36",
+    "category": "",
+    "description": "<h2>El presidente de la asociación ultra también considera que \"un sudamericano o africano\" no es igual \"a un europeo\"</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261119/cupula-nucleo-nacional-creo-partido-136585792\" target=\"_blank\">La cúpula de Núcleo Nacional creó un partido ante el temor de que Marlaska prohibiera la asociación neonazi: \"Es muy jodido ilegalizarlo\"</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Rufián rehace puentes con Junqueras, pero mantienen divergencias en propuestas clave",
+    "link": "https://www.elperiodico.com/es/politica/20261120/gabriel-rufian-oriol-junqueras-relacion-divergencias-propuestas-elecciones-generales-136553065",
+    "pubDate": "2026-11-20 06:00:34",
+    "category": "",
+    "description": "<h2 class=\"item\">Los dos líderes difieren en ideas de calado como el frente de izquierdas o el gobierno de concentración</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261119/gabriel-rufian-carles-puigdemont-votante-junts-elecciones-generales-29n-136607427\" target=\"_blank\">Rufián aprieta para atraer al votante de Junts tras la irrupción de Puigdemont en campaña</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261117/gabriel-rufian-erc-elecciones-generales-pequeno-pueblo-arseguel-arrasa-cataluna-136357614\" target=\"_blank\">Arsèguel, el pequeño pueblo de los Pirineos en el que Rufián arrasa: \"Es un tío populista, pero un hombre creíble\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261116/gabriel-rufian-frente-izquierdas-president-generalitat-comuns-cup-psc-136483809\" target=\"_blank\">Rufián aspira a ser president de Catalunya en coalición con los Comuns y la CUP y con el apoyo del PSC</a></h2>",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El decreto 'Maricarmen' de vivienda frena la venta de grandes lotes de casas en alquiler",
+    "link": "https://www.elperiodico.com/es/economia/20261120/decreto-maricarmen-vivienda-venta-alquiler-136621372",
+    "pubDate": "2026-11-20 06:00:25",
+    "category": "",
+    "description": "<h2>En total, hay operaciones paradas por valor de más de 1.500 millones de euros. Entre los fondos afectados figuran Norges Bank, Greystar, Brookfield, Medan Asset Management y Partners Group, Q-Living o Carlyle</h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Uber deberá pagar 24 millones de euros a la Seguridad Social para liquidar su flota de falsos autónomos",
+    "link": "https://www.elperiodico.com/es/economia/20261120/uber-pagar-seguridad-social-falsos-autonomos-fin-modelo-riders-136618556",
+    "pubDate": "2026-11-20 06:00:21",
+    "category": "",
+    "description": "<h2>La Inspección de Trabajo acredita que desde principios de año la multinacional estuvo operando con 4.200 repartidores irregulares</h2>",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "La recogida de ropa usada en España, al límite: las entidades han dejado de recoger un 7% de residuos textiles",
+    "link": "https://www.elperiodico.com/es/sociedad/20261120/espana-colapso-recogida-ropa-usada-segunda-mano-oferta-caro-136174501",
+    "pubDate": "2026-11-20 06:00:18",
+    "category": "",
+    "description": "<h2 class=\"item\">El sector señala que muchos ayuntamientos han dejado de financiar este reciclaje, al tiempo que el aumento del coste de los carburantes y de la gestión de los residuos compromete el servicio</h2><h2 class=\"item\">Las empresas de economía social reclaman al Gobierno \"financiación puente\" hasta que se apruebe el decreto ley que obliga a los fabricantes a sufragar el coste de la reutilización: recoger ya es más caro que vender</h2>",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "Los lazos internacionales de Vox: Abascal recurre a la extrema derecha global y se distancia del trumpismo",
+    "link": "https://www.elperiodico.com/es/internacional/20261120/lazos-internacionales-vox-abascal-red-extrema-derecha-global-136647598",
+    "pubDate": "2026-11-20 06:00:16",
+    "category": "",
+    "description": "<h2>Una de las novedades de la campaña es la menor presencia de referencias explícitas al movimiento MAGA tras el último revés electoral de los republicanos en EEUU</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Miriam Nogueras, la boxeadora de Puigdemont en el Congreso",
+    "link": "https://www.elperiodico.com/es/politica/20261120/quien-es-miriam-nogueras-candidata-junts-per-catalunya-elecciones-generales-perfil-136412986",
+    "pubDate": "2026-11-20 06:00:04",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261112/junts-campana-elecciones-generales-mitines-barcelona-girona-tarragona-escanos-136276466\">Junts pone el foco en Barcelona para crecer y busca blindar sus escaños en Girona y Tarragona</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261110/junts-investidura-pedro-sanchez-alberto-nunez-feijoo-elecciones-generales-135924635\">¿Qué hará Junts si vuelve a tener la llave de la investidura tras el 29-N? De los pactos con el PSOE a la pinza con el PP</a></h2>",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Mercedes le pone fecha de caducidad al diésel en sus autobuses urbanos",
+    "link": "https://www.elperiodico.com/es/motor/20261120/mercedes-le-pone-fecha-caducidad-136488979",
+    "pubDate": "2026-11-20 06:00:04",
+    "category": "",
+    "description": "<h2>La marca alemana prepara su despedida del gasóleo en Europa y ya tiene lista la hoja de ruta para su nueva generación eléctrica</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Підсумки 19.11: Реакція Путіна і Коаліція охочих",
+    "link": "https://ua.korrespondent.net/ukraine/4930225-pidsumky-1911-reaktsiia-putina-i-koalitsiia-okhochykh",
+    "pubDate": "2026-11-20 05:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4646464.jpg\">Путін відреагував на удари по Кримському мосту; У Берліні відбулася зустріч Коаліції охочих. Кореспондент.net виділяє головні події вчорашнього дня.",
+    "topic": "підсумки",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Вступ України до ЄС: Угорщина погодилася на відкриття останніх кластерів",
+    "link": "https://ua.korrespondent.net/ukraine/4930353-vstup-ukrainy-do-yes-uhorschyna-pohodylasia-na-vidkryttia-ostannikh-klasteriv",
+    "pubDate": "2026-11-20 05:27:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4646426.jpeg\">Очікується, що всі шість кластерів будуть відкриті для України та Молдови вже у грудні. Після цього основна увага зосередиться на питаннях верховенства права.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Республіканці розкритикували Трампа за результати зустрічі з Сі та Путіним",
     "link": "https://ua.korrespondent.net/world/4930348-respublikantsi-rozkrytykuvaly-trampa-za-rezultaty-zustrichi-z-si-ta-putinym",
     "pubDate": "2026-11-20 04:54:00",
