@@ -1,4 +1,4 @@
-# News for 2026-11-20 22:20
+# News for 2026-11-21 00:16
 
 Previous day: [2026-11-19](./data/2026-11-19.md)
 
@@ -29,6 +29,12 @@ Previous day: [2026-11-19](./data/2026-11-19.md)
 09:27 [НБА: Міннесота та Голден Стейт зазнали поразок](https://ua.korrespondent.net/sport/basketball/4930397-nba-minnesota-ta-holden-steit-zaznaly-porazok)<br>
 
 ## as.com
+23:51 [El Barça raja contra el arbitraje: “Hay cosas que no puedo entender”](https://as.com/baloncesto/euroliga/el-barca-raja-contra-el-arbitraje-hay-cosas-que-no-puedo-entender-f202611-n/)<br>
+23:40 [Resumen del Barcelona vs. Estrella Roja de Euroliga](https://as.com/videos/euroliga/resumen-del-barcelona-vs-estrella-roja-de-euroliga-f202611-v/)<br>
+23:03 [Huracán Carter derriba a un Barça que acaba tan exhausto como desquiciado](https://as.com/baloncesto/huracan-carter-derriba-a-un-barca-que-acaba-tan-exhausto-como-desquiciado-f202611-n/)<br>
+23:00 [Pedro Martínez: “Quizá no estemos en un buen momento”](https://as.com/baloncesto/euroliga/pedro-martinez-quiza-no-estemos-en-un-buen-momento-f202611-n/)<br>
+22:54 [Resultados Euroliga, jornada 13: horarios, TV, partidos y clasificación](https://as.com/baloncesto/euroliga/resultados-euroliga-jornada-13-horarios-tv-partidos-y-clasificacion-f202611-n/)<br>
+22:23 [Desastre total del Madrid](https://as.com/baloncesto/euroliga/desastre-total-del-madrid-f202611-n/)<br>
 21:43 [Barcelona - Estrella Roja, en directo: Euroliga de baloncesto 2026-27 en vivo hoy](https://as.com/baloncesto/euroliga/barcelona-estrella-roja-en-directo-euroliga-de-baloncesto-2026-27-en-vivo-hoy-f202611-d/)<br>
 21:43 [Olympiacos – Real Madrid, en directo: Euroliga 2026-27 en vivo hoy](https://as.com/baloncesto/euroliga/olympiacos-real-madrid-en-directo-euroliga-2026-27-en-vivo-hoy-f202611-d/)<br>
 19:41 [Sigue en directo el choque de Liga U entre Burgos Grupo Santiago y Valencia Basket](https://as.com/baloncesto/videos/sigue-en-directo-el-choque-de-liga-u-entre-burgos-grupo-santiago-y-valencia-basket-f202611-v/)<br>
@@ -41,6 +47,9 @@ Previous day: [2026-11-19](./data/2026-11-19.md)
 07:15 [El camino del Olympiacos y del Madrid tiene baches](https://as.com/baloncesto/euroliga/el-camino-del-olympiacos-y-del-madrid-tiene-baches-f202611-n/)<br>
 
 ## www.elperiodico.com
+23:59 [De Mario Conde a Amparo Moraleda: 25 de evolución en la alta dirección](https://www.elperiodico.com/es/economia/20261120/mario-conde-amparo-moraleda-25-136685653)<br>
+23:17 [Nvidia se desploma un 14% y pierde un 32,6% en las últimas dos semanas](https://www.elperiodico.com/es/economia/20261120/nvidia-desploma-14-pierde-32-136685310)<br>
+23:02 [El Barça encaja con indignación una derrota a golpe de técnicas](https://www.elperiodico.com/es/deportes/20261120/barca-encaja-indignacion-derrota-golpe-136681577)<br>
 20:52 [Catalunya activa la alerta de emergencias por viento ante la previsión de fuertes rachas este domingo](https://www.elperiodico.com/es/tiempo/20261120/cataluna-activa-alerta-emergencias-viento-fuertes-rachas-barcelona-136681986)<br>
 20:28 [Tercer fin de semana seguido de huelga de la OBC en L'Auditori: los conciertos, suspendidos](https://www.elperiodico.com/es/ocio-y-cultura/20261120/obc-tercer-fin-de-semana-seguido-huelga-obc-lauditori-conciertos-136680958)<br>
 20:01 [El actor Jon Hamm será padre por primera vez a los 55 años junto a Anna Osceola, a la que conoció en la última temporada de 'Mad Men'](https://www.elperiodico.com/es/gente/20261120/actor-jon-hamm-sera-padre-136658843)<br>
