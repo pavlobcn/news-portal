@@ -1,5 +1,59 @@
 [
   {
+    "title": "Jordi Wild, prescriptor literario",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20261121/jordi-wild-prescriptor-literario-136575335",
+    "pubDate": "2026-11-21 04:50:06",
+    "category": "",
+    "description": "<h2>Sus entrevistas, en ocasiones de cuatro horas, convierten en éxito los libros que comenta</h2>",
+    "topic": "блогери",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "Ocaso del patrotismo",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20261121/ocaso-patrotismo-136545047",
+    "pubDate": "2026-11-21 04:50:06",
+    "category": "",
+    "description": "<h2>Frente a uno de profunda raíz nacionalista, existe otro que se fundamenta en la adhesión a unos valores comunes de inconfundible impronta democrática</h2>",
+    "topic": "політика",
+    "topic_match_probability": 78
+  },
+  {
+    "title": "Toda la vida preguntándole a Mario Vargas Llosa",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20261121/vargas-llosa-libro-gerald-martin-136544624",
+    "pubDate": "2026-11-21 04:50:06",
+    "category": "",
+    "description": "<h2>En la historia del premio Nobel hispanoperuano hay innumerables fallas, libros buenos (buenísimos) y libros que no resistirán a la historia, seguramente. Escribía ficción para contar lo que estuvo cerca del mundo que vivió y en la no ficción hizo de todo, y muchas de las cosas que dijo variaron en virtud de cómo cambiaron sus modos de entender el mundo</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Rosa Montero, escritora: \"El mal existe porque los buenos lo permiten\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20261121/rosa-montero-entrevista-libro-dia-vida-clarita-136487709",
+    "pubDate": "2026-11-21 04:50:06",
+    "category": "",
+    "description": "<h2>La autora recibe al suplemento 'ABRIL' en su casa de Madrid para charlar sobre su última novela, 'Un día en la vida de Clarita', una luminosa historia de redención con el maltrato laboral como telón de fondo</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росія завдала повторного удару по Кривому Рогу",
+    "link": "https://ua.korrespondent.net/ukraine/4930674-rosiia-zavdala-povtornoho-udaru-po-kryvomu-rohu",
+    "pubDate": "2026-11-21 04:35:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4647677.jpg\">Ворог завдав ще одного удару реактивним шахедом по місцевому промисловому підприємстві, повідомила влада міста.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Меланія чекає припинення вогню між Україною й РФ до Різдва",
+    "link": "https://ua.korrespondent.net/world/worldabus/4930672-melaniia-chekaie-prypynennia-vohnui-mizh-ukrainoui-y-rf-do-rizdva",
+    "pubDate": "2026-11-21 03:47:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4647654.jpg\">Переговори на цю тему тривають, можливо, до Різдва буде ще одне припинення вогню, припустила перша леді США.",
+    "topic": "політика",
+    "topic_match_probability": 82
+  },
+  {
     "title": "Зеленський відповів щодо Путіна й Кримського мосту",
     "link": "https://ua.korrespondent.net/ukraine/4930668-zelenskyi-vidpoviv-schodo-putina-y-krymskoho-mostu",
     "pubDate": "2026-11-21 02:46:00",
