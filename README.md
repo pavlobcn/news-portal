@@ -1,8 +1,11 @@
-# News for 2026-11-21 09:51
+# News for 2026-11-21 11:10
 
 Previous day: [2026-11-20](./data/2026-11-20.md)
 
 ## ua.korrespondent.net
+10:46 [Вінниця частково знеструмлена після атаки "шахеда"](https://ua.korrespondent.net/ukraine/4930712-vinnytsia-chastkovo-znestrumlena-pislia-ataky-shakheda)<br>
+10:22 [У Бердянську зазнав удару штаб армії РФ - соцмережі](https://ua.korrespondent.net/ukraine/4930709-u-berdiansku-zaznav-udaru-shtab-armii-rf-sotsmerezhi)<br>
+09:52 [Атака на Кривий Ріг: поранення отримали 60 осіб](https://ua.korrespondent.net/ukraine/4930706-ataka-na-kryvyi-rih-poranennia-otrymaly-60-osib)<br>
 09:35 [На Харківщині 15 постраждалих через російські атаки](https://ua.korrespondent.net/ukraine/4930704-na-kharkivschyni-15-postrazhdalykh-cherez-rosiiski-ataky)<br>
 09:13 [Bitcoin впав мінімуму за два роки](https://ua.korrespondent.net/business/financial/4930701-Bitcoin-vpav-minimumu-za-dva-roky)<br>
 05:42 [У США вперше за 50 років від кору померла дитина](https://ua.korrespondent.net/world/4930680-u-ssha-vpershe-za-50-rokiv-vid-koru-pomerla-dytyna)<br>
@@ -13,6 +16,11 @@ Previous day: [2026-11-20](./data/2026-11-20.md)
 08:38 [Lo mejor de otro recital de Aday Mara en la NBA: la acción es de muchos quilates](https://as.com/baloncesto/videos/lo-mejor-de-otro-recital-de-aday-mara-en-la-nba-la-accion-es-de-muchos-quilates-f202611-v/)<br>
 
 ## www.elperiodico.com
+10:50 [Huelga de estudiantes hoy 21 de noviembre, última hora en directo: manifestaciones y seguimiento de la convocatoria en España y otros países de Europa](https://www.elperiodico.com/es/sociedad/20261121/huelga-estudiantes-hoy-20-noviembre-ultima-hora-directo-136610682)<br>
+10:30 [Suso, albañil: "Ganaba 160.000 pesetas y unos amigos se fueron a Canarias y cobraron 1.200.000 en un mes. Dije: yo aquí no me quedo"](https://www.elperiodico.com/es/economia/20261121/suso-albanil-ganaba-16000-pesetas-canarias-cobraron-dv-136588444)<br>
+10:26 [Pikachu y Eevee se instalan en el escritorio con la nueva colección gaming de Razer](https://www.elperiodico.com/es/tecnologia/20261121/pikachu-eevee-escritorio-personalizado-precio-136690574)<br>
+10:20 [Dos ciberataques golpean al FBI y al Departamento de Agricultura de Estados Unidos](https://www.elperiodico.com/es/internacional/20261121/ciberataques-golpean-fbi-departamento-agricultura-eeuu-136690330)<br>
+10:15 [João Marinho (114 años), el hombre vivo más longevo: "Nunca fue de arriesgarse mucho"](https://www.elperiodico.com/es/vida-y-estilo/20261121/hombre-vivo-viejo-mundo-centenario-joao-marinho-dv-136509075)<br>
 09:11 [Un jurado de California declara culpable a Jonathan Rinderknecht por el devastador incendio de Los Ángeles](https://www.elperiodico.com/es/internacional/20261121/jurado-declara-culpable-sospechoso-provocar-incendios-los-angeles-palisades-136688504)<br>
 08:33 [Hallan en China una roca de 3.950 millones de años, considerada la más antigua de Asia](https://www.elperiodico.com/es/ciencia/20261121/roca-piedra-antigua-descubrimiento-china-millones-anos-136687746)<br>
 08:14 [GTA VI rompe récords y genera 3.790 millones de dólares en su primer día a la venta](https://www.elperiodico.com/es/ocio-y-cultura/20261121/gtavi-grand-theft-auto-videojuegos-records-ventas-136687600)<br>
