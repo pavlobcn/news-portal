@@ -1,8 +1,11 @@
-# News for 2026-11-21 20:47
+# News for 2026-11-21 22:47
 
 Previous day: [2026-11-20](./data/2026-11-20.md)
 
 ## ua.korrespondent.net
+21:37 [В окремих регіонах України прогнозують сніг](https://ua.korrespondent.net/ukraine/4930798-v-okremykh-rehionakh-ukrainy-prohnozuuit-snih)<br>
+21:21 [Атака на Запоріжжя: зросла кількість поранених](https://ua.korrespondent.net/city/zaporozhye/4930800-ataka-na-zaporizhzhia-zrosla-kilkist-poranenykh)<br>
+20:55 [РФ ударила по Запоріжжю, поранено дитину](https://ua.korrespondent.net/city/zaporozhye/4930794-rf-udaryla-po-zaporizhzhui-poraneno-dytynu)<br>
 20:30 [У Британії вироблятимуть українські дрони для СОУ](https://ua.korrespondent.net/ukraine/4930789-u-brytanii-vyrobliatymut-ukrainski-drony-dlia-sou)<br>
 20:05 [У Києві рятувальники дістали чоловіка з шестиметрової глибини](https://ua.korrespondent.net/kyiv/4930787-u-kyievi-riatuvalnyky-distaly-cholovika-z-shestymetrovoi-hlybyny)<br>
 19:40 [На Дніпропетровщині внаслідок ударів РФ постраждали п'ятеро людей](https://ua.korrespondent.net/ukraine/4930784-na-dnipropetrovschyni-vnaslidok-udariv-rf-postrazhdaly-piatero-luidei)<br>
@@ -29,6 +32,7 @@ Previous day: [2026-11-20](./data/2026-11-20.md)
 00:43 [Росія вдарила по дитячому садочку в Запоріжжі](https://ua.korrespondent.net/city/zaporozhye/4930658-rosiia-vdaryla-po-dytiachomu-sadochku-v-zaporizhzhi)<br>
 
 ## as.com
+22:11 [El Kids&Us Manresa coge ritmo](https://as.com/baloncesto/acb/el-kidsus-manresa-coge-ritmo-f202611-n/)<br>
 20:15 [Perry y Noua agrandan la crisis del Burgos](https://as.com/baloncesto/perry-y-noua-agrandan-la-crisis-del-burgos-f202611-n/)<br>
 12:56 [El Madrid, erre que erre a domicilio](https://as.com/baloncesto/euroliga/el-madrid-erre-que-erre-a-domicilio-f202611-n/)<br>
 08:38 [Lo mejor de otro recital de Aday Mara en la NBA: la acción es de muchos quilates](https://as.com/baloncesto/videos/lo-mejor-de-otro-recital-de-aday-mara-en-la-nba-la-accion-es-de-muchos-quilates-f202611-v/)<br>

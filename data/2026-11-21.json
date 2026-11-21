@@ -1,5 +1,131 @@
 [
   {
+    "title": "Mueren dos trabajadores tras caer a un foso en una empresa de aceite de Sevilla",
+    "link": "https://www.elperiodico.com/es/sucesos/20261121/mueren-trabajadores-caer-foso-empresa-136708813",
+    "pubDate": "2026-11-21 22:33:46",
+    "category": "",
+    "description": "<h2>Efectivos de los Bomberos de la Diputación han participado sin éxito en las labores de rescate en Morón de la Frontera</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 82
+  },
+  {
+    "title": "Іран заявив про удари по базах США в Бахрейні",
+    "link": "https://ua.korrespondent.net/world/4930810-iran-zaiavyv-pro-udary-po-bazakh-ssha-v-bakhreini",
+    "pubDate": "2026-11-21 22:27:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4648408.jpg\">Іранська сторона не навела подробиць стосовно типу використаної зброї, наслідків влучань чи втрат серед військових США.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Raphael cancela a última hora su concierto en A Coruña por una \"indisposición\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261121/raphael-cancela-ultima-hora-concierto-136708640",
+    "pubDate": "2026-11-21 22:26:00",
+    "category": "",
+    "description": "<h2>El artista se encontró mal, al parecer por una subida de tensión, y fue trasladado en ambulancia a un hospital para recibir atención médica</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "Степанов забиває, однак Утрехт програв",
+    "link": "https://ua.korrespondent.net/sport/football/4930808-stepanov-zabyvaie-odnak-utrekht-prohrav",
+    "pubDate": "2026-11-21 22:12:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4648394.jpg\">Український нападник Артем Степанов відзначився у матчі 13-го туру Ередивізі своїм шостим забитим голом у сезоні.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Kids&Us Manresa coge ritmo",
+    "link": "https://as.com/baloncesto/acb/el-kidsus-manresa-coge-ritmo-f202611-n/",
+    "pubDate": "2026-11-21 22:11:36",
+    "category": "Baloncesto",
+    "description": "El conjunto catalán suma su tercera victoria consecutiva tras superar al MoraBanc Andorra, que llegó a remontar 21 puntos. Allen, genial, con 20 puntos.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Від початку доби відбулося 116 боєзіткнень",
+    "link": "https://ua.korrespondent.net/ukraine/4930802-vid-pochatku-doby-vidbulosia-116-boiezitknen",
+    "pubDate": "2026-11-21 21:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4648367.jpg\">Ворог завдав одного ракетного удару та здійснив 51 авіаційний удар, скинув 162 керовані авіабомби. Також застосував 4445 дронів-камікадзе та 1599 разів обстріляв населені пункти й позиції наших військ.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Rufián reprocha a Yolanda Díaz no haber negociado la reforma laboral con ERC y Bildu, priorizando a Garamendi y Ciudadanos",
+    "link": "https://www.elperiodico.com/es/politica/20261121/rufian-reprocha-yolanda-diaz-campana-electoral-136707793",
+    "pubDate": "2026-11-21 21:55:02",
+    "category": "",
+    "description": "<h2>Junqueras avisa de que Junts y Comuns no conseguirán diputado en Tarragona y que votarles \"restará a la izquierda y al independentismo\"</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Арсенал на виїзді зіграв унічию з Ньюкаслом: 2:2",
+    "link": "https://ua.korrespondent.net/sport/football/4930805-arsenal-na-vyizdi-zihrav-unichyui-z-nuikaslom-22",
+    "pubDate": "2026-11-21 21:49:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4648353.jpg\">Суперники провели результативне протистояння, однак жодна з команд не змогла досягти одноосібного успіху.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Abascal apela en Alicante al votante de izquierdas tras clamar contra la “mafia criminal” del Gobierno de Sánchez",
+    "link": "https://www.elperiodico.com/es/politica/20261121/abascal-apela-alicante-votante-izquierdas-136707674",
+    "pubDate": "2026-11-21 21:48:18",
+    "category": "",
+    "description": "<h2>El pabellón El Sequet de San Vicente del Raspeig se llena en el mitin de Vox, donde el candidato ha señalado al Gobierno por los accidentes ferroviarios y pone el foco en la inmigración</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "В окремих регіонах України прогнозують сніг",
+    "link": "https://ua.korrespondent.net/ukraine/4930798-v-okremykh-rehionakh-ukrainy-prohnozuuit-snih",
+    "pubDate": "2026-11-21 21:37:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4648352.jpg\">Вночі на північному сході країни, вдень у західних та північних областях невеликий мокрий сніг; на решті території без істотних опадів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Атака на Запоріжжя: зросла кількість поранених",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4930800-ataka-na-zaporizhzhia-zrosla-kilkist-poranenykh",
+    "pubDate": "2026-11-21 21:21:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4648366.jpg\">Кількість поранених зросла до трьох, серед них - двоє дітей. Вибуховою хвилею пошкоджені багатоквартирні будинки.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Primitiva hoy: resultados y comprobar números premiados en el sorteo del sábado, 21 de noviembre, en directo",
+    "link": "https://www.elperiodico.com/es/sociedad/20261121/primitiva-hoy-resultados-comprobar-numeros-136706333",
+    "pubDate": "2026-11-21 21:00:22",
+    "category": "",
+    "description": "",
+    "topic": "лотереї",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "РФ ударила по Запоріжжю, поранено дитину",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4930794-rf-udaryla-po-zaporizhzhui-poraneno-dytynu",
+    "pubDate": "2026-11-21 20:55:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4648339.png\">У повідомленні на офіцйному ТГ-каналі Семікіна йдеться про те, що рух транспорту мостами та греблею ДніпроГЕС повністю перекрито.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "LaLiga, en directo: Real Madrid - Celta de Vigo",
+    "link": "https://www.elperiodico.com/es/deportes/20261121/laliga-directo-real-madrid-celta-136705979",
+    "pubDate": "2026-11-21 20:53:02",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "El PP exige a Morant rectificar por decir que a los socialistas les hubiera gustado que Sánchez \"abofeteara\" a Feijóo",
     "link": "https://www.elperiodico.com/es/politica/20261121/pp-exige-morant-rectificar-decir-136706291",
     "pubDate": "2026-11-21 20:45:04",
@@ -7,6 +133,15 @@
     "description": "<h2 class=\"item\">\"Compañeros y compañeras, yo sé que a todos os hubiera gustado que el presidente le hubiera pegado cuatro bofetadas bien dadas (a Feijóo)\", dijo Morant en un mitin en Ontinyent</h2><h2 class=\"item\">Dirigentes populares aseguran que<strong> </strong>\"no se pueden normalizar los insultos. Exigimos una rectificación\" </h2>",
     "topic": "політика",
     "topic_match_probability": 96
+  },
+  {
+    "title": "ПСЖ Забарного у виїзному матчі обіграв Ніццу з рахунком 3:2",
+    "link": "https://ua.korrespondent.net/sport/football/4930796-pszh-zabarnoho-u-vyiznomu-matchi-obihrav-nitstsu-z-rakhunkom-32",
+    "pubDate": "2026-11-21 20:45:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4648325.jpg\">Успіх, однак, був затьмарений травмуванням ключового гравця Дезіре Дуе, якого з поля винесли на ношах.",
+    "topic": "спорт",
+    "topic_match_probability": 100
   },
   {
     "title": "У Британії вироблятимуть українські дрони для СОУ",
