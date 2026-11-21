@@ -63,12 +63,11 @@ function parseItemsFromXml(xmlText) {
   return itemMatches.map((itemXml) => {
     const pubDateRaw = getTagValue(itemXml, 'pubDate');
     return {
-      item: {
-        title: getTagValue(itemXml, 'title'),
-        link: getTagValue(itemXml, 'link'),
-        pubDate: parseAndFormatPubDate(pubDateRaw),
-        category: getTagValue(itemXml, 'category'),
-      },
+      title: getTagValue(itemXml, 'title'),
+      link: getTagValue(itemXml, 'link'),
+      pubDate: parseAndFormatPubDate(pubDateRaw),
+      category: getTagValue(itemXml, 'category'),
+      description: getTagValue(itemXml, 'description'),
     };
   });
 }

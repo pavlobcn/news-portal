@@ -1,141 +1,74 @@
-# News for 2026-05-18
-Generated at: 2026-05-18 21:34
+# News for 2026-11-21 18:34
 
-Previous day: [2026-05-17](./2026-05-17.md)
-
-## www.elperiodico.com
-- 23:30 [Al menos cinco muertos, dos de ellos los tiradores, en ataque a una mezquita en San Diego](https://www.elperiodico.com/es/internacional/20260518/cinco-muertos-tiradores-ataque-mezquita-130380718)
-- 23:26 [Ancelotti desvela el enigma y convoca a Neymar para jugar el Mundial con Brasil](https://www.elperiodico.com/es/deportes/20260518/ancelotti-desvela-enigma-convoca-neymar-130380575)
-- 23:16 [El Arsenal roza la Premier con un triunfo por la mínima ante el Burnley](https://www.elperiodico.com/es/deportes/20260518/arsenal-roza-premier-triunfo-minima-130380513)
-- 23:03 [Catalunya necesita nuevos presupuestos](https://www.elperiodico.com/es/opinion/20260518/catalunya-necesita-nuevos-presupuestos-editorial-130380284)
-- 22:52 [Carmen Moriyón, alcaldesa de Gijón, en el Foro del Noroeste:  "Necesitamos mejores conexiones ferroviarias y logísticas"](https://www.elperiodico.com/es/economia/20260518/carmen-moriyon-alcaldesa-gijon-foro-130380331)
-- 22:49 [Javier Moll, presidente de Prensa Ibérica: "Tenemos en nuestra mano el triunfo para poner al Noroeste en el mapa"](https://www.elperiodico.com/es/economia/20260518/javier-moll-presidente-prensa-iberica-130380260)
-- 22:43 [Arranca en Asturias el II Foro del Noroeste, que ya atisba en su mano "el triunfo para poner de verdad en el mapa" un territorio "estratégico para España y Europa"](https://www.elperiodico.com/es/economia/20260518/arranca-gijon-ii-foro-noroeste-130380168)
-- 22:26 [Comienza el Foro del Noroeste: El despegue de Asturias, Galicia y Castilla y Léon](https://www.elperiodico.com/es/videos/economia/comienza-foro-noroeste-despegue-asturias/130379989.shtml)
-- 22:16 [Se cierra el plazo de candidaturas a la Sindicatura de Greuges de Barcelona con David Bondia y Gemma Calvet como aspirantes](https://www.elperiodico.com/es/barcelona/20260518/cierra-plazo-candidaturas-sindicatura-greuges-barcelona-bondia-calvet-130379587)
-- 21:47 [Feijóo se compromete a "incrementar las plantillas" médicas y a crear un fondo estatal para enfermedades raras](https://www.elperiodico.com/es/politica/20260518/feijoo-compromete-incrementar-plantillas-medicas-130379139)
-- 21:35 [Un choque entre dos camiones acaba en incendio y corta la AP-7 en Santa Margarida i els Monjos](https://www.elperiodico.com/es/sucesos/20260518/incendio-camion-corta-ap-7-130378599)
-- 21:32 [Collboni recibe al Rotary International para abordar la convención que el club celebrará en junio de 2027 en Barcelona](https://www.elperiodico.com/es/barcelona/20260518/collboni-recibe-rotary-international-convencion-barcelona-2027-130378545)
-- 21:30 [Cristian Mungiu cuestiona el ‘wokismo’ en Cannes](https://www.elperiodico.com/es/ocio-y-cultura/20260518/cristian-mungiu-cuestiona-wokismo-cannes-130375773)
-- 21:30 [La polarización toca techo](https://www.elperiodico.com/es/opinion/20260518/polarizacion-toca-techo-130378157)
-- 21:01 [China ya prueba en ratones una vacuna experimental de ARNm contra distintas variantes del ébola, incluida la cepa de Bundibugyo](https://www.elperiodico.com/es/sociedad/20260518/china-vacuna-experimental-ebola-variante-bundibugyo-130369419)
-- 21:00 [Mariscadas prehistóricas en Murcia: los neandertales ibéricos ya se las apañaban para incluir marisco en su menú hace 115.000 años](https://www.elperiodico.com/es/sociedad/20260518/mariscadas-prehistoria-neandertales-consumo-moluscos-investigacion-130364790)
-- 21:00 [El horóscopo de mañana, martes 19 de mayo: amor, trabajo, dinero y salud para todos los signos del zodíaco](https://www.elperiodico.com/es/vida-y-estilo/20260518/horoscopo-hoy-martes-19-mayo-dv-130188932)
-- 20:59 [Un centenar de vecinos de Sabadell exigen soluciones contra el ruido: “Solo pedimos respeto y descanso"](https://www.elperiodico.com/es/barcelona/20260518/centenar-vecinos-sabadell-exigen-soluciones-ruido-pedimos-respeto-descanso-130377486)
-- 20:56 [BMW recupera el espíritu Alpina con un gigantesco V8](https://www.elperiodico.com/es/motor/20260518/bmw-vision-alpina-gigantesco-v8-130359827)
-- 20:42 [Enrique Riquelme anunciará "en dos o tres días" si se presenta a las elecciones del Real Madrid](https://www.elperiodico.com/es/deportes/20260518/enrique-riquelme-elecciones-real-madrid-130377686)
-- 20:10 [Andy Burnham, alcalde de Mánchester y aspirante a relevar a Starmer: un gestor eficaz con un plan ambicioso pero difícil de aplicar](https://www.elperiodico.com/es/internacional/20260518/andy-burnham-alcalde-manchester-aspirante-relevar-starmer-gestor-eficaz-plan-ambicioso-dificil-aplicar-130376984)
-- 20:10 [Un jurado desestima la demanda de Musk contra OpenAI y Sam Altman por haber prescrito](https://www.elperiodico.com/es/internacional/20260518/desestimada-demanda-musk-openai-sam-altman-ia-chatgpt-traicion-juicio-inteligencia-artificial-130376976)
-- 20:07 [Robles se desvincula de la tormenta en Indra: "No tenemos ni idea ni queremos saber"](https://www.elperiodico.com/es/economia/20260518/robles-desvincula-tormenta-indra-cambio-presidente-130376884)
-- 20:05 [Brote de Hantavirus en el crucero MV Hondius, en directo: última hora del español positivo, cuarentena en el Gómez Ulla y estado crítico de la paciente francesa](https://www.elperiodico.com/es/sociedad/20260518/hantavirus-brote-contagios-positivos-sintomas-crucero-hondius-ultima-hora-directo-129857561)
-- 20:01 [Más de 10 años esperando un piso de protección oficial en Barcelona: "No entro en ningún sorteo, no hay manera"](https://www.elperiodico.com/es/barcelona/20260518/barcelona-pisos-proteccion-oficial-lista-espera-inscritos-130369651)
-- 20:01 [El Govern y ERC pactan un plan de barrios para los municipios pequeños de 400 millones en cuatro años](https://www.elperiodico.com/es/politica/20260518/pacto-presupuestos-govern-illa-erc-cataluna-plan-barrios-municipios-pequenos-rurales-130373838)
-- 19:44 [Ángel Simón fuerza la salida de José Vicente de los Mozos como consejero delegado de Indra tras pactarlo con el Gobierno](https://www.elperiodico.com/es/economia/20260518/angel-simon-fuerza-salida-jose-130376338)
-- 19:40 [Huelga de profesores, en directo: última hora de la convocatoria, cortes en carreteras y servicios mínimos](https://www.elperiodico.com/es/sociedad/20260518/huelga-profesores-ultima-hora-directo-130098594)
-- 19:37 [Josep Rius se descarta como candidato de Junts en Barcelona y deja vía libre a Jordi Martí](https://www.elperiodico.com/es/politica/20260518/josep-rius-no-sera-candidato-junts-elecciones-municipales-barcelona-jordi-marti-127169645)
-- 19:30 [¿Cómo quedarían unas elecciones generales con los votos de las autonómicas de Andalucía, Castilla y León, Aragón y Extremadura?](https://www.elperiodico.com/es/politica/20260518/elecciones-generales-votos-autonomicas-andalucia-extremadura-aragon-castilla-y-leon-130368142)
-- 19:29 [El Gobierno no aclara si España ampliará su contrato militar de 16,5 millones con Palantir](https://www.elperiodico.com/es/politica/20260518/gobierno-aclara-espana-ampliara-contrato-palantir-ia-ejercito-guerra-peter-thiel-inteligencia-artificial-130368144)
-- 19:09 [Moreno sí, pero con lío](https://www.elperiodico.com/es/opinion/20260518/moreno-lio-130373353)
-- 18:51 [El interrail de Mourinho, por Lluís Carrasco](https://www.elperiodico.com/es/deportes/20260518/interrail-mourinho-lluis-carrasco-130374064)
-- 18:44 [ACS lanza una ampliación de capital de 1.800 millones para acelerar su apuesta por centros de datos](https://www.elperiodico.com/es/economia/20260518/florentino-perez-criteria-inyectaran-700-millones-acs-centros-datos-130374144)
-- 18:44 [Audio | Pago de sobresueldos](https://www.elperiodico.com/es/videos/politica/audio-pago-sobresueldos/130374130.shtml)
-- 18:40 [Qué hacer esta semana en Barcelona: estos son los mejores planes](https://www.elperiodico.com/es/que-hacer/planes/20260518/hoy-barcelona-agenda-actividades-planes-semana-102304377)
-- 18:37 [El MNAC insiste en pedir la intervención del IPCE y cuestiona el auto "constitucionalmente inaceptable" de la jueza de Sijena](https://www.elperiodico.com/es/ocio-y-cultura/20260518/mnac-insiste-pedir-intervencion-ipce-130371048)
-- 18:31 [Un Álex Palou de menos a más consigue su segunda pole en las 500 Millas de Indianápolis](https://www.elperiodico.com/es/deportes/20260518/alex-palou-segunda-pole-indianapolis-500-indycar-2026-130373174)
-- 18:30 [Albares confirma el nuevo asalto de Israel a la Flotilla a Gaza con 45 españoles: "Es una violación del derecho internacional"](https://www.elperiodico.com/es/internacional/20260518/albares-confirma-israel-asaltado-nueva-flotilla-130373673)
-- 18:18 [Que Dios reparta suerte… y pisos](https://www.elperiodico.com/es/opinion/20260518/dios-reparta-suerte-pisos-130372196)
-- 18:12 [El PSOE aún puede arrinconar a Vox en Andalucía con una abstención condicionada a inversión en sanidad y derechos](https://www.elperiodico.com/es/politica/20260518/psoe-vox-andalucia-abstencion-130372812)
-- 18:11 [Stellantis reactiva sus planes con Dongfeng en China para fabricar nuevos Peugeot y Jeep electrificados](https://www.elperiodico.com/es/motor/20260518/stellantis-reactiva-planes-dongfeng-china-130356408)
-- 18:08 [Bruselas lanza el Premio Simone Veil para reconocer el patrimonio cultural judío en Europa](https://www.elperiodico.com/es/ocio-y-cultura/20260518/bruselas-lanza-premio-simone-veil-130372582)
-- 18:07 [La literatura en catalán será la invitada de honor del Salón Internacional del Libro de Turín en 2027](https://www.elperiodico.com/es/ocio-y-cultura/20260518/literatura-catalana-invitada-honor-salon-internacional-libro-turin-2027-130362924)
-- 18:05 [Los judíos españoles piden a Urtasun que manifieste su "oposición" al concierto de Kanye West en Madrid](https://www.elperiodico.com/es/ocio-y-cultura/20260518/judios-espanoles-piden-urtasun-manifieste-130372304)
-- 17:49 [La formación del talento como infraestructura crítica del país](https://www.elperiodico.com/es/opinion/20260518/formacion-talento-infraestructura-critica-pais-130369905)
-- 17:48 [Nuevo golpe al patrimonio en Aragón: otros dos edificios entran en la Lista Roja por su avanzado estado de deterioro](https://www.elperiodico.com/es/ocio-y-cultura/20260518/nuevo-golpe-patrimonio-aragon-edificios-130371412)
-- 17:41 [Bajo seguimiento en el inicio de la cuarta semana de huelga de médicos, según las consejerías](https://www.elperiodico.com/es/sociedad/20260518/huelga-medicos-cuarta-semana-seguimiento-130369162)
-- 17:39 [La línea orbital ferroviaria, en cinco claves: un trazado de 120 kilómetros que quiere transformar la movilidad metropolitana](https://www.elperiodico.com/es/economia/20260518/como-es-linea-orbital-ferroviaria-cinco-claves-proyecto-rodalies-130367395)
-- 17:32 [Un robo de cable en L'Hospitalet provoca retrasos en la R2, la R2Nord y la R2Sud de Rodalies](https://www.elperiodico.com/es/sociedad/20260518/robo-cable-lhospitalet-provoca-retrasos-r2-r2nord-r2sud-130369079)
-- 17:27 [Sanidad financia una nueva versión oral de Recigarum para dejar de fumar en 25 días](https://www.elperiodico.com/es/videos/salud/sanidad-financia-nueva-version-oral/130370325.shtml)
-- 17:11 [Andalucía: las lecciones](https://www.elperiodico.com/es/opinion/20260518/andalucia-lecciones-130367223)
-- 17:08 [Daniel Sirera (PP) pide abrir supermercados municipales con producto fresco en tres barrios de Barcelona](https://www.elperiodico.com/es/barcelona/20260518/daniel-sirera-pp-pide-abrir-supermercados-publicos-130367028)
-- 17:00 [Así luchan las ciudades españoles ante la proliferación de palomas: desde rejillas y pinchos a halcones para ahuyentarlas](https://www.elperiodico.com/es/sociedad/20260518/palomas-proliferacion-ciudades-espanoles-130270168)
-- 16:27 [Un menor de 14 años roba una furgoneta y se da una vuelta por Trinitat Vella antes de ser parado por la Guardia Urbana](https://www.elperiodico.com/es/sucesos/20260518/menor-14-roba-furgoneta-sant-andreu-130367768)
-- 16:17 [Los hijos de la mujer que murió atropellada por su esposo en Murcia acusan a su padre: "No fue un accidente, fue un asesinato"](https://www.elperiodico.com/es/sucesos/20260518/hijos-mujer-murio-atropellada-esposo-130367501)
-- 16:10 [Hacienda pone el foco en las criptomonedas: los expertos avisan de multas de hasta el 150% de la cuota no declarada](https://www.elperiodico.com/es/economia/20260518/hacienda-pone-foco-criptomonedas-avisa-multas-150-por-ciento-cuota-no-declara-dv-130366281)
-- 16:09 [Los pilotos piden soluciones para la peligrosa primera curva de Montmeló: "Llegamos a 300km/h sin margen de error"](https://www.elperiodico.com/es/deportes/20260518/pilotos-piden-soluciones-peligrosa-primera-curva-montmelo-130351897)
-- 16:03 [¿Un coche inspirado en un chalet? Así es el Bentley Bentayga Chalet](https://www.elperiodico.com/es/motor/20260518/coche-inspirado-bentley-bentayga-chalet-edition-130344250)
-- 15:47 [Educació presentará este martes una propuesta para que los profesores se sienten a negociar en plena semana de huelgas](https://www.elperiodico.com/es/sociedad/20260518/presion-parlament-presupuesto-incluya-dinero-mejoras-escuela-negociacion-huelga-educativa-barcelona-130365428)
-- 15:46 [Àlex Márquez se perderá, como poco, los grandes premios de Italia y Hungría](https://www.elperiodico.com/es/deportes/20260518/alex-marquez-perdera-grandes-premios-130365886)
-- 15:16 [Hansi Flick oficializa la renovación con el Barça hasta 2028](https://www.elperiodico.com/es/deportes/20260518/flick-oficializa-renovacion-barcelona-2028-130364384)
-- 14:58 [Las dos versiones del comisario que confesó la Kitchen: de exculpar al 'dos' de Interior a señalarle como responsable](https://www.elperiodico.com/es/politica/20260518/versiones-comisario-confeso-kitchen-exculpar-130364612)
-- 14:42 [Un nuevo mapa descubre las áreas clave para los tiburones y otros depredadores en el Mediterráneo](https://www.elperiodico.com/es/sociedad/20260518/nuevo-mapa-descubre-areas-clave-130354579)
-- 14:30 [Sergio Delgado, entrenador, revela cuántas cervezas quema jugar un partido de pádel](https://www.elperiodico.com/es/salud/20260518/sergio-delgado-entrenador-cervezas-quemas-padel-dv-130190944)
-- 14:15 [Ana Obregón y sus planes para este verano: "Desde luego te voy a decir una cosa, en un crucero no me voy"](https://www.elperiodico.com/es/gente/20260518/ana-obregon-planes-verano-luego-130361735)
-- 14:09 [La infanta Elena confirma que el Rey Juan Carlos se encuentra 'bien' tras su visita a Sanxenxo](https://www.elperiodico.com/es/gente/20260518/infanta-elena-reaparece-radiante-pasar-130361496)
-- 14:06 [Juanma Moreno anuncia un gobierno en solitario sin Vox en Andalucía y descarta una repetición electoral: "El resultado del 17M es contundente"](https://www.elperiodico.com/es/politica/20260518/juanma-moreno-insta-vox-facilitar-gobierno-solitario-130361667)
-- 14:05 [Salou inicia la renaturalización de la playa de Llevant con la demolición de la mítica coctelería Belvedere](https://www.elperiodico.com/es/tarragona/20260518/salou-inicia-renaturalizacion-playa-llevant-130350949)
-- 14:03 [Huelga de profesores en Jardinets de Gràcia](https://www.elperiodico.com/es/videos/sociedad/huelga-profesores-jardinets-gracia-video/130361123.shtml)
-- 14:03 [El alcalde de Madrid y Teresa Urquijo disfrutan en familia del torneo hípico con su bebé Lucas](https://www.elperiodico.com/es/gente/20260518/alcalde-madrid-teresa-urquijo-disfrutan-130361145)
-- 13:59 [Marta Ortega reaparece en el Longines Global Champions Tour de Madrid junto a su familia](https://www.elperiodico.com/es/gente/20260518/marta-ortega-reaparece-longines-global-130360939)
-- 13:57 [Junts acusa a ERC de pactar los presupuestos con Illa "a cambio de nada"](https://www.elperiodico.com/es/politica/20260518/junts-acusa-erc-pactar-presupuestos-illa-govern-cambio-nada-130357264)
-- 13:54 [Desgracia para Fermín: pasará por el quirófano por una fractura y se queda sin Mundial](https://www.elperiodico.com/es/deportes/20260518/fermin-lesion-mundial-peligro-130358600)
-- 13:45 [Feijóo celebra la "espectacular" victoria de Moreno sin alusiones a Vox y asegura que "el que da miedo es Sánchez"](https://www.elperiodico.com/es/politica/20260518/feijoo-celebra-espectacular-victoria-moreno-130360188)
-- 13:30 [El Real Madrid confirma oficialmente el portazo a Dani Carvajal](https://www.elperiodico.com/es/deportes/20260518/real-madrid-confirma-oficialmente-portazo-130359379)
-- 13:25 [El consumo mundial de vino cayó en 2025 a niveles mínimos que no se registraban desde 1957](https://www.elperiodico.com/es/economia/20260518/consumo-mundial-vino-cayo-2025-niveles-minimos-1957-130359080)
-- 13:01 [Detenida una mujer por abandonar a su hijo de dos años en plena calle para irse de fiesta en Madrid](https://www.elperiodico.com/es/sucesos/20260518/detenida-mujer-abandonar-hijo-anos-130357369)
-- 12:48 [El Mundo Today | Hacienda confirma que cada catalán tendrá que pagar 8,57 euros a Shakira](https://www.elperiodico.com/es/que-hacer/20260518/mundo-today-barcelona-hacienda-confirma-catalan-tendra-pagar-8-57-euros-shakira-130354824)
-- 12:41 [La mayor estafadora de España burla a la Justicia: ‘Anita, la Fantástica’, en busca y captura tras no presentarse a juicio](https://www.elperiodico.com/es/sucesos/20260518/mayor-estafadora-espana-burla-justicia-130355463)
-- 12:16 [Un mini documental de 'Cata Mayo': 'Gaudí, Adrià y el regreso del salmonete'](https://www.elperiodico.com/es/videos/gastronomia/gaudi-adria-regreso-salmonete/130354099.shtml)
-- 12:14 [Dos detenidos por matar a un hombre tras una pelea en una masía de Reus](https://www.elperiodico.com/es/sucesos/20260518/detenidos-matar-hombre-pelea-masia-reus-130353586)
-- 12:13 [Rescatadas cinco personas que iban en un barco a la deriva frente a la costa de Mataró](https://www.elperiodico.com/es/videos/sociedad/rescatadas-cinco-personas-barco-deriva-frente-costa-mataro-video/130353710.shtml)
-- 12:12 [García-Page exige a Sánchez que tome nota: "Hay que leer el mensaje de los ciudadanos"](https://www.elperiodico.com/es/politica/20260518/garcia-page-exige-sanchez-tome-130353877)
-- 12:09 [La unidad de depresión resistente de Sant Joan de Déu logra entre un 25% y un 30% de éxito en el primer año](https://www.elperiodico.com/es/ser-feliz/20260518/unidad-depresion-resistente-deu-logra-130351261)
-- 12:00 [ERC aprobará los primeros presupuestos de Illa](https://www.elperiodico.com/es/politica/20260518/pacto-presupuestos-catalunya-govern-erc-consell-nacional-130348516)
-- 11:53 [Largas colas frente a la tienda de Swatch en paseo de Gràcia de Barcelona](https://www.elperiodico.com/es/videos/barcelona/largas-colas-tienda-swatch-paseo-gracia-barcelona-video/130352279.shtml)
-- 11:22 [Aplauso general a la respuesta de Teresa Rodríguez a la impertinencia de una tuitera: "¿De qué vas disfrazada?" "De señora con quimio"](https://www.elperiodico.com/es/politica/20260518/teresa-rodriguez-cancer-elecciones-andalucia-dv-130347340)
-- 11:20 [Rebajas de hasta el 73 %: Amazon liquida sus productos más solicitados a su precio mínimo histórico](https://www.elperiodico.com/es/shopping/20260518/amazon-ofertas-dia-mejores-rebajas-descuentos-productos-mas-buscados-130103428)
-- 10:31 [Profesores en huelga se manifiestan ante la Sagrada Família](https://www.elperiodico.com/es/fotos/sociedad/profesores-huelga-manifiestan-sagrada-familia-fotos-130347790)
-- 10:23 [Nausicaa Bonnín desafía al sistema patriarcal en 'L'autora': "Celebro que haya tantas creadoras, pero me alegraré de verdad el día que ya no sea extraordinario"](https://www.elperiodico.com/es/ocio-y-cultura/20260518/nausicaa-bonnin-desafia-sistema-patriarcal-130220809)
-- 10:00 [La Audiencia Nacional concluye que Shakira no defraudó en 2011 y Hacienda debe devolverle 60 millones](https://www.elperiodico.com/es/economia/20260518/audiencia-nacional-concluye-shakira-defraudo-haciendia-millones-130346439)
-- 09:54 [¿A qué zonas afecta hoy lunes, 18 de mayo, la huelga de profesores en Barcelona y Catalunya? ¿Dónde toca mañana martes?](https://www.elperiodico.com/es/sociedad/20260518/huelga-profesores-barcelona-catalunya-hoy-lunes-18-mayo-dv-130131145)
-- 09:53 [Protesta de profesores en huelga frente a la Sagrada Família](https://www.elperiodico.com/es/videos/sociedad/protesta-profesores-huelga-frente-sagrada-familia-barcelona-video/130346333.shtml)
-- 09:48 [Moeve Fútbol Zone 1x26: la jornada 37 de LaLiga, a debate con Víctor Sánchez](https://www.elperiodico.com/es/deportes/20260518/moeve-futbol-zone-1x26-jornada-bc-130346246)
-- 09:41 [Cirugía ortognática: cuándo es necesaria y qué problemas puede corregir](https://www.elperiodico.com/es/cuidamos-tu-salud/consejos/20260518/cirugia-ortognatica-necesaria-problemas-corregir-130345919)
-- 09:32 [Quién ha ganado en Andalucía | Consulte aquí los resultados de las elecciones andaluzas 2026 calle a calle](https://www.elperiodico.com/es/politica/20260518/quien-ha-ganado-andalucia-consulte-resultados-elecciones-andaluzas-2026-calle-calle-130343488)
-- 09:29 [El recordatorio de OCU a los padres: Monster, Red Bull y otras bebidas energéticas "no son refrescos"](https://www.elperiodico.com/es/salud/20260518/bebidas-energeticas-prohibicion-ocu-consumo-dv-130218266)
-- 08:24 [Estos restaurantes históricos de carretera merecen una parada](https://www.elperiodico.com/es/gastronomia/restaurantes/20260518/mejores-restaurantes-historicos-carretera-catalunya-128601715)
-- 08:22 [Cuando un bocadillo de pincho moruno alivia más que un paracetamol](https://www.elperiodico.com/es/gastronomia/20260518/bocadillo-moruno-bar-regentado-chinos-articulo-pau-arenos-130189796)
-- 08:20 [Madrid al pilpil: estos son los mejores restaurantes vascos modernos y clásicos de la capital](https://www.elperiodico.com/es/gastronomia/restaurantes/20260518/mejores-restaurantes-vascos-madrid-130234127)
-- 07:38 [Marta Segalés, directiva de Mecàniques Segalés: ”El Executive MBA te da herramientas para no dejar que la experiencia sea la única variable sobre la mesa”](https://www.elperiodico.com/es/economia/20260518/marta-entrevista-segales-executive-mba-uvic-bc-130262553)
-- 06:59 [Guerra de Irán, en directo: última hora | Trump advierte de que EEUU está preparado para un "ataque a gran escala contra Irán en cualquier momento"](https://www.elperiodico.com/es/internacional/20260518/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713)
-- 06:00 [El PSOE andaluz: de las mayorías absolutas a una sucursal de Madrid sin proyecto propio](https://www.elperiodico.com/es/opinion/20260518/psoe-andaluz-nostalgia-mayorias-absolutas-sucursal-madrid-130333712)
-- 06:00 [El dilema de tener hijos cuando la salud mental pesa en la decisión](https://www.elperiodico.com/es/ser-feliz/20260518/dilema-hijos-salud-mental-pesa-129877269)
-- 03:11 [EEUU agita un nuevo peligro en su relación con Cuba: la supuesta compra de drones de Irán y Rusia por parte de La Habana](https://www.elperiodico.com/es/internacional/20260518/eeuu-agita-nuevo-peligro-relacion-130342145)
-- 00:32 [Robert Lewandowski se despide del Camp Nou](https://www.elperiodico.com/es/fotos/en-imagenes/robert-lewandowski-despide-camp-nou-barca-fotos-130340987)
+Previous day: [2026-11-20](./data/2026-11-20.md)
 
 ## ua.korrespondent.net
-- 23:20 [Росіяни атакували балістикою об'єкти Нафтогазу](https://ua.korrespondent.net/ukraine/4879630-rosiiany-atakuvaly-balistykoui-obiekty-naftohazu)
-- 22:52 [Зеленський анонсував кадрові зміни](https://ua.korrespondent.net/ukraine/4879628-zelenskyi-anonsuvav-kadrovi-zminy)
-- 22:31 [Ювентус націлився на перспективного захисника](https://ua.korrespondent.net/sport/football/4879626-yuventus-natsilyvsia-na-perspektyvnoho-zakhysnyka)
-- 22:24 [США знову продовжили послаблення проти нафти з РФ](https://ua.korrespondent.net/world/4879624-ssha-znovu-prodovzhyly-poslablennia-proty-nafty-z-rf)
-- 21:58 [Трамп заявив, що відклав заплановані атаки на Іран](https://ua.korrespondent.net/world/4879622-tramp-zaiavyv-scho-vidklav-zaplanovani-ataky-na-iran)
-- 21:47 [ЄС планує прив’язати частину допомоги Україні до нового податку - ЗМІ](https://ua.korrespondent.net/ukraine/4879620-yes-planuie-pryviazaty-chastynu-dopomohy-ukraini-do-novoho-podatku-zmi)
-- 21:32 [Гвардіола піде з Манчестер Сіті після сезону](https://ua.korrespondent.net/sport/football/4879616-hvardiola-pide-z-manchester-siti-pislia-sezonu)
-- 21:26 [Киянин скоїв стрілянину і забарикадувався в оселі](https://ua.korrespondent.net/city/kiev/4879614-kyianyn-skoiv-strilianynu-i-zabarykaduvavsia-v-oseli)
-- 20:58 [Глава МЗС Литви закликав НАТО за потреби напасти на Калінінград](https://ua.korrespondent.net/world/4879612-hlava-mzs-lytvy-zaklykav-nato-za-potreby-napasty-na-kalininhrad)
-- 20:46 [Пентагон: Відмова перекидати війська США в Польщу не була "раптовою"](https://ua.korrespondent.net/world/4879610-pentahon-vidmova-perekydaty-viiska-ssha-v-polschu-ne-bula-raptovoui)
-- 20:26 [Зеленський назвав втрати РФ від ударів України](https://ua.korrespondent.net/ukraine/4879608-zelenskyi-nazvav-vtraty-rf-vid-udariv-ukrainy)
-- 20:20 [Час спливає. Назріває відновлення війни з Іраном](https://ua.korrespondent.net/world/4879605-chas-splyvaie-nazrivaie-vidnovlennia-viiny-z-iranom)
-- 19:59 [Уряд Гренландії заявив США, що "острів не продається"](https://ua.korrespondent.net/world/4879604-uriad-hrenlandii-zaiavyv-ssha-scho-ostriv-ne-prodaietsia)
-- 19:56 [ЗМІ: Пакистан скерував авіацію у Саудівську Аравію](https://ua.korrespondent.net/world/4879600-zmi-pakystan-skeruvav-aviatsiui-u-saudivsku-araviui)
-- 19:50 [Мадяр розкрив, чим Кремль прикриває Москву](https://ua.korrespondent.net/world/russia/4879602-madiar-rozkryv-chym-kreml-prykryvaie-moskvu)
-- 19:28 [Стало відомо, скільки випадків зараження хантавірусом зафіксували в Україні](https://ua.korrespondent.net/ukraine/4879598-stalo-vidomo-skilky-vypadkiv-zarazhennia-khantavirusom-zafiksuvaly-v-ukraini)
-- 19:24 [Ізраїль заблокував нову морську місію до Гази](https://ua.korrespondent.net/world/4879593-izrail-zablokuvav-novu-morsku-misiui-do-hazy)
-- 19:16 [Збірна України оголосила склад на товариські матчі](https://ua.korrespondent.net/sport/football/4879595-zbirna-ukrainy-oholosyla-sklad-na-tovaryski-matchi)
+18:25 [Знеструмлення після атак РФ: найгірше - на Одещині](https://ua.korrespondent.net/city/odessa/4930770-znestrumlennia-pislia-atak-rf-naihirshe-na-odeschyni)<br>
+17:50 [В Іраку під час пожежі на електростанції загинули четверо людей](https://ua.korrespondent.net/world/4930766-v-iraku-pid-chas-pozhezhi-na-elektrostantsii-zahynuly-chetvero-luidei)<br>
+17:25 [Росіяни вдарили по залізничному вокзалу на Житомирщині](https://ua.korrespondent.net/ukraine/4930761-rosiiany-vdaryly-po-zaliznychnomu-vokzalu-na-zhytomyrschyni)<br>
+16:30 [РФ поширює фейк про удар по Кривому Рогу](https://ua.korrespondent.net/ukraine/4930755-rf-poshyruiie-feik-pro-udar-po-kryvomu-rohu)<br>
+16:05 [Росіяни завдали авіаудару по Білозерці: троє поранених](https://ua.korrespondent.net/ukraine/4930753-rosiiany-zavdaly-aviaudaru-po-bilozertsi-troie-poranenykh)<br>
+15:40 [На Сумщині російський БПЛА ударив по вокзалу](https://ua.korrespondent.net/ukraine/4930750-na-sumschyni-rosiiskyi-bpla-udaryv-po-vokzalu)<br>
+14:25 [Місце загибелі Героїв Небесної Сотні отримало новий статус](https://ua.korrespondent.net/ukraine/4930735-mistse-zahybeli-heroiv-nebesnoi-sotni-otrymalo-novyi-status)<br>
+14:04 [НБА: Юта Михайлюка продовжує падіння з поразкою](https://ua.korrespondent.net/sport/basketball/4930733-nba-yuta-mykhailuika-prodovzhuie-padinnia-z-porazkoui)<br>
+13:44 [НБУ зменшив продаж доларів на тлі зміцнення гривні](https://ua.korrespondent.net/business/financial/4930729-nbu-zmenshyv-prodazh-dolariv-na-tli-zmitsnennia-hryvni)<br>
+11:59 [У Києві знайшли бойову частину російської ракети](https://ua.korrespondent.net/city/kiev/4930719-u-kyievi-znaishly-boiovu-chastynu-rosiiskoi-rakety)<br>
+11:37 [Сили оборони уразили міст біля Луганська](https://ua.korrespondent.net/ukraine/4930717-syly-oborony-urazyly-mist-bilia-luhanska)<br>
+10:46 [Вінниця частково знеструмлена після атаки "шахеда"](https://ua.korrespondent.net/ukraine/4930712-vinnytsia-chastkovo-znestrumlena-pislia-ataky-shakheda)<br>
+10:22 [У Бердянську зазнав удару штаб армії РФ - соцмережі](https://ua.korrespondent.net/ukraine/4930709-u-berdiansku-zaznav-udaru-shtab-armii-rf-sotsmerezhi)<br>
+09:52 [Атака на Кривий Ріг: поранення отримали 60 осіб](https://ua.korrespondent.net/ukraine/4930706-ataka-na-kryvyi-rih-poranennia-otrymaly-60-osib)<br>
+09:35 [На Харківщині 15 постраждалих через російські атаки](https://ua.korrespondent.net/ukraine/4930704-na-kharkivschyni-15-postrazhdalykh-cherez-rosiiski-ataky)<br>
+09:13 [Bitcoin впав мінімуму за два роки](https://ua.korrespondent.net/business/financial/4930701-Bitcoin-vpav-minimumu-za-dva-roky)<br>
+05:42 [У США вперше за 50 років від кору померла дитина](https://ua.korrespondent.net/world/4930680-u-ssha-vpershe-za-50-rokiv-vid-koru-pomerla-dytyna)<br>
+04:35 [Росія завдала повторного удару по Кривому Рогу](https://ua.korrespondent.net/ukraine/4930674-rosiia-zavdala-povtornoho-udaru-po-kryvomu-rohu)<br>
+00:43 [Росія вдарила по дитячому садочку в Запоріжжі](https://ua.korrespondent.net/city/zaporozhye/4930658-rosiia-vdaryla-po-dytiachomu-sadochku-v-zaporizhzhi)<br>
 
 ## as.com
-- 22:13 [La emotiva despedida de Fam se cuela en el título del Valencia Basket](https://as.com/baloncesto/mas_baloncesto/la-emotiva-despedida-de-fam-se-cuela-en-el-titulo-del-valencia-basket-f202605-n/)
-- 18:40 [Ya es definitivo: el Barça se queda sin Xavi Pascual](https://as.com/baloncesto/ya-es-definitivo-xavi-pascual-dejara-el-barca-a-final-de-temporada-f202605-n/)
-- 14:04 [Chus Mateo: “El abanico de jugadores se amplía y hay que hilar fino”](https://as.com/baloncesto/mas_baloncesto/chus-mateo-el-abanico-de-jugadores-se-amplia-y-hay-que-hilar-fino-f202605-n/)
-- 10:03 [Olympiacos, ¿el mayor favorito de siempre?](https://as.com/baloncesto/euroliga/olympiacos-el-mayor-favorito-de-siempre-f202605-n/)
-- 10:02 [El Barça camina hacia la autodestrucción](https://as.com/baloncesto/euroliga/el-barca-camina-hacia-la-autodestruccion-f202605-n/)
-- 10:02 [El Barça camina hacia la autodestrucción](https://as.com/baloncesto/euroliga/el-barca-camina-hacia-la-autodestruccion-f202605-n/)
+12:56 [El Madrid, erre que erre a domicilio](https://as.com/baloncesto/euroliga/el-madrid-erre-que-erre-a-domicilio-f202611-n/)<br>
+08:38 [Lo mejor de otro recital de Aday Mara en la NBA: la acción es de muchos quilates](https://as.com/baloncesto/videos/lo-mejor-de-otro-recital-de-aday-mara-en-la-nba-la-accion-es-de-muchos-quilates-f202611-v/)<br>
+
+## www.elperiodico.com
+18:06 [Muere Paolo Bulgari, el empresario que llevó la empresa de joyería de la familia a un símbolo del lujo italiano](https://www.elperiodico.com/es/sociedad/20261121/muere-paolo-bulgari-empresario-llevo-joyeria-lujo-136702263)<br>
+18:01 [Tiempo en Catalunya mañana domingo: lluvias y aviso naranja por viento en Barcelona](https://www.elperiodico.com/es/tiempo/20261121/tiempo-cataluna-hoy-domingo-22-de-noviembre-viento-lluvias-avisos-dv-loc-136700303)<br>
+18:00 [Los Pirineos se quedan sin glaciares: "No solo pierden hielo, también han dejado de moverse"](https://www.elperiodico.com/es/sociedad/20261121/pirineos-quedan-glaciares-pierden-hielo-136670663)<br>
+17:30 [César Millán, adiestrador de perros: "No elijas una raza solo porque se ve bien en una foto"](https://www.elperiodico.com/es/medio-ambiente/20261121/cesar-millan-adiestrador-perros-principantes-dv-136491827)<br>
+16:51 [Hallado muerto un exjefe de la policía de Italia que obstruyó presuntamente la investigación por un atentado de la mafia](https://www.elperiodico.com/es/internacional/20261121/exjefe-policia-italia-aparece-muerto-136700192)<br>
+16:41 [Los docentes se manifiestan por la educación pública en Barcelona](https://www.elperiodico.com/es/fotos/sociedad/docentes-manifiestan-educacion-publica-barcelona-fotos-136699756)<br>
+16:15 [Es oficial: esta es la nueva obligación para los dueños de perros y gatos que entra en vigor el próximo 2 de enero de 2027](https://www.elperiodico.com/es/medio-ambiente/20261121/ley-perros-gatos-mascotas-identificacion-chip-enero-2027-dv-136543219)<br>
+16:05 [El pueblo de 79 habitantes del norte de España que en Navidad se conoce como la "pequeña Laponia": todas sus casas se llenan de luces y adornos](https://www.elperiodico.com/es/sociedad/20261121/pueblo-norte-espana-navidad-pequena-laponia-dv-136625537)<br>
+16:00 [Josep Maria Piulats, oncólogo: "El mayor factor de riesgo del cáncer de próstata es el envejecimiento"](https://www.elperiodico.com/es/sanidad/20261121/josep-maria-piulats-oncologo-mayor-riesgo-cancer-prostata-envejecimiento-136087595)<br>
+16:00 [Historias en la recámara de un crucero en Barcelona: "Cada día de trabajo es nuevo y diferente"](https://www.elperiodico.com/es/barcelona/20261121/historias-recamara-crucero-barcelona-cada-dia-trabajo-es-diferente-136608175)<br>
+16:00 [Sebastián La Rosa, experto en longevidad: "Estamos más dispuestos a cuidar a otro que a cuidarnos a nosotros mismos"](https://www.elperiodico.com/es/vida-y-estilo/20261121/sebastian-rosa-experto-longevidad-cuidar-otros-nosotros-dv-136625879)<br>
+16:00 [Detectar el cáncer de próstata sin pruebas innecesarias: así es el nuevo cribado selectivo que Europa ensaya en España](https://www.elperiodico.com/es/sanidad/20261121/cribados-cancer-prostata-selectivos-proyecto-europeo-manresa-ferrol-psa-resonancias-debate-sobrediagnostico-136067555)<br>
+15:33 [Catalina de Gales compartirá su experiencia con el cáncer en un nuevo documental](https://www.elperiodico.com/es/sociedad/20261121/catalina-gales-compartira-experiencia-cancer-documental-136698491)<br>
+15:05 [El papa avisa de "riesgos enormes para la humanidad" si la ética no manda en la tecnología](https://www.elperiodico.com/es/sociedad/20261121/papa-avisa-riesgos-enormes-humanidad-tecnologia-136696656)<br>
+15:00 [El AMB cederá 344 viviendas de alquiler social a entidades del tercer sector durante 99 años](https://www.elperiodico.com/es/barcelona/20261121/amb-cedera-344-viviendas-alquiler-tercer-sector-99-anos-136494867)<br>
+14:37 [Los docentes se manifiestan por la educación pública en Barcelona](https://www.elperiodico.com/es/videos/sociedad/docentes-manifiestan-educacion-publica-barcelona-video/136696110.shtml)<br>
+13:47 [3.000 personas se movilizan en Barcelona por la educación pública y la vivienda, según la Guardia Urbana](https://www.elperiodico.com/es/sociedad/20261121/personas-movilizan-barcelona-manifestacion-docentes-escuela-publica-vivienda-3000-136695822)<br>
+13:05 [Dan Buettner, experto en longevidad: "Las personas que viven 100 años no van al gimnasio, pero se mueven cada 20 minutos"](https://www.elperiodico.com/es/salud/20261121/dan-buettner-experto-longevidad-personas-viven-100-anos-gimnasio-dv-136606483)<br>
+12:30 [Nuria Roure, psicóloga del sueño: "Uno de los patrones más frecuentes es despertarse y no poder volver a dormir"](https://www.elperiodico.com/es/salud/20261121/fase-rem-sueno-microdespertares-nuria-roure-dv-130660784)<br>
+12:20 [James Harden no se acaba: anota 51 puntos a sus 37 años y supera un récord de Kobe Bryant](https://www.elperiodico.com/es/deportes/20261121/james-harden-acaba-anota-51-136693569)<br>
+12:15 [Ahorrar para la jubilación y financiar Europa: las nuevas fórmulas para movilizar el dinero de las familias](https://www.elperiodico.com/es/economia/20261121/ahorrar-jubilacion-financiar-europa-nuevas-formulas-movilizar-dinero-familias-136117817)<br>
+12:14 [Planes de pensiones de empresa: las ventajas de ahorrar con la compañía y la letra pequeña que conviene conocer](https://www.elperiodico.com/es/economia/20261121/planes-pensiones-empresa-ventajas-ahorrar-136405800)<br>
+12:12 [Los planes de empresa, el hermano pequeño de las pensiones que apenas llega al 15% de los ocupados](https://www.elperiodico.com/es/economia/20261121/planes-empresa-hermano-pequeno-pensiones-136405868)<br>
+12:05 [Catalunya activa la alerta de emergencias por viento ante la previsión de fuertes rachas este domingo](https://www.elperiodico.com/es/tiempo/20261121/cataluna-activa-alerta-emergencias-viento-fuertes-rachas-barcelona-136681986)<br>
+11:57 [El fin de los vuelos baratos en Europa enciende alarmas: la inquietud empieza por Canarias](https://www.elperiodico.com/es/economia/20261121/vuelos-baratos-europa-enciende-alarmas-136692690)<br>
+10:50 [Huelga de estudiantes hoy 21 de noviembre, última hora en directo: manifestaciones y seguimiento de la convocatoria en España y otros países de Europa](https://www.elperiodico.com/es/sociedad/20261121/huelga-estudiantes-hoy-20-noviembre-ultima-hora-directo-136610682)<br>
+10:30 [Suso, albañil: "Ganaba 160.000 pesetas y unos amigos se fueron a Canarias y cobraron 1.200.000 en un mes. Dije: yo aquí no me quedo"](https://www.elperiodico.com/es/economia/20261121/suso-albanil-ganaba-16000-pesetas-canarias-cobraron-dv-136588444)<br>
+10:26 [Pikachu y Eevee se instalan en el escritorio con la nueva colección gaming de Razer](https://www.elperiodico.com/es/tecnologia/20261121/pikachu-eevee-escritorio-personalizado-precio-136690574)<br>
+10:20 [Dos ciberataques golpean al FBI y al Departamento de Agricultura de Estados Unidos](https://www.elperiodico.com/es/internacional/20261121/ciberataques-golpean-fbi-departamento-agricultura-eeuu-136690330)<br>
+10:15 [João Marinho (114 años), el hombre vivo más longevo: "Nunca fue de arriesgarse mucho"](https://www.elperiodico.com/es/vida-y-estilo/20261121/hombre-vivo-viejo-mundo-centenario-joao-marinho-dv-136509075)<br>
+09:11 [Un jurado de California declara culpable a Jonathan Rinderknecht por el devastador incendio de Los Ángeles](https://www.elperiodico.com/es/internacional/20261121/jurado-declara-culpable-sospechoso-provocar-incendios-los-angeles-palisades-136688504)<br>
+08:33 [Hallan en China una roca de 3.950 millones de años, considerada la más antigua de Asia](https://www.elperiodico.com/es/ciencia/20261121/roca-piedra-antigua-descubrimiento-china-millones-anos-136687746)<br>
+08:14 [GTA VI rompe récords y genera 3.790 millones de dólares en su primer día a la venta](https://www.elperiodico.com/es/ocio-y-cultura/20261121/gtavi-grand-theft-auto-videojuegos-records-ventas-136687600)<br>
+08:10 [Un matemático de Anthropic asegura haber resuelto con IA el problema más famoso de cálculo, la hipótesis de Riemann](https://www.elperiodico.com/es/tecnologia/20261121/matematico-anthropic-asegura-haber-resuelto-problema-matematicas-hipotesis-riemann-136687524)<br>
+08:01 [Crónica desde Roma: El hiperrealismo del Egipto romano con alma y sin algoritmo](https://www.elperiodico.com/es/internacional/20261121/hiperrealismo-egipto-romano-exposicion-roma-alma-algoritmo-136687547)<br>
+07:05 ["Cuando nos vean por la calle, por favor pasen de largo": Encarna, con discapacidad visual, reivindica el respeto a los perros guía](https://www.elperiodico.com/es/sociedad/20261121/encarna-perro-guia-vean-calle-favor-pasen-largo-dv-136673273)<br>
+06:01 [Los cruceros se desestacionalizan en Barcelona: más salidas, nuevo superbarco en pleno invierno y precios de oferta](https://www.elperiodico.com/es/barcelona/20261121/cruceros-desestacionalizan-barcelona-nuevo-superbarco-invierno-136676434)<br>
+06:01 [Por qué Robert Pattinson es el James Bond idóneo para la nueva era](https://www.elperiodico.com/es/ocio-y-cultura/20261121/robert-pattinson-james-bond-nueva-era-007-136669195)<br>
+06:01 [Barcelona moviliza a medio centenar de empresas locales por cada crucero que pasa por la ciudad](https://www.elperiodico.com/es/barcelona/20261121/barcelona-moviliza-medio-centenar-empresas-crucero-ciudad-136582938)<br>
+06:01 [Marruecos vuelve a exprimir al máximo las llegadas de gas desde España tras meses de frenazo](https://www.elperiodico.com/es/economia/20261121/marruecos-exprimir-maximo-llegadas-gas-espana-136668774)<br>
+06:01 ["Me llamaban jirafa y marimacho": Sofía del Prado sufrió bullying por su altura y acabó coronándose Miss España](https://www.elperiodico.com/es/sociedad/20261121/sofia-prado-miss-espana-victima-bullying-testimonio-acoso-escolar-136576240)<br>
+06:01 [Audie Norris, leyenda del Barça: "Estuve a punto de morir dos veces por una infección en la rodilla"](https://www.elperiodico.com/es/deportes/20261121/audie-norris-leyenda-barca-estuve-136634976)<br>
+04:50 [Toda la vida preguntándole a Mario Vargas Llosa](https://www.elperiodico.com/es/ocio-y-cultura/libros/20261121/vargas-llosa-libro-gerald-martin-136544624)<br>
+04:50 [Rosa Montero, escritora: "El mal existe porque los buenos lo permiten"](https://www.elperiodico.com/es/ocio-y-cultura/libros/20261121/rosa-montero-entrevista-libro-dia-vida-clarita-136487709)<br>
