@@ -1,5 +1,41 @@
 [
   {
+    "title": "La portada de EL PERIÓDICO del 22 de noviembre de 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20261121/portada-periodico-22-noviembre-2026-136709232",
+    "pubDate": "2026-11-21 23:13:35",
+    "category": "",
+    "description": "",
+    "topic": "portada de EL PERIÓDICO",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Un gol de Kike Salas con la ayuda del portero Valles premia la fe del Sevilla",
+    "link": "https://www.elperiodico.com/es/deportes/20261121/gol-kike-salas-ayuda-portero-136709112",
+    "pubDate": "2026-11-21 23:09:36",
+    "category": "",
+    "description": "<h2 class=\"item\">El tanto del central en el último suspiro evitó el triunfo del Betis en el derbi del Pizjuán.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El talismán Espí vuelve a rescatar al Real Madrid de Rafa Nadal",
+    "link": "https://www.elperiodico.com/es/deportes/20261121/real-madrid-celta-goles-resumen-resultado-136709147",
+    "pubDate": "2026-11-21 23:07:00",
+    "category": "",
+    "description": "<h2>El equipo blanco remonta, con goles del valenciano y de Bellingham, ante un Celta que se adelantó enseguida en el Bernabéu</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Російський БпЛА двічі порушив повітряний простір Молдови",
+    "link": "https://ua.korrespondent.net/world/4930812-rosiiskyi-bpla-dvichi-porushyv-povitrianyi-prostir-moldovy",
+    "pubDate": "2026-11-21 22:53:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4648422.jpg\">Реактивний безпілотник в перший раз був на території республіки п'ять хвилин, а в другий - хвилину.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
     "title": "Mueren dos trabajadores tras caer a un foso en una empresa de aceite de Sevilla",
     "link": "https://www.elperiodico.com/es/sucesos/20261121/mueren-trabajadores-caer-foso-empresa-136708813",
     "pubDate": "2026-11-21 22:33:46",
