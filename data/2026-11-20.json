@@ -117,6 +117,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Мир до січня 2027. Трампа тисне на Україну",
+    "link": "https://ua.korrespondent.net/world/4930663-myr-do-sichnia-2027-trampa-tysne-na-ukrainu",
+    "pubDate": "2026-11-20 22:48:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4647584.jpeg\">На тлі мирних ініціатив Дональд Трамп продовжує публічно демонструвати прихильність до російського лідера.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Nos colamos en la alfombra roja de los 40MusicAwards",
     "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/colamos-alfombra-roja-40musicawards/136684538.shtml",
     "pubDate": "2026-11-20 22:41:43",
@@ -412,6 +421,15 @@
     "description": "<h2 class=\"item\">“Feijóo colocó el barro desde el principio. La decisión fue no entrar. Sánchez hizo lo que tiene que hacer un presidente de España”, defiende un ministro socialista</h2><h2 class=\"item\">Uno de los más estrechos colaboradores de Feijóo traslada incluso la enorme sorpresa que le supuso el candidato del PSOE: “Esperábamos un Sánchez mejor”</h2>",
     "topic": "вибори (але не президента України чи США)",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Вторгнення Росії в Україну. Онлайн",
+    "link": "https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain",
+    "pubDate": "2026-11-20 19:43:00",
+    "category": "Новини політики",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/2748609.jpg\">Володимир Путін почав повномасштабну війну проти України 24 лютого 2022 року. Не зумівши \"взяти Київ за три дні\", він сконцентрувався на захопленні Донбасу та південних областей України.",
+    "topic": "політика",
+    "topic_match_probability": 95
   },
   {
     "title": "Sigue en directo el choque de Liga U entre Burgos Grupo Santiago y Valencia Basket",
@@ -808,6 +826,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4647220.jpg\">В Росії назвали \"неприйнятною\" кандидатуру Каллас для участі у мирних переговорах.",
     "topic": "політика",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Війна на Близькому Сході. Онлайн",
+    "link": "https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain",
+    "pubDate": "2026-11-20 17:06:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473659.jpg\">США та Ізраїль проводять масштабну операцію проти Ірану. Тегеран у відповідь атакує військові об'єкти США майже у всіх країнах Перської затоки.",
+    "topic": "політика",
+    "topic_match_probability": 90
   },
   {
     "title": "Absentismo laboral, aumento del 'delivery' y ventas millonarias: estas han sido las consecuencias del estreno de GTA VI",
