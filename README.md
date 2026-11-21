@@ -1,8 +1,15 @@
-# News for 2026-11-21 13:35
+# News for 2026-11-21 17:27
 
 Previous day: [2026-11-20](./data/2026-11-20.md)
 
 ## ua.korrespondent.net
+17:25 [Росіяни вдарили по залізничному вокзалу на Житомирщині](https://ua.korrespondent.net/ukraine/4930761-rosiiany-vdaryly-po-zaliznychnomu-vokzalu-na-zhytomyrschyni)<br>
+16:30 [РФ поширює фейк про удар по Кривому Рогу](https://ua.korrespondent.net/ukraine/4930755-rf-poshyruiie-feik-pro-udar-po-kryvomu-rohu)<br>
+16:05 [Росіяни завдали авіаудару по Білозерці: троє поранених](https://ua.korrespondent.net/ukraine/4930753-rosiiany-zavdaly-aviaudaru-po-bilozertsi-troie-poranenykh)<br>
+15:40 [На Сумщині російський БПЛА ударив по вокзалу](https://ua.korrespondent.net/ukraine/4930750-na-sumschyni-rosiiskyi-bpla-udaryv-po-vokzalu)<br>
+14:25 [Місце загибелі Героїв Небесної Сотні отримало новий статус](https://ua.korrespondent.net/ukraine/4930735-mistse-zahybeli-heroiv-nebesnoi-sotni-otrymalo-novyi-status)<br>
+14:04 [НБА: Юта Михайлюка продовжує падіння з поразкою](https://ua.korrespondent.net/sport/basketball/4930733-nba-yuta-mykhailuika-prodovzhuie-padinnia-z-porazkoui)<br>
+13:44 [НБУ зменшив продаж доларів на тлі зміцнення гривні](https://ua.korrespondent.net/business/financial/4930729-nbu-zmenshyv-prodazh-dolariv-na-tli-zmitsnennia-hryvni)<br>
 11:59 [У Києві знайшли бойову частину російської ракети](https://ua.korrespondent.net/city/kiev/4930719-u-kyievi-znaishly-boiovu-chastynu-rosiiskoi-rakety)<br>
 11:37 [Сили оборони уразили міст біля Луганська](https://ua.korrespondent.net/ukraine/4930717-syly-oborony-urazyly-mist-bilia-luhanska)<br>
 10:46 [Вінниця частково знеструмлена після атаки "шахеда"](https://ua.korrespondent.net/ukraine/4930712-vinnytsia-chastkovo-znestrumlena-pislia-ataky-shakheda)<br>
@@ -19,6 +26,18 @@ Previous day: [2026-11-20](./data/2026-11-20.md)
 08:38 [Lo mejor de otro recital de Aday Mara en la NBA: la acción es de muchos quilates](https://as.com/baloncesto/videos/lo-mejor-de-otro-recital-de-aday-mara-en-la-nba-la-accion-es-de-muchos-quilates-f202611-v/)<br>
 
 ## www.elperiodico.com
+16:51 [Hallado muerto un exjefe de la policía de Italia que obstruyó presuntamente la investigación por un atentado de la mafia](https://www.elperiodico.com/es/internacional/20261121/exjefe-policia-italia-aparece-muerto-136700192)<br>
+16:41 [Los docentes se manifiestan por la educación pública en Barcelona](https://www.elperiodico.com/es/fotos/sociedad/docentes-manifiestan-educacion-publica-barcelona-fotos-136699756)<br>
+16:15 [Es oficial: esta es la nueva obligación para los dueños de perros y gatos que entra en vigor el próximo 2 de enero de 2027](https://www.elperiodico.com/es/medio-ambiente/20261121/ley-perros-gatos-mascotas-identificacion-chip-enero-2027-dv-136543219)<br>
+16:05 [El pueblo de 79 habitantes del norte de España que en Navidad se conoce como la "pequeña Laponia": todas sus casas se llenan de luces y adornos](https://www.elperiodico.com/es/sociedad/20261121/pueblo-norte-espana-navidad-pequena-laponia-dv-136625537)<br>
+16:00 [Josep Maria Piulats, oncólogo: "El mayor factor de riesgo del cáncer de próstata es el envejecimiento"](https://www.elperiodico.com/es/sanidad/20261121/josep-maria-piulats-oncologo-mayor-riesgo-cancer-prostata-envejecimiento-136087595)<br>
+16:00 [Historias en la recámara de un crucero en Barcelona: "Cada día de trabajo es nuevo y diferente"](https://www.elperiodico.com/es/barcelona/20261121/historias-recamara-crucero-barcelona-cada-dia-trabajo-es-diferente-136608175)<br>
+16:00 [Sebastián La Rosa, experto en longevidad: "Estamos más dispuestos a cuidar a otro que a cuidarnos a nosotros mismos"](https://www.elperiodico.com/es/vida-y-estilo/20261121/sebastian-rosa-experto-longevidad-cuidar-otros-nosotros-dv-136625879)<br>
+16:00 [Detectar el cáncer de próstata sin pruebas innecesarias: así es el nuevo cribado selectivo que Europa ensaya en España](https://www.elperiodico.com/es/sanidad/20261121/cribados-cancer-prostata-selectivos-proyecto-europeo-manresa-ferrol-psa-resonancias-debate-sobrediagnostico-136067555)<br>
+15:33 [Catalina de Gales compartirá su experiencia con el cáncer en un nuevo documental](https://www.elperiodico.com/es/sociedad/20261121/catalina-gales-compartira-experiencia-cancer-documental-136698491)<br>
+15:00 [El AMB cederá 344 viviendas de alquiler social a entidades del tercer sector durante 99 años](https://www.elperiodico.com/es/barcelona/20261121/amb-cedera-344-viviendas-alquiler-tercer-sector-99-anos-136494867)<br>
+14:37 [Los docentes se manifiestan por la educación pública en Barcelona](https://www.elperiodico.com/es/videos/sociedad/docentes-manifiestan-educacion-publica-barcelona-video/136696110.shtml)<br>
+13:47 [3.000 personas se movilizan en Barcelona por la educación pública y la vivienda, según la Guardia Urbana](https://www.elperiodico.com/es/sociedad/20261121/personas-movilizan-barcelona-manifestacion-docentes-escuela-publica-vivienda-3000-136695822)<br>
 13:05 [Dan Buettner, experto en longevidad: "Las personas que viven 100 años no van al gimnasio, pero se mueven cada 20 minutos"](https://www.elperiodico.com/es/salud/20261121/dan-buettner-experto-longevidad-personas-viven-100-anos-gimnasio-dv-136606483)<br>
 12:30 [Nuria Roure, psicóloga del sueño: "Uno de los patrones más frecuentes es despertarse y no poder volver a dormir"](https://www.elperiodico.com/es/salud/20261121/fase-rem-sueno-microdespertares-nuria-roure-dv-130660784)<br>
 12:20 [James Harden no se acaba: anota 51 puntos a sus 37 años y supera un récord de Kobe Bryant](https://www.elperiodico.com/es/deportes/20261121/james-harden-acaba-anota-51-136693569)<br>
