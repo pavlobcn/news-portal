@@ -1,8 +1,11 @@
-# News for 2026-11-22 21:56
+# News for 2026-11-22 23:08
 
 Previous day: [2026-11-21](./data/2026-11-21.md)
 
 ## ua.korrespondent.net
+23:04 [ФІБА поставила крапку в питанні повернення РФ та Білорусі](https://ua.korrespondent.net/sport/basketball/4930943-fiba-postavyla-krapku-v-pytanni-povernennia-rf-ta-bilorusi)<br>
+22:49 [Удар по Димеру: знайдено ще двох загиблих](https://ua.korrespondent.net/ukraine/4930975-udar-po-dymeru-znaideno-sche-dvokh-zahyblykh)<br>
+22:23 [Росіяни атакували дитсадок у Харкові](https://ua.korrespondent.net/city/kharkov/4930970-rosiiany-atakuvaly-dytsadok-u-kharkovi)<br>
 20:59 [Бундесвер вперше випробував дрони-камікадзе на навчаннях у Литві](https://ua.korrespondent.net/world/4930961-bundesver-vpershe-vyprobuvav-drony-kamikadze-na-navchanniakh-u-lytvi)<br>
 20:31 [Укренерго посилить відключення на понеділок](https://ua.korrespondent.net/ukraine/4930959-ukrenerho-posylyt-vidkluichennia-na-ponedilok)<br>
 20:09 [У Димері з-під завалів врятували дитину](https://ua.korrespondent.net/ukraine/4930956-u-dymeri-z-pid-zavaliv-vriatuvaly-dytynu)<br>
@@ -31,6 +34,8 @@ Previous day: [2026-11-21](./data/2026-11-21.md)
 03:31 [У Краснодарі спалахнула будівля Росгвардії - ЗМІ](https://ua.korrespondent.net/world/russia/4930831-u-krasnodari-spalakhnula-budivlia-roshvardii-zmi)<br>
 
 ## as.com
+22:34 [Martínez: “Es un momento complicado”](https://as.com/baloncesto/acb/martinez-es-un-momento-complicado-f202611-n/)<br>
+21:42 [Sekulic: “Esto no es una competición de quién tiene más problemas”](https://as.com/baloncesto/acb/sekulic-esto-no-es-una-competicion-de-quien-tiene-mas-problemas-f202611-n/)<br>
 21:27 [Resumen del Real Madrid vs Joventut , jornada 9 de la Liga Endesa](https://as.com/videos/acb/resumen-del-real-madrid-vs-joventut-jornada-9-de-la-liga-endesa-f202611-v/)<br>
 21:26 [Feliz rescate](https://as.com/baloncesto/feliz-rescate-f202611-n/)<br>
 20:00 [Semana ‘horribilis’ del Barça](https://as.com/baloncesto/acb/semana-horribilis-del-barca-f202611-n/)<br>
@@ -50,6 +55,7 @@ Previous day: [2026-11-21](./data/2026-11-21.md)
 06:18 [“En Shanghai tomaba helados con Jayson Tatum”](https://as.com/baloncesto/mas_baloncesto/en-shanghai-tomaba-helados-con-jayson-tatum-f202611-n/)<br>
 
 ## www.elperiodico.com
+22:46 [Alarma en Mallorca por un incendio forestal en la península de Formentor](https://www.elperiodico.com/es/sociedad/20261122/alarma-mallorca-incendio-forestal-peninsula-136732136)<br>
 21:38 [El Real Madrid derrota al Joventut con un Andrés Feliz estelar en un partido histórico para Pedro Martínez (91-88)](https://www.elperiodico.com/es/deportes/20261122/real-madrid-gana-joventut-cronica-resultado-136730826)<br>
 21:24 [Una explosión hunde un buque de guerra ruso en Libia](https://www.elperiodico.com/es/internacional/20261122/explosion-hunde-buque-guerra-ruso-136730628)<br>
 21:12 [El Barça consuma su semana negra en la pista del La Laguna Tenerife (94-82)](https://www.elperiodico.com/es/deportes/20261122/barca-consuma-semana-negra-pista-136730537)<br>
