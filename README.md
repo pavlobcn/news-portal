@@ -1,8 +1,10 @@
-# News for 2026-11-22 17:43
+# News for 2026-11-22 18:48
 
 Previous day: [2026-11-21](./data/2026-11-21.md)
 
 ## ua.korrespondent.net
+18:26 [Пентагон розсекретив нові матеріали про НЛО](https://ua.korrespondent.net/world/4930938-pentahon-rozsekretyv-novi-materialy-pro-nlo)<br>
+17:39 [У Димері деблокували тіло третої жертви удару РФ](https://ua.korrespondent.net/ukraine/4930932-u-dymeri-deblokuvaly-tilo-tretoi-zhertvy-udaru-rf)<br>
 17:08 [Шведський стартап представив перехоплювач російських "Гераней"](https://ua.korrespondent.net/business/companies/4930928-shvedskyi-startap-predstavyv-perekhopluivach-rosiiskykh-heranei)<br>
 16:49 [ШІ допоміг розв’язати одну із семи задач тисячоліття](https://ua.korrespondent.net/tech/science/4930925-shi-dopomih-rozviazaty-odnu-iz-semy-zadach-tysiacholittia)<br>
 14:59 [Свята 23 листопада 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4930887-sviata-23-lystopada-2026-roku-istoriia-tradytsii)<br>
@@ -25,6 +27,9 @@ Previous day: [2026-11-21](./data/2026-11-21.md)
 03:31 [У Краснодарі спалахнула будівля Росгвардії - ЗМІ](https://ua.korrespondent.net/world/russia/4930831-u-krasnodari-spalakhnula-budivlia-roshvardii-zmi)<br>
 
 ## as.com
+18:43 [Real Madrid - Joventut, en directo: ACB (Liga Endesa) 2026/27 hoy en vivo](https://as.com/baloncesto/acb/real-madrid-joventut-en-directo-acb-liga-endesa-202627-hoy-en-vivo-f202611-d/)<br>
+18:42 [Tenerife – Barcelona, en directo: Liga Endesa 2026-27 en vivo hoy](https://as.com/baloncesto/acb/tenerife-barcelona-en-directo-liga-endesa-2026-27-en-vivo-hoy-f202611-d/)<br>
+17:39 [Josh Nebo, fuera tres o cuatro meses](https://as.com/baloncesto/acb/josh-nebo-fuera-tres-o-cuatro-meses-f202611-n/)<br>
 15:08 [El Coliseum es un fortín para el Leyma](https://as.com/baloncesto/acb/el-coliseum-es-un-fortin-para-el-leyma-f202611-n/)<br>
 14:56 [Jarro de agua fría](https://as.com/baloncesto/mas_baloncesto/jarro-de-agua-fria-f202611-n/)<br>
 14:25 [Miribilla vuelve a ser una fiera](https://as.com/baloncesto/en-euskadi-manda-el-bilbao-basket-f202611-n/)<br>
@@ -36,6 +41,9 @@ Previous day: [2026-11-21](./data/2026-11-21.md)
 06:18 [“En Shanghai tomaba helados con Jayson Tatum”](https://as.com/baloncesto/mas_baloncesto/en-shanghai-tomaba-helados-con-jayson-tatum-f202611-n/)<br>
 
 ## www.elperiodico.com
+18:45 [Según la psicología, estos son los 10 síntomas que debemos vigilar en nuestros hijos: "Si en casa hay silencio, ahí es cuando hay que echar un vistazo"](https://www.elperiodico.com/es/ser-feliz/20261122/psicologia-nino-feliz-infancia-javier-de-haro-psicologo-dv-136423566)<br>
+18:17 [Los psicólogos coinciden: "Cuando estamos reclinados, pensamos de forma más creativa, tenemos un carácter más equilibrado y nos sentimos más poderosos"](https://www.elperiodico.com/es/ser-feliz/20261122/psicologos-eleccion-sitios-asientos-personalidad-dv-136245490)<br>
+18:06 [Al menos 28 personas atendidas en un incendio en la planta baja de una vivienda de la calle Viladordis de Manresa](https://www.elperiodico.com/es/sucesos/20261122/28-personas-atendidas-incendio-manresa-136726533)<br>
 17:34 [Un apagón final condena al Girona en Santiago (91-81)](https://www.elperiodico.com/es/deportes/20261122/apagon-final-condena-girona-santiago-136725731)<br>
 17:24 [Probamos el Dyson R2 Nurovi Wash+Dry: el robot que hace la limpieza sin que se note](https://www.elperiodico.com/es/tecnologia/20261122/dyson-r2-nurovi-wash-oferta-136725105)<br>
 17:10 [Sebastián La Rosa, doctor, explica su rutina diaria: "Siempre hay una caminata después de cenar"](https://www.elperiodico.com/es/vida-y-estilo/20261122/calidad-vida-habitos-saludables-sebastian-la-rosa-doctor-rutina-diaria-cena-brocoli-dv-136555503)<br>
