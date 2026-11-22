@@ -1,8 +1,10 @@
-# News for 2026-11-22 09:49
+# News for 2026-11-22 11:06
 
 Previous day: [2026-11-21](./data/2026-11-21.md)
 
 ## ua.korrespondent.net
+10:59 [Нові удари по енергетиці: де ситуація найскладніша](https://ua.korrespondent.net/ukraine/4930865-novi-udary-po-enerhetytsi-de-sytuatsiia-naiskladnisha)<br>
+10:36 [Армія РФ здійснила 131 атаку: де було найгарячіше](https://ua.korrespondent.net/ukraine/4930867-armiia-rf-zdiisnyla-131-ataku-de-bulo-naihariachishe)<br>
 09:26 [На Харківщині пошкоджені будинки, склади і підприємство](https://ua.korrespondent.net/ukraine/4930859-na-kharkivschyni-poshkodzheni-budynky-sklady-i-pidpryiemstvo)<br>
 08:21 [На Чернігівщині після удару РФ палало підприємство](https://ua.korrespondent.net/ukraine/4930853-na-chernihivschyni-pislia-udaru-rf-palalo-pidpryiemstvo)<br>
 07:56 [Атака на Димер: триває пошук людей під завалами](https://ua.korrespondent.net/ukraine/4930851-ataka-na-dymer-tryvaie-poshuk-luidei-pid-zavalamy)<br>
@@ -22,6 +24,11 @@ Previous day: [2026-11-21](./data/2026-11-21.md)
 06:18 [“En Shanghai tomaba helados con Jayson Tatum”](https://as.com/baloncesto/mas_baloncesto/en-shanghai-tomaba-helados-con-jayson-tatum-f202611-n/)<br>
 
 ## www.elperiodico.com
+10:52 [Llegan dos cayucos más a El Hierro, el primero con 74 personas a bordo](https://www.elperiodico.com/es/sociedad/20261122/llegan-cayucos-hierro-74-personas-136715907)<br>
+10:51 [Las fuertes rachas de viento azotan Catalunya](https://www.elperiodico.com/es/videos/sociedad/fuertes-rachas-viento-azotan-catalunya-video/136715769.shtml)<br>
+10:29 [Uno de cada tres trabajadores extranjeros que cotizan en España procede de Latinoamérica](https://www.elperiodico.com/es/sociedad/20261122/trabajadores-extranjeros-espana-latinoamerica-136715015)<br>
+10:05 [Un hotel de un pequeño pueblo a dos horas de Catalunya busca personal y ofrece alojamiento gratuito y contrato indefinido](https://www.elperiodico.com/es/economia/20261122/hotel-pueblo-dos-horas-catalunya-personal-empleo-vivienda-gratis-trabajo-dv-loc-136626469)<br>
+10:00 [El Delta del Llobregat: la densificada área catalana que encara más crecimiento poblacional con el transporte público como reto](https://www.elperiodico.com/es/barcelona/20261122/delta-llobregat-encara-densificada-area-catalana-crecimiento-poblacional-transporte-publico-reto-136659283)<br>
 09:15 [Jordi (23 años), transportista: "Al camión tienes que dedicarle la vida, no son solo las horas de conducción es el tiempo de carga y descarga y tiempo de papeleos"](https://www.elperiodico.com/es/economia/20261122/camionero-transportista-jordi-dv-136422018)<br>
 09:08 [Berta Masats, la enfermera que dejó Catalunya para empezar de cero en Australia: "Recoger fruta 12 horas bajo el sol me hizo poner los pies en el suelo"](https://www.elperiodico.com/es/catalunya/20261122/berta-masats-enfermera-catalunya-australia-dv-136673944)<br>
 08:10 [Annia, electricista venezolana en España: "Cuando llegaba a una obra en mi país y me veían con las herramientas, no me dejaban entrar"](https://www.elperiodico.com/es/economia/20261122/annia-electricista-venezolana-obra-herramientas-no-me-dejaban-entrar-dv-136569261)<br>
