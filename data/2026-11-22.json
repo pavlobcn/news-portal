@@ -1,5 +1,446 @@
 [
   {
+    "title": "Català del Any: el trío de Disfrutar, personas normales que hacen cosas excepcionales",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20261122/catala-any-2026-restaurante-disfrutar-136587564",
+    "pubDate": "2026-11-22 07:13:26",
+    "category": "",
+    "description": "<h2 class=\"item\">Oriol Castro, Eduard Xatruch y Mateu Casañas son Disfrutar, pero Disfrutar es más: el personal de sala, el personal de cocina, la gente que engrasa la maquinaria desde el anonimato</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/cata-mayor/restaurante-disfrutar-barcelona-sh/index.html\">¿Por qué Disfrutar es un restaurante único?</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20231128/mejores-platos-restaurante-disfrutar-2023-95010688\">¿Qué se come en el restaurante Disfrutar?</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Нідерланди і Британія обговорили допомогу Україні",
+    "link": "https://ua.korrespondent.net/world/4930847-niderlandy-i-brytaniia-obhovoryly-dopomohu-ukraini",
+    "pubDate": "2026-11-22 07:06:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4648765.jpg\">Україна стала однією з тем переговорів прем’єрів Нідерландів і Великої Британії в Амстердамі. Сторони також обговорили підсумки саміту ЄС - Британія та зміцнення європейської безпеки.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "'Le Salon 'revisited', un clásico de Peeping Tom actualizado, seduce en el Temporada Alta",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261122/le-salon-revisited-clasico-peeping-136704541",
+    "pubDate": "2026-11-22 07:00:44",
+    "category": "",
+    "description": "<h2>La nueva versión de la emblemática pieza de danza-teatro y 'A beginning', mágica creación de Aurora Bauzà y Pere Jou, figuran entre las propuestas más logradas del Big Bang, un estallido de propuestas escénicas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La historia de los fusilados de Paterna llega a Estados Unidos: ‘El abismo del olvido’ de Paco Roca y Rodrigo Terrasa conquista a la crítica",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261122/historia-fusilados-paterna-llega-estados-136657135",
+    "pubDate": "2026-11-22 07:00:34",
+    "category": "",
+    "description": "<h2>La editorial Fantagraphics publica la traducción de 'El abismo del olvido', que ha recibido críticas elogiosas en varios medios especializados estadounidenses. La obra, publicada originalmente en 2023, tiene vendidos sus derechos a otros siete mercados internacionales.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Пожежа та зруйновані квартири: РФ поцілила по будинку на Київщині",
+    "link": "https://ua.korrespondent.net/ukraine/4930845-pozhezha-ta-zruinovani-kvartyry-rf-potsilyla-po-budynku-na-kyivschyni",
+    "pubDate": "2026-11-22 06:39:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4648748.jpg\">У Вишгородському районі російські дрони пошкодили житлову п’ятиповерхівку та приміщення магазину. У будинку виникла пожежа, квартири зруйновані на всіх п’яти поверхах.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Catalunya mantiene la alerta de emergencias por fuertes rachas de viento",
+    "link": "https://www.elperiodico.com/es/tiempo/20261122/cataluna-activa-alerta-emergencias-viento-fuertes-rachas-barcelona-136681986",
+    "pubDate": "2026-11-22 06:38:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Durante las primeras horas, el viento soplará con fuerza en la Selva y el Vallès Oriental y se irá extendiendo hacia el sur, afectando a las comarcas del litoral y prelitoral de Barcelona y del Camp de Tarragona</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20261122/barcelona-activa-alerta-municipal-viento-136711720\" target=\"_blank\">El Ayuntamiento de Barcelona activa la alerta municipal por el viento</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Barcelona activa la alerta municipal por fuertes vientos",
+    "link": "https://www.elperiodico.com/es/barcelona/20261122/barcelona-activa-alerta-municipal-viento-136711720",
+    "pubDate": "2026-11-22 06:35:01",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/tiempo/20261121/cataluna-activa-alerta-emergencias-viento-fuertes-rachas-barcelona-136681986\" target=\"_blank\">Catalunya mantiene la alerta por el riesgo de vendaval este domingo</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Real Madrid - Joventut: horario, TV y dónde ver la ACB 2026-27",
+    "link": "https://as.com/baloncesto/real-madrid-joventut-horario-tv-y-donde-ver-la-acb-2026-27-f202611-n/",
+    "pubDate": "2026-11-22 06:24:59",
+    "category": "Baloncesto",
+    "description": "Conoce el horario y cómo ver el partido de la jornada 9 de la Liga Endesa 2026-27 entre Real Madrid y Joventut de Badalona. Este domingo, 22 de noviembre, a las 19:00 horas.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Tenerife - Barcelona: horario, TV y dónde ver la ACB 2026-27",
+    "link": "https://as.com/baloncesto/tenerife-barcelona-horario-tv-y-donde-ver-la-acb-2026-27-f202611-n/",
+    "pubDate": "2026-11-22 06:23:55",
+    "category": "Baloncesto",
+    "description": "Conoce el horario y cómo ver el partido de la jornada 9 de la Liga Endesa 2026-27 entre La Laguna Tenerife y Barça. Este domingo, 22 de noviembre, a las 18:00 horas.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Pedro Martínez deja huella: 36 años y 1.112 partidos después",
+    "link": "https://as.com/baloncesto/acb/pedro-martinez-deja-huella-36-anos-y-1112-partidos-despues-f202611-n/",
+    "pubDate": "2026-11-22 06:22:50",
+    "category": "Baloncesto",
+    "description": "El entrenador del Real Madrid superará ante el Joventut el registro de Aíto en la ‘era ACB’ tras cuatro décadas en los banquillos. “Adaptarse es decisivo”, asegura.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El eterno recuerdo de Marcelinho",
+    "link": "https://as.com/baloncesto/acb/el-eterno-recuerdo-de-marcelinho-f202611-n/",
+    "pubDate": "2026-11-22 06:21:49",
+    "category": "Baloncesto",
+    "description": "El base ya está en la dinámica del Dubái y el Tenerife se ve abocado a seguir sin su gran referente. Hoy, visita del Barça en el primer partido de la ACB sin el añorado líder.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Генштаб оновив втрати Росії станом на 22 листопада",
+    "link": "https://ua.korrespondent.net/ukraine/4930843-henshtab-onovyv-vtraty-rosii-stanom-na-22-lystopada",
+    "pubDate": "2026-11-22 06:21:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4648733.jpg\">Українські військові за добу знищили два танки, 39 броньовиків, 66 гармат, шість РСЗВ і 243 одиниці автомобільної техніки та автоцистерн.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "“En Shanghai tomaba helados con Jayson Tatum”",
+    "link": "https://as.com/baloncesto/mas_baloncesto/en-shanghai-tomaba-helados-con-jayson-tatum-f202611-n/",
+    "pubDate": "2026-11-22 06:18:48",
+    "category": "Baloncesto",
+    "description": "Aina Hinojosa, jovencísima estudiante catalana de Bachillerato Científico que juega en la Penya, explica una historia cargada de anécdotas acerca de un verano inolvidable.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Escuchar a los jóvenes votantes, pero de verdad",
+    "link": "https://www.elperiodico.com/es/opinion/20261122/voto-joven-jovenes-votantes-elecciones-29-noviembre-136705454",
+    "pubDate": "2026-11-22 06:02:35",
+    "category": "",
+    "description": "",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Café a 1 euro y tiramisú a 2,50 en Barcelona: probamos el nuevo fenómeno viral que triunfa en Gràcia",
+    "link": "https://www.elperiodico.com/es/que-hacer/donde-comer/20261122/tiramisu-2-50-barcelona-roro-cafe-1-euro-viral-gracia-136708898",
+    "pubDate": "2026-11-22 06:02:35",
+    "category": "",
+    "description": "<h2>Espejismo 'low cost' en tiempos de inflación. Es casi un acto punk. Roro solo lleva dos semanas y media abierto y ya vende unas 150 unidades al día. ¡Y atiende en catalán! ¿Pasará el filtro del crítico gastro Òscar Broc?  </h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20261120/splatter-rooms-barcelona-salas-salpicaduras-antiestres-viral-born-to-color-136632524\" target=\"_blank\">‘Splatter rooms’ en Barcelona: las salas antiestrés donde puedes salpicarlo todo de pintura</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Repoblar el territorio",
+    "link": "https://www.elperiodico.com/es/opinion/20261122/repoblar-territorio-136701697",
+    "pubDate": "2026-11-22 06:01:44",
+    "category": "",
+    "description": "<h2>Aprovechar que España es el segundo Estado más extenso de la UE exige inversiones estratégicas y mejores infraestructuras de telecomunicaciones</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Terres de l'Ebre mira al futuro con un nuevo hospital en Tortosa y el reto de mejorar la movilidad y atraer población",
+    "link": "https://www.elperiodico.com/es/sociedad/20261122/terres-del-ebre-futuro-nuevo-hospital-tortosa-reto-movilidad-demografia-vivienda-136584465",
+    "pubDate": "2026-11-22 06:01:42",
+    "category": "",
+    "description": "<h2 class=\"item\">Prensa Ibérica, editora de EL PERIÓDICO, radiografiará durante un año las ciudades intermedias y territorios de baja densidad que concentran recursos estratégicos y capacidades productivas con el fin de proponer una agenda de crecimiento. En esta primera entrega, analizamos seis territorios catalanes, empezando por Terres de l’Ebre.</h2><h2 class=\"item\">Con apenas el 2% de la población catalana repartida en el 10% del territorio, las comarcas de Baix Ebre, Montsià, Ribera d'Ebre y Terra Alta tienen en la vivienda asequible una de sus bazas para crecer</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tarragona/20261002/llueve-mojado-ebro-hemos-terminado-recuperar-episodio-lluvias-134929824\" target=\"_blank\">La crisis climática no da tregua en Terres de l’Ebre: \"No nos hemos recuperado de un episodio y ya sufrimos otro\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "No insulten a Roosevelt y a Churchill, por favor",
+    "link": "https://www.elperiodico.com/es/opinion/20261122/insulten-roosevelt-churchill-favor-136695795",
+    "pubDate": "2026-11-22 06:01:39",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ada Colau (Frente Amplio): \"Parece que Sánchez se esté rindiendo ante un posible Gobierno de extrema derecha\"",
+    "link": "https://www.elperiodico.com/es/politica/20261122/ada-colau-frente-amplio-entrevista-sanchez-gobierno-pp-vox-136690367",
+    "pubDate": "2026-11-22 06:01:36",
+    "category": "",
+    "description": "<h2>La candidata a la presidencia del Ejecutivo admite que \"se ha fallado en vivienda y hay que arreglarlo\" y llama a la movilización en las urnas, al asegurar que el 29 de noviembre \"está en juego si la coalición es con Vox o con Frente Amplio\"</h2><h2><a>\"Acabaremos con el dumping fiscal de Madrid y perdonaremos la deuda a todas las autonomías\"</a></h2><h2><a>\"Lo que está haciendo Junts con la inmigración es irresponsable y racista\"</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ada Colau (Frente Amplio): \"Acabaremos con el dumping fiscal de Madrid y perdonaremos la deuda a todas las autonomías\"",
+    "link": "https://www.elperiodico.com/es/politica/20261122/ada-colau-frente-amplio-entrevista-ayuso-fiscalidad-financiacion-autonomica-136691502",
+    "pubDate": "2026-11-22 06:01:35",
+    "category": "",
+    "description": "<h2>La candidata a la presidencia del Gobierno defiende \"subir los impuestos a los ultrarricos y a las grandes fortunas\" para \"bajar la carga fiscal sobre las pymes y los autónomos\"</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261122/ada-colau-frente-amplio-entrevista-sanchez-gobierno-pp-vox-136690367\">\"Parece que Sánchez se esté rindiendo ante un posible Gobierno de extrema derecha\"</a></h2><h2><a>\"Lo que está haciendo Junts con la inmigración es irresponsable y racista\"</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Ada Colau (Frente Amplio): \"Lo que está haciendo Junts con la inmigración es irresponsable y racista\"",
+    "link": "https://www.elperiodico.com/es/politica/20261122/ada-colau-frente-amplio-entrevista-vivienda-inmigracion-136691941",
+    "pubDate": "2026-11-22 06:01:35",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20261122/ada-colau-frente-amplio-entrevista-sanchez-gobierno-pp-vox-136690367\">\"Parece que Sánchez se esté rindiendo ante un posible Gobierno de extrema derecha\"</a></h2><h2><a>\"Acabaremos con el dumping fiscal de Madrid y perdonaremos la deuda a todas las autonomías\"</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Listas de espera, precariedad y burocracia: los déficits en dependencia que deberá afrontar el nuevo Gobierno",
+    "link": "https://www.elperiodico.com/es/sociedad/20261122/dependencia-listas-espera-burocracia-ayudas-precariedad-laboral-retos-gobierno-elecciones-generales-29n-136711575",
+    "pubDate": "2026-11-22 06:01:34",
+    "category": "",
+    "description": "<h2 class=\"item\">Esta legislatura se ha reformado el modelo y se ha mejorado la financiación, pero el sistema, marcado por el imparable avance del envejecimiento de la población, adolece aún de grandes problemas y falta de profesionales</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261116/listas-espera-falta-medicos-enfermeras-envejecimiento-enfermedades-retos-sanidad-espana-elecciones-generales-29n-136459790\" target=\"_blank\">Listas de espera, falta de médicos y financiación: los retos de la sanidad española y cómo afrontarlos</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Cómo suena la campaña del PSOE? Música con mensaje y guiños territoriales para emocionar en los mítines",
+    "link": "https://www.elperiodico.com/es/politica/20261122/suena-campana-psoe-ferraz-incluye-mensaje-136681433",
+    "pubDate": "2026-11-22 06:01:34",
+    "category": "",
+    "description": "<h2 class=\"item\">Rosalía, Víctor Manuel, Rusowski o Patti Smith hacen bailar a los simpatizantes socialistas en cada mitin</h2><h2 class=\"item\">El partido ha hecho una cuidada selección de temas para sus actos públicos, supervisada por el propio presidente</h2><h2 class=\"item\">La interpretación en directo de <em>Si tú no estás aquí</em> el día que se reanudó la campaña, 10 después de la tragedia de Urda, sirvió de homenaje a las víctimas de los trenes y de la DANA</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261121/elecciones-generales-29-noviembre-vivienda-ceuta-ultima-hora-directo-135335688\" target=\"_blank\">Última hora de la campaña electoral de las elecciones generales, en directo</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Horta de Sant Joan, el pueblo donde Picasso \"se dio cuenta de que era un genio\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261122/horta-sant-joan-pueblo-picasso-136678211",
+    "pubDate": "2026-11-22 06:01:33",
+    "category": "",
+    "description": "<h2 class=\"item\">Prensa Ibérica, editora de EL PERIÓDICO, radiografiará durante un año las ciudades intermedias y territorios de baja densidad que concentran recursos estratégicos y capacidades productivas con el fin de proponer una agenda de crecimiento. En esta primera entrega, analizamos seis territorios catalanes, empezando por Terres de l’Ebre.</h2><h2 class=\"item\">El centro dedicado a la figura de Pablo Picasso en Horta de Sant Joan es un ejemplo más del potencial cultural que tiene por explotar la comarca de las Terres de l’Ebre, donde viven 190.000 personas, las mismas que en el distrito de Sants- Montjuïc en Barcelona</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La industria y la logística posicionan a Terres de l'Ebre como reserva estratégica de desarrollo económico al sur de Catalunya",
+    "link": "https://www.elperiodico.com/es/tarragona/20261122/industria-logistica-posicionan-terres-de-ebre-reserva-estrategica-desarrollo-economico-sur-catalunya-136671127",
+    "pubDate": "2026-11-22 06:01:32",
+    "category": "",
+    "description": "<h2 class=\"item\">Prensa Ibérica, editora de EL PERIÓDICO, radiografiará durante un año las ciudades intermedias y territorios de baja densidad que concentran recursos estratégicos y capacidades productivas con el fin de proponer una agenda de crecimiento. En esta priemra entrega, analizamos seis territorios catalanes, empezando por Terres de l’Ebre.</h2><h2 class=\"item\">Las grandes inversiones tecnológicas, la disponibilidad de suelo y las infraestructuras sitúan al territorio ante una nueva etapa de oportunidades</h2><h2 class=\"item\">TERRA ALTA | <a>La comarca catalana de la Terra Alta busca en el turismo del vino y de la bicicleta un antídoto contra la despoblación: \"Es una clara ventana de oportunidad\"</a></h2><h2 class=\"item\">NUCLEARES | <a href=\"https://www.elperiodico.com/es/tarragona/20260810/municipios-centrales-nucleares-catalunya-reinventan-economia-apagon-132998762\">Los municipios de las centrales nucleares de Catalunya reinventan su economía con el apagón en el horizonte</a></h2><h2 class=\"item\">ECONOMÍA | <a href=\"https://www.elperiodico.com/es/tarragona/20261112/nucleares-asco-vandellos-tarragona-aportan-millones-economia-136376244\">Las nucleares de Catalunya aportan unos 4.500 millones al PIB y 30.000 empleos</a></h2><h2 class=\"item\">TECNOLOGÍA | <a href=\"https://www.elperiodico.com/es/sociedad/20260802/apuesta-drones-ia-ribera-d-133031650\">Apuesta por los drones y la IA: Ribera d’Ebre aspira a convertirse en un 'hub' tecnológico</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La comarca catalana de la Terra Alta busca en el turismo del vino y de la bicicleta un antídoto contra la despoblación: \"Es una clara ventana de oportunidad\"",
+    "link": "https://www.elperiodico.com/es/tarragona/20261122/terra-alta-busca-turismo-vino-bicicleta-despoblacion-ventana-oportunidad-136660619",
+    "pubDate": "2026-11-22 06:01:32",
+    "category": "",
+    "description": "<h2>El territorio apuesta por aprovechar sus recursos naturales, patrimoniales y vitivinícolas para atraer visitantes y generar actividad económica durante todo el año</h2><h2>Los responsables de la Denominación de Origen enológica explican cómo se incrementan los profesionales del sector vinícola</h2><h2>DESPOBLACIÓN | <a>La industria y la logística posicionan a Terres de l'Ebre como reserva estratégica de desarrollo económico al sur de Catalunya</a></h2><h2>ACTIVIDAD | <a href=\"https://www.elperiodico.com/es/tarragona/20260930/economia-terres-ebre-busca-recuperar-niveles-pandemia-inversiones-empresas-134850089\">La economía de las Terres de l'Ebre busca recuperar niveles prepandemia atrayendo inversiones privadas al sector industrial</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La IA revoluciona las aplicaciones de citas: ¿nos volveremos más torpes a la hora de ligar?",
+    "link": "https://www.elperiodico.com/es/sociedad/20261122/ia-inteligencia-artificial-revoluciona-apps-citas-volvernos-torpes-ligar-136604337",
+    "pubDate": "2026-11-22 06:01:26",
+    "category": "",
+    "description": "<h2 class=\"item\">Los expertos en el impacto social de la tecnología advierten de los riesgos que entraña \"delegar\" en los asistentes virtuales tareas humanas como la búsqueda del amor</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261119/bots-toman-relevo-aplicaciones-citas-136515034\" target=\"_blank\">Los 'bots' toman el relevo de las aplicaciones de citas: ahora, la inteligencia artificial liga por ti</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20250419/chatgpt-amigo-terapeuta-apoyo-psicologico-inteligencia-artificial-116458361\" target=\"_blank\">\"ChatGPT es mi amigo y mi terapeuta\": la IA se convierte en un \"refugio emocional\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La gigafactoría de IA de los 100.000 chips capaz de duplicar los trabajadores de Ribera d’Ebre",
+    "link": "https://www.elperiodico.com/es/economia/20261122/gigafactoria-ia-100-000-chips-136630716",
+    "pubDate": "2026-11-22 06:01:26",
+    "category": "",
+    "description": "<h2 class=\"item\">Prensa Ibérica, editora de EL PERIÓDICO, radiografiará durante un año las ciudades intermedias y territorios de baja densidad que concentran recursos estratégicos y capacidades productivas con el fin de proponer una agenda de crecimiento. En esta primera entrega, analizamos seis territorios catalanes, empezando por Terres de l’Ebre.</h2><h2 class=\"item\">El complejo cristaliza 15 años de transformación tecnológica de Tarragona y El Ebre para diversificar una economía que aún depende enormemente de la industria química y energética</h2><h2 class=\"item\">El cambio se ha acelerado en los últimos cinco años, cuando la comarca que albergará esta instalación ha pasado de 4 a 30 empresas tecnológicas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Mi IA está ligando con la tuya: los 'bots' toman el relevo en las aplicaciones de citas",
+    "link": "https://www.elperiodico.com/es/sociedad/20261122/ia-inteligencia-artificial-ligando-bots-toman-relevo-aplicaciones-citas-apps-136515034",
+    "pubDate": "2026-11-22 06:01:25",
+    "category": "",
+    "description": "<h2 class=\"item\">La inteligencia artificial revoluciona las 'apps' de flirteo con servicios innovadores como los 'gemelos digitales' de los usuarios que dialogan entre ellos para ver si los candidatos al romance son compatibles</h2><h2 class=\"item\">El 'match' ahora lo decide la propia inteligencia artificial sin contar con los humanos</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261119/inteligencia-artificial-revoluciona-apps-citas-136604337\" target=\"_blank\">¿Puede la inteligencia artificial acabar volviéndonos unos inútiles para ligar?</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20230715/barcelona-capital-citas-tinder-aplicaciones-encontrar-pareja-89875002\" target=\"_blank\">Barcelona, capital de las 'citas Tinder'</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Emma Vilarasau, una actriz magnética hecha a sí misma",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261122/emma-vilarasau-actriz-magnetica-hecha-136671496",
+    "pubDate": "2026-11-22 06:01:22",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Radiografía del voto joven: más de 1,6 millones de nuevos electores, brecha de género y otras preferencias",
+    "link": "https://www.elperiodico.com/es/politica/20261122/radiografia-voto-joven-elecciones-genero-136671431",
+    "pubDate": "2026-11-22 06:01:22",
+    "category": "",
+    "description": "<h2 class=\"item\">Aunque los jóvenes son menos participativos que los votantes de otros segmentos de edad, representan un público objetivo en campaña al engrosar un alto porcentaje de indecisos</h2><h2 class=\"item\">El gran talón de Aquiles de la ultraderecha es su escasa penetración en el electorado femenino, principalmente las jóvenes</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los partidos buscan el decisivo voto joven con bajada de impuestos y soluciones a la vivienda",
+    "link": "https://www.elperiodico.com/es/politica/20261122/partidos-buscan-decisivo-voto-joven-136670468",
+    "pubDate": "2026-11-22 06:01:21",
+    "category": "",
+    "description": "<h2>Radiografía del voto joven: más de 1,6 millones de nuevos electores, brecha de género y otras preferencias</h2><h2>Los candidatos llevan la batalla electoral a los pódcast: “De la publicidad a la conversación digital”</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Bienvenidos a Robo-China: así se ha convertido el gigante asiático en líder indiscutible del sector mundial de la robótica",
+    "link": "https://www.elperiodico.com/es/internacional/20261122/bienvenidos-robo-china-convertido-gigante-136587945",
+    "pubDate": "2026-11-22 06:01:21",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Catalana de l'Any 2026: La verdad de Emma Vilarasau",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261122/la-verdad-de-emma-vilarasau-catalana-de-any-2026-136665280",
+    "pubDate": "2026-11-22 06:01:20",
+    "category": "",
+    "description": "<h2 class=\"item\">La gran dama de la escena, cuya voz encarna las emociones, las dudas y los logros de muchas mujeres, será reconocida este lunes con el premio Catalana de l'Any 2026</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Conca de Barberà, la fuerza de un enclave estratégico",
+    "link": "https://www.elperiodico.com/es/economia/20261122/conca-barbera-fuerza-enclave-estrategico-136656379",
+    "pubDate": "2026-11-22 06:01:17",
+    "category": "",
+    "description": "<h2 class=\"item\">Prensa Ibérica, editora de EL PERIÓDICO, radiografiará durante un año las ciudades intermedias y territorios de baja densidad que concentran recursos estratégicos y capacidades productivas con el fin de proponer una agenda de crecimiento. En esta primera entrega, analizamos seis territorios catalanes</h2><h2 class=\"item\">La comarca destaca por su fuerte ritmo industrial y tiene un gran potencial en el campo de la logística</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Mario Vaquerizo: \"Me han cancelado desde pequeño, cuando me tiraban piedras en el colegio por leer el 'Super Pop'\"",
+    "link": "https://www.elperiodico.com/es/gente/20261122/mario-vaquerizo-entrevista-cancelacion-alaska-cardadismo-ilustrado-136621912",
+    "pubDate": "2026-11-22 06:01:12",
+    "category": "",
+    "description": "<h2>El cantante publica 'El cardadismo ilustrado', triunfa con el musical 'Cabaret' y revela cómo su ingreso hospitalario transformó su matrimonio con Alaska: \"Mi relación con ella salió reseteada\"</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "¿Con quién iría a una expedición de alto riesgo?",
+    "link": "https://www.elperiodico.com/es/economia/20261122/iria-expedicion-alto-riesgo-136711462",
+    "pubDate": "2026-11-22 06:01:11",
+    "category": "",
+    "description": "<h2>A una semana de las elecciones generales, propongo de nuevo un juego: seis preguntas básicas y sencillas sobre qué candidato a la presidencia del Gobierno le inspira más confianza</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los lazos internacionales de Junts: una proyección exterior truncada por el 'procés' y una relación incómoda con Israel",
+    "link": "https://www.elperiodico.com/es/internacional/20261122/lazos-internacionales-junts-proyeccion-exterior-asilamiento-europa-relacion-israel-136711486",
+    "pubDate": "2026-11-22 06:01:11",
+    "category": "",
+    "description": "<h2 class=\"item\">Tras cerca de ocho años fuera de los grupos de la Eurocámara, el partido de Puigdemont se ha integrado en el Partido Demócrata Europeo </h2><h2 class=\"item\">La formación hace equilibrios entre los sectores más próximos a Israel y las voces que han expresado críticas contundentes a la actuación del Gobierno de Benjamin Netanyahu </h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Los jefes de hoy ya no son como Mario Conde o ‘Superlópez’: así ha cambiado los grandes directivos en 25 años",
+    "link": "https://www.elperiodico.com/es/economia/20261122/jefes-hoy-son-mario-conde-136711465",
+    "pubDate": "2026-11-22 06:01:11",
+    "category": "",
+    "description": "<h2 class=\"item\">Los expertos explican cómo ha evolucionado la figura del consejero delegado en las últimas tres décadas </h2><h2 class=\"item\">Los CEO de hoy son más tecnológicos, están más expuestos y obligados a ser más humanos en un entorno de ‘shocks’ geopolíticos e irrupción de la IA</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Detrás de Gabriel Rufián: un 'búnker', un jefe de campaña veterano y algunas dosis de paciencia",
+    "link": "https://www.elperiodico.com/es/politica/20261122/gabriel-rufian-equipo-campana-electoral-bunker-jefe-paciencia-136496184",
+    "pubDate": "2026-11-22 06:01:10",
+    "category": "",
+    "description": "<h2 class=\"item\">Un grupo reducido de dirigentes de ERC toma cada mañana las grandes decisiones del día</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261117/gabriel-rufian-erc-elecciones-generales-pequeno-pueblo-arseguel-arrasa-cataluna-136357614\" target=\"_blank\">Arsèguel, el pequeño pueblo de los Pirineos en el que Rufián arrasa: \"Es un tío populista, pero un hombre creíble\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261116/gabriel-rufian-frente-izquierdas-president-generalitat-comuns-cup-psc-136483809\" target=\"_blank\">Rufián aspira a ser president de Catalunya en coalición con los Comuns y la CUP y con el apoyo del PSC</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261108/elecciones-generales-whatsapp-ia-propaganda-partidos-135924301\" target=\"_blank\">Más allá de los mítines y la propaganda: las nuevas armas de los partidos para la batalla electoral</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "EL PERIÓDICO agranda su ventaja como líder de audiencia en Catalunya",
+    "link": "https://www.elperiodico.com/es/sociedad/20261122/ranking-audiencia-gfk-el-periodico-agranda-ventaja-lider-audiencia-cataluna-136582694",
+    "pubDate": "2026-11-22 06:01:09",
+    "category": "",
+    "description": "<h2 class=\"item\">El medio editado por Prensa Ibérica encadena 11 meses consecutivos como el diario más leído</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260523/configura-google-seguir-periodico-129736197\">Configura Google para no perderte nada de EL PERIÓDICO</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Підсумки 21.11: атаки на Калінінград і Кривий Ріг",
+    "link": "https://ua.korrespondent.net/ukraine/4930827-pidsumky-2111-ataky-na-kalininhrad-i-kryvyi-rih",
+    "pubDate": "2026-11-22 05:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4648588.jpg\">Атака на Кривий Ріг: поранення дістали 60 осіб. У Калінінграді завили сирени повітряної тривоги. В РФ атаковані Калінінград і Краснодар - соцмережі. Кореспондент.net виділяє головні події вчорашнього дня.",
+    "topic": "підсумки",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Antalya intenta salvar su acuerdo final 'in extremis' escondiendo el mensaje sobre combustibles fósiles y rebajando la captura de carbono",
+    "link": "https://www.elperiodico.com/es/sociedad/20261122/antalya-cumbre-clima-cop31-tercer-borrador-acuerdo-136711280",
+    "pubDate": "2026-11-22 05:44:40",
+    "category": "",
+    "description": "<h2 class=\"item\">La presidencia publica una tercera propuesta de acuerdo durante la madrugada del sábado a domingo tras dos agotadoras noches de negociaciones más allá del 'deadline' oficial</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261121/caos-rumores-guerra-psicologica-antalya-cumbre-clima-cop31-136703894\">Caos, rumores y guerra psicológica en Antalya: la cumbre del clima negocia su acuerdo final a puerta cerrada y usando la técnica del desgaste</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261121/cumbre-clima-2026-cop31-antalya-turquia-ultima-hora-directo-136237501\" >Cumbre del clima 2026, en directo: última hora de la COP31 de Turquía y de la participación de España en las negociaciones</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "У Мексиці затримали одного з найрозшукуваніших ФБР злочинців",
+    "link": "https://ua.korrespondent.net/world/4930841-u-meksytsi-zatrymaly-odnoho-z-nairozshukuvanishykh-fbr-zlochyntsiv",
+    "pubDate": "2026-11-22 05:36:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4648706.jpg\">Операція пройшла в штаті Сіналоа, і супроводжувалася перестрілками: загинули щонайменше 11 людей.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Трамп анонсував \"масштабне перемир'я\" України й РФ",
+    "link": "https://ua.korrespondent.net/world/worldabus/4930839-tramp-anonsuvav-masshtabne-peremyria-ukrainy-y-rf",
+    "pubDate": "2026-11-22 04:58:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4648692.jpg\">Американський лідер також високо оцінив зусилля першої леді США Меланії Трамп у відносинах між Москвою та Києвом.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Російський дрон поцілив у підприємство на Полтавщині",
+    "link": "https://ua.korrespondent.net/ukraine/4930837-rosiiskyi-dron-potsilyv-u-pidpryiemstvo-na-poltavschyni",
+    "pubDate": "2026-11-22 04:46:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4648678.jpg\">Влучання ворожого БпЛА відбулося по території приватного підприємства, повідомила обласна влада.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Іран заявив про ураження американського F-16: США заперечують",
+    "link": "https://ua.korrespondent.net/world/4930835-iran-zaiavyv-pro-urazhennia-amerykanskoho-F-16-ssha-zaperechuuit",
+    "pubDate": "2026-11-22 04:28:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4648664.jpg\">Сили ППО Ірану випустили ракету по літаку, запевняє Тегеран, але американська сторона спростовує таку заяву.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Трамп виклав фото з Путіним з підписом \"мій друг\"",
+    "link": "https://ua.korrespondent.net/world/4930833-tramp-vyklav-foto-z-putinym-z-pidpysom-mii-druh",
+    "pubDate": "2026-11-22 03:56:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4648636.jpg\">Очільник Білого дому загалом опублікував кілька фото з зустрічі з лідером Китаю Сі Цзіньпіном та главою правлячого режиму РФ.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "У Краснодарі спалахнула будівля Росгвардії - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/russia/4930831-u-krasnodari-spalakhnula-budivlia-roshvardii-zmi",
+    "pubDate": "2026-11-22 03:31:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4648622.jpeg\">OSINT-аналіз опублікованих знімків та роликів свідчить, що пожежа спалахнула в місцевому Головном управління Росгвардії.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "США, Росія й Ізраїль в ООН заблокували обмеження \"роботів-убивць\"",
     "link": "https://ua.korrespondent.net/world/4930829-ssha-rosiia-y-izrail-v-oon-zablokuvaly-obmezhennia-robotiv-ubyvts",
     "pubDate": "2026-11-22 02:50:00",
