@@ -1,5 +1,41 @@
 [
   {
+    "title": "Росія вимагає блокувати вступ України в НАТО - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/worldabus/4930817-rosiia-vymahaie-blokuvaty-vstup-ukrainy-v-nato-zmi",
+    "pubDate": "2026-11-21 23:58:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4648476.jpg\">Москва також пропонує обговорювати ширші питання європейської безпеки, що викликає занепокоєння в Києві та столицях ЄС.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Sánchez llama a combatir en las urnas la \"involución democrática\"",
+    "link": "https://www.elperiodico.com/es/politica/20261121/sanchez-llama-combatir-urnas-involucion-136710074",
+    "pubDate": "2026-11-21 23:43:03",
+    "category": "",
+    "description": "<h2>El líder socialista reúne a 5.500 personas en Gran Canaria y apela a una mayoría absoluta para ampliar los derechos sociales y frenar a PP y Vox</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Teatro Real de Madrid, premiado como la mejor ópera del mundo en los 'Óscars' de la lírica",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261121/teatro-real-madrid-premiado-mejor-136709915",
+    "pubDate": "2026-11-21 23:36:36",
+    "category": "",
+    "description": "<h2>Los International Opera Awards han reconocido con el galardón a la institución, como ya ocurrió en 2019</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Бази даних ФБР вдруге за осінь зламали хакери - CNN",
+    "link": "https://ua.korrespondent.net/world/4930814-bazy-danykh-fbr-vdruhe-za-osin-zlamaly-khakery-CNN",
+    "pubDate": "2026-11-21 23:29:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4648449.jpg\">База даних центру кримінальної інформації використовується правоохоронними органами по всій країні.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "La portada de EL PERIÓDICO del 22 de noviembre de 2026",
     "link": "https://www.elperiodico.com/es/sociedad/20261121/portada-periodico-22-noviembre-2026-136709232",
     "pubDate": "2026-11-21 23:13:35",
@@ -79,6 +115,15 @@
     "description": "El conjunto catalán suma su tercera victoria consecutiva tras superar al MoraBanc Andorra, que llegó a remontar 21 puntos. Allen, genial, con 20 puntos.",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Вторгнення Росії в Україну. Онлайн",
+    "link": "https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain",
+    "pubDate": "2026-11-21 22:00:00",
+    "category": "Новини політики",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/2748609.jpg\">Володимир Путін почав повномасштабну війну проти України 24 лютого 2022 року. Не зумівши \"взяти Київ за три дні\", він сконцентрувався на захопленні Донбасу та південних областей України.",
+    "topic": "політика",
+    "topic_match_probability": 100
   },
   {
     "title": "Від початку доби відбулося 116 боєзіткнень",
@@ -1231,6 +1276,15 @@
     "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261120/gobierno-ganador-debate-sanchez-feijoo-136673627\">El Gobierno se ve ganador del debate por dirigirse al voto indeciso y el PP por \"arrollar\" a Pedro Sánchez</a></h2>",
     "topic": "вибори (але не президента України чи США)",
     "topic_match_probability": 90
+  },
+  {
+    "title": "Війна на Близькому Сході. Онлайн",
+    "link": "https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain",
+    "pubDate": "2026-11-21 11:03:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473659.jpg\">США та Ізраїль проводять масштабну операцію проти Ірану. Тегеран у відповідь атакує військові об'єкти США майже у всіх країнах Перської затоки.",
+    "topic": "політика",
+    "topic_match_probability": 95
   },
   {
     "title": "Huelga de estudiantes hoy 21 de noviembre, última hora en directo: manifestaciones y seguimiento de la convocatoria en España y otros países de Europa",
