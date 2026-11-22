@@ -1,8 +1,10 @@
-# News for 2026-11-22 15:54
+# News for 2026-11-22 17:43
 
 Previous day: [2026-11-21](./data/2026-11-21.md)
 
 ## ua.korrespondent.net
+17:08 [Шведський стартап представив перехоплювач російських "Гераней"](https://ua.korrespondent.net/business/companies/4930928-shvedskyi-startap-predstavyv-perekhopluivach-rosiiskykh-heranei)<br>
+16:49 [ШІ допоміг розв’язати одну із семи задач тисячоліття](https://ua.korrespondent.net/tech/science/4930925-shi-dopomih-rozviazaty-odnu-iz-semy-zadach-tysiacholittia)<br>
 14:59 [Свята 23 листопада 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4930887-sviata-23-lystopada-2026-roku-istoriia-tradytsii)<br>
 13:52 [У Димері зросла кількість загиблих після атаки РФ](https://ua.korrespondent.net/ukraine/4930893-u-dymeri-zrosla-kilkist-zahyblykh-pislia-ataky-rf)<br>
 13:31 [На Сумщині загинув підліток через вибух знайденого дрона](https://ua.korrespondent.net/ukraine/4930891-na-sumschyni-zahynuv-pidlitok-cherez-vybukh-znaidenoho-drona)<br>
@@ -34,6 +36,15 @@ Previous day: [2026-11-21](./data/2026-11-21.md)
 06:18 [“En Shanghai tomaba helados con Jayson Tatum”](https://as.com/baloncesto/mas_baloncesto/en-shanghai-tomaba-helados-con-jayson-tatum-f202611-n/)<br>
 
 ## www.elperiodico.com
+17:34 [Un apagón final condena al Girona en Santiago (91-81)](https://www.elperiodico.com/es/deportes/20261122/apagon-final-condena-girona-santiago-136725731)<br>
+17:24 [Probamos el Dyson R2 Nurovi Wash+Dry: el robot que hace la limpieza sin que se note](https://www.elperiodico.com/es/tecnologia/20261122/dyson-r2-nurovi-wash-oferta-136725105)<br>
+17:10 [Sebastián La Rosa, doctor, explica su rutina diaria: "Siempre hay una caminata después de cenar"](https://www.elperiodico.com/es/vida-y-estilo/20261122/calidad-vida-habitos-saludables-sebastian-la-rosa-doctor-rutina-diaria-cena-brocoli-dv-136555503)<br>
+17:07 [Detenido un hombre tras la muerte de una mujer en Albacete](https://www.elperiodico.com/es/sucesos/20261122/detenido-hombre-muerte-mujer-albacete-136725255)<br>
+17:05 [Juan del Val (56 años), sobre su época de estudiante: "Fue un fracaso estrepitoso, me creó una herida que yo no sabía solucionar"](https://www.elperiodico.com/es/gente/20261122/juan-del-val-estudiante-fracaso-albanil-obra-premio-planeta-dv-136546329)<br>
+17:00 [Berta Rubio, escritora: "Mis hijas me caían fatal de los 9 a los 11 y ellas lo saben, pobrecitas"](https://www.elperiodico.com/es/sociedad/20261122/berta-rubio-escritora-hijas-caian-136626933)<br>
+17:00 [Santa Coloma rebaja a un máximo de 20.000 euros por hogar una rehabilitación enquistada por riesgo de derrumbe desde hace dos años y medio](https://www.elperiodico.com/es/barcelona/20261122/santa-coloma-rebaja-maximo-20000-hogar-rehabilitacion-enquistada-riesgo-derrumbe-dos-anos-y-medio-136497890)<br>
+16:27 [Gran canto coral y sardana gigante alrededor de la Sagrada Família para homenajear a Gaudí](https://www.elperiodico.com/es/ocio-y-cultura/20261122/sagrada-familia-gaudi-gran-canto-coral-sardana-gigante-136724481)<br>
+16:25 [Javier Bardem (57 años), sobre la crianza de sus hijos con Penélope Cruz (52 Años): "La presencia de al menos uno de los dos con ellos es algo innegociable en nuestra casa"](https://www.elperiodico.com/es/gente/20261122/javier-bardem-penelope-cruz-crianza-hijos-casa-presencia-dv-136653617)<br>
 15:47 [Barcelona rinde un homenaje a la catalanidad de Antoni Gaudí](https://www.elperiodico.com/es/videos/barcelona/barcelona-rinde-homenaje-catalanidad-antoni-video/136721315.shtml)<br>
 15:45 [Ni paragüeros ni zapateros: lo que no está permitido dejar en las zonas comunes según la Ley de Propiedad Horizontal](https://www.elperiodico.com/es/vivienda/20261122/ley-propiedad-horizontal-escalera-vecinos-paragueros-zapateros-elementos-comunes-dv-127071295)<br>
 15:18 [Muere un hombre en el incendio de su vivienda en Sant Quirze del Vallès](https://www.elperiodico.com/es/sociedad/20261122/muere-hombre-incendio-vivienda-sant-quirze-136722470)<br>
