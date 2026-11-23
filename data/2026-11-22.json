@@ -1,5 +1,14 @@
 [
   {
+    "title": "Gas verde: así funciona la energía renovable que casi nadie conoce",
+    "link": "https://www.elperiodico.com/es/economia/20261122/gas-verde-funciona-energia-renovable-bc-136733524",
+    "pubDate": "2026-11-22 23:59:14",
+    "category": "",
+    "description": "<h2>Su fuente de alimentación es el reciclaje de los residuos orgánicos en los sectores agrícola, ganadero, en la industria alimentaria y en nuestras ciudades, lo que permite evitar la necesidad de importar energía del exterior. Además de fácil de almacenar, una capacidad que no tienen otras energías renovables, el llamado biometano es una fuente de energía renovable continua con producción 24/7</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "У горах Румунії загинув українець",
     "link": "https://ua.korrespondent.net/ukraine/4930980-u-horakh-rumunii-zahynuv-ukrainets",
     "pubDate": "2026-11-22 23:49:00",
@@ -106,6 +115,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4649533.jpg\">Раніше українське МЗС розкритикувало намір призначити росіянина на керівну посаду в МАГАТЕ.",
     "topic": "політика",
     "topic_match_probability": 90
+  },
+  {
+    "title": "Вторгнення Росії в Україну. Онлайн",
+    "link": "https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain",
+    "pubDate": "2026-11-22 21:44:00",
+    "category": "Новини політики",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/2748609.jpg\">Володимир Путін почав повномасштабну війну проти України 24 лютого 2022 року. Не зумівши \"взяти Київ за три дні\", він сконцентрувався на захопленні Донбасу та південних областей України.",
+    "topic": "політика",
+    "topic_match_probability": 100
   },
   {
     "title": "Sekulic: “Esto no es una competición de quién tiene más problemas”",
@@ -367,6 +385,15 @@
     "description": "El pívot del Real Madrid alcanza una cifra histórica y está a solo nueve de convertirse en el extranjero con más partidos en la historia del club. En fútbol, Benzema sumó 648.",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Війна на Близькому Сході. Онлайн",
+    "link": "https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain",
+    "pubDate": "2026-11-22 18:53:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473659.jpg\">США та Ізраїль проводять масштабну операцію проти Ірану. Тегеран у відповідь атакує військові об'єкти США майже у всіх країнах Перської затоки.",
+    "topic": "політика",
+    "topic_match_probability": 90
   },
   {
     "title": "Росіяни вдарили по ТЦ у Вишневому, є жертви",
