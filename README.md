@@ -1,8 +1,9 @@
-# News for 2026-11-23 22:45
+# News for 2026-11-23 23:42
 
 Previous day: [2026-11-22](./data/2026-11-22.md)
 
 ## ua.korrespondent.net
+22:52 [РФ атакувала стоянку на Волині, горіли причепи](https://ua.korrespondent.net/ukraine/4931325-rf-atakuvala-stoianku-na-volyni-horily-prychepy)<br>
 22:24 [РФ виробляє одну балістичну ракету кожні п’ять годин - Хмара](https://ua.korrespondent.net/ukraine/4931323-rf-vyrobliaie-odnu-balistychnu-raketu-kozhni-piat-hodyn-khmara)<br>
 21:21 [Samsung випустила перший у світі монітор із частотою оновлення 1100 Гц](https://ua.korrespondent.net/lifestyle/gadgets/4931314-Samsung-vypustyla-pershyi-u-sviti-monitor-iz-chastotoui-onovlennia-1100-hts)<br>
 20:07 [Українсько-німецький дрон перехопив реактивну Герань-5](https://ua.korrespondent.net/ukraine/4931298-ukrainsko-nimetskyi-dron-perekhopyv-reaktyvnu-heran-5)<br>
@@ -90,9 +91,11 @@ Previous day: [2026-11-22](./data/2026-11-22.md)
 09:21 [Hugo González da la oportunidad a su equipo de ganar en la última canasta del partido y lo que ocurre es para tirarse de los pelos](https://as.com/baloncesto/videos/hugo-gonzalez-da-la-oportunidad-a-su-equipo-de-ganar-en-la-ultima-canasta-del-partido-y-lo-que-ocurre-es-para-tirarse-de-los-pelos-f202611-v/)<br>
 
 ## www.elperiodico.com
+23:04 [Emma Vilarasau, una reivindicativa Catalana de l'Any: "El teatro es un refugio, como la cultura, sobre todo en estos momentos"](https://www.elperiodico.com/es/ocio-y-cultura/20261123/emma-vilarasau-reivindicativa-catalana-lany-136770031)<br>
 22:14 [Salvador Illa: "El país que somos lo encontramos detrás de cada Català i Catalana de l'Any"](https://www.elperiodico.com/es/ocio-y-cultura/20261123/illa-pais-encontramos-detras-catala-catalana-any-2026-136770070)<br>
 22:00 ['L'amor venia amb taxi' y 'El barquer' arrasan en los Premis Butaca](https://www.elperiodico.com/es/ocio-y-cultura/20261123/lamor-venia-amb-taxi-barquer-136742264)<br>
 21:57 [En Imágenes| Los galardonados en la gala de los Premios Català y Calalana de l'Any 2026](https://www.elperiodico.com/es/fotos/ocio-y-cultura/imagenes-galardonados-gala-premios-catala-136773305)<br>
+21:30 [Emma Vilarasau recibe el premio Catalana de l’Any de El Periódico.](https://www.elperiodico.com/es/videos/ocio-y-cultura/emma-vilarasau-recibe-premio-catalana/136763600.shtml)<br>
 21:18 [Sebastià Isael Pla, de fiscal y juez a sacerdote en Castellón: "Descubrí que Dios me llamaba"](https://www.elperiodico.com/es/sociedad/20261123/sebastia-isael-pla-fiscal-juez-sacerdote-castellon-vinaros-136772642)<br>
 21:00 [Ivana, hermana de Georgina Rodríguez: "Nuestro orígenes nos han hecho tener esa empatía, sabemos lo que es el sufrimiento de otras personas"](https://www.elperiodico.com/es/gente/20261123/ivana-hermana-georgina-rodriguez-origenes-dv-136740363)<br>
 20:52 [Fondeos, licencias privadas o aguas internacionales como alternativa: la flota pesquera estima para "febrero o marzo" su retorno a Mauritania](https://www.elperiodico.com/es/economia/20261123/fondeos-licencias-privadas-o-aguas-136771782)<br>
