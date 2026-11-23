@@ -1,8 +1,10 @@
-# News for 2026-11-23 02:30
+# News for 2026-11-23 03:39
 
 Previous day: [2026-11-22](./data/2026-11-22.md)
 
 ## ua.korrespondent.net
+03:25 [У Димері врятували жінку, жертв вже дев’ять](https://ua.korrespondent.net/ukraine/4930994-u-dymeri-vriatuvaly-zhinku-zhertv-vzhe-deviat)<br>
+02:54 [ЗСУ відкинули росіян на Харківщині - DeepState](https://ua.korrespondent.net/ukraine/4930992-zsu-vidkynuly-rosiian-na-kharkivschyni-DeepState)<br>
 02:21 [Для скарг на відсутність світла, води й тепла створять єдину платформу](https://ua.korrespondent.net/ukraine/4930990-dlia-skarh-na-vidsutnist-svitla-vody-y-tepla-stvoriat-yedynu-platformu)<br>
 01:12 [В Росії палає черговий НПЗ](https://ua.korrespondent.net/world/russia/4930988-v-rosii-palaie-cherhovyi-npz)<br>
 00:47 [Число жертв у Димері знову зросло](https://ua.korrespondent.net/ukraine/ukraine_30/4930986-chyslo-zhertv-u-dymeri-znovu-zroslo)<br>
