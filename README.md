@@ -1,8 +1,25 @@
-# News for 2026-11-23 14:31
+# News for 2026-11-23 22:45
 
 Previous day: [2026-11-22](./data/2026-11-22.md)
 
 ## ua.korrespondent.net
+22:24 [РФ виробляє одну балістичну ракету кожні п’ять годин - Хмара](https://ua.korrespondent.net/ukraine/4931323-rf-vyrobliaie-odnu-balistychnu-raketu-kozhni-piat-hodyn-khmara)<br>
+21:21 [Samsung випустила перший у світі монітор із частотою оновлення 1100 Гц](https://ua.korrespondent.net/lifestyle/gadgets/4931314-Samsung-vypustyla-pershyi-u-sviti-monitor-iz-chastotoui-onovlennia-1100-hts)<br>
+20:07 [Українсько-німецький дрон перехопив реактивну Герань-5](https://ua.korrespondent.net/ukraine/4931298-ukrainsko-nimetskyi-dron-perekhopyv-reaktyvnu-heran-5)<br>
+19:47 [Росіяни атакували Запоріжжя авіабомбами](https://ua.korrespondent.net/city/zaporozhye/4931292-rosiiany-atakuvaly-zaporizhzhia-aviabombamy)<br>
+19:23 [Акції ШІ-компаній злетіли після повернення Хуанга до Nvidia](https://ua.korrespondent.net/business/companies/4931284-aktsii-shi-kompanii-zletily-pislia-povernennia-khuanha-do-Nvidia)<br>
+19:19 [У Димері завершили рятувальні роботи](https://ua.korrespondent.net/ukraine/4931286-u-dymeri-zavershyly-riatuvalni-roboty)<br>
+18:47 [Укренерго анонсувало відключення на 24 листопада](https://ua.korrespondent.net/ukraine/4931273-ukrenerho-anonsuvalo-vidkluichennia-na-24-lystopada)<br>
+18:24 [Нацбанк знову почав знижувати курс гривні](https://ua.korrespondent.net/business/financial/4931266-natsbank-znovu-pochav-znyzhuvaty-kurs-hryvni)<br>
+17:59 [Ціни виробників зросли на 33,4% за рік - Держстат](https://ua.korrespondent.net/business/economics/4931264-tsiny-vyrobnykiv-zrosly-na-334-za-rik-derzhstat)<br>
+17:57 [Уражено цілі в Пермі і Татарстані - Генштаб](https://ua.korrespondent.net/ukraine/4931262-urazheno-tsili-v-permi-i-tatarstani-henshtab)<br>
+17:36 [Мільйонні виплати не допомагають: у РФ просів набір до армії](https://ua.korrespondent.net/world/russia/4931260-milionni-vyplaty-ne-dopomahauit-u-rf-prosiv-nabir-do-armii)<br>
+16:06 [Іноземний бізнес під прицілом РФ: поліція порахувала атаки](https://ua.korrespondent.net/business/4931233-inozemnyi-biznes-pid-prytsilom-rf-politsiia-porakhuvala-ataky)<br>
+16:03 [Оператори Рубікону потрапили під удар в Бердянську](https://ua.korrespondent.net/ukraine/4931231-operatory-rubikonu-potrapyly-pid-udar-v-berdiansku)<br>
+15:37 [Хуанг повернувся на посаду гендиректора Nvidia](https://ua.korrespondent.net/business/4931217-khuanh-povernuvsia-na-posadu-hendyrektora-Nvidia)<br>
+15:10 [Нова атака на Київ: пошкоджено житловий будинок](https://ua.korrespondent.net/kyiv/4931206-nova-ataka-na-kyiv-poshkodzheno-zhytlovyi-budynok)<br>
+14:39 [Данія заборонить смартфони у школах](https://ua.korrespondent.net/world/4931195-daniia-zaboronyt-smartfony-u-shkolakh)<br>
+14:28 [Обвал на $5,5 трлн: фондовий ринок США переживає кризу](https://ua.korrespondent.net/business/financial/4931193-obval-na-55-trln-fondovyi-rynok-ssha-perezhyvaie-kryzu)<br>
 14:18 [Росія везе тисячі китайців будувати газовий мегапроєкт Газпрому](https://ua.korrespondent.net/world/russia/4931191-rosiia-veze-tysiachi-kytaitsiv-buduvaty-hazovyi-mehaproiekt-hazpromu)<br>
 14:14 [Зрадника Джигурду терміново доправили до лікарні - ЗМІ](https://ua.korrespondent.net/lifestyle/4931183-zradnyka-dzhyhurdu-terminovo-dopravyly-do-likarni-zmi)<br>
 14:13 [Полювання на кораблі РФ. Вражаюча операція України](https://ua.korrespondent.net/ukraine/4931176-poluivannia-na-korabli-rf-vrazhauicha-operatsiia-ukrainy)<br>
@@ -64,11 +81,37 @@ Previous day: [2026-11-22](./data/2026-11-22.md)
 00:47 [Число жертв у Димері знову зросло](https://ua.korrespondent.net/ukraine/ukraine_30/4930986-chyslo-zhertv-u-dymeri-znovu-zroslo)<br>
 
 ## as.com
+21:49 [Chus Mateo: “Los jugadores siempre lo han conseguido”](https://as.com/baloncesto/mas_baloncesto/chus-mateo-los-jugadores-siempre-lo-han-conseguido-f202611-n/)<br>
+16:22 [Real Madrid y Valencia Basket, campeones del Torneo Fundación Leucemia y Linfoma](https://as.com/baloncesto/mas_baloncesto/real-madrid-y-valencia-basket-campeones-del-torneo-fundacion-leucemia-y-linfoma-f202611-n/)<br>
+16:19 [Más tiene que moverse el Barça](https://as.com/baloncesto/acb/mas-tiene-que-moverse-el-barca-f202611-n/)<br>
+12:38 [Oficial: Zach Perrin, baskonista hasta 2030](https://as.com/baloncesto/oficial-zach-perrin-baskonista-hasta-2030-f202611-n/)<br>
 10:39 [El Baskonia anunciará hoy el fichaje de Zach Perrin](https://as.com/baloncesto/el-baskonia-anunciara-hoy-el-fichaje-de-zach-perrin-f202611-n/)<br>
 10:16 [Serbia reprende a Ibon](https://as.com/baloncesto/euroliga/serbia-reprende-a-ibon-f202611-n/)<br>
 09:21 [Hugo González da la oportunidad a su equipo de ganar en la última canasta del partido y lo que ocurre es para tirarse de los pelos](https://as.com/baloncesto/videos/hugo-gonzalez-da-la-oportunidad-a-su-equipo-de-ganar-en-la-ultima-canasta-del-partido-y-lo-que-ocurre-es-para-tirarse-de-los-pelos-f202611-v/)<br>
 
 ## www.elperiodico.com
+22:14 [Salvador Illa: "El país que somos lo encontramos detrás de cada Català i Catalana de l'Any"](https://www.elperiodico.com/es/ocio-y-cultura/20261123/illa-pais-encontramos-detras-catala-catalana-any-2026-136770070)<br>
+22:00 ['L'amor venia amb taxi' y 'El barquer' arrasan en los Premis Butaca](https://www.elperiodico.com/es/ocio-y-cultura/20261123/lamor-venia-amb-taxi-barquer-136742264)<br>
+21:57 [En Imágenes| Los galardonados en la gala de los Premios Català y Calalana de l'Any 2026](https://www.elperiodico.com/es/fotos/ocio-y-cultura/imagenes-galardonados-gala-premios-catala-136773305)<br>
+21:18 [Sebastià Isael Pla, de fiscal y juez a sacerdote en Castellón: "Descubrí que Dios me llamaba"](https://www.elperiodico.com/es/sociedad/20261123/sebastia-isael-pla-fiscal-juez-sacerdote-castellon-vinaros-136772642)<br>
+21:00 [Ivana, hermana de Georgina Rodríguez: "Nuestro orígenes nos han hecho tener esa empatía, sabemos lo que es el sufrimiento de otras personas"](https://www.elperiodico.com/es/gente/20261123/ivana-hermana-georgina-rodriguez-origenes-dv-136740363)<br>
+20:52 [Fondeos, licencias privadas o aguas internacionales como alternativa: la flota pesquera estima para "febrero o marzo" su retorno a Mauritania](https://www.elperiodico.com/es/economia/20261123/fondeos-licencias-privadas-o-aguas-136771782)<br>
+20:36 [Photocall | Premios Català y Catalana de l'Any 2026](https://www.elperiodico.com/es/fotos/ocio-y-cultura/photocall-premios-catala-catalana-lany-136771289)<br>
+20:00 [Carla Martí, escritora de 'young adult': "Es triste saber que no eres feliz y seguir perpetuando aquello que te hace sentir así"](https://www.elperiodico.com/es/ocio-y-cultura/20261123/carla-marti-escritora-young-adult-dar-el-salto-entrevista-136672769)<br>
+19:55 [Lang Lang y Cecilia Bartoli, dos megaestrellas en el Palau: "Actuar juntos es mágico"](https://www.elperiodico.com/es/ocio-y-cultura/20261123/lang-lang-cecilia-bartoli-megaestrellas-136737506)<br>
+19:43 [Entra en funcionamiento la nueva línea de autobús exprés entre Riumar, Deltebre, Sant Jaume d'Enveja, Amposta y Tortosa](https://www.elperiodico.com/es/barcelona/20261123/entra-funcionamiento-nueva-linea-autobus-riumar-deltebre-sant-jaume-136769632)<br>
+18:46 [El Barça recibe al Fenerbahçe en plena crisis de lesiones: seis bajas](https://www.elperiodico.com/es/deportes/20261123/barca-recibe-fenerbahce-plena-crisis-136763479)<br>
+18:37 [El Hotel Arts de Barcelona dedica una instalación artística a Gaudí abierta al público en una supersuite](https://www.elperiodico.com/es/barcelona/20261123/hotel-arts-barcelona-dedica-intervencion-artistica-gaudi-suite-136765374)<br>
+18:16 [Ciudadano Houellebecq](https://www.elperiodico.com/es/opinion/20261123/ciudadano-houellebecq-136766001)<br>
+18:00 [El reto de mantener vivo el legado de 'El Principito' 80 años después: "Nuestro trabajo es proteger el libro y preservar su esencia"](https://www.elperiodico.com/es/ocio-y-cultura/20261123/reto-mantener-vivo-legado-principito-136670102)<br>
+17:55 [¿Cuándo hay luna llena? Este es el día de la superluna del Castor](https://www.elperiodico.com/es/ciencia/20261123/luna-llena-noviembre-2026-superluna-castor-dv-136124605)<br>
+17:52 [Imma Solé, subdirectora de Protecció Civil: "Me preocupa la gente que sufre ansiedad y lo pasa mal por las ES-Alert"](https://www.elperiodico.com/es/sociedad/20261123/imma-sole-proteccio-civil-cataluna-es-alert-suave-ansiedad-alertas-moviles-emergencias-136752198)<br>
+17:31 [Barceló, Iglesias o Marín: el relevo del arzobispo de Barcelona tensiona la elección del autor de la fachada de la Glòria de la Sagrada Família](https://www.elperiodico.com/es/barcelona/20261123/barcelo-iglesias-marin-relevo-arzobispo-barcelona-tensiona-eleccion-autor-fachada-gloria-sagrada-familia-136758608)<br>
+17:04 [El consejo de Nvidia restituye a Jensen Juang como CEO](https://www.elperiodico.com/es/videos/internacional/consejo-nvidia-restituye-jensen-juang/136762391.shtml)<br>
+16:46 [La aerolínea Plus Ultra suspende todas sus operaciones desde este mismo lunes](https://www.elperiodico.com/es/economia/20261123/aerolinea-plus-ultra-suspende-operaciones-136761628)<br>
+16:23 [Una de cada diez personas del área de Barcelona vive en un piso compartido con otra familia](https://www.elperiodico.com/es/economia/20261123/diez-personas-area-barcelona-vive-136756350)<br>
+15:10 [Nvidia restituye a Jensen Huang como su presidente y director ejecutivo tras su relación con una presunta espía china](https://www.elperiodico.com/es/economia/20261123/nvidia-restituye-jensen-huang-presidente-136757775)<br>
+15:01 [Los ingenieros catalanes urgen a priorizar la seguridad de la red de Rodalies y a concretar un modelo de financiación para la AP7](https://www.elperiodico.com/es/economia/20261123/ingenieros-urgen-priorizar-seguridad-rodalies-concretar-modelo-financiacion-ap7-136740824)<br>
 14:11 [Crystal Lake: Jason se muda a Hawkins](https://www.elperiodico.com/es/videojuegos/20261123/crystal-lake-jason-muda-hawkins-136692624)<br>
 14:00 [GXTrust sella una importante alianza con THX para diseñar sus líneas de futuro](https://www.elperiodico.com/es/videojuegos/20261123/gxtrust-sella-importante-alianza-thx-136744821)<br>
 13:59 [Los centros de datos sondean a Google, Amazon y grandes eléctricas para que se unan a su batalla en el Supremo para tumbar ya el decreto del Gobierno](https://www.elperiodico.com/es/economia/20261123/centros-datos-tribunal-supremo-recurso-google-amazon-electricas-136754131)<br>
@@ -86,6 +129,7 @@ Previous day: [2026-11-22](./data/2026-11-22.md)
 11:50 [Estados Unidos advierte de más cortes tecnológicos para esta semana](https://www.elperiodico.com/es/internacional/20261123/estados-unidos-advierte-cortes-tecnologicos-fallo-microsoft-apple-vuelos-internet-136744306)<br>
 11:47 [Así ha sonado la ES-Alert más suave que Protecció Civil ha probado en Santa Pau](https://www.elperiodico.com/es/sociedad/20261123/asi-ha-sonado-nueva-alerta-es-alert-mas-suave-emergencias-santa-pau-cataluna-136743927)<br>
 11:42 [Un primer mes de contrastes para los españoles en la NBA: Aday Mara supera las expectativas; Baba Miller busca continuidad](https://www.elperiodico.com/es/deportes/20261123/primer-mes-contrastes-espanoles-nba-136613075)<br>
+11:41 [Pattinson](https://www.elperiodico.com/es/opinion/20261123/pattinson-136740552)<br>
 11:38 [Así ha sonado el ES-Alert que se ha probado en Santa Pau](https://www.elperiodico.com/es/videos/sociedad/asi-sonado-es-alert-probado-santa-pau-video/136743553.shtml)<br>
 11:32 [Catalunya prueba en Santa Pau la ES-Alert más suave, pero en muchos móviles suena igual que la anterior alerta](https://www.elperiodico.com/es/sociedad/20261123/santa-pau-garrotxa-ensayo-es-alert-suave-alerta-telefonos-moviles-lluvias-emergencias-cataluna-136737931)<br>
 11:19 [La Seguridad Social eleva a 38 años y seis meses la cotización necesaria para jubilarse a los 65 a partir de 2027](https://www.elperiodico.com/es/economia/20261123/seguridad-social-edad-jubilacion-2027-jubilarse-65-esperar-hasta-67-dv-136742255)<br>
@@ -113,3 +157,4 @@ Previous day: [2026-11-22](./data/2026-11-22.md)
 06:00 [Por mí, lo que queráis](https://www.elperiodico.com/es/opinion/20261123/querais-136642593)<br>
 06:00 [El mercado de la vivienda se asoma a un cambio de ciclo](https://www.elperiodico.com/es/economia/20261123/mercado-vivienda-cambio-ciclo-136654693)<br>
 06:00 [Maite Casademunt, presidenta y directora creativa de Lola Casademunt: "Siempre he sido una soñadora: creo que todo es posible si luchas por conseguirlo"](https://www.elperiodico.com/es/economia/20261123/maite-casademunt-presidenta-directora-creativa-136586975)<br>
+05:30 [Anabel Alonso: «Nunca satisfagas a los demás; date satisfacciones a ti misma»](https://www.elperiodico.com/es/economia/20261123/anabel-alonso-maternidad-55-anos-entrevista-bc-136657756)<br>
