@@ -1,5 +1,32 @@
 [
   {
+    "title": "¿Qué decisión vital hay detrás de tu decisión financiera?",
+    "link": "https://www.elperiodico.com/es/economia/20261123/decision-vital-hay-detras-decision-bc-136775494",
+    "pubDate": "2026-11-23 23:59:33",
+    "category": "",
+    "description": "<h2>Tomar una buena decisión patrimonial tiene un impacto directo en la forma en que una persona construye su futuro. Cuando cambia la vida, como el nacimiento de un hijo o la venta de una empresa, cambian también las necesidades financieras. Por ello, planificar permite traducir esos nuevos objetivos a decisiones concretas sobre el dinero</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Trump reivindica la pena de muerte por Acción de Gracias: “Los crímenes más graves merecen el mayor castigo”",
+    "link": "https://www.elperiodico.com/es/internacional/20261123/trump-reivindica-pena-muerte-accion-gracias-136775384",
+    "pubDate": "2026-11-23 23:56:03",
+    "category": "",
+    "description": "<h2>El presidente ordena al Departamento de Justicia que pida la pena de muerte para los asesinos de niños y para los violadores que maten a sus víctimas</h2>",
+    "topic": "політика",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "У Лівії вважають українську атаку на кораблі РФ оголошенням війни",
+    "link": "https://ua.korrespondent.net/world/4931327-u-livii-vvazhauit-ukrainsku-ataku-na-korabli-rf-oholoshenniam-viiny",
+    "pubDate": "2026-11-23 23:49:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4651142.jpg\">У Президентській раді Лівії назвали дії України \"терористичними\", та закликав Раду Безпеки ООН провести екстрене засідання.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
     "title": "El Levante se agarra a la épica para rescatar un punto ante el Elche",
     "link": "https://www.elperiodico.com/es/deportes/futbol/20261123/levante-agarra-epica-rescatar-punto-elche-136774698",
     "pubDate": "2026-11-23 23:29:44",
@@ -115,6 +142,15 @@
     "description": "<h2 class=\"item\">El musical de La Cubana, que triunfó en el Romea, y la obra teatral estrenada en el Lliure brillan en la gala de los premios del público con 8 y 6 galardones, respectivamente</h2><h2 class=\"item\">'Permagel' triunfa como Mejor espectáculo de pequeño formato; 'La mort i la primavera' de Rodoreda reinterpretada por La Veronal, en danza; y 'Ona' reconocido como Mejor espectáculo familiar</h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Вторгнення Росії в Україну. Онлайн",
+    "link": "https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain",
+    "pubDate": "2026-11-23 21:59:00",
+    "category": "Новини політики",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/2748609.jpg\">Володимир Путін почав повномасштабну війну проти України 24 лютого 2022 року. Не зумівши \"взяти Київ за три дні\", він сконцентрувався на захопленні Донбасу та південних областей України.",
+    "topic": "політика",
+    "topic_match_probability": 100
   },
   {
     "title": "США в ООН закликали Україну та РФ припинити атаки",
@@ -799,6 +835,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4650752.jpg\">Прем’єр-міністр Бельгії Барт де Вевер дав коаліційним партнерам час до 31 грудня, щоб домовитися про бюджет на наступний рік.",
     "topic": "політика",
     "topic_match_probability": 96
+  },
+  {
+    "title": "Війна на Близькому Сході. Онлайн",
+    "link": "https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain",
+    "pubDate": "2026-11-23 16:53:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473659.jpg\">США та Ізраїль проводять масштабну операцію проти Ірану. Тегеран у відповідь атакує військові об'єкти США майже у всіх країнах Перської затоки.",
+    "topic": "політика",
+    "topic_match_probability": 88
   },
   {
     "title": "Tres heridos al caer una furgoneta por un desnivel de diez metros en Llers",
