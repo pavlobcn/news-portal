@@ -1,5 +1,320 @@
 [
   {
+    "title": "Срібного призера Паралімпіади звинувачують у насильстві",
+    "link": "https://ua.korrespondent.net/sport/4931289-sribnoho-pryzera-paralimpiady-zvynuvachuuit-u-nasylstvi",
+    "pubDate": "2026-11-24 06:24:00",
+    "category": "Новини спорту",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4650891.jpg\">Відомому спортсмену висунули одразу 17 кримінальних звинувачень, серед яких - 11 у зґвалтуваннях.",
+    "topic": "спорт",
+    "topic_match_probability": 96
+  },
+  {
+    "title": "Генштаб назвав втрати Росії станом на 24 листопада",
+    "link": "https://ua.korrespondent.net/ukraine/4931354-henshtab-nazvav-vtraty-rosii-stanom-na-24-lystopada",
+    "pubDate": "2026-11-24 06:19:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4651559.jpg\">Минулої доби ЗСУ знищили танк, 11 бронемашин, 55 артсистем, три РСЗО, один засіб ППО, чотири НРК і 1154 БпЛА.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La seducción de la cultura catalana",
+    "link": "https://www.elperiodico.com/es/opinion/20261124/seduccion-cultura-catalana-136767643",
+    "pubDate": "2026-11-24 06:01:53",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El bus directo entre Mataró y Barcelona, al límite con pasajeros en tierra y largas colas: \"Nunca cubrirá lo que abarca un tren\"",
+    "link": "https://www.elperiodico.com/es/barcelona/mataro/20261124/autobuses-mataro-barcelona-saturacion-pasajeros-colas-lineas-e11-136753091",
+    "pubDate": "2026-11-24 06:01:49",
+    "category": "",
+    "description": "<h2 class=\"item\">El aumento progresivo de viajeros desborda las líneas obligando a los usuarios a viajar de pie o sentados en el suelo por falta de capacidad</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20261105/miedo-tren-rodalies-autobuses-interurbanos-saturados-136105268\" >El miedo a viajar en tren empuja a los usuarios hacia autobuses cada vez más llenos: \"Mi vida vale más que 15 minutos de pie\"</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Las prótesis mamarias impresas en 3D que han traído la teta personalizada a España",
+    "link": "https://www.elperiodico.com/es/economia/20261124/pit3d-protesis-mamarias-impresas-3d-han-teta-personalizada-espana-136419329",
+    "pubDate": "2026-11-24 06:01:32",
+    "category": "",
+    "description": "<h2>Tras cinco años de investigación y cocreación con pacientes, el Parc Taulí funda la empresa Pit3D para empezar a comercializar un producto que confían que algún día subvencione la Seguridad Social</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261102/diez-hitos-medicos-logrados-catalunya-vuelta-mundo-135918844\" target=\"_blank\">Diez hitos médicos logrados en Catalunya que han dado la vuelta al mundo</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Consumo investiga a un banco por presuntamente dificultar el cierre de cuentas abiertas por internet",
+    "link": "https://www.elperiodico.com/es/economia/20261124/consumo-investiga-banco-presuntamente-dificultar-136776670",
+    "pubDate": "2026-11-24 06:01:31",
+    "category": "",
+    "description": "<h2>El departamento que dirige Bustinduy abre un expediente sancionador ante las sospechas de que un banco impidió a sus clientes cerrar cuentas corrientes contratadas de forma digital</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ramón Simó estrena 'La força del costum': \"Siempre vuelvo al mismo al tema: el poder\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261124/ramon-simo-estrena-forca-costum-136534552",
+    "pubDate": "2026-11-24 06:01:25",
+    "category": "",
+    "description": "<h2>Un sólido reparto con Pep Munné, David Bagès, Alba Gallén, Jordi Martínez y Xavier Ripoll protagoniza esta comedia agria de Thomas Bernhard en La Fàbrica </h2>",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "La Policía que investiga a Núcleo Nacional interceptó conversaciones que revelan agresiones a migrantes en Ceuta: “Están dando bien con los bates”",
+    "link": "https://www.elperiodico.com/es/politica/20261124/policia-investiga-nucleo-nacional-intercepto-136767710",
+    "pubDate": "2026-11-24 06:01:22",
+    "category": "",
+    "description": "<h2>Los agentes que investigan al grupo neonazi consideran \"esclarecedor\" que los ultras reconozcan en las llamadas interceptadas haber planeado ataques contra los extranjeros que irrumpieron de manera masiva en la ciudad autónoma</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 97
+  },
+  {
+    "title": "La Sepi se interesó por la subida del combustible y la deuda de Plus Ultra con Venezuela tras la concesión del rescate",
+    "link": "https://www.elperiodico.com/es/politica/20261124/sepi-subida-combustible-deuda-rescate-plus-ultra-136766978",
+    "pubDate": "2026-11-24 06:01:21",
+    "category": "",
+    "description": "<h2>La compañía ha entregado en la Audiencia Nacional las actas de las video-reuniones de la Comisión de Seguimiento creada en el seno de la sociedad pública</h2>",
+    "topic": "політика",
+    "topic_match_probability": 82
+  },
+  {
+    "title": "\"Ellas huyen, ellos siguen con su vida\": una de cada seis víctimas de acoso machista tiene que dejar su casa o trabajo",
+    "link": "https://www.elperiodico.com/es/sociedad/20261124/exilio-violencia-genero-machismo-victimas-huir-136755024",
+    "pubDate": "2026-11-24 06:01:12",
+    "category": "",
+    "description": "<h2 class=\"item\">Miles de mujeres acaban cambiando de ciudad, de empleo e incluso irse al extranjero para escapar de su agresor, debido a la falta de protección y al cuestionamiento social, que condena a muchas a empezar de cero</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260529/mujeres-mayores-riesgo-violencia-genero-130722222\" target=\"_blank\">Los agresores machistas reincidentes recurren antes a la violencia cuando sus parejas son mayores que ellos</a></h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 88
+  },
+  {
+    "title": "Los recados de Mourinho a la afición del Bernabéu y a sus pitadas a Vinicius: \"Es más fácil jugar con apoyo que jugar contra tu estadio\"",
+    "link": "https://www.elperiodico.com/es/deportes/20261124/recados-mourinho-aficion-bernabeu-pitadas-136761353",
+    "pubDate": "2026-11-24 06:01:09",
+    "category": "",
+    "description": "<h2>El entrenador del Real Madrid lleva toda la temporada ensalzando a las hinchadas rivales, en contraste con los abucheos en casa a sus propios jugadores, que Florentino cree orquestados por \"el enemigo\"</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Pilar y Montse, dos historias de exilio por violencia machista: \"Tuve que dejar mi ciudad y mi trabajo y empezar de cero mientras él siguió con su vida\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261124/testimonio-victimas-violencia-machista-exilio-forzado-huir-agresor-136742343",
+    "pubDate": "2026-11-24 06:01:04",
+    "category": "",
+    "description": "<h2 class=\"item\">Dos víctimas de violencia machista explican a EL PERIÓDICO por qué tuvieron que huir para escapar de sus parejas y la dureza de esa situación, con motivo del Día Internacional de Eliminación de la Violencia contra la mujer</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20240428/victimas-violencia-machista-economica-control-dinero-118160290\" target=\"_blank\">Víctimas de violencia machista económica: “No me dejaba trabajar y controlaba todos los tíquets”</a></h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Cuatro de cada cinco inquilinos no pueden permitirse otro alquiler en su barrio si tuvieran que dejar su vivienda",
+    "link": "https://www.elperiodico.com/es/economia/20261124/cuatro-cinco-inquilinos-permitirse-alquiler-136746048",
+    "pubDate": "2026-11-24 06:00:55",
+    "category": "",
+    "description": "<h2>2,6 millones de hogares que viven de alquiler a precio de mercado tendrían que destinar más del 30% de sus ingresos a una nueva vivienda en su zona. La cifra ha aumentado en casi 200.000 hogares en los últimos dos años</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Euro 7 llega el 29 de noviembre y cambia las reglas para los coches eléctricos",
+    "link": "https://www.elperiodico.com/es/motor/20261124/euro-7-llega-29-noviembre-136739812",
+    "pubDate": "2026-11-24 06:00:55",
+    "category": "",
+    "description": "<h2>La nueva normativa europea también pone límites a las emisiones de los frenos y exige baterías más duraderas</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Seis millones de 'boomers' empiezan a sumarse a un cada vez más exigido sistema de pensiones",
+    "link": "https://www.elperiodico.com/es/economia/20261124/seis-millones-boomers-empiezan-sumarse-136745737",
+    "pubDate": "2026-11-24 06:00:53",
+    "category": "",
+    "description": "<h2>La mayoría de los ciudadanos desconfía de la viabilidad de un sistema que hasta ahora ha sido validado por Bruselas y los supervisores independientes</h2>",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "El día que Josep Pla sufrió un infarto de miocardio: \"es la entrada en la vejez por la puerta grande y sin demasiados cumplidos\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261124/dia-josep-pla-sufrio-infarto-136740520",
+    "pubDate": "2026-11-24 06:00:51",
+    "category": "",
+    "description": "<h2 class=\"item\">Destino recupera un texto a menudo desapercibido dentro de la obra completa del autor y lo acompaña de dos artículos sobre su experiencia con el tifus</h2><h2 class=\"item\">Sergi Pàmies afirma en el prólogo que este es «un libro de viajes encubierto». Efectivamente, Pla relata lo que cenó en L’Escala la noche del infarto, así como su estancia en la Clínica Corachan de Barcelona para recuperarse</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Gabriel Rufián, el verso libre de ERC que ha renacido a ritmo de TikTok",
+    "link": "https://www.elperiodico.com/es/politica/20261124/quien-es-gabril-rufian-tiktok-perfil-verso-libre-erc-elecciones-generales-136678037",
+    "pubDate": "2026-11-24 06:00:50",
+    "category": "",
+    "description": "<h2 class=\"item\">El candidato republicano ha pasado en tres años de estar amortizado a ser el gran activo electoral del partido </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261117/gabriel-rufian-erc-elecciones-generales-pequeno-pueblo-arseguel-arrasa-cataluna-136357614\" target=\"_blank\">Arsèguel, el pequeño pueblo de los Pirineos en el que Rufián arrasa: \"Es un tío populista, pero un hombre creíble\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261122/gabriel-rufian-equipo-campana-electoral-bunker-jefe-paciencia-136496184\" target=\"_blank\">Detrás de Gabriel Rufián: un 'búnker', un jefe de campaña veterano y algunas dosis de paciencia</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261120/gabriel-rufian-oriol-junqueras-relacion-divergencias-propuestas-elecciones-generales-136553065\" target=\"_blank\">Rufián rehace puentes con Junqueras, pero mantienen divergencias en propuestas clave</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "Esteve, sometido a estimulación magnética transcraneal: \"Pensé en la eutanasia, así que probaré lo que haga falta\"",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20261124/esteve-sometido-estimulacion-magnetica-transcraneal-132853459",
+    "pubDate": "2026-11-24 06:00:49",
+    "category": "",
+    "description": "<h2 class=\"item\">\"Lo que siento es como si te llamaran cada día y te dijeran que se ha matado tu hijo\"</h2><h2 class=\"item\">\"Estoy esperanzada, lo conseguiremos\", afirma emocionada Fina, esposa de Esteve</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Detrás de Xavier García Albiol: una campaña \"anárquica\" custodiada por su núcleo de confianza de Badalona",
+    "link": "https://www.elperiodico.com/es/politica/20261124/detras-albiol-campana-agenda-fija-improvisacion-nucleo-confianza-badalona-136574629",
+    "pubDate": "2026-11-24 06:00:41",
+    "category": "",
+    "description": "<h2 class=\"item\">PERFIL | <a href=\"https://www.elperiodico.com/es/politica/20261118/quien-es-albiol-candidato-pp-elecciones-generales-perfil-136111340\" target=\"_blank\">Albiol, un alcalde 'badalonista' para 'desokupar' a Sánchez de la Moncloa</a></h2><h2 class=\"item\">ENTREVISTA | <a href=\"https://www.elperiodico.com/es/politica/20261118/albiol-entrevista-elecciones-generales-29n-no-regularizar-inmigrante-no-hable-castellano-catalan-cataluna-136539937\" target=\"_blank\">Albiol (PPC): \"No se puede regularizar a un inmigrante que no hable castellano o catalán en Catalunya\"</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "El don Huang de Nvidia, la chupa de cuero y el armario de los magnates tecnológicos",
+    "link": "https://www.elperiodico.com/es/gente/20261124/don-huang-nvidia-chupa-cuero-136610793",
+    "pubDate": "2026-11-24 06:00:41",
+    "category": "",
+    "description": "<h2>Jensen Huang ha pasado de ser la estrella de la inteligencia artificial a protagonizar un escándalo de infidelidades y espionaje que le costó el puesto, aunque Nvidia acaba de restituirlo como presidente y director ejecutivo. Su inseparable chaqueta negra adquiere ahora otro significado. Y no es el único multimillonario tecnológico que ha hecho de su vestuario una marca personal.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "'The Adelaide Review' publica una encuesta diaria en Australia sobre las elecciones generales de España",
+    "link": "https://www.elperiodico.com/es/politica/20261124/encuesta-periodico-australia-andorra-elecciones-generales-espana-2026-136674048",
+    "pubDate": "2026-11-24 06:00:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20261122/encuesta-elecciones-generales-espana-2026-sondeo-29n-136693938\" target=\"_blank\">Encuesta 29N: El PP amplía su ventaja sobre el PSOE y Vox pierde terreno en la recta final</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261122/sondeo-valoracion-lideres-preferencia-presidente-sanchez-feijoo-136704152\" target=\"_blank\">Sondeo 29N: Feijóo es el líder mejor valorado y Sánchez, el preferido como presidente</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261123/encuesta-periodico-australia-andorra-elecciones-generales-espana-2026-136674048\" target=\"_blank\">Encuestas de las elecciones generales 2026: así han quedado los sondeos del 29N</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Encuestas de las elecciones generales en España 2026: así están los sondeos del 29N",
+    "link": "https://www.elperiodico.com/es/politica/20261124/encuestas-elecciones-generales-espana-sondeos-12274406",
+    "pubDate": "2026-11-24 06:00:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20261123/encuesta-periodico-australia-andorra-elecciones-generales-espana-2026-136674048\" target=\"_blank\">'The Adelaide Review' publica una encuesta diaria en Australia sobre las elecciones generales de España</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261004/encuestas-elecciones-cataluna-sondeos-catalunya-124137879\" target=\"_blank\">Encuestas de las elecciones en Catalunya: así están los sondeos</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Підсумки 23.11: Полювання у Лівії і три заводи",
+    "link": "https://ua.korrespondent.net/ukraine/4931237-pidsumky-2311-poluivannia-u-livii-i-try-zavody",
+    "pubDate": "2026-11-24 05:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4651506.jpg\">Зеленський: У Лівії знищено корвет і вертоліт РФ; Дрони за ніч уразили відразу три нафтові об'єкти РФ. Кореспондент.net виділяє головні події вчорашнього дня.",
+    "topic": "підсумки (за попередній день, наприклад)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Tráfico y Rodalies en Barcelona y resto de Catalunya hoy 24 de noviembre, en directo | Incidencias, cortes, accesos y estado de las carreteras",
+    "link": "https://www.elperiodico.com/es/barcelona/20261124/trafico-rodalies-barcelona-cataluna-hoy-ultima-hora-directo-136600874",
+    "pubDate": "2026-11-24 05:35:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Sigue al minuto la última hora del estado del tráfico y las incidencias en los trenes de Rodalies, metro, autobuses y resto de transporte público</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20261117/rondas-barcelona-atascos-accidentes-graficos-mapa-136537054\">Cinco gráficos para entender por qué las rondas de Barcelona tienen tantos atascos y accidentes</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Crisis en Oriente Medio: efectos de la guerra en Irán y tensión en Israel en directo",
+    "link": "https://www.elperiodico.com/es/internacional/20261124/guerra-iran-israel-ultima-hora-directo-130265713",
+    "pubDate": "2026-11-24 05:34:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20260410/guerra-ucrania-rusia-ultima-hora-zelenski-trump-putin-directo-126605559\" >DIRECTO | Guerra Ucrania - Rusia, en directo: última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Єврокомісія підтвердила витік персональних даних внаслідок кібератаки",
+    "link": "https://ua.korrespondent.net/world/4931351-yevrokomisiia-pidtverdyla-vytik-personalnykh-danykh-vnaslidok-kiberataky",
+    "pubDate": "2026-11-24 05:27:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4651488.jpg\">Зловмисники зламали навчальну платформу Європейської комісії, і викрали особист дані користувачів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Barcelona - Fenerbaçe: horario, TV, cómo y dónde ver la Euroliga 2026-27",
+    "link": "https://as.com/baloncesto/barcelona-fenerbace-horario-tv-como-y-donde-ver-la-euroliga-2026-27-f202611-n/",
+    "pubDate": "2026-11-24 05:22:44",
+    "category": "Baloncesto",
+    "description": "Conoce el horario y cómo ver el partido de la jornada 14 de la Euroliga 2026-27 entre Barça y Fenerbahçe. Este martes, 24 de noviembre, a las 21:00 horas.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Jasikevicius y el Barça, amigos y rivales",
+    "link": "https://as.com/baloncesto/euroliga/jasikevicius-y-el-barca-amigos-y-rivales-f202611-n/",
+    "pubDate": "2026-11-24 05:20:58",
+    "category": "Baloncesto",
+    "description": "El mítico entrenador visita al Palau con el Fenerbahçe. Conoce muy bien el sitio: allí ganó la Euroliga como jugador y se quedó a un paso de hacerlo como técnico. Su salida en 2023, el principio del fin de la crisis culé.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Valencia Basket 2.0",
+    "link": "https://as.com/baloncesto/euroliga/valencia-basket-20-f202611-n/",
+    "pubDate": "2026-11-24 05:18:46",
+    "category": "Valencia Basket Club",
+    "description": "El líder de la Euroliga recibe al Panathinaikos 195 días después del ‘clic’ taronja en los cuartos de final del curso pasado.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Запоріжжі частково зруйнована п’ятиповерхівка",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4931349-u-zaporizhzhi-chastkovo-zruinovana-piatypoverkhivka",
+    "pubDate": "2026-11-24 04:48:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4651449.jpg\">Є інформація про заблокованих людей. Рятувальники на місці прильоту проводять пошуково-рятувальні роботи.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Південна Корея піднімала винищувачі через російські літаки",
+    "link": "https://ua.korrespondent.net/world/4931347-pivdenna-koreia-pidnimala-vynyschuvachi-cherez-rosiiski-litaky",
+    "pubDate": "2026-11-24 04:25:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4651431.jpg\">Військові відстежували російські літаки ще на підльоті до зони ідентифікації, а винищувачі здійснили тактичні маневри, щоб запобігти зіткненням.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Вибух БПЛА у Києві перервав промову британського міністра оборони",
+    "link": "https://ua.korrespondent.net/ukraine/4931345-vybukh-bpla-u-kyievi-perervav-promovu-brytanskoho-ministra-oborony",
+    "pubDate": "2026-11-24 03:55:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4651396.jpg\">Вес Стрітінг саме говорив про важливість української протиповітряної оборони, коли прогримів потужний вибух.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Греція запропонувала експортувати українське зерно",
+    "link": "https://ua.korrespondent.net/ukraine/4931343-hretsiia-zaproponuvala-eksportuvaty-ukrainske-zerno",
+    "pubDate": "2026-11-24 03:22:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4651361.jpg\">Альтернативний маршрут пролягатиме через порт Александруполіс. Пробну партію вантажу можуть перевезти залізницею.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Києві перекинулася карета \"швидкої\"",
+    "link": "https://ua.korrespondent.net/city/kiev/4931341-u-kyievi-perekynulasia-kareta-shvydkoi",
+    "pubDate": "2026-11-24 02:54:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4651339.jpg\">Легковий автомобіль зіткнувся з автомобілем швидкої допомоги, внаслідок чого той перекинувся.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Дані про смерть Рощиної змінювали кілька разів - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4931339-dani-pro-smert-roschynoi-zminuivaly-kilka-raziv-zmi",
+    "pubDate": "2026-11-24 02:23:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4651286.jpg\">Причину смерті встановив судмедексперт, а зареєстрував спеціалізований відділ управління запису актів цивільного стану адміністрації міста Пермь",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Castilla-La Mancha reclama más agua, infraestructuras y financiación para impulsar su desarrollo económico",
     "link": "https://www.elperiodico.com/es/politica/20261124/castilla-la-mancha-retos-elecciones-generales-136764064",
     "pubDate": "2026-11-24 02:00:42",
@@ -25,6 +340,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4651268.jpg\">Акція мала на меті прискорити переговори уряду щодо федерального бюджету, а також виступити проти низки урядових реформ, зокрема, пенсійної.",
     "topic": "політика",
     "topic_match_probability": 95
+  },
+  {
+    "title": "У Бельгії десятки тисяч людей вийшли на вулиці з протестами",
+    "link": "https://ua.korrespondent.net/world/4931337-u-belhii-desiatky-tysiach-luidei-vyishly-na-vulytsi-z-protestamy",
+    "pubDate": "2026-11-24 01:48:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4651268.jpg\">Акція мала на меті прискорити переговори уряду щодо федерального бюджету, а також виступити проти низки урядових реформ, зокрема, пенсійної.",
+    "topic": "політика",
+    "topic_match_probability": 78
   },
   {
     "title": "La portada de EL PERIÓDICO del 24 de noviembre de 2026",
