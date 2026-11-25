@@ -1,8 +1,19 @@
-# News for 2026-11-25 10:47
+# News for 2026-11-25 12:29
 
 Previous day: [2026-11-24](./data/2026-11-24.md)
 
 ## ua.korrespondent.net
+12:19 [Норвегія скерувала додатковий внесок на підтримку енергетики України](https://ua.korrespondent.net/ukraine/4931825-norvehiia-skeruvala-dodatkovyi-vnesok-na-pidtrymku-enerhetyky-ukrainy)<br>
+12:12 [На підприємстві Дерипаски в Росії сталася аварія](https://ua.korrespondent.net/world/russia/4931822-na-pidpryiemstvi-derypasky-v-rosii-stalasia-avariia)<br>
+12:07 [Запорізька АЕС втратила зовнішнє живлення](https://ua.korrespondent.net/business/companies/4931817-zaporizka-aes-vtratyla-zovnishnie-zhyvlennia)<br>
+12:07 [Долар і євро продовжують зростати в обмінниках](https://ua.korrespondent.net/business/financial/4931818-dolar-i-yevro-prodovzhuuit-zrostaty-v-obminnykakh)<br>
+11:58 [Huawei визнали винною у порушенні санкцій проти Ірану](https://ua.korrespondent.net/business/companies/4931814-Huawei-vyznaly-vynnoui-u-porushenni-sanktsii-proty-iranu)<br>
+11:50 [Нафта не врятувала: Венесуела визнала рекордний борг](https://ua.korrespondent.net/business/economics/4931811-nafta-ne-vriatuvala-venesuela-vyznala-rekordnyi-borh)<br>
+11:30 [Рада легалізувала ринок криптовалюти в Україні](https://ua.korrespondent.net/business/economics/4931802-rada-lehalizuvala-rynok-kryptovaluity-v-ukraini)<br>
+11:27 [В Україні зросла захворюваність на ГРВІ](https://ua.korrespondent.net/ukraine/4931799-v-ukraini-zrosla-zakhvoruivanist-na-hrvi)<br>
+11:25 [Чи загрожує Куп’янську оточення: у ЗСУ оцінили ситуацію](https://ua.korrespondent.net/ukraine/4931798-chy-zahrozhuie-kupiansku-otochennia-u-zsu-otsinyly-sytuatsiui)<br>
+11:16 [На Житомирщині внаслідок російської атаки загинула людина](https://ua.korrespondent.net/ukraine/4931792-na-zhytomyrschyni-vnaslidok-rosiiskoi-ataky-zahynula-luidyna)<br>
+10:59 [Венеція готує нові туристичні тарифи: збір майже подвоїться](https://ua.korrespondent.net/lifestyle/travel/4931775-venetsiia-hotuie-novi-turystychni-taryfy-zbir-maizhe-podvoitsia)<br>
 10:41 [У Києві просять зменшити споживання води через атаки РФ](https://ua.korrespondent.net/kyiv/4931782-u-kyievi-prosiat-zmenshyty-spozhyvannia-vody-cherez-ataky-rf)<br>
 10:40 [Нові знеструмлення у п'яти областях України](https://ua.korrespondent.net/ukraine/4931781-novi-znestrumlennia-u-piaty-oblastiakh-ukrainy)<br>
 10:30 [Працювали неофіційно: чи можна зарахувати ці роки до пенсії](https://ua.korrespondent.net/articles/4931771-pratsuivaly-neofitsiino-chy-mozhna-zarakhuvaty-tsi-roky-do-pensii)<br>
@@ -33,6 +44,14 @@ Previous day: [2026-11-24](./data/2026-11-24.md)
 00:10 [Sekulic confirma que el Barça está buscando un pívot en el mercado](https://as.com/baloncesto/euroliga/sekulic-confirma-que-el-barca-esta-buscando-un-pivot-en-el-mercado-f202611-n/)<br>
 
 ## www.elperiodico.com
+12:24 [Baqueira Beret aplaza el inicio de la temporada de esquí por la falta de nieve](https://www.elperiodico.com/es/sociedad/20261125/baqueira-beret-aplaza-inicio-temporada-esqui-falta-nieve-catalunya-136830238)<br>
+12:22 [Una carta manuscrita de Miró, el hallazgo inesperado en una librería de viejo en Madrid](https://www.elperiodico.com/es/ocio-y-cultura/20261125/carta-manuscrita-miro-hallazgo-inesperado-136831591)<br>
+12:06 [Argentina entra en recesión técnica: cierre de empresas, destrucción de empleo, y caída de salarios y consumo](https://www.elperiodico.com/es/internacional/20261125/argentina-recesion-tecnica-cierre-empresas-destruccion-empleo-caida-salarios-consumo-136830727)<br>
+11:57 [El SEPE advierte: si te despiden con vacaciones pendientes, el plazo para pedir el paro no empieza inmediatamente](https://www.elperiodico.com/es/economia/20261125/sepe-despido-vacaciones-pendientes-plazo-paro-no-empieza-inmediatamente-dv-136829805)<br>
+11:45 [Estos son los servicios mínimos de la huelga de profesores en Catalunya este 26 de noviembre](https://www.elperiodico.com/es/sociedad/20261125/servicios-minimos-huelga-profesores-cataluna-26-noviembre-136828648)<br>
+11:37 [Puigcerdà, el refugio inspirador de Gaudí donde podría haber dejado una misteriosa barandilla](https://www.elperiodico.com/es/catalunya/20261125/puigcerda-refugio-inspirador-gaudi-haber-136829316)<br>
+11:32 [Entra en vigor el nuevo permiso por nacimiento de 20 semanas: cómo funciona y hasta cuándo puede disfrutarse](https://www.elperiodico.com/es/sociedad/20261125/gobierno-permiso-maternidad-paternidad-20-semanas-136782788)<br>
+11:29 [Entra en vigor el nuevo permiso por fallecimiento: cuántos días corresponden según el parentesco y cómo funciona](https://www.elperiodico.com/es/economia/20261125/nuevo-permiso-fallecimiento-familiar-parentesco-136780297)<br>
 10:36 [Intervienen un cargamento de anfetaminas valorado en más de un millón de euros en Riudellots](https://www.elperiodico.com/es/sucesos/20261125/intervienen-cargamento-anfetaminas-valorado-millon-136825867)<br>
 10:31 [Sony recupera un viejo sello: ¿Vuelven los tiempos de los grandes exclusivos de PlayStation?](https://www.elperiodico.com/es/videojuegos/20261125/sony-recupera-viejo-sello-vuelven-136817734)<br>
 10:07 [Renovar el DNI en Girona, una odisea: sin citas en la capital y esperas hasta enero](https://www.elperiodico.com/es/sociedad/20261125/renovar-dni-girona-odisea-citas-esperas-enero-136824249)<br>
@@ -40,6 +59,7 @@ Previous day: [2026-11-24](./data/2026-11-24.md)
 10:00 [La actriz María León (42 años), sobre dividir la cuenta: "Voy a disfrutar más pagándolo antes que contando si tú un poquito más o un poquito menos, no voy a salir de pobre"](https://www.elperiodico.com/es/gente/20261125/maria-leon-actriz-dinero-dividir-cuenta-dv-136134352)<br>
 09:53 [Bailarina, modelo y aspirante a 'MasterChef': así es Lina Sitchinava, la nueva ilusión de Ilia Topuria](https://www.elperiodico.com/es/gente/20261125/lina-sitchinava-nueva-novia-ilia-topuria-bailarina-georgiana-136823204)<br>
 09:41 [El vaciado de los canales de riego deja al descubierto miles de peces invasores como siluros, luciopercas y alburnos](https://www.elperiodico.com/es/sociedad/20261125/vaciado-canales-especies-invasoras-siluro-lucioperca-rios-136817478)<br>
+09:16 [La concesión de hipotecas alcanza su mejor cifra en un mes de septiembre desde 2010](https://www.elperiodico.com/es/economia/20261125/concesion-hipotecas-alcanza-mejor-cifra-136823124)<br>
 09:05 [El gran reto del cáncer de pulmón en Baleares es llegar antes al diagnóstico](https://www.elperiodico.com/es/salud/20261125/gran-reto-cancer-pulmon-baleares-bc-136822903)<br>
 08:35 [La puertorriqueña Jennifer Barreto, primera madre en ganar Miss Universo](https://www.elperiodico.com/es/videos/gente/puertorriquena-jennifer-barreto-primera-madre-ganar-miss-universo-video/136822340.shtml)<br>
 08:25 [Jennifer Barreto, de Puerto Rico, hace historia al convertirse en la primera madre en ganar Miss Universo 2026](https://www.elperiodico.com/es/gente/20261125/quien-ha-ganado-miss-universo-2026-puerto-rico-primera-madre-ganar-136821403)<br>
