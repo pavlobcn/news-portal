@@ -1,6 +1,9 @@
-# News for 2026-11-25 02:00
+# News for 2026-11-25 03:20
 
 Previous day: [2026-11-24](./data/2026-11-24.md)
+
+## ua.korrespondent.net
+01:58 [Атаковано Сизранський НПЗ: спалахнула пожежа](https://ua.korrespondent.net/world/russia/4931697-atakovano-syzranskyi-npz-spalakhnula-pozhezha)<br>
 
 ## as.com
 00:10 [Sekulic confirma que el Barça está buscando un pívot en el mercado](https://as.com/baloncesto/euroliga/sekulic-confirma-que-el-barca-esta-buscando-un-pivot-en-el-mercado-f202611-n/)<br>
