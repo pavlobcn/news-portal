@@ -1,8 +1,10 @@
-# News for 2026-11-25 20:39
+# News for 2026-11-25 21:40
 
 Previous day: [2026-11-24](./data/2026-11-24.md)
 
 ## ua.korrespondent.net
+20:57 [Проти ненависті та насильства: Іспанія вийшла на масштабні протести](https://ua.korrespondent.net/world/4931983-proty-nenavysti-ta-nasylstva-ispaniia-vyishla-na-masshtabni-protesty)<br>
+20:42 [Мільярдер із США викупить закордонний бізнес Лукойлу - ЗМІ](https://ua.korrespondent.net/business/companies/4931981-miliarder-iz-ssha-vykupyt-zakordonnyi-biznes-lukoilu-zmi)<br>
 20:26 [Самоспалення у центрі Варшави: чоловіка забрали до лікарні](https://ua.korrespondent.net/world/4931978-samospalennia-u-tsentri-varshavy-cholovika-zabraly-do-likarni)<br>
 19:54 [Укрзалізниця запускає найшвидший потяг між Києвом і Львовом](https://ua.korrespondent.net/business/companies/4931966-ukrzaliznytsia-zapuskaie-naishvydshyi-potiah-mizh-kyievom-i-lvovom)<br>
 19:38 [У Запоріжжі семеро людей постраждали від масованого удару РФ](https://ua.korrespondent.net/city/zaporozhye/4931961-u-zaporizhzhi-semero-luidei-postrazhdaly-vid-masovanoho-udaru-rf)<br>
@@ -57,6 +59,7 @@ Previous day: [2026-11-24](./data/2026-11-24.md)
 01:58 [Атаковано Сизранський НПЗ: спалахнула пожежа](https://ua.korrespondent.net/world/russia/4931697-atakovano-syzranskyi-npz-spalakhnula-pozhezha)<br>
 
 ## as.com
+21:27 [Baskonia - Anadolu Efes, en directo: Euroliga, hoy en vivo](https://as.com/baloncesto/euroliga/baskonia-anadolu-efes-en-directo-euroliga-hoy-en-vivo-f202611-n/)<br>
 20:25 [Real Madrid – Zalgiris, en directo: Euroliga 2026-27 en vivo hoy](https://as.com/baloncesto/euroliga/real-madrid-zalgiris-en-directo-euroliga-2026-27-en-vivo-hoy-f202611-d/)<br>
 20:16 [Chus Mateo: “Estos chicos son superhéroes”](https://as.com/baloncesto/mas_baloncesto/chus-mateo-estos-chicos-son-superheroes-f202611-n/)<br>
 19:56 [El Barça fuerza la salida de Sekulic de la selección eslovena](https://as.com/baloncesto/mas_baloncesto/el-barca-fuerza-la-salida-de-sekulic-de-la-seleccion-eslovena-f202611-n/)<br>
@@ -71,6 +74,10 @@ Previous day: [2026-11-24](./data/2026-11-24.md)
 00:10 [Sekulic confirma que el Barça está buscando un pívot en el mercado](https://as.com/baloncesto/euroliga/sekulic-confirma-que-el-barca-esta-buscando-un-pivot-en-el-mercado-f202611-n/)<br>
 
 ## www.elperiodico.com
+21:12 [La lentitud de los bueyes](https://www.elperiodico.com/es/deportes/20261125/lentitud-bueyes-136857114)<br>
+21:00 [Fundació Marianao, los hermanos Ametller, HIPRA, MAT Holding, Grupo Occident y Parc Sanitari Sant Joan de Déu, premiados por la Fundación CEDE](https://www.elperiodico.com/es/economia/20261125/fundacio-marianao-hermanos-ametller-hipra-136856859)<br>
+20:57 [Barcelona marcha contra la violencia machista: "Esperamos que quienes niegan esta realidad sean duramente castigados el 29N"](https://www.elperiodico.com/es/sociedad/20261125/miles-mujeres-marchan-barcelona-violencia-machista-quienes-niegan-esta-realidad-sean-duramente-castigados-29-n-136854132)<br>
+20:46 [Afterwork de EL PERIÓDICO con Daniel Tugues, director País CEO de Veolia España](https://www.elperiodico.com/es/videos/economia/afterwork-periodico-daniel-tugues-director/136856362.shtml)<br>
 20:29 [Daniel Tugues (Veolia): "La apuesta por la colaboración público-privada es tímida, nos podrían sacar mucho más jugo"](https://www.elperiodico.com/es/economia/20261125/daniel-tugues-veolia-apuesta-colaboracion-136852063)<br>
 20:21 [El Port de Barcelona creará una sociedad para electrificar sus muelles con una inversión de 150 millones de euros](https://www.elperiodico.com/es/barcelona/20261125/port-barcelona-creara-sociedad-electrificar-136852552)<br>
 20:19 [¿Habrá remontada? Veolia pone el agua en el partido](https://www.elperiodico.com/es/economia/20261125/habra-remontada-veolia-pone-agua-136838206)<br>

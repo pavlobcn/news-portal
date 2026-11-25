@@ -1,5 +1,167 @@
 [
   {
+    "title": "¿Por qué la fiscal Scharfhausen cree a Inda sobre la factura de 242.000 euros pagada a la abogada Leticia de la Hoz?",
+    "link": "https://www.elperiodico.com/es/opinion/20261125/fiscal-scharfhausen-cree-inda-factura-136857902",
+    "pubDate": "2026-11-25 21:37:42",
+    "category": "",
+    "description": "<h2>Anticorrupción no quiso oír hablar de los pagos de la defensa de Koldo García en julio, cuando su letrada declaró que el PSOE no era el pagador. Ahora, 15 días después de conocer que las facturas fueron abonadas por 'Okdiario', otorga credibilidad a su director Eduardo Inda y consigue que el juez Pedraz envíe el asunto a la Audiencia de Madrid para que investigue si hubo un alzamiento de bienes en el que habrían participado la letrada y 'Okdiario'.</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "La batería de un coche eléctrico de segunda mano puede estar degradada aunque marque el 100%",
+    "link": "https://www.elperiodico.com/es/motor/20261125/bateria-coche-electrico-segunda-mano-136485569",
+    "pubDate": "2026-11-25 21:30:53",
+    "category": "",
+    "description": "<h2>Un eléctrico de segunda mano puede parecer una ganga, pero su batería tiene la última palabra</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Циганков повертається до тренувань Аякса",
+    "link": "https://ua.korrespondent.net/sport/football/4931990-tsyhankov-povertaietsia-do-trenuvan-aiaksa",
+    "pubDate": "2026-11-25 21:30:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4654162.jpg\">Український вінгер нідерландського клубу після травми знову повернувся до тренувань із командою.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Швейцарія поверне Узбекистану мільйонні активи Карімової",
+    "link": "https://ua.korrespondent.net/business/financial/4931988-shveitsariia-poverne-uzbekystanu-milionni-aktyvy-karimovoi",
+    "pubDate": "2026-11-25 21:29:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4654164.jpg\">Швейцарія погодилася передати Узбекистану ще $252,5 млн, конфіскованих у справі Гульнари Карімової.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Baskonia - Anadolu Efes, en directo: Euroliga, hoy en vivo",
+    "link": "https://as.com/baloncesto/euroliga/baskonia-anadolu-efes-en-directo-euroliga-hoy-en-vivo-f202611-n/",
+    "pubDate": "2026-11-25 21:27:48",
+    "category": "Deportes",
+    "description": "Baskonia - Anadolu Efes, en directo: Euroliga, hoy en vivo",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Al menos 30 muertos por el incendio de un camión cisterna cerca de El Cairo",
+    "link": "https://www.elperiodico.com/es/internacional/20261125/30-muertos-incendio-camion-cisterna-el-cairo-136857758",
+    "pubDate": "2026-11-25 21:25:54",
+    "category": "",
+    "description": "<h2>El suceso ocurrió en un túnel del distrito Warraq cuando el conductor perdió el control del camión, provocando una explosión que movilizó a 39 ambulancias y equipos de emergencia</h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Madrid clama contra la violencia machista a cuatro días del 29N: \"Frente al negacionismo y recortes, hoy, más que nunca, estamos aquí\"",
+    "link": "https://www.elperiodico.com/es/politica/20261125/madrid-marcha-violencia-machista-cuatro-dias-29n-136857278",
+    "pubDate": "2026-11-25 21:14:34",
+    "category": "",
+    "description": "<h2>PSOE y PP coinciden en la manifestación del feminismo abolicionista, mientras que Podemos y Frente Amplio secundan la marcha de la Comisión 8M en un año con siete mujeres asesinadas en la región</h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Уряд прискорив кодифікацію дронів і РЕБ",
+    "link": "https://ua.korrespondent.net/ukraine/4931986-uriad-pryskoryv-kodyfikatsiui-droniv-i-reb",
+    "pubDate": "2026-11-25 21:13:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4654163.jpg\">Відтепер виробники зможуть швидше оформлювати нові розробки для потреб війська, а для РЕБ встановили чіткий десятиденний термін.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "La lentitud de los bueyes",
+    "link": "https://www.elperiodico.com/es/deportes/20261125/lentitud-bueyes-136857114",
+    "pubDate": "2026-11-25 21:12:06",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Bruselas pide a los Balcanes que no pierdan \"el impulso\" hacia la integración europea",
+    "link": "https://www.elperiodico.com/es/internacional/20261125/bruselas-pide-balcanes-pierdan-impulso-136857045",
+    "pubDate": "2026-11-25 21:04:09",
+    "category": "",
+    "description": "<h2>La reunión se celebra en un momento de conflicto entre UE y EEUU en la región </h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La UME actuará en El Hierro ante la petición de auxilio de Canarias",
+    "link": "https://www.elperiodico.com/es/politica/20261125/ume-actuara-hierro-peticion-auxilio-136856961",
+    "pubDate": "2026-11-25 21:02:43",
+    "category": "",
+    "description": "<h2>El Gobierno regional activa el plan de emergencia ante la saturación de los recursos sanitarios en la Isla tras el rescate de más de 2.100 personas en una jornada</h2>",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Fundació Marianao, los hermanos Ametller, HIPRA, MAT Holding, Grupo Occident y Parc Sanitari Sant Joan de Déu, premiados por la Fundación CEDE",
+    "link": "https://www.elperiodico.com/es/economia/20261125/fundacio-marianao-hermanos-ametller-hipra-136856859",
+    "pubDate": "2026-11-25 21:00:20",
+    "category": "",
+    "description": "<h2>Estos galardones premian a empresas, entidades y líderes por su aportación en ámbitos como el compromiso social, el emprendimiento, la innovación, el liderazgo global y la trayectoria empresarial</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Barcelona marcha contra la violencia machista: \"Esperamos que quienes niegan esta realidad sean duramente castigados el 29N\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261125/miles-mujeres-marchan-barcelona-violencia-machista-quienes-niegan-esta-realidad-sean-duramente-castigados-29-n-136854132",
+    "pubDate": "2026-11-25 20:57:06",
+    "category": "",
+    "description": "<h2 class=\"item\">La manifestación ha recorrido el centro de la capital catalana, desde la plaza de la Universitat hasta Sant Jaume, bajo el lema 'Feministes, antiracistes i antifeixistes contra les violències masclistes' </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sucesos/20261125/detenido-matar-pareja-mujer-hallada-semienterrada-cadiz-136831089\" >Detenido por matar a su pareja, una mujer hallada semienterrada en una playa de Cádiz</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sucesos/20261125/mata-navajazos-novia-casa-murcia-136837837\" >Mata a navajazos a su exnovia en su casa de Murcia y logra escapar</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Проти ненависті та насильства: Іспанія вийшла на масштабні протести",
+    "link": "https://ua.korrespondent.net/world/4931983-proty-nenavysti-ta-nasylstva-ispaniia-vyishla-na-masshtabni-protesty",
+    "pubDate": "2026-11-25 20:57:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4654138.jpg\">Десятки тисяч людей у різних містах Іспанії долучилися до акцій проти насильства над жінками.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La goleada de la unidad B del Barça en la Champions",
+    "link": "https://www.elperiodico.com/es/deportes/20261125/goleada-unidad-b-barca-champions-136849138",
+    "pubDate": "2026-11-25 20:51:50",
+    "category": "",
+    "description": "<h2>Flick alineó un equipo con cinco de los seis jugadores con menos minutos de la plantilla que supo mantener el promedio realizador de los titulares</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Las candidatas de PSC, ERC y los Comuns piden a las mujeres ir a votar \"en defensa propia\" este 29N",
+    "link": "https://www.elperiodico.com/es/politica/20261125/candidatas-psc-erc-comuns-piden-mujeres-votar-defensa-propia-elecciones-29n-136852550",
+    "pubDate": "2026-11-25 20:47:30",
+    "category": "",
+    "description": "<h2 class=\"item\">Los tres partidos avisan de que los derechos de las mujeres están en juego ante un gobierno con Vox y Junts pide \"poner nombre\" a este tipo de agresiones como primer paso para combatirlas</h2><h2 class=\"item\">Directo | <a href=\"https://www.elperiodico.com/es/sociedad/20261125/manifestacion-25n-violencia-genero-ultima-hora-directo-136842615\" target=\"_blank\">Miles de mujeres claman contra la violencia machista en un 25N marcado por dos nuevos asesinatos</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261125/violencia-machista-propuestas-partidos-elecciones-29n-136760022\" target=\"_blank\">¿Cómo pretenden atajar la violencia machista los partidos que se presentan a las elecciones?</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Afterwork de EL PERIÓDICO con Daniel Tugues, director País CEO de Veolia España",
+    "link": "https://www.elperiodico.com/es/videos/economia/afterwork-periodico-daniel-tugues-director/136856362.shtml",
+    "pubDate": "2026-11-25 20:46:09",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Мільярдер із США викупить закордонний бізнес Лукойлу - ЗМІ",
+    "link": "https://ua.korrespondent.net/business/companies/4931981-miliarder-iz-ssha-vykupyt-zakordonnyi-biznes-lukoilu-zmi",
+    "pubDate": "2026-11-25 20:42:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4654117.jpg\">Американський бізнесмен Тодд Болі підписав угоду про придбання міжнародних активів російського Лукойлу.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Gordon espabila con dos goles a un deconstruido Barça en Bakú",
     "link": "https://www.elperiodico.com/es/deportes/20261125/sabah-barcelona-champions-goles-resumen-cronica-partido-136849827",
     "pubDate": "2026-11-25 20:36:05",
