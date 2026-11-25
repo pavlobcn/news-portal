@@ -1,5 +1,275 @@
 [
   {
+    "title": "Пентагон розкритикував оборонну політику Канади",
+    "link": "https://ua.korrespondent.net/world/4932015-pentahon-rozkrytykuvav-oboronnu-polityku-kanady",
+    "pubDate": "2026-11-25 23:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4654318.jpg\">Вашингтон звинуватив Оттаву в наданні пріоритету економічним інтересам над військовою ефективністю.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Feijóo critica el calendario de descarbonización de la UE por haberse hecho de forma \"precipitada y desordenada\"",
+    "link": "https://www.elperiodico.com/es/politica/20261125/feijoo-critica-calendario-descarbonizacion-ue-136860706",
+    "pubDate": "2026-11-25 23:57:47",
+    "category": "",
+    "description": "<h2>El candidato del Partido Popular advierte en su encuentro con Plex sobre la pérdida de empleos en la industria automovilística europea y defiende la apuesta actual por los vehículos híbridos </h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Resumen del Real Madrid vs. Zalgiris de Euroliga",
+    "link": "https://as.com/videos/euroliga/resumen-del-real-madrid-vs-zalgiris-de-euroliga-f202611-v/",
+    "pubDate": "2026-11-25 23:56:05",
+    "category": "Baloncesto",
+    "description": "El Madrid se lleva un encuentro que dominó en cada uno de los cuatro cuartos. El mejor de los blancos fue Feliz, con 20 puntos.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "ПСЖ із забивним Забарним зіграв унічию з Ромою",
+    "link": "https://ua.korrespondent.net/sport/football/4932011-pszh-iz-zabyvnym-zabarnym-zihrav-unichyui-z-romoui",
+    "pubDate": "2026-11-25 23:44:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4654282.jpg\">Римляни доклали усіх зусиль у Лізі чемпіонів, щоб домогтися нічійного рахунку у грі в Парижі.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Самопідпал у Варшаві: поранений виявився українцем",
+    "link": "https://ua.korrespondent.net/world/4932012-samopidpal-u-varshavi-poranenyi-vyiavyvsia-ukraintsem",
+    "pubDate": "2026-11-25 23:38:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4654300.png\">Медики оперативно прибули на поміч чоловіку через близьке розташування бригади швидкої допомоги.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Pedro Martínez: “El lunes esperamos tener a todo el equipo de vuelta”",
+    "link": "https://as.com/baloncesto/euroliga/pedro-martinez-el-lunes-esperamos-tener-a-todo-el-equipo-de-vuelta-f202611-n/",
+    "pubDate": "2026-11-25 23:37:29",
+    "category": "Baloncesto",
+    "description": "El técnico madridista destaca la solidez defensiva, el acierto inicial y la intensidad mostrada frente al conjunto lituano.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sin consensos en vivienda y al choque con la inmigración: los candidatos catalanes exhiben sus diferencias en el debate de TV3",
+    "link": "https://www.elperiodico.com/es/politica/20261125/sin-consensos-vivienda-choque-inmigracion-candidatos-catalanas-elecciones-29n-136852730",
+    "pubDate": "2026-11-25 23:30:19",
+    "category": "",
+    "description": "<h2 class=\"item\">PSC, ERC y Comuns se emplazan a entenderse si los números permiten formar gobierno, Junts marca distancias y PP y Vox dejan al descubierto sus coincidencias</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261124/cara-cara-albiol-colau-vivienda-debate-elecciones-29n-136801547\" target=\"_blank\">Albiol y Colau confrontan sus recetas para resolver la crisis de la vivienda y coinciden en que el PSOE \"ha fracasado\" en esta materia</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261125/voto-util-pugna-partidos-capitalizarlo-campana-elecciones-generales-catalunya-136761301\" target=\"_blank\">\"Somos el voto útil\": los partidos entran en la pugna por capitalizarlo en la recta final de campaña</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Sorloth y Julián Alvarez alivian al Atlético en la Champions",
+    "link": "https://www.elperiodico.com/es/deportes/futbol/20261125/champions-atletico-madrid-viking-cronica-resumen-136855860",
+    "pubDate": "2026-11-25 23:28:25",
+    "category": "",
+    "description": "<h2>La 'Araña' y Sorloth recuperaron el olfato goleador para dar el triunfo a un Atlético obligado a sumar de tres en tres si quiere alcanzar la clasificación directa (2-0)</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La portada de EL PERIÓDICO del 26 de noviembre de 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20261125/portada-periodico-26-noviembre-2026-136860321",
+    "pubDate": "2026-11-25 23:24:11",
+    "category": "",
+    "description": "",
+    "topic": "portada de EL PERIÓDICO",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Hogar, dulce hogar",
+    "link": "https://as.com/baloncesto/euroliga/hogar-dulce-hogar-f202611-n/",
+    "pubDate": "2026-11-25 23:12:08",
+    "category": "Baloncesto",
+    "description": "El Madrid recupera sensaciones y se dispara otra vez muy por encima de los 100 puntos. Feliz, Maledon y Tavares sobresalen dentro de una tónica general muy alta.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Muere a los 65 años Andy Taylor, exguitarrista de Duran Duran",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261125/muere-andy-taylor-exguitarrista-duran-duran-65-anos-136860044",
+    "pubDate": "2026-11-25 23:01:20",
+    "category": "",
+    "description": "<h2>El músico británico, que alcanzó la fama internacional en los años ochenta, fue diagnosticado de cáncer de próstata en 2018</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 96
+  },
+  {
+    "title": "Балістичні удари по Києву: стали відомі наслідки",
+    "link": "https://ua.korrespondent.net/city/kiev/4932009-balistychni-udary-po-kyievu-staly-vidomi-naslidky",
+    "pubDate": "2026-11-25 22:59:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4654258.jpg\">Російські ракетні удари призвели до поранення трьох людей в столиці: двох з них госпіталізували.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Забарний відзначився дебютним голом у Лізі чемпіонів",
+    "link": "https://ua.korrespondent.net/sport/football/4932006-zabarnyi-vidznachyvsia-debuitnym-holom-u-lizi-chempioniv",
+    "pubDate": "2026-11-25 22:49:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4654239.jpg\">Український захисник зрівняв рахунок у матчі з Ромою, давши своїй команді надію на перемогу.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Путін утримується від застосування ядерки - Кушнер",
+    "link": "https://ua.korrespondent.net/world/worldabus/4932005-putin-utrymuietsia-vid-zastosuvannia-yaderky-kushner",
+    "pubDate": "2026-11-25 22:46:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4654240.jpg\">Світ тепер живе в \"небезпечний час\", але \"незначний прорахунок\" може призвести до загострення, вважає спецпосланець Трампа.",
+    "topic": "політика",
+    "topic_match_probability": 82
+  },
+  {
+    "title": "Pedro Sánchez: \"Hay una crisis de credibilidad en la política que genera desafección entre los jóvenes\"",
+    "link": "https://www.elperiodico.com/es/politica/20261125/pedro-sanchez-hay-crisis-credibilidad-136859796",
+    "pubDate": "2026-11-25 22:42:37",
+    "category": "",
+    "description": "<h2 class=\"item\">El presidente del Gobierno admite en su entrevista con el 'youtuber' Plex que \"son necesarios más puntos de encuentro\"</h2><h2 class=\"item\">Justifica un mayor control sobre las redes sociales y prohibir el acceso de los menores de 16</h2><h2 class=\"item\">El candidato del PSOE se vuelve a dirigir a los jóvenes que solo se informan a través de las redes </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261125/elecciones-generales-29-noviembre-vivienda-ceuta-ultima-hora-directo-135335688\" target=\"_blank\">Última hora de la campaña electoral de las elecciones del 29N, en directo</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Primera victoria de Perasovic en la presente Euroliga",
+    "link": "https://as.com/baloncesto/euroliga/primera-victoria-de-perasovic-en-la-presente-euroliga-f202611-n/",
+    "pubDate": "2026-11-25 22:38:28",
+    "category": "Baskonia",
+    "description": "Hasta ahora, solo había sido posible ganar al Milán en el Buesa, con Paolo Galbiati en el banquillo. Joksimovic, estelar.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Дюбуа вийде на ринг захищати титул WBO проти Паркера",
+    "link": "https://ua.korrespondent.net/sport/boks/4932003-duibua-vyide-na-rynh-zakhyschaty-tytul-WBO-proty-parkera",
+    "pubDate": "2026-11-25 22:34:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4654203.jpg\">Суперники проведуть поєдинок у січні в рамках захисту титулу, потрібного для британського боксера.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Росіяни завдали ударів балістикою по Києву",
+    "link": "https://ua.korrespondent.net/city/kiev/4932000-rosiiany-zavdaly-udariv-balistykoui-po-kyievu",
+    "pubDate": "2026-11-25 22:18:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4654221.jpg\"> військові перед вибухами повідомили про загрозу балістики та про швидкісну ціль, що летіла в бік Києва.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los países del Mediterráneo alertan sobre el agravamiento de la situación humanitaria en Gaza a las puertas del invierno",
+    "link": "https://www.elperiodico.com/es/internacional/20261125/paises-mediterraneo-alertan-agravamiento-situacion-136858833",
+    "pubDate": "2026-11-25 22:10:40",
+    "category": "",
+    "description": "<h2>Representantes de los 43 países de la Unión por el Mediterráneo han repasado los principales retos para la región en el XI Foro Regional celebrado en Barcelona</h2>",
+    "topic": "політика",
+    "topic_match_probability": 84
+  },
+  {
+    "title": "Gobernar sin entender Catalunya",
+    "link": "https://www.elperiodico.com/es/opinion/20261125/gobernar-entender-catalunya-illa-puigdemont-feijoo-136858443",
+    "pubDate": "2026-11-25 22:03:34",
+    "category": "",
+    "description": "<h2>Illa afirma que Feijóo no puede gobernar España porque, contra lo que él mismo exigía, quiere derogar la amnistía y así no sintoniza con Catalunya</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "¿Quién ha ganado el debate electoral en Catalunya? Explica qué candidato te ha convencido más y añade tu comentario",
+    "link": "https://www.elperiodico.com/es/politica/20261125/quien-ha-ganado-debate-catalunya-elecciones-generales-136846610",
+    "pubDate": "2026-11-25 22:00:32",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20261125/encuesta-prohibida-elecciones-generales-espana-136676282\" target=\"_blank\">Consulta la encuesta prohibida de las elecciones generales en España</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261125/elecciones-generales-29-noviembre-vivienda-ceuta-ultima-hora-directo-135335688\" target=\"_blank\">DIRECTO | Debate electoral en Catalunya, última hora en directo: intervenciones de los candidatos por Barcelona y propuestas para las elecciones del 29N, minuto a minuto</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Feijóo se sacude fantasmas en Madrid: \"Yo os digo aquí: 'Esta vez sí'\"",
+    "link": "https://www.elperiodico.com/es/politica/20261125/feijoo-sacude-fantasmas-madrid-digo-136858640",
+    "pubDate": "2026-11-25 21:59:18",
+    "category": "",
+    "description": "<h2>El líder de los populares protagoniza su acto central de campaña en la capital a cuatro días del 29N arropado por Almeida, Ayuso y Cayetana Álvarez de Toledo </h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "Patriot для України: Пентагон розкрив плани щодо ракет",
+    "link": "https://ua.korrespondent.net/world/4931994-Patriot-dlia-ukrainy-pentahon-rozkryv-plany-schodo-raket",
+    "pubDate": "2026-11-25 21:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4654184.jpg\">США посилюють промислову співпрацю з європейськими країнами та Україною, щоб збільшити виробництво систем Patriot.",
+    "topic": "політика",
+    "topic_match_probability": 72
+  },
+  {
+    "title": "Las mujeres toman las calles de las principales ciudades españolas contra la violencia de género",
+    "link": "https://www.elperiodico.com/es/sociedad/20261125/mujeres-vuelven-calles-25n-principales-ciudades-espanolas-contra-violencia-genero-136858587",
+    "pubDate": "2026-11-25 21:57:29",
+    "category": "",
+    "description": "<h2>Las manifestaciones por el 25N han tenido lugar en todo el país marcadas por el reciente asesinato de una mujer en Murcia y el contexto electoral del próximo domingo</h2>",
+    "topic": "політика",
+    "topic_match_probability": 58
+  },
+  {
+    "title": "Cierre judicial, avivamiento político",
+    "link": "https://www.elperiodico.com/es/opinion/20261125/cierre-judicial-avivamiento-politico-amnistia-puigdemont-editorial-136858153",
+    "pubDate": "2026-11-25 21:51:01",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Славія стала абсолютною антирекордсменкою в історії Ліги чемпіонів",
+    "link": "https://ua.korrespondent.net/sport/football/4931996-slaviia-stala-absoluitnoui-antyrekordsmenkoui-v-istorii-lihy-chempioniv",
+    "pubDate": "2026-11-25 21:51:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4654183.jpg\">Антирекорд празької команди полягає в максимальній кількості матчів поспіль без перемог у рамках проведення Ліги чемпіонів.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Villarreal resiste en Praga y se agarra a Europa",
+    "link": "https://www.elperiodico.com/es/deportes/futbol/20261125/champions-slavia-praga-villarreal-cronica-resumen-136849491",
+    "pubDate": "2026-11-25 21:49:50",
+    "category": "",
+    "description": "<h2>Un gol del canadiense Tajon Buchanan da tres puntos importantísimos al 'submarino amarillo', que suma seis en la clasificación.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Flick acaba contento con el 1-4 al Sabah: \"Han hecho un buen trabajo\"",
+    "link": "https://www.elperiodico.com/es/deportes/20261125/flick-acaba-contento-1-4-136857391",
+    "pubDate": "2026-11-25 21:49:28",
+    "category": "",
+    "description": "<h2>El técnico se puso hecho una furia con el gol azerbaiyano cuando ya tenía preparada la entrada de Àlex Campos, de 18 años, el enésimo canterano que hace debutar</h2><h2>La crónica: <a href=\"https://www.elperiodico.com/es/deportes/20261125/sabah-barcelona-champions-goles-resumen-cronica-partido-136849827\">Gordon espabila con dos goles a un deconstruido Barça en Bakú</a></h2><h2>La contracrónica: <a href=\"https://www.elperiodico.com/es/deportes/20261125/goleada-unidad-b-barca-champions-136849138\">La goleada de la unidad B del Barça en la Champions</a>  </h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Україна отримає локомотиви від Словаччини",
+    "link": "https://ua.korrespondent.net/business/companies/4931992-ukraina-otrymaie-lokomotyvy-vid-slovachchyny",
+    "pubDate": "2026-11-25 21:45:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4654182.jpg\">Словаччина передасть Укрзалізниці три локомотиви, які допоможуть підтримувати регулярний рух поїздів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ayuso llama a la movilización en presencia de Feijóo: \"No votar no es una opción\"",
+    "link": "https://www.elperiodico.com/es/politica/20261125/ayuso-llama-movilizacion-presencia-feijoo-136858198",
+    "pubDate": "2026-11-25 21:41:47",
+    "category": "",
+    "description": "<h2>La presidenta madrileña interviene junto al alcalde, José Luis Martínez-Almeida, en el acto central de campaña del líder popular en Madrid a cuatro días de los comicios</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
     "title": "¿Por qué la fiscal Scharfhausen cree a Inda sobre la factura de 242.000 euros pagada a la abogada Leticia de la Hoz?",
     "link": "https://www.elperiodico.com/es/opinion/20261125/fiscal-scharfhausen-cree-inda-factura-136857902",
     "pubDate": "2026-11-25 21:37:42",
@@ -432,6 +702,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Un voto con mucha clase",
+    "link": "https://www.elperiodico.com/es/opinion/20261125/voto-clase-136849817",
+    "pubDate": "2026-11-25 18:28:01",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 82
+  },
+  {
     "title": "L'Hospitalet dice adiós al histórico edificio de la Academia Cultura: los vecinos lamentan el derribo del inmueble",
     "link": "https://www.elperiodico.com/es/barcelona/20261125/lhospitalet-dice-adios-historico-edificio-academia-cultura-vecinos-lamentan-derribo-inmueble-136840005",
     "pubDate": "2026-11-25 18:26:29",
@@ -646,6 +925,15 @@
     "description": "<h2 class=\"item\">En 214 días podría entrar en la lista de las 100 personas más mayores de la historia</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260821/persona-anciana-mundo-ethel-caterham-117-anos-abuela-secreto-longevidad-133550787\">La persona más anciana del mundo, Ethel Caterham, cumple 117 años: \"Nunca discuto con nadie, pero luego hago lo que quiero\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/vida-y-estilo/20261108/mujer-vieja-mundo-brasil-eunice-111-anos-leche-dv-136048151\">Eunice (111 años) revela el secreto de su longevidad: \"Me acuesto y me levanto temprano y bebo mucha leche\"</a></h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Luis Rubiales, nuevo ministro de igualdad",
+    "link": "https://www.elperiodico.com/es/opinion/20261125/luis-rubiales-nuevo-ministro-igualdad-136841036",
+    "pubDate": "2026-11-25 17:11:07",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 78
   },
   {
     "title": "Буданов назвав терміни великого обміну полоненими",
@@ -1195,6 +1483,15 @@
     "description": "<h2>La familia de Antonio Vázquez ha organizado una misa funeral en la Basílica de Jesús del Gran Poder para homenajear al apoderado taurino tras el trágico accidente ferroviario en Urda</h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "La deuda de Bono",
+    "link": "https://www.elperiodico.com/es/opinion/20261125/deuda-bono-136837970",
+    "pubDate": "2026-11-25 14:09:15",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 55
   },
   {
     "title": "Фінляндія приєдналася до Фонду підтримки енергетики України",
