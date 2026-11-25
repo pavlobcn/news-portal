@@ -1,8 +1,18 @@
-# News for 2026-11-25 15:15
+# News for 2026-11-25 20:39
 
 Previous day: [2026-11-24](./data/2026-11-24.md)
 
 ## ua.korrespondent.net
+20:26 [Самоспалення у центрі Варшави: чоловіка забрали до лікарні](https://ua.korrespondent.net/world/4931978-samospalennia-u-tsentri-varshavy-cholovika-zabraly-do-likarni)<br>
+19:54 [Укрзалізниця запускає найшвидший потяг між Києвом і Львовом](https://ua.korrespondent.net/business/companies/4931966-ukrzaliznytsia-zapuskaie-naishvydshyi-potiah-mizh-kyievom-i-lvovom)<br>
+19:38 [У Запоріжжі семеро людей постраждали від масованого удару РФ](https://ua.korrespondent.net/city/zaporozhye/4931961-u-zaporizhzhi-semero-luidei-postrazhdaly-vid-masovanoho-udaru-rf)<br>
+19:04 [Російський дрон спалив авто на Харківщині: двоє загиблих](https://ua.korrespondent.net/ukraine/4931952-rosiiskyi-dron-spalyv-avto-na-kharkivschyni-dvoie-zahyblykh)<br>
+18:36 [Україна вперше знищила реактивний дрон бойовим лазером](https://ua.korrespondent.net/ukraine/4931950-ukraina-vpershe-znyschyla-reaktyvnyi-dron-boiovym-lazerom)<br>
+18:24 [Нову розкладачку Motorola Razr показали на фото до офіційного анонсу](https://ua.korrespondent.net/lifestyle/gadgets/4931947-novu-rozkladachku-Motorola-Razr-pokazaly-na-foto-do-ofitsiinoho-anonsu)<br>
+18:10 [Офіційні курси долара і євро пішли униз](https://ua.korrespondent.net/business/financial/4931941-ofitsiini-kursy-dolara-i-yevro-pishly-unyz)<br>
+17:47 [Росіяни скинули бомбу на Слов'янськ, є жертви](https://ua.korrespondent.net/ukraine/4931935-rosiiany-skynuly-bombu-na-sloviansk-ye-zhertvy)<br>
+17:24 [Росія витратила мільярди на китайські макети військової техніки](https://ua.korrespondent.net/world/4931929-rosiia-vytratyla-miliardy-na-kytaiski-makety-viiskovoi-tekhniky)<br>
+15:48 [Під Полтавою атаковано енергооб'єкт, є поранені](https://ua.korrespondent.net/ukraine/4931898-pid-poltavoui-atakovano-enerhoobiekt-ye-poraneni)<br>
 15:00 [За один клік і без паперів: FirstCredit та LoanPlus запустили Мультишеринг через Дію](https://ua.korrespondent.net/business/4931112-za-odyn-klik-i-bez-paperiv-FirstCredit-ta-LoanPlus-zapustyly-multysherynh-cherez-diui)<br>
 14:18 [Скільки грошей принесли державі нові ОВДП: деталі аукціону](https://ua.korrespondent.net/business/financial/4931864-skilky-hroshei-prynesly-derzhavi-novi-ovdp-detali-auktsionu)<br>
 14:09 [Фінляндія приєдналася до Фонду підтримки енергетики України](https://ua.korrespondent.net/ukraine/4931860-finliandiia-pryiednalasia-do-fondu-pidtrymky-enerhetyky-ukrainy)<br>
@@ -47,6 +57,10 @@ Previous day: [2026-11-24](./data/2026-11-24.md)
 01:58 [Атаковано Сизранський НПЗ: спалахнула пожежа](https://ua.korrespondent.net/world/russia/4931697-atakovano-syzranskyi-npz-spalakhnula-pozhezha)<br>
 
 ## as.com
+20:25 [Real Madrid – Zalgiris, en directo: Euroliga 2026-27 en vivo hoy](https://as.com/baloncesto/euroliga/real-madrid-zalgiris-en-directo-euroliga-2026-27-en-vivo-hoy-f202611-d/)<br>
+20:16 [Chus Mateo: “Estos chicos son superhéroes”](https://as.com/baloncesto/mas_baloncesto/chus-mateo-estos-chicos-son-superheroes-f202611-n/)<br>
+19:56 [El Barça fuerza la salida de Sekulic de la selección eslovena](https://as.com/baloncesto/mas_baloncesto/el-barca-fuerza-la-salida-de-sekulic-de-la-seleccion-eslovena-f202611-n/)<br>
+15:52 [La Selección ya está en Montenegro con cinco Euroligas](https://as.com/baloncesto/la-seleccion-ya-esta-en-montenegro-con-cinco-euroligas-f202611-n/)<br>
 14:37 [DAZN y la FIBA presentan BasketballTV](https://as.com/baloncesto/mas_baloncesto/dazn-y-la-fiba-presentan-basketballtv-f202611-n/)<br>
 14:07 [La revolución de la NBA en Europa empieza en los pabellones](https://as.com/baloncesto/nba/la-revolucion-de-la-nba-en-europa-empieza-en-los-pabellones-f202611-n/)<br>
 09:38 [Lukic deja sin respuesta al Madrid](https://as.com/baloncesto/mas_baloncesto/lukic-deja-sin-respuesta-al-madrid-f202611-n/)<br>
@@ -57,6 +71,23 @@ Previous day: [2026-11-24](./data/2026-11-24.md)
 00:10 [Sekulic confirma que el Barça está buscando un pívot en el mercado](https://as.com/baloncesto/euroliga/sekulic-confirma-que-el-barca-esta-buscando-un-pivot-en-el-mercado-f202611-n/)<br>
 
 ## www.elperiodico.com
+20:29 [Daniel Tugues (Veolia): "La apuesta por la colaboración público-privada es tímida, nos podrían sacar mucho más jugo"](https://www.elperiodico.com/es/economia/20261125/daniel-tugues-veolia-apuesta-colaboracion-136852063)<br>
+20:21 [El Port de Barcelona creará una sociedad para electrificar sus muelles con una inversión de 150 millones de euros](https://www.elperiodico.com/es/barcelona/20261125/port-barcelona-creara-sociedad-electrificar-136852552)<br>
+20:19 [¿Habrá remontada? Veolia pone el agua en el partido](https://www.elperiodico.com/es/economia/20261125/habra-remontada-veolia-pone-agua-136838206)<br>
+19:06 [BBVA abandona la Bolsa de Londres ante la falta de actividad y agrava el éxodo de empresas de la City](https://www.elperiodico.com/es/economia/20261125/bbva-abandona-bolsa-londres-falta-136851475)<br>
+18:42 [El Rock Fest suma 16 bandas a su cartel de 2027: Edguy, Tesla, Tarja Turunen...](https://www.elperiodico.com/es/ocio-y-cultura/20261125/rock-fest-suma-16-bandas-136848482)<br>
+17:50 [Laia Corbella, directora de Mobile World Capital: "Debemos generar un espacio de experimentación tecnológica en Barcelona"](https://www.elperiodico.com/es/tecnologia/20261125/laia-corbella-directora-general-mobile-world-capital-barcelona-mwc-ia-tecnologia-135826235)<br>
+17:35 [Dan Buettner, experto en longevidad: "Las personas que viven 100 años no van al gimnasio pero se mueven cada 20 minutos"](https://www.elperiodico.com/es/salud/20261125/dan-buettner-experto-longevidad-personas-viven-100-anos-gimnasio-dv-136606483)<br>
+17:23 [Los nuevos trenes de Alstom para Rodalies logran al fin su homologación](https://www.elperiodico.com/es/sociedad/20261125/homologados-nuevos-trenes-alstom-red-rodalies-renfe-136846536)<br>
+17:15 [João Marinho Neto (114 años) y los secretos de su longevidad: "Nunca ha sido un hombre de arriesgarse mucho"](https://www.elperiodico.com/es/vida-y-estilo/20261125/hombre-vivo-viejo-mundo-centenario-joao-marinho-dv-136509075)<br>
+17:07 [Un artista convierte en perfume las esencias de Barcelona: "Mi trabajo es desbordar todos los límites"](https://www.elperiodico.com/es/barcelona/20261125/artista-convierte-perfume-esencia-barcelona-trabajo-desbordar-limites-136607788)<br>
+17:05 [Tiempo en Catalunya mañana jueves: el Meteocat alerta de fuertes rachas de viento y nevadas en el Pirineo](https://www.elperiodico.com/es/tiempo/20261125/tiempo-catalunya-hoy-jueves-meteocat-viento-nevadas-pirineo-dv-136840866)<br>
+16:54 [El invierno llega en forma de nieve a distintos puntos del Pirineo.](https://www.elperiodico.com/es/videos/sociedad/invierno-llega-forma-nieve-distintos/136845763.shtml)<br>
+16:49 [Adiós a la flacidez: el secreto de una piel joven a partir de los 40](https://www.elperiodico.com/es/vida-y-estilo/20261125/adios-flacidez-secreto-piel-joven-bc-136845772)<br>
+16:36 [El sérum de noche que promete una piel más luminosa al despertar](https://www.elperiodico.com/es/vida-y-estilo/20261125/serum-noche-promete-piel-luminosa-bc-136845216)<br>
+16:14 [Barceló: "En el prime time de la radio solo hay hombres. No hay mirada feminista ni femenina"](https://www.elperiodico.com/es/videos/usuarios-inicio-sesion/barcelo-prime-time-radio-hay/136844016.shtml)<br>
+16:01 [Nvidia y Anthropic caen un 8% y arrastran al Nasdaq 100, que ya pierde un 20% desde octubre](https://www.elperiodico.com/es/economia/20261125/nvidia-anthropic-vuelven-hundirse-8-136843668)<br>
+15:34 [Muere a los 67 años Miki Espuma, el genio musical de La Fura dels Baus: "Era un creador atrevido, lanzado y todoterreno"](https://www.elperiodico.com/es/ocio-y-cultura/20261125/fallece-67-anos-miki-espuma-136842256)<br>
 15:11 [La directora del CNI advierte del peligro de la IA: “Una herramienta muy poderosa para quienes quieren atacarnos”](https://www.elperiodico.com/es/politica/20261125/directora-cni-advierte-peligro-ia-inteligencia-artificial-ataques-136841170)<br>
 15:10 [La NBA invertirá 10.000 millones de euros para construir pabellones de la NBA Europe](https://www.elperiodico.com/es/deportes/20261125/nba-invertira-10-000-millones-136840931)<br>
 15:00 [Los Reyes y el presidente austriaco descubren cómo el arte construyó "el poder femenino" de Mariana de Austria, la reina del espejo de 'Las meninas'](https://www.elperiodico.com/es/politica/20261125/reyes-presidente-austriaco-mariana-de-austria-poder-femenino-museo-prado-136840778)<br>
