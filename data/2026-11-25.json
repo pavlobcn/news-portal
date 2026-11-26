@@ -216,6 +216,15 @@
     "topic_match_probability": 58
   },
   {
+    "title": "Збиття дрона. Лазерна зброя України",
+    "link": "https://ua.korrespondent.net/ukraine/4932017-zbyttia-drona-lazerna-zbroia-ukrainy",
+    "pubDate": "2026-11-25 21:56:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4654337.jpg\">Блиск розробила та експлуатує компанія Carmine Sky — один із найбільших приватних операторів ППО в Україні.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Cierre judicial, avivamiento político",
     "link": "https://www.elperiodico.com/es/opinion/20261125/cierre-judicial-avivamiento-politico-amnistia-puigdemont-editorial-136858153",
     "pubDate": "2026-11-25 21:51:01",
@@ -540,6 +549,15 @@
     "topic_match_probability": 100
   },
   {
+    "title": "Resultados Euroliga, jornada 14: horarios, TV, partidos y clasificación",
+    "link": "https://as.com/baloncesto/euroliga/resultados-euroliga-jornada-14-horarios-tv-partidos-y-clasificacion-f202611-n/",
+    "pubDate": "2026-11-25 20:02:29",
+    "category": "Baloncesto",
+    "description": "Euroliga 2026-27: resultados de los partidos y clasificación de la temporada en su jornada 14. Real Madrid, Barcelona, Baskonia, Valencia Basket…",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Став відомий склад українських біатлоністів на першу гонку сезону",
     "link": "https://ua.korrespondent.net/sport/4931971-stav-vidomyi-sklad-ukrainskykh-biatlonistiv-na-pershu-honku-sezonu",
     "pubDate": "2026-11-25 20:02:00",
@@ -729,6 +747,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Вторгнення Росії в Україну. Онлайн",
+    "link": "https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain",
+    "pubDate": "2026-11-25 18:23:00",
+    "category": "Новини політики",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/2748609.jpg\">Володимир Путін почав повномасштабну війну проти України 24 лютого 2022 року. Не зумівши \"взяти Київ за три дні\", він сконцентрувався на захопленні Донбасу та південних областей України.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
     "title": "З Польщі та Чехії екстрадували організаторів схеми для ухилянтів",
     "link": "https://ua.korrespondent.net/ukraine/4931937-z-polschi-ta-chekhii-ekstraduvaly-orhanizatoriv-skhemy-dlia-ukhyliantiv",
     "pubDate": "2026-11-25 18:21:00",
@@ -898,6 +925,15 @@
     "description": "<h2 class=\"item\">El modelo de los futuros 72 convoyes para la red ferroviaria catalana ha recibido el visto bueno de las agencias de seguridad ferroviaria y se prevé que entren en servicio a principios de 2027</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260327/problemas-nuevos-trenes-rodalies-alstom-retrasa-entrega-tres-meses-128455119\">Piezas mal colocadas y problemas en las pruebas, razones del retraso en la entrega de los nuevos trenes de Rodalies de Alstom</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20251110/catalunya-apuesta-trenes-100-alstom-deriva-200-metros-stadler-madrid-123480176\">Catalunya apuesta por los trenes de 100 metros de Alstom y deriva los de 200 metros de Stadler a Madrid</a></h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Війна на Близькому Сході. Онлайн",
+    "link": "https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain",
+    "pubDate": "2026-11-25 17:22:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473659.jpg\">США та Ізраїль проводять масштабну операцію проти Ірану. Тегеран у відповідь атакує військові об'єкти США майже у всіх країнах Перської затоки.",
+    "topic": "політика",
+    "topic_match_probability": 90
   },
   {
     "title": "El 25N obliga a los partidos a incluir la violencia de género en la agenda electoral",
