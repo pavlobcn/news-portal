@@ -1,8 +1,12 @@
-# News for 2026-11-26 12:36
+# News for 2026-11-26 13:15
 
 Previous day: [2026-11-25](./data/2026-11-25.md)
 
 ## ua.korrespondent.net
+13:11 [Окупований Крим повністю залишився без світла](https://ua.korrespondent.net/ukraine/4932190-okupovanyi-krym-povnistui-zalyshyvsia-bez-svitla)<br>
+13:01 [Росія скинула авіабомби на Слов’янськ, є загиблий](https://ua.korrespondent.net/ukraine/4932180-rosiia-skynula-aviabomby-na-sloviansk-ye-zahyblyi)<br>
+12:55 [У Німеччині затримали двох іноземців, які готували напад на синагогу](https://ua.korrespondent.net/world/4932184-u-nimechchyni-zatrymaly-dvokh-inozemtsiv-yaki-hotuvaly-napad-na-synahohu)<br>
+12:43 [На Запоріжжі загинули четверо поліцейських-слідчих](https://ua.korrespondent.net/city/zaporozhye/4932178-na-zaporizhzhi-zahynuly-chetvero-politseiskykh-slidchykh)<br>
 11:31 [Померла легендарна модель Верушка](https://ua.korrespondent.net/lifestyle/4932124-pomerla-lehendarna-model-verushka)<br>
 11:06 [У МОН розповіли, яким може бути НМТ у 2027 році](https://ua.korrespondent.net/ukraine/4932143-u-mon-rozpovily-yakym-mozhe-buty-nmt-u-2027-rotsi)<br>
 11:04 [Долар та євро втрачають позиції в обмінниках](https://ua.korrespondent.net/business/financial/4932142-dolar-ta-yevro-vtrachauit-pozytsii-v-obminnykakh)<br>
@@ -24,11 +28,17 @@ Previous day: [2026-11-25](./data/2026-11-25.md)
 08:22 [Montenegro, donde comenzó todo](https://as.com/baloncesto/mas_baloncesto/montenegro-donde-comenzo-todo-f202611-n/)<br>
 
 ## www.elperiodico.com
+13:14 [Juan José Tamarit, internista, desmonta el mito de los beneficios del alcohol: "Una copa de vino no nos va a hacer vivir más"](https://www.elperiodico.com/es/sanidad/20261126/juan-jose-tamarit-internista-desmonta-mito-beneficios-alcohol-copa-vino-vivir-mas-136876102)<br>
+13:00 [Susanna Griso (57 años), sobre su rincón preferido en Catalunya: "Tiene playas muy cercanas con unas calas pequeñas y maravillosas por descubrir"](https://www.elperiodico.com/es/catalunya/20261126/susanna-griso-refugio-costa-brava-cataluna-dv-loc-135892892)<br>
+12:59 [Los derribos en Guardamar (Alicante) reavivan la preocupación por los poblados marítimos de Castellón](https://www.elperiodico.com/es/sociedad/20261126/derribos-guardamar-alicante-reavivan-preocupacion-poblados-maritimos-castellon-136866160)<br>
+12:43 [Nieve en el Pallars Sobirà y la Val d'Aran](https://www.elperiodico.com/es/fotos/sociedad/nieve-pallars-sobira-val-daran-fotos-136876421)<br>
+12:41 [El precio del euríbor hoy, 26 de noviembre: segunda alegría consecutiva de esta semana si tienes una hipoteca](https://www.elperiodico.com/es/economia/20261126/precio-euribor-hoy-26-noviembre-dv-136876140)<br>
 12:35 [Crítica de 'Oro sin ley': Un relato de supervivencia física y emocional en plena Gran Depresión estadounidense](https://www.elperiodico.com/es/ocio-y-cultura/20261126/critica-oro-sin-ley-pelicula-136874024)<br>
 12:34 [Un nuevo tipo de parásito intestinal se expande por España y causa numerosos brotes de infecciones gastrointestinales vinculados al agua](https://www.elperiodico.com/es/sanidad/20261126/nuevo-tipo-parasito-intestinal-expande-espana-causa-numerosos-brotes-infecciones-gastrointestinales-136874133)<br>
 12:32 [Curro Romero recibe el alta tras casi una semana en el hospital](https://www.elperiodico.com/es/gente/20261126/curro-romero-recibe-alta-semana-136866110)<br>
 12:28 [¿Qué implica el nivel 2 del Plan Marítimo Nacional activado tras el naufragio del 'Med Emre' frente a Ibiza?](https://www.elperiodico.com/es/sociedad/20261126/plan-maritimo-nivel-2-naufragio-ibiza-136875632)<br>
 12:25 [Thomson Go Cast 152: innovador dispositivo con Google TV, 4K y 32 GB que convierte el televisor en una Smart TV](https://www.elperiodico.com/es/tecnologia/20261126/thomson-go-cast-152-precio-136872209)<br>
+12:23 [Detectan las primeras manchas de combustible en el mar tras el accidente del buque cargado de gasoil frente a Ibiza](https://www.elperiodico.com/es/sociedad/20261126/irisaciones-mar-buque-hundido-ibiza-136875350)<br>
 12:17 [Desalojada preventivamente la estación de Vilanova i la Geltrú y un tren por la presencia de una maleta sospechosa](https://www.elperiodico.com/es/videos/sociedad/desalojada-preventivamente-estacion-vilanova-geltru-tren-maleta-sospechosa-video/136874526.shtml)<br>
 12:15 [Sebastián La Rosa, experto en longevidad: "Estamos más dispuestos a cuidar a otros que a cuidarnos a nosotros mismos"](https://www.elperiodico.com/es/vida-y-estilo/20261126/sebastian-rosa-experto-longevidad-cuidar-otros-nosotros-dv-136625879)<br>
 12:05 [Quim Gutiérrez (45 años), actor, sobre Barcelona: "Hay muchas zonas que ya no pertenecen a los barceloneses"](https://www.elperiodico.com/es/barcelona/20261126/quim-gutierrez-actor-barcelona-infancia-adolescencia-dv-loc-136655464)<br>
