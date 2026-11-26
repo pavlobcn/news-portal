@@ -1,8 +1,24 @@
-# News for 2026-11-26 16:06
+# News for 2026-11-26 21:30
 
 Previous day: [2026-11-25](./data/2026-11-25.md)
 
 ## ua.korrespondent.net
+20:45 [Кібератаки за допомогою ШІ: Швейцарія б’є на сполох](https://ua.korrespondent.net/tech/technews/4932338-kiberataky-za-dopomohoui-shi-shveitsariia-bie-na-spolokh)<br>
+20:11 [Росіяни просунулися до Куп’янська](https://ua.korrespondent.net/ukraine/4932335-rosiiany-prosunulysia-do-kupianska)<br>
+19:57 [Богдан Кротевич очолить бригаду морської піхоти - ЗМІ](https://ua.korrespondent.net/ukraine/4932329-bohdan-krotevych-ocholyt-bryhadu-morskoi-pikhoty-zmi)<br>
+19:43 [До 10 років ув’язнення: у Німеччині викрили шпигуна ФСБ](https://ua.korrespondent.net/world/4932317-do-10-rokiv-uviaznennia-u-nimechchyni-vykryly-shpyhuna-fsb)<br>
+18:07 [На Кубані палає НПЗ після атаки дронів](https://ua.korrespondent.net/ukraine/4932309-na-kubani-palaie-npz-pislia-ataky-droniv)<br>
+17:59 [Майже за 10 км від фронту: ЗСУ розгромили базу росіян](https://ua.korrespondent.net/ukraine/4932306-maizhe-za-10-km-vid-frontu-zsu-rozghromyly-bazu-rosiian)<br>
+17:42 [Фінляндія готує масштабне переозброєння сухопутних військ](https://ua.korrespondent.net/world/4932300-finliandiia-hotuie-masshtabne-pereozbroiennia-sukhoputnykh-viisk)<br>
+17:31 [Польща отримала ще два винищувачі F-35](https://ua.korrespondent.net/world/4932299-polscha-otrymala-sche-dva-vynyschuvachi-F-35)<br>
+17:28 [У Харкові вбили майора ЗСУ, кілера затримали](https://ua.korrespondent.net/city/kharkov/4932295-u-kharkovi-vbyly-maiora-zsu-kilera-zatrymaly)<br>
+17:12 [Іран атакував дронами Кувейт: є поранені](https://ua.korrespondent.net/world/4932291-iran-atakuvav-dronamy-kuveit-ye-poraneni)<br>
+17:10 [Куди подіти мільйони тонн зерна: аграріям передали важливу допомогу](https://ua.korrespondent.net/business/4932288-kudy-podity-miliony-tonn-zerna-ahrariiam-peredaly-vazhlyvu-dopomohu)<br>
+16:58 [У Держдумі РФ визнали колапс "русского мира"](https://ua.korrespondent.net/world/russia/4932284-u-derzhdumi-rf-vyznaly-kolaps-russkoho-myra)<br>
+16:50 [Сирський допоможе Норвегії посилити оборону кордону з Росією](https://ua.korrespondent.net/ukraine/4932281-syrskyi-dopomozhe-norvehii-posylyty-oboronu-kordonu-z-rosiieui)<br>
+16:25 [У Житомирі засудили жінку, яка під виглядом кур'єра готувала теракт](https://ua.korrespondent.net/ukraine/4932273-u-zhytomyri-zasudyly-zhinku-yaka-pid-vyhliadom-kuriera-hotuvala-terakt)<br>
+16:25 [У полон ЗСУ потрапили двоє завербованих Росією грузинів](https://ua.korrespondent.net/ukraine/4932272-u-polon-zsu-potrapyly-dvoie-zaverbovanykh-rosiieui-hruzyniv)<br>
+16:10 [Посівна в Україні: чому навесні аграрії змінять пріоритети](https://ua.korrespondent.net/business/4932267-posivna-v-ukraini-chomu-navesni-ahrarii-zminiat-priorytety)<br>
 15:54 [У Метінвесті оцінили вплив квот ЄС на експорт української сталі](https://ua.korrespondent.net/business/companies/4932260-u-metinvesti-otsinyly-vplyv-kvot-yes-na-eksport-ukrainskoi-stali)<br>
 15:24 [Україна отримала від Світового банку $450 млн](https://ua.korrespondent.net/business/financial/4932250-ukraina-otrymala-vid-svitovoho-banku-450-mln)<br>
 15:22 [Рейси скасовано: відомий авіаперевізник заговорив про банкрутство](https://ua.korrespondent.net/business/companies/4932248-reisy-skasovano-vidomyi-aviapereviznyk-zahovoryv-pro-bankrutstvo)<br>
@@ -33,6 +49,8 @@ Previous day: [2026-11-25](./data/2026-11-25.md)
 00:39 [Балістичні удари по Києву: число поранених зросло](https://ua.korrespondent.net/city/kiev/4932020-balistychni-udary-po-kyievu-chyslo-poranenykh-zroslo)<br>
 
 ## as.com
+20:56 [Montenegro - España, Ventanas FIBA resumen y resultado (62-93)](https://as.com/baloncesto/mas_baloncesto/montenegro-espana-en-directo-ventanas-fiba-en-vivo-hoy-f202611-d/)<br>
+20:46 [Un pasito más cerca del Mundial](https://as.com/baloncesto/mas_baloncesto/un-pasito-mas-cerca-del-mundial-f202611-n/)<br>
 15:41 [Ataman reclama a Biberovic como turco de pleno derecho](https://as.com/baloncesto/mas_baloncesto/ataman-reclama-a-biberovic-como-turco-de-pleno-derecho-f202611-n/)<br>
 13:59 [Montenegro - España: horario, TV, cómo y dónde ver las Ventanas FIBA del Mundial 2027](https://as.com/baloncesto/mas_baloncesto/montenegro-espana-horario-tv-como-y-donde-ver-las-ventanas-fiba-del-mundial-2027-f202611-n/)<br>
 11:45 [Laporta aboga por la continuidad de la Euroliga sin cerrar la puerta a la NBA](https://as.com/baloncesto/euroliga/laporta-aboga-por-la-continuidad-de-la-euroliga-sin-cerrar-la-puerta-a-la-nba-f202611-n/)<br>
@@ -41,6 +59,23 @@ Previous day: [2026-11-25](./data/2026-11-25.md)
 08:22 [Montenegro, donde comenzó todo](https://as.com/baloncesto/mas_baloncesto/montenegro-donde-comenzo-todo-f202611-n/)<br>
 
 ## www.elperiodico.com
+20:53 [Desaparece la mancha de contaminación del buque volcado entre València e Ibiza y un equipo de buceo inspeccionará el barco mañana](https://www.elperiodico.com/es/sociedad/20261126/desaparece-mancha-contaminacion-buque-volcado-valencia-ibiza-136899255)<br>
+20:11 [La tumba de Matthew Perry ya no tiene la referencia a ‘Friends’](https://www.elperiodico.com/es/ocio-y-cultura/20261126/tumba-matthew-perry-referencia-friends-136895709)<br>
+19:49 [Khloé Kardashian se plantea casarse con un hombre gay tras 5 años sin mantener relaciones sexuales](https://www.elperiodico.com/es/gente/20261126/khloe-kardashian-plantea-casarse-hombre-136895049)<br>
+19:41 [La organización benéfica en memoria de Lady Di respaldada por Guillermo y Enrique entra en concurso de acreedores](https://www.elperiodico.com/es/gente/20261126/organizacion-benefica-memoria-lady-di-136894791)<br>
+19:30 [María Zurita, incapaz de ocultar su preocupación en su última visita a la infanta Margarita en el hospital](https://www.elperiodico.com/es/gente/20261126/maria-zurita-incapaz-ocultar-preocupacion-136894475)<br>
+19:04 [Una aldea abandonada de Girona, con varias masías, a la venta por el precio "rebajado" de 465.000 euros](https://www.elperiodico.com/es/sociedad/20261126/aldea-masias-girona-venta-precio-rebajado-136892614)<br>
+18:41 [Disfunción eréctil: los hombres en Catalunya tardan cuatro años en pedir ayuda, uno más que en Madrid](https://www.elperiodico.com/es/sanidad/20261126/hombres-catalunya-tardan-cuatro-anos-ayuda-disfuncion-erectil-madrid-tres-136892333)<br>
+18:00 [Quentin Tarantino escribe, David Fincher dirige y Brad Pitt se divierte](https://www.elperiodico.com/es/ocio-y-cultura/20261126/quentin-tarantino-escribe-david-fincher-136867520)<br>
+18:00 [El humanoide Max y una maldición china](https://www.elperiodico.com/es/economia/20261126/humanoide-max-maldicion-china-136887031)<br>
+17:47 [La llegada de más de mil menores en noviembre fuerza la reapertura de seis centros de acogida en Canarias](https://www.elperiodico.com/es/sociedad/20261126/llegada-mil-menores-noviembre-fuerza-136891197)<br>
+17:46 [Furias del infierno](https://www.elperiodico.com/es/opinion/20261126/furias-infierno-papa-francisco-136890347)<br>
+17:30 [Los 10 síntomas que debemos vigilar en nuestros hijos, según la psicología: "Si en casa hay silencio, ahí es cuando hay que echar un vistazo"](https://www.elperiodico.com/es/ser-feliz/20261126/psicologia-nino-feliz-infancia-javier-de-haro-psicologo-dv-136423566)<br>
+17:23 [Tiempo en Catalunya mañana viernes: ambiente soleado y descenso de las temperaturas](https://www.elperiodico.com/es/tiempo/20261126/tiempo-catalunya-hoy-viernes-sol-meteocat-dv-136887561)<br>
+17:04 [El escultor Timothy Schmalz visita en Barcelona su obra dedicada a personas sin hogar: "De todos los retratos de Jesús, este es el mejor"](https://www.elperiodico.com/es/barcelona/20261126/escultor-timothy-schmalz-visita-barcelona-sinhogar-136876931)<br>
+16:57 [El Col·legi d'Arquitectes de Catalunya se opone al traslado del mural de Miró de la Terminal 2 del Aeropuerto del Prat: "Es un riesgo para la integridad de la obra"](https://www.elperiodico.com/es/ocio-y-cultura/20261126/collegi-darquitectes-catalunya-opone-traslado-136886623)<br>
+16:53 [Assumpta Serna, actriz: "Debería haber un Pacto de Estado sobre la dependencia, como con la violencia machista"](https://www.elperiodico.com/es/sociedad/20261126/assumpta-serna-pacto-estado-dependencia-violencia-machista-cornella-136881318)<br>
+16:17 [La escuela Paco Candel de L'Hospitalet abandona los barracones tras 15 años: "Es emocionante"](https://www.elperiodico.com/es/barcelona/20261126/escuela-paco-candel-lhospitalet-abandona-barracones-tras-15-anos-emocionante-136880287)<br>
 16:01 [Encendido de las luces de Navidad en Barcelona, en directo: horario, ambiente en Passeig de Gràcia y última hora del espectáculo](https://www.elperiodico.com/es/barcelona/20261126/encendido-luces-navidad-barcelona-directo-horario-ambiente-passeig-de-gracia-ultima-hora-espectaculo-136876770)<br>
 16:00 [Currículum, habilidad política y la crisis de deuda: las claves del ascenso de Hernández de Cos al BCE](https://www.elperiodico.com/es/economia/20261126/curriculum-habilidad-politica-crisis-deuda-136886717)<br>
 15:54 [El recibo de la luz dispara el coste para los clientes de parar fábricas como ‘salvavidas’ del sistema eléctrico](https://www.elperiodico.com/es/economia/20261126/precio-luz-recibo-luz-coste-industria-paradas-fabricas-srad-136886449)<br>
