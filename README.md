@@ -1,8 +1,9 @@
-# News for 2026-11-26 21:30
+# News for 2026-11-26 22:37
 
 Previous day: [2026-11-25](./data/2026-11-25.md)
 
 ## ua.korrespondent.net
+21:36 [Лондонське метро паралізував страйк](https://ua.korrespondent.net/world/4932349-londonske-metro-paralizuvav-straik)<br>
 20:45 [Кібератаки за допомогою ШІ: Швейцарія б’є на сполох](https://ua.korrespondent.net/tech/technews/4932338-kiberataky-za-dopomohoui-shi-shveitsariia-bie-na-spolokh)<br>
 20:11 [Росіяни просунулися до Куп’янська](https://ua.korrespondent.net/ukraine/4932335-rosiiany-prosunulysia-do-kupianska)<br>
 19:57 [Богдан Кротевич очолить бригаду морської піхоти - ЗМІ](https://ua.korrespondent.net/ukraine/4932329-bohdan-krotevych-ocholyt-bryhadu-morskoi-pikhoty-zmi)<br>
@@ -49,6 +50,8 @@ Previous day: [2026-11-25](./data/2026-11-25.md)
 00:39 [Балістичні удари по Києву: число поранених зросло](https://ua.korrespondent.net/city/kiev/4932020-balistychni-udary-po-kyievu-chyslo-poranenykh-zroslo)<br>
 
 ## as.com
+21:59 [Las cuentas de España para estar en el Mundial](https://as.com/baloncesto/mas_baloncesto/las-cuentas-de-espana-para-estar-en-el-mundial-f202611-n/)<br>
+21:35 [“El partido ante Grecia será una final”](https://as.com/baloncesto/mas_baloncesto/el-partido-ante-grecia-sera-una-final-f202611-n/)<br>
 20:56 [Montenegro - España, Ventanas FIBA resumen y resultado (62-93)](https://as.com/baloncesto/mas_baloncesto/montenegro-espana-en-directo-ventanas-fiba-en-vivo-hoy-f202611-d/)<br>
 20:46 [Un pasito más cerca del Mundial](https://as.com/baloncesto/mas_baloncesto/un-pasito-mas-cerca-del-mundial-f202611-n/)<br>
 15:41 [Ataman reclama a Biberovic como turco de pleno derecho](https://as.com/baloncesto/mas_baloncesto/ataman-reclama-a-biberovic-como-turco-de-pleno-derecho-f202611-n/)<br>
@@ -59,6 +62,10 @@ Previous day: [2026-11-25](./data/2026-11-25.md)
 08:22 [Montenegro, donde comenzó todo](https://as.com/baloncesto/mas_baloncesto/montenegro-donde-comenzo-todo-f202611-n/)<br>
 
 ## www.elperiodico.com
+21:59 [Amancio Ortega compra el edificio de la mayor tienda de Zara en Portugal](https://www.elperiodico.com/es/economia/20261126/amancio-ortega-compra-edificio-zara-rossio-lisboa-136901495)<br>
+21:44 [¿Qué es un tanque de lastre? El sistema que podría explicar el vuelco del buque frente a Ibiza](https://www.elperiodico.com/es/sociedad/20261126/que-es-tanque-lastre-barco-como-funciona-vuelco-buque-ibiza-136900478)<br>
+21:42 [Las luces de Navidad en plaza Catalunya se retrasarán durante días tras el estreno de la iluminación en la ciudad](https://www.elperiodico.com/es/barcelona/20261126/luces-navidad-plaza-catalunya-retrasaran-dias-estreno-iluminacion-136893188)<br>
+21:35 [El invierno 2026-2027 en Catalunya, bajo el efecto "indirecto" del vórtice polar y el fenómeno del ‘Superniño’](https://www.elperiodico.com/es/sociedad/20261126/sera-invierno-2026-2027-cataluna-vortice-polar-supernino-lluvias-frio-136899634)<br>
 20:53 [Desaparece la mancha de contaminación del buque volcado entre València e Ibiza y un equipo de buceo inspeccionará el barco mañana](https://www.elperiodico.com/es/sociedad/20261126/desaparece-mancha-contaminacion-buque-volcado-valencia-ibiza-136899255)<br>
 20:11 [La tumba de Matthew Perry ya no tiene la referencia a ‘Friends’](https://www.elperiodico.com/es/ocio-y-cultura/20261126/tumba-matthew-perry-referencia-friends-136895709)<br>
 19:49 [Khloé Kardashian se plantea casarse con un hombre gay tras 5 años sin mantener relaciones sexuales](https://www.elperiodico.com/es/gente/20261126/khloe-kardashian-plantea-casarse-hombre-136895049)<br>

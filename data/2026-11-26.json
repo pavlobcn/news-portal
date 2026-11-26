@@ -1,10 +1,181 @@
 [
   {
+    "title": "РФ готує масований удар: Зеленський звернувся до українців",
+    "link": "https://ua.korrespondent.net/ukraine/4932366-rf-hotuie-masovanyi-udar-zelenskyi-zvernuvsia-do-ukraintsiv",
+    "pubDate": "2026-11-26 22:24:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4655932.png\">Україна відповість на кожен удар Росії, а пошкоджене відновить, заявив глава держави, коментуючи інформацію про підготовку масованої атаки.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Ford підготував новий гіперкар для участі в перегонах 24 години Ле-Мана",
+    "link": "https://ua.korrespondent.net/sport/formula/4932364-Ford-pidhotuvav-novyi-hiperkar-dlia-uchasti-v-perehonakh-24-hodyny-le-mana",
+    "pubDate": "2026-11-26 22:08:00",
+    "category": "Новини Формули-1",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4655910.jpg\">Компанія представила новий перегоновий автомобіль найвищого класу, з яким планує повернутися на перегони Ле-Ман.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Hostelería, restaurantes y mascotas se suman al Black Friday",
+    "link": "https://www.elperiodico.com/es/economia/20261126/hosteleria-restaurantes-mascotas-suman-black-136901502",
+    "pubDate": "2026-11-26 22:00:03",
+    "category": "",
+    "description": "<h2>Seis de cada diez gastará dinero en restaurantes y bares y cuatro de cada diez planea adquirir regalos para sus mascotas, priorizando juguetes y comida especial </h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "¿Quién ha ganado el debate electoral a 4? Vota y añade tu comentario sobre Sánchez, Feijóo, Abascal y Colau",
+    "link": "https://www.elperiodico.com/es/politica/20261126/quien-ha-ganado-debate-electoral-a-4-136899643",
+    "pubDate": "2026-11-26 22:00:02",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20261126/debate-electoral-4-ultima-hora-directo-136876261\" target=\"_blank\">Debate electoral a cuatro, en directo | Última hora y frases destacadas de Sánchez, Feijóo, Abascal y Colau</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261126/encuesta-prohibida-elecciones-generales-espana-136676282\" target=\"_blank\">Consulta la encuesta prohibida de las elecciones generales en España</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261124/encuestas-elecciones-generales-espana-sondeos-12274406\" target=\"_blank\">Encuestas de las elecciones generales 2026: así han quedado los sondeos</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Amancio Ortega compra el edificio de la mayor tienda de Zara en Portugal",
+    "link": "https://www.elperiodico.com/es/economia/20261126/amancio-ortega-compra-edificio-zara-rossio-lisboa-136901495",
+    "pubDate": "2026-11-26 21:59:45",
+    "category": "",
+    "description": "<h2>Pontegadea adquiere el inmueble de Rossio, en Lisboa, valorado en 100,7 millones de euros a finales de 2025 </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las cuentas de España para estar en el Mundial",
+    "link": "https://as.com/baloncesto/mas_baloncesto/las-cuentas-de-espana-para-estar-en-el-mundial-f202611-n/",
+    "pubDate": "2026-11-26 21:59:01",
+    "category": "Baloncesto",
+    "description": "La Selección ha dado un paso de gigante para estar en la cita mundialista del año que viene con su victoria en Montenegro.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Сербії призначили дату президентських виборів",
+    "link": "https://ua.korrespondent.net/world/4932357-u-serbii-pryznachyly-datu-prezydentskykh-vyboriv",
+    "pubDate": "2026-11-26 21:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4655840.jpg\">Голосування відбудеться після перемоги представників студентського протестного руху на парламентських виборах, які змінили політичну ситуацію в країні.",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Junts endurece el tono contra Rufián y busca erigirse como la \"voz de Catalunya\" para mantener su representación el 29N",
+    "link": "https://www.elperiodico.com/es/politica/20261126/junts-voto-util-catalunya-criticas-rufian-elecciones-generales-136894982",
+    "pubDate": "2026-11-26 21:51:39",
+    "category": "",
+    "description": "<h2 class=\"item\">Los posconvergentes acusan al candidato republicano de \"paternalismo\" y de actuar con \"superioridad moral\" </h2><h2 class=\"item\"><a>Miriam Nogueras (Junts): \"Si existe una alternativa a un Gobierno del PP y Vox, estamos dispuestos a hablar\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261125/miriam-nogueras-elecciones-generales-equipo-campana-junts-136550530\">Detrás de Miriam Nogueras: un ejército de mujeres y una 'war room' con esencias convergentes</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Фінляндія продовжила обмеження на в’їзд для росіян",
+    "link": "https://ua.korrespondent.net/world/4932351-finliandiia-prodovzhyla-obmezhennia-na-vizd-dlia-rosiian",
+    "pubDate": "2026-11-26 21:47:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4655811.jpg\">Фінляндія продовжує дію закону, який дозволяє обмежувати в’їзд громадян РФ та розгляд заяв про притулок за певних обставин. Обмеження діятимуть до кінця 2028 року.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Rajoy: \"España no puede seguir así\"",
+    "link": "https://www.elperiodico.com/es/politica/20261126/rajoy-espana-seguir-136901152",
+    "pubDate": "2026-11-26 21:44:31",
+    "category": "",
+    "description": "<h2>El expresidente del Gobierno arropa a los candidatos del PP ante 700 personas en Gran Canaria y reivindica la necesidad de recuperar la calidad democrática</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "¿Qué es un tanque de lastre? El sistema que podría explicar el vuelco del buque frente a Ibiza",
+    "link": "https://www.elperiodico.com/es/sociedad/20261126/que-es-tanque-lastre-barco-como-funciona-vuelco-buque-ibiza-136900478",
+    "pubDate": "2026-11-26 21:44:17",
+    "category": "",
+    "description": "<h2 class=\"item\">La entrada masiva de agua en estos depósitos, que permiten regular el peso y la estabilidad de las embarcaciones, es una de las hipótesis que se barajan para explicar el accidente del buque cisterna entre València e Ibiza</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261126/desaparece-mancha-contaminacion-buque-volcado-valencia-ibiza-136899255\">Desaparece la mancha de contaminación del buque volcado entre València e Ibiza y un equipo de buceo inspeccionará el barco mañana</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las luces de Navidad en plaza Catalunya se retrasarán durante días tras el estreno de la iluminación en la ciudad",
+    "link": "https://www.elperiodico.com/es/barcelona/20261126/luces-navidad-plaza-catalunya-retrasaran-dias-estreno-iluminacion-136893188",
+    "pubDate": "2026-11-26 21:42:58",
+    "category": "",
+    "description": "<h2>El Ayuntamiento confirma que la instalación de la plaza todavía no ha comenzado mientras algunos tramos del Paral·lel permanecen sin alumbrado tras el encendido navideño</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20261126/barcelona-enciende-navidad-emotivo-espectaculo-musica-danza-pirotecnia-136885471\" target=\"_blank\">Barcelona enciende la Navidad con un emotivo espectáculo de música, danza y pirotecnia: \"Se me saltaron las lágrimas\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20261126/encendido-luces-navidad-barcelona-directo-horario-ambiente-passeig-de-gracia-ultima-hora-espectaculo-136876770\" target=\"_blank\">Las luces de Navidad ya iluminan Barcelona, última hora en directo: primeras imágenes de las calles y reacciones</a></h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20261117/barcelona-podra-tener-luces-navidad-autor-previstas-plaza-de-catalunya-desalojo-acampada-136528412\" target=\"_blank\">Barcelona podrá tener las luces de Navidad de autor que preveía en la plaza de Catalunya tras el desalojo de la acampada</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Getafe cae en Georgia y se queda sin red en la Conference",
+    "link": "https://www.elperiodico.com/es/deportes/futbol/20261126/getafe-cae-georgia-queda-red-136899443",
+    "pubDate": "2026-11-26 21:40:38",
+    "category": "",
+    "description": "<h2>El conjunto azulón complica sus opciones de clasificación en la Conference League tras una derrota ante el Iberia que agrava la delicada crisis del equipo de Bordalás</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Лондонське метро паралізував страйк",
+    "link": "https://ua.korrespondent.net/world/4932349-londonske-metro-paralizuvav-straik",
+    "pubDate": "2026-11-26 21:36:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4655810.jpg\">Перебої можуть тривати до кінця п’ятниці, а в найближчі місяці на столицю Великої Британії чекають нові акції протесту.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "“El partido ante Grecia será una final”",
+    "link": "https://as.com/baloncesto/mas_baloncesto/el-partido-ante-grecia-sera-una-final-f202611-n/",
+    "pubDate": "2026-11-26 21:35:56",
+    "category": "Selección Española Baloncesto",
+    "description": "Juancho Hernangómez, ala-pívot de la Selección, y Chus Mateo, seleccionador nacional, atendieron a los medios de comunicación tras la victoria en Montenegro.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El invierno 2026-2027 en Catalunya, bajo el efecto \"indirecto\" del vórtice polar y el fenómeno del ‘Superniño’",
+    "link": "https://www.elperiodico.com/es/sociedad/20261126/sera-invierno-2026-2027-cataluna-vortice-polar-supernino-lluvias-frio-136899634",
+    "pubDate": "2026-11-26 21:35:55",
+    "category": "",
+    "description": "<h2>Este fenómeno podría llegar solo \"de forma indirecta\", y los efectos serían mucho menores que los que se producen en Indonesia, Oceanía o América del Sur</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20261126/vortice-polar-supernino-cataluna-tiempo-aemet-meteocat-ultima-hora-directo-136885154\" target=\"_blank\">El vórtice polar y el ‘Superniño’ en Catalunya, en directo | Última hora del tiempo, Aemet, Meteocat y efectos de los fenómenos meteorológicos</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "BYD presenta el SHARK, su primer pick-up híbrido enchufable en España",
+    "link": "https://www.elperiodico.com/es/motor/20261126/byd-presenta-shark-primer-pick-136834423",
+    "pubDate": "2026-11-26 21:30:26",
+    "category": "",
+    "description": "<h2>Cuenta con 436 CV, 675 km combinados y hasta 90 km en modo eléctrico, además de etiqueta 0 </h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
     "title": "El Celta se queda sin margen de error en la Europa League",
     "link": "https://www.elperiodico.com/es/deportes/futbol/20261126/celta-queda-margen-error-europa-136900020",
     "pubDate": "2026-11-26 21:27:34",
     "category": "",
     "description": "<h2>El equipo vigués pierde contra el Bournemouth incapaz de gestionar un gol de ventaja y la expulsión de Diakaté en el primer tiempo. Ya no puede fallar en ninguno de los tres partidos que le restan si quiere seguir adelante</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Шахрайство на мільйони та 65 років ув’язнення: кого екстрадувала Україна",
+    "link": "https://ua.korrespondent.net/ukraine/4932346-shakhraistvo-na-miliony-ta-65-rokiv-uviaznennia-koho-ekstraduvala-ukraina",
+    "pubDate": "2026-11-26 21:25:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4655809.jpg\">Україна передала Німеччині та Туреччині двох іноземців, які перебували в міжнародному розшуку за шахрайство.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Мілан фантастично повернувся в гру в матчі Ліги Європи проти Олімпіакоса",
+    "link": "https://ua.korrespondent.net/sport/football/4932362-milan-fantastychno-povernuvsia-v-hru-v-matchi-lihy-yevropy-proty-olimpiakosa",
+    "pubDate": "2026-11-26 21:25:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4655864.jpg\">Граючи на виїзді, міланська команда, поступаючись у рахунку, змогла досягти фантастичного результату.",
     "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
     "topic_match_probability": 100
   },
