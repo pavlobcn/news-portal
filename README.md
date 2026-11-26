@@ -1,8 +1,9 @@
-# News for 2026-11-26 22:37
+# News for 2026-11-27 00:48
 
 Previous day: [2026-11-25](./data/2026-11-25.md)
 
 ## ua.korrespondent.net
+23:19 [Контейнери не допомогли захистити Новошахтинський НПЗ: з'явилися фото](https://ua.korrespondent.net/ukraine/4932371-konteinery-ne-dopomohly-zakhystyty-novoshakhtynskyi-npz-ziavylysia-foto)<br>
 21:36 [Лондонське метро паралізував страйк](https://ua.korrespondent.net/world/4932349-londonske-metro-paralizuvav-straik)<br>
 20:45 [Кібератаки за допомогою ШІ: Швейцарія б’є на сполох](https://ua.korrespondent.net/tech/technews/4932338-kiberataky-za-dopomohoui-shi-shveitsariia-bie-na-spolokh)<br>
 20:11 [Росіяни просунулися до Куп’янська](https://ua.korrespondent.net/ukraine/4932335-rosiiany-prosunulysia-do-kupianska)<br>
@@ -62,6 +63,7 @@ Previous day: [2026-11-25](./data/2026-11-25.md)
 08:22 [Montenegro, donde comenzó todo](https://as.com/baloncesto/mas_baloncesto/montenegro-donde-comenzo-todo-f202611-n/)<br>
 
 ## www.elperiodico.com
+23:20 [El Jazzsí apuesta fuerte en su reapertura: un manifiesto contra el miedo al error en la voz del Niño de Elche](https://www.elperiodico.com/es/ocio-y-cultura/20261126/jazzsi-reapertura-raval-nino-de-elche-manifiesto-contra-miedo-error-136902864)<br>
 21:59 [Amancio Ortega compra el edificio de la mayor tienda de Zara en Portugal](https://www.elperiodico.com/es/economia/20261126/amancio-ortega-compra-edificio-zara-rossio-lisboa-136901495)<br>
 21:44 [¿Qué es un tanque de lastre? El sistema que podría explicar el vuelco del buque frente a Ibiza](https://www.elperiodico.com/es/sociedad/20261126/que-es-tanque-lastre-barco-como-funciona-vuelco-buque-ibiza-136900478)<br>
 21:42 [Las luces de Navidad en plaza Catalunya se retrasarán durante días tras el estreno de la iluminación en la ciudad](https://www.elperiodico.com/es/barcelona/20261126/luces-navidad-plaza-catalunya-retrasaran-dias-estreno-iluminacion-136893188)<br>
