@@ -1,8 +1,11 @@
-# News for 2026-11-27 16:30
+# News for 2026-11-27 22:42
 
 Previous day: [2026-11-26](./data/2026-11-26.md)
 
 ## ua.korrespondent.net
+21:18 [Вчені знайшли зуб віком 100 000 років, який належить невідомому виду людини](https://ua.korrespondent.net/tech/science/4932705-vcheni-znaishly-zub-vikom-100-000-rokiv-yakyi-nalezhyt-nevidomomu-vydu-luidyny)<br>
+21:07 [Apple оновить дизайн MacBook Air у 2027 році -  Bloomberg](https://ua.korrespondent.net/lifestyle/gadgets/4932702-Apple-onovyt-dyzain-MacBook-Air-u-2027-rotsi-Bloomberg)<br>
+16:55 [Apple відмовилася вмикати 5G на iPhone у Росії](https://ua.korrespondent.net/business/web/4932644-Apple-vidmovylasia-vmykaty-5G-na-iPhone-u-rosii)<br>
 16:22 [Понад $400 млн допомоги: що отримали 20 країн від України](https://ua.korrespondent.net/business/financial/4932632-ponad-400-mln-dopomohy-scho-otrymaly-20-krain-vid-ukrainy)<br>
 16:12 [Тишкевич відверто розповіла про кризу у шлюбі з Томусяком](https://ua.korrespondent.net/lifestyle/4932587-tyshkevych-vidverto-rozpovila-pro-kryzu-u-shluibi-z-tomusiakom)<br>
 16:01 [Найдальший від Землі зонд перестав надсилати наукові дані](https://ua.korrespondent.net/tech/space/4932614-naidalshyi-vid-zemli-zond-perestav-nadsylaty-naukovi-dani)<br>
@@ -54,11 +57,31 @@ Previous day: [2026-11-26](./data/2026-11-26.md)
 00:20 [У Запоріжжі після атаки виникла пожежа](https://ua.korrespondent.net/city/zaporozhye/4932375-u-zaporizhzhi-pislia-ataky-vynykla-pozhezha)<br>
 
 ## as.com
+21:51 [El Madrid no falla y el Barça le ve las orejas al lobo](https://as.com/baloncesto/mas_baloncesto/el-madrid-no-falla-y-el-barca-le-ve-las-orejas-al-lobo-f202611-n/)<br>
+20:34 [Los 18.000 euros del seguro impiden a Musa jugar con Bosnia](https://as.com/baloncesto/mas_baloncesto/los-18000-euros-del-seguro-impiden-a-musa-jugar-con-bosnia-f202611-n/)<br>
+19:12 [Ricky Rubio, nuevo accionista del Joventut](https://as.com/baloncesto/acb/ricky-rubio-nuevo-accionista-del-joventut-f202611-n/)<br>
+17:23 [Resumen del Casademont Zaragoza - Bàsquet Girona de Liga U](https://as.com/baloncesto/videos/sigue-en-directo-el-casademont-zaragoza-basquet-girona-de-liga-u-f202611-v/)<br>
+17:05 [Serbia no se fía y convoca a 10 jugadores de la Euroliga](https://as.com/baloncesto/mas_baloncesto/serbia-no-se-fia-y-convoca-a-10-jugadores-de-la-euroliga-f202611-n/)<br>
+13:29 [Aprobado el cambio de propiedad del Asisa Joventut](https://as.com/baloncesto/aprobado-el-cambio-de-propiedad-del-asisa-joventut-f202611-n/)<br>
 12:38 [Nadir Hifi rechaza al Olympiacos](https://as.com/baloncesto/nadir-hifi-rechaza-al-olympiacos-f202611-n/)<br>
 08:20 [Dolor, lágrimas, agotamiento... La actuación para el recuerdo de Shengelia](https://as.com/baloncesto/mas_baloncesto/dolor-lagrimas-agotamiento-la-actuacion-para-el-recuerdo-de-shengelia-f202611-n/)<br>
 07:29 [Un Team USA imposible de reconocer](https://as.com/baloncesto/mas_baloncesto/un-team-usa-imposible-de-reconocer-f202611-n/)<br>
 
 ## www.elperiodico.com
+21:55 [La psicóloga y ensayista Sara Berbel recibe el Premio José Luis Giménez-Frontín](https://www.elperiodico.com/es/ocio-y-cultura/20261127/sara-berbel-recibe-premio-136939304)<br>
+21:03 [Puig compra el 75% de Artessence, la dueña de Parfums de Marly e Initio, por 1.200 millones](https://www.elperiodico.com/es/economia/20261127/puig-compra-75-aressence-duena-parfums-de-marly-initio-parfums-prives-1-200-millones-136944894)<br>
+20:09 [El hundimiento del terreno amenaza a 20 megaciudades costeras de África](https://www.elperiodico.com/es/ciencia/20261127/hundimiento-terreno-amenaza-20-megaciudades-136941976)<br>
+20:00 [Keanu Reeves aprovecha su viaje a España para visitar por sorpresa un museo de arte de primera división](https://www.elperiodico.com/es/ocio-y-cultura/20261127/keanu-reeves-aprovecha-viaje-espana-136932296)<br>
+18:55 [Dos jóvenes escalan sin protección la Torre Glòries de Barcelona](https://www.elperiodico.com/es/videos/barcelona/jovenes-escalan-proteccion-torre-glories/136939565.shtml)<br>
+18:52 [Tiempo en Catalunya mañana sábado: llega una fuerte inversión térmica al territorio](https://www.elperiodico.com/es/tiempo/20261127/tiempo-cataluna-barcelona-hoy-sabado-28-de-noviembre-temperatura-inversion-termica-dv-loc-136936642)<br>
+18:25 [El sherpa y el alpinista](https://www.elperiodico.com/es/opinion/20261127/sherpa-alpinista-traductores-136937853)<br>
+18:23 [La Seguridad del Estado prevé un 2027 duro en ciberataques: “No viene el lobo, viene una manada de lobos”](https://www.elperiodico.com/es/politica/20261127/seguridad-preve-2027-duro-ciberataques-136938227)<br>
+18:04 [Vídeo | Dos jóvenes escalan la Torre Glòries de Barcelona sin protección](https://www.elperiodico.com/es/barcelona/20261127/jovenes-escalan-torre-glories-barcelona-136937028)<br>
+18:00 [Los 'Culos' de Amparito Sebastiá: de exposición efímera a movimiento reivindicativo](https://www.elperiodico.com/es/ocio-y-cultura/20261127/culos-amparito-sebastia-exposicion-valencia-136847471)<br>
+17:25 [La enésima incidencia en la infraestructura de la R4  de Rodalies provoca retrasos de casi una hora por cuarto día consecutivo](https://www.elperiodico.com/es/sociedad/20261127/enesima-incidencia-infraestructura-r4-rodalies-renfe-retrasos-una-hora-semana-cuarto-dia-consecutivo-136933926)<br>
+17:00 [Los cascos valencianos que utiliza Mamdani, el alcalde de Nueva York, para promocionar el Citi Bike de la ciudad](https://www.elperiodico.com/es/gente/20261127/cascos-valencianos-utiliza-mamdani-alcalde-nueva-york-136847393)<br>
+16:45 [La Generalitat refuerza las líneas de bus M4 y M9 entre el Baix Llobregat y el Vallès con más expediciones](https://www.elperiodico.com/es/barcelona/20261127/generalitat-refuerza-autobuses-m4-m9-olesa-abrera-martorell-terrassa-136932678)<br>
+16:23 [Descubre cuánto cobrarás de pensión en 2027 | CALCULADORA](https://www.elperiodico.com/es/economia/20261127/calculadora-subida-pension-2027-136932299)<br>
 16:17 [María Zurita, tras el alta hospitalaria de su madre, la infanta Margarita: "Es un titán"](https://www.elperiodico.com/es/gente/20261127/maria-zurita-alta-hospitalaria-madre-136932456)<br>
 16:00 [El castillo templario de Catalunya que ha entrado en la lista roja de patrimonio por su estado de "ruina casi total"](https://www.elperiodico.com/es/sociedad/20261127/castillo-templario-catalunya-ruina-136919384)<br>
 15:54 [El Park Güell cierra varios caminos por obras de mejora hasta marzo de 2027](https://www.elperiodico.com/es/barcelona/20261127/park-guell-cierra-caminos-obras-136930713)<br>
