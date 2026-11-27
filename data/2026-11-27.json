@@ -1,5 +1,59 @@
 [
   {
+    "title": "La cetrería une a europeos y saudíes en el Festival de Halconería Rey Abdulaziz",
+    "link": "https://www.elperiodico.com/es/sociedad/20261127/cetreria-une-europeos-saudies-festival-bc-136900693",
+    "pubDate": "2026-11-27 23:59:36",
+    "category": "",
+    "description": "<h2>La edición de 2026 del festival se celebra hasta el próximo 30 de noviembre en Malham, al norte de la región de Riad</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "OpenAI подала зустрічний позов проти Apple",
+    "link": "https://ua.korrespondent.net/business/companies/4932723-OpenAI-podala-zustrichnyi-pozov-proty-Apple",
+    "pubDate": "2026-11-27 23:53:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4657706.jpg\">Apple звинуватила OpenAI у викраденні комерційної таємниці, після чого отримала зустрічний позов із звинуваченням у недобросовісній діловій практиці.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La portada de EL PERIÓDICO del 28 de noviembre de 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20261127/portada-periodico-28-noviembre-2026-136948751",
+    "pubDate": "2026-11-27 23:35:05",
+    "category": "",
+    "description": "",
+    "topic": "portada de EL PERIÓDICO",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Eslovenia pierde y el Mundial peligra para Doncic",
+    "link": "https://as.com/baloncesto/mas_baloncesto/eslovenia-pierde-y-el-mundial-peligra-para-doncic-f202611-n/",
+    "pubDate": "2026-11-27 23:32:26",
+    "category": "Baloncesto",
+    "description": "La derrota ante la Finlandia del azulgrana Nkamhoua (19+6+6) manda a la cuarta plaza a los eslovenos, que de acabar así se quedarían sin billete para Qatar 2027.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росія протягом дня поранила 13 людей на Харківщині",
+    "link": "https://ua.korrespondent.net/ukraine/4932721-rosiia-protiahom-dnia-poranyla-13-luidei-na-kharkivschyni",
+    "pubDate": "2026-11-27 23:25:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4657681.jpg\">Серед постраждалих - троє дітей віком від трьох до 16 років, які разом з сімома дорослими були травмовані через удар по житлових будинках у селищі Пісочин.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Сибіга обговорив з генсеком Ради Європи Спецтрибунал для Росії",
+    "link": "https://ua.korrespondent.net/ukraine/4932717-sybiha-obhovoryv-z-hensekom-rady-yevropy-spetstrybunal-dlia-rosii",
+    "pubDate": "2026-11-27 22:51:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4657638.jpg\">Напередодні роковин Голодомору політики погодилися, що злочини не повинні залишатися без покарання.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "El Leganés de Morata y el Sabadell se estancan con un empate sin goles",
     "link": "https://www.elperiodico.com/es/deportes/20261127/leganes-morata-sabadell-estancan-empate-136947933",
     "pubDate": "2026-11-27 22:35:46",
@@ -135,6 +189,15 @@
     "topic_match_probability": 90
   },
   {
+    "title": "Abascal acusa a Sánchez de \"provocar la muerte\" en la dana en su cierre de campaña en València",
+    "link": "https://www.elperiodico.com/es/politica/20261127/abascal-dice-sanchez-provocado-muerte-136946105",
+    "pubDate": "2026-11-27 21:23:26",
+    "category": "",
+    "description": "<h2>Vox abarrota la Plaza de Toros con más de 14.000 personas que corean al unísono “Pedro Sánchez, hijo de puta”</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Вчені знайшли зуб віком 100 000 років, який належить невідомому виду людини",
     "link": "https://ua.korrespondent.net/tech/science/4932705-vcheni-znaishly-zub-vikom-100-000-rokiv-yakyi-nalezhyt-nevidomomu-vydu-luidyny",
     "pubDate": "2026-11-27 21:18:00",
@@ -151,6 +214,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4657521.jpg\">Володимир Зеленський підтвердив Джорджі Мелоні, що українська операція зі знищення російських військових суден біля берегів Лівії відбулася без попередньої координації з європейськими партнерами",
     "topic": "політика",
     "topic_match_probability": 90
+  },
+  {
+    "title": "Alberto Núñez Feijóo cierra la campaña en Sevilla pidiendo apoyo en la izquierda: \"Préstanos tu voto para volver a la honestidad\"",
+    "link": "https://www.elperiodico.com/es/politica/20261127/feijoo-pone-campana-electoral-acto-136939578",
+    "pubDate": "2026-11-27 21:10:00",
+    "category": "",
+    "description": "<h2>El candidato del PP a la Presidencia del Gobierno ha cerrado su campaña en el histórico bastión socialista reivindicando el cambio político y subrayando la \"gestión\" como eje fundamental de su proyecto para España</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
   },
   {
     "title": "Apple оновить дизайн MacBook Air у 2027 році -  Bloomberg",
