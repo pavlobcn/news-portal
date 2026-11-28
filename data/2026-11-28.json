@@ -1,5 +1,95 @@
 [
   {
+    "title": "Підсумки 27.11: Нові атаки і причини катастрофи",
+    "link": "https://ua.korrespondent.net/ukraine/4932650-pidsumky-2711-novi-ataky-i-prychyny-katastrofy",
+    "pubDate": "2026-11-28 05:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4658080.jpg\">Польща оприлюднила причини катастрофи літака Качинського; Україна повторно атакувала два нафтові об'єкти Росії. Кореспондент.net виділяє головні події вчорашнього дня.",
+    "topic": "підсумки (за попередній день, наприклад)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Трамп опублікував своє фото в образі героя \"Хрещеного батька\"",
+    "link": "https://ua.korrespondent.net/world/4932744-tramp-opublikuvav-svoie-foto-v-obrazi-heroia-khreschenoho-batka",
+    "pubDate": "2026-11-28 05:28:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4658039.jpg\">На зображенні Трамп у смокінгу з метеликом тримає великий червоний штамп із написом \"VETO\". Колаж підписаний \"Veto Corleone\".",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "El soldado de Chus Mateo",
+    "link": "https://as.com/baloncesto/mas_baloncesto/el-soldado-de-chus-mateo-f202611-n/",
+    "pubDate": "2026-11-28 05:27:56",
+    "category": "Baloncesto",
+    "description": "Pierre Oriola (34 años y 2,08 m) vive una segunda etapa maravillosa con la Selección. El pívot cuajó un partido sobresaliente ante Montenegro.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Control de esfuerzos en la Selección",
+    "link": "https://as.com/baloncesto/mas_baloncesto/control-de-esfuerzos-en-la-seleccion-f202611-n/",
+    "pubDate": "2026-11-28 05:27:20",
+    "category": "Baloncesto",
+    "description": "Ninguno de los cinco Euroligas que jugó frente a Montenegro llegó a los 20 minutos. “No hemos querido cargar a nadie”, aseguró el seleccionador Chus Mateo.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Демократи планють обмежити політику Трампа",
+    "link": "https://ua.korrespondent.net/world/4932742-demokraty-planuit-obmezhyty-polityku-trampa",
+    "pubDate": "2026-11-28 04:58:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4658017.jpg\">Конгрес може ухвалити законодавство, яке зобов’язуватиме адміністрацію підтримувати Україну та Тайвань.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Las escritoras lo han ganado todo este otoño",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20261128/escritoras-han-ganado-otono-136829416",
+    "pubDate": "2026-11-28 04:50:21",
+    "category": "",
+    "description": "<h2>Tras muchos años de ostracismo femenino en la literatura, bastante superado, pero no olvidado, hemos llegado a una época en la que ningún jurado duda de la fuerza de la narrativa escrita por mujeres</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Gioconda Belli: \"Estamos exilados de la realidad que conocíamos\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20261128/gioconda-belli-entrevista-premio-fil-feria-guadalajara-136678040",
+    "pubDate": "2026-11-28 04:50:21",
+    "category": "",
+    "description": "<h2>La escritora nicaragüense recibe hoy el Premio FIL de Literatura en Lenguas Romances 2026 en la Feria del Libro de Guadalajara (México)</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La desaparición",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20261128/desaparicion-136764701",
+    "pubDate": "2026-11-28 04:50:21",
+    "category": "",
+    "description": "<h2>He fingido que no tenía nada que ver con mi dolor, pero todo lo que escribo está atravesado por la muerte de mi padre</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La revolución de la esperanza",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20261128/revolucion-esperanza-136760400",
+    "pubDate": "2026-11-28 04:50:20",
+    "category": "",
+    "description": "<h2>Cuando el mundo parece haber perdido toda cordura, desde muy dispares confines del planeta, las mentes más lúcidas claman al unísono a favor de la esperanza como motor de la revolución pendiente, urgente y necesaria</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Проєкт заводу Rheinmetall в Україні на межі згортання",
+    "link": "https://ua.korrespondent.net/business/companies/4932740-proiekt-zavodu-Rheinmetall-v-ukraini-na-mezhi-zghortannia",
+    "pubDate": "2026-11-28 04:28:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4657996.jpg\">Генеральний директор концерну заявив, що українці намагаються виробляти все самостійно. За його словами, країна нині випускає понад мільйон артилерійських снарядів на рік.",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
     "title": "В Ізраїлі затягується формування нового уряду",
     "link": "https://ua.korrespondent.net/world/4932738-v-izraili-zatiahuietsia-formuvannia-novoho-uriadu",
     "pubDate": "2026-11-28 03:55:00",
