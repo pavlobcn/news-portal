@@ -1,8 +1,13 @@
-# News for 2026-11-28 13:19
+# News for 2026-11-28 15:05
 
 Previous day: [2026-11-27](./data/2026-11-27.md)
 
 ## ua.korrespondent.net
+14:40 [В Австрії знову затримали двох українців за підозрою у шпигунстві](https://ua.korrespondent.net/world/4932819-v-avstrii-znovu-zatrymaly-dvokh-ukraintsiv-za-pidozroui-u-shpyhunstvi)<br>
+13:39 [Кубок NBA: відомі учасники чвертьфіналів](https://ua.korrespondent.net/sport/basketball/4932809-kubok-NBA-vidomi-uchasnyky-chvertfinaliv)<br>
+13:26 [Державі повернули Жовтневий палац у Києві](https://ua.korrespondent.net/city/kiev/4932800-derzhavi-povernuly-zhovtnevyi-palats-u-kyievi)<br>
+13:24 [Кубок NBA: ЮТА програла з 18 очками Михайлюка](https://ua.korrespondent.net/sport/basketball/4932807-kubok-NBA-yuta-prohrala-z-18-ochkamy-mykhailuika)<br>
+13:16 [Росіяни атакували критичну інфраструктуру Києва](https://ua.korrespondent.net/city/kiev/4932804-rosiiany-atakuvaly-krytychnu-infrastrukturu-kyieva)<br>
 12:49 [Для удару по Кримському мосту застосували ізраїльську систему HiSKY - ЗМІ](https://ua.korrespondent.net/world/4932798-dlia-udaru-po-krymskomu-mostu-zastosuvaly-izrailsku-systemu-HiSKY-zmi)<br>
 12:27 [Удар по Слов’янську: загинули десять осіб](https://ua.korrespondent.net/ukraine/4932795-udar-po-sloviansku-zahynuly-desiat-osib)<br>
 11:56 [У Німеччині посилили охорону виробника дронів для ЗСУ](https://ua.korrespondent.net/business/companies/4932793-u-nimechchyni-posylyly-okhoronu-vyrobnyka-droniv-dlia-zsu)<br>
@@ -27,12 +32,19 @@ Previous day: [2026-11-27](./data/2026-11-27.md)
 00:52 [США атакували судно в Оманській затоці, яке намагалося прорвати блокаду](https://ua.korrespondent.net/world/4932727-ssha-atakuvaly-sudno-v-omanskii-zatotsi-yake-namahalosia-prorvaty-blokadu)<br>
 
 ## as.com
+13:59 [Doncic, más desquiciado que nunca: una trifulca con un aficionado y 12 triples fallados](https://as.com/videos/asi-desquicio-wembanyama-a-doncic-12-triples-fallados-y-trifulca-final-con-un-aficionado-de-los-spurs-f202611-v/)<br>
 12:27 [“El Madrid me daba más dinero que el Barça, llamé a mi representante y le dije que no”](https://as.com/baloncesto/acb/el-madrid-me-daba-mas-dinero-que-el-barca-llame-a-mi-representante-y-le-dije-que-no-f202611-n/)<br>
 10:34 [Andrés Feliz acaricia el Mundial](https://as.com/baloncesto/mas_baloncesto/andres-feliz-acaricia-el-mundial-f202611-n/)<br>
 05:27 [El soldado de Chus Mateo](https://as.com/baloncesto/mas_baloncesto/el-soldado-de-chus-mateo-f202611-n/)<br>
 05:27 [Control de esfuerzos en la Selección](https://as.com/baloncesto/mas_baloncesto/control-de-esfuerzos-en-la-seleccion-f202611-n/)<br>
 
 ## www.elperiodico.com
+14:55 [Muere en Xàtiva a los 48 años Francisco Domínguez, conocido empresario, exconcejal del PP y destacado fallero](https://www.elperiodico.com/es/economia/20261128/muere-francisco-dominguez-48-anos-empresario-exconcejal-pp-136959105)<br>
+14:45 [Géiser en la calle Muntaner: las obras de la L8 en Barcelona provocan una gran fuga que ha dejado sin agua a varias fincas](https://www.elperiodico.com/es/barcelona/20261128/fuga-agua-calle-muntaner-barcelona-obras-l8-136958634)<br>
+14:30 [Casi la mitad de los pensionistas en España cobran menos del salario mínimo](https://www.elperiodico.com/es/economia/20261128/pensionistas-espana-pensiones-salario-minimo-136958656)<br>
+14:10 [Mónica Bardem habla como nunca de Penélope Cruz: "Es mejor cuñada que actriz; no hay techo para ella"](https://www.elperiodico.com/es/gente/20261128/monica-hermana-javier-bardem-penelope-cruz-dv-136800208)<br>
+14:00 [Los últimos inquilinos del macrocentro de belleza Alura salen del Dau de Barcelona tras una orden de desahucio](https://www.elperiodico.com/es/barcelona/20261128/inquilinos-macrocentro-belleza-alura-empresa-barcelona-diagonal-136926745)<br>
+14:00 [Dan Buettner, experto en longevidad: "Una de las cosas más importantes que puedes hacer para vivir más es revisar tu círculo de amigos"](https://www.elperiodico.com/es/salud/20261128/dan-buettner-experto-longevidad-circulo-amigos-intimos-dv-136607222)<br>
 13:08 [Las exportaciones de porcino caen 770 millones un año después de la declaración de la PPA en Catalunya](https://www.elperiodico.com/es/economia/20261128/exportaciones-porcino-caen-770-millones-136956390)<br>
 13:06 [El SEPE aclara cuántos días puedes viajar al extranjero si estás cobrando el paro y qué debes hacer para no perder la prestación](https://www.elperiodico.com/es/economia/20261128/sepe-dias-viajar-extranjero-cobrar-paro-dv-136956830)<br>
 13:05 [Vivir en Seúl por 350 euros al mes: el universitario catalán que cumple el sueño de estudiar en Corea del Sur](https://www.elperiodico.com/es/vida-y-estilo/20261128/universitario-catalan-corea-del-sur-alquiler-estudiar-coreano-precio-dv-loc-125522003)<br>
@@ -54,6 +66,7 @@ Previous day: [2026-11-27](./data/2026-11-27.md)
 08:00 [Barcelona quiere saber cómo será la escalinata de la Sagrada Família sobre la calle Mallorca para ajustar la afectación a los vecinos](https://www.elperiodico.com/es/barcelona/20261128/barcelona-quiere-sera-escalinata-sagrada-familia-calle-mallorca-ajustar-afectacion-vecinos-136083750)<br>
 08:00 [Del sexo digital a la crisis de la vivienda: por qué los jóvenes tienen cada vez menos relaciones sexuales](https://www.elperiodico.com/es/sociedad/20261128/jovenes-tienen-menos-relaciones-sexuales-estudio-the-lancet-habitos-sexo-digital-crisis-vivienda-136936564)<br>
 07:01 [El gasto de agua en los hogares de Catalunya regresa a niveles de antes de la sequía](https://www.elperiodico.com/es/barcelona/20261128/gasto-agua-hogares-catalunya-regresa-136859886)<br>
+07:01 [La Generalitat sí subirá el precio del agua de cara a 2027 pero fomentará el ahorro](https://www.elperiodico.com/es/barcelona/20261128/generalitat-subira-precio-agua-cara-136859891)<br>
 06:01 [Alertan del estado "catastrófico" del impresionante castillo de Barcelona construido sobre una roca erosionada](https://www.elperiodico.com/es/sociedad/20261128/castillo-barcelona-roca-deterioro-estado-136921249)<br>
 06:01 [Guerra de Ucrania: el bucle de sangre y drones que paraliza los combates](https://www.elperiodico.com/es/internacional/20261128/guerra-ucrania-bucle-sangre-drones-136940082)<br>
 06:01 [La Audiencia Nacional rechaza incluir el delito de piratería en la causa por el abordaje de Israel a la flotilla de Colau](https://www.elperiodico.com/es/politica/20261128/audiencia-nacional-rechaza-incluir-delito-136938791)<br>
